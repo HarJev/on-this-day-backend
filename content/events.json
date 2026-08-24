@@ -1,0 +1,146 @@
+{
+  "events": [
+    {
+      "id": "battle-of-bosworth-field-1485",
+      "title": "Richard III is defeated at the Battle of Bosworth Field",
+      "year": "1485",
+      "historicalDate": "August 22, 1485",
+      "dateNote": null,
+      "summary": "The battle ended the Wars of the Roses and brought Henry Tudor to the English throne.",
+      "description": "On August 22, 1485, Richard III was killed at the Battle of Bosworth Field, the decisive clash that ended the Wars of the Roses. His defeat allowed Henry Tudor to become Henry VII, beginning the Tudor dynasty and reshaping English politics for generations.",
+      "notificationTitle": "A king died in battle 541 years ago today",
+      "notificationBody": "Richard III's defeat at Bosworth changed England forever.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Battle-of-Bosworth-Field"
+        },
+        {
+          "name": "Historic Royal Palaces",
+          "url": "https://www.hrp.org.uk/tower-of-london/history-and-stories/richard-iii/"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Richard_III_at_the_Battle_of_Bosworth.jpg",
+          "altText": "Richard III on horseback at the Battle of Bosworth Field",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
+          "creator": "Edmund Blair Leighton",
+          "attribution": "Edmund Blair Leighton, Richard III at the Battle of Bosworth Field",
+          "license": "Public Domain Mark 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "loch-ness-monster-columba-565",
+      "title": "Saint Columba reports seeing a monster in Loch Ness",
+      "year": "565",
+      "historicalDate": "August 22, 565",
+      "dateNote": null,
+      "summary": "An early account describes Saint Columba encountering a creature near Loch Ness.",
+      "description": "According to Adomnan of Iona, Saint Columba encountered reports of a dangerous creature near Loch Ness in 565. The story became one of the earliest written accounts connected to the later Loch Ness monster tradition.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Historic UK",
+          "url": "https://www.historic-uk.com/HistoryUK/HistoryofScotland/The-Loch-Ness-Monster/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cook-claims-eastern-australia-1770",
+      "title": "James Cook claims eastern Australia for Britain",
+      "year": "1770",
+      "historicalDate": "August 22, 1770",
+      "dateNote": null,
+      "summary": "James Cook claimed the eastern coast of Australia for Britain as New South Wales.",
+      "description": "On August 22, 1770, James Cook claimed the eastern coast of Australia for Britain, naming it New South Wales. The act became a major step toward British colonization and had lasting consequences for Aboriginal peoples.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of Australia",
+          "url": "https://www.nma.gov.au/defining-moments/resources/cook-claims-australia"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "venice-air-raid-1849",
+      "title": "The first air raid in history is launched against Venice",
+      "year": "1849",
+      "historicalDate": "August 22, 1849",
+      "dateNote": null,
+      "summary": "Austrian forces used unmanned balloons carrying explosives during the siege of Venice.",
+      "description": "During the siege of Venice in 1849, Austrian forces launched unmanned balloons carrying explosives toward the city. The attack is often cited as an early example of aerial bombardment, even though wind and technology made it unreliable.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Smithsonian Magazine",
+          "url": "https://www.smithsonianmag.com/air-space-magazine/bombs-away-35362547/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "korea-annexed-by-japan-1910",
+      "title": "Korea is annexed by Japan",
+      "year": "1910",
+      "historicalDate": "August 22, 1910",
+      "dateNote": null,
+      "summary": "Japan formally annexed Korea after years of expanding political and military control.",
+      "description": "On August 22, 1910, Japan and Korea signed an annexation treaty that brought Korea under Japanese colonial rule. The annexation reshaped the peninsula and remains central to modern Korean and Japanese historical memory.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Korea/Division-of-Korea"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "de-gaulle-assassination-attempt-1962",
+      "title": "An assassination attempt is made on Charles de Gaulle",
+      "year": "1962",
+      "historicalDate": "August 22, 1962",
+      "dateNote": null,
+      "summary": "Gunmen attacked French president Charles de Gaulle near Paris, but he survived.",
+      "description": "On August 22, 1962, members of the OAS attacked Charles de Gaulle's car at Petit-Clamart near Paris. De Gaulle survived, and the failed assassination attempt became one of the most famous episodes of political violence tied to the end of French Algeria.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "History.com",
+          "url": "https://www.history.com/this-day-in-history/de-gaulle-survives-assassination-attempt"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nolan-ryan-5000-strikeouts-1989",
+      "title": "Nolan Ryan records his 5,000th strikeout",
+      "year": "1989",
+      "historicalDate": "August 22, 1989",
+      "dateNote": null,
+      "summary": "Nolan Ryan became the first Major League Baseball pitcher to reach 5,000 strikeouts.",
+      "description": "On August 22, 1989, Nolan Ryan struck out Rickey Henderson to record the 5,000th strikeout of his Major League Baseball career. The milestone strengthened Ryan's reputation as one of the most durable and overpowering pitchers in the sport.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Baseball Hall of Fame",
+          "url": "https://baseballhall.org/discover-more/stories/inside-pitch/nolan-ryan-5000-strikeouts"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "days": [
+    {
+      "month": 8,
+      "day": 22,
+      "featuredEventId": "battle-of-bosworth-field-1485",
+      "additionalEventIds": [
+        "loch-ness-monster-columba-565",
+        "cook-claims-eastern-australia-1770",
+        "venice-air-raid-1849",
+        "korea-annexed-by-japan-1910",
+        "de-gaulle-assassination-attempt-1962",
+        "nolan-ryan-5000-strikeouts-1989"
+      ]
+    }
+  ]
+}

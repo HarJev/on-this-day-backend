@@ -5,11 +5,13 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPEvent;
 import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.onthisday.platform.health.HealthHandler;
+import com.onthisday.content.HistoricalEventRepository;
+import com.onthisday.content.TodayContentRepository;
 import com.onthisday.platform.http.ErrorResponseWriter;
-import com.onthisday.platform.http.HttpMethod;
+import com.onthisday.platform.http.ApiRoutes;
 import com.onthisday.platform.http.HttpRouter;
-import java.util.Map;
+import com.onthisday.platform.runtime.RuntimeApiComposition;
+import java.time.Clock;
 
 public final class ApiGatewayHttpHandler
     implements RequestHandler<APIGatewayV2HTTPEvent, APIGatewayV2HTTPResponse> {
@@ -20,7 +22,14 @@ public final class ApiGatewayHttpHandler
   private final HttpRouter router;
 
   public ApiGatewayHttpHandler() {
-    this(defaultRouter());
+    this(RuntimeApiComposition.createRouterFromEnvironment());
+  }
+
+  public ApiGatewayHttpHandler(
+      TodayContentRepository todayContentRepository,
+      HistoricalEventRepository historicalEventRepository,
+      Clock clock) {
+    this(ApiRoutes.create(todayContentRepository, historicalEventRepository, clock));
   }
 
   ApiGatewayHttpHandler(HttpRouter router) {
@@ -42,11 +51,4 @@ public final class ApiGatewayHttpHandler
     }
   }
 
-  private static HttpRouter defaultRouter() {
-    var objectMapper = new ObjectMapper();
-    return new HttpRouter(
-        Map.of(
-            new HttpRouter.RouteKey(HttpMethod.GET, "/v1/health"),
-            new HealthHandler(objectMapper)));
-  }
 }

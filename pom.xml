@@ -23,6 +23,7 @@
     <junit.version>5.10.3</junit.version>
     <maven.compiler.plugin.version>3.13.0</maven.compiler.plugin.version>
     <maven.enforcer.plugin.version>3.4.1</maven.enforcer.plugin.version>
+    <exec.maven.plugin.version>3.3.0</exec.maven.plugin.version>
     <maven.failsafe.plugin.version>3.2.5</maven.failsafe.plugin.version>
     <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
     <postgresql.version>42.7.4</postgresql.version>
@@ -157,6 +158,15 @@
             <version>${postgresql.version}</version>
           </dependency>
         </dependencies>
+      </plugin>
+
+      <plugin>
+        <groupId>org.codehaus.mojo</groupId>
+        <artifactId>exec-maven-plugin</artifactId>
+        <version>${exec.maven.plugin.version}</version>
+        <configuration>
+          <mainClass>com.onthisday.ingestion.CuratedContentImportCommand</mainClass>
+        </configuration>
       </plugin>
     </plugins>
   </build>

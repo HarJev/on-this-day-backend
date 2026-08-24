@@ -148,6 +148,30 @@ class ContentSchemaIT {
   }
 
   @Test
+  void allowsUpdatingNotificationCopyOnNonFeaturedEvent() {
+    assertDoesNotThrow(
+        () ->
+            inTransaction(
+                connection -> {
+                  insertEvent(connection, "non-featured-copy-updated", false);
+                  insertSource(connection, "non-featured-copy-updated", 1);
+                  insertAdditionalDailyEvent(connection, 2, 3, "non-featured-copy-updated", 2);
+
+                  try (var statement =
+                      connection.prepareStatement(
+                          """
+                          UPDATE historical_event
+                          SET notification_title = NULL,
+                              notification_body = NULL
+                          WHERE event_id = ?
+                          """)) {
+                    statement.setString(1, "non-featured-copy-updated");
+                    statement.executeUpdate();
+                  }
+                }));
+  }
+
+  @Test
   void allowsAdditionalEventsWithOrderedNoImageContent() {
     assertDoesNotThrow(
         () ->

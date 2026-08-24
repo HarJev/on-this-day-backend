@@ -1,0 +1,76 @@
+{
+  "events": [
+    {
+      "id": "Bad ID",
+      "title": " ",
+      "year": "",
+      "historicalDate": null,
+      "dateNote": " ",
+      "summary": "",
+      "description": " ",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [],
+      "images": [
+        {
+          "url": "http://example.com/image.jpg",
+          "altText": "",
+          "source": "",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Example.jpg",
+          "creator": " ",
+          "attribution": "",
+          "license": "",
+          "licenseUrl": "not a url",
+          "primary": true
+        },
+        {
+          "url": "https://example.com/image-2.jpg",
+          "altText": "A second image.",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Example2.jpg",
+          "creator": null,
+          "attribution": "Public domain image via Wikimedia Commons.",
+          "license": "Public Domain Mark 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "Bad ID",
+      "title": "Duplicate bad id event",
+      "year": "1900",
+      "historicalDate": "January 2, 1900",
+      "dateNote": null,
+      "summary": "A summary.",
+      "description": "A description.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Example Source",
+          "url": "https://example.com/source"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "missing-copy-event",
+      "title": "Missing notification copy",
+      "year": "1901",
+      "historicalDate": "January 2, 1901",
+      "dateNote": null,
+      "summary": "A summary.",
+      "description": "A description.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Example Source",
+          "url": "https://example.com/source"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

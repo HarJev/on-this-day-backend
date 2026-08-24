@@ -1,0 +1,13 @@
+{
+  "days": [
+    {
+      "month": 1,
+      "day": 2,
+      "featuredEventId": "featured-event-1900",
+      "additionalEventIds": [
+        "additional-event-1901",
+        "additional-event-1902"
+      ]
+    }
+  ]
+}

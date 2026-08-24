@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": "featured-event-1900",
+      "title": "A featured event happens",
+      "year": "1900",
+      "historicalDate": "January 2, 1900",
+      "dateNote": null,
+      "summary": "A concise summary for the featured event.",
+      "description": "A concise description explaining what happened and why it mattered.",
+      "notificationTitle": "A featured event happened today",
+      "notificationBody": "The featured event changed something important.",
+      "sources": [
+        {
+          "name": "Example Source",
+          "url": "https://example.com/featured-event"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "additional-event-1901",
+      "title": "An additional event happens",
+      "year": "1901",
+      "historicalDate": "January 2, 1901",
+      "dateNote": null,
+      "summary": "A concise summary for an additional event.",
+      "description": "A concise description for an additional event.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Example Source",
+          "url": "https://example.com/additional-event-1901"
+        }
+      ],
+      "images": [
+        {
+          "url": "https://example.com/image.jpg",
+          "altText": "A useful historical image.",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Example.jpg",
+          "creator": "Unknown artist",
+          "attribution": "Public domain image via Wikimedia Commons.",
+          "license": "Public Domain Mark 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "additional-event-1902",
+      "title": "Another additional event happens",
+      "year": "1902",
+      "historicalDate": "January 2, 1902",
+      "dateNote": "Approximate date.",
+      "summary": "A concise summary for another additional event.",
+      "description": "A concise description for another additional event.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Example Source",
+          "url": "https://example.com/additional-event-1902"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -2,9 +2,18 @@
 
 ## Current State
 
-This repository now has a Maven Java bootstrap and platform HTTP/Lambda edge.
-It does not yet have content schema migrations, repositories, content ingestion
-tooling, notification delivery, or deployment infrastructure.
+This repository has a Maven Java bootstrap, platform HTTP/Lambda edge,
+PostgreSQL/Flyway content schema, JDBC content repositories, curated JSON
+validation/import tooling, and the initial content APIs:
+
+```text
+GET /v1/health
+GET /v1/days/today?timezone=Area/Location
+GET /v1/events/{eventId}
+```
+
+It does not yet have device APIs, notification delivery, Terraform/deployment
+infrastructure, or API Gateway deployment wiring.
 
 ## Intended Stack
 
@@ -27,7 +36,7 @@ run tests
 start local PostgreSQL
 apply migrations
 load sample curated content
-serve/test handler behavior locally
+exercise Lambda handler behavior through tests or deployed AWS runtime
 ```
 
 Full AWS emulation is not required for local development. Deployment
@@ -63,11 +72,12 @@ Package intent:
 2. Health handler and basic Lambda/API adapter tests.
 3. Local PostgreSQL with Flyway migrations.
 4. Content schema and repository tests.
-5. Seed content import for at least August 22.
-6. `GET /v1/days/today` and `GET /v1/events/{eventId}`.
-7. Device registration schema and `POST/DELETE /v1/devices`.
-8. Firebase notification service behind an interface/fake.
-9. EventBridge-triggered daily notification job.
+5. Seed content import for at least August 22. Complete for initial content.
+6. `GET /v1/days/today` and `GET /v1/events/{eventId}`. Complete.
+7. Runtime composition for Postgres-backed API handlers. Complete locally.
+8. Device registration schema and `POST/DELETE /v1/devices`.
+9. Firebase notification service behind an interface/fake.
+10. EventBridge-triggered daily notification job.
 
 ## Settled Bootstrap Decisions
 
@@ -149,6 +159,66 @@ mvn flyway:migrate
 The Maven defaults target the Docker Compose database. Override
 `flyway.url`, `flyway.user`, or `flyway.password` with `-D...` properties when
 needed.
+
+## Curated Content Import
+
+Curated content files live in:
+
+```text
+content/events.json
+content/daily-events.json
+```
+
+After local PostgreSQL is running and migrations have been applied, import the
+curated content with:
+
+```sh
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+To import from another content directory containing `events.json` and
+`daily-events.json`, pass the directory as the fourth argument:
+
+```sh
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day /path/to/content"
+```
+
+The importer validates content before writing, treats warnings as non-fatal,
+and imports transactionally and idempotently.
+
+## Runtime Configuration
+
+The no-argument Lambda handler constructor is the real runtime entry path. It
+wires the API through PostgreSQL-backed repositories using these environment
+variables:
+
+```text
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day
+DB_USER=on_this_day
+DB_PASSWORD=on_this_day
+```
+
+For local Docker Compose, the values above match the default database. Production
+or hosted environments should provide their own values through the deployment
+configuration. Secrets Manager/SSM integration is a later deployment phase.
+
+## Local API Data Loop
+
+A complete local data loop is:
+
+```sh
+docker compose up -d postgres
+mvn flyway:migrate
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+mvn test
+```
+
+This repository does not currently include a local HTTP server. Handler and
+routing behavior is exercised through unit and integration tests until deployment
+infrastructure is added.
 
 ## Tests
 

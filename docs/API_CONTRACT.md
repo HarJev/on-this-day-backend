@@ -155,6 +155,7 @@ When present, image objects use:
   "url": "https://example.com/image.jpg",
   "altText": "Readable description of the image.",
   "source": "Wikimedia Commons",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Example.jpg",
   "attribution": "Creator or attribution statement",
   "creator": "Creator name",
   "license": "Public Domain Mark 1.0",

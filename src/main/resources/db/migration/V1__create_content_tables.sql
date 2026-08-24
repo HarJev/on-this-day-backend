@@ -167,35 +167,39 @@ RETURNS TRIGGER
 LANGUAGE plpgsql
 AS $$
 BEGIN
-  IF TG_TABLE_NAME = 'daily_event'
-     AND NEW.role = 'featured'
-     AND EXISTS (
-       SELECT 1
-       FROM historical_event
-       WHERE event_id = NEW.event_id
-         AND notification_title IS NOT NULL
-         AND notification_body IS NOT NULL
-     ) THEN
-    RETURN NULL;
-  END IF;
+  IF TG_TABLE_NAME = 'daily_event' THEN
+    IF NEW.role <> 'featured' THEN
+      RETURN NULL;
+    END IF;
 
-  IF TG_TABLE_NAME = 'daily_event'
-     AND NEW.role = 'featured' THEN
+    IF EXISTS (
+      SELECT 1
+      FROM historical_event
+      WHERE event_id = NEW.event_id
+        AND notification_title IS NOT NULL
+        AND notification_body IS NOT NULL
+    ) THEN
+      RETURN NULL;
+    END IF;
+
     RAISE EXCEPTION 'featured daily_event %/% % must have notification title and body',
       NEW.month, NEW.day, NEW.event_id
       USING ERRCODE = '23514';
   END IF;
 
-  IF TG_TABLE_NAME = 'historical_event'
-     AND EXISTS (
-       SELECT 1
-       FROM daily_event
-       WHERE event_id = NEW.event_id
-         AND role = 'featured'
-     )
-     AND (NEW.notification_title IS NULL OR NEW.notification_body IS NULL) THEN
-    RAISE EXCEPTION 'featured historical_event % must have notification title and body', NEW.event_id
-      USING ERRCODE = '23514';
+  IF TG_TABLE_NAME = 'historical_event' THEN
+    IF EXISTS (
+      SELECT 1
+      FROM daily_event
+      WHERE event_id = NEW.event_id
+        AND role = 'featured'
+    )
+    AND (NEW.notification_title IS NULL OR NEW.notification_body IS NULL) THEN
+      RAISE EXCEPTION 'featured historical_event % must have notification title and body', NEW.event_id
+        USING ERRCODE = '23514';
+    END IF;
+
+    RETURN NULL;
   END IF;
 
   RETURN NULL;

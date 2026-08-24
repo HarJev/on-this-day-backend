@@ -1,0 +1,20 @@
+{
+  "days": [
+    {
+      "month": 2,
+      "day": 30,
+      "featuredEventId": "missing-copy-event",
+      "additionalEventIds": [
+        "missing-copy-event",
+        "unknown-event",
+        "unknown-event"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 30,
+      "featuredEventId": "unknown-featured",
+      "additionalEventIds": []
+    }
+  ]
+}
