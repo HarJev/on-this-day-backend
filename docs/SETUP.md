@@ -198,11 +198,134 @@ variables:
 DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day
 DB_USER=on_this_day
 DB_PASSWORD=on_this_day
+DB_CONNECT_TIMEOUT_SECONDS=5
+DB_SOCKET_TIMEOUT_SECONDS=10
 ```
 
 For local Docker Compose, the values above match the default database. Production
 or hosted environments should provide their own values through the deployment
 configuration. Secrets Manager/SSM integration is a later deployment phase.
+
+`DB_CONNECT_TIMEOUT_SECONDS` defaults to `5`, and
+`DB_SOCKET_TIMEOUT_SECONDS` defaults to `10`.
+
+## Local SAM API
+
+Use AWS SAM local API when Postman or the mobile app needs to call the backend
+over HTTP before real deployment.
+
+This is local SAM only. It does not add deployed API Gateway resources,
+Terraform, or other AWS deployment infrastructure.
+
+First prepare the local database from the host:
+
+```sh
+docker compose up -d postgres
+mvn flyway:migrate
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+Flyway and the content import command run on the host, so they use:
+
+```text
+jdbc:postgresql://localhost:5432/on_this_day
+```
+
+The SAM Lambda runtime runs inside a Docker container. Inside that container,
+`localhost` means the Lambda container itself, not the host machine. The
+recommended SAM local path attaches the Lambda container to the Compose network
+`on-this-day-backend_default`, so `env.sam.compose-network.json` uses:
+
+```text
+jdbc:postgresql://postgres:5432/on_this_day
+```
+
+Keep `env.local.json` as a fallback for `host.docker.internal`.
+
+Package and start the local API on the Docker Compose network:
+
+```sh
+mvn package
+sam build
+sam local start-api \
+  --env-vars ./env.sam.compose-network.json \
+  --warm-containers EAGER \
+  --docker-network on-this-day-backend_default
+```
+
+`--warm-containers EAGER` preloads and reuses the Lambda container, which makes
+the Postman/mobile loop much closer to warm Lambda behavior. Plain
+`sam local start-api` creates fresh containers by default and can be slow enough
+to obscure backend issues during demos.
+
+For verbose SAM runtime diagnostics, start with:
+
+```sh
+sam local start-api \
+  --env-vars ./env.sam.compose-network.json \
+  --warm-containers EAGER \
+  --docker-network on-this-day-backend_default \
+  --debug
+```
+
+To smoke-test the Lambda handler directly without the local HTTP server, run:
+
+```sh
+sam local invoke OnThisDayApiFunction \
+  --env-vars ./env.sam.compose-network.json \
+  --docker-network on-this-day-backend_default \
+  --event src/test/resources/sam/health-event.json
+
+sam local invoke OnThisDayApiFunction \
+  --env-vars ./env.sam.compose-network.json \
+  --docker-network on-this-day-backend_default \
+  --event src/test/resources/sam/today-event.json
+```
+
+The local API exposes:
+
+```text
+http://127.0.0.1:3000/v1/health
+http://127.0.0.1:3000/v1/days/today?timezone=America/Jamaica
+http://127.0.0.1:3000/v1/events/battle-of-bosworth-field-1485
+```
+
+Terminal smoke checks:
+
+```sh
+curl -i http://127.0.0.1:3000/v1/health
+curl -i 'http://127.0.0.1:3000/v1/days/today?timezone=America/Jamaica'
+curl -i http://127.0.0.1:3000/v1/events/battle-of-bosworth-field-1485
+```
+
+Troubleshooting:
+
+- Health can work even if the database is unreachable because it does not open a
+  Postgres connection. It proves Lambda/SAM routing, not DB connectivity.
+- Today and event detail endpoints require Postgres plus imported curated
+  content.
+- A timeout from a content endpoint usually means Postgres is not running or SAM
+  was not started with `--docker-network on-this-day-backend_default`.
+- Host-side Flyway/import commands use `localhost`; the SAM Lambda container
+  uses `postgres` on the Compose network or `host.docker.internal` with the
+  fallback env file.
+- To test database reachability from a container, run:
+
+```sh
+docker run --rm postgres:16-alpine \
+  pg_isready -h host.docker.internal -p 5432 -U on_this_day -d on_this_day
+```
+
+When testing from the Compose network, use:
+
+```sh
+docker run --rm --network on-this-day-backend_default postgres:16-alpine \
+  pg_isready -h postgres -p 5432 -U on_this_day -d on_this_day
+```
+
+- Runtime database timeout env vars are `DB_CONNECT_TIMEOUT_SECONDS` and
+  `DB_SOCKET_TIMEOUT_SECONDS`.
 
 ## Local API Data Loop
 
@@ -216,9 +339,9 @@ mvn exec:java \
 mvn test
 ```
 
-This repository does not currently include a local HTTP server. Handler and
-routing behavior is exercised through unit and integration tests until deployment
-infrastructure is added.
+For HTTP testing, continue with `mvn package`, `sam build`, and the
+`sam local start-api` command with warm containers and the Compose Docker
+network.
 
 ## Tests
 

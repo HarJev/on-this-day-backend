@@ -10,6 +10,9 @@ public final class PostgresDataSourceFactory {
     dataSource.setUrl(config.jdbcUrl());
     dataSource.setUser(config.user());
     dataSource.setPassword(config.password());
+    dataSource.setConnectTimeout(config.connectTimeoutSeconds());
+    dataSource.setLoginTimeout(config.connectTimeoutSeconds());
+    dataSource.setSocketTimeout(config.socketTimeoutSeconds());
     return dataSource;
   }
 }

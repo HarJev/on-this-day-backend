@@ -141,6 +141,810 @@
         }
       ],
       "images": []
+    },
+    {
+      "id": "vesuvius-erupts-79",
+      "title": "Mount Vesuvius erupts, burying Pompeii and Herculaneum",
+      "year": "79",
+      "historicalDate": "August 24, 79",
+      "dateNote": "August 24 is the traditional date; some scholarship argues for a later autumn date.",
+      "summary": "The eruption buried Roman communities around the Bay of Naples under ash and volcanic debris.",
+      "description": "The eruption of Mount Vesuvius devastated Pompeii, Herculaneum, and nearby Roman settlements. The disaster preserved buildings, inscriptions, and everyday objects that later became an extraordinary record of ancient urban life.",
+      "notificationTitle": "A Roman city disappeared under ash",
+      "notificationBody": "Vesuvius buried Pompeii and preserved a startling window into ancient life.",
+      "sources": [
+        {
+          "name": "UNESCO World Heritage Centre",
+          "url": "https://whc.unesco.org/en/list/829/"
+        },
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Pompeii"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "st-bartholomews-day-massacre-begins-1572",
+      "title": "The St. Bartholomew's Day Massacre begins",
+      "year": "1572",
+      "historicalDate": "August 24, 1572",
+      "dateNote": null,
+      "summary": "Violence against French Huguenots began in Paris and spread through parts of France.",
+      "description": "On August 24, 1572, killings of Huguenot Protestants began in Paris after the marriage celebrations of Henry of Navarre and Margaret of Valois. The massacre became one of the most notorious episodes of the French Wars of Religion.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/event/Massacre-of-Saint-Bartholomews-Day"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "british-burn-washington-1814",
+      "title": "British forces burn Washington, D.C.",
+      "year": "1814",
+      "historicalDate": "August 24, 1814",
+      "dateNote": null,
+      "summary": "British troops entered Washington during the War of 1812 and set fire to public buildings.",
+      "description": "After defeating American forces at Bladensburg, British troops entered Washington, D.C., on August 24, 1814. They burned major public buildings, including the Capitol and the President's House, leaving a powerful symbol of the War of 1812.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service",
+          "url": "https://www.nps.gov/articles/burning-of-washington.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-cordoba-signed-1821",
+      "title": "The Treaty of Cordoba recognizes Mexican independence",
+      "year": "1821",
+      "historicalDate": "August 24, 1821",
+      "dateNote": null,
+      "summary": "The treaty affirmed Mexico's independence after years of war against Spanish rule.",
+      "description": "On August 24, 1821, Agustin de Iturbide and Juan O'Donoju signed the Treaty of Cordoba. The agreement accepted the Plan of Iguala and marked a decisive diplomatic step toward independent Mexico.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Mexico/Independence"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nato-treaty-enters-force-1949",
+      "title": "The North Atlantic Treaty enters into force",
+      "year": "1949",
+      "historicalDate": "August 24, 1949",
+      "dateNote": null,
+      "summary": "The treaty creating NATO entered into force after ratification by the founding members.",
+      "description": "The North Atlantic Treaty entered into force on August 24, 1949, formally establishing the alliance's collective defense framework. NATO became a defining institution of the Cold War and later European security.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NATO",
+          "url": "https://www.nato.int/cps/en/natohq/official_texts_17120.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ukraine-declares-independence-1991",
+      "title": "Ukraine declares independence from the Soviet Union",
+      "year": "1991",
+      "historicalDate": "August 24, 1991",
+      "dateNote": null,
+      "summary": "Ukraine's parliament adopted an act declaring the country independent.",
+      "description": "On August 24, 1991, Ukraine's parliament declared independence as the Soviet Union was collapsing. The decision was later confirmed by a nationwide referendum and became the basis for modern Ukrainian statehood.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Ukraine/Independent-Ukraine"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "pluto-reclassified-dwarf-planet-2006",
+      "title": "Pluto is reclassified as a dwarf planet",
+      "year": "2006",
+      "historicalDate": "August 24, 2006",
+      "dateNote": null,
+      "summary": "Astronomers adopted a new planet definition that placed Pluto in the dwarf planet category.",
+      "description": "On August 24, 2006, the International Astronomical Union adopted a definition of planet that excluded Pluto from the list of major planets. The decision reshaped public discussion of astronomy and the outer solar system.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "International Astronomical Union",
+          "url": "https://www.iau.org/news/pressreleases/detail/iau0603/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "liberation-of-paris-1944",
+      "title": "Paris is liberated from German occupation",
+      "year": "1944",
+      "historicalDate": "August 25, 1944",
+      "dateNote": null,
+      "summary": "French and Allied forces liberated Paris after four years of German occupation.",
+      "description": "On August 25, 1944, German forces in Paris surrendered as French and Allied troops entered the city. The liberation became a major symbolic moment in the final year of the Second World War in Europe.",
+      "notificationTitle": "Paris was liberated today in 1944",
+      "notificationBody": "French and Allied forces ended four years of German occupation in the city.",
+      "sources": [
+        {
+          "name": "Imperial War Museums",
+          "url": "https://www.iwm.org.uk/history/how-paris-was-liberated-in-1944"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "galileo-demonstrates-telescope-1609",
+      "title": "Galileo demonstrates his telescope in Venice",
+      "year": "1609",
+      "historicalDate": "August 25, 1609",
+      "dateNote": null,
+      "summary": "Galileo showed Venetian officials an improved telescope that could magnify distant objects.",
+      "description": "On August 25, 1609, Galileo Galilei demonstrated his telescope to Venetian leaders. The instrument soon transformed astronomy by revealing mountains on the Moon, moons around Jupiter, and other evidence that challenged older cosmology.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Museo Galileo",
+          "url": "https://catalogue.museogalileo.it/biography/GalileoGalilei.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "uruguay-declares-independence-1825",
+      "title": "Uruguay declares independence",
+      "year": "1825",
+      "historicalDate": "August 25, 1825",
+      "dateNote": null,
+      "summary": "Delegates in Florida declared independence from Brazil and union with the United Provinces.",
+      "description": "On August 25, 1825, an assembly in Florida declared the independence of the territory that became Uruguay. The act was part of a regional struggle involving Brazil, Argentina, and local leaders in the Banda Oriental.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Uruguay/History"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "national-park-service-established-1916",
+      "title": "The National Park Service is established",
+      "year": "1916",
+      "historicalDate": "August 25, 1916",
+      "dateNote": null,
+      "summary": "President Woodrow Wilson signed the act creating the U.S. National Park Service.",
+      "description": "On August 25, 1916, President Woodrow Wilson signed legislation creating the National Park Service. The agency was charged with conserving national parks and making them available for public enjoyment.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service",
+          "url": "https://www.nps.gov/subjects/npscelebrates/august-25-1916.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "voyager-2-neptune-flyby-1989",
+      "title": "Voyager 2 makes its closest approach to Neptune",
+      "year": "1989",
+      "historicalDate": "August 25, 1989",
+      "dateNote": null,
+      "summary": "NASA's Voyager 2 became the first spacecraft to visit Neptune.",
+      "description": "On August 25, 1989, Voyager 2 flew past Neptune, giving scientists their first close look at the planet, its rings, and its moon Triton. The flyby completed Voyager 2's grand tour of the outer planets.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/mission/voyager/voyager-2/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hurricane-harvey-landfall-2017",
+      "title": "Hurricane Harvey makes landfall in Texas",
+      "year": "2017",
+      "historicalDate": "August 25, 2017",
+      "dateNote": null,
+      "summary": "Harvey struck Texas as a major hurricane before producing catastrophic flooding.",
+      "description": "On August 25, 2017, Hurricane Harvey made landfall on the Texas coast. The storm stalled and produced historic rainfall and flooding, becoming one of the costliest natural disasters in U.S. history.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Hurricane Center",
+          "url": "https://www.nhc.noaa.gov/data/tcr/AL092017_Harvey.pdf"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ivan-the-terrible-born-1530",
+      "title": "Ivan the Terrible is born",
+      "year": "1530",
+      "historicalDate": "August 25, 1530",
+      "dateNote": null,
+      "summary": "The future Ivan IV of Russia was born, later becoming the first ruler crowned tsar.",
+      "description": "Ivan IV was born on August 25, 1530. Remembered as Ivan the Terrible, he centralized power, expanded Russian territory, and left a legacy marked by both state-building and extreme violence.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Ivan-the-Terrible"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nineteenth-amendment-certified-1920",
+      "title": "The Nineteenth Amendment is certified",
+      "year": "1920",
+      "historicalDate": "August 26, 1920",
+      "dateNote": null,
+      "summary": "The United States formally certified the constitutional amendment protecting women's voting rights.",
+      "description": "On August 26, 1920, U.S. Secretary of State Bainbridge Colby certified the Nineteenth Amendment. The certification marked a constitutional victory for women's suffrage after decades of organizing and protest.",
+      "notificationTitle": "Women's voting rights entered the Constitution",
+      "notificationBody": "The Nineteenth Amendment was certified after decades of suffrage organizing.",
+      "sources": [
+        {
+          "name": "National Archives",
+          "url": "https://www.archives.gov/milestone-documents/19th-amendment"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-crecy-1346",
+      "title": "English forces win the Battle of Crecy",
+      "year": "1346",
+      "historicalDate": "August 26, 1346",
+      "dateNote": null,
+      "summary": "English longbowmen helped defeat a larger French army during the Hundred Years' War.",
+      "description": "On August 26, 1346, Edward III's English army defeated French forces at Crecy. The battle demonstrated the power of disciplined infantry and longbow tactics against mounted chivalry.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "World History Encyclopedia",
+          "url": "https://www.worldhistory.org/Battle_of_Crecy/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "rights-of-man-approved-1789",
+      "title": "France approves the Declaration of the Rights of Man and of the Citizen",
+      "year": "1789",
+      "historicalDate": "August 26, 1789",
+      "dateNote": null,
+      "summary": "Revolutionary France adopted a statement of civic rights and popular sovereignty.",
+      "description": "On August 26, 1789, France's National Constituent Assembly approved the Declaration of the Rights of Man and of the Citizen. The text became one of the central political documents of the French Revolution.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Conseil constitutionnel",
+          "url": "https://www.conseil-constitutionnel.fr/en/declaration-of-human-and-civic-rights-of-26-august-1789"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "krakatoa-eruption-intensifies-1883",
+      "title": "Krakatoa's eruption enters its catastrophic phase",
+      "year": "1883",
+      "historicalDate": "August 26, 1883",
+      "dateNote": null,
+      "summary": "The Indonesian volcano began the most destructive phase of its 1883 eruption.",
+      "description": "On August 26, 1883, Krakatoa's eruption intensified into a catastrophic sequence that culminated the next day. The eruption and tsunamis killed tens of thousands of people and affected weather and skies around the world.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Smithsonian Global Volcanism Program",
+          "url": "https://volcano.si.edu/volcano.cfm?vn=262000"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-televised-mlb-game-1939",
+      "title": "The first televised Major League Baseball game is broadcast",
+      "year": "1939",
+      "historicalDate": "August 26, 1939",
+      "dateNote": null,
+      "summary": "A Brooklyn Dodgers and Cincinnati Reds doubleheader became MLB's first televised game.",
+      "description": "On August 26, 1939, a Major League Baseball game was televised for the first time when NBC broadcast a Dodgers-Reds doubleheader from Ebbets Field. The experiment pointed toward television's growing role in sports culture.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Baseball Hall of Fame",
+          "url": "https://baseballhall.org/discover-more/stories/inside-pitch/first-televised-game"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "womens-strike-for-equality-1970",
+      "title": "The Women's Strike for Equality is held across the United States",
+      "year": "1970",
+      "historicalDate": "August 26, 1970",
+      "dateNote": null,
+      "summary": "Thousands demonstrated for equal opportunity on the fiftieth anniversary of the Nineteenth Amendment.",
+      "description": "On August 26, 1970, activists held the Women's Strike for Equality in cities across the United States. The demonstrations connected suffrage history to demands for workplace equality, reproductive rights, and broader legal change.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Women's History Museum",
+          "url": "https://www.womenshistory.org/articles/womens-strike-equality"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "john-paul-i-elected-1978",
+      "title": "John Paul I is elected pope",
+      "year": "1978",
+      "historicalDate": "August 26, 1978",
+      "dateNote": null,
+      "summary": "Cardinal Albino Luciani was elected pope and took the name John Paul I.",
+      "description": "On August 26, 1978, Cardinal Albino Luciani was elected pope. His brief papacy lasted only 33 days, but his choice of the name John Paul linked the legacies of John XXIII and Paul VI.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Vatican",
+          "url": "https://www.vatican.va/content/john-paul-i/en/biografia/documents/hf_jp-i_bio_26081978_biografia.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kellogg-briand-pact-signed-1928",
+      "title": "The Kellogg-Briand Pact is signed in Paris",
+      "year": "1928",
+      "historicalDate": "August 27, 1928",
+      "dateNote": null,
+      "summary": "Nations signed a treaty renouncing war as an instrument of national policy.",
+      "description": "On August 27, 1928, the Kellogg-Briand Pact was signed in Paris. Though it failed to prevent future wars, the agreement influenced later international law by framing aggressive war as illegitimate.",
+      "notificationTitle": "A treaty tried to outlaw war",
+      "notificationBody": "The Kellogg-Briand Pact renounced war as national policy in 1928.",
+      "sources": [
+        {
+          "name": "Office of the Historian",
+          "url": "https://history.state.gov/milestones/1921-1936/kellogg"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "drake-oil-well-strikes-oil-1859",
+      "title": "The Drake Well strikes oil in Pennsylvania",
+      "year": "1859",
+      "historicalDate": "August 27, 1859",
+      "dateNote": null,
+      "summary": "Edwin Drake's well near Titusville helped launch the modern petroleum industry.",
+      "description": "On August 27, 1859, Edwin Drake's drilling operation struck oil near Titusville, Pennsylvania. The well became a landmark in the development of commercial petroleum production in the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Drake Well Museum and Park",
+          "url": "https://www.drakewell.org/history/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-long-island-1776",
+      "title": "The Battle of Long Island is fought",
+      "year": "1776",
+      "historicalDate": "August 27, 1776",
+      "dateNote": null,
+      "summary": "British forces defeated George Washington's army in the largest battle of the Revolutionary War.",
+      "description": "On August 27, 1776, British forces defeated the Continental Army at the Battle of Long Island. Washington's later retreat preserved his army, but the defeat exposed the scale of the struggle ahead.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "George Washington's Mount Vernon",
+          "url": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-long-island/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "romania-enters-world-war-i-1916",
+      "title": "Romania enters World War I",
+      "year": "1916",
+      "historicalDate": "August 27, 1916",
+      "dateNote": null,
+      "summary": "Romania joined the Allies and declared war on Austria-Hungary.",
+      "description": "On August 27, 1916, Romania entered World War I on the Allied side. The decision opened a new front but soon brought severe military pressure from the Central Powers.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "International Encyclopedia of the First World War",
+          "url": "https://encyclopedia.1914-1918-online.net/article/romania/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "guinness-book-first-published-1955",
+      "title": "The first Guinness Book of Records is published",
+      "year": "1955",
+      "historicalDate": "August 27, 1955",
+      "dateNote": null,
+      "summary": "A reference book of records appeared in Britain and became a publishing phenomenon.",
+      "description": "On August 27, 1955, the first Guinness Book of Records was published in Britain. Created to settle factual disputes, it became one of the world's best-known reference franchises.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Guinness World Records",
+          "url": "https://www.guinnessworldrecords.com/about-us/our-story"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mars-close-approach-2003",
+      "title": "Mars makes an exceptionally close approach to Earth",
+      "year": "2003",
+      "historicalDate": "August 27, 2003",
+      "dateNote": null,
+      "summary": "Mars came closer to Earth than it had in thousands of years.",
+      "description": "On August 27, 2003, Mars made an unusually close approach to Earth, creating a major observing opportunity for astronomers and the public. NASA missions and telescopes used the period to study the planet in detail.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/solar-system/planets/mars/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "moldova-declares-independence-1991",
+      "title": "Moldova declares independence",
+      "year": "1991",
+      "historicalDate": "August 27, 1991",
+      "dateNote": null,
+      "summary": "Moldova declared independence during the collapse of the Soviet Union.",
+      "description": "On August 27, 1991, Moldova declared independence from the Soviet Union. The declaration placed the country among the new states that emerged as Soviet authority unraveled.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/place/Moldova/History"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lord-mountbatten-assassinated-1979",
+      "title": "Lord Mountbatten is assassinated by an IRA bomb",
+      "year": "1979",
+      "historicalDate": "August 27, 1979",
+      "dateNote": null,
+      "summary": "A bomb aboard Lord Mountbatten's boat killed him and others off the coast of County Sligo.",
+      "description": "On August 27, 1979, an IRA bomb exploded aboard Lord Mountbatten's boat near Mullaghmore, County Sligo. Mountbatten, his grandson Nicholas Knatchbull, and Paul Maxwell were killed, and Lady Brabourne died the following day, intensifying shock around the Troubles.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "RTÉ Archives",
+          "url": "https://www.rte.ie/archives/2014/0827/639649-lord-mountbatten-assassinated/"
+        },
+        {
+          "name": "Margaret Thatcher Foundation",
+          "url": "https://www.margaretthatcher.org/source/prem19/prem19-0013"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "march-on-washington-1963",
+      "title": "The March on Washington brings civil rights demands to the nation's capital",
+      "year": "1963",
+      "historicalDate": "August 28, 1963",
+      "dateNote": null,
+      "summary": "Hundreds of thousands gathered in Washington, D.C., for jobs and civil rights.",
+      "description": "On August 28, 1963, the March on Washington for Jobs and Freedom brought a huge civil rights demonstration to the National Mall. The event amplified demands for federal civil rights legislation and included Martin Luther King Jr.'s 'I Have a Dream' speech.",
+      "notificationTitle": "A march carried civil rights demands to Washington",
+      "notificationBody": "The 1963 March on Washington helped push civil rights into the national center.",
+      "sources": [
+        {
+          "name": "National Archives",
+          "url": "https://www.archives.gov/exhibits/featured-documents/march-on-washington"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "emmett-till-murdered-1955",
+      "title": "Emmett Till is murdered in Mississippi",
+      "year": "1955",
+      "historicalDate": "August 28, 1955",
+      "dateNote": null,
+      "summary": "The killing of fourteen-year-old Emmett Till became a catalyst for the civil rights movement.",
+      "description": "On August 28, 1955, Emmett Till was abducted and murdered in Mississippi. His mother's decision to hold an open-casket funeral forced national attention on racist violence and helped galvanize the civil rights movement.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of African American History and Culture",
+          "url": "https://nmaahc.si.edu/explore/stories/emmett-till"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "goethe-born-1749",
+      "title": "Johann Wolfgang von Goethe is born",
+      "year": "1749",
+      "historicalDate": "August 28, 1749",
+      "dateNote": null,
+      "summary": "The German writer and thinker later became one of Europe's major literary figures.",
+      "description": "Johann Wolfgang von Goethe was born on August 28, 1749. His poetry, drama, fiction, and scientific writings made him a central figure in German literature and European intellectual life.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "scientific-american-first-issue-1845",
+      "title": "Scientific American publishes its first issue",
+      "year": "1845",
+      "historicalDate": "August 28, 1845",
+      "dateNote": null,
+      "summary": "A weekly publication devoted to invention and science began in New York.",
+      "description": "Scientific American published its first issue on August 28, 1845. The magazine grew into a long-running venue for explaining science, technology, and invention to a broad public.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Scientific American",
+          "url": "https://www.scientificamerican.com/page/about-scientific-american/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "toyota-motor-company-founded-1937",
+      "title": "Toyota Motor Company is founded",
+      "year": "1937",
+      "historicalDate": "August 28, 1937",
+      "dateNote": null,
+      "summary": "Toyota Motor Company was established as a separate automobile business.",
+      "description": "On August 28, 1937, Toyota Motor Company was founded as the automobile division separated from Toyoda Automatic Loom Works. The company later became one of the world's largest automakers.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Toyota",
+          "url": "https://global.toyota/en/company/history_of_toyota/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "galileo-discovers-dactyl-1993",
+      "title": "NASA's Galileo spacecraft discovers Dactyl",
+      "year": "1993",
+      "historicalDate": "August 28, 1993",
+      "dateNote": null,
+      "summary": "Galileo imaged a small moon orbiting asteroid Ida.",
+      "description": "On August 28, 1993, NASA's Galileo spacecraft flew past asteroid Ida and photographed Dactyl, the first confirmed moon of an asteroid. The discovery changed scientists' understanding of small bodies in the solar system.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/mission/galileo/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tolstoy-born-1828",
+      "title": "Leo Tolstoy is born",
+      "year": "1828",
+      "historicalDate": "August 28, 1828",
+      "dateNote": "This is the Old Style Julian calendar date; many modern references give September 9, 1828.",
+      "summary": "The Russian novelist later wrote War and Peace and Anna Karenina.",
+      "description": "Leo Tolstoy was born on August 28, 1828, by the Julian calendar then used in Russia. His novels and moral writings made him one of the most influential literary figures of the nineteenth century.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Leo-Tolstoy"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "charles-diana-divorce-finalized-1996",
+      "title": "Prince Charles and Princess Diana's divorce is finalized",
+      "year": "1996",
+      "historicalDate": "August 28, 1996",
+      "dateNote": null,
+      "summary": "The divorce formally ended the fifteen-year marriage of Charles and Diana.",
+      "description": "On August 28, 1996, the divorce of Prince Charles and Diana, Princess of Wales, became final. The end of the marriage reshaped public discussion of the British royal family and Diana's role after leaving the title Her Royal Highness.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "The Royal Family",
+          "url": "https://www.royal.uk/diana-princess-wales"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hurricane-katrina-landfall-2005",
+      "title": "Hurricane Katrina makes landfall on the Gulf Coast",
+      "year": "2005",
+      "historicalDate": "August 29, 2005",
+      "dateNote": null,
+      "summary": "Katrina struck the Gulf Coast and exposed catastrophic levee failures in New Orleans.",
+      "description": "On August 29, 2005, Hurricane Katrina made landfall on the Gulf Coast. The storm surge and levee failures devastated New Orleans and surrounding communities, making Katrina one of the deadliest and costliest disasters in U.S. history.",
+      "notificationTitle": "Katrina made landfall on the Gulf Coast",
+      "notificationBody": "The 2005 hurricane reshaped New Orleans and U.S. disaster policy.",
+      "sources": [
+        {
+          "name": "National Hurricane Center",
+          "url": "https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf"
+        },
+        {
+          "name": "NOAA",
+          "url": "https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes/hurricane-katrina"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-nanking-signed-1842",
+      "title": "The Treaty of Nanking ends the First Opium War",
+      "year": "1842",
+      "historicalDate": "August 29, 1842",
+      "dateNote": null,
+      "summary": "Britain and Qing China signed a treaty that ceded Hong Kong and opened treaty ports.",
+      "description": "On August 29, 1842, Britain and Qing China signed the Treaty of Nanking aboard HMS Cornwallis. The agreement ended the First Opium War and inaugurated a treaty-port system that reshaped China's foreign relations.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Office of the Historian",
+          "url": "https://history.state.gov/milestones/1830-1860/china-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "john-locke-born-1632",
+      "title": "John Locke is born",
+      "year": "1632",
+      "historicalDate": "August 29, 1632",
+      "dateNote": null,
+      "summary": "The English philosopher later became a foundational thinker of liberal political theory.",
+      "description": "John Locke was born on August 29, 1632. His writings on knowledge, government, and natural rights influenced Enlightenment thought and later constitutional politics.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/John-Locke"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "soviet-first-atomic-bomb-test-1949",
+      "title": "The Soviet Union tests its first atomic bomb",
+      "year": "1949",
+      "historicalDate": "August 29, 1949",
+      "dateNote": null,
+      "summary": "The Soviet test ended the United States' monopoly on nuclear weapons.",
+      "description": "On August 29, 1949, the Soviet Union detonated its first atomic bomb at Semipalatinsk. The test accelerated the nuclear arms race and changed the strategic balance of the Cold War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Atomic Heritage Foundation",
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/soviet-atomic-program-1946/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "marine-corps-reserve-established-1916",
+      "title": "The U.S. Marine Corps Reserve is established",
+      "year": "1916",
+      "historicalDate": "August 29, 1916",
+      "dateNote": null,
+      "summary": "Federal legislation created the Marine Corps Reserve during a period of military expansion.",
+      "description": "On August 29, 1916, legislation established the Marine Corps Reserve. The reserve component later became an important part of U.S. military readiness and wartime mobilization.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Marine Corps Forces Reserve",
+          "url": "https://www.marforres.marines.mil/About/History/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "michael-jackson-born-1958",
+      "title": "Michael Jackson is born",
+      "year": "1958",
+      "historicalDate": "August 29, 1958",
+      "dateNote": null,
+      "summary": "The singer and performer later became one of the most commercially successful musicians in history.",
+      "description": "Michael Jackson was born on August 29, 1958, in Gary, Indiana. His work with the Jackson 5 and as a solo artist reshaped pop music, dance, music video, and celebrity culture.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica",
+          "url": "https://www.britannica.com/biography/Michael-Jackson-American-singer-songwriter-and-dancer"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hurricane-ida-landfall-2021",
+      "title": "Hurricane Ida makes landfall in Louisiana",
+      "year": "2021",
+      "historicalDate": "August 29, 2021",
+      "dateNote": null,
+      "summary": "Ida struck Louisiana as a powerful Category 4 hurricane.",
+      "description": "On August 29, 2021, Hurricane Ida made landfall near Port Fourchon, Louisiana. The storm caused destructive winds, flooding, and major power outages across the region before its remnants caused deadly flooding in the Northeast.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Hurricane Center",
+          "url": "https://www.nhc.noaa.gov/data/tcr/AL092021_Ida.pdf"
+        }
+      ],
+      "images": []
     }
   ]
 }

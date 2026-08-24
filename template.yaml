@@ -1,0 +1,41 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Local SAM API for the On This Day backend.
+
+Globals:
+  Function:
+    Runtime: java21
+    Architectures:
+      - arm64
+    MemorySize: 1024
+    Timeout: 30
+
+Resources:
+  OnThisDayApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: .
+      Handler: com.onthisday.platform.lambda.ApiGatewayHttpHandler::handleRequest
+      Environment:
+        Variables:
+          DB_JDBC_URL: ""
+          DB_USER: ""
+          DB_PASSWORD: ""
+          DB_CONNECT_TIMEOUT_SECONDS: "5"
+          DB_SOCKET_TIMEOUT_SECONDS: "10"
+      Events:
+        Health:
+          Type: HttpApi
+          Properties:
+            Path: /v1/health
+            Method: GET
+        Today:
+          Type: HttpApi
+          Properties:
+            Path: /v1/days/today
+            Method: GET
+        EventDetail:
+          Type: HttpApi
+          Properties:
+            Path: /v1/events/{eventId}
+            Method: GET

@@ -12,6 +12,86 @@
         "de-gaulle-assassination-attempt-1962",
         "nolan-ryan-5000-strikeouts-1989"
       ]
+    },
+    {
+      "month": 8,
+      "day": 24,
+      "featuredEventId": "vesuvius-erupts-79",
+      "additionalEventIds": [
+        "st-bartholomews-day-massacre-begins-1572",
+        "british-burn-washington-1814",
+        "treaty-of-cordoba-signed-1821",
+        "nato-treaty-enters-force-1949",
+        "ukraine-declares-independence-1991",
+        "pluto-reclassified-dwarf-planet-2006"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 25,
+      "featuredEventId": "liberation-of-paris-1944",
+      "additionalEventIds": [
+        "galileo-demonstrates-telescope-1609",
+        "uruguay-declares-independence-1825",
+        "national-park-service-established-1916",
+        "voyager-2-neptune-flyby-1989",
+        "hurricane-harvey-landfall-2017",
+        "ivan-the-terrible-born-1530"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 26,
+      "featuredEventId": "nineteenth-amendment-certified-1920",
+      "additionalEventIds": [
+        "battle-of-crecy-1346",
+        "rights-of-man-approved-1789",
+        "krakatoa-eruption-intensifies-1883",
+        "first-televised-mlb-game-1939",
+        "womens-strike-for-equality-1970",
+        "john-paul-i-elected-1978"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 27,
+      "featuredEventId": "kellogg-briand-pact-signed-1928",
+      "additionalEventIds": [
+        "drake-oil-well-strikes-oil-1859",
+        "battle-of-long-island-1776",
+        "romania-enters-world-war-i-1916",
+        "guinness-book-first-published-1955",
+        "mars-close-approach-2003",
+        "moldova-declares-independence-1991",
+        "lord-mountbatten-assassinated-1979"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 28,
+      "featuredEventId": "march-on-washington-1963",
+      "additionalEventIds": [
+        "emmett-till-murdered-1955",
+        "goethe-born-1749",
+        "scientific-american-first-issue-1845",
+        "toyota-motor-company-founded-1937",
+        "galileo-discovers-dactyl-1993",
+        "tolstoy-born-1828",
+        "charles-diana-divorce-finalized-1996"
+      ]
+    },
+    {
+      "month": 8,
+      "day": 29,
+      "featuredEventId": "hurricane-katrina-landfall-2005",
+      "additionalEventIds": [
+        "treaty-of-nanking-signed-1842",
+        "john-locke-born-1632",
+        "soviet-first-atomic-bomb-test-1949",
+        "marine-corps-reserve-established-1916",
+        "michael-jackson-born-1958",
+        "hurricane-ida-landfall-2021"
+      ]
     }
   ]
 }

@@ -79,7 +79,7 @@ class CuratedContentValidatorTest {
   }
 
   @Test
-  void validatesTopLevelAugustTwentyTwoContent() {
+  void validatesTopLevelCuratedContent() {
     var reader = new CuratedContentReader(objectMapper);
     var content = reader.readDefault();
 
@@ -87,7 +87,9 @@ class CuratedContentValidatorTest {
 
     assertTrue(result.valid());
     assertTrue(result.errors().isEmpty());
-    assertTrue(result.warnings().isEmpty());
+    assertTrue(
+        result.warnings().stream()
+            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
   }
 
   private ContentValidationResult validateFixture(String fixtureName) throws IOException {

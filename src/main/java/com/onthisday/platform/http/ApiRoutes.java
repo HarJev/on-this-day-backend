@@ -12,26 +12,26 @@ import java.util.HashMap;
 
 public final class ApiRoutes {
 
+  private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
+
   private ApiRoutes() {}
 
   public static HttpRouter create(
       TodayContentRepository todayContentRepository, HistoricalEventRepository historicalEventRepository, Clock clock) {
-    var objectMapper = new ObjectMapper();
     var routes = new HashMap<HttpRouter.RouteKey, HttpRoute>();
-    routes.put(new HttpRouter.RouteKey(HttpMethod.GET, "/v1/health"), new HealthHandler(objectMapper));
+    routes.put(new HttpRouter.RouteKey(HttpMethod.GET, "/v1/health"), new HealthHandler(OBJECT_MAPPER));
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.GET, "/v1/days/today"),
-        new TodayContentHandler(new TodayContentService(todayContentRepository, clock), objectMapper));
+        new TodayContentHandler(new TodayContentService(todayContentRepository, clock), OBJECT_MAPPER));
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.GET, "/v1/events/{eventId}"),
-        new EventDetailHandler(historicalEventRepository, objectMapper));
+        new EventDetailHandler(historicalEventRepository, OBJECT_MAPPER));
     return new HttpRouter(routes);
   }
 
   public static HttpRouter healthOnly() {
-    var objectMapper = new ObjectMapper();
     return new HttpRouter(
         java.util.Map.of(
-            new HttpRouter.RouteKey(HttpMethod.GET, "/v1/health"), new HealthHandler(objectMapper)));
+            new HttpRouter.RouteKey(HttpMethod.GET, "/v1/health"), new HealthHandler(OBJECT_MAPPER)));
   }
 }

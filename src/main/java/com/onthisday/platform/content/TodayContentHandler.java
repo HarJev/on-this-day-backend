@@ -9,8 +9,12 @@ import com.onthisday.platform.http.ErrorResponseWriter;
 import com.onthisday.platform.http.HttpRequest;
 import com.onthisday.platform.http.HttpResponse;
 import com.onthisday.platform.http.HttpRoute;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public final class TodayContentHandler implements HttpRoute {
+
+  private static final Logger LOG = LoggerFactory.getLogger(TodayContentHandler.class);
 
   private final TodayContentService service;
   private final TodayContentResponseMapper responseMapper;
@@ -33,6 +37,7 @@ public final class TodayContentHandler implements HttpRoute {
     } catch (InvalidTimezoneException exception) {
       return errorResponseWriter.json(400, "invalid_timezone", "Invalid timezone.");
     } catch (ContentUnavailableException exception) {
+      LOG.warn("today_content_unavailable reason={}", exception.getMessage());
       return errorResponseWriter.json(503, "content_unavailable", "Content temporarily unavailable.");
     } catch (JsonProcessingException exception) {
       throw new IllegalStateException("Failed to serialize today content response.", exception);

@@ -1,0 +1,30 @@
+{
+  "version": "2.0",
+  "routeKey": "GET /v1/health",
+  "rawPath": "/v1/health",
+  "rawQueryString": "",
+  "headers": {
+    "accept": "application/json",
+    "host": "127.0.0.1:3000",
+    "user-agent": "sam-local-invoke"
+  },
+  "requestContext": {
+    "accountId": "123456789012",
+    "apiId": "local",
+    "domainName": "127.0.0.1:3000",
+    "domainPrefix": "127",
+    "http": {
+      "method": "GET",
+      "path": "/v1/health",
+      "protocol": "HTTP/1.1",
+      "sourceIp": "127.0.0.1",
+      "userAgent": "sam-local-invoke"
+    },
+    "requestId": "local-health",
+    "routeKey": "GET /v1/health",
+    "stage": "$default",
+    "time": "24/Aug/2026:17:41:00 -0500",
+    "timeEpoch": 1787611260000
+  },
+  "isBase64Encoded": false
+}

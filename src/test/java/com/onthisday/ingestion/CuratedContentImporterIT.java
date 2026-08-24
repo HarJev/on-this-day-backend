@@ -41,7 +41,7 @@ class CuratedContentImporterIT {
   }
 
   @Test
-  void importsAugustTwentyTwoContentAndCanRunTwiceWithoutDuplicatingRows() throws SQLException {
+  void importsTopLevelContentAndCanRunTwiceWithoutDuplicatingRows() throws SQLException {
     var reader = new CuratedContentReader(new ObjectMapper());
     var importer = new CuratedContentImporter(dataSource, new CuratedContentValidator());
     var content = reader.readDefault();
@@ -50,9 +50,15 @@ class CuratedContentImporterIT {
     var secondResult = importer.importContent(content);
 
     assertTrue(firstResult.valid());
-    assertTrue(firstResult.warnings().isEmpty());
+    assertEquals(6, firstResult.warnings().size());
+    assertTrue(
+        firstResult.warnings().stream()
+            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
     assertTrue(secondResult.valid());
-    assertTrue(secondResult.warnings().isEmpty());
+    assertEquals(6, secondResult.warnings().size());
+    assertTrue(
+        secondResult.warnings().stream()
+            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
 
     var todayRepository = new JdbcTodayContentRepository(dataSource);
     var todayContent = todayRepository.getTodayContent(MonthDay.of(8, 22));
@@ -67,6 +73,26 @@ class CuratedContentImporterIT {
     assertEquals("loch-ness-monster-columba-565", todayContent.additionalEvents().get(0).id());
     assertEquals("nolan-ryan-5000-strikeouts-1989", todayContent.additionalEvents().get(5).id());
 
+    var augustTwentyNineContent = todayRepository.getTodayContent(MonthDay.of(8, 29));
+
+    assertEquals("Aug 29", augustTwentyNineContent.date().displayDate());
+    assertEquals("hurricane-katrina-landfall-2005", augustTwentyNineContent.featuredEvent().id());
+    assertEquals(6, augustTwentyNineContent.additionalEvents().size());
+    assertEquals("treaty-of-nanking-signed-1842", augustTwentyNineContent.additionalEvents().get(0).id());
+    assertEquals("hurricane-ida-landfall-2021", augustTwentyNineContent.additionalEvents().get(5).id());
+
+    var augustTwentySevenContent = todayRepository.getTodayContent(MonthDay.of(8, 27));
+
+    assertEquals(7, augustTwentySevenContent.additionalEvents().size());
+    assertEquals(
+        "lord-mountbatten-assassinated-1979", augustTwentySevenContent.additionalEvents().get(6).id());
+
+    var augustTwentyEightContent = todayRepository.getTodayContent(MonthDay.of(8, 28));
+
+    assertEquals(7, augustTwentyEightContent.additionalEvents().size());
+    assertEquals(
+        "charles-diana-divorce-finalized-1996", augustTwentyEightContent.additionalEvents().get(6).id());
+
     var eventRepository = new JdbcHistoricalEventRepository(dataSource);
     var bosworth = eventRepository.getEvent("battle-of-bosworth-field-1485");
 
@@ -79,10 +105,10 @@ class CuratedContentImporterIT {
         "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
         bosworth.primaryImage().sourceUrl().toString());
 
-    assertEquals(7, countRows("historical_event"));
-    assertEquals(8, countRows("event_source"));
+    assertEquals(51, countRows("historical_event"));
+    assertEquals(55, countRows("event_source"));
     assertEquals(1, countRows("event_image"));
-    assertEquals(7, countRows("daily_event"));
+    assertEquals(51, countRows("daily_event"));
   }
 
   private static int countRows(String tableName) throws SQLException {

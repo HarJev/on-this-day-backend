@@ -11,8 +11,12 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Objects;
 import javax.sql.DataSource;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class JdbcTodayContentRepository implements TodayContentRepository {
+
+  private static final Logger LOG = LoggerFactory.getLogger(JdbcTodayContentRepository.class);
 
   private static final DateTimeFormatter DISPLAY_DATE_FORMATTER =
       DateTimeFormatter.ofPattern("MMM d", Locale.US);
@@ -72,15 +76,45 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
   public TodayContent getTodayContent(MonthDay date) {
     Objects.requireNonNull(date, "date must not be null");
 
+    var startedAt = System.nanoTime();
+    LOG.info(
+        "db_query_start operation=getTodayContent month={} day={}",
+        date.getMonthValue(),
+        date.getDayOfMonth());
+    LOG.info(
+        "db_connection_start operation=getTodayContent month={} day={}",
+        date.getMonthValue(),
+        date.getDayOfMonth());
+    var connectionStartedAt = System.nanoTime();
     try (var connection = dataSource.getConnection()) {
+      var connectionDurationMs = (System.nanoTime() - connectionStartedAt) / 1_000_000;
+      LOG.info(
+          "db_connection_acquired operation=getTodayContent month={} day={} durationMs={}",
+          date.getMonthValue(),
+          date.getDayOfMonth(),
+          connectionDurationMs);
       var featuredEvent = findFeaturedEvent(connection.prepareStatement(FEATURED_SQL), date);
       var additionalEvents = findAdditionalEvents(connection.prepareStatement(ADDITIONAL_SQL), date);
 
-      return new TodayContent(
-          new ContentDate(date.getMonthValue(), date.getDayOfMonth(), displayDate(date)),
-          featuredEvent,
-          additionalEvents);
+      var content =
+          new TodayContent(
+              new ContentDate(date.getMonthValue(), date.getDayOfMonth(), displayDate(date)),
+              featuredEvent,
+              additionalEvents);
+      var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
+      LOG.info(
+          "db_query_end operation=getTodayContent month={} day={} additionalCount={} durationMs={}",
+          date.getMonthValue(),
+          date.getDayOfMonth(),
+          additionalEvents.size(),
+          durationMs);
+      return content;
     } catch (SQLException exception) {
+      LOG.error(
+          "db_query_failed operation=getTodayContent month={} day={}",
+          date.getMonthValue(),
+          date.getDayOfMonth(),
+          exception);
       throw new ContentUnavailableException("Could not load today content.", exception);
     }
   }

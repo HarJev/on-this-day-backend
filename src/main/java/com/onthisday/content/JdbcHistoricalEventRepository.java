@@ -10,8 +10,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 import javax.sql.DataSource;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public class JdbcHistoricalEventRepository implements HistoricalEventRepository {
+
+  private static final Logger LOG = LoggerFactory.getLogger(JdbcHistoricalEventRepository.class);
 
   private static final String EVENT_SQL =
       """
@@ -62,7 +66,16 @@ public class JdbcHistoricalEventRepository implements HistoricalEventRepository 
   public HistoricalEvent getEvent(String eventId) {
     requireNonBlank(eventId, "eventId");
 
+    var startedAt = System.nanoTime();
+    LOG.info("db_query_start operation=getEvent eventId={}", eventId);
+    LOG.info("db_connection_start operation=getEvent eventId={}", eventId);
+    var connectionStartedAt = System.nanoTime();
     try (var connection = dataSource.getConnection()) {
+      var connectionDurationMs = (System.nanoTime() - connectionStartedAt) / 1_000_000;
+      LOG.info(
+          "db_connection_acquired operation=getEvent eventId={} durationMs={}",
+          eventId,
+          connectionDurationMs);
       var event = findEvent(connection, eventId);
       if (event == null) {
         throw new EventNotFoundException(eventId);
@@ -83,18 +96,28 @@ public class JdbcHistoricalEventRepository implements HistoricalEventRepository 
         }
       }
 
-      return new HistoricalEvent(
-          event.id(),
-          event.title(),
-          event.year(),
-          event.historicalDate(),
-          event.summary(),
-          event.description(),
-          sources,
-          primaryImage,
-          eventImages,
-          event.dateNote());
+      var historicalEvent =
+          new HistoricalEvent(
+              event.id(),
+              event.title(),
+              event.year(),
+              event.historicalDate(),
+              event.summary(),
+              event.description(),
+              sources,
+              primaryImage,
+              eventImages,
+              event.dateNote());
+      var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
+      LOG.info(
+          "db_query_end operation=getEvent eventId={} sourceCount={} imageCount={} durationMs={}",
+          eventId,
+          sources.size(),
+          eventImages.size(),
+          durationMs);
+      return historicalEvent;
     } catch (SQLException exception) {
+      LOG.error("db_query_failed operation=getEvent eventId={}", eventId, exception);
       throw new ContentUnavailableException("Could not load event: " + eventId, exception);
     }
   }

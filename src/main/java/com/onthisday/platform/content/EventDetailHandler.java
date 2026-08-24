@@ -9,8 +9,12 @@ import com.onthisday.platform.http.ErrorResponseWriter;
 import com.onthisday.platform.http.HttpRequest;
 import com.onthisday.platform.http.HttpResponse;
 import com.onthisday.platform.http.HttpRoute;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 public final class EventDetailHandler implements HttpRoute {
+
+  private static final Logger LOG = LoggerFactory.getLogger(EventDetailHandler.class);
 
   private final HistoricalEventRepository repository;
   private final EventDetailResponseMapper responseMapper;
@@ -37,6 +41,7 @@ public final class EventDetailHandler implements HttpRoute {
     } catch (EventNotFoundException exception) {
       return errorResponseWriter.json(404, "event_not_found", "Event not found.");
     } catch (ContentUnavailableException exception) {
+      LOG.warn("event_detail_unavailable eventId={} reason={}", eventId, exception.getMessage());
       return errorResponseWriter.json(503, "content_unavailable", "Content temporarily unavailable.");
     } catch (JsonProcessingException exception) {
       throw new IllegalStateException("Failed to serialize event detail response.", exception);
