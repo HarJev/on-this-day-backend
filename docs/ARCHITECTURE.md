@@ -374,3 +374,159 @@ event details
 device registration
 daily featured-event notifications
 ```
+
+## Quiz v0.1.0 Architecture
+
+Quiz is a new module within the existing modular monolith. It does not change
+the v0.0.1 content or notification package responsibilities.
+
+### Package boundaries
+
+```text
+src/main/java/com/onthisday/
+  quiz/                  quiz domain, selection services, and repositories
+  ingestion/quiz/        curated quiz JSON reading, validation, and import
+  platform/quiz/         quiz HTTP handlers and API DTOs
+```
+
+The same dependency rules continue to apply:
+
+- `com.onthisday.quiz` has no API Gateway dependencies;
+- platform DTOs do not enter the quiz domain;
+- JDBC implementations stay behind quiz repository interfaces;
+- handlers perform request parsing, response mapping, and public error mapping;
+- no framework or second deployable service is introduced.
+
+### Quiz persistence responsibilities
+
+The quiz schema should represent:
+
+- questions with stable IDs, type, prompt, difficulty, explanation, publication
+  state, and type-specific answer data;
+- options for multiple-choice, true/false, and image-identification questions;
+- ordering items for chronological-ordering questions;
+- one or more credible sources per question;
+- optional image metadata, required for published image-identification
+  questions;
+- flat collections with one constrained presentation grouping;
+- many-to-many question membership in collections;
+- one immutable 20-question Daily Challenge assignment per calendar date;
+- the stable order of questions within each daily assignment.
+
+Suggested table ownership remains within the quiz module. Exact names and
+constraints are decided in Quiz Task Q2, but the database must enforce stable
+identities, valid type-specific data, unique collection membership, and one
+daily assignment per date.
+
+### Daily Challenge generation
+
+The Daily Challenge request flow is:
+
+```text
+IANA timezone
+-> resolve local calendar date
+-> read persisted assignment for date
+-> if absent, select one ordered 20-question set from published questions
+-> atomically persist or recover the concurrently persisted assignment
+-> return the requested stable prefix
+```
+
+Generation has these invariants:
+
+- the same calendar date maps to the same assignment worldwide;
+- timezone affects date resolution only;
+- an assignment contains 20 distinct published questions;
+- generation is deterministic for a date and the eligible question-bank state;
+- a database uniqueness constraint prevents multiple assignments for one date;
+- concurrent creators either persist the same assignment or one creator wins
+  and the others reread that persisted assignment;
+- after persistence, imports and publication changes never rewrite the
+  assignment;
+- requests for 5 and 10 questions return positions 1-5 and 1-10 respectively.
+
+Daily selection should balance difficulty and question type where the published
+bank permits it. Exact selection rules must be deterministic and covered by
+tests before the endpoint is implemented.
+
+### Quick Play generation
+
+Quick Play selects 5, 10, or 20 distinct published questions at request time.
+An omitted `collectionId` selects from the Mixed bank; a supplied collection ID
+limits candidates to that collection.
+
+The catalog computes supported counts from currently published, eligible
+questions. A request for more questions than a selection supports fails with
+`400 insufficient_quiz_questions`; it must not silently return a smaller quiz.
+
+Random selection should still make a reasonable effort to balance question type
+and difficulty. It does not need to be reproducible or persisted.
+
+### Question and answer delivery
+
+The backend returns presentation data and correct answers together:
+
+- choice-based questions return display-ordered options and
+  `correctOptionId`;
+- chronological questions return shuffled items and
+  `correctOrderItemIds`;
+- every question returns its explanation, sources, difficulty, and applicable
+  timer metadata;
+- image-identification questions return full image provenance metadata.
+
+This is an intentional trusted-client design. Mobile grades locally and shows
+immediate feedback. There is no answer-submission, grading, score-history, or
+attempt endpoint.
+
+### Timing ownership
+
+The backend publishes timing metadata while the mobile client runs the timers:
+
+- Daily Challenge uses a total duration of 120, 240, or 480 seconds for 5, 10,
+  or 20 questions;
+- Quick Play uses per-question defaults of 20 seconds for multiple choice and
+  true/false, 30 seconds for image identification, and 45 seconds for
+  chronological ordering;
+- mobile may disable Quick Play timing;
+- the backend does not receive timeout or completion events.
+
+### Quiz ingestion
+
+Curated quiz files should live under:
+
+```text
+content/quizzes/
+```
+
+Ingestion must validate all files before a transactional, idempotent import.
+Validation should cover stable IDs, supported enums, type-specific answer
+shapes, unique options/items, correct-answer references, required explanations
+and sources, collection references, publication requirements, and complete
+image provenance.
+
+The first content milestone is 60 reviewed questions. Six subsequent batches of
+30 expand the bank to 240. Runtime fetching, scraping, and AI generation are not
+part of the serving path.
+
+### Quiz testing boundaries
+
+Unit tests should cover validators, response mapping, timer metadata, balanced
+selection, deterministic generation, stable prefixes, and concurrent-generation
+outcomes at the service/repository boundary.
+
+Testcontainers integration tests should cover schema constraints, imports,
+catalog queries, published-question filtering, assignment immutability, and the
+database uniqueness behavior used by concurrent first requests.
+
+Ordinary `mvn test` remains Docker-free. Quiz repository integration tests run
+through the existing integration-test profile.
+
+### Quiz-specific exclusions
+
+Quiz v0.1.0 does not add:
+
+- accounts or authentication;
+- backend attempts, answer submission, grading, score history, or leaderboards;
+- a CMS, mutation API, or user-created content;
+- runtime AI;
+- a service split or framework;
+- quiz-specific deployment infrastructure.

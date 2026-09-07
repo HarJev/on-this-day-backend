@@ -251,3 +251,158 @@ If removing a feature would still allow the user to discover today's featured ev
 
 **Implications**  
 This rule should be used when deciding whether proposed functionality belongs in v0.0.1.  
+
+
+## PD-020 — Quiz is an explicit v0.1.0 product expansion
+
+**Decision**
+Daily Challenge and Quick Play are introduced as Quiz v0.1.0. The existing
+v0.0.1 daily-history loop and APIs remain unchanged.
+
+**Rationale**
+PD-015 correctly excludes gamification from v0.0.1. Versioning the quiz work
+makes the expanded scope intentional rather than silently changing the first
+release.
+
+**Implications**
+- Quiz documentation and implementation must identify itself as v0.1.0.
+- Existing event discovery and notification behavior remains compatible.
+- Quiz work must not add unrelated competitive or social features.
+
+
+## PD-021 — Daily Challenge uses one immutable assignment per calendar date
+
+**Decision**
+The backend generates and persists one ordered 20-question assignment for each
+calendar date. The 5- and 10-question challenges are stable prefixes of that
+assignment.
+
+**Rationale**
+Every user receiving the same date should receive the same challenge, and a
+question-bank import must not rewrite a challenge that users may already have
+started.
+
+**Implications**
+- Generation uses published questions available at first creation.
+- A persisted assignment is immutable.
+- Concurrent first requests must converge on one assignment.
+- Timezone resolves the user's local date; it does not create a
+  timezone-specific question set.
+
+
+## PD-022 — Daily Challenge attempt status remains local to mobile
+
+**Decision**
+The first Daily Challenge attempt is official in local mobile state. Replays are
+practice attempts.
+
+**Rationale**
+The product can support a meaningful daily result without accounts or backend
+attempt tracking.
+
+**Implications**
+- The backend does not receive answers or scores.
+- The backend cannot distinguish an official attempt from a replay.
+- Cross-device result synchronization is out of scope.
+
+
+## PD-023 — Quick Play supports Mixed or one optional collection
+
+**Decision**
+Quick Play accepts an optional `collectionId`. Omitting it selects Mixed content.
+
+**Rationale**
+This provides a fast default while allowing focused play without requiring a
+category hierarchy.
+
+**Implications**
+- Quick Play selection is random among eligible published questions.
+- The request supports 5, 10, or 20 questions.
+- An unsupported count returns `400 insufficient_quiz_questions`.
+
+
+## PD-024 — Quiz timing is mode-specific and returned as metadata
+
+**Decision**
+Daily Challenge has one total timer: 2 minutes for 5 questions, 4 minutes for
+10, and 8 minutes for 20. Quick Play defaults to 20 seconds for multiple choice,
+20 seconds for true/false, 30 seconds for image identification, and 45 seconds
+for chronological ordering.
+
+**Rationale**
+Chronological ordering and image identification require different amounts of
+interaction and recognition time.
+
+**Implications**
+- Daily timeout ends the challenge and unanswered questions are incorrect.
+- Quick Play timeout marks the current question incorrect and continues.
+- The API returns timer metadata.
+- The mobile client may disable Quick Play timing.
+
+
+## PD-025 — Correct answers are included for on-device evaluation
+
+**Decision**
+Quiz responses include correct answers, explanations, and sources. The mobile
+client evaluates answers and presents immediate feedback and end-of-quiz review.
+
+**Rationale**
+Quiz v0.1.0 has no competitive integrity requirement and does not need a grading
+round trip.
+
+**Implications**
+- There is no answer-submission or grading endpoint.
+- True/false uses the normal option model.
+- Chronological ordering returns shuffled items and the correct ordered item
+  IDs.
+
+
+## PD-026 — Collections are flat, many-to-many, and grouped for presentation
+
+**Decision**
+Collections do not form a hierarchy. Each collection has one catalog grouping:
+`topic`, `historical_period`, `civilization`, or `conflict_or_movement`.
+
+**Rationale**
+Flat membership supports both broad and focused choices without creating a
+brittle taxonomy.
+
+**Implications**
+- Questions may belong to multiple collections.
+- Catalog responses group collections for display.
+- Each collection advertises supported question counts based on its published
+  question count.
+
+
+## PD-027 — Difficulty balances selection but does not affect scoring
+
+**Decision**
+Every question is marked Easy, Medium, or Hard. Difficulty is used in balanced
+selection and remains visually secondary.
+
+**Rationale**
+Difficulty helps create varied sessions without turning scoring into an opaque
+or overly game-like system.
+
+**Implications**
+- Difficulty metadata is included in quiz responses.
+- Correct answers are not worth different amounts based on difficulty.
+- The reviewed bank targets approximately 25% Easy, 55% Medium, and 20% Hard.
+
+
+## PD-028 — Quiz content is curated, sourced, and expanded in reviewed batches
+
+**Decision**
+The v0.1.0 target is 240 reviewed questions: 144 multiple choice, 36 true/false,
+36 image identification, and 24 chronological ordering. Delivery begins with
+60 questions and continues in six batches of 30.
+
+**Rationale**
+Incremental review protects accuracy and editorial quality while building a
+large enough bank for varied play.
+
+**Implications**
+- Every question needs an explanation and at least one credible source.
+- Image metadata must be complete and factual when an image is used.
+- Content should broaden globally without rigid quotas.
+- Sensitive subjects require educational and respectful treatment.

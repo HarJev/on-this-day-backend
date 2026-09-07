@@ -139,3 +139,151 @@ I read all requested files and updated docs/SETUP.md so the defaults are clearly
 - Acceptance: commands cover `mvn test`, Docker Compose Postgres, Flyway migration, content import, handler/API tests.
 - Dependencies: prior implementation tasks.
 - Out of scope: live AWS/Firebase required for ordinary local runs.
+
+---
+
+# Quiz v0.1.0 Backend Implementation Sequence
+
+This sequence is an additive expansion. It preserves all v0.0.1 event,
+notification, and device APIs and keeps the backend as one Maven modular
+monolith.
+
+## Q1: Product, Architecture, API, and Implementation Contracts
+
+- **Goal:** Establish the reviewed Quiz v0.1.0 product and technical contract
+  before implementation.
+- **Files/components:** `docs/PRODUCT.md`, `docs/PRODUCT_DECISIONS.md`,
+  `docs/ARCHITECTURE.md`, `docs/API_CONTRACT.md`, `docs/SETUP.md`, `README.md`,
+  and this plan.
+- **Acceptance criteria:** Both modes, four question types, timers, collection
+  grouping, difficulty, local grading, immutable Daily assignments, API shapes,
+  content targets, and non-goals are explicit; existing v0.0.1 contracts remain
+  unchanged.
+- **Dependencies:** None.
+- **Out of scope:** Java, SQL, migrations, dependencies, curated quiz content,
+  and mobile implementation.
+
+## Q2: Quiz Schema and Domain
+
+- **Goal:** Model quiz questions, answers, collections, sources, images, and
+  immutable Daily assignments.
+- **Files/components:** a new Flyway migration; `com.onthisday.quiz` domain
+  records, enums, repository contracts, and domain exceptions.
+- **Acceptance criteria:** The schema supports all four question types, stable
+  IDs, Easy/Medium/Hard, publication state, required sources, complete optional
+  image provenance, flat grouped collections, many-to-many membership, and one
+  ordered 20-question assignment per date. Constraints reject invalid
+  type-specific records and duplicate membership/order. Assignment uniqueness
+  provides the concurrency boundary for first generation.
+- **Dependencies:** Q1.
+- **Out of scope:** ingestion, selection algorithms, HTTP handlers, attempts,
+  scores, and content population.
+
+## Q3: Curated Quiz Ingestion and Validation
+
+- **Goal:** Establish reviewable JSON formats and safe import tooling under
+  `content/quizzes/`.
+- **Files/components:** quiz JSON DTOs, reader, validator, validation errors and
+  warnings, importer, CLI wiring, unit tests, and Testcontainers integration
+  tests.
+- **Acceptance criteria:** Validation covers stable IDs, enums, required text,
+  type-specific options/items and answers, unique IDs, required explanations and
+  sources, collection references, publication rules, and complete image
+  provenance. Import validates first and is transactional and idempotent.
+- **Dependencies:** Q2.
+- **Out of scope:** production question content, runtime fetching, scraping,
+  runtime AI, and HTTP APIs.
+
+## Q4: Quiz Repositories and Catalog
+
+- **Goal:** Read published quiz content efficiently and expose playable catalog
+  metadata.
+- **Files/components:** JDBC quiz question, collection, and catalog repository
+  implementations; catalog service; repository integration tests.
+- **Acceptance criteria:** Repositories map each question type without duplicate
+  aggregate rows, filter unpublished or ineligible questions, load sources and
+  images, and compute published counts plus supported 5/10/20 counts for Mixed
+  and each collection. Collections retain their presentation grouping.
+- **Dependencies:** Q2-Q3.
+- **Out of scope:** quiz generation, HTTP handlers, answer submission, and
+  caching infrastructure.
+
+## Q5: Quick Play and Daily Generation
+
+- **Goal:** Generate balanced Quick Play quizzes and stable Daily Challenge
+  assignments.
+- **Files/components:** selection services, deterministic Daily generator,
+  random Quick Play generator, assignment repository/JDBC implementation,
+  `Clock`-based date resolution, and focused unit/integration tests.
+- **Acceptance criteria:** Quick Play returns exactly 5, 10, or 20 distinct
+  published questions from Mixed or one collection and rejects unsupported
+  counts. Daily generation creates one immutable 20-question assignment per
+  calendar date, survives concurrent first requests, and returns stable 5/10
+  prefixes. Selection balances question types and difficulty where the bank
+  permits.
+- **Dependencies:** Q4.
+- **Out of scope:** HTTP transport, backend grading, attempt history,
+  leaderboards, and scheduled generation.
+
+## Q6: Quiz HTTP APIs
+
+- **Goal:** Expose the catalog, Quick Play, and Daily Challenge through the
+  existing Lambda/API Gateway edge.
+- **Files/components:** `com.onthisday.platform.quiz` request/response DTOs,
+  handlers, response mappers, route registration, runtime composition, SAM route
+  declarations, and handler/route tests.
+- **Acceptance criteria:** Implement `GET /v1/quizzes/catalog`,
+  `POST /v1/quizzes/quick-play`, and `GET /v1/quizzes/daily`; validate IANA
+  timezone and 5/10/20 counts; return correct answers, explanations, sources,
+  difficulty, image provenance, and exact timer metadata; map documented quiz
+  errors consistently. Existing routes remain unchanged.
+- **Dependencies:** Q4-Q5 and the existing platform/runtime edge.
+- **Out of scope:** answer submission, score storage, authentication, deployment,
+  and mobile code.
+
+## Q7: Initial 60 Reviewed Questions
+
+- **Goal:** Make Quiz v0.1.0 usable with an editorially reviewed starter bank.
+- **Files/components:** curated files under `content/quizzes/`, source and image
+  review records, validator tests, importer integration tests, and local setup
+  documentation.
+- **Acceptance criteria:** Exactly 60 publishable questions span all four types,
+  approximate target difficulty proportions, varied world-history subjects, and
+  useful collections. Every question has an explanation and credible source;
+  every image has verified provenance and licensing metadata. Catalog, Quick
+  Play, and Daily generation work against the imported set.
+- **Dependencies:** Q3-Q6.
+- **Out of scope:** the remaining 180 questions, forced geographic quotas, CMS,
+  and automated publication.
+
+## Q8: Expand to 240 Reviewed Questions
+
+- **Goal:** Reach the complete v0.1.0 content-bank target through six reviewable
+  batches of 30.
+- **Files/components:** six curated-content batches, review/validation fixtures,
+  and aggregate content-distribution tests or reports.
+- **Acceptance criteria:** The published bank totals 144 multiple-choice, 36
+  true/false, 36 image-identification, and 24 chronological-ordering questions,
+  with an approximate 25/55/20 Easy/Medium/Hard split. Content broadens globally,
+  sensitive material is educational and respectful, sources are credible, and
+  all images have verified provenance. Existing persisted Daily assignments are
+  unchanged after each import.
+- **Dependencies:** Q7, completed sequentially in six 30-question batches.
+- **Out of scope:** complete historical coverage, quotas, runtime AI, scraping,
+  and new APIs.
+
+## Q9: Mobile Quiz Implementation Plan
+
+- **Goal:** Produce a separately reviewable mobile plan against the stable Quiz
+  v0.1.0 backend contract.
+- **Files/components:** mobile planning documentation only, covering domain/DTO
+  mapping, catalog, setup, play, feedback, results/review, timers, Daily local
+  attempt state, and tests.
+- **Acceptance criteria:** The plan uses existing mobile architecture, grades
+  locally, stores official Daily history and best results locally, supports
+  disabling Quick Play timing, and introduces no account or backend-attempt
+  dependency.
+- **Dependencies:** Q1 API contract; schedule detailed implementation after Q6
+  stabilizes response DTOs.
+- **Out of scope:** mobile code in the backend repository, accounts, cross-device
+  sync, leaderboards, and notification changes.

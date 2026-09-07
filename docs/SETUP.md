@@ -436,3 +436,23 @@ Missing send credentials fail with `ConfigurationException`. FCM permanent
 token failures are separated from transient/configuration failures; only a
 permanently invalid token is removed. No EventBridge schedule or AWS deployment
 is created by this command.
+
+## Planned Quiz v0.1.0 Development
+
+Quiz v0.1.0 is currently documentation-only. No quiz migration, Java package,
+content importer, or HTTP route exists yet, so there are intentionally no quiz
+setup commands in this document.
+
+The intended curated-content root is:
+
+```text
+content/quizzes/
+```
+
+Implementation will follow Q1-Q9 in `implementation_plan.md`. When Q2-Q6 add
+real schema, ingestion, and API behavior, this guide must be updated with exact
+migration, validation, import, SAM, and smoke-test commands. Those commands must
+preserve the existing local loop and keep `mvn test` Docker-free.
+
+Planned quiz endpoints are documented in `docs/API_CONTRACT.md`; they must not
+be treated as locally callable until their implementation tasks are complete.

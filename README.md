@@ -41,6 +41,8 @@ Not implemented yet:
 - Scheduled Firebase notification delivery.
 - Terraform/deployment infrastructure.
 - Complete 366-day content set.
+- Quiz v0.1.0 schema, ingestion, services, APIs, and curated question bank. Its
+  reviewed contract and implementation sequence are documented only.
 
 ## Architecture Overview
 
@@ -349,6 +351,27 @@ GET /v1/events/battle-of-bosworth-field-1485
 See [docs/API_CONTRACT.md](docs/API_CONTRACT.md) for response shapes and error
 codes.
 
+## Quiz v0.1.0 Planning
+
+Quiz v0.1.0 is an approved additive expansion that has not been implemented.
+The existing v0.0.1 endpoints above remain the complete runnable API.
+
+The planned Quiz API is:
+
+```text
+GET  /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET  /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
+```
+
+The product and API contracts define Daily Challenge, Quick Play, four question
+types, grouped flat collections, timer metadata, and local mobile grading. The
+backend implementation sequence is Q1-Q9 in
+[implementation_plan.md](implementation_plan.md).
+
+Do not expect these routes to work until Q2-Q6 are implemented. No quiz setup,
+migration, import, or run command exists yet.
+
 ## Content Editing
 
 Canonical curated content lives in:
@@ -434,7 +457,8 @@ import behavior against PostgreSQL.
 
 ## Development Guardrails
 
-Keep v0.0.1 narrow:
+Preserve the implemented v0.0.1 daily-history behavior while adding only the
+explicitly documented Quiz v0.1.0 expansion:
 
 - no accounts or authentication;
 - no arbitrary date browsing;
@@ -444,6 +468,9 @@ Keep v0.0.1 narrow:
 - no GraphQL;
 - no Kubernetes or service split;
 - no notification personalization.
+
+Quiz v0.1.0 additionally excludes backend answer submission, attempt/score
+history, leaderboards, runtime AI question generation, and mutation/admin APIs.
 
 The next backend phases are EventBridge-triggered scheduling and deployment
 infrastructure. Neither is part of the local manual sender.

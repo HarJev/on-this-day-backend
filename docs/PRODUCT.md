@@ -1,4 +1,8 @@
-# On This Day — Product Specification v0.0.1
+# On This Day — Product Specification
+
+Sections 1-12 define the v0.0.1 daily-history product. Section 13 defines the
+additive Quiz v0.1.0 expansion. Quiz does not retroactively change the v0.0.1
+scope or acceptance criteria.
 
 **Status:** Canonical product definition  
 **Version:** v0.0.1  
@@ -714,3 +718,193 @@ The first release is therefore deliberately:
 > **Today → Featured event → Learn → Read more → Come back tomorrow.**
 
 That is the product.
+
+---
+
+## 13. Quiz Expansion: v0.1.0
+
+Quiz is an explicit expansion for v0.1.0. It does not replace or alter the
+v0.0.1 daily-history loop, event APIs, notification behavior, or event content.
+
+The quiz experience adds two ways to test historical knowledge:
+
+- **Daily Challenge:** one deterministic challenge for each calendar date;
+- **Quick Play:** a randomly selected quiz from Mixed content or one selected
+  collection.
+
+Quiz v0.1.0 is designed as a lightweight learning experience. It is not a
+competitive game, social product, or account-based progression system.
+
+### 13.1 Quiz modes
+
+#### Daily Challenge
+
+- The user chooses 5, 10, or 20 questions.
+- One 20-question assignment is generated and persisted for each calendar date.
+- The assignment is generated once from questions that are published at that
+  time.
+- The 5-question challenge is the first 5 questions in the assignment.
+- The 10-question challenge is the first 10 questions in the assignment.
+- The 20-question challenge is the complete assignment.
+- Once generated, an assignment is immutable. Later imports, edits, publication
+  changes, or additions to the question bank must not change it.
+- Concurrent first requests for the same date must resolve to the same persisted
+  assignment.
+- A calendar date has the same assignment worldwide. The supplied IANA timezone
+  determines which local calendar date the user receives.
+
+The Daily Challenge uses one total timer:
+
+| Questions | Total time |
+| --- | --- |
+| 5 | 2 minutes |
+| 10 | 4 minutes |
+| 20 | 8 minutes |
+
+When the total timer expires, the challenge ends and unanswered questions are
+treated as incorrect.
+
+The first Daily Challenge attempt is official only in local mobile state.
+Replays are practice attempts. The backend does not receive answers, record
+attempts, decide which attempt is official, or store scores.
+
+#### Quick Play
+
+- The user chooses 5, 10, or 20 questions.
+- Omitting a collection means Mixed content.
+- Selecting a collection limits selection to that collection.
+- Questions are selected randomly from eligible published content.
+- A collection advertises only the question counts it can support. For example,
+  a collection with 12 published questions can support 5 and 10, but not 20.
+- Requesting an unsupported count produces the API error
+  `insufficient_quiz_questions`.
+
+Quick Play uses per-question timer defaults:
+
+| Question type | Default time |
+| --- | --- |
+| Multiple choice | 20 seconds |
+| True/false | 20 seconds |
+| Image identification | 30 seconds |
+| Chronological ordering | 45 seconds |
+
+These defaults are returned as API metadata. The mobile client may disable
+Quick Play timing. If a per-question timer expires while enabled, that question
+is marked incorrect and play continues to the next question.
+
+### 13.2 Question behavior
+
+Quiz v0.1.0 supports:
+
+1. multiple choice;
+2. true/false using the normal option model;
+3. image identification using the normal option model and a required,
+   provenance-complete image;
+4. chronological ordering using shuffled items and a correct ordered list of
+   item IDs.
+
+After the user answers a question, the mobile client immediately shows whether
+the answer was correct and reveals the correct answer. At the end of a quiz,
+the user can review explanations and credible sources for every question.
+
+Correct answers are intentionally included in responses so evaluation can
+happen immediately on the device. There is no competitive-integrity
+requirement, leaderboard, reward, or backend grading endpoint.
+
+### 13.3 Collections
+
+Collections are flat and many-to-many. A question may belong to more than one
+collection. Collections do not form a parent/child hierarchy.
+
+Each collection has one grouping for catalog presentation:
+
+- `topic`;
+- `historical_period`;
+- `civilization`;
+- `conflict_or_movement`.
+
+This supports broad and focused choices such as Wars & Conflicts, Ancient
+History, Ancient Rome, Punic Wars, World Wars, Revolutions, and French
+Revolution without imposing a rigid taxonomy.
+
+### 13.4 Difficulty and selection
+
+Every question has one difficulty value:
+
+- Easy;
+- Medium;
+- Hard.
+
+Difficulty is visually secondary metadata. It is used to create balanced
+question selections and is not part of scoring. Selection should avoid an
+unreasonable concentration of one question type or difficulty, but a small
+quiz is not required to reproduce the complete bank's exact percentages.
+
+### 13.5 Content requirements
+
+The reviewed v0.1.0 target is 240 published questions:
+
+| Question type | Target |
+| --- | ---: |
+| Multiple choice | 144 |
+| True/false | 36 |
+| Image identification | 36 |
+| Chronological ordering | 24 |
+
+The target difficulty mix is approximately:
+
+- 25% Easy;
+- 55% Medium;
+- 20% Hard.
+
+Content will be delivered incrementally: an initial reviewed set of 60
+questions followed by six reviewed batches of 30 questions.
+
+Every question requires:
+
+- a stable slug-style ID;
+- a prompt and type-appropriate answer data;
+- a difficulty;
+- a concise explanation;
+- at least one credible source.
+
+Every image requires a credible source URL plus known attribution, creator, and
+license metadata. Metadata must not be invented. Image-identification questions
+cannot be published without a suitable image.
+
+The bank should cover world history and broaden globally as it grows. This is
+an editorial objective, not a system of rigid geographic quotas. Sensitive
+subjects must be written in an educational and respectful manner.
+
+### 13.6 Quiz v0.1.0 non-goals
+
+Quiz v0.1.0 does not include:
+
+- accounts, authentication, or cross-device identity;
+- leaderboards, social comparison, rewards, streaks, badges, or achievements;
+- backend answer submission, grading, score history, or attempt tracking;
+- runtime AI question generation;
+- mutation APIs, a CMS, or an admin UI;
+- user-created questions;
+- real-time multiplayer or competitive integrity controls;
+- deployment infrastructure as part of the quiz implementation tasks.
+
+Local mobile history and best results are allowed, but remain mobile concerns
+and must not create a backend attempt API.
+
+### 13.7 Definition of a successful Quiz v0.1.0
+
+Quiz v0.1.0 is product-complete when:
+
+1. the catalog describes Mixed and available flat collections, their groupings,
+   and supported question counts;
+2. Quick Play returns a random 5-, 10-, or 20-question quiz when sufficient
+   published content exists;
+3. the Daily Challenge returns a stable prefix of one immutable 20-question
+   assignment for the user's resolved local calendar date;
+4. all four question types can be answered and evaluated on-device;
+5. timer metadata implements the documented Daily and Quick Play behavior;
+6. answers can be reviewed with explanations and credible sources;
+7. the initial 60 reviewed questions are available before expansion toward the
+   240-question target;
+8. existing v0.0.1 API behavior remains unchanged.
