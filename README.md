@@ -23,19 +23,22 @@ Implemented:
 - Curated JSON validation and import tooling.
 - Initial August 22 curated content.
 - Runtime composition for Postgres-backed API handlers.
+- Device registration API for captured FCM tokens.
+- Dry-run-first manual Firebase notification sender.
 - API handler support for:
 
 ```text
 GET /v1/health
 GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
+POST /v1/devices
+DELETE /v1/devices/{token}
 ```
 
 Not implemented yet:
 
 - Deployed API Gateway.
-- Device registration APIs.
-- Firebase notification delivery.
+- Scheduled Firebase notification delivery.
 - Terraform/deployment infrastructure.
 - Complete 366-day content set.
 
@@ -48,8 +51,8 @@ splitting into services too early.
 src/main/java/com/onthisday/
   content/       domain records, date resolution, JDBC read repositories
   ingestion/     curated JSON DTOs, validation, import command
-  notifications/ future device registration and FCM boundaries
-  platform/      HTTP routing, Lambda adapters, API DTOs, runtime config
+  notifications/ device registration and notification delivery domain
+  platform/      HTTP/Lambda/runtime adapters and FCM HTTP v1 adapter
 ```
 
 The main rule: domain and service code should not know about API Gateway event
@@ -94,6 +97,7 @@ content/daily-events.json
 - Docker Compose for local PostgreSQL
 - Testcontainers for integration tests
 - Jackson for JSON
+- Google Application Default Credentials for explicit Firebase sends
 - JUnit 5
 
 Deliberately not used:
@@ -364,7 +368,61 @@ Validation rules enforce:
 - exactly one featured event per supported day;
 - notification title/body for featured events.
 
-The current content set covers August 22 only.
+The current content set covers August 22 and August 24 through August 29.
+
+## Manual Notification Sender
+
+The manual sender reads enabled device registrations whose permission is
+`authorized` or `provisional`, resolves the featured event for each registered
+timezone, and builds an FCM HTTP v1 message containing:
+
+```json
+{
+  "message": {
+    "token": "<redacted>",
+    "notification": {"title": "...", "body": "..."},
+    "data": {"eventId": "stable-event-id"}
+  }
+}
+```
+
+The command defaults to dry-run. It reports recipient and batch counts and
+prints the exact send payload with the device token replaced by `<redacted>`.
+Dry-run never loads Firebase credentials or contacts Firebase:
+
+```sh
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day \
+DB_USER=on_this_day \
+DB_PASSWORD=on_this_day \
+mvn compile exec:java \
+  -Dexec.mainClass=com.onthisday.platform.notifications.cli.ManualNotificationSenderCommand \
+  -Dexec.args="--instant 2026-08-24T12:00:00Z"
+```
+
+The optional `--instant` override is for deterministic local checks against the
+currently curated dates. Omit it to resolve the actual current date in each
+registration's IANA timezone.
+
+Sending requires the explicit `--send` flag, a Firebase project ID, and either
+Application Default Credentials or an explicit credential file outside this
+repository. This command contacts Firebase, so do not run it as part of normal
+tests:
+
+```sh
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day \
+DB_USER=on_this_day \
+DB_PASSWORD=on_this_day \
+FIREBASE_PROJECT_ID=on-this-day-98e6b \
+GOOGLE_APPLICATION_CREDENTIALS=/absolute/private/path/service-account.json \
+mvn compile exec:java \
+  -Dexec.mainClass=com.onthisday.platform.notifications.cli.ManualNotificationSenderCommand \
+  -Dexec.args="--send --instant 2026-08-24T12:00:00Z"
+```
+
+Alternatively, pass `--credentials /absolute/private/path/service-account.json`.
+Never place a service-account JSON file or private key in this repository.
+Permanent token failures reported by FCM remove that registration; transient
+and configuration failures do not. EventBridge scheduling remains deferred.
 
 ## Testing Notes
 
@@ -373,9 +431,6 @@ The current content set covers August 22 only.
 `mvn verify -Pintegration` uses Testcontainers and requires Docker. It verifies
 Flyway migrations, schema constraints, JDBC repositories, and curated content
 import behavior against PostgreSQL.
-
-SLF4J no-op logger warnings may appear during integration tests. They are
-currently harmless.
 
 ## Development Guardrails
 
@@ -390,10 +445,5 @@ Keep v0.0.1 narrow:
 - no Kubernetes or service split;
 - no notification personalization.
 
-The next product/backend tasks are likely:
-
-1. local HTTP/SAM runner for mobile integration;
-2. device registration schema and APIs;
-3. notification sender interface and fake;
-4. EventBridge-triggered daily notification job;
-5. deployment infrastructure.
+The next backend phases are EventBridge-triggered scheduling and deployment
+infrastructure. Neither is part of the local manual sender.

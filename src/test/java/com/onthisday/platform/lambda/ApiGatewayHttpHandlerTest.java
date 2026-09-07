@@ -9,6 +9,8 @@ import com.onthisday.content.EventSummary;
 import com.onthisday.content.FeaturedEvent;
 import com.onthisday.content.HistoricalEvent;
 import com.onthisday.content.TodayContent;
+import com.onthisday.notifications.DeviceRegistration;
+import com.onthisday.notifications.DeviceRegistrationRepository;
 import com.onthisday.platform.http.ApiRoutes;
 import com.onthisday.platform.http.HttpMethod;
 import com.onthisday.platform.http.HttpResponse;
@@ -73,6 +75,7 @@ class ApiGatewayHttpHandlerTest {
                             "August 22, 1770",
                             null))),
             eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
             Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
 
     var event = event("GET", "/v1/days/today");
@@ -119,6 +122,7 @@ class ApiGatewayHttpHandlerTest {
                         null),
                     List.of()),
             eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
             Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
 
     var response =
@@ -189,5 +193,19 @@ class ApiGatewayHttpHandlerTest {
         null,
         List.of(),
         null);
+  }
+
+  private static final class RecordingDeviceRegistrationRepository implements DeviceRegistrationRepository {
+
+    @Override
+    public void upsert(DeviceRegistration registration) {}
+
+    @Override
+    public void deleteByToken(String token) {}
+
+    @Override
+    public List<DeviceRegistration> findEligibleForNotifications() {
+      return List.of();
+    }
   }
 }

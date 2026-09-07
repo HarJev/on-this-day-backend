@@ -213,6 +213,20 @@ enough to implement without delaying v0.0.1. If the scheduler changes to hourly
 or per-timezone sends, add persistent duplicate protection for the same device
 and local date.
 
+The current local foundation exposes notification delivery only through a
+framework-free manual command. It selects enabled registrations with
+`authorized` or `provisional` permission, resolves featured content by the
+registered timezone, and sends through a `NotificationSender` interface backed
+by the FCM HTTP v1 API. The command is dry-run by default and requires an
+explicit `--send` plus external Google credentials before it contacts Firebase.
+No service-account JSON or private key belongs in this repository.
+
+FCM outcomes distinguish permanently invalid tokens from transient and
+configuration failures. A permanent token failure may remove the registration;
+transient failures never do. EventBridge scheduling and persistent duplicate
+send protection remain required before this becomes an automated production
+job.
+
 ## Content Ingestion and Curation
 
 Featured-event selection is editorial for v0.0.1. The backend should serve

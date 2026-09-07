@@ -1,3 +1,8 @@
 target/
 .aws-sam/
 .DS_Store
+.env
+.env.*
+!.env.example
+firebase-service-account*.json
+service-account*.json

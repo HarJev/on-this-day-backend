@@ -8,6 +8,8 @@ import com.onthisday.content.EventSummary;
 import com.onthisday.content.FeaturedEvent;
 import com.onthisday.content.HistoricalEvent;
 import com.onthisday.content.TodayContent;
+import com.onthisday.notifications.DeviceRegistration;
+import com.onthisday.notifications.DeviceRegistrationRepository;
 import java.net.URI;
 import java.time.Clock;
 import java.time.Instant;
@@ -43,6 +45,7 @@ class ApiRoutesTest {
                             "August 22, 1770",
                             null))),
             eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
             Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
 
     var response =
@@ -94,6 +97,7 @@ class ApiRoutesTest {
                         null),
                     List.of()),
             eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
             Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
 
     var response =
@@ -122,6 +126,42 @@ class ApiRoutesTest {
         response.body());
   }
 
+  @Test
+  void registersDeviceRouteWithInjectedRepository() {
+    var deviceRepository = new RecordingDeviceRegistrationRepository();
+    var router =
+        ApiRoutes.create(
+            date -> {
+              throw new AssertionError("today repository should not be called");
+            },
+            eventId -> {
+              throw new AssertionError("event repository should not be called");
+            },
+            deviceRepository,
+            Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
+
+    var response =
+        router.route(
+            new HttpRequest(
+                HttpMethod.POST,
+                "/v1/devices",
+                Map.of(),
+                Map.of(),
+                Map.of(),
+                """
+                {
+                  "token": "fcm-token",
+                  "platform": "android",
+                  "timezone": "America/Jamaica",
+                  "notificationPermissionStatus": "authorized"
+                }
+                """));
+
+    assertEquals(200, response.statusCode());
+    assertEquals("{\"registered\":true}", response.body());
+    assertEquals("fcm-token", deviceRepository.registration.token());
+  }
+
   private static HistoricalEvent eventDetail() {
     return new HistoricalEvent(
         "battle-of-bosworth-field-1485",
@@ -134,5 +174,23 @@ class ApiRoutesTest {
         null,
         List.of(),
         null);
+  }
+
+  private static final class RecordingDeviceRegistrationRepository implements DeviceRegistrationRepository {
+
+    private DeviceRegistration registration;
+
+    @Override
+    public void upsert(DeviceRegistration registration) {
+      this.registration = registration;
+    }
+
+    @Override
+    public void deleteByToken(String token) {}
+
+    @Override
+    public List<DeviceRegistration> findEligibleForNotifications() {
+      return List.of();
+    }
   }
 }

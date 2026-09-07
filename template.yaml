@@ -39,3 +39,13 @@ Resources:
           Properties:
             Path: /v1/events/{eventId}
             Method: GET
+        RegisterDevice:
+          Type: HttpApi
+          Properties:
+            Path: /v1/devices
+            Method: POST
+        DeleteDevice:
+          Type: HttpApi
+          Properties:
+            Path: /v1/devices/{token}
+            Method: DELETE

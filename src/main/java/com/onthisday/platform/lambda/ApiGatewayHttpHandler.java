@@ -7,8 +7,9 @@ import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPResponse;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.onthisday.content.HistoricalEventRepository;
 import com.onthisday.content.TodayContentRepository;
-import com.onthisday.platform.http.ErrorResponseWriter;
+import com.onthisday.notifications.DeviceRegistrationRepository;
 import com.onthisday.platform.http.ApiRoutes;
+import com.onthisday.platform.http.ErrorResponseWriter;
 import com.onthisday.platform.http.HttpRouter;
 import com.onthisday.platform.runtime.RuntimeApiComposition;
 import java.time.Clock;
@@ -33,8 +34,10 @@ public final class ApiGatewayHttpHandler
   public ApiGatewayHttpHandler(
       TodayContentRepository todayContentRepository,
       HistoricalEventRepository historicalEventRepository,
+      DeviceRegistrationRepository deviceRegistrationRepository,
       Clock clock) {
-    this(ApiRoutes.create(todayContentRepository, historicalEventRepository, clock));
+    this(ApiRoutes.create(
+        todayContentRepository, historicalEventRepository, deviceRegistrationRepository, clock));
   }
 
   ApiGatewayHttpHandler(HttpRouter router) {

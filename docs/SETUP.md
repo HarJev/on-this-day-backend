@@ -3,17 +3,20 @@
 ## Current State
 
 This repository has a Maven Java bootstrap, platform HTTP/Lambda edge,
-PostgreSQL/Flyway content schema, JDBC content repositories, curated JSON
-validation/import tooling, and the initial content APIs:
+PostgreSQL/Flyway schemas, JDBC repositories, curated JSON validation/import
+tooling, content/device APIs, local AWS SAM support, and a dry-run-first manual
+notification sender:
 
 ```text
 GET /v1/health
 GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
+POST /v1/devices
+DELETE /v1/devices/{token}
 ```
 
-It does not yet have device APIs, notification delivery, Terraform/deployment
-infrastructure, or API Gateway deployment wiring.
+It does not yet have scheduled notification delivery, Terraform/deployment
+infrastructure, or deployed API Gateway wiring.
 
 ## Intended Stack
 
@@ -75,9 +78,10 @@ Package intent:
 5. Seed content import for at least August 22. Complete for initial content.
 6. `GET /v1/days/today` and `GET /v1/events/{eventId}`. Complete.
 7. Runtime composition for Postgres-backed API handlers. Complete locally.
-8. Device registration schema and `POST/DELETE /v1/devices`.
-9. Firebase notification service behind an interface/fake.
-10. EventBridge-triggered daily notification job.
+8. Device registration schema and `POST/DELETE /v1/devices`. Complete.
+9. Manual Firebase notification sender behind an interface. Complete locally;
+   production credentials and a real send remain operator-controlled.
+10. EventBridge-triggered daily notification job. Deferred.
 
 ## Settled Bootstrap Decisions
 
@@ -289,6 +293,8 @@ The local API exposes:
 http://127.0.0.1:3000/v1/health
 http://127.0.0.1:3000/v1/days/today?timezone=America/Jamaica
 http://127.0.0.1:3000/v1/events/battle-of-bosworth-field-1485
+http://127.0.0.1:3000/v1/devices
+http://127.0.0.1:3000/v1/devices/<url-encoded-fcm-token>
 ```
 
 Terminal smoke checks:
@@ -297,6 +303,15 @@ Terminal smoke checks:
 curl -i http://127.0.0.1:3000/v1/health
 curl -i 'http://127.0.0.1:3000/v1/days/today?timezone=America/Jamaica'
 curl -i http://127.0.0.1:3000/v1/events/battle-of-bosworth-field-1485
+curl -i -X POST http://127.0.0.1:3000/v1/devices \
+  -H 'content-type: application/json' \
+  -d '{
+    "token": "local-fcm-token",
+    "platform": "ios",
+    "timezone": "America/Jamaica",
+    "notificationPermissionStatus": "authorized"
+  }'
+curl -i -X DELETE http://127.0.0.1:3000/v1/devices/local-fcm-token
 ```
 
 Troubleshooting:
@@ -375,3 +390,49 @@ Java formatting/checks
 ```
 
 Do not require live AWS or Firebase for ordinary local test runs.
+
+## Manual Notification Dry Run
+
+The notification command is dry-run unless `--send` is present. Start and seed
+PostgreSQL first, then register a fake authorized/provisional token through the
+local API or SQL. Run against a curated August date with:
+
+```sh
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day \
+DB_USER=on_this_day \
+DB_PASSWORD=on_this_day \
+mvn compile exec:java \
+  -Dexec.mainClass=com.onthisday.platform.notifications.cli.ManualNotificationSenderCommand \
+  -Dexec.args="--instant 2026-08-24T12:00:00Z"
+```
+
+Dry-run loads eligible registrations, resolves featured content using each
+registration's timezone, and prints recipient counts plus FCM payloads with
+tokens replaced by `<redacted>`. It does not load credentials or contact
+Firebase.
+
+An actual local/dev send is intentionally gated behind all of the following:
+
+- explicit `--send`;
+- `--project-id <id>` or `FIREBASE_PROJECT_ID`;
+- Application Default Credentials, normally through
+  `GOOGLE_APPLICATION_CREDENTIALS`, or `--credentials <absolute-path>`.
+
+Example shape, to be run only with an authorized credential kept outside the
+repository:
+
+```sh
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day \
+DB_USER=on_this_day \
+DB_PASSWORD=on_this_day \
+FIREBASE_PROJECT_ID=on-this-day-98e6b \
+GOOGLE_APPLICATION_CREDENTIALS=/absolute/private/path/service-account.json \
+mvn compile exec:java \
+  -Dexec.mainClass=com.onthisday.platform.notifications.cli.ManualNotificationSenderCommand \
+  -Dexec.args="--send --instant 2026-08-24T12:00:00Z"
+```
+
+Missing send credentials fail with `ConfigurationException`. FCM permanent
+token failures are separated from transient/configuration failures; only a
+permanently invalid token is removed. No EventBridge schedule or AWS deployment
+is created by this command.

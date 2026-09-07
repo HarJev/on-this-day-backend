@@ -2,6 +2,7 @@ package com.onthisday.platform.runtime;
 
 import com.onthisday.content.JdbcHistoricalEventRepository;
 import com.onthisday.content.JdbcTodayContentRepository;
+import com.onthisday.notifications.JdbcDeviceRegistrationRepository;
 import com.onthisday.platform.http.ApiRoutes;
 import com.onthisday.platform.http.HttpRouter;
 import java.time.Clock;
@@ -29,6 +30,7 @@ public final class RuntimeApiComposition {
     return ApiRoutes.create(
         new JdbcTodayContentRepository(dataSource),
         new JdbcHistoricalEventRepository(dataSource),
+        new JdbcDeviceRegistrationRepository(dataSource),
         clock);
   }
 }

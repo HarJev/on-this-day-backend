@@ -189,6 +189,8 @@ Request:
 
 Successful response:
 
+Status: `200`
+
 ```json
 {
   "registered": true
@@ -199,8 +201,10 @@ Rules:
 
 - Registration should upsert by token.
 - No user account is required.
-- `platform` should be one of `ios`, `android`, or another documented client
-  platform if added later.
+- `platform` must be one of `ios` or `android`.
+- `notificationPermissionStatus` must be one of `authorized`, `provisional`,
+  `denied`, or `not_determined`.
+- `timezone` must be a valid IANA timezone.
 - Store timezone now even if v0.0.1 uses one global notification send time.
 
 ## Delete Device
@@ -210,6 +214,8 @@ DELETE /v1/devices/{token}
 ```
 
 Successful response:
+
+Status: `200`
 
 ```json
 {
