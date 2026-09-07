@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 2,
+  "collections": [
+    {
+      "id": "Bad Collection",
+      "name": "",
+      "group": "era"
+    },
+    {
+      "id": "Bad Collection",
+      "name": "Duplicate",
+      "group": "topic"
+    }
+  ]
+}

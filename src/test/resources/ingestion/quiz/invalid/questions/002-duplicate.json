@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "broken-true-false",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Duplicate ID?",
+      "options": [
+        {"id": "true", "text": "True"},
+        {"id": "false", "text": "False"}
+      ],
+      "correctOptionId": "true",
+      "explanation": "Duplicate on purpose.",
+      "sources": [
+        {
+          "displayName": "Source",
+          "url": "https://example.com/source"
+        }
+      ],
+      "collectionIds": []
+    }
+  ]
+}

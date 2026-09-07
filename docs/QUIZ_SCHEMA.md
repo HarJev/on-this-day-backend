@@ -81,7 +81,6 @@ that all 20 positions and references are distinct.
 Q2 defines schema, immutable domain types, and repository contracts only.
 Later tasks own:
 
-- Q3: curated JSON formats, validation, and transactional import;
 - Q4: JDBC repositories and catalog counts;
 - Q5: balanced selection, deterministic generation, and the concrete
   `insertIfAbsent` implementation;
@@ -89,3 +88,24 @@ Later tasks own:
 
 The schema does not store attempts, answers, scores, users, leaderboards, timer
 state, or mobile-local Daily history.
+
+## Ingestion Lifecycle
+
+Q3 adds curated JSON tooling under `content/quizzes/`. The canonical bank is
+allowed to be empty until Q7; an empty bank is valid with a warning and imports
+without writing questions.
+
+The quiz importer validates all loaded collections and question packs before it
+requests a database connection. It then uses one transaction, upserts only the
+listed collections and question parents, and replaces child rows only for
+imported questions: sources, options, ordering items, image metadata, and
+collection memberships.
+
+Import never deletes questions or collections just because they are absent from
+the current files. Retirement must be explicit through `publicationState:
+retired`. The importer never writes or modifies `quiz_daily_challenge` or
+`quiz_daily_question`, so completed Daily assignments remain governed by the V3
+immutability constraints.
+
+Q4-Q6 still own runtime read repositories, selection/generation, catalog
+responses, quiz API handlers, SAM route exposure, and timer metadata delivery.

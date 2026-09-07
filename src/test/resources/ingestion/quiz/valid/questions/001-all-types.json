@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "capital-of-aztec-empire",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which city was the capital of the Aztec Empire?",
+      "options": [
+        {"id": "tenochtitlan", "text": "Tenochtitlan"},
+        {"id": "cusco", "text": "Cusco"},
+        {"id": "teotihuacan", "text": "Teotihuacan"},
+        {"id": "tikal", "text": "Tikal"}
+      ],
+      "correctOptionId": "tenochtitlan",
+      "explanation": "Tenochtitlan was the political and ceremonial center of the Aztec Empire.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Tenochtitlan",
+          "url": "https://www.britannica.com/place/Tenochtitlan"
+        }
+      ],
+      "collectionIds": ["ancient-history"]
+    },
+    {
+      "id": "movable-type-before-gutenberg",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Movable-type printing existed in East Asia before Gutenberg's press.",
+      "options": [
+        {"id": "true", "text": "True"},
+        {"id": "false", "text": "False"}
+      ],
+      "correctOptionId": "true",
+      "explanation": "Movable type was developed in China centuries before Gutenberg's work in Europe.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Printing Press",
+          "url": "https://www.britannica.com/technology/printing-press"
+        }
+      ],
+      "collectionIds": []
+    },
+    {
+      "id": "identify-battle-of-bosworth",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which battle is depicted in this painting?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Richard_III_at_the_Battle_of_Bosworth.jpg",
+        "altText": "Richard III on horseback at the Battle of Bosworth Field",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
+        "attribution": "Edmund Blair Leighton, Richard III at the Battle of Bosworth Field",
+        "creator": "Edmund Blair Leighton",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {"id": "bosworth", "text": "Battle of Bosworth Field"},
+        {"id": "hastings", "text": "Battle of Hastings"},
+        {"id": "bannockburn", "text": "Battle of Bannockburn"},
+        {"id": "agincourt", "text": "Battle of Agincourt"}
+      ],
+      "correctOptionId": "bosworth",
+      "explanation": "Edmund Blair Leighton's painting depicts Richard III at the Battle of Bosworth Field.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Bosworth Field",
+          "url": "https://www.britannica.com/event/Battle-of-Bosworth-Field"
+        }
+      ],
+      "collectionIds": ["ancient-history"]
+    },
+    {
+      "id": "order-spaceflight-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these spaceflight milestones in chronological order, earliest first.",
+      "items": [
+        {"id": "apollo-11", "text": "Apollo 11 lands on the Moon"},
+        {"id": "sputnik-1", "text": "Sputnik 1 reaches orbit"},
+        {"id": "gagarin", "text": "Yuri Gagarin orbits Earth"},
+        {"id": "tereshkova", "text": "Valentina Tereshkova orbits Earth"}
+      ],
+      "correctOrderItemIds": [
+        "sputnik-1",
+        "gagarin",
+        "tereshkova",
+        "apollo-11"
+      ],
+      "explanation": "The milestones occurred in 1957, 1961, 1963, and 1969 respectively.",
+      "sources": [
+        {
+          "displayName": "NASA History",
+          "url": "https://www.nasa.gov/history/"
+        }
+      ],
+      "collectionIds": ["spaceflight"]
+    }
+  ]
+}

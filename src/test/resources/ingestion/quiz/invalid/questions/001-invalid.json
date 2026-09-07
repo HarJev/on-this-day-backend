@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 2,
+  "questions": [
+    {
+      "id": "Bad Question",
+      "type": "multiple_choice",
+      "difficulty": "simple",
+      "publicationState": "live",
+      "prompt": "",
+      "options": [
+        {"id": "one", "text": ""},
+        {"id": "one", "text": "Duplicate"},
+        {"id": "three", "text": "Three"}
+      ],
+      "correctOptionId": "missing",
+      "items": [
+        {"id": "extra", "text": "Extra"}
+      ],
+      "correctOrderItemIds": ["extra"],
+      "image": {
+        "url": "http://example.com/image.jpg",
+        "altText": "",
+        "source": "",
+        "sourceUrl": "not-a-url",
+        "attribution": "",
+        "creator": " ",
+        "license": "",
+        "licenseUrl": "ftp://example.com/license"
+      },
+      "explanation": "",
+      "sources": [
+        {
+          "displayName": "",
+          "url": "http://example.com/source"
+        },
+        {
+          "displayName": "Duplicate",
+          "url": "http://example.com/source"
+        }
+      ],
+      "collectionIds": ["missing-collection", "missing-collection"]
+    },
+    {
+      "id": "broken-true-false",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Broken true false?",
+      "options": [
+        {"id": "yes", "text": "Yes"},
+        {"id": "no", "text": "No"}
+      ],
+      "correctOptionId": "yes",
+      "explanation": "Broken on purpose.",
+      "sources": [
+        {
+          "displayName": "Source",
+          "url": "https://example.com/source"
+        }
+      ],
+      "collectionIds": []
+    },
+    {
+      "id": "broken-image-question",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Broken image?",
+      "options": [
+        {"id": "one", "text": "One"},
+        {"id": "two", "text": "Two"},
+        {"id": "three", "text": "Three"},
+        {"id": "four", "text": "Four"}
+      ],
+      "correctOptionId": "one",
+      "explanation": "Missing image.",
+      "sources": [
+        {
+          "displayName": "Source",
+          "url": "https://example.com/source"
+        }
+      ],
+      "collectionIds": []
+    },
+    {
+      "id": "broken-ordering",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Broken ordering?",
+      "options": [
+        {"id": "one", "text": "One"}
+      ],
+      "items": [
+        {"id": "a", "text": "A"},
+        {"id": "a", "text": "Duplicate"},
+        {"id": "c", "text": "C"}
+      ],
+      "correctOrderItemIds": ["a", "missing", "a"],
+      "correctOptionId": "a",
+      "explanation": "Broken on purpose.",
+      "sources": [],
+      "collectionIds": []
+    }
+  ]
+}

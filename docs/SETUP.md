@@ -437,22 +437,50 @@ token failures are separated from transient/configuration failures; only a
 permanently invalid token is removed. No EventBridge schedule or AWS deployment
 is created by this command.
 
-## Planned Quiz v0.1.0 Development
+## Quiz v0.1.0 Local Content Tooling
 
-Quiz v0.1.0 is currently documentation-only. No quiz migration, Java package,
-content importer, or HTTP route exists yet, so there are intentionally no quiz
-setup commands in this document.
+Quiz v0.1.0 currently has schema, domain, validation, and import tooling. The
+canonical question bank remains empty until Q7, and no quiz HTTP routes are
+locally callable yet.
 
-The intended curated-content root is:
+The curated quiz-content root is:
 
 ```text
 content/quizzes/
 ```
 
-Implementation will follow Q1-Q9 in `implementation_plan.md`. When Q2-Q6 add
-real schema, ingestion, and API behavior, this guide must be updated with exact
-migration, validation, import, SAM, and smoke-test commands. Those commands must
-preserve the existing local loop and keep `mvn test` Docker-free.
+It contains `collections.json` and may contain a `questions/` directory with
+regular `*.json` question packs. A missing or empty `questions/` directory is
+valid while the canonical bank is empty; validation reports a warning that no
+published quiz questions exist.
+
+After starting Postgres and running Flyway migrations, import quiz content with:
+
+```bash
+mvn exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+To import from another directory:
+
+```bash
+mvn exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day /path/to/content/quizzes"
+```
+
+The historical-event importer remains:
+
+```bash
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+Warnings are printed and do not fail the import. Validation errors, malformed
+JSON, unknown JSON properties, missing migrations, or database constraint
+failures fail the command. The database password is accepted only as a command
+argument and is not printed by the command.
 
 Planned quiz endpoints are documented in `docs/API_CONTRACT.md`; they must not
 be treated as locally callable until their implementation tasks are complete.
