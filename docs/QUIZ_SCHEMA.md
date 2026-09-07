@@ -71,19 +71,22 @@ challenge. Once complete, the challenge row and all membership rows are
 immutable. Retiring an assigned question remains allowed because retirement
 does not change assignment membership or order.
 
-The date primary key is the concurrency boundary. The future JDBC repository
-will use `INSERT ... ON CONFLICT DO NOTHING`; a losing creator rereads the
-winner's completed assignment. Unique position and question constraints ensure
-that all 20 positions and references are distinct.
+The date primary key is the concurrency boundary. The JDBC repository uses
+`INSERT ... ON CONFLICT DO NOTHING`. A winner inserts all 20 children, marks the
+parent complete, and commits after deferred constraints run in one transaction.
+A losing insert writes no children, commits, and the service performs one fresh
+read of the winner. PostgreSQL waits for the conflicting transaction before it
+reports the conflict, so no polling or indefinite retry loop is needed. Unique
+position and question constraints ensure that all 20 positions and references
+are distinct; malformed completed rows are treated as unavailable.
 
 ## Deferred Responsibilities
 
-Q2 defines schema, immutable domain types, and repository contracts only.
-Later tasks own:
+The implemented task boundaries are:
 
 - Q4: JDBC repositories and catalog counts;
-- Q5: balanced selection, deterministic generation, and the concrete
-  `insertIfAbsent` implementation;
+- Q5: balanced selection, deterministic generation, presentation order, and
+  the concrete Daily assignment JDBC lifecycle;
 - Q6: API DTOs, handlers, error mapping, runtime composition, and SAM routes.
 
 The schema does not store attempts, answers, scores, users, leaderboards, timer
@@ -107,5 +110,5 @@ retired`. The importer never writes or modifies `quiz_daily_challenge` or
 `quiz_daily_question`, so completed Daily assignments remain governed by the V3
 immutability constraints.
 
-Q4-Q6 still own runtime read repositories, selection/generation, catalog
-responses, quiz API handlers, SAM route exposure, and timer metadata delivery.
+Q6 still owns quiz API handlers, response mapping, public error mapping, runtime
+composition, SAM route exposure, and timer metadata delivery.

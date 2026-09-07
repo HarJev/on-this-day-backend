@@ -395,9 +395,10 @@ Successful response shape:
 ```
 
 The example contains one question for readability. The actual `questions`
-array contains exactly the requested count. Option order is presentation order.
-The mobile client may disable Quick Play timing without sending that preference
-to the backend.
+array contains exactly the requested count. For multiple-choice and
+image-identification questions, option order is generated presentation order;
+true/false remains in canonical `True`, `False` order. The mobile client may
+disable Quick Play timing without sending that preference to the backend.
 
 ## Get Daily Challenge
 
@@ -434,7 +435,8 @@ Successful response:
 The example omits question objects for brevity; they use the shapes below. A
 calendar date has one immutable, ordered 20-question assignment worldwide.
 Timezone resolves the local date only. Five- and ten-question requests return
-stable prefixes of that assignment.
+stable prefixes of that assignment. Question order and each question's
+presentation order are stable for the Daily date.
 
 Daily timer durations are:
 
@@ -453,6 +455,10 @@ All question objects contain `id`, `type`, `difficulty`, `prompt`,
 `explanation`, and one or more `sources`. Quick Play questions also contain the
 type-specific `timeLimitSeconds`. Daily questions do not need a per-question
 limit because the response has one total timer.
+
+The `options` or `items` arrays are in playable presentation order. Correct
+answers remain explicit in `correctOptionId` or `correctOrderItemIds`; the
+canonical aggregate is not rewritten when presentation order is generated.
 
 ### Multiple choice
 

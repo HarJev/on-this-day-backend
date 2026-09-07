@@ -444,9 +444,36 @@ Generation has these invariants:
   assignment;
 - requests for 5 and 10 questions return positions 1-5 and 1-10 respectively.
 
-Daily selection should balance difficulty and question type where the published
-bank permits it. Exact selection rules must be deterministic and covered by
-tests before the endpoint is implemented.
+Daily positions 1-5, 1-10, and 1-20 are each balanced against the target for
+that question count. Generation fills those prefixes progressively, preserving
+the earlier prefix while selecting the next stage. The targets are:
+
+| Count | Multiple choice | True/false | Image | Ordering | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 5 | 2 | 1 | 1 | 1 | 1 | 3 | 1 |
+| 10 | 5 | 2 | 2 | 1 | 3 | 5 | 2 |
+| 20 | 12 | 3 | 3 | 2 | 5 | 11 | 4 |
+
+A small quiz-specific min-cost allocator meets both margins exactly when the
+available type/difficulty matrix and an established Daily prefix permit it.
+Otherwise it deterministically minimizes combined type and difficulty
+deviation, then type deviation, then candidate rank. It always preserves the
+requested count and scope and never duplicates questions. Progressive prefix
+generation is deterministic best effort at each stage; it does not claim a
+joint global optimum across all three prefixes.
+
+The allocator expresses that priority with bounded integer costs. For `k`
+remaining selections from `N` candidates, `R = k * N + 1` bounds all rank
+costs, and `P = (target count + 3) * R` dominates all secondary costs. A
+difficulty overflow costs `P`, a type overflow costs `P + R`, and a candidate
+edge costs its zero-based supplied rank. This keeps the fallback inspectable
+and prevents rank from outweighing a smaller distribution deviation.
+
+Daily candidate rank compares the complete unsigned SHA-256 digest of the
+UTF-8 seed `on-this-day:daily-selection:v1:<ISO date>` plus question ID, with
+question ID as the final collision tie-breaker. The explicit namespace version
+makes future algorithm changes deliberate. A persisted assignment remains
+authoritative even if the bank later changes.
 
 ### Quick Play generation
 
@@ -458,15 +485,18 @@ The catalog computes supported counts from currently published, eligible
 questions. A request for more questions than a selection supports fails with
 `400 insufficient_quiz_questions`; it must not silently return a smaller quiz.
 
-Random selection should still make a reasonable effort to balance question type
-and difficulty. It does not need to be reproducible or persisted.
+Quick Play uses the same balance targets and allocator. Candidates are first
+ordered with one request-local `RandomGenerator`; full aggregates are loaded
+only for the selected IDs. Random selection is not reproducible or persisted in
+production, and no mutable generator is shared across Lambda requests.
 
 ### Question and answer delivery
 
 The backend returns presentation data and correct answers together:
 
-- choice-based questions return display-ordered options and
-  `correctOptionId`;
+- multiple-choice and image-identification questions return shuffled options
+  and `correctOptionId`;
+- true/false options remain in canonical `True`, `False` order;
 - chronological questions return shuffled items and
   `correctOrderItemIds`;
 - every question returns its explanation, sources, difficulty, and applicable
@@ -476,6 +506,13 @@ The backend returns presentation data and correct answers together:
 This is an intentional trusted-client design. Mobile grades locally and shows
 immediate feedback. There is no answer-submission, grading, score-history, or
 attempt endpoint.
+
+Presentation order is separate from the canonical aggregate and cannot change
+correct-answer data. Quick Play uses its request-local random generator. Daily
+uses the complete unsigned SHA-256 digest of the UTF-8 seed
+`on-this-day:daily-presentation:v1:<ISO date>:<question ID>` plus answer/item ID,
+so presentation is stable for the date. Chronological items are rotated when a
+shuffle would otherwise reproduce the correct order.
 
 ### Timing ownership
 
