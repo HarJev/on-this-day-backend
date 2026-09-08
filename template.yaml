@@ -49,3 +49,18 @@ Resources:
           Properties:
             Path: /v1/devices/{token}
             Method: DELETE
+        QuizCatalog:
+          Type: HttpApi
+          Properties:
+            Path: /v1/quizzes/catalog
+            Method: GET
+        QuickPlayQuiz:
+          Type: HttpApi
+          Properties:
+            Path: /v1/quizzes/quick-play
+            Method: POST
+        DailyQuiz:
+          Type: HttpApi
+          Properties:
+            Path: /v1/quizzes/daily
+            Method: GET

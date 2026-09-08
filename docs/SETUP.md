@@ -13,6 +13,9 @@ GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
 POST /v1/devices
 DELETE /v1/devices/{token}
+GET /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
 
 It does not yet have scheduled notification delivery, Terraform/deployment
@@ -262,6 +265,15 @@ sam local start-api \
 the Postman/mobile loop much closer to warm Lambda behavior. Plain
 `sam local start-api` creates fresh containers by default and can be slow enough
 to obscure backend issues during demos.
+
+## Quiz Local Expectation
+
+Quiz HTTP routes use the same local SAM/API Gateway path as the existing
+endpoints. The canonical `content/quizzes/` directory intentionally contains no
+published questions until Q7. After importing that empty catalog,
+`GET /v1/quizzes/catalog` returns zero published counts, while Quick Play and
+Daily Challenge correctly return `400 insufficient_quiz_questions`. Do not add
+placeholder runtime quiz content merely to make these routes return a quiz.
 
 For verbose SAM runtime diagnostics, start with:
 

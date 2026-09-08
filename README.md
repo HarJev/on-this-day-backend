@@ -25,6 +25,7 @@ Implemented:
 - Runtime composition for Postgres-backed API handlers.
 - Device registration API for captured FCM tokens.
 - Dry-run-first manual Firebase notification sender.
+- Quiz v0.1.0 catalog, Quick Play, and Daily Challenge API handlers.
 - API handler support for:
 
 ```text
@@ -33,6 +34,9 @@ GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
 POST /v1/devices
 DELETE /v1/devices/{token}
+GET /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
 
 Not implemented yet:
@@ -41,8 +45,9 @@ Not implemented yet:
 - Scheduled Firebase notification delivery.
 - Terraform/deployment infrastructure.
 - Complete 366-day content set.
-- Quiz v0.1.0 schema, ingestion, services, APIs, and curated question bank. Its
-  reviewed contract and implementation sequence are documented only.
+- Reviewed Quiz v0.1.0 curated question content. The current empty quiz import
+  intentionally produces an empty catalog; Quick Play and Daily Challenge then
+  return `400 insufficient_quiz_questions` until Q7 adds the first reviewed bank.
 
 ## Architecture Overview
 

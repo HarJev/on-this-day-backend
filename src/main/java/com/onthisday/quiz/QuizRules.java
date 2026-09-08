@@ -13,6 +13,8 @@ public final class QuizRules {
           QuestionType.TRUE_FALSE, 20,
           QuestionType.IMAGE_IDENTIFICATION, 30,
           QuestionType.CHRONOLOGICAL_ORDERING, 45);
+  private static final Map<Integer, Integer> DAILY_TOTAL_TIMER_SECONDS =
+      Map.of(5, 120, 10, 240, 20, 480);
   private static final Map<Integer, Map<QuestionType, Integer>> QUESTION_TYPE_TARGETS =
       Map.of(
           5,
@@ -61,6 +63,10 @@ public final class QuizRules {
     return QUICK_PLAY_TIMER_DEFAULTS_SECONDS;
   }
 
+  public static int dailyTotalTimerSeconds(int questionCount) {
+    return requireDailyTimer(questionCount);
+  }
+
   public static Map<QuestionType, Integer> questionTypeTargets(int questionCount) {
     return requireSupportedCount(QUESTION_TYPE_TARGETS, questionCount, "question type");
   }
@@ -88,6 +94,15 @@ public final class QuizRules {
     if (result == null) {
       throw new InvalidQuizRequestException(
           targetName + " targets are available only for question counts 5, 10, or 20");
+    }
+    return result;
+  }
+
+  private static int requireDailyTimer(int questionCount) {
+    var result = DAILY_TOTAL_TIMER_SECONDS.get(questionCount);
+    if (result == null) {
+      throw new InvalidQuizRequestException(
+          "Daily timer is available only for question counts 5, 10, or 20");
     }
     return result;
   }
