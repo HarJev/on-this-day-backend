@@ -1,7 +1,7 @@
 # Curated Quiz Content
 
-Quiz v0.1.0 curated content lives here, but the production question bank is
-intentionally empty until Q7.
+Quiz v0.1.0 curated content lives here. Q7 supplies the initial reviewed bank:
+60 published questions in six independently reviewable packs.
 
 Q3 provides reader, validation, and import tooling only. The importer reads:
 
@@ -12,8 +12,11 @@ content/quizzes/
     *.json
 ```
 
-The `questions/` directory may be missing or empty. When it is empty, validation
-returns a warning that no published quiz questions exist.
+The reader still permits a missing or empty `questions/` directory for tooling
+and tests; validation then warns that no published quiz questions exist.
+
+The final distribution, source review, sensitive-content decisions, and image
+licenses are recorded in `docs/QUIZ_CONTENT_REVIEW.md`.
 
 ## Collections
 

@@ -1,4 +1,14 @@
 {
   "schemaVersion": 1,
-  "collections": []
+  "collections": [
+    {"id": "ancient-history", "name": "Ancient History", "group": "historical_period"},
+    {"id": "ancient-rome", "name": "Ancient Rome", "group": "civilization"},
+    {"id": "wars-and-conflicts", "name": "Wars & Conflicts", "group": "topic"},
+    {"id": "leaders-and-power", "name": "Leaders & Power", "group": "topic"},
+    {"id": "revolutions", "name": "Revolutions", "group": "conflict_or_movement"},
+    {"id": "world-wars", "name": "World Wars", "group": "conflict_or_movement"},
+    {"id": "science-and-innovation", "name": "Science & Innovation", "group": "topic"},
+    {"id": "exploration-and-exchange", "name": "Exploration & Exchange", "group": "topic"},
+    {"id": "society-culture-and-ideas", "name": "Society, Culture & Ideas", "group": "topic"}
+  ]
 }

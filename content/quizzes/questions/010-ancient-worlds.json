@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "great-pyramid-pharaoh",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "For which pharaoh was the Great Pyramid of Giza built?",
+      "options": [
+        {"id": "khufu", "text": "Khufu"},
+        {"id": "ramesses-ii", "text": "Ramesses II"},
+        {"id": "tutankhamun", "text": "Tutankhamun"},
+        {"id": "akhenaten", "text": "Akhenaten"}
+      ],
+      "correctOptionId": "khufu",
+      "explanation": "The Great Pyramid was constructed at Giza as the tomb of the Fourth Dynasty pharaoh Khufu.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Pyramids of Giza", "url": "https://www.britannica.com/topic/Pyramids-of-Giza"}],
+      "collectionIds": ["ancient-history", "leaders-and-power", "science-and-innovation"]
+    },
+    {
+      "id": "pompeii-destruction-volcano",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which volcano buried Pompeii in 79 CE?",
+      "options": [
+        {"id": "vesuvius", "text": "Mount Vesuvius"},
+        {"id": "etna", "text": "Mount Etna"},
+        {"id": "stromboli", "text": "Stromboli"},
+        {"id": "vulcano", "text": "Vulcano"}
+      ],
+      "correctOptionId": "vesuvius",
+      "explanation": "Mount Vesuvius erupted in 79 CE and buried Pompeii under volcanic material, preserving much of the Roman city.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Pompeii", "url": "https://www.britannica.com/place/Pompeii"}],
+      "collectionIds": ["ancient-history", "ancient-rome"]
+    },
+    {
+      "id": "western-roman-language",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which language was the principal language of government in the western Roman Empire?",
+      "options": [
+        {"id": "latin", "text": "Latin"},
+        {"id": "greek", "text": "Greek"},
+        {"id": "aramaic", "text": "Aramaic"},
+        {"id": "coptic", "text": "Coptic"}
+      ],
+      "correctOptionId": "latin",
+      "explanation": "Latin was the language of Roman administration in the western empire and became the ancestor of the Romance languages.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Latin language", "url": "https://www.britannica.com/topic/Latin-language"}],
+      "collectionIds": ["ancient-history", "society-culture-and-ideas"]
+    },
+    {
+      "id": "punic-wars-opponent",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Rome fought the three Punic Wars against which rival power?",
+      "options": [
+        {"id": "carthage", "text": "Carthage"},
+        {"id": "macedon", "text": "Macedon"},
+        {"id": "persia", "text": "Persia"},
+        {"id": "egypt", "text": "Ptolemaic Egypt"}
+      ],
+      "correctOptionId": "carthage",
+      "explanation": "The Punic Wars were three conflicts between Rome and Carthage that ended with Carthage's destruction in 146 BCE.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Punic Wars", "url": "https://www.britannica.com/event/Punic-Wars"}],
+      "collectionIds": ["ancient-history", "ancient-rome", "wars-and-conflicts"]
+    },
+    {
+      "id": "twelve-tables-purpose",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What was the Twelve Tables' significance in ancient Rome?",
+      "options": [
+        {"id": "written-law", "text": "They formed Rome's earliest written law code"},
+        {"id": "military-treaty", "text": "They recorded a military treaty with Carthage"},
+        {"id": "tax-register", "text": "They listed provincial tax rates"},
+        {"id": "religious-calendar", "text": "They set the official religious calendar"}
+      ],
+      "correctOptionId": "written-law",
+      "explanation": "Traditionally dated to 451-450 BCE, the Twelve Tables publicly recorded foundational rules of Roman law.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Law of the Twelve Tables", "url": "https://www.britannica.com/topic/Law-of-the-Twelve-Tables"}],
+      "collectionIds": ["ancient-history", "ancient-rome"]
+    },
+    {
+      "id": "battle-of-actium-victor",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Whose forces defeated Mark Antony and Cleopatra at the Battle of Actium?",
+      "options": [
+        {"id": "octavian", "text": "Octavian"},
+        {"id": "julius-caesar", "text": "Julius Caesar"},
+        {"id": "pompey", "text": "Pompey"},
+        {"id": "brutus", "text": "Brutus"}
+      ],
+      "correctOptionId": "octavian",
+      "explanation": "Octavian's fleet defeated the forces of Mark Antony and Cleopatra at Actium in 31 BCE, clearing his path to sole rule.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Battle of Actium", "url": "https://www.britannica.com/event/Battle-of-Actium-ancient-Roman-history"}],
+      "collectionIds": ["ancient-history", "ancient-rome", "wars-and-conflicts", "leaders-and-power"]
+    },
+    {
+      "id": "roman-republic-before-empire",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The Roman Republic existed before the Roman Empire.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "Rome's republican period conventionally began in 509 BCE, centuries before Augustus established imperial rule in 27 BCE.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Ancient Rome", "url": "https://www.britannica.com/place/ancient-Rome"}],
+      "collectionIds": ["ancient-history"]
+    },
+    {
+      "id": "ancient-olympics-two-year-cycle",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The ancient Olympic Games were normally held every two years.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "false",
+      "explanation": "The ancient Olympic Games were normally celebrated every four years; that four-year interval was called an Olympiad.",
+      "sources": [{"displayName": "International Olympic Committee - Ancient Olympic Games", "url": "https://olympics.com/ioc/ancient-olympic-games"}],
+      "collectionIds": ["ancient-history"]
+    },
+    {
+      "id": "identify-colosseum",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which ancient structure is shown in this photograph?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+        "altText": "Exterior view of an elliptical stone amphitheatre at dusk",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+        "attribution": "Photo by David Iliff",
+        "creator": "David Iliff",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/"
+      },
+      "options": [
+        {"id": "colosseum", "text": "The Colosseum"},
+        {"id": "pantheon", "text": "The Pantheon"},
+        {"id": "circus-maximus", "text": "The Circus Maximus"},
+        {"id": "theatre-marcellus", "text": "The Theatre of Marcellus"}
+      ],
+      "correctOptionId": "colosseum",
+      "explanation": "The photograph shows the Colosseum, the large Flavian amphitheatre built in Rome during the first century CE.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Colosseum", "url": "https://www.britannica.com/topic/Colosseum"}],
+      "collectionIds": ["ancient-history", "ancient-rome", "science-and-innovation"]
+    },
+    {
+      "id": "order-roman-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these Roman milestones in chronological order, earliest first.",
+      "items": [
+        {"id": "republic-founded", "text": "Traditional founding of the Roman Republic"},
+        {"id": "punic-wars-begin", "text": "First Punic War begins"},
+        {"id": "caesar-assassinated", "text": "Julius Caesar is assassinated"},
+        {"id": "augustus-first-emperor", "text": "Augustus becomes Rome's first emperor"}
+      ],
+      "correctOrderItemIds": ["republic-founded", "punic-wars-begin", "caesar-assassinated", "augustus-first-emperor"],
+      "explanation": "The milestones date to 509 BCE, 264 BCE, 44 BCE, and 27 BCE respectively.",
+      "sources": [
+        {"displayName": "Encyclopaedia Britannica - Ancient Rome", "url": "https://www.britannica.com/place/ancient-Rome"},
+        {"displayName": "Encyclopaedia Britannica - Punic Wars", "url": "https://www.britannica.com/event/Punic-Wars"},
+        {"displayName": "Encyclopaedia Britannica - Julius Caesar", "url": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler"},
+        {"displayName": "Encyclopaedia Britannica - Augustus", "url": "https://www.britannica.com/biography/Augustus-Roman-emperor"}
+      ],
+      "collectionIds": ["ancient-history", "ancient-rome", "wars-and-conflicts", "leaders-and-power"]
+    }
+  ]
+}

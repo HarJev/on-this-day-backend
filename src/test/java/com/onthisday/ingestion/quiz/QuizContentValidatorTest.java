@@ -32,8 +32,9 @@ class QuizContentValidatorTest {
   }
 
   @Test
-  void emptyCanonicalContentIsValidWithNoPublishedQuestionWarning() {
-    var result = validator.validate(reader.readDefault());
+  void emptyContentIsValidWithNoPublishedQuestionWarning() {
+    var result =
+        validator.validate(reader.read(Path.of("src/test/resources/ingestion/quiz/empty")));
 
     assertTrue(result.valid());
     assertEquals(Set.of("no published quiz questions exist"), warningMessages(result));

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "aztec-capital-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which city was the capital of the Aztec Empire?",
+      "options": [
+        {"id": "tenochtitlan", "text": "Tenochtitlan"},
+        {"id": "cusco", "text": "Cusco"},
+        {"id": "tikal", "text": "Tikal"},
+        {"id": "chan-chan", "text": "Chan Chan"}
+      ],
+      "correctOptionId": "tenochtitlan",
+      "explanation": "Tenochtitlan was the political and ceremonial capital of the Aztec Empire on the site of present-day Mexico City.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Tenochtitlan", "url": "https://www.britannica.com/place/Tenochtitlan"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "inca-capital-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which city served as the capital of the Inca Empire?",
+      "options": [
+        {"id": "cusco", "text": "Cusco"},
+        {"id": "quito", "text": "Quito"},
+        {"id": "cajamarca", "text": "Cajamarca"},
+        {"id": "tiwanaku", "text": "Tiwanaku"}
+      ],
+      "correctOptionId": "cusco",
+      "explanation": "Cusco was the Inca imperial capital and the administrative and religious center of Tawantinsuyu.",
+      "sources": [{"displayName": "UNESCO World Heritage Centre - City of Cuzco", "url": "https://whc.unesco.org/en/list/273/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "columbian-exchange-meaning",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What does the term Columbian Exchange describe?",
+      "options": [
+        {"id": "biological-transfer", "text": "The transfer of plants, animals, diseases, and people between hemispheres"},
+        {"id": "territory-sale", "text": "The sale of Spanish territories to Portugal"},
+        {"id": "naval-alliance", "text": "A naval alliance among Atlantic kingdoms"},
+        {"id": "currency-system", "text": "A shared colonial currency system"}
+      ],
+      "correctOptionId": "biological-transfer",
+      "explanation": "After 1492, sustained Atlantic contact moved crops, animals, pathogens, and people between the Americas and Afro-Eurasia, with profound and often catastrophic consequences.",
+      "sources": [{"displayName": "National Humanities Center - The Columbian Exchange", "url": "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm"}],
+      "collectionIds": ["exploration-and-exchange"]
+    },
+    {
+      "id": "lewis-clark-commissioner",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which U.S. president commissioned the Lewis and Clark expedition?",
+      "options": [
+        {"id": "thomas-jefferson", "text": "Thomas Jefferson"},
+        {"id": "james-madison", "text": "James Madison"},
+        {"id": "john-adams", "text": "John Adams"},
+        {"id": "james-monroe", "text": "James Monroe"}
+      ],
+      "correctOptionId": "thomas-jefferson",
+      "explanation": "President Thomas Jefferson commissioned the Corps of Discovery to explore lands west of the Mississippi after the Louisiana Purchase.",
+      "sources": [{"displayName": "U.S. National Park Service - Lewis and Clark Expedition", "url": "https://www.nps.gov/lecl/learn/historyculture/index.htm"}],
+      "collectionIds": ["exploration-and-exchange"]
+    },
+    {
+      "id": "brazil-independence-ruler",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who declared Brazil's independence from Portugal in 1822 and became its first emperor?",
+      "options": [
+        {"id": "pedro-i", "text": "Pedro I"},
+        {"id": "pedro-ii", "text": "Pedro II"},
+        {"id": "getulio-vargas", "text": "Getulio Vargas"},
+        {"id": "jose-bonifacio", "text": "Jose Bonifacio"}
+      ],
+      "correctOptionId": "pedro-i",
+      "explanation": "Prince Pedro declared Brazil independent in 1822 and was crowned Emperor Pedro I later that year.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Independence of Brazil", "url": "https://www.britannica.com/place/Brazil/Independence"}],
+      "collectionIds": ["revolutions"]
+    },
+    {
+      "id": "panama-canal-transfer-year",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "In what year did control of the Panama Canal transfer fully from the United States to Panama?",
+      "options": [
+        {"id": "1999", "text": "1999"},
+        {"id": "1977", "text": "1977"},
+        {"id": "1989", "text": "1989"},
+        {"id": "2004", "text": "2004"}
+      ],
+      "correctOptionId": "1999",
+      "explanation": "The 1977 Torrijos-Carter Treaties provided for a gradual transfer, completed at noon on 31 December 1999.",
+      "sources": [{"displayName": "Panama Canal Authority - History of the Panama Canal", "url": "https://pancanal.com/en/history-of-the-panama-canal/"}],
+      "collectionIds": ["science-and-innovation", "exploration-and-exchange"]
+    },
+    {
+      "id": "maya-writing-system",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The ancient Maya developed a hieroglyphic writing system.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "Maya scribes used a sophisticated logosyllabic script in inscriptions and books to record history, ritual, and calendrical information.",
+      "sources": [{"displayName": "The Metropolitan Museum of Art - Maya Writing", "url": "https://www.metmuseum.org/essays/maya-writing"}],
+      "collectionIds": ["ancient-history", "society-culture-and-ideas"]
+    },
+    {
+      "id": "louisiana-purchase-from-spain",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The United States acquired the Louisiana Purchase directly from Spain in 1803.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "false",
+      "explanation": "The United States purchased Louisiana from France in 1803, although the territory had previously passed between France and Spain.",
+      "sources": [{"displayName": "U.S. National Archives - Louisiana Purchase Treaty", "url": "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty"}],
+      "collectionIds": ["exploration-and-exchange"]
+    },
+    {
+      "id": "identify-machu-picchu",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which historical site is shown on this mountain ridge?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+        "altText": "Stone buildings and terraces on a steep green mountain ridge",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_Per%C3%BA,_2015-07-30,_DD_47.JPG",
+        "attribution": "Photo by Diego Delso",
+        "creator": "Diego Delso",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {"id": "machu-picchu", "text": "Machu Picchu"},
+        {"id": "chan-chan", "text": "Chan Chan"},
+        {"id": "palenque", "text": "Palenque"},
+        {"id": "tiwanaku", "text": "Tiwanaku"}
+      ],
+      "correctOptionId": "machu-picchu",
+      "explanation": "The photograph shows Machu Picchu, a fifteenth-century Inca site in the Peruvian Andes.",
+      "sources": [{"displayName": "UNESCO World Heritage Centre - Historic Sanctuary of Machu Picchu", "url": "https://whc.unesco.org/en/list/274/"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "order-americas-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these milestones in the history of the Americas in chronological order, earliest first.",
+      "items": [
+        {"id": "tenochtitlan-founded", "text": "Tenochtitlan is founded"},
+        {"id": "columbus-caribbean", "text": "Columbus reaches the Caribbean"},
+        {"id": "us-declaration", "text": "United States Declaration of Independence is adopted"},
+        {"id": "brazil-independence", "text": "Brazil declares independence"}
+      ],
+      "correctOrderItemIds": ["tenochtitlan-founded", "columbus-caribbean", "us-declaration", "brazil-independence"],
+      "explanation": "The milestones occurred in 1325, 1492, 1776, and 1822 respectively.",
+      "sources": [
+        {"displayName": "Encyclopaedia Britannica - Tenochtitlan", "url": "https://www.britannica.com/place/Tenochtitlan"},
+        {"displayName": "Library of Congress - 1492: An Ongoing Voyage", "url": "https://www.loc.gov/exhibits/1492/"},
+        {"displayName": "U.S. National Archives - Declaration of Independence", "url": "https://www.archives.gov/founding-docs/declaration"},
+        {"displayName": "Encyclopaedia Britannica - Independence of Brazil", "url": "https://www.britannica.com/place/Brazil/Independence"}
+      ],
+      "collectionIds": ["exploration-and-exchange"]
+    }
+  ]
+}

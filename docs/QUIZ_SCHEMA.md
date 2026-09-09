@@ -94,9 +94,10 @@ state, or mobile-local Daily history.
 
 ## Ingestion Lifecycle
 
-Q3 adds curated JSON tooling under `content/quizzes/`. The canonical bank is
-allowed to be empty until Q7; an empty bank is valid with a warning and imports
-without writing questions.
+Q3 adds curated JSON tooling under `content/quizzes/`. The reader permits an
+empty bank for tests and tooling, but Q7 now provides the initial reviewed
+60-question production bank. Its editorial record is
+`docs/QUIZ_CONTENT_REVIEW.md`.
 
 The quiz importer validates all loaded collections and question packs before it
 requests a database connection. It then uses one transaction, upserts only the

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "taj-mahal-commissioner",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which Mughal emperor commissioned the Taj Mahal?",
+      "options": [
+        {"id": "shah-jahan", "text": "Shah Jahan"},
+        {"id": "akbar", "text": "Akbar"},
+        {"id": "babur", "text": "Babur"},
+        {"id": "aurangzeb", "text": "Aurangzeb"}
+      ],
+      "correctOptionId": "shah-jahan",
+      "explanation": "Shah Jahan commissioned the Taj Mahal as a mausoleum for his wife Mumtaz Mahal.",
+      "sources": [{"displayName": "UNESCO World Heritage Centre - Taj Mahal", "url": "https://whc.unesco.org/en/list/252/"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "tokugawa-shogunate-founder",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who established Japan's Tokugawa shogunate in 1603?",
+      "options": [
+        {"id": "tokugawa-ieyasu", "text": "Tokugawa Ieyasu"},
+        {"id": "oda-nobunaga", "text": "Oda Nobunaga"},
+        {"id": "toyotomi-hideyoshi", "text": "Toyotomi Hideyoshi"},
+        {"id": "saigo-takamori", "text": "Saigo Takamori"}
+      ],
+      "correctOptionId": "tokugawa-ieyasu",
+      "explanation": "Tokugawa Ieyasu received the title of shogun in 1603 and founded a military government that lasted more than 250 years.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Tokugawa Ieyasu", "url": "https://www.britannica.com/biography/Tokugawa-Ieyasu"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "angkor-wat-original-dedication",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Angkor Wat was originally built as a temple dedicated to which Hindu deity?",
+      "options": [
+        {"id": "vishnu", "text": "Vishnu"},
+        {"id": "shiva", "text": "Shiva"},
+        {"id": "brahma", "text": "Brahma"},
+        {"id": "ganesha", "text": "Ganesha"}
+      ],
+      "correctOptionId": "vishnu",
+      "explanation": "King Suryavarman II built Angkor Wat in the twelfth century as a state temple dedicated to Vishnu; it later became a Buddhist site.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Angkor Wat", "url": "https://www.britannica.com/topic/Angkor-Wat"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "treaty-waitangi-parties",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Treaty of Waitangi was signed in 1840 between representatives of the British Crown and leaders of which people?",
+      "options": [
+        {"id": "maori", "text": "Maori"},
+        {"id": "samoan", "text": "Samoan"},
+        {"id": "tongan", "text": "Tongan"},
+        {"id": "tahitian", "text": "Tahitian"}
+      ],
+      "correctOptionId": "maori",
+      "explanation": "More than 500 Maori chiefs signed versions of the Treaty of Waitangi with the British Crown in 1840, although the texts differed in important ways.",
+      "sources": [{"displayName": "New Zealand History - The Treaty in brief", "url": "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief"}],
+      "collectionIds": ["wars-and-conflicts", "exploration-and-exchange"]
+    },
+    {
+      "id": "meiji-restoration-government",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Meiji Restoration of 1868 formally restored governing authority to whom?",
+      "options": [
+        {"id": "emperor", "text": "The emperor"},
+        {"id": "shogun", "text": "The shogun"},
+        {"id": "daimyo-council", "text": "A council of daimyo"},
+        {"id": "national-assembly", "text": "An elected national assembly"}
+      ],
+      "correctOptionId": "emperor",
+      "explanation": "The Meiji Restoration ended the Tokugawa shogunate and proclaimed the restoration of imperial rule under the young emperor Meiji.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Meiji Restoration", "url": "https://www.britannica.com/event/Meiji-Restoration"}],
+      "collectionIds": ["revolutions"]
+    },
+    {
+      "id": "bandung-conference-opening-president",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Which Indonesian president opened the 1955 Bandung Conference?",
+      "options": [
+        {"id": "sukarno", "text": "Sukarno"},
+        {"id": "suharto", "text": "Suharto"},
+        {"id": "mohammad-hatta", "text": "Mohammad Hatta"},
+        {"id": "sutan-sjahrir", "text": "Sutan Sjahrir"}
+      ],
+      "correctOptionId": "sukarno",
+      "explanation": "President Sukarno opened the Bandung Conference, where delegates from 29 Asian and African countries discussed cooperation and opposition to colonialism.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Bandung Conference", "url": "https://www.britannica.com/event/Bandung-Conference"}],
+      "collectionIds": ["leaders-and-power", "exploration-and-exchange"]
+    },
+    {
+      "id": "great-wall-single-project",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The Great Wall of China was constructed as one continuous project by a single dynasty.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "false",
+      "explanation": "Different Chinese states and dynasties built and rebuilt separate defensive walls over many centuries; the surviving system is not one single-period project.",
+      "sources": [{"displayName": "UNESCO World Heritage Centre - The Great Wall", "url": "https://whc.unesco.org/en/list/438/"}],
+      "collectionIds": ["ancient-history", "science-and-innovation"]
+    },
+    {
+      "id": "india-independence-1947",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "British colonial rule in India formally ended in 1947.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "The Indian Independence Act took effect in August 1947, creating the independent dominions of India and Pakistan amid a traumatic partition.",
+      "sources": [{"displayName": "UK Parliament - Indian Independence Act 1947", "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/empire/collections1/collections2/indian-independence-act-1947/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "identify-terracotta-army",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which archaeological discovery is shown in this photograph?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg",
+        "altText": "Rows of life-sized clay figures standing in an excavated pit",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Shihuang_Terracotta_Army,_Pit_1.jpg",
+        "attribution": "Photo by Gary Todd",
+        "creator": "Gary Todd",
+        "license": "CC0 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "options": [
+        {"id": "terracotta-army", "text": "The Terracotta Army"},
+        {"id": "haniwa", "text": "The Haniwa figures"},
+        {"id": "angkor-guardians", "text": "The Angkor guardian statues"},
+        {"id": "ming-tombs", "text": "The Ming tomb figures"}
+      ],
+      "correctOptionId": "terracotta-army",
+      "explanation": "The photograph shows the Terracotta Army placed near the tomb of Qin Shihuangdi, the first emperor of unified China.",
+      "sources": [{"displayName": "The Metropolitan Museum of Art - Qin Dynasty", "url": "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c"}],
+      "collectionIds": ["ancient-history", "leaders-and-power", "science-and-innovation"]
+    },
+    {
+      "id": "order-asian-pacific-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these Asian and Pacific milestones in chronological order, earliest first.",
+      "items": [
+        {"id": "tang-dynasty", "text": "Tang dynasty begins in China"},
+        {"id": "angkor-wat", "text": "Construction of Angkor Wat begins"},
+        {"id": "tokugawa-shogunate", "text": "Tokugawa shogunate begins"},
+        {"id": "meiji-restoration", "text": "Meiji Restoration begins"}
+      ],
+      "correctOrderItemIds": ["tang-dynasty", "angkor-wat", "tokugawa-shogunate", "meiji-restoration"],
+      "explanation": "The milestones date to 618, the early twelfth century, 1603, and 1868 respectively.",
+      "sources": [
+        {"displayName": "Encyclopaedia Britannica - Tang dynasty", "url": "https://www.britannica.com/topic/Tang-dynasty"},
+        {"displayName": "Encyclopaedia Britannica - Angkor Wat", "url": "https://www.britannica.com/topic/Angkor-Wat"},
+        {"displayName": "Encyclopaedia Britannica - Tokugawa period", "url": "https://www.britannica.com/event/Tokugawa-period"},
+        {"displayName": "Encyclopaedia Britannica - Meiji Restoration", "url": "https://www.britannica.com/event/Meiji-Restoration"}
+      ],
+      "collectionIds": ["leaders-and-power"]
+    }
+  ]
+}

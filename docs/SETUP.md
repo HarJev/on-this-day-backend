@@ -269,11 +269,9 @@ to obscure backend issues during demos.
 ## Quiz Local Expectation
 
 Quiz HTTP routes use the same local SAM/API Gateway path as the existing
-endpoints. The canonical `content/quizzes/` directory intentionally contains no
-published questions until Q7. After importing that empty catalog,
-`GET /v1/quizzes/catalog` returns zero published counts, while Quick Play and
-Daily Challenge correctly return `400 insufficient_quiz_questions`. Do not add
-placeholder runtime quiz content merely to make these routes return a quiz.
+endpoints. Import the reviewed content under `content/quizzes/` before calling
+Quick Play or Daily Challenge. The imported bank contains 60 published
+questions; its review record is `docs/QUIZ_CONTENT_REVIEW.md`.
 
 For verbose SAM runtime diagnostics, start with:
 
@@ -451,9 +449,8 @@ is created by this command.
 
 ## Quiz v0.1.0 Local Content Tooling
 
-Quiz v0.1.0 currently has schema, domain, validation, and import tooling. The
-canonical question bank remains empty until Q7, and no quiz HTTP routes are
-locally callable yet.
+Quiz v0.1.0 has schema, domain, validation, import tooling, selection services,
+HTTP routes, and an initial reviewed 60-question bank.
 
 The curated quiz-content root is:
 
@@ -461,10 +458,9 @@ The curated quiz-content root is:
 content/quizzes/
 ```
 
-It contains `collections.json` and may contain a `questions/` directory with
-regular `*.json` question packs. A missing or empty `questions/` directory is
-valid while the canonical bank is empty; validation reports a warning that no
-published quiz questions exist.
+It contains `collections.json` and a `questions/` directory with six regular
+`*.json` question packs. The reader continues to accept a missing or empty
+question directory for tests and tooling, with a no-published-questions warning.
 
 After starting Postgres and running Flyway migrations, import quiz content with:
 
@@ -494,5 +490,5 @@ JSON, unknown JSON properties, missing migrations, or database constraint
 failures fail the command. The database password is accepted only as a command
 argument and is not printed by the command.
 
-Planned quiz endpoints are documented in `docs/API_CONTRACT.md`; they must not
-be treated as locally callable until their implementation tasks are complete.
+Quiz endpoints are documented in `docs/API_CONTRACT.md` and are locally callable
+through SAM after migration and both content imports.

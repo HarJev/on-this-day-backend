@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "turkish-republic-founder",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who became the founding president of the Republic of Turkey in 1923?",
+      "options": [
+        {"id": "mustafa-kemal-ataturk", "text": "Mustafa Kemal Ataturk"},
+        {"id": "ismail-enver", "text": "Ismail Enver"},
+        {"id": "mehmed-vi", "text": "Mehmed VI"},
+        {"id": "ismet-inonu", "text": "Ismet Inonu"}
+      ],
+      "correctOptionId": "mustafa-kemal-ataturk",
+      "explanation": "Mustafa Kemal led the Turkish national movement and became the republic's first president when it was proclaimed in 1923.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Kemal Ataturk", "url": "https://www.britannica.com/biography/Kemal-Ataturk"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "haitian-revolution-outcome",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which independent country emerged from the Haitian Revolution?",
+      "options": [
+        {"id": "haiti", "text": "Haiti"},
+        {"id": "jamaica", "text": "Jamaica"},
+        {"id": "cuba", "text": "Cuba"},
+        {"id": "barbados", "text": "Barbados"}
+      ],
+      "correctOptionId": "haiti",
+      "explanation": "The revolution overthrew French colonial rule and slavery in Saint-Domingue, and Haiti declared independence in 1804.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Haitian Revolution", "url": "https://www.britannica.com/topic/Haitian-Revolution"}],
+      "collectionIds": ["wars-and-conflicts", "revolutions"]
+    },
+    {
+      "id": "rights-of-man-year",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "During which revolution was the Declaration of the Rights of Man and of the Citizen adopted?",
+      "options": [
+        {"id": "french", "text": "French Revolution"},
+        {"id": "american", "text": "American Revolution"},
+        {"id": "haitian", "text": "Haitian Revolution"},
+        {"id": "russian", "text": "Russian Revolution"}
+      ],
+      "correctOptionId": "french",
+      "explanation": "France's National Assembly adopted the declaration in August 1789 during the opening phase of the French Revolution.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Declaration of the Rights of Man and of the Citizen", "url": "https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen"}],
+      "collectionIds": ["revolutions", "society-culture-and-ideas"]
+    },
+    {
+      "id": "industrial-revolution-origin",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which country did the Industrial Revolution first take hold?",
+      "options": [
+        {"id": "great-britain", "text": "Great Britain"},
+        {"id": "france", "text": "France"},
+        {"id": "germany", "text": "Germany"},
+        {"id": "united-states", "text": "United States"}
+      ],
+      "correctOptionId": "great-britain",
+      "explanation": "Mechanized industrial production first transformed Great Britain in the eighteenth century before spreading elsewhere.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Industrial Revolution", "url": "https://www.britannica.com/event/Industrial-Revolution"}],
+      "collectionIds": ["revolutions", "science-and-innovation"]
+    },
+    {
+      "id": "new-zealand-womens-vote",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "In what year did New Zealand become the first self-governing country where women could vote in parliamentary elections?",
+      "options": [
+        {"id": "1893", "text": "1893"},
+        {"id": "1881", "text": "1881"},
+        {"id": "1902", "text": "1902"},
+        {"id": "1918", "text": "1918"}
+      ],
+      "correctOptionId": "1893",
+      "explanation": "New Zealand's Electoral Act received assent in September 1893, enfranchising women for that year's parliamentary election.",
+      "sources": [{"displayName": "New Zealand History - Women win the right to vote", "url": "https://nzhistory.govt.nz/politics/womens-suffrage"}],
+      "collectionIds": ["revolutions", "society-culture-and-ideas"]
+    },
+    {
+      "id": "south-africa-1994-president",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Who became president after South Africa's first democratic national election in 1994?",
+      "options": [
+        {"id": "nelson-mandela", "text": "Nelson Mandela"},
+        {"id": "fw-de-klerk", "text": "F. W. de Klerk"},
+        {"id": "thabo-mbeki", "text": "Thabo Mbeki"},
+        {"id": "desmond-tutu", "text": "Desmond Tutu"}
+      ],
+      "correctOptionId": "nelson-mandela",
+      "explanation": "The African National Congress won the April 1994 election, and Nelson Mandela was inaugurated as president on 10 May.",
+      "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
+      "collectionIds": ["revolutions", "leaders-and-power"]
+    },
+    {
+      "id": "mexican-revolution-began-1910",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The Mexican Revolution began in 1910.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "The revolution began in 1910 after Francisco Madero challenged the long rule of Porfirio Diaz and called for an uprising.",
+      "sources": [{"displayName": "Library of Congress - The Mexican Revolution", "url": "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/overview.html"}],
+      "collectionIds": ["wars-and-conflicts", "revolutions"]
+    },
+    {
+      "id": "identify-mahatma-gandhi",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which independence leader appears in this 1931 studio portrait?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+        "altText": "Black-and-white seated studio portrait of a man wearing a plain wrap and round glasses",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg",
+        "attribution": "Photograph by Elliott & Fry",
+        "creator": "Elliott & Fry",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {"id": "mahatma-gandhi", "text": "Mahatma Gandhi"},
+        {"id": "jawaharlal-nehru", "text": "Jawaharlal Nehru"},
+        {"id": "rabindranath-tagore", "text": "Rabindranath Tagore"},
+        {"id": "muhammad-ali-jinnah", "text": "Muhammad Ali Jinnah"}
+      ],
+      "correctOptionId": "mahatma-gandhi",
+      "explanation": "The portrait shows Mohandas Gandhi, who led mass nonviolent campaigns against British rule in India.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Mahatma Gandhi", "url": "https://www.britannica.com/biography/Mahatma-Gandhi"}],
+      "collectionIds": ["revolutions"]
+    },
+    {
+      "id": "identify-harriet-tubman",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which abolitionist and Underground Railroad conductor is shown in this portrait?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Harriet_Tubman_%28circa_1885%29.jpg",
+        "altText": "Black-and-white seated portrait of a woman in nineteenth-century dress",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Harriet_Tubman_(circa_1885).jpg",
+        "attribution": "Photograph by Horatio Seymour Squyer",
+        "creator": "Horatio Seymour Squyer",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {"id": "harriet-tubman", "text": "Harriet Tubman"},
+        {"id": "sojourner-truth", "text": "Sojourner Truth"},
+        {"id": "ida-b-wells", "text": "Ida B. Wells"},
+        {"id": "mary-mcleod-bethune", "text": "Mary McLeod Bethune"}
+      ],
+      "correctOptionId": "harriet-tubman",
+      "explanation": "The portrait shows Harriet Tubman, who escaped slavery and repeatedly returned to Maryland to guide others to freedom.",
+      "sources": [{"displayName": "U.S. National Park Service - Harriet Tubman", "url": "https://www.nps.gov/people/harriet-tubman.htm"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "order-atlantic-revolutions",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these Atlantic-world conflicts and revolutions in chronological order, earliest first.",
+      "items": [
+        {"id": "english-civil-war", "text": "English Civil War begins"},
+        {"id": "american-revolution", "text": "American Revolutionary War begins"},
+        {"id": "french-revolution", "text": "French Revolution begins"},
+        {"id": "haitian-revolution", "text": "Haitian Revolution begins"}
+      ],
+      "correctOrderItemIds": ["english-civil-war", "american-revolution", "french-revolution", "haitian-revolution"],
+      "explanation": "The conflicts began in 1642, 1775, 1789, and 1791 respectively.",
+      "sources": [
+        {"displayName": "Encyclopaedia Britannica - English Civil Wars", "url": "https://www.britannica.com/event/English-Civil-Wars"},
+        {"displayName": "U.S. National Park Service - The American Revolution", "url": "https://www.nps.gov/subjects/americanrevolution/index.htm"},
+        {"displayName": "Encyclopaedia Britannica - French Revolution", "url": "https://www.britannica.com/event/French-Revolution"},
+        {"displayName": "Encyclopaedia Britannica - Haitian Revolution", "url": "https://www.britannica.com/topic/Haitian-Revolution"}
+      ],
+      "collectionIds": ["wars-and-conflicts", "revolutions"]
+    }
+  ]
+}

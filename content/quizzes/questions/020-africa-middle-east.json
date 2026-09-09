@@ -1,0 +1,195 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "mansa-musa-empire",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Mansa Musa ruled which West African empire?",
+      "options": [
+        {"id": "mali", "text": "Mali"},
+        {"id": "songhai", "text": "Songhai"},
+        {"id": "ghana", "text": "Ghana"},
+        {"id": "kanem-bornu", "text": "Kanem-Bornu"}
+      ],
+      "correctOptionId": "mali",
+      "explanation": "Mansa Musa ruled the Mali Empire in the early fourteenth century and became renowned for his 1324 pilgrimage to Mecca.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Musa I of Mali", "url": "https://www.britannica.com/biography/Musa-I-of-Mali"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "great-zimbabwe-builders",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Great Zimbabwe was built principally by ancestors of which people?",
+      "options": [
+        {"id": "shona", "text": "Shona"},
+        {"id": "zulu", "text": "Zulu"},
+        {"id": "maasai", "text": "Maasai"},
+        {"id": "tuareg", "text": "Tuareg"}
+      ],
+      "correctOptionId": "shona",
+      "explanation": "Great Zimbabwe was the work of a Shona-speaking society and became an important trading center between the eleventh and fifteenth centuries.",
+      "sources": [{"displayName": "UNESCO World Heritage Centre - Great Zimbabwe National Monument", "url": "https://whc.unesco.org/en/list/364/"}],
+      "collectionIds": ["exploration-and-exchange"]
+    },
+    {
+      "id": "aksum-conversion-ruler",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Under which ruler did the Kingdom of Aksum adopt Christianity?",
+      "options": [
+        {"id": "ezana", "text": "Ezana"},
+        {"id": "lalibela", "text": "Lalibela"},
+        {"id": "tewodros-ii", "text": "Tewodros II"},
+        {"id": "menelik-ii", "text": "Menelik II"}
+      ],
+      "correctOptionId": "ezana",
+      "explanation": "King Ezana adopted Christianity in the fourth century, making Aksum one of the earliest Christian states.",
+      "sources": [{"displayName": "The Metropolitan Museum of Art - The Kingdom of Aksum", "url": "https://www.metmuseum.org/essays/the-kingdom-of-aksum"}],
+      "collectionIds": ["ancient-history", "leaders-and-power", "exploration-and-exchange"]
+    },
+    {
+      "id": "constantinople-ottoman-sultan",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which Ottoman sultan captured Constantinople in 1453?",
+      "options": [
+        {"id": "mehmed-ii", "text": "Mehmed II"},
+        {"id": "suleyman-i", "text": "Suleyman I"},
+        {"id": "selim-i", "text": "Selim I"},
+        {"id": "murad-iv", "text": "Murad IV"}
+      ],
+      "correctOptionId": "mehmed-ii",
+      "explanation": "Mehmed II led the Ottoman capture of Constantinople in 1453, ending the Byzantine Empire.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Fall of Constantinople", "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"}],
+      "collectionIds": ["wars-and-conflicts", "leaders-and-power"]
+    },
+    {
+      "id": "suez-canal-seas",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Suez Canal directly connects the Mediterranean Sea with which body of water?",
+      "options": [
+        {"id": "red-sea", "text": "Red Sea"},
+        {"id": "black-sea", "text": "Black Sea"},
+        {"id": "arabian-sea", "text": "Arabian Sea"},
+        {"id": "persian-gulf", "text": "Persian Gulf"}
+      ],
+      "correctOptionId": "red-sea",
+      "explanation": "The Suez Canal crosses the Isthmus of Suez and links the Mediterranean Sea to the Red Sea.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Suez Canal", "url": "https://www.britannica.com/topic/Suez-Canal"}],
+      "collectionIds": ["science-and-innovation", "exploration-and-exchange"]
+    },
+    {
+      "id": "kush-royal-city-meroe",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Which city became a major royal and industrial center of the Kingdom of Kush?",
+      "options": [
+        {"id": "meroe", "text": "Meroe"},
+        {"id": "aksum", "text": "Aksum"},
+        {"id": "timbuktu", "text": "Timbuktu"},
+        {"id": "kilwa", "text": "Kilwa"}
+      ],
+      "correctOptionId": "meroe",
+      "explanation": "Meroe became a royal residence and an important ironworking center of Kush in what is now Sudan.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Meroe", "url": "https://www.britannica.com/place/Meroe-ancient-city-Sudan"}],
+      "collectionIds": ["ancient-history"]
+    },
+    {
+      "id": "adwa-ethiopian-independence",
+      "type": "true_false",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Ethiopia's victory at the Battle of Adwa helped preserve its independence from Italian conquest.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "Ethiopian forces defeated Italy at Adwa in 1896, securing international recognition of Ethiopia's sovereignty.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Battle of Adwa", "url": "https://www.britannica.com/event/Battle-of-Adwa"}],
+      "collectionIds": ["wars-and-conflicts"]
+    },
+    {
+      "id": "identify-benin-bronze",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "This cast metal artwork belongs to the royal artistic tradition of which kingdom?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/19/At_the_British_Museum_2024_017.jpg",
+        "altText": "Relief-cast metal plaque displayed in a museum gallery",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:At_the_British_Museum_2024_017.jpg",
+        "attribution": "Photo by Mike Peel",
+        "creator": "Mike Peel",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {"id": "benin", "text": "Kingdom of Benin"},
+        {"id": "kongo", "text": "Kingdom of Kongo"},
+        {"id": "aksum", "text": "Kingdom of Aksum"},
+        {"id": "mutapa", "text": "Kingdom of Mutapa"}
+      ],
+      "correctOptionId": "benin",
+      "explanation": "The object is one of the brass and bronze works created for the royal court of the Kingdom of Benin in present-day Nigeria.",
+      "sources": [{"displayName": "British Museum - Benin Bronzes", "url": "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "identify-nelson-mandela",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which twentieth-century African leader is represented by this portrait bust?",
+      "image": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Bust_of_Nelson_Mandela%2C_National_Portrait_Gallery%2C_London.jpg",
+        "altText": "Bronze portrait bust of an older man in a museum foyer",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bust_of_Nelson_Mandela,_National_Portrait_Gallery,_London.jpg",
+        "attribution": "Photo by 14GTR; sculpture by Ian Walters",
+        "creator": "14GTR",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {"id": "nelson-mandela", "text": "Nelson Mandela"},
+        {"id": "kwame-nkrumah", "text": "Kwame Nkrumah"},
+        {"id": "jomo-kenyatta", "text": "Jomo Kenyatta"},
+        {"id": "julius-nyerere", "text": "Julius Nyerere"}
+      ],
+      "correctOptionId": "nelson-mandela",
+      "explanation": "The bust represents Nelson Mandela, who became South Africa's first democratically elected president in 1994.",
+      "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
+      "collectionIds": ["leaders-and-power"]
+    },
+    {
+      "id": "order-africa-middle-east-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these African and Middle Eastern milestones in chronological order, earliest first.",
+      "items": [
+        {"id": "aksum-christianity", "text": "Aksum adopts Christianity under Ezana"},
+        {"id": "mali-founded", "text": "Mali Empire emerges under Sundiata"},
+        {"id": "constantinople-captured", "text": "Ottomans capture Constantinople"},
+        {"id": "battle-adwa", "text": "Ethiopia wins the Battle of Adwa"}
+      ],
+      "correctOrderItemIds": ["aksum-christianity", "mali-founded", "constantinople-captured", "battle-adwa"],
+      "explanation": "These milestones occurred around the fourth century, about 1235, in 1453, and in 1896 respectively.",
+      "sources": [
+        {"displayName": "The Metropolitan Museum of Art - The Kingdom of Aksum", "url": "https://www.metmuseum.org/essays/the-kingdom-of-aksum"},
+        {"displayName": "Encyclopaedia Britannica - Mali Empire", "url": "https://www.britannica.com/place/Mali-historical-empire-Africa"},
+        {"displayName": "Encyclopaedia Britannica - Fall of Constantinople", "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"},
+        {"displayName": "Encyclopaedia Britannica - Battle of Adwa", "url": "https://www.britannica.com/event/Battle-of-Adwa"}
+      ],
+      "collectionIds": ["wars-and-conflicts"]
+    }
+  ]
+}

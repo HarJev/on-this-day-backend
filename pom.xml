@@ -26,6 +26,7 @@
     <maven.compiler.plugin.version>3.13.0</maven.compiler.plugin.version>
     <maven.enforcer.plugin.version>3.4.1</maven.enforcer.plugin.version>
     <exec.maven.plugin.version>3.3.0</exec.maven.plugin.version>
+    <exec.mainClass>com.onthisday.ingestion.CuratedContentImportCommand</exec.mainClass>
     <maven.failsafe.plugin.version>3.2.5</maven.failsafe.plugin.version>
     <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
     <postgresql.version>42.7.4</postgresql.version>
@@ -186,7 +187,7 @@
         <artifactId>exec-maven-plugin</artifactId>
         <version>${exec.maven.plugin.version}</version>
         <configuration>
-          <mainClass>com.onthisday.ingestion.CuratedContentImportCommand</mainClass>
+          <mainClass>${exec.mainClass}</mainClass>
         </configuration>
       </plugin>
     </plugins>
