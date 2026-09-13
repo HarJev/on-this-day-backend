@@ -45,7 +45,10 @@ results into HTTP responses.
 
 ## Lambda Functions
 
-v0.0.1 should use a small set of Lambda entry points.
+v0.0.1 should use a small set of Lambda entry points. Quiz endpoints are an
+additive feature already implemented in this repository and documented as a
+separate API contract. They should not complicate the core daily-history path
+or change its behavior.
 
 ### Get Today Content
 
@@ -110,7 +113,7 @@ Responsibilities:
 
 ## API Boundary
 
-The public v0.0.1 API surface should remain intentionally narrow:
+The core v0.0.1 API surface should remain intentionally narrow:
 
 ```text
 GET    /v1/days/today
@@ -122,6 +125,11 @@ GET    /v1/health
 
 Do not expose arbitrary date browsing, global search, categories, timelines, or
 event mutation APIs in v0.0.1.
+
+Quiz routes are additive and remain separately documented in
+`docs/API_CONTRACT.md`. Their presence does not expand the daily-history
+product scope or require accounts, personalization, or arbitrary history
+browsing.
 
 ## Persistence Model
 

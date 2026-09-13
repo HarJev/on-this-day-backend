@@ -31,6 +31,7 @@
     <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
     <postgresql.version>42.7.4</postgresql.version>
     <slf4j.version>2.0.13</slf4j.version>
+    <spotbugs.maven.plugin.version>4.8.6.6</spotbugs.maven.plugin.version>
     <testcontainers.version>1.20.1</testcontainers.version>
 
     <flyway.url>jdbc:postgresql://localhost:5432/on_this_day</flyway.url>
@@ -144,6 +145,10 @@
         <version>${maven.compiler.plugin.version}</version>
         <configuration>
           <release>${maven.compiler.release}</release>
+          <showWarnings>true</showWarnings>
+          <compilerArgs>
+            <arg>-Xlint:all</arg>
+          </compilerArgs>
         </configuration>
       </plugin>
 
@@ -189,6 +194,27 @@
         <configuration>
           <mainClass>${exec.mainClass}</mainClass>
         </configuration>
+      </plugin>
+
+      <plugin>
+        <groupId>com.github.spotbugs</groupId>
+        <artifactId>spotbugs-maven-plugin</artifactId>
+        <version>${spotbugs.maven.plugin.version}</version>
+        <configuration>
+          <failOnError>false</failOnError>
+          <threshold>Low</threshold>
+          <effort>Max</effort>
+          <xmlOutput>true</xmlOutput>
+        </configuration>
+        <executions>
+          <execution>
+            <id>spotbugs-report</id>
+            <phase>verify</phase>
+            <goals>
+              <goal>check</goal>
+            </goals>
+          </execution>
+        </executions>
       </plugin>
     </plugins>
   </build>

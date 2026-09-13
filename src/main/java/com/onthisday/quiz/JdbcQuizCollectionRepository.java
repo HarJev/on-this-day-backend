@@ -40,13 +40,13 @@ public class JdbcQuizCollectionRepository implements QuizCollectionRepository {
   public Optional<QuizCollection> findById(String collectionId) {
     requireSlug(collectionId, "collectionId");
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=findQuizCollectionById collectionId={}", collectionId);
+    LOG.debug("db_query_start operation=findQuizCollectionById collectionId={}", collectionId);
     try (var connection = dataSource.getConnection();
         var statement = connection.prepareStatement(FIND_BY_ID_SQL)) {
       statement.setString(1, collectionId);
       try (var resultSet = statement.executeQuery()) {
         var result = resultSet.next() ? Optional.of(mapCollection(resultSet)) : Optional.<QuizCollection>empty();
-        LOG.info(
+        LOG.debug(
             "db_query_end operation=findQuizCollectionById collectionId={} found={} durationMs={}",
             collectionId,
             result.isPresent(),
@@ -62,7 +62,7 @@ public class JdbcQuizCollectionRepository implements QuizCollectionRepository {
   @Override
   public List<QuizCollection> findAll() {
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=findAllQuizCollections");
+    LOG.debug("db_query_start operation=findAllQuizCollections");
     try (var connection = dataSource.getConnection();
         var statement = connection.prepareStatement(FIND_ALL_SQL);
         var resultSet = statement.executeQuery()) {
@@ -70,7 +70,7 @@ public class JdbcQuizCollectionRepository implements QuizCollectionRepository {
       while (resultSet.next()) {
         collections.add(mapCollection(resultSet));
       }
-      LOG.info(
+      LOG.debug(
           "db_query_end operation=findAllQuizCollections collectionCount={} durationMs={}",
           collections.size(),
           elapsedMillis(startedAt));

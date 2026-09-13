@@ -52,7 +52,7 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
   public Optional<DailyChallenge> findByDate(LocalDate date) {
     Objects.requireNonNull(date, "date must not be null");
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=findDailyChallenge date={}", date);
+    LOG.debug("db_query_start operation=findDailyChallenge date={}", date);
     try (var connection = dataSource.getConnection();
         var statement = connection.prepareStatement(FIND_BY_DATE_SQL)) {
       statement.setObject(1, date);
@@ -68,14 +68,14 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
           }
         }
         if (!challengeFound) {
-          LOG.info(
+          LOG.debug(
               "db_query_end operation=findDailyChallenge found=false durationMs={}",
               elapsedMillis(startedAt));
           return Optional.empty();
         }
         try {
           var challenge = new DailyChallenge(date, questions);
-          LOG.info(
+          LOG.debug(
               "db_query_end operation=findDailyChallenge found=true durationMs={}",
               elapsedMillis(startedAt));
           return Optional.of(challenge);
@@ -96,13 +96,13 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
   public boolean insertIfAbsent(DailyChallenge challenge) {
     Objects.requireNonNull(challenge, "challenge must not be null");
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=insertDailyChallenge date={}", challenge.date());
+    LOG.debug("db_query_start operation=insertDailyChallenge date={}", challenge.date());
     try (var connection = dataSource.getConnection()) {
       connection.setAutoCommit(false);
       try {
         if (!insertParent(connection, challenge.date())) {
           connection.commit();
-          LOG.info(
+          LOG.debug(
               "db_query_end operation=insertDailyChallenge inserted=false durationMs={}",
               elapsedMillis(startedAt));
           return false;
@@ -110,7 +110,7 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
         insertQuestions(connection, challenge);
         completeChallenge(connection, challenge.date());
         connection.commit();
-        LOG.info(
+        LOG.debug(
             "db_query_end operation=insertDailyChallenge inserted=true durationMs={}",
             elapsedMillis(startedAt));
         return true;

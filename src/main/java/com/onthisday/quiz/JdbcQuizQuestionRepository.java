@@ -70,7 +70,7 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
     }
 
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=findQuizQuestionsByIds questionCount={}", validatedIds.size());
+    LOG.debug("db_query_start operation=findQuizQuestionsByIds questionCount={}", validatedIds.size());
     try (var connection = dataSource.getConnection()) {
       configureSnapshotRead(connection);
       try {
@@ -82,7 +82,7 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
         var images = findImages(connection, validatedIds);
         var questions = mapQuestions(validatedIds, baseRows, sources, options, orderingItems, images);
         connection.commit();
-        LOG.info(
+        LOG.debug(
             "db_query_end operation=findQuizQuestionsByIds questionCount={} durationMs={}",
             questions.size(),
             elapsedMillis(startedAt));
@@ -102,7 +102,7 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
   private List<QuizQuestionCandidate> findCandidates(
       String sql, String collectionId, String operation) {
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation={}{}", operation, collectionId == null ? "" : " collectionId=" + collectionId);
+    LOG.debug("db_query_start operation={}{}", operation, collectionId == null ? "" : " collectionId=" + collectionId);
     try (var connection = dataSource.getConnection();
         var statement = connection.prepareStatement(sql)) {
       if (collectionId != null) {
@@ -117,7 +117,7 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
                   QuestionType.fromValue(resultSet.getString("question_type")),
                   QuizDifficulty.fromValue(resultSet.getString("difficulty"))));
         }
-        LOG.info(
+        LOG.debug(
             "db_query_end operation={} candidateCount={} durationMs={}",
             operation,
             candidates.size(),

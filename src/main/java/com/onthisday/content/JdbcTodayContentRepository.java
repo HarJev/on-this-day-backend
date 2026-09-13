@@ -1,7 +1,7 @@
 package com.onthisday.content;
 
 import java.net.URI;
-import java.sql.PreparedStatement;
+import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.time.MonthDay;
@@ -77,24 +77,24 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
     Objects.requireNonNull(date, "date must not be null");
 
     var startedAt = System.nanoTime();
-    LOG.info(
+    LOG.debug(
         "db_query_start operation=getTodayContent month={} day={}",
         date.getMonthValue(),
         date.getDayOfMonth());
-    LOG.info(
+    LOG.debug(
         "db_connection_start operation=getTodayContent month={} day={}",
         date.getMonthValue(),
         date.getDayOfMonth());
     var connectionStartedAt = System.nanoTime();
     try (var connection = dataSource.getConnection()) {
       var connectionDurationMs = (System.nanoTime() - connectionStartedAt) / 1_000_000;
-      LOG.info(
+      LOG.debug(
           "db_connection_acquired operation=getTodayContent month={} day={} durationMs={}",
           date.getMonthValue(),
           date.getDayOfMonth(),
           connectionDurationMs);
-      var featuredEvent = findFeaturedEvent(connection.prepareStatement(FEATURED_SQL), date);
-      var additionalEvents = findAdditionalEvents(connection.prepareStatement(ADDITIONAL_SQL), date);
+      var featuredEvent = findFeaturedEvent(connection, date);
+      var additionalEvents = findAdditionalEvents(connection, date);
 
       var content =
           new TodayContent(
@@ -102,7 +102,7 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
               featuredEvent,
               additionalEvents);
       var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
-      LOG.info(
+      LOG.debug(
           "db_query_end operation=getTodayContent month={} day={} additionalCount={} durationMs={}",
           date.getMonthValue(),
           date.getDayOfMonth(),
@@ -119,8 +119,8 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
     }
   }
 
-  private FeaturedEvent findFeaturedEvent(PreparedStatement statement, MonthDay date) throws SQLException {
-    try (statement) {
+  private FeaturedEvent findFeaturedEvent(Connection connection, MonthDay date) throws SQLException {
+    try (var statement = connection.prepareStatement(FEATURED_SQL)) {
       statement.setInt(1, date.getMonthValue());
       statement.setInt(2, date.getDayOfMonth());
 
@@ -152,8 +152,9 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
     }
   }
 
-  private List<EventSummary> findAdditionalEvents(PreparedStatement statement, MonthDay date) throws SQLException {
-    try (statement) {
+  private List<EventSummary> findAdditionalEvents(Connection connection, MonthDay date)
+      throws SQLException {
+    try (var statement = connection.prepareStatement(ADDITIONAL_SQL)) {
       statement.setInt(1, date.getMonthValue());
       statement.setInt(2, date.getDayOfMonth());
 

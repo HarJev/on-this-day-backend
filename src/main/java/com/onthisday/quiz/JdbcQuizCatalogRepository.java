@@ -47,35 +47,23 @@ public class JdbcQuizCatalogRepository implements QuizCatalogRepository {
   @Override
   public QuizCatalogCounts loadPublishedCounts() {
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=loadQuizCatalogCounts");
+    LOG.debug("db_query_start operation=loadQuizCatalogCounts");
     try (var connection = dataSource.getConnection()) {
-      configureSnapshotRead(connection);
-      try {
-        var mixedCount = findMixedCount(connection);
-        var collectionCounts = findCollectionCounts(connection);
-        connection.commit();
-        LOG.info(
-            "db_query_end operation=loadQuizCatalogCounts mixedPublishedQuestionCount={} collectionCount={} durationMs={}",
-            mixedCount,
-            collectionCounts.size(),
-            elapsedMillis(startedAt));
-        return new QuizCatalogCounts(mixedCount, collectionCounts);
-      } catch (SQLException | RuntimeException exception) {
-        rollback(connection, exception);
-        throw exception;
-      }
+      connection.setReadOnly(true);
+      var mixedCount = findMixedCount(connection);
+      var collectionCounts = findCollectionCounts(connection);
+      LOG.debug(
+          "db_query_end operation=loadQuizCatalogCounts mixedPublishedQuestionCount={} collectionCount={} durationMs={}",
+          mixedCount,
+          collectionCounts.size(),
+          elapsedMillis(startedAt));
+      return new QuizCatalogCounts(mixedCount, collectionCounts);
     } catch (QuizUnavailableException exception) {
       throw exception;
     } catch (SQLException | RuntimeException exception) {
       LOG.error("db_query_failed operation=loadQuizCatalogCounts", exception);
       throw new QuizUnavailableException("Could not load quiz catalog counts.", exception);
     }
-  }
-
-  private static void configureSnapshotRead(Connection connection) throws SQLException {
-    connection.setReadOnly(true);
-    connection.setTransactionIsolation(Connection.TRANSACTION_REPEATABLE_READ);
-    connection.setAutoCommit(false);
   }
 
   private static int findMixedCount(Connection connection) throws SQLException {
@@ -100,14 +88,6 @@ public class JdbcQuizCatalogRepository implements QuizCatalogRepository {
         counts.add(new QuizCollectionPublishedCount(collection, resultSet.getInt("published_question_count")));
       }
       return List.copyOf(counts);
-    }
-  }
-
-  private static void rollback(Connection connection, Throwable originalFailure) {
-    try {
-      connection.rollback();
-    } catch (SQLException rollbackFailure) {
-      originalFailure.addSuppressed(rollbackFailure);
     }
   }
 

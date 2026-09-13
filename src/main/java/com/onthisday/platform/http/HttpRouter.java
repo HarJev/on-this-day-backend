@@ -1,6 +1,5 @@
 package com.onthisday.platform.http;
 
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -14,7 +13,7 @@ public final class HttpRouter {
   private final ErrorResponseWriter errorResponseWriter;
 
   public HttpRouter(Map<RouteKey, HttpRoute> routes) {
-    this(routes, new ErrorResponseWriter(new ObjectMapper()));
+    this(routes, new ErrorResponseWriter(JsonMapperFactory.create()));
   }
 
   public HttpRouter(Map<RouteKey, HttpRoute> routes, ErrorResponseWriter errorResponseWriter) {

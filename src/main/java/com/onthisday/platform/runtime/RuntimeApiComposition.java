@@ -38,30 +38,34 @@ public final class RuntimeApiComposition {
         databaseConfig.connectTimeoutSeconds(),
         databaseConfig.socketTimeoutSeconds());
     var dataSource = new PostgresDataSourceFactory().create(databaseConfig);
-    var quizQuestionRepository = new JdbcQuizQuestionRepository(dataSource);
-    var quizCollectionRepository = new JdbcQuizCollectionRepository(dataSource);
-    var selector = new QuizCandidateSelector();
-    var presenter = new QuizQuestionPresenter();
-    var quizApiServices =
-        new QuizApiServices(
-            new QuizCatalogService(new JdbcQuizCatalogRepository(dataSource)),
-            new QuickPlayQuizService(
-                quizQuestionRepository,
-                quizCollectionRepository,
-                selector,
-                presenter,
-                RandomGenerator::getDefault),
-            new DailyQuizService(
-                quizQuestionRepository,
-                new JdbcDailyChallengeRepository(dataSource),
-                selector,
-                presenter,
-                clock));
+    var quizApiServices = createQuizApiServices(dataSource, clock);
     return ApiRoutes.create(
         new JdbcTodayContentRepository(dataSource),
         new JdbcHistoricalEventRepository(dataSource),
         new JdbcDeviceRegistrationRepository(dataSource),
         clock,
         quizApiServices);
+  }
+
+  private static QuizApiServices createQuizApiServices(
+      javax.sql.DataSource dataSource, Clock clock) {
+    var quizQuestionRepository = new JdbcQuizQuestionRepository(dataSource);
+    var quizCollectionRepository = new JdbcQuizCollectionRepository(dataSource);
+    var selector = new QuizCandidateSelector();
+    var presenter = new QuizQuestionPresenter();
+    return new QuizApiServices(
+        new QuizCatalogService(new JdbcQuizCatalogRepository(dataSource)),
+        new QuickPlayQuizService(
+            quizQuestionRepository,
+            quizCollectionRepository,
+            selector,
+            presenter,
+            RandomGenerator::getDefault),
+        new DailyQuizService(
+            quizQuestionRepository,
+            new JdbcDailyChallengeRepository(dataSource),
+            selector,
+            presenter,
+            clock));
   }
 }
