@@ -182,8 +182,23 @@ public class CuratedContentValidator {
       if (additionalEventIds == null) {
         additionalEventIds = List.of();
       }
-      if (additionalEventIds.size() < 6) {
-        warnings.add(warning(path + ".additionalEventIds", "day has fewer than 6 additional events"));
+      var editorialException = day.editorialException();
+      if (editorialException != null && blank(editorialException)) {
+        errors.add(error(path + ".editorialException", "editorialException must not be blank when present"));
+      }
+
+      var totalEventCount = 1 + additionalEventIds.size();
+      if (totalEventCount < 4) {
+        if (blank(editorialException)) {
+          warnings.add(warning(path, "day has fewer than 4 total events"));
+        } else {
+          warnings.add(warning(path + ".editorialException", "editorial exception declared"));
+        }
+      } else if (!blank(editorialException)) {
+        warnings.add(
+            warning(
+                path + ".editorialException",
+                "editorial exception declared for a day that meets the four-event floor"));
       }
 
       if (featuredEvent != null) {

@@ -103,8 +103,10 @@ Successful response:
 Rules:
 
 - Return exactly one `featuredEvent`.
-- Return zero or more `additionalEvents`, targeting 6-10 when worthwhile
-  content exists.
+- Return zero or more `additionalEvents`. Ordinarily curated dates contain at
+  least three additional events (four total including the featured event),
+  with five or more total events preferred when worthwhile. The response does
+  not impose an upper cap.
 - `featuredEvent` must also be valid for the resolved month/day.
 - Empty or missing featured content is a backend/content issue, not normal
   browsing behavior.
