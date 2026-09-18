@@ -1199,6 +1199,222 @@
       "images": []
     },
     {
+      "id": "little-rock-nine-full-school-day-1957",
+      "title": "The Little Rock Nine attend their first full day under federal troop protection",
+      "year": "1957",
+      "historicalDate": "September 25, 1957",
+      "dateNote": null,
+      "summary": "Nine Black students reach their first full day at Central High School.",
+      "description": "On September 25, 1957, federal troops escorted the Little Rock Nine into Central High School. The students had faced violent opposition to desegregation. Federal protection made attendance possible, but did not end the hostility they experienced.",
+      "notificationTitle": "The Little Rock Nine attend their first full day",
+      "notificationBody": "Nine Black students reach their first full day at Central High School.",
+      "sources": [
+        {
+          "name": "National Park Service - The Little Rock Nine",
+          "url": "https://www.nps.gov/people/the-little-rock-nine.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-stamford-bridge-1066",
+      "title": "Harold defeats Hardrada at Stamford Bridge",
+      "year": "1066",
+      "historicalDate": "September 25, 1066",
+      "dateNote": null,
+      "summary": "An English victory ends the Norwegian king's invasion.",
+      "description": "On September 25, 1066, King Harold's forces defeated Harald Hardrada at Stamford Bridge. Hardrada was killed. Harold soon faced another invasion in southern England.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "English Heritage - Events of 1066",
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "dart-asteroid-impact-2022",
+      "title": "DART strikes Dimorphos in an asteroid-deflection test",
+      "year": "2022",
+      "historicalDate": "September 26, 2022",
+      "dateNote": null,
+      "summary": "A deliberate impact tests a possible method of planetary defense.",
+      "description": "On September 26, 2022, NASA's DART spacecraft struck Dimorphos, the small companion of asteroid Didymos. The experiment tested whether a spacecraft impact could change an asteroid's motion; this asteroid system was not threatening Earth.",
+      "notificationTitle": "DART strikes an asteroid in a deflection test",
+      "notificationBody": "A deliberate impact tests a possible method of planetary defense.",
+      "sources": [
+        {
+          "name": "NASA - A year of DART science",
+          "url": "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "new-zealand-dominion-1907",
+      "title": "New Zealand becomes a dominion",
+      "year": "1907",
+      "historicalDate": "September 26, 1907",
+      "dateNote": null,
+      "summary": "A new title replaces 'colony' within the British Empire.",
+      "description": "On September 26, 1907, Prime Minister Joseph Ward proclaimed New Zealand's dominion status. It was a change within the British Empire, not a single declaration of complete independence.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NZ History - Dominion of New Zealand",
+          "url": "https://nzhistory.govt.nz/keyword/dominion-of-new-zealand"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stockton-darlington-railway-opens-1825",
+      "title": "The Stockton and Darlington Railway opens",
+      "year": "1825",
+      "historicalDate": "September 27, 1825",
+      "dateNote": null,
+      "summary": "Locomotion No. 1 hauls the inaugural train.",
+      "description": "On September 27, 1825, George Stephenson drove Locomotion No. 1 at the opening of the Stockton and Darlington Railway. The event became a landmark in the development of public steam rail transport.",
+      "notificationTitle": "The Stockton and Darlington Railway opens",
+      "notificationBody": "Locomotion No. 1 hauls the inaugural train.",
+      "sources": [
+        {
+          "name": "National Railway Museum - Shildon and Locomotion No. 1",
+          "url": "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "champollion-hieroglyphs-presentation-1822",
+      "title": "Champollion presents his hieroglyphic breakthrough",
+      "year": "1822",
+      "historicalDate": "September 27, 1822",
+      "dateNote": null,
+      "summary": "A public presentation explains a method for reading ancient Egyptian writing.",
+      "description": "On September 27, 1822, Jean-Francois Champollion presented his research in the Letter to M. Dacier. Building on earlier scholarship, his method helped make ancient Egyptian texts readable again.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Bibliotheque nationale de France - Champollion exhibition guide",
+          "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "william-lands-pevensey-1066",
+      "title": "William's army lands at Pevensey",
+      "year": "1066",
+      "historicalDate": "September 28, 1066",
+      "dateNote": null,
+      "summary": "The Norman invasion reaches the English coast.",
+      "description": "On September 28, 1066, William's fleet reached Pevensey in Sussex. The landing opened the invasion that led to the Battle of Hastings in October.",
+      "notificationTitle": "William's army lands at Pevensey",
+      "notificationBody": "The Norman invasion reaches the English coast.",
+      "sources": [
+        {
+          "name": "English Heritage - Events of 1066",
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-aerial-circumnavigation-completed-1924",
+      "title": "Army aviators complete a flight around the world",
+      "year": "1924",
+      "historicalDate": "September 28, 1924",
+      "dateNote": null,
+      "summary": "An expedition demonstrates the reach of long-distance aviation.",
+      "description": "On September 28, 1924, the U.S. Army Air Service's round-the-world expedition concluded. Erik Nelson, piloting New Orleans, was among those who completed the pioneering journey that began in April.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Air Force - Erik Henning Nelson biography",
+          "url": "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cern-founded-1954",
+      "title": "CERN officially comes into existence",
+      "year": "1954",
+      "historicalDate": "September 29, 1954",
+      "dateNote": null,
+      "summary": "A European scientific organization gains its legal foundation.",
+      "description": "On September 29, 1954, the CERN Convention entered into force after the necessary ratifications. The organization created a shared framework for research in fundamental physics.",
+      "notificationTitle": "CERN officially comes into existence",
+      "notificationBody": "A European scientific organization gains its legal foundation.",
+      "sources": [
+        {
+          "name": "CERN - CERN exists",
+          "url": "https://timeline.web.cern.ch/cern-exists"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "discovery-return-to-flight-1988",
+      "title": "Discovery returns the Space Shuttle to flight",
+      "year": "1988",
+      "historicalDate": "September 29, 1988",
+      "dateNote": null,
+      "summary": "STS-26 launches after the Challenger disaster and a lengthy grounding.",
+      "description": "On September 29, 1988, Discovery launched on mission STS-26. It was the Space Shuttle program's return to flight after the 1986 Challenger disaster, following extensive technical and organizational changes.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA History - Return to Flight",
+          "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "botswana-independence-1966",
+      "title": "Botswana becomes independent",
+      "year": "1966",
+      "historicalDate": "September 30, 1966",
+      "dateNote": null,
+      "summary": "The former Bechuanaland Protectorate becomes a republic.",
+      "description": "On September 30, 1966, Botswana became independent from Britain with Seretse Khama as its first president. The new republic replaced the Bechuanaland Protectorate.",
+      "notificationTitle": "Botswana becomes independent",
+      "notificationBody": "The former Bechuanaland Protectorate becomes a republic.",
+      "sources": [
+        {
+          "name": "Embassy of Botswana - Brief history",
+          "url": "https://botswanamission.ch/brief-history-2/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "rosetta-mission-ends-2016",
+      "title": "Rosetta ends its mission on a comet",
+      "year": "2016",
+      "historicalDate": "September 30, 2016",
+      "dateNote": null,
+      "summary": "A controlled descent concludes years of close-up comet research.",
+      "description": "On September 30, 2016, ESA's Rosetta spacecraft ended its mission with a controlled impact on comet 67P/Churyumov-Gerasimenko. It transmitted observations during descent before communication ceased.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "European Space Agency - Rosetta mission complete",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet"
+        }
+      ],
+      "images": []
+    },
+    {
       "id": "cia-established-1947",
       "title": "The Central Intelligence Agency comes into existence",
       "year": "1947",
@@ -1450,6 +1666,302 @@
         {
           "name": "Naval History and Heritage Command - Enterprise VIII",
           "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/e/enterprise-cvan-65-viii-1961-1965.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bill-of-rights-proposed-1789",
+      "title": "Congress proposes twelve constitutional amendments",
+      "year": "1789",
+      "historicalDate": "September 25, 1789",
+      "dateNote": null,
+      "summary": "The First Congress sends twelve proposed amendments to the states.",
+      "description": "On September 25, 1789, the First Congress proposed twelve amendments to the U.S. Constitution. Ten were ratified in 1791 and became the Bill of Rights; another was ratified more than two centuries later as the Twenty-Seventh Amendment.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Bill of Rights",
+          "url": "https://www.archives.gov/milestone-documents/bill-of-rights"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mars-observer-launched-1992",
+      "title": "NASA launches Mars Observer",
+      "year": "1992",
+      "historicalDate": "September 25, 1992",
+      "dateNote": null,
+      "summary": "A spacecraft begins a mission intended to study Mars from orbit.",
+      "description": "On September 25, 1992, NASA launched Mars Observer to study the planet's surface, atmosphere, and interior from orbit. Contact with the spacecraft was lost in 1993, shortly before its planned arrival at Mars.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA Science - Mars Observer",
+          "url": "https://science.nasa.gov/mission/mars-observer/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "francis-drake-returns-plymouth-1580",
+      "title": "Francis Drake returns to Plymouth",
+      "year": "1580",
+      "historicalDate": "September 26, 1580",
+      "dateNote": null,
+      "summary": "Drake completes the first English circumnavigation of the globe.",
+      "description": "On September 26, 1580, Francis Drake returned to Plymouth in the Golden Hind after circling the globe. His voyage was the first English circumnavigation, but it also formed part of an era of English privateering, colonial expansion, and the transatlantic slave trade.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Tavistock Town Council - The Story of Drake Statue",
+          "url": "https://www.tavistock.gov.uk/drake-statue"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kennedy-nixon-first-televised-debate-1960",
+      "title": "Kennedy and Nixon hold the first televised debate between U.S. presidential candidates",
+      "year": "1960",
+      "historicalDate": "September 26, 1960",
+      "dateNote": null,
+      "summary": "A nationally televised debate brings presidential candidates into living rooms across the United States.",
+      "description": "On September 26, 1960, John F. Kennedy and Richard Nixon met in Chicago for the first televised debate between U.S. presidential candidates. It was the first of four debates between the candidates during that campaign.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "John F. Kennedy Presidential Library and Museum - The President's Desk resource guide",
+          "url": "https://www.jfklibrary.org/sites/default/files/2021-08/PresidentsDeskResourceGuide_118pgs%20SINGLE_WEB.pdf"
+        },
+        {
+          "name": "U.S. Senate Historical Office - The First Televised Presidential Debate",
+          "url": "https://www.senate.gov/artandhistory/history/minute/The_First_Televised_Presidential_Debate.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "society-of-jesus-approved-1540",
+      "title": "The Society of Jesus receives papal approval",
+      "year": "1540",
+      "historicalDate": "September 27, 1540",
+      "dateNote": null,
+      "summary": "Pope Paul III formally recognizes the religious order later known as the Jesuits.",
+      "description": "On September 27, 1540, Pope Paul III promulgated the bull Regimini Militantis Ecclesiae, recognizing the Society of Jesus as a religious order. The order was founded around Ignatius of Loyola and would become widely known as the Jesuits.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Society of Jesus - Papal approval in 1540",
+          "url": "https://www.jesuits.global/2021/09/26/on-27-september-1540-the-society-of-jesus-received-papal-approval/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tripartite-pact-signed-1940",
+      "title": "Germany, Italy, and Japan sign the Tripartite Pact",
+      "year": "1940",
+      "historicalDate": "September 27, 1940",
+      "dateNote": null,
+      "summary": "The Axis powers formalize a military and political alliance during World War II.",
+      "description": "On September 27, 1940, Germany, Italy, and Japan signed the Tripartite Pact in Berlin. The agreement pledged cooperation among the Axis powers and threatened support for any power entering the war against them outside Europe or Asia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Department of State - Tripartite Pact text",
+          "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d100"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cabrillo-enters-san-diego-bay-1542",
+      "title": "Cabrillo's expedition enters San Diego Bay",
+      "year": "1542",
+      "historicalDate": "September 28, 1542",
+      "dateNote": null,
+      "summary": "A Spanish expedition enters the bay and makes contact with the Kumeyaay.",
+      "description": "On September 28, 1542, the vessels led by Juan Rodriguez Cabrillo entered what is now San Diego Bay. The expedition made contact with the Kumeyaay, who were already living in the region; the Spanish named the bay Puerto de San Miguel.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service - Cabrillo National Monument",
+          "url": "https://www.nps.gov/articles/cabrillo.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "siege-of-yorktown-begins-1781",
+      "title": "American and French forces begin the siege of Yorktown",
+      "year": "1781",
+      "historicalDate": "September 28, 1781",
+      "dateNote": null,
+      "summary": "Allied forces start the operation that will compel a major British surrender.",
+      "description": "On September 28, 1781, American and French forces marched from Williamsburg to Yorktown and began investing the British positions. Their operation would culminate in the British surrender under Lord Cornwallis the following month.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service - History of the Siege",
+          "url": "https://www.nps.gov/york/learn/historyculture/history-of-the-siege.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "john-paul-ii-arrives-ireland-1979",
+      "title": "John Paul II begins a pastoral visit to Ireland",
+      "year": "1979",
+      "historicalDate": "September 29, 1979",
+      "dateNote": null,
+      "summary": "The pope arrives in Dublin for a pastoral visit that continues into October.",
+      "description": "On September 29, 1979, Pope John Paul II arrived in Ireland and addressed President Patrick Hillery in Dublin. His pastoral visit continued into October.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "The Holy See - Address to the Irish President",
+          "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september/documents/hf_jp-ii_spe_19790929_irlanda-dublino-presidente.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "babyn-yar-massacre-begins-1941",
+      "title": "The mass murder of Kyiv's Jews begins at Babyn Yar",
+      "year": "1941",
+      "historicalDate": "September 29, 1941",
+      "dateNote": "The mass murder continued through September 30.",
+      "summary": "German forces and auxiliaries begin mass shootings of Kyiv's Jewish population at a ravine outside the city.",
+      "description": "On September 29, 1941, SS and German police units and their auxiliaries began murdering Jewish people from Kyiv at the Babyn Yar ravine. The mass shooting continued the next day and became one of the largest massacres of the Holocaust.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United States Holocaust Memorial Museum - Babyn Yar",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "berlin-airlift-last-flight-1949",
+      "title": "The U.S. Air Force makes its final Berlin Airlift flight",
+      "year": "1949",
+      "historicalDate": "September 30, 1949",
+      "dateNote": "British airlift flights continued until October 6.",
+      "summary": "The U.S. Air Force completes its final Berlin Airlift flight; British flights continue until October 6.",
+      "description": "On September 30, 1949, the U.S. Air Force made its final Berlin Airlift flight from Rhein-Main Air Base. The Soviet blockade had been lifted in May; British flights continued until October 6.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of the U.S. Air Force - Berlin Airlift",
+          "url": "https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000573158/"
+        },
+        {
+          "name": "Allied Museum - The Berlin Airlift 1948/49",
+          "url": "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "munich-agreement-signed-1938",
+      "title": "The Munich Agreement is signed",
+      "year": "1938",
+      "historicalDate": "September 30, 1938",
+      "dateNote": "Negotiations and signing spanned the night of September 29-30.",
+      "summary": "Four European powers force Czechoslovakia to cede its Sudeten border regions to Nazi Germany.",
+      "description": "Over the night of September 29-30, 1938, Germany, Italy, Great Britain, and France signed the Munich Agreement. Czechoslovakia, which was not a party to the negotiations, was forced to surrender its Sudeten border regions and defenses to Nazi Germany.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United States Holocaust Memorial Museum - Munich Agreement",
+          "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nasa-begins-operations-1958",
+      "title": "NASA begins operations",
+      "year": "1958",
+      "historicalDate": "October 1, 1958",
+      "dateNote": null,
+      "summary": "The new agency takes charge of the United States' civilian space program.",
+      "description": "On October 1, 1958, the National Aeronautics and Space Administration officially began operations. NASA incorporated the National Advisory Committee for Aeronautics and assumed leadership of the United States' civilian space program.",
+      "notificationTitle": "NASA begins operations",
+      "notificationBody": "A new agency takes charge of America's civilian space program.",
+      "sources": [
+        {
+          "name": "NASA - NASA begins operations",
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nigeria-independence-1960",
+      "title": "Nigeria becomes independent",
+      "year": "1960",
+      "historicalDate": "October 1, 1960",
+      "dateNote": null,
+      "summary": "Nigeria gains independence from Britain and raises its new national flag.",
+      "description": "On October 1, 1960, Nigeria gained independence from Britain. The new country adopted a federal constitutional system, with Abubakar Tafawa Balewa serving as prime minister.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Federal Ministry of Information and National Orientation - Nigeria's history",
+          "url": "https://fmino.gov.ng/1st-october-nigerias-history/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "peoples-republic-china-proclaimed-1949",
+      "title": "The People's Republic of China is proclaimed",
+      "year": "1949",
+      "historicalDate": "October 1, 1949",
+      "dateNote": null,
+      "summary": "Mao Zedong proclaims the founding of the new central government in Beijing.",
+      "description": "On October 1, 1949, Mao Zedong proclaimed the founding of the Central People's Government of the People's Republic of China from Tiananmen Gate in Beijing.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Ministry of Foreign Affairs of the People's Republic of China - Founding ceremony",
+          "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tuvalu-independence-1978",
+      "title": "Tuvalu becomes independent",
+      "year": "1978",
+      "historicalDate": "October 1, 1978",
+      "dateNote": null,
+      "summary": "The Pacific island nation marks the date later defined in its constitution as Independence Day.",
+      "description": "On October 1, 1978, Tuvalu became independent. The Constitution of Tuvalu defines Independence Day as October 1, 1978.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Government of Tuvalu - Constitution of Tuvalu",
+          "url": "https://psc.gov.tv/wp-content/uploads/2024/06/tuvalu.pdf"
         }
       ],
       "images": []

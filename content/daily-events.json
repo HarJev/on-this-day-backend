@@ -162,6 +162,76 @@
         "ctbt-opens-for-signature-1996",
         "uss-enterprise-launched-1960"
       ]
+    },
+    {
+      "month": 9,
+      "day": 25,
+      "featuredEventId": "little-rock-nine-full-school-day-1957",
+      "additionalEventIds": [
+        "battle-of-stamford-bridge-1066",
+        "bill-of-rights-proposed-1789",
+        "mars-observer-launched-1992"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 26,
+      "featuredEventId": "dart-asteroid-impact-2022",
+      "additionalEventIds": [
+        "new-zealand-dominion-1907",
+        "francis-drake-returns-plymouth-1580",
+        "kennedy-nixon-first-televised-debate-1960"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 27,
+      "featuredEventId": "stockton-darlington-railway-opens-1825",
+      "additionalEventIds": [
+        "champollion-hieroglyphs-presentation-1822",
+        "society-of-jesus-approved-1540",
+        "tripartite-pact-signed-1940"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 28,
+      "featuredEventId": "william-lands-pevensey-1066",
+      "additionalEventIds": [
+        "first-aerial-circumnavigation-completed-1924",
+        "cabrillo-enters-san-diego-bay-1542",
+        "siege-of-yorktown-begins-1781"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 29,
+      "featuredEventId": "cern-founded-1954",
+      "additionalEventIds": [
+        "discovery-return-to-flight-1988",
+        "john-paul-ii-arrives-ireland-1979",
+        "babyn-yar-massacre-begins-1941"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 30,
+      "featuredEventId": "botswana-independence-1966",
+      "additionalEventIds": [
+        "rosetta-mission-ends-2016",
+        "berlin-airlift-last-flight-1949",
+        "munich-agreement-signed-1938"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 1,
+      "featuredEventId": "nasa-begins-operations-1958",
+      "additionalEventIds": [
+        "nigeria-independence-1960",
+        "peoples-republic-china-proclaimed-1949",
+        "tuvalu-independence-1978"
+      ]
     }
   ]
 }
