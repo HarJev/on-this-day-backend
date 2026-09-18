@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-18-24-historical-events",
+  "candidates": [
+    {
+      "candidateId": "sept-18-capitol-cornerstone",
+      "kind": "event",
+      "proposedCanonicalId": "us-capitol-cornerstone-1793",
+      "workingClaim": "George Washington took part in laying the United States Capitol cornerstone on September 18, 1793.",
+      "sourceUrls": ["https://www.aoc.gov/explore-capitol-campus/art/capitol-cornerstone-ceremony-1793"]
+    },
+    {
+      "candidateId": "sept-18-fugitive-slave-act",
+      "kind": "event",
+      "proposedCanonicalId": "fugitive-slave-act-signed-1850",
+      "workingClaim": "President Millard Fillmore signed the Fugitive Slave Act on September 18, 1850.",
+      "sourceUrls": ["https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm"]
+    },
+    {
+      "candidateId": "sept-18-cia-established",
+      "kind": "event",
+      "proposedCanonicalId": "cia-established-1947",
+      "workingClaim": "The Central Intelligence Group became the Central Intelligence Agency on September 18, 1947.",
+      "sourceUrls": ["https://www.cia.gov/stories/story/the-mapmakers-craft-a-history-of-cartography-at-cia/"]
+    },
+    {
+      "candidateId": "sept-18-hammarskjold-dies",
+      "kind": "event",
+      "proposedCanonicalId": "dag-hammarskjold-dies-1961",
+      "workingClaim": "UN Secretary-General Dag Hammarskjold died in an aircraft crash near Ndola during the night of September 17-18, 1961.",
+      "sourceUrls": ["https://archives.un.org/en/content/death-dag-hammarskjold-0"]
+    },
+    {
+      "candidateId": "sept-19-new-zealand-suffrage",
+      "kind": "event",
+      "proposedCanonicalId": "new-zealand-womens-suffrage-1893",
+      "workingClaim": "New Zealand's governor signed the Electoral Act on September 19, 1893, giving women the parliamentary vote.",
+      "sourceUrls": ["https://nzhistory.govt.nz/womens-suffrage-day"]
+    },
+    {
+      "candidateId": "sept-19-washington-farewell",
+      "kind": "event",
+      "proposedCanonicalId": "washington-farewell-address-published-1796",
+      "workingClaim": "George Washington's Farewell Address first appeared in the Philadelphia Daily American on September 19, 1796.",
+      "sourceUrls": ["https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm"]
+    },
+    {
+      "candidateId": "sept-19-mexico-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "mexico-earthquake-1985",
+      "workingClaim": "A magnitude 8.1 earthquake struck off Mexico's Pacific coast on September 19, 1985, causing severe destruction in Mexico City.",
+      "sourceUrls": ["https://www.usgs.gov/publications/neic-national-earthquake-information-center-0"]
+    },
+    {
+      "candidateId": "sept-19-poitiers",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-poitiers-1356",
+      "workingClaim": "The Black Prince defeated John II of France at the Battle of Poitiers on September 19, 1356.",
+      "sourceUrls": ["https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453"]
+    },
+    {
+      "candidateId": "sept-20-magellan-sanlucar",
+      "kind": "event",
+      "proposedCanonicalId": "magellan-departs-sanlucar-1519",
+      "workingClaim": "Magellan's expedition sailed from Sanlucar de Barrameda on September 20, 1519, after leaving Seville earlier.",
+      "sourceUrls": ["https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/"]
+    },
+    {
+      "candidateId": "sept-20-fulford",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-fulford-1066",
+      "workingClaim": "Harald Hardrada defeated an English army at Fulford on September 20, 1066.",
+      "sourceUrls": ["https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"]
+    },
+    {
+      "candidateId": "sept-20-billie-jean-king",
+      "kind": "event",
+      "proposedCanonicalId": "billie-jean-king-defeats-bobby-riggs-1973",
+      "workingClaim": "Billie Jean King defeated Bobby Riggs in straight sets on September 20, 1973.",
+      "sourceUrls": ["https://womenshistory.si.edu/blog/beyond-court-billie-jean-kings-triumph-battle-sexes"]
+    },
+    {
+      "candidateId": "sept-20-vietnam-un",
+      "kind": "event",
+      "proposedCanonicalId": "vietnam-admitted-un-1977",
+      "workingClaim": "The UN General Assembly admitted the Socialist Republic of Viet Nam on September 20, 1977.",
+      "sourceUrls": ["https://treaties.un.org/doc/Publication/UNTS/Volume%201102/volume-1102-I-16921-English.pdf"]
+    },
+    {
+      "candidateId": "sept-21-belize-independence",
+      "kind": "event",
+      "proposedCanonicalId": "belize-independence-1981",
+      "workingClaim": "Belize achieved independence from the United Kingdom on September 21, 1981.",
+      "sourceUrls": ["https://history.state.gov/countries/belize"]
+    },
+    {
+      "candidateId": "sept-21-malta-independence",
+      "kind": "event",
+      "proposedCanonicalId": "malta-independence-1964",
+      "workingClaim": "Malta gained independence from Britain on September 21, 1964.",
+      "sourceUrls": ["https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf"]
+    },
+    {
+      "candidateId": "sept-21-french-monarchy",
+      "kind": "event",
+      "proposedCanonicalId": "french-monarchy-abolished-1792",
+      "workingClaim": "France's National Convention abolished the monarchy on September 21, 1792.",
+      "sourceUrls": ["https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-convention-nationale-et-la-fin-de-la-royaute"]
+    },
+    {
+      "candidateId": "sept-21-hobbit",
+      "kind": "event",
+      "proposedCanonicalId": "the-hobbit-published-1937",
+      "workingClaim": "J.R.R. Tolkien's The Hobbit was published on September 21, 1937.",
+      "sourceUrls": ["https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/"]
+    },
+    {
+      "candidateId": "sept-22-mali-name-change",
+      "kind": "event",
+      "proposedCanonicalId": "mali-republic-proclaimed-1960",
+      "workingClaim": "The National Assembly legislated on September 22, 1960, that the Soudanese Republic would become the Republic of Mali.",
+      "sourceUrls": ["https://history.state.gov/countries/mali"]
+    },
+    {
+      "candidateId": "sept-22-preliminary-emancipation",
+      "kind": "event",
+      "proposedCanonicalId": "preliminary-emancipation-proclamation-1862",
+      "workingClaim": "Abraham Lincoln issued the preliminary Emancipation Proclamation on September 22, 1862.",
+      "sourceUrls": ["https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html"]
+    },
+    {
+      "candidateId": "sept-22-iran-iraq-war",
+      "kind": "event",
+      "proposedCanonicalId": "iran-iraq-war-begins-1980",
+      "workingClaim": "Iraq invaded Iran on September 22, 1980, beginning the Iran-Iraq War.",
+      "sourceUrls": ["https://history.state.gov/historicaldocuments/frus1977-80v18/d220"]
+    },
+    {
+      "candidateId": "sept-22-nathan-hale",
+      "kind": "event",
+      "proposedCanonicalId": "nathan-hale-executed-1776",
+      "workingClaim": "British forces executed Continental Army officer Nathan Hale on September 22, 1776.",
+      "sourceUrls": ["https://www.loc.gov/item/today-in-history/september-22/"]
+    },
+    {
+      "candidateId": "sept-23-neptune",
+      "kind": "event",
+      "proposedCanonicalId": "neptune-confirmed-1846",
+      "workingClaim": "Johann Galle and Heinrich d'Arrest identified Neptune as a planet on September 23, 1846, guided by Urbain Le Verrier's calculations.",
+      "sourceUrls": ["https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed"]
+    },
+    {
+      "candidateId": "sept-23-saudi-arabia",
+      "kind": "event",
+      "proposedCanonicalId": "saudi-arabia-proclaimed-1932",
+      "workingClaim": "A royal decree proclaimed the Kingdom of Saudi Arabia under its present name on September 23, 1932.",
+      "sourceUrls": ["https://mofa.gov.sa/en/ksa/Pages/nationalday.aspx"]
+    },
+    {
+      "candidateId": "sept-23-mars-climate-orbiter",
+      "kind": "event",
+      "proposedCanonicalId": "mars-climate-orbiter-lost-1999",
+      "workingClaim": "NASA lost contact with Mars Climate Orbiter on September 23, 1999, during its arrival at Mars.",
+      "sourceUrls": ["https://science.nasa.gov/mission/mars-climate-orbiter/"]
+    },
+    {
+      "candidateId": "sept-23-nintendo",
+      "kind": "event",
+      "proposedCanonicalId": "nintendo-founded-1889",
+      "workingClaim": "Nintendo was founded in Kyoto on September 23, 1889, as a maker of hanafuda playing cards.",
+      "sourceUrls": ["https://www.sec.gov/Archives/edgar/vprr/0800/08006168.pdf", "https://www.nintendo.com/us/about/"]
+    },
+    {
+      "candidateId": "sept-24-osiris-rex",
+      "kind": "event",
+      "proposedCanonicalId": "osiris-rex-sample-return-2023",
+      "workingClaim": "NASA's OSIRIS-REx sample capsule parachuted into Utah with material from Bennu on September 24, 2023.",
+      "sourceUrls": ["https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/"]
+    },
+    {
+      "candidateId": "sept-24-judiciary-act",
+      "kind": "event",
+      "proposedCanonicalId": "judiciary-act-signed-1789",
+      "workingClaim": "President George Washington signed the Judiciary Act on September 24, 1789, establishing a federal court system.",
+      "sourceUrls": ["https://www.archives.gov/milestone-documents/federal-judiciary-act"]
+    },
+    {
+      "candidateId": "sept-24-ctbt",
+      "kind": "event",
+      "proposedCanonicalId": "ctbt-opens-for-signature-1996",
+      "workingClaim": "The Comprehensive Nuclear-Test-Ban Treaty opened for signature at the United Nations on September 24, 1996.",
+      "sourceUrls": ["https://www.ctbto.org/news-and-events/news/happy-birthday-ctbt-0"]
+    },
+    {
+      "candidateId": "sept-24-uss-enterprise",
+      "kind": "event",
+      "proposedCanonicalId": "uss-enterprise-launched-1960",
+      "workingClaim": "USS Enterprise, the world's first nuclear-powered aircraft carrier, was launched on September 24, 1960.",
+      "sourceUrls": ["https://www.history.navy.mil/research/histories/ship-histories/danfs/e/enterprise-cvan-65-viii-1961-1965.html"]
+    }
+  ]
+}

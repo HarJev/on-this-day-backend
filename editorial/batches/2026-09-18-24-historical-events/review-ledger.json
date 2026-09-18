@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-18-24-historical-events",
+  "entries": [
+    {
+      "candidateId": "sept-18-capitol-cornerstone",
+      "canonicalId": "us-capitol-cornerstone-1793",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.aoc.gov/explore-capitol-campus/art/capitol-cornerstone-ceremony-1793",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Architect of the Capitol confirms the September 18, 1793 ceremony."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-republic"
+      ],
+      "calendarDays": [
+        "09-18"
+      ],
+      "notes": "Existing featured event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-18-fugitive-slave-act",
+      "canonicalId": "fugitive-slave-act-signed-1850",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Park Service confirms the act was signed on September 18, 1850."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-18"
+      ],
+      "notes": "Existing additional event; sensitive slavery context retained in concise wording. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-18-cia-established",
+      "canonicalId": "cia-established-1947",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.cia.gov/stories/story/the-mapmakers-craft-a-history-of-cartography-at-cia/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "CIA history states that CIG became CIA on September 18, 1947."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "09-18"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-18-hammarskjold-dies",
+      "canonicalId": "dag-hammarskjold-dies-1961",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://archives.un.org/en/content/death-dag-hammarskjold-0",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "UN Archives supports the crash, peace mission, and overnight date context."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "09-18"
+      ],
+      "notes": "New additional event; date uncertainty is expressed with a date note. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-19-new-zealand-suffrage",
+      "canonicalId": "new-zealand-womens-suffrage-1893",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nzhistory.govt.nz/womens-suffrage-day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "NZ History confirms the governor signed the Electoral Act on September 19, 1893."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-19"
+      ],
+      "notes": "Existing featured event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-19-washington-farewell",
+      "canonicalId": "washington-farewell-address-published-1796",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "U.S. Senate history gives the September 19, 1796 first printing date."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-republic"
+      ],
+      "calendarDays": [
+        "09-19"
+      ],
+      "notes": "Existing additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-19-mexico-earthquake",
+      "canonicalId": "mexico-earthquake-1985",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.usgs.gov/publications/neic-national-earthquake-information-center-0",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "USGS identifies the September 19, 1985 magnitude 8.1 earthquake off Mexico's Pacific coast and its severe effects in Mexico City."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-19"
+      ],
+      "notes": "New additional event; no casualty total is included because estimates vary. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-19-poitiers",
+      "canonicalId": "battle-of-poitiers-1356",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Royal Armouries supports the date, victory, and capture of John II."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "09-19"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-20-magellan-sanlucar",
+      "canonicalId": "magellan-departs-sanlucar-1519",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Spain's tourism authority distinguishes the September 20 departure from Sanlucar from the earlier departure from Seville."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "09-20"
+      ],
+      "notes": "Existing featured event; wording narrowed to the directly supported departure point. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-20-fulford",
+      "canonicalId": "battle-of-fulford-1066",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "English Heritage supports the date and Harald Hardrada's victory at Fulford."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "09-20"
+      ],
+      "notes": "Existing additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-20-billie-jean-king",
+      "canonicalId": "billie-jean-king-defeats-bobby-riggs-1973",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://womenshistory.si.edu/blog/beyond-court-billie-jean-kings-triumph-battle-sexes",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Smithsonian Women's History Museum supports the date and straight-sets result."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-20"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-20-vietnam-un",
+      "canonicalId": "vietnam-admitted-un-1977",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201102/volume-1102-I-16921-English.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "UN Treaty Series identifies September 20, 1977 as Viet Nam's admission date under resolution 32/2."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "postwar"
+      ],
+      "calendarDays": [
+        "09-20"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-21-belize-independence",
+      "canonicalId": "belize-independence-1981",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/belize",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "U.S. Office of the Historian supports Belize's September 21, 1981 independence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-21"
+      ],
+      "notes": "Existing featured event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-21-malta-independence",
+      "canonicalId": "malta-independence-1964",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Malta's National Statistics Office states that independence from Britain was gained on September 21, 1964."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-21"
+      ],
+      "notes": "Existing additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-21-french-monarchy",
+      "canonicalId": "french-monarchy-abolished-1792",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-convention-nationale-et-la-fin-de-la-royaute",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "French National Assembly history supports the Convention's September 21 abolition vote."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "09-21"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-21-hobbit",
+      "canonicalId": "the-hobbit-published-1937",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "The Tolkien Estate gives September 21, 1937 as the publication date."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-21"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-22-mali-name-change",
+      "canonicalId": "mali-republic-proclaimed-1960",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/mali",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "U.S. Office of the Historian supports the National Assembly's September 22 name-change legislation, distinct from June independence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "09-22"
+      ],
+      "notes": "Existing featured event; prior wording implying a new independence claim was narrowed. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-22-preliminary-emancipation",
+      "canonicalId": "preliminary-emancipation-proclamation-1862",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Archives supports Lincoln's preliminary proclamation date and its limited scope."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-22"
+      ],
+      "notes": "Existing additional event; sensitive slavery context retained in concise wording. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-22-iran-iraq-war",
+      "canonicalId": "iran-iraq-war-begins-1980",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v18/d220",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "U.S. Office of the Historian identifies Iraq's September 22, 1980 invasion as the war's beginning."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-22"
+      ],
+      "notes": "New additional event; violence is described factually without graphic detail. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-22-nathan-hale",
+      "canonicalId": "nathan-hale-executed-1776",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/item/today-in-history/september-22/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Library of Congress confirms Hale's execution date; disputed final words are not quoted."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "09-22"
+      ],
+      "notes": "New additional event; avoids treating a reported quotation as settled fact. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-23-neptune",
+      "canonicalId": "neptune-confirmed-1846",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "American Physical Society supports Neptune's September 23, 1846 identification as a planet at Berlin Observatory."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-23"
+      ],
+      "notes": "Existing featured event; title now distinguishes first recognized observation from earlier unrecognized sightings. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-23-saudi-arabia",
+      "canonicalId": "saudi-arabia-proclaimed-1932",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://mofa.gov.sa/en/ksa/Pages/nationalday.aspx",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Saudi Ministry of Foreign Affairs supports the September 23, 1932 royal decree and proclamation."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-23"
+      ],
+      "notes": "Existing additional event; PBS timeline source replaced with Saudi government source. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-23-mars-climate-orbiter",
+      "canonicalId": "mars-climate-orbiter-lost-1999",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/mars-climate-orbiter/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "NASA supports the September 23, 1999 loss and the units-related navigation finding."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-23"
+      ],
+      "notes": "New additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-23-nintendo",
+      "canonicalId": "nintendo-founded-1889",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/vprr/0800/08006168.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "SEC-hosted company profile supports Nintendo's September 23, 1889 founding date."
+        },
+        {
+          "url": "https://www.nintendo.com/us/about/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Nintendo's company history supports the Kyoto hanafuda-card context."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-23"
+      ],
+      "notes": "New additional event; two sources divide exact-date and company-history support. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-24-osiris-rex",
+      "canonicalId": "osiris-rex-sample-return-2023",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "NASA supports the September 24, 2023 Utah landing and Bennu sample context."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-24"
+      ],
+      "notes": "Existing featured event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-24-judiciary-act",
+      "canonicalId": "judiciary-act-signed-1789",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/federal-judiciary-act",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Archives confirms Washington signed the Judiciary Act on September 24, 1789."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-republic"
+      ],
+      "calendarDays": [
+        "09-24"
+      ],
+      "notes": "Existing additional event; direct-source check complete. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-24-ctbt",
+      "canonicalId": "ctbt-opens-for-signature-1996",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.ctbto.org/news-and-events/news/happy-birthday-ctbt-0",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "CTBTO confirms the treaty opened for signature on September 24, 1996."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-24"
+      ],
+      "notes": "New additional event; source page is index-verified while direct fetch is constrained by the content gateway. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-24-uss-enterprise",
+      "canonicalId": "uss-enterprise-launched-1960",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/e/enterprise-cvan-65-viii-1961-1965.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Naval History and Heritage Command confirms the September 24, 1960 launch and later commission date."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "09-24"
+      ],
+      "notes": "New additional event; source page is index-verified while direct fetch is constrained by the content gateway. Editorially approved by Jevaun Harris on 2026-09-18.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    }
+  ]
+}

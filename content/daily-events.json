@@ -92,6 +92,76 @@
         "michael-jackson-born-1958",
         "hurricane-ida-landfall-2021"
       ]
+    },
+    {
+      "month": 9,
+      "day": 18,
+      "featuredEventId": "us-capitol-cornerstone-1793",
+      "additionalEventIds": [
+        "fugitive-slave-act-signed-1850",
+        "cia-established-1947",
+        "dag-hammarskjold-dies-1961"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 19,
+      "featuredEventId": "new-zealand-womens-suffrage-1893",
+      "additionalEventIds": [
+        "washington-farewell-address-published-1796",
+        "mexico-earthquake-1985",
+        "battle-of-poitiers-1356"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 20,
+      "featuredEventId": "magellan-departs-sanlucar-1519",
+      "additionalEventIds": [
+        "battle-of-fulford-1066",
+        "billie-jean-king-defeats-bobby-riggs-1973",
+        "vietnam-admitted-un-1977"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 21,
+      "featuredEventId": "belize-independence-1981",
+      "additionalEventIds": [
+        "malta-independence-1964",
+        "french-monarchy-abolished-1792",
+        "the-hobbit-published-1937"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 22,
+      "featuredEventId": "mali-republic-proclaimed-1960",
+      "additionalEventIds": [
+        "preliminary-emancipation-proclamation-1862",
+        "iran-iraq-war-begins-1980",
+        "nathan-hale-executed-1776"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 23,
+      "featuredEventId": "neptune-confirmed-1846",
+      "additionalEventIds": [
+        "saudi-arabia-proclaimed-1932",
+        "mars-climate-orbiter-lost-1999",
+        "nintendo-founded-1889"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 24,
+      "featuredEventId": "osiris-rex-sample-return-2023",
+      "additionalEventIds": [
+        "judiciary-act-signed-1789",
+        "ctbt-opens-for-signature-1996",
+        "uss-enterprise-launched-1960"
+      ]
     }
   ]
 }
