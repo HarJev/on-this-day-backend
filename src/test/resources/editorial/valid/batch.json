@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "batchId": "fixture-batch",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [],
+  "monthDays": [],
+  "quizPackFilenames": []
+}

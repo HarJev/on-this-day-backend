@@ -169,6 +169,9 @@ needed.
 
 ## Curated Content Import
 
+For the reviewed editorial workflow, batch preflight, coverage reports, and an
+operator-safe import sequence, see [CONTENT_IMPORT_GUIDE.md](CONTENT_IMPORT_GUIDE.md).
+
 Curated content files live in:
 
 ```text
