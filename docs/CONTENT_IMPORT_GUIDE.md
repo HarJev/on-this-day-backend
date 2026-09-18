@@ -180,8 +180,11 @@ failure.
 3. Add matching candidate and reviewed ledger entries. Give the batch manifest
    the day (`"09-01"`) and pack filename
    (`"questions/100-september-example.json"`).
-4. Run the review check, migration, two canonical importers, staging subset
-   import, coverage report, database checks, and API checks above.
+4. Run the review check and migration, then choose one local verification path:
+   either run the two full canonical importers, or run the reviewed-subset
+   staging import for this batch. They are alternatives, not consecutive steps.
+   Follow the chosen path with the coverage report, database checks, and API
+   checks above.
 5. Resolve every error and intentional warning before seeking production-import
    approval. Do not execute production imports from a personal shell history.
 
