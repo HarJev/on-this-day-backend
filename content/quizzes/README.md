@@ -18,6 +18,9 @@ and tests; validation then warns that no published quiz questions exist.
 The final distribution, source review, sensitive-content decisions, and image
 licenses are recorded in `docs/QUIZ_CONTENT_REVIEW.md`.
 
+For complete examples of all four question shapes and the manual authoring
+workflow, see `docs/QUIZ_AUTHORING_GUIDE.md`.
+
 ## Collections
 
 ```json
