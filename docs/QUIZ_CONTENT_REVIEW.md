@@ -134,3 +134,13 @@ No question in this batch depends on a disputed answer. Where dates are
 traditional or approximate, that uncertainty is stated in the prompt or
 explanation. Questions that could not meet that standard were replaced from the
 working candidate slate.
+## L7 Draft Discovery Notes
+
+The L7 accessible-global-history draft uses two independently verified
+familiarity anchors from the untracked `grabbed_q&a.md` discovery input:
+
+- `titanic-built-belfast`
+- `triple-alliance-italy-member`
+
+Other discovery notes remain deferred for later editorial research. Their raw
+wording is not canonical quiz content.

@@ -59,8 +59,8 @@ class ProductionQuizContentTest {
     assertEquals(9, images.size());
     for (var question : images) {
       var image = question.image();
-      assertTrue(image.url().startsWith("https://upload.wikimedia.org/"));
-      assertTrue(image.sourceUrl().startsWith("https://commons.wikimedia.org/wiki/File:"));
+      assertTrue(image.url().startsWith("https://"));
+      assertTrue(image.sourceUrl().startsWith("https://"));
       assertFalse(image.url().equals(image.sourceUrl()));
       assertFalse(image.attribution().isBlank());
       assertFalse(image.license().isBlank());

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-accessible-global-history",
+  "candidates": [
+    {
+      "candidateId": "dholavira-water-management",
+      "kind": "quiz",
+      "proposedCanonicalId": "dholavira-water-management",
+      "workingClaim": "Dholavira used reservoirs and channels to manage water.",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1645"
+      ]
+    },
+    {
+      "candidateId": "meroe-iron-production",
+      "kind": "quiz",
+      "proposedCanonicalId": "meroe-iron-production",
+      "workingClaim": "Meroe includes evidence of iron production.",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/1336"
+      ]
+    },
+    {
+      "candidateId": "borobudur-buddhist-monument",
+      "kind": "quiz",
+      "proposedCanonicalId": "borobudur-buddhist-monument",
+      "workingClaim": "Borobudur is a Buddhist monument.",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/592"
+      ]
+    },
+    {
+      "candidateId": "lei-aurea-legal-effect",
+      "kind": "quiz",
+      "proposedCanonicalId": "lei-aurea-legal-effect",
+      "workingClaim": "Brazil's Lei Aurea abolished slavery.",
+      "sourceUrls": [
+        "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/lei-aurea-faz-parte-do-acervo-do-arquivo-nacional"
+      ]
+    },
+    {
+      "candidateId": "nightingale-sanitation-statistics",
+      "kind": "quiz",
+      "proposedCanonicalId": "nightingale-sanitation-statistics",
+      "workingClaim": "Nightingale's diagrams showed disease caused most army-hospital deaths.",
+      "sourceUrls": [
+        "https://www.nationalarchives.gov.uk/education/resources/florence-nightingale/"
+      ]
+    },
+    {
+      "candidateId": "moche-irrigation-agriculture",
+      "kind": "quiz",
+      "proposedCanonicalId": "moche-irrigation-agriculture",
+      "workingClaim": "Moche agriculture used irrigation canals.",
+      "sourceUrls": [
+        "https://americanindian.si.edu/explore/exhibitions/item?id=935"
+      ]
+    },
+    {
+      "candidateId": "treaty-of-tordesillas-division",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-of-tordesillas-division",
+      "workingClaim": "The Treaty of Tordesillas divided overseas claims of Spain and Portugal.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Treaty-of-Tordesillas"
+      ]
+    },
+    {
+      "candidateId": "mabo-native-title-ruling",
+      "kind": "quiz",
+      "proposedCanonicalId": "mabo-native-title-ruling",
+      "workingClaim": "Mabo recognized native title in Australian law.",
+      "sourceUrls": [
+        "https://www.hcourt.gov.au/assets/publications/speeches/former-justices/gaudronj/gaudronj_mabo.pdf"
+      ]
+    },
+    {
+      "candidateId": "treaty-rarotonga-purpose",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-rarotonga-purpose",
+      "workingClaim": "The Treaty of Rarotonga created a South Pacific nuclear-free zone.",
+      "sourceUrls": [
+        "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26"
+      ]
+    },
+    {
+      "candidateId": "wangari-maathai-green-belt-movement",
+      "kind": "quiz",
+      "proposedCanonicalId": "wangari-maathai-green-belt-movement",
+      "workingClaim": "Wangari Maathai founded the Green Belt Movement.",
+      "sourceUrls": [
+        "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/"
+      ]
+    },
+    {
+      "candidateId": "mossadegh-oil-nationalization",
+      "kind": "quiz",
+      "proposedCanonicalId": "mossadegh-oil-nationalization",
+      "workingClaim": "Mossadegh nationalized Iranian oil.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1953-1960/iran"
+      ]
+    },
+    {
+      "candidateId": "titanic-built-belfast",
+      "kind": "quiz",
+      "proposedCanonicalId": "titanic-built-belfast",
+      "workingClaim": "Titanic was built in Belfast.",
+      "sourceUrls": [
+        "https://www.nmni.com/stories/titanic"
+      ]
+    },
+    {
+      "candidateId": "women-athletes-athens-1896",
+      "kind": "quiz",
+      "proposedCanonicalId": "women-athletes-athens-1896",
+      "workingClaim": "Women did not compete at Athens 1896.",
+      "sourceUrls": [
+        "https://library.olympics.com/cnospa/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=1568413&parentDocumentId=1568412&skipCopyright=true&skipWatermark=true"
+      ]
+    },
+    {
+      "candidateId": "australian-referendum-1967-misconception",
+      "kind": "quiz",
+      "proposedCanonicalId": "australian-referendum-1967-misconception",
+      "workingClaim": "The 1967 referendum did not first grant Indigenous Australians voting rights.",
+      "sourceUrls": [
+        "https://australian.museum/learn/first-nations/1967-referendum/"
+      ]
+    },
+    {
+      "candidateId": "triple-alliance-italy-member",
+      "kind": "quiz",
+      "proposedCanonicalId": "triple-alliance-italy-member",
+      "workingClaim": "Italy was an original Triple Alliance member.",
+      "sourceUrls": [
+        "https://www.iwm.org.uk/history/the-causes-of-world-war-one"
+      ]
+    },
+    {
+      "candidateId": "order-korean-cultural-printing-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-korean-cultural-printing-milestones",
+      "workingClaim": "Four Korean cultural and printing milestones can be independently ordered.",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/736",
+        "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+        "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests?hub=915",
+        "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"
+      ]
+    },
+    {
+      "candidateId": "order-pacific-independence-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-pacific-independence-milestones",
+      "workingClaim": "Four Pacific independence milestones can be ordered.",
+      "sourceUrls": [
+        "https://thecommonwealth.org/our-member-countries/samoa",
+        "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
+      ]
+    },
+    {
+      "candidateId": "order-women-heads-government",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-women-heads-government",
+      "workingClaim": "Four women heads of government can be ordered by first term.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Sirimavo-Bandaranaike",
+        "https://www.britannica.com/biography/Indira-Gandhi",
+        "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/premiers/overview/margaret-thatcher/",
+        "https://www.britannica.com/biography/Benazir-Bhutto"
+      ]
+    },
+    {
+      "candidateId": "identify-george-washington",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-george-washington",
+      "workingClaim": "The LOC portrait represents George Washington.",
+      "sourceUrls": [
+        "https://www.loc.gov/item/2016817403/"
+      ]
+    },
+    {
+      "candidateId": "identify-marie-curie",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-marie-curie",
+      "workingClaim": "A provenance-preserving crop of the LOC Bain photograph identifies Marie Curie without retaining its handwritten label.",
+      "sourceUrls": [
+        "https://www.loc.gov/item/2014687674/"
+      ]
+    },
+    {
+      "candidateId": "identify-william-shakespeare",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-william-shakespeare",
+      "workingClaim": "A provenance-preserving crop of the Met Picart engraving depicts William Shakespeare without retaining the printed title label.",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/708351"
+      ]
+    },
+    {
+      "candidateId": "identify-great-wave-off-kanagawa",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-great-wave-off-kanagawa",
+      "workingClaim": "The Met print is Hokusai's Great Wave.",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/39799"
+      ]
+    },
+    {
+      "candidateId": "identify-queen-liliuokalani",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-queen-liliuokalani",
+      "workingClaim": "The LOC photograph identifies Queen Liliuokalani.",
+      "sourceUrls": [
+        "https://www.loc.gov/pictures/item/2004679211/"
+      ]
+    },
+    {
+      "candidateId": "identify-joan-of-arc-painting",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-joan-of-arc-painting",
+      "workingClaim": "Ingres’s 1854 later painting depicts Joan of Arc at the coronation of Charles VII.",
+      "sourceUrls": [
+        "https://collections.louvre.fr/cartelen/visite?idNotice=22739&srv=car_not_frame",
+        "https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg"
+      ]
+    }
+  ]
+}

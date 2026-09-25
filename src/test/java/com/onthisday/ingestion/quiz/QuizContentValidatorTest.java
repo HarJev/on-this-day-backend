@@ -109,6 +109,13 @@ class QuizContentValidatorTest {
     assertFalse(warningMessages(result).contains("published questions omit type multiple_choice"));
   }
 
+  @Test
+  void acceptsACompleteProviderNeutralInstitutionalImage() {
+    var result = validator.validate(reader.read(Path.of("src/test/resources/ingestion/quiz/institutional-image")));
+
+    assertTrue(result.valid(), () -> "Validation errors: " + result.errors());
+  }
+
   private ContentValidationResult validateInvalidFixture() {
     return validator.validate(reader.read(Path.of("src/test/resources/ingestion/quiz/invalid")));
   }

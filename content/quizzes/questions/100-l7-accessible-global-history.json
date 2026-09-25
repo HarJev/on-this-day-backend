@@ -1,0 +1,960 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "dholavira-water-management",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Dholavira's reservoirs and channels were built primarily to manage what scarce resource?",
+      "options": [
+        {
+          "id": "water",
+          "text": "Water"
+        },
+        {
+          "id": "iron",
+          "text": "Iron"
+        },
+        {
+          "id": "timber",
+          "text": "Timber"
+        },
+        {
+          "id": "grain",
+          "text": "Grain"
+        }
+      ],
+      "correctOptionId": "water",
+      "explanation": "Dholavira's urban planning included reservoirs, drains, and other works for managing water in an arid setting.",
+      "sources": [
+        {
+          "displayName": "UNESCO - Dholavira",
+          "url": "https://whc.unesco.org/en/list/1645"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "meroe-iron-production",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Archaeological evidence at Meroe includes major production of which material?",
+      "options": [
+        {
+          "id": "iron",
+          "text": "Iron"
+        },
+        {
+          "id": "silk",
+          "text": "Silk"
+        },
+        {
+          "id": "porcelain",
+          "text": "Porcelain"
+        },
+        {
+          "id": "papyrus",
+          "text": "Papyrus"
+        }
+      ],
+      "correctOptionId": "iron",
+      "explanation": "The archaeological landscape at Meroe includes substantial ironworking remains.",
+      "sources": [
+        {
+          "displayName": "UNESCO - Archaeological Sites of the Island of Meroe",
+          "url": "https://whc.unesco.org/en/list/1336"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "borobudur-buddhist-monument",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Borobudur was built as a monument of which religious tradition?",
+      "options": [
+        {
+          "id": "buddhism",
+          "text": "Buddhism"
+        },
+        {
+          "id": "hinduism",
+          "text": "Hinduism"
+        },
+        {
+          "id": "shinto",
+          "text": "Shinto"
+        },
+        {
+          "id": "zoroastrianism",
+          "text": "Zoroastrianism"
+        }
+      ],
+      "correctOptionId": "buddhism",
+      "explanation": "Borobudur is a major Buddhist monument in Central Java dating from the eighth and ninth centuries.",
+      "sources": [
+        {
+          "displayName": "UNESCO - Borobudur Temple Compounds",
+          "url": "https://whc.unesco.org/en/list/592"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "lei-aurea-legal-effect",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Brazil's Lei Aurea declared which institution extinct?",
+      "options": [
+        {
+          "id": "slavery",
+          "text": "Slavery"
+        },
+        {
+          "id": "monarchy",
+          "text": "Monarchy"
+        },
+        {
+          "id": "conscription",
+          "text": "Military conscription"
+        },
+        {
+          "id": "the-coffee-export-tax",
+          "text": "The coffee export tax"
+        }
+      ],
+      "correctOptionId": "slavery",
+      "explanation": "The 1888 Lei Aurea legally abolished slavery in Brazil.",
+      "sources": [
+        {
+          "displayName": "Brazilian National Archives - Lei Aurea",
+          "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/lei-aurea-faz-parte-do-acervo-do-arquivo-nacional"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ]
+    },
+    {
+      "id": "nightingale-sanitation-statistics",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Florence Nightingale's diagrams showed that most army-hospital deaths came chiefly from what?",
+      "options": [
+        {
+          "id": "disease",
+          "text": "Disease rather than battle wounds"
+        },
+        {
+          "id": "battle-wounds",
+          "text": "Battle wounds"
+        },
+        {
+          "id": "sea-accidents",
+          "text": "Accidents at sea"
+        },
+        {
+          "id": "weather",
+          "text": "Weather exposure in battle"
+        }
+      ],
+      "correctOptionId": "disease",
+      "explanation": "Nightingale's diagrams showed that most recorded army-hospital deaths came from disease rather than battle wounds, strengthening the case for sanitary reform.",
+      "sources": [
+        {
+          "displayName": "UK National Archives - Florence Nightingale",
+          "url": "https://www.nationalarchives.gov.uk/education/resources/florence-nightingale/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "moche-irrigation-agriculture",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Moche of Peru expanded agriculture in dry valleys mainly through what kind of infrastructure?",
+      "options": [
+        {
+          "id": "canals",
+          "text": "Irrigation canals"
+        },
+        {
+          "id": "terraces",
+          "text": "Mountain terraces"
+        },
+        {
+          "id": "windmills",
+          "text": "Windmills"
+        },
+        {
+          "id": "rice-paddies",
+          "text": "Rice paddies"
+        }
+      ],
+      "correctOptionId": "canals",
+      "explanation": "Moche communities developed irrigation systems that helped support agriculture along Peru's north coast.",
+      "sources": [
+        {
+          "displayName": "Smithsonian National Museum of the American Indian - Moche",
+          "url": "https://americanindian.si.edu/explore/exhibitions/item?id=935"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "treaty-of-tordesillas-division",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Treaty of Tordesillas divided overseas lands between which two European kingdoms?",
+      "options": [
+        {
+          "id": "spain-portugal",
+          "text": "Spain and Portugal"
+        },
+        {
+          "id": "france-england",
+          "text": "France and England"
+        },
+        {
+          "id": "spain-france",
+          "text": "Spain and France"
+        },
+        {
+          "id": "portugal-netherlands",
+          "text": "Portugal and the Netherlands"
+        }
+      ],
+      "correctOptionId": "spain-portugal",
+      "explanation": "The 1494 treaty set a line of division for overseas claims by Spain and Portugal.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Treaty of Tordesillas",
+          "url": "https://www.britannica.com/event/Treaty-of-Tordesillas"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "mabo-native-title-ruling",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Mabo decision is most closely associated with recognition of what in Australian law?",
+      "options": [
+        {
+          "id": "native-title",
+          "text": "Native title"
+        },
+        {
+          "id": "universal-suffrage",
+          "text": "Universal suffrage"
+        },
+        {
+          "id": "federal-taxation",
+          "text": "Federal taxation"
+        },
+        {
+          "id": "jury-trials",
+          "text": "Jury trials"
+        }
+      ],
+      "correctOptionId": "native-title",
+      "explanation": "The High Court's Mabo decision rejected terra nullius and recognized native title in Australian common law.",
+      "sources": [
+        {
+          "displayName": "High Court of Australia - Mabo",
+          "url": "https://www.hcourt.gov.au/assets/publications/speeches/former-justices/gaudronj/gaudronj_mabo.pdf"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "treaty-rarotonga-purpose",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Treaty of Rarotonga established what kind of zone in the South Pacific?",
+      "options": [
+        {
+          "id": "nuclear-free",
+          "text": "A nuclear-free zone"
+        },
+        {
+          "id": "free-trade",
+          "text": "A free-trade zone"
+        },
+        {
+          "id": "fishing-exclusion",
+          "text": "A fishing-exclusion zone"
+        },
+        {
+          "id": "monetary-union",
+          "text": "A monetary union"
+        }
+      ],
+      "correctOptionId": "nuclear-free",
+      "explanation": "The 1985 Treaty of Rarotonga created a South Pacific Nuclear Free Zone.",
+      "sources": [
+        {
+          "displayName": "United Nations Treaty Collection - Treaty of Rarotonga",
+          "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "wangari-maathai-green-belt-movement",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Wangari Maathai founded which Kenyan movement centered on tree planting and civic action?",
+      "options": [
+        {
+          "id": "green-belt",
+          "text": "The Green Belt Movement"
+        },
+        {
+          "id": "red-cross",
+          "text": "The Red Cross"
+        },
+        {
+          "id": "non-aligned",
+          "text": "The Non-Aligned Movement"
+        },
+        {
+          "id": "mau-mau",
+          "text": "The Mau Mau movement"
+        }
+      ],
+      "correctOptionId": "green-belt",
+      "explanation": "Wangari Maathai founded the Green Belt Movement, linking environmental restoration with community participation.",
+      "sources": [
+        {
+          "displayName": "Nobel Prize - Wangari Maathai",
+          "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "mossadegh-oil-nationalization",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Mohammad Mossadegh is closely associated with nationalizing which Iranian industry?",
+      "options": [
+        {
+          "id": "oil",
+          "text": "Oil"
+        },
+        {
+          "id": "railways",
+          "text": "Railways"
+        },
+        {
+          "id": "textiles",
+          "text": "Textiles"
+        },
+        {
+          "id": "tea",
+          "text": "Tea"
+        }
+      ],
+      "correctOptionId": "oil",
+      "explanation": "As Iran's prime minister, Mossadegh moved to nationalize the oil industry in 1951.",
+      "sources": [
+        {
+          "displayName": "U.S. Department of State - Iran, 1952-1954",
+          "url": "https://history.state.gov/milestones/1953-1960/iran"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "titanic-built-belfast",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "In which city was RMS Titanic built?",
+      "options": [
+        {
+          "id": "belfast",
+          "text": "Belfast"
+        },
+        {
+          "id": "liverpool",
+          "text": "Liverpool"
+        },
+        {
+          "id": "glasgow",
+          "text": "Glasgow"
+        },
+        {
+          "id": "southampton",
+          "text": "Southampton"
+        }
+      ],
+      "correctOptionId": "belfast",
+      "explanation": "Titanic was built at the Harland and Wolff shipyard in Belfast before beginning its 1912 maiden voyage.",
+      "sources": [
+        {
+          "displayName": "National Museums NI - Titanic",
+          "url": "https://www.nmni.com/stories/titanic"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "women-athletes-athens-1896",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Women competed at the first modern Olympic Games in Athens in 1896.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Women first competed in the modern Olympic Games in 1900, not Athens 1896.",
+      "sources": [
+        {
+          "displayName": "Olympics Library - Women in the Olympic Games",
+          "url": "https://library.olympics.com/cnospa/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=1568413&parentDocumentId=1568412&skipCopyright=true&skipWatermark=true"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "australian-referendum-1967-misconception",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Australia's 1967 referendum gave Aboriginal and Torres Strait Islander peoples the right to vote for the first time.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "The referendum changed constitutional provisions; voting rights had been extended through earlier legislation.",
+      "sources": [
+        {
+          "displayName": "Australian Museum - 1967 referendum",
+          "url": "https://australian.museum/learn/first-nations/1967-referendum/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "triple-alliance-italy-member",
+      "type": "true_false",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Italy was the third original member of the Triple Alliance with Germany and Austria-Hungary.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The Triple Alliance joined Germany, Austria-Hungary, and Italy before the First World War.",
+      "sources": [
+        {
+          "displayName": "Imperial War Museums - Triple Alliance",
+          "url": "https://www.iwm.org.uk/history/the-causes-of-world-war-one"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ]
+    },
+    {
+      "id": "order-korean-cultural-printing-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these Korean cultural and printing milestones in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "bulguksa",
+          "text": "Bulguksa is completed"
+        },
+        {
+          "id": "tripitaka",
+          "text": "The Tripitaka Koreana is completed"
+        },
+        {
+          "id": "jikji",
+          "text": "Jikji is printed"
+        },
+        {
+          "id": "hunminjeongeum",
+          "text": "Hunminjeongeum is published"
+        }
+      ],
+      "correctOrderItemIds": [
+        "bulguksa",
+        "tripitaka",
+        "jikji",
+        "hunminjeongeum"
+      ],
+      "explanation": "The milestones date to 774, 1251, 1377, and 1446 respectively.",
+      "sources": [
+        {
+          "displayName": "UNESCO - Bulguksa",
+          "url": "https://whc.unesco.org/en/list/736"
+        },
+        {
+          "displayName": "UNESCO - Tripitaka Koreana",
+          "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures"
+        },
+        {
+          "displayName": "UNESCO - Jikji",
+          "url": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests?hub=915"
+        },
+        {
+          "displayName": "UNESCO - Hunminjeongeum",
+          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "order-pacific-independence-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these Pacific independence milestones in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "samoa",
+          "text": "Western Samoa becomes independent"
+        },
+        {
+          "id": "fiji",
+          "text": "Fiji becomes independent"
+        },
+        {
+          "id": "papua-new-guinea",
+          "text": "Papua New Guinea becomes independent"
+        },
+        {
+          "id": "vanuatu",
+          "text": "Vanuatu becomes independent"
+        }
+      ],
+      "correctOrderItemIds": [
+        "samoa",
+        "fiji",
+        "papua-new-guinea",
+        "vanuatu"
+      ],
+      "explanation": "These milestones occurred in 1962, 1970, 1975, and 1980.",
+      "sources": [
+        {
+          "displayName": "Commonwealth - Samoa",
+          "url": "https://thecommonwealth.org/our-member-countries/samoa"
+        },
+        {
+          "displayName": "National Archives of Fiji",
+          "url": "https://www.nationalarchives.gov.fj/"
+        },
+        {
+          "displayName": "National Museum of Australia - Papua New Guinea",
+          "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
+        },
+        {
+          "displayName": "Vanuatu National Archives",
+          "url": "https://vanuatu.gov.vu/"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "order-women-heads-government",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these women heads of government in order of first taking office, earliest first.",
+      "items": [
+        {
+          "id": "bandaranaike",
+          "text": "Sirimavo Bandaranaike"
+        },
+        {
+          "id": "gandhi",
+          "text": "Indira Gandhi"
+        },
+        {
+          "id": "thatcher",
+          "text": "Margaret Thatcher"
+        },
+        {
+          "id": "bhutto",
+          "text": "Benazir Bhutto"
+        }
+      ],
+      "correctOrderItemIds": [
+        "bandaranaike",
+        "gandhi",
+        "thatcher",
+        "bhutto"
+      ],
+      "explanation": "They first took office in 1960, 1966, 1979, and 1988 respectively.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Sirimavo Bandaranaike",
+          "url": "https://www.britannica.com/biography/Sirimavo-Bandaranaike"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Indira Gandhi",
+          "url": "https://www.britannica.com/biography/Indira-Gandhi"
+        },
+        {
+          "displayName": "UK Parliament - Margaret Thatcher",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/premiers/overview/margaret-thatcher/"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Benazir Bhutto",
+          "url": "https://www.britannica.com/biography/Benazir-Bhutto"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-george-washington",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who is shown in this portrait?",
+      "image": {
+        "url": "https://cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26500/4a26549v.jpg",
+        "altText": "A painted head-and-shoulders view of a man in eighteenth-century clothing.",
+        "source": "Library of Congress",
+        "sourceUrl": "https://www.loc.gov/item/2016817403/",
+        "attribution": "George Washington, head-and-shoulders portrait, after Gilbert Stuart; Library of Congress, Prints and Photographs Division, LC-DIG-det-4a26549.",
+        "creator": "Gilbert Stuart",
+        "license": "No known restrictions on publication",
+        "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
+      },
+      "options": [
+        {
+          "id": "washington",
+          "text": "George Washington"
+        },
+        {
+          "id": "jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "hamilton",
+          "text": "Alexander Hamilton"
+        },
+        {
+          "id": "lafayette",
+          "text": "Marquis de Lafayette"
+        }
+      ],
+      "correctOptionId": "washington",
+      "explanation": "The portrait derives from Gilbert Stuart's image of George Washington, the first president of the United States.",
+      "sources": [
+        {
+          "displayName": "Library of Congress - George Washington portrait",
+          "url": "https://www.loc.gov/item/2016817403/"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-marie-curie",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which scientist is shown in this photograph?",
+      "image": {
+        "url": "https://cdn.loc.gov/service/pnp/ggbain/07600/07682v.jpg",
+        "altText": "A black-and-white head-and-shoulders photograph of a woman in formal early twentieth-century clothing.",
+        "source": "Library of Congress",
+        "sourceUrl": "https://www.loc.gov/item/2014687674/",
+        "attribution": "Mme. Marie Curie, Bain News Service; Library of Congress, Prints and Photographs Division, LC-DIG-ggbain-07682.",
+        "creator": "Bain News Service",
+        "license": "No known restrictions on publication",
+        "licenseUrl": "https://www.loc.gov/rr/print/res/274_bain.html"
+      },
+      "options": [
+        {
+          "id": "curie",
+          "text": "Marie Curie"
+        },
+        {
+          "id": "franklin",
+          "text": "Rosalind Franklin"
+        },
+        {
+          "id": "meitner",
+          "text": "Lise Meitner"
+        },
+        {
+          "id": "noether",
+          "text": "Emmy Noether"
+        }
+      ],
+      "correctOptionId": "curie",
+      "explanation": "Marie Curie was a physicist and chemist whose research on radioactivity earned two Nobel Prizes.",
+      "sources": [
+        {
+          "displayName": "Library of Congress - Mme. Marie Curie",
+          "url": "https://www.loc.gov/item/2014687674/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "identify-william-shakespeare",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which playwright is shown in this portrait?",
+      "image": {
+        "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP858195.jpg",
+        "altText": "An engraved head-and-shoulders view of a man with a high forehead, moustache, and small pointed beard.",
+        "source": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/708351",
+        "attribution": "William Shakespeare, Charles Picart, 1827, The Metropolitan Museum of Art, 17.3.756-2421.",
+        "creator": "Charles Picart",
+        "license": "Public Domain",
+        "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+      },
+      "options": [
+        {
+          "id": "shakespeare",
+          "text": "William Shakespeare"
+        },
+        {
+          "id": "marlowe",
+          "text": "Christopher Marlowe"
+        },
+        {
+          "id": "ben-jonson",
+          "text": "Ben Jonson"
+        },
+        {
+          "id": "moliere",
+          "text": "Molière"
+        }
+      ],
+      "correctOptionId": "shakespeare",
+      "explanation": "Charles Picart's 1827 engraving is based on the accepted Droeshout image associated with William Shakespeare.",
+      "sources": [
+        {
+          "displayName": "The Metropolitan Museum of Art - William Shakespeare",
+          "url": "https://www.metmuseum.org/art/collection/search/708351"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-great-wave-off-kanagawa",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which artwork is shown?",
+      "image": {
+        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP141042.jpg",
+        "altText": "A towering blue wave curls above small boats, with a distant mountain in the background.",
+        "source": "The Metropolitan Museum of Art",
+        "sourceUrl": "https://www.metmuseum.org/art/collection/search/39799",
+        "attribution": "Under the Wave off Kanagawa, Katsushika Hokusai, ca. 1830-32, The Metropolitan Museum of Art, JP2569.",
+        "creator": "Katsushika Hokusai",
+        "license": "Public Domain",
+        "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+      },
+      "options": [
+        {
+          "id": "great-wave",
+          "text": "The Great Wave off Kanagawa"
+        },
+        {
+          "id": "fine-wind-clear-morning",
+          "text": "Fine Wind, Clear Morning"
+        },
+        {
+          "id": "sudden-shower-shin-ohashi",
+          "text": "Sudden Shower over Shin-Ōhashi Bridge"
+        },
+        {
+          "id": "plum-garden-kameido",
+          "text": "The Plum Garden at Kameido"
+        }
+      ],
+      "correctOptionId": "great-wave",
+      "explanation": "Hokusai made this woodblock print, widely known as The Great Wave off Kanagawa, around 1830-32.",
+      "sources": [
+        {
+          "displayName": "The Metropolitan Museum of Art - The Great Wave",
+          "url": "https://www.metmuseum.org/art/collection/search/39799"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-queen-liliuokalani",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which queen is shown in this portrait?",
+      "image": {
+        "url": "https://cdn.loc.gov/service/pnp/cph/3b00000/3b07000/3b07500/3b07514r.jpg",
+        "altText": "A seated woman in formal nineteenth-century clothing.",
+        "source": "Library of Congress",
+        "sourceUrl": "https://www.loc.gov/pictures/item/2004679211/",
+        "attribution": "Liliuokalani, Queen of Hawaii; photograph by Benine; Library of Congress, Prints and Photographs Division.",
+        "creator": "Benine",
+        "license": "No known restrictions on publication",
+        "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
+      },
+      "options": [
+        {
+          "id": "liliuokalani",
+          "text": "Queen Liliʻuokalani"
+        },
+        {
+          "id": "victoria",
+          "text": "Queen Victoria"
+        },
+        {
+          "id": "kapiolani",
+          "text": "Queen Kapiʻolani"
+        },
+        {
+          "id": "queen-emma",
+          "text": "Queen Emma of Hawaiʻi"
+        }
+      ],
+      "correctOptionId": "liliuokalani",
+      "explanation": "Liliuokalani was the last reigning monarch of the Hawaiian Kingdom.",
+      "sources": [
+        {
+          "displayName": "Library of Congress - Liliuokalani",
+          "url": "https://www.loc.gov/pictures/item/2004679211/"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-joan-of-arc-painting",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who is depicted in this painting?",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ingres_coronation_charles_vii.jpg/960px-Ingres_coronation_charles_vii.jpg",
+        "altText": "An armored woman stands with a banner in a cathedral setting.",
+        "source": "Louvre and Wikimedia Commons",
+        "sourceUrl": "https://collections.louvre.fr/cartelen/visite?idNotice=22739&srv=car_not_frame",
+        "attribution": "Joan of Arc at the Coronation of Charles VII, Jean-Auguste-Dominique Ingres, 1854; Louvre; public-domain rendition via Wikimedia Commons.",
+        "creator": "Jean-Auguste-Dominique Ingres",
+        "license": "Public Domain Mark",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "joan",
+          "text": "Joan of Arc"
+        },
+        {
+          "id": "boudica",
+          "text": "Boudica"
+        },
+        {
+          "id": "eleanor",
+          "text": "Eleanor of Aquitaine"
+        },
+        {
+          "id": "victoria",
+          "text": "Queen Victoria"
+        }
+      ],
+      "correctOptionId": "joan",
+      "explanation": "Jean-Auguste-Dominique Ingres painted this 1854 artistic depiction of Joan of Arc; it is a nineteenth-century interpretation, not an authenticated contemporary portrait.",
+      "sources": [
+        {
+          "displayName": "Louvre - Joan of Arc at the Coronation of Charles VII",
+          "url": "https://collections.louvre.fr/cartelen/visite?idNotice=22739&srv=car_not_frame"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    }
+  ]
+}
