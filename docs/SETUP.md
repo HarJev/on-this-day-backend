@@ -495,3 +495,16 @@ argument and is not printed by the command.
 
 Quiz endpoints are documented in `docs/API_CONTRACT.md` and are locally callable
 through SAM after migration and both content imports.
+
+## Pending Post-Audit Capabilities
+
+The following are approved work but are not current API/runtime claims:
+
+- explicit event-question relationships and date-linked Daily selection;
+- a timezone-aware seven-day recent-content endpoint;
+- scheduled notification delivery with per-timezone failure isolation;
+- a read-only editorial/canonical/database status and fingerprint command;
+- featured-image review coverage and stricter distractor/answer-position reports.
+
+Do not invent endpoint paths or operational commands before their implementation
+tasks update `docs/API_CONTRACT.md` and this setup guide.

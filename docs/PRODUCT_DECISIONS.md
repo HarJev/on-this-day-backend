@@ -410,3 +410,74 @@ large enough bank for varied play.
 - Image metadata must be complete and factual when an image is used.
 - Content should broaden globally without rigid quotas.
 - Sensitive subjects require educational and respectful treatment.
+
+## PD-029 — Today and Daily use explicit event-question relationships
+
+**Decision**
+Questions may reference reviewed stable event IDs. Newly generated Daily
+assignments reserve one eligible featured-event-related question in their first
+five positions when available and may include one more same-date relation in
+positions 6-20.
+
+**Implications**
+- Relationships are many-to-many, curated, imported, and validated.
+- No runtime text inference or AI generation is permitted.
+- Global balanced selection supplies all remaining positions and all fallback.
+- Existing persisted assignments remain unchanged.
+
+## PD-030 — Recent content is a seven-calendar-day window
+
+**Decision**
+The backend may return today plus the previous six dates using the requested
+IANA timezone. It does not expose arbitrary date search or a complete archive.
+
+**Implications**
+- Year-end and leap-day boundaries are resolved by the backend.
+- Missing curated days are represented without failing available days.
+- Revisiting past content does not create a new official result.
+
+## PD-031 — Notification batches fail independently
+
+**Decision**
+Scheduled FCM delivery groups devices by applicable local date/timezone and
+isolates unavailable content and send failures per group.
+
+**Implications**
+- One missing date cannot abort all recipients.
+- Permanent and transient token failures retain distinct handling.
+- Simulator/local notification checks are not backend delivery evidence.
+
+## PD-032 — Option position never identifies correctness
+
+**Decision**
+Correctness remains explicit through `correctOptionId` and persisted
+`is_correct`. Canonical authoring should vary correct positions and report
+pack-level distribution even though playable choices are shuffled.
+
+**Implications**
+- Ingestion does not infer correctness from display order.
+- Human review checks plausible, parallel distractors and prompt leakage.
+- True/false retains its canonical True/False option order.
+
+## PD-033 — Runtime databases contain approved canonical content only
+
+**Decision**
+Draft and `source_verified` records remain in the editorial workspace.
+Canonical files require owner approval before import.
+
+**Implications**
+- Status tooling compares editorial, canonical, and database counts/fingerprints.
+- A stale database is reported rather than mistaken for current content.
+- Working drafts do not require runtime publication-state behavior.
+
+## PD-034 — Featured-event review includes image research
+
+**Decision**
+Every featured-event batch records an image search and rights-review outcome.
+Publishing an image remains conditional on relevance, clarity, provenance, and
+license suitability.
+
+**Implications**
+- Coverage is reported, but unsuitable images are never quota filler.
+- Featured images are prioritized before additional-event images.
+- Owned delivery may change the served URL without losing original provenance.

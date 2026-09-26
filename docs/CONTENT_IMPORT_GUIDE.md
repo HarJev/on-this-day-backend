@@ -205,3 +205,15 @@ failure.
 To reset only the disposable local database after testing, use `docker compose
 down -v`, then repeat the migration and import steps. Never use that command on
 a shared staging or production database.
+
+## Approval And Import Status
+
+Draft and `source_verified` records are not importer inputs. Canonical files are
+the owner-approved publication set; a successful canonical import is the only
+path into runtime tables.
+
+The post-audit plan adds a read-only status command that will compare editorial,
+canonical, and database counts/fingerprints. Until that command is implemented,
+record the approved manifest, run the appropriate canonical importer, inspect
+database counts, and repeat the import for idempotency as described above. Do not
+claim that a database is current solely because its migrations are current.

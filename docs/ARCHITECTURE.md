@@ -2,12 +2,13 @@
 
 ## Purpose
 
-The backend exists to serve the v0.0.1 daily history experience:
+The backend serves the daily-history experience and its Quiz v0.1.0 expansion:
 
 1. return today's curated historical events,
 2. return event details,
 3. register notification-capable devices,
 4. send one daily featured-event notification.
+5. return quiz catalog, Quick Play, and stable Daily Challenge definitions.
 
 The backend should stay small until the product proves the daily habit. It is not
 a general history platform, CMS, personalization engine, or search service for
@@ -575,3 +576,49 @@ Quiz v0.1.0 does not add:
 - runtime AI;
 - a service split or framework;
 - quiz-specific deployment infrastructure.
+
+## Post-Audit Architecture Extensions
+
+These are approved design constraints for pending work, not descriptions of the
+current API.
+
+### Event-question relation
+
+Add a quiz-owned many-to-many relation between stable `question_id` and
+`event_id`, with foreign keys to the existing aggregates. Quiz ingestion
+accepts explicit related event IDs and validates that each resolves to canonical
+content. Repository candidate reads expose relation eligibility without loading
+full question aggregates.
+
+For an unassigned date, Daily generation resolves the featured and additional
+events, deterministically selects one eligible featured-related question for the
+first-five prefix when possible, optionally selects one other same-date relation
+for later positions, and delegates the remaining slots to the existing min-cost
+allocator. Related selection must not duplicate a question or make a supported
+challenge fail. Persisted assignments remain authoritative, so the algorithm is
+versioned only for future dates.
+
+### Recent-content query
+
+A recent-content service resolves the caller's local date from an IANA timezone
+and reads seven calendar dates as one bounded operation. It returns available
+curated days in date order plus enough metadata to distinguish uncovered dates.
+It does not expose unrestricted event search or arbitrary ranges.
+
+### Notification failure isolation
+
+The scheduled notification handler obtains eligible devices, groups them by
+resolved local date/timezone, and creates/sends each group independently.
+Content-unavailable is an expected skipped-group result. Repository,
+configuration, and sender failures are logged/metricized with safe categories;
+one group cannot abort later groups. Idempotency prevents routine retries from
+duplicating the same local-date notification.
+
+### Content status and image coverage
+
+Editorial status remains a build/import concern rather than a serving-table
+state. A status command reads ledgers and canonical files, optionally queries a
+target database, and emits deterministic counts and content fingerprints. It
+reports unapproved drafts, canonical records lacking approval, database drift,
+related-event coverage, distractor/answer-position review, and featured-image
+review outcomes. It never promotes or imports content.

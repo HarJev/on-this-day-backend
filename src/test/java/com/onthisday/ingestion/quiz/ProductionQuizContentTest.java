@@ -6,34 +6,12 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.nio.file.Path;
-import java.util.HashMap;
-import java.util.Map;
 import org.junit.jupiter.api.Test;
 
 class ProductionQuizContentTest {
 
-  private static final Map<String, Integer> EXPECTED_TYPE_COUNTS =
-      Map.of(
-          "multiple_choice", 36,
-          "true_false", 9,
-          "image_identification", 9,
-          "chronological_ordering", 6);
-  private static final Map<String, Integer> EXPECTED_DIFFICULTY_COUNTS =
-      Map.of("easy", 15, "medium", 33, "hard", 12);
-  private static final Map<String, Integer> EXPECTED_COLLECTION_COUNTS =
-      Map.of(
-          "ancient-history", 15,
-          "ancient-rome", 6,
-          "wars-and-conflicts", 20,
-          "leaders-and-power", 16,
-          "revolutions", 10,
-          "world-wars", 10,
-          "science-and-innovation", 12,
-          "exploration-and-exchange", 10,
-          "society-culture-and-ideas", 10);
-
   @Test
-  void canonicalQuestionBankMeetsReviewedQ7Contract() {
+  void canonicalQuestionBankMeetsProductionContentInvariants() {
     var content =
         new QuizContentReader(new ObjectMapper()).read(Path.of("content/quizzes"));
     var validation = new QuizContentValidator(true).validate(content);
@@ -41,22 +19,16 @@ class ProductionQuizContentTest {
 
     var questions =
         content.questionPacks().stream().flatMap(pack -> pack.file().questions().stream()).toList();
-    assertEquals(6, content.questionPacks().size());
-    assertEquals(60, questions.size());
-    assertEquals(60, questions.stream().map(CuratedQuizQuestionJson::id).distinct().count());
+    assertTrue(content.questionPacks().size() >= 6);
+    assertTrue(questions.size() >= 60);
+    assertEquals(questions.size(), questions.stream().map(CuratedQuizQuestionJson::id).distinct().count());
     assertTrue(questions.stream().allMatch(question -> "published".equals(question.publicationState())));
     assertTrue(questions.stream().allMatch(question -> !question.collectionIds().isEmpty()));
 
-    assertEquals(EXPECTED_TYPE_COUNTS, counts(questions.stream().map(CuratedQuizQuestionJson::type).toList()));
-    assertEquals(
-        EXPECTED_DIFFICULTY_COUNTS,
-        counts(questions.stream().map(CuratedQuizQuestionJson::difficulty).toList()));
-    assertEquals(
-        EXPECTED_COLLECTION_COUNTS,
-        counts(questions.stream().flatMap(question -> question.collectionIds().stream()).toList()));
+    assertTrue(questions.stream().map(CuratedQuizQuestionJson::type).distinct().count() == 4);
+    assertTrue(questions.stream().map(CuratedQuizQuestionJson::difficulty).distinct().count() == 3);
 
     var images = questions.stream().filter(question -> question.image() != null).toList();
-    assertEquals(9, images.size());
     for (var question : images) {
       var image = question.image();
       assertTrue(image.url().startsWith("https://"));
@@ -83,9 +55,4 @@ class ProductionQuizContentTest {
             .noneMatch(source -> source.url().contains("wikipedia.org")));
   }
 
-  private static Map<String, Integer> counts(Iterable<String> values) {
-    var counts = new HashMap<String, Integer>();
-    values.forEach(value -> counts.merge(value, 1, Integer::sum));
-    return Map.copyOf(counts);
-  }
 }

@@ -36,3 +36,15 @@ never deleted by import.
 L3's owned-image dry run validates local assets and metadata only. It does not
 upload an asset or change a production image URL. Any actual owned-origin upload
 is separately approval-gated.
+
+## Post-Audit Review Metadata
+
+The workflow will add explicit related event IDs for approved quiz questions,
+pack-level correct-option position reporting, and a featured-image review result
+for each curated day. Related IDs are factual editorial assertions: validate the
+event exists and that the question meaningfully reinforces it.
+
+Draft, `source_verified`, approved canonical, and imported database states must
+remain distinguishable. The planned status command compares ledgers, canonical
+files, and an optional target database by counts and deterministic fingerprints.
+It reports drift but never approves, promotes, imports, or deletes content.

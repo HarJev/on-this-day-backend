@@ -134,6 +134,48 @@ No question in this batch depends on a disputed answer. Where dates are
 traditional or approximate, that uncertainty is stated in the prompt or
 explanation. Questions that could not meet that standard were replaced from the
 working candidate slate.
+
+## Q8 Batch 1 — September 15, 2026
+
+This bounded batch contains 6 published questions: 3 multiple choice, 2
+true/false, 0 image-identification, and 1 chronological-ordering question.
+Difficulty is 2 easy, 3 medium, and 1 hard. Collection memberships are:
+World Wars 3, Leaders & Power 2, Revolutions 1, Exploration & Exchange 1,
+Science & Innovation 2, and Society, Culture & Ideas 2.
+
+The batch prioritizes Central American independence, First World War technology,
+the Battle of Britain, U.S. political history, and the 2008 financial crisis.
+No images were retained because fully verified mobile-safe image provenance and
+licensing could not be completed in this bounded pass. Sensitive material is
+described neutrally; the Birmingham church bombing is included in the historical
+day content, not as quiz trivia. All retained questions use direct HTTPS
+institutional or reference sources, and the chronological question uses
+separate sources for its four dates. The planned 30-question target was not
+forced; 24 candidates were omitted pending direct-source or image-provenance
+review.
+
+## Q8 Pack 080 — Science and Global Health
+
+This 6-question pack adds 4 multiple-choice questions, 1 true/false question,
+and 1 chronological-ordering question; difficulty is 1 easy, 4 medium, and 1
+hard. It adds five Science & Innovation memberships and two Society, Culture &
+Ideas memberships. Its scope is the Apollo 11 mission and the global smallpox
+eradication campaign, broadening post-1945 scientific and public-health
+coverage. NASA and WHO pages were opened directly and used to support both the
+answers and explanations. No images were added. The pack omits a Universal
+Declaration question because the United Nations source was inaccessible for
+direct-page review.
+
+## Q8 Pack 090 - Statehood, Science and Society
+
+Added 24 reviewed questions: 18 multiple choice, 6 true/false; 5 easy, 14 medium,
+5 hard. The bank now contains 96 questions. Every answer has a directly opened
+institutional source. No new images or image-license claims were introduced.
+See [September content review](SEPTEMBER_CONTENT_REVIEW.md) for sourcing,
+coverage limits, editorial corrections and successful local importer results.
+No content tests were run for this batch, per request; the importers performed
+their existing validation before committing the local database transaction.
+
 ## L7 Draft Discovery Notes
 
 The L7 accessible-global-history draft uses two independently verified

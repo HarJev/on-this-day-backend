@@ -1,6 +1,6 @@
 Using backend folder: `on-this-day-backend`
 
-Path: `/Users/jevaunharris/Workspace/on-this-day-backend`
+Path: `/Users/jevaunharris/Workspace/on-this-day/on-this-day-backend`
 
 I read all requested files and updated docs/SETUP.md so the defaults are clearly Maven-based, not open-ended Gradle/tooling choices. Since the repo is currently untracked docs-only, `git diff` is empty, but `git status` shows `AGENTS.md` and `docs/` as untracked.
 
@@ -287,3 +287,107 @@ monolith.
   stabilizes response DTOs.
 - **Out of scope:** mobile code in the backend repository, accounts, cross-device
   sync, leaderboards, and notification changes.
+
+---
+
+# Post-Audit Backend Implementation Sequence
+
+These tasks implement the approved integrated daily-learning direction. They do
+not rewrite completed Q1-Q9 checkpoints or existing persisted Daily assignments.
+Implement and review them separately.
+
+## PA1: Editorial Quality And Content Status Baseline
+
+- **Goal:** Make draft, approved canonical, and imported database state
+  inspectable before adding new runtime relationships.
+- **Files/components:** editorial validators/reporting, quiz authoring checks,
+  featured-image review metadata, read-only status/fingerprint command, docs.
+- **Acceptance criteria:** report draft/source-verified/approved/imported counts,
+  canonical/database fingerprints, stale imports, answer-position distribution,
+  related-event metadata, featured-image review outcomes, and unresolved
+  distractor review. The command performs no approval, promotion, or import.
+- **Out of scope:** automatic distractor rewriting, runtime draft tables, and
+  production import.
+
+## PA2: Event-Question Relationship Schema And Ingestion
+
+- **Goal:** Persist explicit reviewed relationships between quiz questions and
+  historical events.
+- **Files/components:** Flyway migration, domain/repository contracts, quiz JSON
+  field/DTO validation, importer, editorial preflight, coverage reporting.
+- **Acceptance criteria:** many-to-many relations use stable foreign keys;
+  unknown/duplicate IDs fail validation; omitted questions/events are preserved;
+  imports remain transactional/idempotent; existing assignments remain
+  unchanged.
+- **Dependencies:** PA1 and existing quiz/event ingestion.
+- **Out of scope:** relation inference, runtime AI, user tagging, and selector
+  changes.
+
+## PA3: Date-Linked Daily Selection
+
+- **Goal:** Make Daily reinforce the current day's curated events without losing
+  deterministic global balance.
+- **Files/components:** Daily candidate queries, versioned generator, services,
+  response mapping where link metadata is needed, unit/Testcontainers tests.
+- **Acceptance criteria:** newly assigned Daily-5 includes one eligible featured
+  relation when available; Daily-10/20 may include at most one additional
+  same-date relation; missing supply falls back safely; questions stay distinct;
+  5/10/20 prefixes, concurrent first creation, and existing assignment
+  immutability remain intact.
+- **Dependencies:** PA2.
+- **Out of scope:** rewriting prior assignments, backend scoring, and generated
+  questions.
+
+## PA4: Seven-Day Recent Content API
+
+- **Goal:** Return today and the previous six local calendar dates without
+  introducing arbitrary archive browsing.
+- **Files/components:** recent-content domain response, repository/service,
+  handler/DTO/route, SAM event, API contract and tests.
+- **Acceptance criteria:** validates IANA timezone; handles year/leap boundaries;
+  returns available days in date order and exposes uncovered dates safely;
+  one missing day does not fail the whole window.
+- **Dependencies:** existing event repositories/platform edge.
+- **Out of scope:** search, arbitrary ranges, complete archive UI, and past
+  official quiz attempts.
+
+## PA5: Scheduled Notification Delivery And Failure Isolation
+
+- **Goal:** Complete the deferred production notification loop.
+- **Files/components:** scheduled Lambda entry, EventBridge/SAM wiring,
+  idempotency record if required, per-timezone planning, sender metrics/tests.
+- **Acceptance criteria:** groups eligible devices by local date/timezone; sends
+  reviewed featured copy and event ID; skips unavailable groups while continuing
+  others; distinguishes permanent/transient/configuration failures; retry does
+  not duplicate an already completed local-date send.
+- **Dependencies:** existing device repository and FCM sender foundation.
+- **Supersedes:** original Task 14's global-send simplification.
+- **Out of scope:** personalized categories, multiple daily pushes, and iOS APNs
+  credential ownership.
+
+## PA6: Event Image Coverage
+
+- **Goal:** Increase visual completeness without weakening rights review.
+- **Files/components:** seven-day editorial batches, image manifests/renditions,
+  coverage report, owned-origin publishing plan when approved.
+- **Acceptance criteria:** every featured event records an image search and
+  rights outcome; published media passes provenance, checksum, size/dimension,
+  and mobile first-fetch gates; text-only decisions remain explicit; served URL
+  changes preserve original source/license metadata.
+- **Dependencies:** existing editorial workflow and owned-image dry run.
+- **Out of scope:** automated scraping, unreviewed hotlink substitution, and AWS
+  provisioning without approval.
+
+## PA7: Backend Observability Contract
+
+- **Goal:** Produce the minimum safe operational/product signals required for a
+  closed beta.
+- **Files/components:** structured logs/metrics, failure categories, privacy and
+  retention documentation, deployment alarm plan.
+- **Acceptance criteria:** measure API errors/latency, content unavailable,
+  notification batches/results, and categorized image-origin failures without
+  logging tokens, answer content, query-string secrets, or unnecessary personal
+  identifiers.
+- **Dependencies:** PA3-PA5 where applicable and approved deployment design.
+- **Out of scope:** advertising profiles, user accounts, or broad event-level
+  behavioral tracking.

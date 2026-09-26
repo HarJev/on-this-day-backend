@@ -95,6 +95,28 @@
     },
     {
       "month": 9,
+      "day": 15,
+      "featuredEventId": "central-american-independence-1821",
+      "additionalEventIds": ["battle-of-flers-courcelette-tanks-1916", "battle-of-britain-day-1940", "birmingham-sixteenth-street-baptist-bombing-1963", "greenpeace-founded-1971", "lehman-brothers-bankruptcy-2008", "william-howard-taft-born-1857"]
+    },
+    {
+      "month": 9,
+      "day": 16,
+      "featuredEventId": "montreal-protocol-adopted-1987",
+      "additionalEventIds": [
+        "papua-new-guinea-independence-1975"
+      ]
+    },
+    {
+      "month": 9,
+      "day": 17,
+      "featuredEventId": "camp-david-accords-signed-1978",
+      "additionalEventIds": [
+        "us-constitution-signed-1787"
+      ]
+    },
+    {
+      "month": 9,
       "day": 18,
       "featuredEventId": "us-capitol-cornerstone-1793",
       "additionalEventIds": [

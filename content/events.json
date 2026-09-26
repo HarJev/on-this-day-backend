@@ -947,6 +947,169 @@
       "images": []
     },
     {
+      "id": "central-american-independence-1821",
+      "title": "Central America declares independence from Spain",
+      "year": "1821",
+      "historicalDate": "September 15, 1821",
+      "dateNote": null,
+      "summary": "The provinces of the former Captaincy General of Guatemala declared independence from Spain.",
+      "description": "On September 15, 1821, the territories that became Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica declared independence from Spain. The political union that followed later fractured, but the date remains a shared independence commemoration across much of Central America.",
+      "notificationTitle": "Five countries share an independence date",
+      "notificationBody": "A declaration in 1821 reshaped Central America's political map.",
+      "sources": [{"name":"U.S. Department of State, Office of the Historian","url":"https://history.state.gov/countries/central-american-federation"}],
+      "images": []
+    },
+    {
+      "id": "battle-of-flers-courcelette-tanks-1916",
+      "title": "Tanks enter battle at Flers-Courcelette",
+      "year": "1916",
+      "historicalDate": "September 15, 1916",
+      "dateNote": null,
+      "summary": "British forces used tanks in battle for the first time during the Somme offensive.",
+      "description": "On September 15, 1916, Britain deployed tanks during the Battle of Flers-Courcelette on the Western Front. The early vehicles were mechanically unreliable and few in number, but their appearance marked a significant experiment in armoured warfare.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Imperial War Museums - Tanks in the First World War","url":"https://www.iwm.org.uk/history/how-tanks-first-appeared-on-the-battlefield"}],
+      "images": []
+    },
+    {
+      "id": "battle-of-britain-day-1940",
+      "title": "Battle of Britain reaches a decisive day",
+      "year": "1940",
+      "historicalDate": "September 15, 1940",
+      "dateNote": null,
+      "summary": "A major German daylight assault failed to eliminate Britain's fighter defences.",
+      "description": "On September 15, 1940, the Luftwaffe launched two major daylight raids against London. The Royal Air Force remained capable of meeting the attacks, and the day became a turning point in the Battle of Britain, though the wider battle continued afterward.",
+      "notificationTitle": "The day Britain held its skies",
+      "notificationBody": "A major 1940 air assault failed to break Fighter Command.",
+      "sources": [{"name":"Royal Air Force Museum - 15 September 1940","url":"https://www.rafmuseum.org.uk/documents/podcasts/transcripts/15_Sept_Podcast.pdf"}],
+      "images": []
+    },
+    {
+      "id": "birmingham-sixteenth-street-baptist-bombing-1963",
+      "title": "Four girls are killed in the Birmingham church bombing",
+      "year": "1963",
+      "historicalDate": "September 15, 1963",
+      "dateNote": null,
+      "summary": "A white supremacist bombing killed four girls at the 16th Street Baptist Church in Birmingham, Alabama.",
+      "description": "On September 15, 1963, a bomb planted by white supremacists exploded at Birmingham's 16th Street Baptist Church, killing Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley. The attack exposed the violence surrounding the U.S. civil-rights struggle and strengthened demands for federal action.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"National Park Service - 16th Street Baptist Church","url":"https://www.nps.gov/people/16th-street-baptist-church-bombing.htm"}],
+      "images": []
+    },
+    {
+      "id": "greenpeace-founded-1971",
+      "title": "The environmental organization Greenpeace is founded",
+      "year": "1971",
+      "historicalDate": "September 15, 1971",
+      "dateNote": null,
+      "summary": "A group of activists sailed from Vancouver in a campaign against a U.S. nuclear test.",
+      "description": "On September 15, 1971, activists sailed from Vancouver aboard the ship that became associated with Greenpeace, aiming to protest a U.S. nuclear test at Amchitka in Alaska. The campaign helped establish a new style of direct-action environmental activism.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Greenpeace - Our history","url":"https://www.greenpeace.org/international/history/"}],
+      "images": []
+    },
+    {
+      "id": "lehman-brothers-bankruptcy-2008",
+      "title": "Lehman Brothers files for bankruptcy",
+      "year": "2008",
+      "historicalDate": "September 15, 2008",
+      "dateNote": null,
+      "summary": "The investment bank's collapse intensified the global financial crisis.",
+      "description": "On September 15, 2008, Lehman Brothers filed for Chapter 11 bankruptcy protection after losses tied to the U.S. housing and credit crisis. Its failure intensified financial-market panic and became a defining event of the global financial crisis.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Federal Reserve History - The Panic of 2008","url":"https://www.federalreservehistory.org/essays/panic-of-2008"}],
+      "images": []
+    },
+    {
+      "id": "william-howard-taft-born-1857",
+      "title": "William Howard Taft is born",
+      "year": "1857",
+      "historicalDate": "September 15, 1857",
+      "dateNote": null,
+      "summary": "William Howard Taft, later the 27th U.S. president and 10th chief justice, is born in Ohio.",
+      "description": "William Howard Taft was born in Cincinnati on September 15, 1857. He later served as U.S. president from 1909 to 1913 and became the only person to serve both as president and chief justice of the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Library of Congress - Today in History: September 15","url":"https://www.loc.gov/item/today-in-history/september-15/"}],
+      "images": []
+    },
+    {
+      "id": "montreal-protocol-adopted-1987",
+      "title": "Countries adopt the Montreal Protocol",
+      "year": "1987",
+      "historicalDate": "September 16, 1987",
+      "dateNote": null,
+      "summary": "An international agreement targets chemicals that damage Earth's ozone layer.",
+      "description": "Adopted on September 16, 1987, the Montreal Protocol set binding controls on ozone-depleting substances. Its phased approach gave countries different timetables while committing them to a shared environmental goal.",
+      "notificationTitle": "Countries adopt the Montreal Protocol",
+      "notificationBody": "An international agreement targets chemicals that damage Earth's ozone layer.",
+      "sources": [
+        {
+          "name": "UN Environment Programme - Montreal Protocol",
+          "url": "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "papua-new-guinea-independence-1975",
+      "title": "Papua New Guinea becomes independent",
+      "year": "1975",
+      "historicalDate": "September 16, 1975",
+      "dateNote": null,
+      "summary": "Independence ends Australian administration of Papua New Guinea.",
+      "description": "On September 16, 1975, Papua New Guinea became independent after a period of self-government. The transition followed decades of Australian administration and growing challenges to colonial rule.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of Australia - Papua New Guinea",
+          "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "camp-david-accords-signed-1978",
+      "title": "Egypt and Israel sign the Camp David Accords",
+      "year": "1978",
+      "historicalDate": "September 17, 1978",
+      "dateNote": null,
+      "summary": "Two frameworks create a path toward an Egyptian-Israeli peace treaty.",
+      "description": "On September 17, 1978, Anwar Sadat and Menachem Begin signed the Camp David agreements at the White House, with Jimmy Carter as witness. They were frameworks, not the final peace treaty, which followed in March 1979.",
+      "notificationTitle": "Egypt and Israel sign the Camp David Accords",
+      "notificationBody": "Two frameworks create a path toward an Egyptian-Israeli peace treaty.",
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Camp David signing",
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-constitution-signed-1787",
+      "title": "Delegates sign the United States Constitution",
+      "year": "1787",
+      "historicalDate": "September 17, 1787",
+      "dateNote": null,
+      "summary": "The Constitutional Convention completes its work in Philadelphia.",
+      "description": "On September 17, 1787, delegates signed the Constitution at the close of the Philadelphia convention. Washington's diary records that three delegates present declined to sign. Signing was a step toward a new government, not the end of the ratification debate.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Washington's diary, September 17, 1787",
+          "url": "https://founders.archives.gov/documents/Washington/01-05-02-0002-0009-0017"
+        }
+      ],
+      "images": []
+    },
+    {
       "id": "us-capitol-cornerstone-1793",
       "title": "George Washington lays the Capitol cornerstone",
       "year": "1793",

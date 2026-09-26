@@ -5,19 +5,21 @@ Canonical quiz packs live under `content/quizzes/questions/`; research notes,
 candidates, and human review records belong under `editorial/` and are not
 runtime inputs.
 
-## Current Marker - 2026-09-18
+## Current Marker - 2026-09-26
 
 - L6 historical-event content is reviewed and committed through October 1.
-- The next event batch is October 2-8, but the active content focus is now L7
-  quiz expansion.
-- The committed quiz bank contains the original 60 questions.
-- The current working tree contains 96 questions after three uncommitted Q8
-  packs. Preserve and review those packs before starting a new numbered pack.
+- The canonical working tree contains 120 published questions: the original
+  bank, three still-uncommitted Q8 packs, and the committed 24-question Pack 100.
+- The local project database was last verified with those 120 questions after
+  Pack 100 import. Recheck its fingerprint before relying on that statement.
+- Pack 110 contains 30 `source_verified` editorial drafts. It is not canonical,
+  approved, imported, or part of the published count.
+- Preserve and review every dirty pack before starting another numbered pack.
 - Public v1 targets 240 reviewed questions: 144 multiple choice, 36 true/false,
   36 image identification, and 24 chronological ordering.
-- At the current 96-question working-tree state, the distribution is 61
-  multiple choice, 18 true/false, 9 image identification, and 8 chronological
-  ordering. Image and ordering content therefore need deliberate expansion.
+- Recompute type, difficulty, region, era, collection, and correct-position
+  distribution from canonical content before allocating the next pack. Do not
+  copy a stale total from this guide into a release claim.
 
 Historical events are useful question leads, but they are not automatically
 approved quiz facts. Every prompt, answer, distractor, explanation, date, and
@@ -82,6 +84,13 @@ option.
 Distractors must be plausible enough to make the question interesting but
 clearly wrong under the wording used. Avoid trick wording, overlapping answers,
 and options that differ only because one is much more specific.
+
+The prompt must not reveal the answer through a repeated country, movement,
+person, or title. Prefer distractors from the same semantic class, era, region,
+or role at comparable specificity. Avoid one option that is uniquely long,
+technical, famous, or grammatically compatible. The correct answer is identified
+by `correctOptionId`; vary its authored position across the pack even though the
+playable API shuffles options. True/false is the deliberate exception.
 
 ## True Or False
 
@@ -244,6 +253,10 @@ The command for a canonical local quiz import is documented in
   an explicit editorial pass.
 - Region, era, question type, difficulty, and collection coverage improve the
   bank rather than duplicating a recent question.
-- A related historical event may be recorded as inspiration, but no runtime
-  event-question relation is added unless a user-facing feature needs it.
-
+- Record stable related event IDs when a question genuinely reinforces a
+  curated event. Do not add a loose relation merely because subjects overlap.
+- The prompt does not repeat or strongly telegraph the answer.
+- Distractors are parallel in category and specificity and remain plausible to
+  a reader who recognizes the general subject.
+- Correct-option positions vary across multiple-choice and image questions;
+  position never identifies correctness.

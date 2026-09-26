@@ -1,11 +1,12 @@
 # On This Day — Product Specification
 
 Sections 1-12 define the v0.0.1 daily-history product. Section 13 defines the
-additive Quiz v0.1.0 expansion. Quiz does not retroactively change the v0.0.1
-scope or acceptance criteria.
+implemented Quiz v0.1.0 expansion. Section 14 records the approved post-audit
+direction connecting event discovery, reinforcement, recent history, and
+notifications. It does not claim that those additions are implemented.
 
 **Status:** Canonical product definition  
-**Version:** v0.0.1  
+**Version:** v0.1.0
 **Product:** On This Day mobile app
 
 ## 1. Product Goal
@@ -917,3 +918,48 @@ Quiz v0.1.0 is product-complete when:
 7. the initial 60 reviewed questions are available before expansion toward the
    240-question target;
 8. existing v0.0.1 API behavior remains unchanged.
+
+## 14. Post-Audit Product Direction
+
+The backend should support one coherent daily learning loop rather than serving
+unrelated Today and Quiz experiences.
+
+### 14.1 Event-related quiz questions
+
+Questions may be explicitly related to stable event IDs through reviewed
+many-to-many metadata. For newly generated Daily assignments, position 1-5
+should contain one eligible featured-event-related question when available.
+Daily-10/20 may contain one additional eligible question related to another
+event from the date. The remaining positions retain global balance.
+
+No relation is inferred from prose or generated at runtime. Missing related
+supply falls back to the existing deterministic general-history selector.
+Existing persisted assignments never change, and all future 5/10/20 responses
+remain stable prefixes.
+
+### 14.2 Recent days
+
+Support a constrained timezone-aware window containing today and the previous
+six calendar days. This is not arbitrary date browsing, search, or a complete
+archive. Partial content coverage is represented honestly rather than converted
+into a whole-request failure.
+
+### 14.3 Notification delivery
+
+The intended production path is a scheduled backend job through FCM. Device
+groups are isolated by timezone/date so unavailable content or a send failure in
+one group does not abort other groups. Local or simulator notifications remain
+mobile development tools and are not substitutes for this delivery path.
+
+### 14.4 Editorial quality and state
+
+Draft and `source_verified` records remain outside canonical importer inputs.
+Canonical content contains owner-approved records; runtime PostgreSQL contains
+imported canonical records only. Reporting should compare editorial, canonical,
+and database counts/fingerprints and expose stale imports.
+
+Correct options are identified explicitly rather than by list position.
+Multiple-choice and image distractors must be plausible, parallel in semantic
+category and specificity, unambiguous, and free of prompt answer leakage.
+Featured-event review includes an image search and rights outcome even when no
+suitable image is published.
