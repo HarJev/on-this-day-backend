@@ -906,13 +906,13 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19200/19211v.jpg",
-        "altText": "Black-and-white seated portrait of a bearded man in a dark suit",
+        "url": "https://tile.loc.gov/image-services/iiif/service:pnp:ppmsca:19200:19211v/40,40,555,870/full/0/default.jpg",
+        "altText": "Sepia-toned seated portrait of a bearded man in a dark suit and bow tie",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/pictures/item/2008680391/",
-        "attribution": "Library of Congress Prints and Photographs Division",
-        "creator": "Unknown photographer",
-        "license": "No known restrictions",
+        "attribution": "Seated portrait, January 8, 1864; Brady, New York; Library of Congress, Prints and Photographs Division, LC-DIG-ppmsca-19211; cropped to the photograph within the carte de visite mount.",
+        "creator": "Mathew B. Brady",
+        "license": "No known restrictions on publication",
         "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
       },
       "options": [
@@ -1096,8 +1096,8 @@
         "altText": "Nineteenth-century painted portrait of a man in a dark formal jacket",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jos%C3%A9_Rizal_(1891).jpg",
-        "attribution": "Portrait of José Rizal, 1891; photograph by Redenertube via Wikimedia Commons",
-        "creator": "Unknown painter; photograph by Redenertube",
+        "attribution": "Oil portrait, Telesforo Sucgang, 1891; photograph of the painting by Redenertube via Wikimedia Commons",
+        "creator": "Telesforo Sucgang; photograph by Redenertube",
         "license": "CC0 1.0 Universal",
         "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
       },
@@ -1140,7 +1140,7 @@
       "prompt": "Which monument is shown?",
       "image": {
         "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Statueofliberty_nps.jpg/960px-Statueofliberty_nps.jpg",
-        "altText": "Large robed statue holding a raised torch on an island beside a harbor",
+        "altText": "Low-angle view of a green copper statue in draped robes and a spiked crown, raising a torch and holding a tablet, against a cloudy sky",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statueofliberty_nps.jpg",
         "attribution": "National Park Service, via Wikimedia Commons",

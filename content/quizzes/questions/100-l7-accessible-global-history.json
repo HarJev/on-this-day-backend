@@ -734,10 +734,10 @@
       "prompt": "Which scientist is shown in this photograph?",
       "image": {
         "url": "https://tile.loc.gov/image-services/iiif/service:pnp:ggbain:07600:07682v/110,70,560,880/full/0/default.jpg",
-        "altText": "A black-and-white head-and-shoulders photograph of a woman in formal early twentieth-century clothing.",
+        "altText": "A black-and-white three-quarter-length photograph of a woman in a dark high-necked dress, standing beside a table and holding a long neck chain.",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/item/2014687674/",
-        "attribution": "Mme. Marie Curie, Bain News Service; Library of Congress, Prints and Photographs Division, LC-DIG-ggbain-07682.",
+        "attribution": "Bain News Service photograph; Library of Congress, Prints and Photographs Division, LC-DIG-ggbain-07682; cropped from the digitized glass negative to exclude its caption.",
         "creator": "Bain News Service",
         "license": "No known restrictions on publication",
         "licenseUrl": "https://www.loc.gov/rr/print/res/274_bain.html"
@@ -871,11 +871,11 @@
       "publicationState": "published",
       "prompt": "Which queen is shown in this portrait?",
       "image": {
-        "url": "https://tile.loc.gov/storage-services/service/pnp/cph/3b00000/3b07000/3b07500/3b07514r.jpg",
-        "altText": "A seated woman in formal nineteenth-century clothing.",
+        "url": "https://tile.loc.gov/image-services/iiif/master:pnp:cph:3a30000:3a39000:3a39200:3a39242u/76,76,1064,1140/800,/0/default.jpg",
+        "altText": "A black-and-white head-and-shoulders photograph of an older woman with curled gray hair, wearing a dark dress with a pale lace jabot, seated in a wicker chair.",
         "source": "Library of Congress",
-        "sourceUrl": "https://www.loc.gov/pictures/item/2004679211/",
-        "attribution": "Liliuokalani, Queen of Hawaii; photograph by Benine; Library of Congress, Prints and Photographs Division.",
+        "sourceUrl": "https://www.loc.gov/pictures/item/2016651074/",
+        "attribution": "Head-and-shoulders portrait, 1917; photograph credited to Benine; Library of Congress, Prints and Photographs Division, cph.3a39242; cropped from the digitized print.",
         "creator": "Benine",
         "license": "No known restrictions on publication",
         "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
@@ -903,7 +903,7 @@
       "sources": [
         {
           "displayName": "Library of Congress - Liliuokalani",
-          "url": "https://www.loc.gov/pictures/item/2004679211/"
+          "url": "https://www.loc.gov/pictures/item/2016651074/"
         }
       ],
       "collectionIds": [
