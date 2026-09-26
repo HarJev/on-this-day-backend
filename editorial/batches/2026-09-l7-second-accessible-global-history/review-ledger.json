@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-second-accessible-global-history",
+  "entries": [
+    {
+      "candidateId": "hammurabi-code-written-laws",
+      "canonicalId": "hammurabi-code-written-laws",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.louvre.fr/en/the-code-of-hammurabi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "The Louvre describes a collection of 282 legal judgements covering society, including conditional penalties."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "mesopotamia"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "teotihuacan-ceremonial-center",
+      "canonicalId": "teotihuacan-ceremonial-center",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/414",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO identifies the Avenue of the Dead and Pyramid of the Sun."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "mesoamerica"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "ashoka-edicts-dhamma",
+      "canonicalId": "ashoka-edicts-dhamma",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/tentativelists/6803",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO describes messages rooted in dhamma and their public communication role."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "south-asia"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending; avoids reducing dhamma to generic policy.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "alhambra-nasrid-palace",
+      "canonicalId": "alhambra-nasrid-palace",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/314",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports Nasrid palace attribution."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "iberia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "kilwa-indian-ocean-trade",
+      "canonicalId": "kilwa-indian-ocean-trade",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/144",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports Indian Ocean trade connections and prosperity."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "east-africa"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "timbuktu-manuscript-scholarship",
+      "canonicalId": "timbuktu-manuscript-scholarship",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/119",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports Timbuktu's scholarly and manuscript heritage."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "west-africa"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "dutch-east-india-company-purpose",
+      "canonicalId": "dutch-east-india-company-purpose",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nationaalarchief.nl/en/research/archive-collection/1.04.02",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Dutch National Archives identifies the VOC archive and its trade role."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending; explanation retains colonial coercion context.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "copernican-model-earth-orbits-sun",
+      "canonicalId": "copernican-model-earth-orbits-sun",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Reference source supports the Sun-centered model."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "british-slavery-abolition-act-1833",
+      "canonicalId": "british-slavery-abolition-act-1833",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/overview/abolition/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UK Parliament supports the act and apprenticeship qualification."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "simon-bolivar-gran-colombia",
+      "canonicalId": "simon-bolivar-gran-colombia",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Simon-Bolivar",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Reference source supports Bolívar and Gran Colombia wording."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "northern-south-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "xinhai-revolution-qing-dynasty",
+      "canonicalId": "xinhai-revolution-qing-dynasty",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Reference source supports the Qing-to-Republic transition."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "east-asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "harlem-renaissance-cultural-movement",
+      "canonicalId": "harlem-renaissance-cultural-movement",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nmaahc.si.edu/explore/stories/harlem-renaissance",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Smithsonian source supports the cultural-movement framing."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "ghana-independence-1957",
+      "canonicalId": "ghana-independence-1957",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://mfa.gov.gh/wp-content/uploads/2021/02/The-Ghanaian-Envoy-Newsletter-2019.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Ghana Ministry publication gives 6 March 1957 and British colonial independence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "west-africa"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "civil-rights-act-title-vii-employment",
+      "canonicalId": "civil-rights-act-title-vii-employment",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/civil-rights-act",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "National Archives supports Title VII employment-discrimination wording."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "green-revolution-agriculture",
+      "canonicalId": "green-revolution-agriculture",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/1970/borlaug/facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Nobel source supports Borlaug and agricultural transformation; explanation avoids universal-benefit claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "opec-founding-purpose",
+      "canonicalId": "opec-founding-purpose",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.opec.org/speech-detail/357-19-september-2022.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Official OPEC source states its mission to coordinate and unify member petroleum policies."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "human-genome-project-sequence",
+      "canonicalId": "human-genome-project-sequence",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.genome.gov/human-genome-project",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "NHGRI supports mapping and sequencing aim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "silk-roads-single-route",
+      "canonicalId": "silk-roads-single-route",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://en.unesco.org/silkroad/about-silk-roads",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports network and multidirectional-exchange wording."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "eurasia"
+      ],
+      "eras": [
+        "ancient",
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "universal-declaration-binding-treaty",
+      "canonicalId": "universal-declaration-binding-treaty",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UN source supports declaration status and later influence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "bertha-von-suttner-nobel-peace-prize",
+      "canonicalId": "bertha-von-suttner-nobel-peace-prize",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/1905/suttner/facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Nobel source supports first-woman Nobel Peace Prize claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "mongol-empire-contiguous-land-empire",
+      "canonicalId": "mongol-empire-contiguous-land-empire",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Mongol-empire",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Reference source supports the qualified largest-contiguous-land-empire statement."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "eurasia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "order-constitutional-milestones",
+      "canonicalId": "order-constitutional-milestones",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-the-constitution/overview/magnacarta/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports 1215 Magna Carta date."
+        },
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/overview/rights/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports 1689 Bill of Rights date."
+        },
+        {
+          "url": "https://www.archives.gov/founding-docs/constitution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports 1787 Constitution adoption."
+        },
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports 1948 Declaration adoption."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "medieval",
+        "1500-1800",
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending; dates are explicit.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "order-modern-communication-milestones",
+      "canonicalId": "order-modern-communication-milestones",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.uspto.gov/about-us/news-updates/telegraph-patent",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports Morse's 1840 telegraph patent."
+        },
+        {
+          "url": "https://www.uspto.gov/about-us/news-updates/bells-telephone-patent",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports Bell's 1876 telephone patent."
+        },
+        {
+          "url": "https://www.internethistory.ucla.edu/internet/msg.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports first ARPANET message in 1969."
+        },
+        {
+          "url": "https://home.cern/science/computing/birth-web/short-history-web",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports CERN's 1993 public-domain Web software release."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "1800-1945",
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending; labels name the exact intended events.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "order-cold-war-milestones",
+      "canonicalId": "order-cold-war-milestones",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nato.int/cps/en/natohq/declassified_137930.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports NATO founding in 1949."
+        },
+        {
+          "url": "https://www.wilsoncenter.org/article/warsaw-pact",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports Warsaw Pact signing in 1955."
+        },
+        {
+          "url": "https://www.dhm.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/berlin-mauerbau.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports Berlin Wall construction in 1961."
+        },
+        {
+          "url": "https://www.dhm.de/lemo/kapitel/friedliche-revolution/der-mauerfall.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports Berlin Wall opening in November 1989."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Owner approval pending; dates are explicit.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-abraham-lincoln",
+      "canonicalId": "identify-abraham-lincoln",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/pictures/item/2008680391/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "LOC item identifies Abraham Lincoln and rights advisory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact cropped rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-frederick-douglass",
+      "canonicalId": "identify-frederick-douglass",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/pictures/item/2020633537/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "LOC item identifies Douglass, B.F. Smith & Son, and no-known-restrictions advisory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact cropped rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-charles-darwin",
+      "canonicalId": "identify-charles-darwin",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commons page identifies Barraud's 1881 portrait and public-domain claim."
+        },
+        {
+          "url": "https://www.nhm.ac.uk/discover/charles-darwin-most-famous-scientist.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Institutional biography supports explanation."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-sun-yat-sen",
+      "canonicalId": "identify-sun-yat-sen",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commons page identifies the selected portrait and public-domain claim."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Sun-Yat-sen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Reference source supports explanation."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "east-asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-jose-rizal",
+      "canonicalId": "identify-jose-rizal",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jos%C3%A9_Rizal_(1891).jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commons page identifies the CC0 photograph of the public-domain painting."
+        },
+        {
+          "url": "https://nhcp.gov.ph/jose-rizal/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "National Historical Commission source supports explanation."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "southeast-asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "A tighter, unretouched head-and-shoulders crop of the same CC0 rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    },
+    {
+      "candidateId": "identify-statue-of-liberty",
+      "canonicalId": "identify-statue-of-liberty",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Statueofliberty_nps.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commons page identifies the National Park Service work and public-domain status."
+        },
+        {
+          "url": "https://www.loc.gov/item/ny1251/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-26",
+          "note": "Library of Congress source supports the monument identity, dedication, and design context in the explanation."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact bounded National Park Service rendition passed local owned-media validation; owner approved 2026-09-26.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-26"
+    }
+  ]
+}

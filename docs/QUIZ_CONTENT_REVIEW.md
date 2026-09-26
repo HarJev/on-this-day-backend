@@ -144,3 +144,25 @@ familiarity anchors from the untracked `grabbed_q&a.md` discovery input:
 
 Other discovery notes remain deferred for later editorial research. Their raw
 wording is not canonical quiz content.
+
+## L7 Pack 110 — Second Accessible Global History Batch
+
+Pack 110 adds 30 owner-approved questions: 17 multiple choice, 4 true/false,
+6 image-identification, and 3 chronological-ordering. Its difficulty mix is
+11 easy, 16 medium, and 3 hard. The pack broadens coverage of ancient
+Mesopotamia, Mesoamerica and South Asia; medieval Africa and the Indian Ocean;
+and nineteenth- and twentieth-century social, scientific, political, and
+transregional history.
+
+The six image questions use Abraham Lincoln, Frederick Douglass, Charles
+Darwin, Sun Yat-sen, Jose Rizal, and the Statue of Liberty. Each has a source
+page, direct rendition, neutral alt text, attribution, creator, and reuse
+license. Rizal uses a bounded, unretouched head-and-shoulders crop of the
+reviewed CC0 rendition; its complete derivative provenance is retained in the
+Pack 110 editorial ledger and media manifest.
+
+After Pack 110, the canonical bank contains 150 published questions: 90
+multiple choice, 25 true/false, 21 image-identification, and 14 chronological
+ordering. Difficulty totals are 42 easy, 81 medium, and 27 hard. The Pack 110
+editorial record is retained under
+`editorial/batches/2026-09-l7-second-accessible-global-history/`.
