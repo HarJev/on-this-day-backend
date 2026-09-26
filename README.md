@@ -25,6 +25,8 @@ Implemented:
 - Runtime composition for Postgres-backed API handlers.
 - Device registration API for captured FCM tokens.
 - Dry-run-first manual Firebase notification sender.
+- Quiz v0.1.0 catalog, Quick Play, and Daily Challenge API handlers.
+- Initial reviewed 60-question Quiz v0.1.0 content bank.
 - API handler support for:
 
 ```text
@@ -33,6 +35,9 @@ GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
 POST /v1/devices
 DELETE /v1/devices/{token}
+GET /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
 
 Not implemented yet:
@@ -41,6 +46,8 @@ Not implemented yet:
 - Scheduled Firebase notification delivery.
 - Terraform/deployment infrastructure.
 - Complete 366-day content set.
+- The remaining 180 reviewed questions planned for the complete Quiz v0.1.0
+  content target.
 
 ## Architecture Overview
 
@@ -349,6 +356,29 @@ GET /v1/events/battle-of-bosworth-field-1485
 See [docs/API_CONTRACT.md](docs/API_CONTRACT.md) for response shapes and error
 codes.
 
+## Quiz v0.1.0
+
+Quiz v0.1.0 is an additive expansion. Its schema, ingestion, repositories,
+selection services, HTTP API, and initial 60-question bank are implemented.
+
+The Quiz API is:
+
+```text
+GET  /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET  /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
+```
+
+The product and API contracts define Daily Challenge, Quick Play, four question
+types, grouped flat collections, timer metadata, and local mobile grading. The
+backend implementation sequence is Q1-Q9 in
+[implementation_plan.md](implementation_plan.md).
+
+Import `content/quizzes/` before calling Quick Play or Daily Challenge locally.
+See [docs/SETUP.md](docs/SETUP.md) for the database, import, and SAM commands,
+and [docs/QUIZ_CONTENT_REVIEW.md](docs/QUIZ_CONTENT_REVIEW.md) for the editorial
+review record.
+
 ## Content Editing
 
 Canonical curated content lives in:
@@ -434,7 +464,8 @@ import behavior against PostgreSQL.
 
 ## Development Guardrails
 
-Keep v0.0.1 narrow:
+Preserve the implemented v0.0.1 daily-history behavior while adding only the
+explicitly documented Quiz v0.1.0 expansion:
 
 - no accounts or authentication;
 - no arbitrary date browsing;
@@ -444,6 +475,9 @@ Keep v0.0.1 narrow:
 - no GraphQL;
 - no Kubernetes or service split;
 - no notification personalization.
+
+Quiz v0.1.0 additionally excludes backend answer submission, attempt/score
+history, leaderboards, runtime AI question generation, and mutation/admin APIs.
 
 The next backend phases are EventBridge-triggered scheduling and deployment
 infrastructure. Neither is part of the local manual sender.

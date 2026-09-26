@@ -1,0 +1,821 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "montreal-protocol-environmental-goal",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What was the Montreal Protocol adopted to protect?",
+      "options": [
+        {
+          "id": "ozone",
+          "text": "The ozone layer"
+        },
+        {
+          "id": "coral",
+          "text": "Coral reefs"
+        },
+        {
+          "id": "forests",
+          "text": "Tropical forests"
+        },
+        {
+          "id": "rivers",
+          "text": "International rivers"
+        }
+      ],
+      "correctOptionId": "ozone",
+      "explanation": "The 1987 agreement controls substances that damage stratospheric ozone.",
+      "sources": [
+        {
+          "displayName": "UN Environment Programme - Montreal Protocol",
+          "url": "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "papua-new-guinea-former-administrator",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which country administered Papua New Guinea immediately before its independence?",
+      "options": [
+        {
+          "id": "australia",
+          "text": "Australia"
+        },
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "netherlands",
+          "text": "The Netherlands"
+        }
+      ],
+      "correctOptionId": "australia",
+      "explanation": "Papua New Guinea became independent in 1975 after Australian administration.",
+      "sources": [
+        {
+          "displayName": "National Museum of Australia - Papua New Guinea",
+          "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "camp-david-egyptian-president",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which Egyptian president signed the 1978 Camp David Accords?",
+      "options": [
+        {
+          "id": "sadat",
+          "text": "Anwar Sadat"
+        },
+        {
+          "id": "nasser",
+          "text": "Gamal Abdel Nasser"
+        },
+        {
+          "id": "mubarak",
+          "text": "Hosni Mubarak"
+        },
+        {
+          "id": "naguib",
+          "text": "Muhammad Naguib"
+        }
+      ],
+      "correctOptionId": "sadat",
+      "explanation": "Sadat signed alongside Israeli Prime Minister Menachem Begin, with Jimmy Carter witnessing.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - Camp David signing",
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "fugitive-slave-act-compromise",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "The Fugitive Slave Act of 1850 belonged to which legislative settlement?",
+      "options": [
+        {
+          "id": "compromise-1850",
+          "text": "The Compromise of 1850"
+        },
+        {
+          "id": "missouri",
+          "text": "The Missouri Compromise"
+        },
+        {
+          "id": "reconstruction",
+          "text": "The Reconstruction Acts"
+        },
+        {
+          "id": "northwest",
+          "text": "The Northwest Ordinance"
+        }
+      ],
+      "correctOptionId": "compromise-1850",
+      "explanation": "The settlement included stronger federal powers to recapture people escaping slavery.",
+      "sources": [
+        {
+          "displayName": "National Park Service - Fugitive Slave Laws and Boston",
+          "url": "https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "belize-former-colonial-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What was Belize called before it adopted its current name in 1973?",
+      "options": [
+        {
+          "id": "british-honduras",
+          "text": "British Honduras"
+        },
+        {
+          "id": "british-guiana",
+          "text": "British Guiana"
+        },
+        {
+          "id": "dutch-guiana",
+          "text": "Dutch Guiana"
+        },
+        {
+          "id": "british-somaliland",
+          "text": "British Somaliland"
+        }
+      ],
+      "correctOptionId": "british-honduras",
+      "explanation": "British Honduras became Belize in 1973, eight years before independence.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - Belize",
+          "url": "https://history.state.gov/countries/belize"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "malta-colonial-power",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Malta gained independence in 1964 from which country?",
+      "options": [
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "spain",
+          "text": "Spain"
+        }
+      ],
+      "correctOptionId": "britain",
+      "explanation": "Malta became independent from Britain in September 1964 and a republic in 1974.",
+      "sources": [
+        {
+          "displayName": "Malta National Statistics Office - Malta in Figures 2013",
+          "url": "https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "mali-federation-partner",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Which country withdrew from the Mali Federation in August 1960?",
+      "options": [
+        {
+          "id": "senegal",
+          "text": "Senegal"
+        },
+        {
+          "id": "ghana",
+          "text": "Ghana"
+        },
+        {
+          "id": "guinea",
+          "text": "Guinea"
+        },
+        {
+          "id": "niger",
+          "text": "Niger"
+        }
+      ],
+      "correctOptionId": "senegal",
+      "explanation": "Senegal withdrew before the former Soudanese Republic took the name Republic of Mali.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - Mali",
+          "url": "https://history.state.gov/countries/mali"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "neptune-mathematical-prediction",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Whose calculations guided Galle's successful search for Neptune in 1846?",
+      "options": [
+        {
+          "id": "le-verrier",
+          "text": "Urbain Le Verrier"
+        },
+        {
+          "id": "kepler",
+          "text": "Johannes Kepler"
+        },
+        {
+          "id": "halley",
+          "text": "Edmond Halley"
+        },
+        {
+          "id": "hubble",
+          "text": "Edwin Hubble"
+        }
+      ],
+      "correctOptionId": "le-verrier",
+      "explanation": "Le Verrier predicted where to look; Galle and d'Arrest then identified the planet at Berlin.",
+      "sources": [
+        {
+          "displayName": "American Physical Society - Neptune confirmed",
+          "url": "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "saudi-arabia-founding-king",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who proclaimed the Kingdom of Saudi Arabia in 1932?",
+      "options": [
+        {
+          "id": "abd-al-aziz",
+          "text": "Abd al-Aziz ibn Saud"
+        },
+        {
+          "id": "faisal",
+          "text": "Faisal ibn Abd al-Aziz"
+        },
+        {
+          "id": "hussein",
+          "text": "Hussein ibn Ali"
+        },
+        {
+          "id": "abdullah",
+          "text": "Abdullah I of Jordan"
+        }
+      ],
+      "correctOptionId": "abd-al-aziz",
+      "explanation": "Abd al-Aziz proclaimed the kingdom under its present name in September 1932.",
+      "sources": [
+        {
+          "displayName": "PBS - Middle East timeline",
+          "url": "https://www.pbs.org/wgbh/globalconnections/mideast/timeline/text/qnations.html"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "osiris-rex-sampled-asteroid",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which asteroid supplied the samples returned by OSIRIS-REx in 2023?",
+      "options": [
+        {
+          "id": "bennu",
+          "text": "Bennu"
+        },
+        {
+          "id": "ryugu",
+          "text": "Ryugu"
+        },
+        {
+          "id": "eros",
+          "text": "Eros"
+        },
+        {
+          "id": "vesta",
+          "text": "Vesta"
+        }
+      ],
+      "correctOptionId": "bennu",
+      "explanation": "The capsule carried Bennu material to Utah for laboratory study.",
+      "sources": [
+        {
+          "displayName": "NASA - Special Delivery from Outer Space",
+          "url": "https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "judiciary-act-original-supreme-court",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "How many justices did the Judiciary Act of 1789 provide for on the U.S. Supreme Court?",
+      "options": [
+        {
+          "id": "six",
+          "text": "Six"
+        },
+        {
+          "id": "seven",
+          "text": "Seven"
+        },
+        {
+          "id": "nine",
+          "text": "Nine"
+        },
+        {
+          "id": "twelve",
+          "text": "Twelve"
+        }
+      ],
+      "correctOptionId": "six",
+      "explanation": "The act specified one chief justice and five associate justices.",
+      "sources": [
+        {
+          "displayName": "National Archives - Federal Judiciary Act",
+          "url": "https://www.archives.gov/milestone-documents/federal-judiciary-act"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "little-rock-nine-school",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The Little Rock Nine desegregated which school in 1957?",
+      "options": [
+        {
+          "id": "central",
+          "text": "Central High School"
+        },
+        {
+          "id": "horace-mann",
+          "text": "Horace Mann High School"
+        },
+        {
+          "id": "dunbar",
+          "text": "Dunbar High School"
+        },
+        {
+          "id": "little-rock-college",
+          "text": "Little Rock Junior College"
+        }
+      ],
+      "correctOptionId": "central",
+      "explanation": "Federal troops escorted the nine students into Central High for their first full day on September 25.",
+      "sources": [
+        {
+          "displayName": "National Park Service - The Little Rock Nine",
+          "url": "https://www.nps.gov/people/the-little-rock-nine.htm"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "dart-impact-target",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which asteroid moonlet did NASA's DART spacecraft strike in 2022?",
+      "options": [
+        {
+          "id": "dimorphos",
+          "text": "Dimorphos"
+        },
+        {
+          "id": "phobos",
+          "text": "Phobos"
+        },
+        {
+          "id": "deimos",
+          "text": "Deimos"
+        },
+        {
+          "id": "charon",
+          "text": "Charon"
+        }
+      ],
+      "correctOptionId": "dimorphos",
+      "explanation": "DART struck Dimorphos, which orbits Didymos, in a planetary-defense experiment.",
+      "sources": [
+        {
+          "displayName": "NASA - A year of DART science",
+          "url": "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "locomotion-railway-opening",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which locomotive hauled the Stockton and Darlington Railway's opening train in 1825?",
+      "options": [
+        {
+          "id": "locomotion",
+          "text": "Locomotion No. 1"
+        },
+        {
+          "id": "rocket",
+          "text": "Rocket"
+        },
+        {
+          "id": "flying-scotsman",
+          "text": "Flying Scotsman"
+        },
+        {
+          "id": "mallard",
+          "text": "Mallard"
+        }
+      ],
+      "correctOptionId": "locomotion",
+      "explanation": "George Stephenson drove Locomotion No. 1 at the railway's opening.",
+      "sources": [
+        {
+          "displayName": "National Railway Museum - Shildon and Locomotion No. 1",
+          "url": "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "champollion-writing-system",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Jean-Francois Champollion's 1822 breakthrough concerned which writing system?",
+      "options": [
+        {
+          "id": "egyptian",
+          "text": "Egyptian hieroglyphs"
+        },
+        {
+          "id": "linear-b",
+          "text": "Linear B"
+        },
+        {
+          "id": "cuneiform",
+          "text": "Sumerian cuneiform"
+        },
+        {
+          "id": "mayan",
+          "text": "Maya glyphs"
+        }
+      ],
+      "correctOptionId": "egyptian",
+      "explanation": "His Letter to M. Dacier explained a method for deciphering Egyptian hieroglyphs.",
+      "sources": [
+        {
+          "displayName": "Bibliotheque nationale de France - Champollion exhibition guide",
+          "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ]
+    },
+    {
+      "id": "world-flight-1924-service",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which organization carried out the first aerial circumnavigation in 1924?",
+      "options": [
+        {
+          "id": "army-air-service",
+          "text": "U.S. Army Air Service"
+        },
+        {
+          "id": "royal-air-force",
+          "text": "Royal Air Force"
+        },
+        {
+          "id": "aeropostale",
+          "text": "Aeropostale"
+        },
+        {
+          "id": "royal-navy",
+          "text": "Royal Navy"
+        }
+      ],
+      "correctOptionId": "army-air-service",
+      "explanation": "Army Air Service crews completed the expedition between April and September 1924.",
+      "sources": [
+        {
+          "displayName": "U.S. Air Force - Erik Henning Nelson biography",
+          "url": "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "botswana-first-president",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who became Botswana's first president at independence in 1966?",
+      "options": [
+        {
+          "id": "seretse-khama",
+          "text": "Seretse Khama"
+        },
+        {
+          "id": "ketumile-masire",
+          "text": "Ketumile Masire"
+        },
+        {
+          "id": "julius-nyerere",
+          "text": "Julius Nyerere"
+        },
+        {
+          "id": "kenneth-kaunda",
+          "text": "Kenneth Kaunda"
+        }
+      ],
+      "correctOptionId": "seretse-khama",
+      "explanation": "Seretse Khama became the first president of independent Botswana.",
+      "sources": [
+        {
+          "displayName": "Embassy of Botswana - Brief history",
+          "url": "https://botswanamission.ch/brief-history-2/"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "rosetta-comet-name",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Rosetta studied and ultimately descended onto which comet?",
+      "options": [
+        {
+          "id": "67p",
+          "text": "67P/Churyumov-Gerasimenko"
+        },
+        {
+          "id": "halley",
+          "text": "1P/Halley"
+        },
+        {
+          "id": "tempel",
+          "text": "9P/Tempel 1"
+        },
+        {
+          "id": "wild",
+          "text": "81P/Wild 2"
+        }
+      ],
+      "correctOptionId": "67p",
+      "explanation": "ESA ended Rosetta's mission with a controlled impact on 67P in September 2016.",
+      "sources": [
+        {
+          "displayName": "European Space Agency - Rosetta mission complete",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "washington-farewell-public-speech",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "George Washington personally delivered his Farewell Address as a public speech.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "It was published in newspapers in 1796, not delivered publicly by Washington.",
+      "sources": [
+        {
+          "displayName": "U.S. Senate - Washington's Farewell Address",
+          "url": "https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "magellan-completed-own-expedition",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Ferdinand Magellan survived to complete his expedition's circumnavigation.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Magellan died in the Philippines; Juan Sebastian Elcano led the voyage's completion.",
+      "sources": [
+        {
+          "displayName": "Spain tourism authority - Circumnavigation anniversary",
+          "url": "https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "nz-vote-and-candidacy-same-year",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "New Zealand women gained both the parliamentary vote and the right to stand for Parliament in 1893.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Women gained the vote in 1893, but the right to stand for Parliament followed in 1919.",
+      "sources": [
+        {
+          "displayName": "NZ History - Women win the right to vote",
+          "url": "https://nzhistory.govt.nz/womens-suffrage-day"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "preliminary-emancipation-immediate-abolition",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The preliminary Emancipation Proclamation immediately abolished slavery everywhere in the United States.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "It set a future deadline for areas still in rebellion; it was not nationwide immediate abolition.",
+      "sources": [
+        {
+          "displayName": "National Archives - Preliminary Emancipation Proclamation",
+          "url": "https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "cern-founded-before-space-age",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "CERN officially came into existence in 1954.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The CERN Convention entered into force on September 29, 1954.",
+      "sources": [
+        {
+          "displayName": "CERN - CERN exists",
+          "url": "https://timeline.web.cern.ch/cern-exists"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "discovery-sts26-return-to-flight",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Discovery flew the first Space Shuttle mission after the Challenger disaster.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Discovery's STS-26 mission launched in September 1988, returning the program to flight.",
+      "sources": [
+        {
+          "displayName": "NASA History - Return to Flight",
+          "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    }
+  ]
+}

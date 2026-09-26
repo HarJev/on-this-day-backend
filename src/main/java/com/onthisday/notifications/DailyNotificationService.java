@@ -27,22 +27,21 @@ public final class DailyNotificationService {
 
   public NotificationPlan createPlan() {
     var registrations = deviceRegistrationRepository.findEligibleForNotifications();
-    var registrationsByTimezone = new LinkedHashMap<String, List<DeviceRegistration>>();
+    var tokensByTimezone = new LinkedHashMap<String, List<String>>();
     for (var registration : registrations) {
-      registrationsByTimezone
+      tokensByTimezone
           .computeIfAbsent(registration.timezone(), ignored -> new ArrayList<>())
-          .add(registration);
+          .add(registration.token());
     }
 
     var batches = new ArrayList<NotificationDeliveryBatch>();
-    for (var entry : registrationsByTimezone.entrySet()) {
+    for (var entry : tokensByTimezone.entrySet()) {
       var content = todayContentService.getTodayContent(entry.getKey());
       var featured = content.featuredEvent();
       var message =
           new NotificationMessage(
               featured.notificationTitle(), featured.notificationBody(), featured.id());
-      var tokens = entry.getValue().stream().map(DeviceRegistration::token).toList();
-      batches.add(new NotificationDeliveryBatch(message, tokens));
+      batches.add(new NotificationDeliveryBatch(message, entry.getValue()));
     }
 
     var plan = new NotificationPlan(batches);

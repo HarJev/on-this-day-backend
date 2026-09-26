@@ -7,6 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
 import java.nio.file.Path;
+import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 import org.junit.jupiter.api.Test;
@@ -20,13 +21,75 @@ class CuratedContentValidatorTest {
   void validatesCuratedFixtureWithWarningsOnly() throws IOException {
     var result = validateFixture("valid");
 
-    assertTrue(result.valid());
+    assertTrue(result.valid(), () -> "Unexpected validation errors: " + result.errors());
     assertTrue(result.errors().isEmpty());
     assertEquals(
         Set.of(
-            "day has fewer than 6 additional events",
+            "editorial exception declared",
             "featured event has no primary image"),
         warningMessages(result));
+  }
+
+  @Test
+  void appliesTheFourTotalEventFloorAndEditorialExceptions() throws IOException {
+    var events = readEvents("valid");
+    var eventsWithFourTotal =
+        new CuratedEventsFile(
+            List.of(
+                events.events().get(0),
+                events.events().get(1),
+                events.events().get(2),
+                additionalEvent("additional-event-1903")));
+
+    var atFloor =
+        validator.validate(
+            eventsWithFourTotal,
+            new CuratedDailyEventsFile(
+                List.of(
+                    day(
+                        List.of(
+                            "additional-event-1901",
+                            "additional-event-1902",
+                            "additional-event-1903"),
+                        null))));
+    assertTrue(atFloor.valid());
+    assertFalse(warningMessages(atFloor).contains("day has fewer than 4 total events"));
+
+    var declaredException =
+        validator.validate(
+            events,
+            new CuratedDailyEventsFile(
+                List.of(
+                    day(
+                        List.of("additional-event-1901", "additional-event-1902"),
+                        "Only three strong events are available after editorial review."))));
+    assertTrue(declaredException.valid());
+    assertTrue(warningMessages(declaredException).contains("editorial exception declared"));
+
+    var blankException =
+        validator.validate(
+            events,
+            new CuratedDailyEventsFile(
+                List.of(
+                    day(List.of("additional-event-1901", "additional-event-1902"), "  "))));
+    assertFalse(blankException.valid());
+    assertContainsError(blankException, "editorialException must not be blank when present");
+
+    var staleException =
+        validator.validate(
+            eventsWithFourTotal,
+            new CuratedDailyEventsFile(
+                List.of(
+                    day(
+                        List.of(
+                            "additional-event-1901",
+                            "additional-event-1902",
+                            "additional-event-1903"),
+                        "The exception is no longer needed."))));
+    assertTrue(staleException.valid());
+    assertTrue(
+        warningMessages(staleException)
+            .contains("editorial exception declared for a day that meets the four-event floor"));
   }
 
   @Test
@@ -85,11 +148,14 @@ class CuratedContentValidatorTest {
 
     var result = validator.validate(content.eventsFile(), content.dailyEventsFile());
 
-    assertTrue(result.valid());
+    assertTrue(result.valid(), () -> "Unexpected validation errors: " + result.errors());
     assertTrue(result.errors().isEmpty());
     assertTrue(
         result.warnings().stream()
-            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
+            .allMatch(
+                warning ->
+                    warning.message().equals("featured event has no primary image")
+                        || warning.message().equals("day has fewer than 4 total events")));
   }
 
   private ContentValidationResult validateFixture(String fixtureName) throws IOException {
@@ -112,6 +178,26 @@ class CuratedContentValidatorTest {
 
   private static Set<String> warningMessages(ContentValidationResult result) {
     return result.warnings().stream().map(ContentValidationWarning::message).collect(Collectors.toSet());
+  }
+
+  private static CuratedDayJson day(List<String> additionalEventIds, String editorialException) {
+    return new CuratedDayJson(
+        1, 2, "featured-event-1900", additionalEventIds, editorialException);
+  }
+
+  private static CuratedEventJson additionalEvent(String id) {
+    return new CuratedEventJson(
+        id,
+        "An additional event happens",
+        "1903",
+        "January 2, 1903",
+        null,
+        "A concise summary for an additional event.",
+        "A concise description for an additional event.",
+        null,
+        null,
+        List.of(new CuratedSourceJson("Example Source", "https://example.com/" + id)),
+        List.of());
   }
 
   private static void assertContainsError(ContentValidationResult result, String message) {

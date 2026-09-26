@@ -1,0 +1,750 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-25-10-01-historical-events",
+  "entries": [
+    {
+      "candidateId": "sept-25-little-rock-nine",
+      "canonicalId": "little-rock-nine-full-school-day-1957",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/people/the-little-rock-nine.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Park Service identifies September 25 as the Little Rock Nine's first full day at Central High School under federal troop protection."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "civil-rights-era"
+      ],
+      "calendarDays": [
+        "09-25"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-25-stamford-bridge",
+      "canonicalId": "battle-of-stamford-bridge-1066",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 25, 1066 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "09-25"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-25-bill-of-rights",
+      "canonicalId": "bill-of-rights-proposed-1789",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/bill-of-rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 25, 1789 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-republic"
+      ],
+      "calendarDays": [
+        "09-25"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-25-mars-observer",
+      "canonicalId": "mars-observer-launched-1992",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/mars-observer/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 25, 1992 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-25"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-26-dart",
+      "canonicalId": "dart-asteroid-impact-2022",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "NASA identifies September 26, 2022 as DART's impact with Dimorphos in its asteroid-deflection test."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-26"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-26-new-zealand-dominion",
+      "canonicalId": "new-zealand-dominion-1907",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nzhistory.govt.nz/keyword/dominion-of-new-zealand",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 26, 1907 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "twentieth-century"
+      ],
+      "calendarDays": [
+        "09-26"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-26-francis-drake",
+      "canonicalId": "francis-drake-returns-plymouth-1580",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.tavistock.gov.uk/drake-statue",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 26, 1580 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "09-26"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-26-kennedy-nixon-debate",
+      "canonicalId": "kennedy-nixon-first-televised-debate-1960",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.jfklibrary.org/sites/default/files/2021-08/PresidentsDeskResourceGuide_118pgs%20SINGLE_WEB.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "JFK Library identifies September 26, 1960 as the first Kennedy-Nixon debate and states that two presidential candidates appeared on TV together."
+        },
+        {
+          "url": "https://www.senate.gov/artandhistory/history/minute/The_First_Televised_Presidential_Debate.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Senate Historical Office documents the 1956 televised campaign debate between surrogates, which requires the narrower candidate-to-candidate wording."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "twentieth-century"
+      ],
+      "calendarDays": [
+        "09-26"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-27-stockton-darlington",
+      "canonicalId": "stockton-darlington-railway-opens-1825",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 27, 1825 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "industrial-era"
+      ],
+      "calendarDays": [
+        "09-27"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-27-champollion",
+      "canonicalId": "champollion-hieroglyphs-presentation-1822",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 27, 1822 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "09-27"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-27-society-of-jesus",
+      "canonicalId": "society-of-jesus-approved-1540",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.jesuits.global/2021/09/26/on-27-september-1540-the-society-of-jesus-received-papal-approval/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 27, 1540 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "09-27"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-27-tripartite-pact",
+      "canonicalId": "tripartite-pact-signed-1940",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d100",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 27, 1940 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "world-war-ii"
+      ],
+      "calendarDays": [
+        "09-27"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-28-pevensey-landing",
+      "canonicalId": "william-lands-pevensey-1066",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 28, 1066 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "09-28"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-28-aerial-circumnavigation",
+      "canonicalId": "first-aerial-circumnavigation-completed-1924",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 28, 1924 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "twentieth-century"
+      ],
+      "calendarDays": [
+        "09-28"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-28-cabrillo",
+      "canonicalId": "cabrillo-enters-san-diego-bay-1542",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/articles/cabrillo.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 28, 1542 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "09-28"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-28-yorktown-siege",
+      "canonicalId": "siege-of-yorktown-begins-1781",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/york/learn/historyculture/history-of-the-siege.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Park Service supports September 28 as the start of the Yorktown siege, when the allied forces began investing British positions."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-republic"
+      ],
+      "calendarDays": [
+        "09-28"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-29-cern",
+      "canonicalId": "cern-founded-1954",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://timeline.web.cern.ch/cern-exists",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 29, 1954 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "twentieth-century"
+      ],
+      "calendarDays": [
+        "09-29"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-29-discovery-return",
+      "canonicalId": "discovery-return-to-flight-1988",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 29, 1988 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-29"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-29-john-paul-ii-ireland",
+      "canonicalId": "john-paul-ii-arrives-ireland-1979",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september/documents/hf_jp-ii_spe_19790929_irlanda-dublino-presidente.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 29, 1979 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "twentieth-century"
+      ],
+      "calendarDays": [
+        "09-29"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-29-babyn-yar",
+      "canonicalId": "babyn-yar-massacre-begins-1941",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "United States Holocaust Memorial Museum documents the September 29 beginning of the mass murder of Kyiv's Jews at Babyn Yar."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "world-war-ii"
+      ],
+      "calendarDays": [
+        "09-29"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-30-botswana-independence",
+      "canonicalId": "botswana-independence-1966",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://botswanamission.ch/brief-history-2/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 30, 1966 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "09-30"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-30-rosetta",
+      "canonicalId": "rosetta-mission-ends-2016",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 30, 2016 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [
+        "09-30"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-30-berlin-airlift",
+      "canonicalId": "berlin-airlift-last-flight-1949",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000573158/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "National Museum of the U.S. Air Force caption identifies the September 30 final U.S. Berlin Airlift flight."
+        },
+        {
+          "url": "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Allied Museum confirms the final British RAF flight occurred on October 6, 1949."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "09-30"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "sept-30-munich-agreement",
+      "canonicalId": "munich-agreement-signed-1938",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted September 30, 1938 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "world-war-ii"
+      ],
+      "calendarDays": [
+        "09-30"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "oct-01-nasa",
+      "canonicalId": "nasa-begins-operations-1958",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted October 1, 1958 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "oct-01-nigeria-independence",
+      "canonicalId": "nigeria-independence-1960",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://fmino.gov.ng/1st-october-nigerias-history/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted October 1, 1960 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "oct-01-peoples-republic-china",
+      "canonicalId": "peoples-republic-china-proclaimed-1949",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted October 1, 1949 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "postwar"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    },
+    {
+      "candidateId": "oct-01-tuvalu-independence",
+      "canonicalId": "tuvalu-independence-1978",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://psc.gov.tv/wp-content/uploads/2024/06/tuvalu.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-18",
+          "note": "Direct source supports the drafted October 1, 1978 claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Direct-source check complete; awaiting named editorial approval.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-18"
+    }
+  ]
+}

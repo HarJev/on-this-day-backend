@@ -20,7 +20,7 @@ public final class JdbcDeviceRegistrationRepository implements DeviceRegistratio
 
   @Override
   public void upsert(DeviceRegistration registration) {
-    LOG.info("device_registration_upsert_start platform={}", registration.platform().value());
+    LOG.debug("device_registration_upsert_start platform={}", registration.platform().value());
     var startedAt = System.nanoTime();
     try (var connection = dataSource.getConnection();
         var statement =
@@ -46,7 +46,7 @@ public final class JdbcDeviceRegistrationRepository implements DeviceRegistratio
       statement.setString(3, registration.timezone());
       statement.setString(4, registration.notificationPermissionStatus().value());
       statement.executeUpdate();
-      LOG.info("device_registration_upsert_end durationMs={}", durationMs(startedAt));
+      LOG.debug("device_registration_upsert_end durationMs={}", durationMs(startedAt));
     } catch (SQLException exception) {
       LOG.warn("device_registration_upsert_failed platform={}", registration.platform().value(), exception);
       throw new IllegalStateException("Failed to upsert device registration.", exception);
@@ -55,13 +55,13 @@ public final class JdbcDeviceRegistrationRepository implements DeviceRegistratio
 
   @Override
   public void deleteByToken(String token) {
-    LOG.info("device_registration_delete_start");
+    LOG.debug("device_registration_delete_start");
     var startedAt = System.nanoTime();
     try (var connection = dataSource.getConnection();
         var statement = connection.prepareStatement("DELETE FROM device_registration WHERE token = ?")) {
       statement.setString(1, token);
       statement.executeUpdate();
-      LOG.info("device_registration_delete_end durationMs={}", durationMs(startedAt));
+      LOG.debug("device_registration_delete_end durationMs={}", durationMs(startedAt));
     } catch (SQLException exception) {
       LOG.warn("device_registration_delete_failed", exception);
       throw new IllegalStateException("Failed to delete device registration.", exception);
@@ -70,7 +70,7 @@ public final class JdbcDeviceRegistrationRepository implements DeviceRegistratio
 
   @Override
   public List<DeviceRegistration> findEligibleForNotifications() {
-    LOG.info("device_registration_find_eligible_start");
+    LOG.debug("device_registration_find_eligible_start");
     var startedAt = System.nanoTime();
     try (var connection = dataSource.getConnection();
         var statement =
@@ -93,7 +93,7 @@ public final class JdbcDeviceRegistrationRepository implements DeviceRegistratio
                 NotificationPermissionStatus.fromValue(
                     resultSet.getString("notification_permission_status"))));
       }
-      LOG.info(
+      LOG.debug(
           "device_registration_find_eligible_end count={} durationMs={}",
           registrations.size(),
           durationMs(startedAt));

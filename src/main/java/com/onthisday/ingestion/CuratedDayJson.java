@@ -6,4 +6,5 @@ public record CuratedDayJson(
     Integer month,
     Integer day,
     String featuredEventId,
-    List<String> additionalEventIds) {}
+    List<String> additionalEventIds,
+    String editorialException) {}

@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "batchId": "fixture-batch",
+  "entries": [
+    {
+      "candidateId": "fixture-candidate",
+      "canonicalId": "fixture-event-1900",
+      "reviewStatus": "approved",
+      "reviewer": "fixture-editor",
+      "reviewedOn": "2026-09-17",
+      "sourceChecks": [
+        {
+          "url": "https://example.com/fixture-source",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-17",
+          "note": "Fixture review."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": ["fixture-region"],
+      "eras": ["fixture-era"],
+      "calendarDays": ["02-01"],
+      "notes": "Fixture only."
+    }
+  ]
+}

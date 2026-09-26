@@ -1,0 +1,642 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-accessible-global-history",
+  "entries": [
+    {
+      "candidateId": "dholavira-water-management",
+      "canonicalId": "dholavira-water-management",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/1645",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports the water-management claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "south-asia"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "meroe-iron-production",
+      "canonicalId": "meroe-iron-production",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/1336",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports ironworking evidence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "northeast-africa"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "borobudur-buddhist-monument",
+      "canonicalId": "borobudur-buddhist-monument",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/592",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO supports Buddhist identity and date."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "southeast-asia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "lei-aurea-legal-effect",
+      "canonicalId": "lei-aurea-legal-effect",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.gov.br/arquivonacional/pt-br/canais_atendimento/imprensa/noticias/lei-aurea-faz-parte-do-acervo-do-arquivo-nacional",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "National Archives supports abolition claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "latin-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "nightingale-sanitation-statistics",
+      "canonicalId": "nightingale-sanitation-statistics",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.nationalarchives.gov.uk/education/resources/florence-nightingale/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Source supports disease rather than battle-wounds wording."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "moche-irrigation-agriculture",
+      "canonicalId": "moche-irrigation-agriculture",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://americanindian.si.edu/explore/exhibitions/item?id=935",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Institutional source selected for irrigation claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "treaty-of-tordesillas-division",
+      "canonicalId": "treaty-of-tordesillas-division",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Treaty-of-Tordesillas",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Supports treaty parties and purpose."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "mabo-native-title-ruling",
+      "canonicalId": "mabo-native-title-ruling",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.hcourt.gov.au/assets/publications/speeches/former-justices/gaudronj/gaudronj_mabo.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "High Court source supports native-title framing."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "pacific"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "treaty-rarotonga-purpose",
+      "canonicalId": "treaty-rarotonga-purpose",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://treaties.un.org/pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-9&chapter=26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UN treaty record supports treaty identity."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "pacific"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "wangari-maathai-green-belt-movement",
+      "canonicalId": "wangari-maathai-green-belt-movement",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/2004/maathai/facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Nobel biography supports movement claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "east-africa"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "mossadegh-oil-nationalization",
+      "canonicalId": "mossadegh-oil-nationalization",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/iran",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "State Department supports oil-nationalization context."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "titanic-built-belfast",
+      "canonicalId": "titanic-built-belfast",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.nmni.com/stories/titanic",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Museum source supports Belfast shipyard claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Discovery-note familiarity anchor; owner approval pending."
+    },
+    {
+      "candidateId": "women-athletes-athens-1896",
+      "canonicalId": "women-athletes-athens-1896",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://library.olympics.com/cnospa/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=1568413&parentDocumentId=1568412&skipCopyright=true&skipWatermark=true",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Olympic source supports 1900 correction."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "australian-referendum-1967-misconception",
+      "canonicalId": "australian-referendum-1967-misconception",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://australian.museum/learn/first-nations/1967-referendum/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Museum source supports misconception correction."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "pacific"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "triple-alliance-italy-member",
+      "canonicalId": "triple-alliance-italy-member",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.iwm.org.uk/history/the-causes-of-world-war-one",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "IWM source supports alliance membership."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Discovery-note familiarity anchor; owner approval pending."
+    },
+    {
+      "candidateId": "order-korean-cultural-printing-milestones",
+      "canonicalId": "order-korean-cultural-printing-milestones",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/736",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO Bulguksa record supports the 751 construction milestone."
+        },
+        {
+          "url": "https://www.unesco.org/en/memory-world/printing-woodblocks-tripitaka-koreana-and-miscellaneous-buddhist-scriptures",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO record supports the thirteenth-century Tripitaka Koreana milestone."
+        },
+        {
+          "url": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests?hub=915",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO Jikji record supports the 1377 movable-metal-type milestone."
+        },
+        {
+          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UNESCO Hunminjeongeum record supports the 1446 publication milestone."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "east-asia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Other sequence sources are retained in canonical draft; owner approval pending."
+    },
+    {
+      "candidateId": "order-pacific-independence-milestones",
+      "canonicalId": "order-pacific-independence-milestones",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://thecommonwealth.org/our-member-countries/samoa",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commonwealth country record supports Samoa's 1962 independence milestone."
+        },
+        {
+          "url": "https://www.nationalarchives.gov.fj/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "National Archives of Fiji supports Fiji's 1970 independence milestone."
+        },
+        {
+          "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "National Museum of Australia supports Papua New Guinea's 1975 independence milestone."
+        },
+        {
+          "url": "https://vanuatu.gov.vu/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Vanuatu government source supports the 1980 independence milestone."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "pacific"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "order-women-heads-government",
+      "canonicalId": "order-women-heads-government",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Sirimavo-Bandaranaike",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Biography supports Bandaranaike's 1960 first term milestone."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Indira-Gandhi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Biography supports Gandhi's 1966 first term milestone."
+        },
+        {
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/premiers/overview/margaret-thatcher/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "UK Parliament supports Thatcher's 1979 first term milestone."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Benazir-Bhutto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Biography supports Bhutto's 1988 first term milestone."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Draft only; owner approval pending."
+    },
+    {
+      "candidateId": "identify-george-washington",
+      "canonicalId": "identify-george-washington",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/item/2016817403/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "LOC identifies rendition and rights advisory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [],
+      "notes": "Exact rendition staged for media dry run; owner approval pending."
+    },
+    {
+      "candidateId": "identify-marie-curie",
+      "canonicalId": "identify-marie-curie",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/item/2014687674/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "LOC identifies Curie and rights advisory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Cropped derivative staged from LOC record 2014687674; crop removes the handwritten label and plate borders without retouching the photograph."
+    },
+    {
+      "candidateId": "identify-william-shakespeare",
+      "canonicalId": "identify-william-shakespeare",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/708351",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Met identifies Picart engraving and public-domain status."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [],
+      "notes": "Cropped derivative staged from Met object 17.3.756-2421; crop uses the highest-resolution Open Access rendition and excludes the printed title label."
+    },
+    {
+      "candidateId": "identify-great-wave-off-kanagawa",
+      "canonicalId": "identify-great-wave-off-kanagawa",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/39799",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Met identifies Hokusai print and public-domain status."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "east-asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact rendition staged for media dry run; owner approval pending."
+    },
+    {
+      "candidateId": "identify-queen-liliuokalani",
+      "canonicalId": "identify-queen-liliuokalani",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/pictures/item/2004679211/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "LOC identifies rendition and rights advisory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "pacific"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Exact rendition staged for media dry run; owner approval pending."
+    },
+    {
+      "candidateId": "identify-joan-of-arc-painting",
+      "canonicalId": "identify-joan-of-arc-painting",
+      "reviewStatus": "approved",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-25",
+      "sourceChecks": [
+        {
+          "url": "https://collections.louvre.fr/cartelen/visite?idNotice=22739&srv=car_not_frame",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Louvre record identifies Ingres, the 1854 work, and ownership."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Ingres_coronation_charles_vii.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-25",
+          "note": "Commons file page documents the public-domain rendition provenance."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Bounded public-domain rendition staged from the Commons file; the canonical image preserves Louvre ownership and source-page provenance."
+    }
+  ]
+}

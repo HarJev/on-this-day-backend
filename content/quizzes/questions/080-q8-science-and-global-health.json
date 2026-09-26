@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "apollo-11-command-module-pilot",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who was Apollo 11's command module pilot?",
+      "options": [{"id":"michael-collins","text":"Michael Collins"},{"id":"neil-armstrong","text":"Neil Armstrong"},{"id":"buzz-aldrin","text":"Buzz Aldrin"},{"id":"james-lovell","text":"James Lovell"}],
+      "correctOptionId": "michael-collins",
+      "explanation": "NASA identifies Michael Collins as Apollo 11's command module pilot; Armstrong commanded the mission and Aldrin piloted the lunar module.",
+      "sources": [{"displayName":"NASA - Apollo 11 Mission Overview","url":"https://www.nasa.gov/history/apollo-11-mission-overview/"}],
+      "collectionIds": ["science-and-innovation"]
+    },
+    {
+      "id": "apollo-11-lunar-module-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What was the name of Apollo 11's lunar module?",
+      "options": [{"id":"eagle","text":"Eagle"},{"id":"columbia","text":"Columbia"},{"id":"challenger","text":"Challenger"},{"id":"odyssey","text":"Odyssey"}],
+      "correctOptionId": "eagle",
+      "explanation": "Apollo 11's lunar module was Eagle; Columbia was the command and service module.",
+      "sources": [{"displayName":"NASA - Apollo 11 Mission Overview","url":"https://www.nasa.gov/history/apollo-11-mission-overview/"}],
+      "collectionIds": ["science-and-innovation"]
+    },
+    {
+      "id": "apollo-11-landing-site",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Where did Apollo 11's Eagle land on the Moon?",
+      "options": [{"id":"sea-of-tranquility","text":"Sea of Tranquility"},{"id":"ocean-of-storms","text":"Ocean of Storms"},{"id":"tycho-crater","text":"Tycho crater"},{"id":"mare-imbrium","text":"Mare Imbrium"}],
+      "correctOptionId": "sea-of-tranquility",
+      "explanation": "NASA records that Eagle landed in the Sea of Tranquility on July 20, 1969.",
+      "sources": [{"displayName":"NASA - Apollo 11 Mission Overview","url":"https://www.nasa.gov/history/apollo-11-mission-overview/"}],
+      "collectionIds": ["science-and-innovation"]
+    },
+    {
+      "id": "smallpox-last-natural-case-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which country did the last known natural case of smallpox occur in 1977?",
+      "options": [{"id":"somalia","text":"Somalia"},{"id":"india","text":"India"},{"id":"ethiopia","text":"Ethiopia"},{"id":"bangladesh","text":"Bangladesh"}],
+      "correctOptionId": "somalia",
+      "explanation": "WHO states that the last known natural case of smallpox occurred in Somalia in 1977 before eradication was declared in 1980.",
+      "sources": [{"displayName":"World Health Organization - Smallpox","url":"https://www.who.int/emergencies/situations/smallpox/"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "smallpox-only-eradicated-infectious-disease",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Smallpox has been eradicated worldwide as a naturally occurring human disease.",
+      "options": [{"id":"true","text":"True"},{"id":"false","text":"False"}],
+      "correctOptionId": "true",
+      "explanation": "WHO declared smallpox eradicated in 1980 after worldwide vaccination and surveillance. This statement concerns human smallpox, not all diseases of humans and animals.",
+      "sources": [{"displayName":"World Health Organization - Smallpox","url":"https://www.who.int/emergencies/situations/smallpox/"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "order-apollo-11-mission-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these Apollo 11 milestones in chronological order, earliest first.",
+      "items": [{"id":"launch","text":"Apollo 11 launches"},{"id":"lunar-landing","text":"Eagle lands on the Moon"},{"id":"armstrong-step","text":"Armstrong steps onto the Moon"},{"id":"splashdown","text":"Apollo 11 splashes down in the Pacific"}],
+      "correctOrderItemIds": ["launch","lunar-landing","armstrong-step","splashdown"],
+      "explanation": "Apollo 11 launched on July 16, landed on July 20, and returned on July 24, 1969. Armstrong's first step followed the landing: late July 20 in U.S. Eastern time, already July 21 in UTC.",
+      "sources": [{"displayName":"NASA - Apollo 11 Mission Overview","url":"https://www.nasa.gov/history/apollo-11-mission-overview/"}],
+      "collectionIds": ["science-and-innovation"]
+    }
+  ]
+}

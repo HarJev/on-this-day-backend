@@ -945,6 +945,1189 @@
         }
       ],
       "images": []
+    },
+    {
+      "id": "central-american-independence-1821",
+      "title": "Central America declares independence from Spain",
+      "year": "1821",
+      "historicalDate": "September 15, 1821",
+      "dateNote": null,
+      "summary": "The provinces of the former Captaincy General of Guatemala declared independence from Spain.",
+      "description": "On September 15, 1821, the territories that became Guatemala, El Salvador, Honduras, Nicaragua, and Costa Rica declared independence from Spain. The political union that followed later fractured, but the date remains a shared independence commemoration across much of Central America.",
+      "notificationTitle": "Five countries share an independence date",
+      "notificationBody": "A declaration in 1821 reshaped Central America's political map.",
+      "sources": [{"name":"U.S. Department of State, Office of the Historian","url":"https://history.state.gov/countries/central-american-federation"}],
+      "images": []
+    },
+    {
+      "id": "battle-of-flers-courcelette-tanks-1916",
+      "title": "Tanks enter battle at Flers-Courcelette",
+      "year": "1916",
+      "historicalDate": "September 15, 1916",
+      "dateNote": null,
+      "summary": "British forces used tanks in battle for the first time during the Somme offensive.",
+      "description": "On September 15, 1916, Britain deployed tanks during the Battle of Flers-Courcelette on the Western Front. The early vehicles were mechanically unreliable and few in number, but their appearance marked a significant experiment in armoured warfare.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Imperial War Museums - Tanks in the First World War","url":"https://www.iwm.org.uk/history/how-tanks-first-appeared-on-the-battlefield"}],
+      "images": []
+    },
+    {
+      "id": "battle-of-britain-day-1940",
+      "title": "Battle of Britain reaches a decisive day",
+      "year": "1940",
+      "historicalDate": "September 15, 1940",
+      "dateNote": null,
+      "summary": "A major German daylight assault failed to eliminate Britain's fighter defences.",
+      "description": "On September 15, 1940, the Luftwaffe launched two major daylight raids against London. The Royal Air Force remained capable of meeting the attacks, and the day became a turning point in the Battle of Britain, though the wider battle continued afterward.",
+      "notificationTitle": "The day Britain held its skies",
+      "notificationBody": "A major 1940 air assault failed to break Fighter Command.",
+      "sources": [{"name":"Royal Air Force Museum - 15 September 1940","url":"https://www.rafmuseum.org.uk/documents/podcasts/transcripts/15_Sept_Podcast.pdf"}],
+      "images": []
+    },
+    {
+      "id": "birmingham-sixteenth-street-baptist-bombing-1963",
+      "title": "Four girls are killed in the Birmingham church bombing",
+      "year": "1963",
+      "historicalDate": "September 15, 1963",
+      "dateNote": null,
+      "summary": "A white supremacist bombing killed four girls at the 16th Street Baptist Church in Birmingham, Alabama.",
+      "description": "On September 15, 1963, a bomb planted by white supremacists exploded at Birmingham's 16th Street Baptist Church, killing Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley. The attack exposed the violence surrounding the U.S. civil-rights struggle and strengthened demands for federal action.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"National Park Service - 16th Street Baptist Church","url":"https://www.nps.gov/people/16th-street-baptist-church-bombing.htm"}],
+      "images": []
+    },
+    {
+      "id": "greenpeace-founded-1971",
+      "title": "The environmental organization Greenpeace is founded",
+      "year": "1971",
+      "historicalDate": "September 15, 1971",
+      "dateNote": null,
+      "summary": "A group of activists sailed from Vancouver in a campaign against a U.S. nuclear test.",
+      "description": "On September 15, 1971, activists sailed from Vancouver aboard the ship that became associated with Greenpeace, aiming to protest a U.S. nuclear test at Amchitka in Alaska. The campaign helped establish a new style of direct-action environmental activism.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Greenpeace - Our history","url":"https://www.greenpeace.org/international/history/"}],
+      "images": []
+    },
+    {
+      "id": "lehman-brothers-bankruptcy-2008",
+      "title": "Lehman Brothers files for bankruptcy",
+      "year": "2008",
+      "historicalDate": "September 15, 2008",
+      "dateNote": null,
+      "summary": "The investment bank's collapse intensified the global financial crisis.",
+      "description": "On September 15, 2008, Lehman Brothers filed for Chapter 11 bankruptcy protection after losses tied to the U.S. housing and credit crisis. Its failure intensified financial-market panic and became a defining event of the global financial crisis.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Federal Reserve History - The Panic of 2008","url":"https://www.federalreservehistory.org/essays/panic-of-2008"}],
+      "images": []
+    },
+    {
+      "id": "william-howard-taft-born-1857",
+      "title": "William Howard Taft is born",
+      "year": "1857",
+      "historicalDate": "September 15, 1857",
+      "dateNote": null,
+      "summary": "William Howard Taft, later the 27th U.S. president and 10th chief justice, is born in Ohio.",
+      "description": "William Howard Taft was born in Cincinnati on September 15, 1857. He later served as U.S. president from 1909 to 1913 and became the only person to serve both as president and chief justice of the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [{"name":"Library of Congress - Today in History: September 15","url":"https://www.loc.gov/item/today-in-history/september-15/"}],
+      "images": []
+    },
+    {
+      "id": "montreal-protocol-adopted-1987",
+      "title": "Countries adopt the Montreal Protocol",
+      "year": "1987",
+      "historicalDate": "September 16, 1987",
+      "dateNote": null,
+      "summary": "An international agreement targets chemicals that damage Earth's ozone layer.",
+      "description": "Adopted on September 16, 1987, the Montreal Protocol set binding controls on ozone-depleting substances. Its phased approach gave countries different timetables while committing them to a shared environmental goal.",
+      "notificationTitle": "Countries adopt the Montreal Protocol",
+      "notificationBody": "An international agreement targets chemicals that damage Earth's ozone layer.",
+      "sources": [
+        {
+          "name": "UN Environment Programme - Montreal Protocol",
+          "url": "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "papua-new-guinea-independence-1975",
+      "title": "Papua New Guinea becomes independent",
+      "year": "1975",
+      "historicalDate": "September 16, 1975",
+      "dateNote": null,
+      "summary": "Independence ends Australian administration of Papua New Guinea.",
+      "description": "On September 16, 1975, Papua New Guinea became independent after a period of self-government. The transition followed decades of Australian administration and growing challenges to colonial rule.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of Australia - Papua New Guinea",
+          "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "camp-david-accords-signed-1978",
+      "title": "Egypt and Israel sign the Camp David Accords",
+      "year": "1978",
+      "historicalDate": "September 17, 1978",
+      "dateNote": null,
+      "summary": "Two frameworks create a path toward an Egyptian-Israeli peace treaty.",
+      "description": "On September 17, 1978, Anwar Sadat and Menachem Begin signed the Camp David agreements at the White House, with Jimmy Carter as witness. They were frameworks, not the final peace treaty, which followed in March 1979.",
+      "notificationTitle": "Egypt and Israel sign the Camp David Accords",
+      "notificationBody": "Two frameworks create a path toward an Egyptian-Israeli peace treaty.",
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Camp David signing",
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-constitution-signed-1787",
+      "title": "Delegates sign the United States Constitution",
+      "year": "1787",
+      "historicalDate": "September 17, 1787",
+      "dateNote": null,
+      "summary": "The Constitutional Convention completes its work in Philadelphia.",
+      "description": "On September 17, 1787, delegates signed the Constitution at the close of the Philadelphia convention. Washington's diary records that three delegates present declined to sign. Signing was a step toward a new government, not the end of the ratification debate.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Washington's diary, September 17, 1787",
+          "url": "https://founders.archives.gov/documents/Washington/01-05-02-0002-0009-0017"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-capitol-cornerstone-1793",
+      "title": "George Washington lays the Capitol cornerstone",
+      "year": "1793",
+      "historicalDate": "September 18, 1793",
+      "dateNote": null,
+      "summary": "A ceremony marks the beginning of a future seat of Congress.",
+      "description": "On September 18, 1793, George Washington took part in laying the cornerstone of the United States Capitol. The ceremony marked an early stage in building the new capital, years before Congress occupied the building.",
+      "notificationTitle": "George Washington lays the Capitol cornerstone",
+      "notificationBody": "A ceremony marks the beginning of a future seat of Congress.",
+      "sources": [
+        {
+          "name": "Architect of the Capitol - Cornerstone ceremony",
+          "url": "https://www.aoc.gov/explore-capitol-campus/art/capitol-cornerstone-ceremony-1793"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "fugitive-slave-act-signed-1850",
+      "title": "The Fugitive Slave Act becomes law",
+      "year": "1850",
+      "historicalDate": "September 18, 1850",
+      "dateNote": null,
+      "summary": "A federal law strengthens enslavers' power to capture freedom seekers.",
+      "description": "President Millard Fillmore signed the Fugitive Slave Act on September 18, 1850. Part of the Compromise of 1850, it expanded federal enforcement against people escaping slavery. Resistance to its enforcement intensified the conflict over slavery.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service - Fugitive Slave Laws and Boston",
+          "url": "https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "new-zealand-womens-suffrage-1893",
+      "title": "New Zealand grants women the parliamentary vote",
+      "year": "1893",
+      "historicalDate": "September 19, 1893",
+      "dateNote": null,
+      "summary": "A long campaign wins a landmark expansion of voting rights.",
+      "description": "On September 19, 1893, New Zealand's governor signed the Electoral Act. New Zealand became the first self-governing country to give women the parliamentary vote. The right to stand for Parliament came later, in 1919.",
+      "notificationTitle": "New Zealand grants women the parliamentary vote",
+      "notificationBody": "A long campaign wins a landmark expansion of voting rights.",
+      "sources": [
+        {
+          "name": "NZ History - Women win the right to vote",
+          "url": "https://nzhistory.govt.nz/womens-suffrage-day"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "washington-farewell-address-published-1796",
+      "title": "Washington's Farewell Address appears in print",
+      "year": "1796",
+      "historicalDate": "September 19, 1796",
+      "dateNote": null,
+      "summary": "The retiring president addresses the public through a newspaper, not a speech.",
+      "description": "Published on September 19, 1796, George Washington's Farewell Address warned against factional division and foreign interference. Despite its name, he did not deliver it publicly as a speech. The text circulated in newspapers as he prepared to leave office.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Senate - Washington's Farewell Address",
+          "url": "https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "magellan-departs-sanlucar-1519",
+      "title": "Magellan's expedition sails from Sanlucar de Barrameda",
+      "year": "1519",
+      "historicalDate": "September 20, 1519",
+      "dateNote": "September 20 marks departure from Sanlucar de Barrameda; the fleet left Seville earlier.",
+      "summary": "The expedition that will first circle the globe sails into the Atlantic.",
+      "description": "On September 20, 1519, Ferdinand Magellan's expedition sailed from Sanlucar de Barrameda into the Atlantic. It had left Seville earlier. Magellan died in the Philippines during the voyage, and Juan Sebastian Elcano later led its completion.",
+      "notificationTitle": "Magellan's expedition sails from Sanlucar",
+      "notificationBody": "The expedition that will first circle the globe sails into the Atlantic.",
+      "sources": [
+        {
+          "name": "Spain tourism authority - Circumnavigation anniversary",
+          "url": "https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-fulford-1066",
+      "title": "Harald Hardrada wins at Fulford",
+      "year": "1066",
+      "historicalDate": "September 20, 1066",
+      "dateNote": null,
+      "summary": "The Norwegian invasion defeats an English army near York.",
+      "description": "On September 20, 1066, Harald Hardrada defeated the English forces at Fulford. His success was brief: King Harold's army would confront him at Stamford Bridge five days later.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "English Heritage - Events of 1066",
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "belize-independence-1981",
+      "title": "Belize becomes independent",
+      "year": "1981",
+      "historicalDate": "September 21, 1981",
+      "dateNote": null,
+      "summary": "The Central American country ends British colonial rule.",
+      "description": "Belize achieved independence from the United Kingdom on September 21, 1981. Formerly called British Honduras, it had adopted the name Belize in 1973. Independence followed negotiations involving Britain and Guatemala.",
+      "notificationTitle": "Belize becomes independent",
+      "notificationBody": "The Central American country ends British colonial rule.",
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Belize",
+          "url": "https://history.state.gov/countries/belize"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "malta-independence-1964",
+      "title": "Malta becomes independent",
+      "year": "1964",
+      "historicalDate": "September 21, 1964",
+      "dateNote": null,
+      "summary": "The Mediterranean island country gains independence from Britain.",
+      "description": "Malta gained independence on September 21, 1964, and joined the Commonwealth. Becoming independent and becoming a republic were separate milestones: the latter followed on December 13, 1974.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Malta National Statistics Office - Malta in Figures 2013",
+          "url": "https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mali-republic-proclaimed-1960",
+      "title": "The Soudanese Republic becomes the Republic of Mali",
+      "year": "1960",
+      "historicalDate": "September 22, 1960",
+      "dateNote": null,
+      "summary": "The former Soudanese Republic adopts the name Republic of Mali.",
+      "description": "On September 22, 1960, the National Assembly legislated that the Soudanese Republic would become the Republic of Mali. Senegal had already left the Mali Federation. This date is distinct from the federation's independence from France that June.",
+      "notificationTitle": "The Republic of Mali takes its new name",
+      "notificationBody": "The former Soudanese Republic becomes the Republic of Mali.",
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Mali",
+          "url": "https://history.state.gov/countries/mali"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "preliminary-emancipation-proclamation-1862",
+      "title": "Lincoln issues the preliminary Emancipation Proclamation",
+      "year": "1862",
+      "historicalDate": "September 22, 1862",
+      "dateNote": null,
+      "summary": "An announcement sets a deadline for emancipation in areas still in rebellion.",
+      "description": "On September 22, 1862, Abraham Lincoln issued the preliminary Emancipation Proclamation. It announced that people enslaved in areas still rebelling on January 1, 1863, would be declared free. It did not immediately abolish slavery throughout the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Preliminary Emancipation Proclamation",
+          "url": "https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "neptune-confirmed-1846",
+      "title": "Neptune is identified as a planet",
+      "year": "1846",
+      "historicalDate": "September 23, 1846",
+      "dateNote": null,
+      "summary": "Mathematical predictions guide a search for a distant planet.",
+      "description": "On September 23, 1846, Johann Galle and Heinrich d'Arrest identified Neptune at Berlin Observatory, guided by Urbain Le Verrier's calculations. Earlier observers had seen the object without recognizing it as a planet.",
+      "notificationTitle": "Neptune is identified as a planet",
+      "notificationBody": "Mathematical predictions guide a search for a distant planet.",
+      "sources": [
+        {
+          "name": "American Physical Society - Neptune confirmed",
+          "url": "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saudi-arabia-proclaimed-1932",
+      "title": "The Kingdom of Saudi Arabia is proclaimed",
+      "year": "1932",
+      "historicalDate": "September 23, 1932",
+      "dateNote": null,
+      "summary": "Abd al-Aziz proclaims a kingdom under its present name.",
+      "description": "On September 23, 1932, Abd al-Aziz proclaimed the Kingdom of Saudi Arabia. The date marks the creation of the named kingdom, not independence from a European colonial power.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Saudi Ministry of Foreign Affairs - National Day",
+          "url": "https://mofa.gov.sa/en/ksa/Pages/nationalday.aspx"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "osiris-rex-sample-return-2023",
+      "title": "OSIRIS-REx delivers asteroid material to Earth",
+      "year": "2023",
+      "historicalDate": "September 24, 2023",
+      "dateNote": null,
+      "summary": "A capsule brings rock and dust from Bennu to Utah.",
+      "description": "On September 24, 2023, the OSIRIS-REx sample capsule parachuted into Utah. Its cargo came from the asteroid Bennu, giving researchers material from an ancient body to study in laboratories on Earth.",
+      "notificationTitle": "OSIRIS-REx delivers asteroid material to Earth",
+      "notificationBody": "A capsule brings rock and dust from Bennu to Utah.",
+      "sources": [
+        {
+          "name": "NASA - Special Delivery from Outer Space",
+          "url": "https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "judiciary-act-signed-1789",
+      "title": "The Judiciary Act establishes a federal court system",
+      "year": "1789",
+      "historicalDate": "September 24, 1789",
+      "dateNote": null,
+      "summary": "Congress gives practical form to the new nation's judiciary.",
+      "description": "George Washington signed the Judiciary Act on September 24, 1789. It organized federal district and circuit courts and defined important parts of their jurisdiction, turning the Constitution's broad judicial provisions into a working structure.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Federal Judiciary Act",
+          "url": "https://www.archives.gov/milestone-documents/federal-judiciary-act"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "little-rock-nine-full-school-day-1957",
+      "title": "The Little Rock Nine attend their first full day under federal troop protection",
+      "year": "1957",
+      "historicalDate": "September 25, 1957",
+      "dateNote": null,
+      "summary": "Nine Black students reach their first full day at Central High School.",
+      "description": "On September 25, 1957, federal troops escorted the Little Rock Nine into Central High School. The students had faced violent opposition to desegregation. Federal protection made attendance possible, but did not end the hostility they experienced.",
+      "notificationTitle": "The Little Rock Nine attend their first full day",
+      "notificationBody": "Nine Black students reach their first full day at Central High School.",
+      "sources": [
+        {
+          "name": "National Park Service - The Little Rock Nine",
+          "url": "https://www.nps.gov/people/the-little-rock-nine.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-stamford-bridge-1066",
+      "title": "Harold defeats Hardrada at Stamford Bridge",
+      "year": "1066",
+      "historicalDate": "September 25, 1066",
+      "dateNote": null,
+      "summary": "An English victory ends the Norwegian king's invasion.",
+      "description": "On September 25, 1066, King Harold's forces defeated Harald Hardrada at Stamford Bridge. Hardrada was killed. Harold soon faced another invasion in southern England.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "English Heritage - Events of 1066",
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "dart-asteroid-impact-2022",
+      "title": "DART strikes Dimorphos in an asteroid-deflection test",
+      "year": "2022",
+      "historicalDate": "September 26, 2022",
+      "dateNote": null,
+      "summary": "A deliberate impact tests a possible method of planetary defense.",
+      "description": "On September 26, 2022, NASA's DART spacecraft struck Dimorphos, the small companion of asteroid Didymos. The experiment tested whether a spacecraft impact could change an asteroid's motion; this asteroid system was not threatening Earth.",
+      "notificationTitle": "DART strikes an asteroid in a deflection test",
+      "notificationBody": "A deliberate impact tests a possible method of planetary defense.",
+      "sources": [
+        {
+          "name": "NASA - A year of DART science",
+          "url": "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "new-zealand-dominion-1907",
+      "title": "New Zealand becomes a dominion",
+      "year": "1907",
+      "historicalDate": "September 26, 1907",
+      "dateNote": null,
+      "summary": "A new title replaces 'colony' within the British Empire.",
+      "description": "On September 26, 1907, Prime Minister Joseph Ward proclaimed New Zealand's dominion status. It was a change within the British Empire, not a single declaration of complete independence.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NZ History - Dominion of New Zealand",
+          "url": "https://nzhistory.govt.nz/keyword/dominion-of-new-zealand"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stockton-darlington-railway-opens-1825",
+      "title": "The Stockton and Darlington Railway opens",
+      "year": "1825",
+      "historicalDate": "September 27, 1825",
+      "dateNote": null,
+      "summary": "Locomotion No. 1 hauls the inaugural train.",
+      "description": "On September 27, 1825, George Stephenson drove Locomotion No. 1 at the opening of the Stockton and Darlington Railway. The event became a landmark in the development of public steam rail transport.",
+      "notificationTitle": "The Stockton and Darlington Railway opens",
+      "notificationBody": "Locomotion No. 1 hauls the inaugural train.",
+      "sources": [
+        {
+          "name": "National Railway Museum - Shildon and Locomotion No. 1",
+          "url": "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "champollion-hieroglyphs-presentation-1822",
+      "title": "Champollion presents his hieroglyphic breakthrough",
+      "year": "1822",
+      "historicalDate": "September 27, 1822",
+      "dateNote": null,
+      "summary": "A public presentation explains a method for reading ancient Egyptian writing.",
+      "description": "On September 27, 1822, Jean-Francois Champollion presented his research in the Letter to M. Dacier. Building on earlier scholarship, his method helped make ancient Egyptian texts readable again.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Bibliotheque nationale de France - Champollion exhibition guide",
+          "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "william-lands-pevensey-1066",
+      "title": "William's army lands at Pevensey",
+      "year": "1066",
+      "historicalDate": "September 28, 1066",
+      "dateNote": null,
+      "summary": "The Norman invasion reaches the English coast.",
+      "description": "On September 28, 1066, William's fleet reached Pevensey in Sussex. The landing opened the invasion that led to the Battle of Hastings in October.",
+      "notificationTitle": "William's army lands at Pevensey",
+      "notificationBody": "The Norman invasion reaches the English coast.",
+      "sources": [
+        {
+          "name": "English Heritage - Events of 1066",
+          "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-aerial-circumnavigation-completed-1924",
+      "title": "Army aviators complete a flight around the world",
+      "year": "1924",
+      "historicalDate": "September 28, 1924",
+      "dateNote": null,
+      "summary": "An expedition demonstrates the reach of long-distance aviation.",
+      "description": "On September 28, 1924, the U.S. Army Air Service's round-the-world expedition concluded. Erik Nelson, piloting New Orleans, was among those who completed the pioneering journey that began in April.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Air Force - Erik Henning Nelson biography",
+          "url": "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cern-founded-1954",
+      "title": "CERN officially comes into existence",
+      "year": "1954",
+      "historicalDate": "September 29, 1954",
+      "dateNote": null,
+      "summary": "A European scientific organization gains its legal foundation.",
+      "description": "On September 29, 1954, the CERN Convention entered into force after the necessary ratifications. The organization created a shared framework for research in fundamental physics.",
+      "notificationTitle": "CERN officially comes into existence",
+      "notificationBody": "A European scientific organization gains its legal foundation.",
+      "sources": [
+        {
+          "name": "CERN - CERN exists",
+          "url": "https://timeline.web.cern.ch/cern-exists"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "discovery-return-to-flight-1988",
+      "title": "Discovery returns the Space Shuttle to flight",
+      "year": "1988",
+      "historicalDate": "September 29, 1988",
+      "dateNote": null,
+      "summary": "STS-26 launches after the Challenger disaster and a lengthy grounding.",
+      "description": "On September 29, 1988, Discovery launched on mission STS-26. It was the Space Shuttle program's return to flight after the 1986 Challenger disaster, following extensive technical and organizational changes.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA History - Return to Flight",
+          "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "botswana-independence-1966",
+      "title": "Botswana becomes independent",
+      "year": "1966",
+      "historicalDate": "September 30, 1966",
+      "dateNote": null,
+      "summary": "The former Bechuanaland Protectorate becomes a republic.",
+      "description": "On September 30, 1966, Botswana became independent from Britain with Seretse Khama as its first president. The new republic replaced the Bechuanaland Protectorate.",
+      "notificationTitle": "Botswana becomes independent",
+      "notificationBody": "The former Bechuanaland Protectorate becomes a republic.",
+      "sources": [
+        {
+          "name": "Embassy of Botswana - Brief history",
+          "url": "https://botswanamission.ch/brief-history-2/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "rosetta-mission-ends-2016",
+      "title": "Rosetta ends its mission on a comet",
+      "year": "2016",
+      "historicalDate": "September 30, 2016",
+      "dateNote": null,
+      "summary": "A controlled descent concludes years of close-up comet research.",
+      "description": "On September 30, 2016, ESA's Rosetta spacecraft ended its mission with a controlled impact on comet 67P/Churyumov-Gerasimenko. It transmitted observations during descent before communication ceased.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "European Space Agency - Rosetta mission complete",
+          "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cia-established-1947",
+      "title": "The Central Intelligence Agency comes into existence",
+      "year": "1947",
+      "historicalDate": "September 18, 1947",
+      "dateNote": null,
+      "summary": "The Central Intelligence Group becomes the Central Intelligence Agency.",
+      "description": "On September 18, 1947, the Central Intelligence Group became the Central Intelligence Agency. The change gave the organization full-agency status in the early Cold War period.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Central Intelligence Agency - The Mapmaker's Craft",
+          "url": "https://www.cia.gov/stories/story/the-mapmakers-craft-a-history-of-cartography-at-cia/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "dag-hammarskjold-dies-1961",
+      "title": "Dag Hammarskjold dies in a plane crash",
+      "year": "1961",
+      "historicalDate": "September 18, 1961",
+      "dateNote": "The crash occurred during the night of September 17-18 near Ndola, Northern Rhodesia.",
+      "summary": "The UN secretary-general dies while on a peace mission in the Congo.",
+      "description": "Dag Hammarskjold, secretary-general of the United Nations, died when his aircraft crashed near Ndola during the night of September 17-18, 1961. He had been travelling on a peace mission connected with the Congo crisis.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United Nations Archives - Death of Dag Hammarskjold",
+          "url": "https://archives.un.org/en/content/death-dag-hammarskjold-0"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mexico-earthquake-1985",
+      "title": "A major earthquake strikes off Mexico's Pacific coast",
+      "year": "1985",
+      "historicalDate": "September 19, 1985",
+      "dateNote": null,
+      "summary": "A magnitude 8.1 earthquake causes devastating damage in Mexico City.",
+      "description": "On September 19, 1985, a magnitude 8.1 earthquake struck off Mexico's Pacific coast and caused severe destruction in central Mexico, especially Mexico City. The disaster became a defining event in the country's modern history.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Geological Survey - National Earthquake Information Center",
+          "url": "https://www.usgs.gov/publications/neic-national-earthquake-information-center-0"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-poitiers-1356",
+      "title": "The Black Prince defeats John II at Poitiers",
+      "year": "1356",
+      "historicalDate": "September 19, 1356",
+      "dateNote": null,
+      "summary": "An English victory in the Hundred Years' War results in the French king's capture.",
+      "description": "On September 19, 1356, Edward of Woodstock, known as the Black Prince, defeated the army of John II of France at the Battle of Poitiers. The French king was captured, deepening the political crisis in France during the Hundred Years' War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Royal Armouries - The Hundred Years' War",
+          "url": "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "billie-jean-king-defeats-bobby-riggs-1973",
+      "title": "Billie Jean King defeats Bobby Riggs",
+      "year": "1973",
+      "historicalDate": "September 20, 1973",
+      "dateNote": null,
+      "summary": "King wins the 'Battle of the Sexes' tennis match in straight sets.",
+      "description": "On September 20, 1973, Billie Jean King defeated Bobby Riggs in straight sets in the televised 'Battle of the Sexes' tennis match. The event became an enduring landmark in debates over women in sport and public life.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Smithsonian American Women's History Museum - Billie Jean King's triumph",
+          "url": "https://womenshistory.si.edu/blog/beyond-court-billie-jean-kings-triumph-battle-sexes"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "vietnam-admitted-un-1977",
+      "title": "Viet Nam joins the United Nations",
+      "year": "1977",
+      "historicalDate": "September 20, 1977",
+      "dateNote": null,
+      "summary": "The General Assembly admits the Socialist Republic of Viet Nam to membership.",
+      "description": "On September 20, 1977, the United Nations General Assembly admitted the Socialist Republic of Viet Nam to membership by resolution 32/2. The admission followed the end of the Vietnam War and reunification of the country.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United Nations Treaty Series - Viet Nam declaration",
+          "url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201102/volume-1102-I-16921-English.pdf"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "french-monarchy-abolished-1792",
+      "title": "The National Convention abolishes the French monarchy",
+      "year": "1792",
+      "historicalDate": "September 21, 1792",
+      "dateNote": null,
+      "summary": "Revolutionary legislators vote to end the monarchy in France.",
+      "description": "On September 21, 1792, France's National Convention voted unanimously to abolish the monarchy. The decision marked a decisive turn in the French Revolution and cleared the way for the First Republic.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "French National Assembly - The National Convention and the end of monarchy",
+          "url": "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-convention-nationale-et-la-fin-de-la-royaute"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "the-hobbit-published-1937",
+      "title": "The Hobbit is published",
+      "year": "1937",
+      "historicalDate": "September 21, 1937",
+      "dateNote": null,
+      "summary": "J.R.R. Tolkien's fantasy novel begins its life as a published book.",
+      "description": "J.R.R. Tolkien's The Hobbit was published on September 21, 1937. Its success introduced readers to Middle-earth and preceded the later publication of The Lord of the Rings.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Tolkien Estate - The Hobbit",
+          "url": "https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "iran-iraq-war-begins-1980",
+      "title": "Iraq invades Iran",
+      "year": "1980",
+      "historicalDate": "September 22, 1980",
+      "dateNote": null,
+      "summary": "Iraq's invasion begins a destructive eight-year war with Iran.",
+      "description": "On September 22, 1980, Iraq invaded Iran, beginning the Iran-Iraq War. The conflict lasted for eight years and caused immense human and economic loss on both sides.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Iran-Iraq War",
+          "url": "https://history.state.gov/historicaldocuments/frus1977-80v18/d220"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nathan-hale-executed-1776",
+      "title": "Nathan Hale is executed",
+      "year": "1776",
+      "historicalDate": "September 22, 1776",
+      "dateNote": null,
+      "summary": "The Continental Army officer is executed after being captured on an intelligence mission.",
+      "description": "On September 22, 1776, British forces executed Continental Army officer Nathan Hale after his capture on an intelligence mission. Accounts of his final words vary, but his death made him a lasting symbol in American Revolutionary memory.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Library of Congress - Today in History: September 22",
+          "url": "https://www.loc.gov/item/today-in-history/september-22/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mars-climate-orbiter-lost-1999",
+      "title": "NASA loses contact with Mars Climate Orbiter",
+      "year": "1999",
+      "historicalDate": "September 23, 1999",
+      "dateNote": null,
+      "summary": "A navigation error ends a Mars mission during orbital insertion.",
+      "description": "On September 23, 1999, NASA lost contact with Mars Climate Orbiter as it arrived at Mars. An investigation found that inconsistent measurement units contributed to the navigation error.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA Science - Mars Climate Orbiter",
+          "url": "https://science.nasa.gov/mission/mars-climate-orbiter/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nintendo-founded-1889",
+      "title": "Nintendo is founded in Kyoto",
+      "year": "1889",
+      "historicalDate": "September 23, 1889",
+      "dateNote": null,
+      "summary": "The company begins as a maker of hanafuda playing cards.",
+      "description": "Nintendo was founded in Kyoto on September 23, 1889. The company began by making hanafuda playing cards, long before its later work in electronic games.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Securities and Exchange Commission - Nintendo company profile",
+          "url": "https://www.sec.gov/Archives/edgar/vprr/0800/08006168.pdf"
+        },
+        {
+          "name": "Nintendo - About Nintendo",
+          "url": "https://www.nintendo.com/us/about/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ctbt-opens-for-signature-1996",
+      "title": "The Comprehensive Nuclear-Test-Ban Treaty opens for signature",
+      "year": "1996",
+      "historicalDate": "September 24, 1996",
+      "dateNote": null,
+      "summary": "A treaty banning all nuclear test explosions opens for signature at the United Nations.",
+      "description": "On September 24, 1996, the Comprehensive Nuclear-Test-Ban Treaty opened for signature at the United Nations in New York. The treaty bans nuclear test explosions, though it has not entered into force.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Comprehensive Nuclear-Test-Ban Treaty Organization - Happy Birthday CTBT",
+          "url": "https://www.ctbto.org/news-and-events/news/happy-birthday-ctbt-0"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "uss-enterprise-launched-1960",
+      "title": "USS Enterprise is launched",
+      "year": "1960",
+      "historicalDate": "September 24, 1960",
+      "dateNote": null,
+      "summary": "The world's first nuclear-powered aircraft carrier enters the water.",
+      "description": "On September 24, 1960, USS Enterprise was launched at Newport News, Virginia. The ship was the world's first nuclear-powered aircraft carrier and was commissioned the following year.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Naval History and Heritage Command - Enterprise VIII",
+          "url": "https://www.history.navy.mil/research/histories/ship-histories/danfs/e/enterprise-cvan-65-viii-1961-1965.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bill-of-rights-proposed-1789",
+      "title": "Congress proposes twelve constitutional amendments",
+      "year": "1789",
+      "historicalDate": "September 25, 1789",
+      "dateNote": null,
+      "summary": "The First Congress sends twelve proposed amendments to the states.",
+      "description": "On September 25, 1789, the First Congress proposed twelve amendments to the U.S. Constitution. Ten were ratified in 1791 and became the Bill of Rights; another was ratified more than two centuries later as the Twenty-Seventh Amendment.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Archives - Bill of Rights",
+          "url": "https://www.archives.gov/milestone-documents/bill-of-rights"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mars-observer-launched-1992",
+      "title": "NASA launches Mars Observer",
+      "year": "1992",
+      "historicalDate": "September 25, 1992",
+      "dateNote": null,
+      "summary": "A spacecraft begins a mission intended to study Mars from orbit.",
+      "description": "On September 25, 1992, NASA launched Mars Observer to study the planet's surface, atmosphere, and interior from orbit. Contact with the spacecraft was lost in 1993, shortly before its planned arrival at Mars.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA Science - Mars Observer",
+          "url": "https://science.nasa.gov/mission/mars-observer/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "francis-drake-returns-plymouth-1580",
+      "title": "Francis Drake returns to Plymouth",
+      "year": "1580",
+      "historicalDate": "September 26, 1580",
+      "dateNote": null,
+      "summary": "Drake completes the first English circumnavigation of the globe.",
+      "description": "On September 26, 1580, Francis Drake returned to Plymouth in the Golden Hind after circling the globe. His voyage was the first English circumnavigation, but it also formed part of an era of English privateering, colonial expansion, and the transatlantic slave trade.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Tavistock Town Council - The Story of Drake Statue",
+          "url": "https://www.tavistock.gov.uk/drake-statue"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kennedy-nixon-first-televised-debate-1960",
+      "title": "Kennedy and Nixon hold the first televised debate between U.S. presidential candidates",
+      "year": "1960",
+      "historicalDate": "September 26, 1960",
+      "dateNote": null,
+      "summary": "A nationally televised debate brings presidential candidates into living rooms across the United States.",
+      "description": "On September 26, 1960, John F. Kennedy and Richard Nixon met in Chicago for the first televised debate between U.S. presidential candidates. It was the first of four debates between the candidates during that campaign.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "John F. Kennedy Presidential Library and Museum - The President's Desk resource guide",
+          "url": "https://www.jfklibrary.org/sites/default/files/2021-08/PresidentsDeskResourceGuide_118pgs%20SINGLE_WEB.pdf"
+        },
+        {
+          "name": "U.S. Senate Historical Office - The First Televised Presidential Debate",
+          "url": "https://www.senate.gov/artandhistory/history/minute/The_First_Televised_Presidential_Debate.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "society-of-jesus-approved-1540",
+      "title": "The Society of Jesus receives papal approval",
+      "year": "1540",
+      "historicalDate": "September 27, 1540",
+      "dateNote": null,
+      "summary": "Pope Paul III formally recognizes the religious order later known as the Jesuits.",
+      "description": "On September 27, 1540, Pope Paul III promulgated the bull Regimini Militantis Ecclesiae, recognizing the Society of Jesus as a religious order. The order was founded around Ignatius of Loyola and would become widely known as the Jesuits.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Society of Jesus - Papal approval in 1540",
+          "url": "https://www.jesuits.global/2021/09/26/on-27-september-1540-the-society-of-jesus-received-papal-approval/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tripartite-pact-signed-1940",
+      "title": "Germany, Italy, and Japan sign the Tripartite Pact",
+      "year": "1940",
+      "historicalDate": "September 27, 1940",
+      "dateNote": null,
+      "summary": "The Axis powers formalize a military and political alliance during World War II.",
+      "description": "On September 27, 1940, Germany, Italy, and Japan signed the Tripartite Pact in Berlin. The agreement pledged cooperation among the Axis powers and threatened support for any power entering the war against them outside Europe or Asia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Department of State - Tripartite Pact text",
+          "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d100"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cabrillo-enters-san-diego-bay-1542",
+      "title": "Cabrillo's expedition enters San Diego Bay",
+      "year": "1542",
+      "historicalDate": "September 28, 1542",
+      "dateNote": null,
+      "summary": "A Spanish expedition enters the bay and makes contact with the Kumeyaay.",
+      "description": "On September 28, 1542, the vessels led by Juan Rodriguez Cabrillo entered what is now San Diego Bay. The expedition made contact with the Kumeyaay, who were already living in the region; the Spanish named the bay Puerto de San Miguel.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service - Cabrillo National Monument",
+          "url": "https://www.nps.gov/articles/cabrillo.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "siege-of-yorktown-begins-1781",
+      "title": "American and French forces begin the siege of Yorktown",
+      "year": "1781",
+      "historicalDate": "September 28, 1781",
+      "dateNote": null,
+      "summary": "Allied forces start the operation that will compel a major British surrender.",
+      "description": "On September 28, 1781, American and French forces marched from Williamsburg to Yorktown and began investing the British positions. Their operation would culminate in the British surrender under Lord Cornwallis the following month.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Park Service - History of the Siege",
+          "url": "https://www.nps.gov/york/learn/historyculture/history-of-the-siege.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "john-paul-ii-arrives-ireland-1979",
+      "title": "John Paul II begins a pastoral visit to Ireland",
+      "year": "1979",
+      "historicalDate": "September 29, 1979",
+      "dateNote": null,
+      "summary": "The pope arrives in Dublin for a pastoral visit that continues into October.",
+      "description": "On September 29, 1979, Pope John Paul II arrived in Ireland and addressed President Patrick Hillery in Dublin. His pastoral visit continued into October.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "The Holy See - Address to the Irish President",
+          "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september/documents/hf_jp-ii_spe_19790929_irlanda-dublino-presidente.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "babyn-yar-massacre-begins-1941",
+      "title": "The mass murder of Kyiv's Jews begins at Babyn Yar",
+      "year": "1941",
+      "historicalDate": "September 29, 1941",
+      "dateNote": "The mass murder continued through September 30.",
+      "summary": "German forces and auxiliaries begin mass shootings of Kyiv's Jewish population at a ravine outside the city.",
+      "description": "On September 29, 1941, SS and German police units and their auxiliaries began murdering Jewish people from Kyiv at the Babyn Yar ravine. The mass shooting continued the next day and became one of the largest massacres of the Holocaust.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United States Holocaust Memorial Museum - Babyn Yar",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "berlin-airlift-last-flight-1949",
+      "title": "The U.S. Air Force makes its final Berlin Airlift flight",
+      "year": "1949",
+      "historicalDate": "September 30, 1949",
+      "dateNote": "British airlift flights continued until October 6.",
+      "summary": "The U.S. Air Force completes its final Berlin Airlift flight; British flights continue until October 6.",
+      "description": "On September 30, 1949, the U.S. Air Force made its final Berlin Airlift flight from Rhein-Main Air Base. The Soviet blockade had been lifted in May; British flights continued until October 6.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "National Museum of the U.S. Air Force - Berlin Airlift",
+          "url": "https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000573158/"
+        },
+        {
+          "name": "Allied Museum - The Berlin Airlift 1948/49",
+          "url": "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "munich-agreement-signed-1938",
+      "title": "The Munich Agreement is signed",
+      "year": "1938",
+      "historicalDate": "September 30, 1938",
+      "dateNote": "Negotiations and signing spanned the night of September 29-30.",
+      "summary": "Four European powers force Czechoslovakia to cede its Sudeten border regions to Nazi Germany.",
+      "description": "Over the night of September 29-30, 1938, Germany, Italy, Great Britain, and France signed the Munich Agreement. Czechoslovakia, which was not a party to the negotiations, was forced to surrender its Sudeten border regions and defenses to Nazi Germany.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "United States Holocaust Memorial Museum - Munich Agreement",
+          "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nasa-begins-operations-1958",
+      "title": "NASA begins operations",
+      "year": "1958",
+      "historicalDate": "October 1, 1958",
+      "dateNote": null,
+      "summary": "The new agency takes charge of the United States' civilian space program.",
+      "description": "On October 1, 1958, the National Aeronautics and Space Administration officially began operations. NASA incorporated the National Advisory Committee for Aeronautics and assumed leadership of the United States' civilian space program.",
+      "notificationTitle": "NASA begins operations",
+      "notificationBody": "A new agency takes charge of America's civilian space program.",
+      "sources": [
+        {
+          "name": "NASA - NASA begins operations",
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nigeria-independence-1960",
+      "title": "Nigeria becomes independent",
+      "year": "1960",
+      "historicalDate": "October 1, 1960",
+      "dateNote": null,
+      "summary": "Nigeria gains independence from Britain and raises its new national flag.",
+      "description": "On October 1, 1960, Nigeria gained independence from Britain. The new country adopted a federal constitutional system, with Abubakar Tafawa Balewa serving as prime minister.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Federal Ministry of Information and National Orientation - Nigeria's history",
+          "url": "https://fmino.gov.ng/1st-october-nigerias-history/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "peoples-republic-china-proclaimed-1949",
+      "title": "The People's Republic of China is proclaimed",
+      "year": "1949",
+      "historicalDate": "October 1, 1949",
+      "dateNote": null,
+      "summary": "Mao Zedong proclaims the founding of the new central government in Beijing.",
+      "description": "On October 1, 1949, Mao Zedong proclaimed the founding of the Central People's Government of the People's Republic of China from Tiananmen Gate in Beijing.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Ministry of Foreign Affairs of the People's Republic of China - Founding ceremony",
+          "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tuvalu-independence-1978",
+      "title": "Tuvalu becomes independent",
+      "year": "1978",
+      "historicalDate": "October 1, 1978",
+      "dateNote": null,
+      "summary": "The Pacific island nation marks the date later defined in its constitution as Independence Day.",
+      "description": "On October 1, 1978, Tuvalu became independent. The Constitution of Tuvalu defines Independence Day as October 1, 1978.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Government of Tuvalu - Constitution of Tuvalu",
+          "url": "https://psc.gov.tv/wp-content/uploads/2024/06/tuvalu.pdf"
+        }
+      ],
+      "images": []
     }
   ]
 }

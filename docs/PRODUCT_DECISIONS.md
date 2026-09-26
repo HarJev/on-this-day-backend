@@ -87,13 +87,17 @@ The application must detect calendar-date rollover and replace the previous day'
 ## PD-008 — The home screen includes a curated set of additional events
 
 **Decision**  
-In addition to the featured event, the home screen will target approximately 6–10 additional notable events from the same calendar date.
+Each ordinarily curated date contains at least four total events: one featured
+event and at least three additional notable events from the same calendar date.
+The editorial aim is five or more total events when strong, well-sourced
+additions are available. There is no upper cap.
 
 **Rationale**  
 Users should have more history to explore when interested, without turning the experience into an overwhelming or exhaustive list.
 
 **Implications**  
-- Fewer than 6–10 events are acceptable when stronger events are unavailable.
+- A below-floor date requires an explicit editorial exception explaining why
+  stronger events are unavailable.
 - Weak events should not be added simply to meet a numerical target.
 - The product does not attempt to display every event associated with a date.  
 
@@ -251,3 +255,229 @@ If removing a feature would still allow the user to discover today's featured ev
 
 **Implications**  
 This rule should be used when deciding whether proposed functionality belongs in v0.0.1.  
+
+
+## PD-020 — Quiz is an explicit v0.1.0 product expansion
+
+**Decision**
+Daily Challenge and Quick Play are introduced as Quiz v0.1.0. The existing
+v0.0.1 daily-history loop and APIs remain unchanged.
+
+**Rationale**
+PD-015 correctly excludes gamification from v0.0.1. Versioning the quiz work
+makes the expanded scope intentional rather than silently changing the first
+release.
+
+**Implications**
+- Quiz documentation and implementation must identify itself as v0.1.0.
+- Existing event discovery and notification behavior remains compatible.
+- Quiz work must not add unrelated competitive or social features.
+
+
+## PD-021 — Daily Challenge uses one immutable assignment per calendar date
+
+**Decision**
+The backend generates and persists one ordered 20-question assignment for each
+calendar date. The 5- and 10-question challenges are stable prefixes of that
+assignment.
+
+**Rationale**
+Every user receiving the same date should receive the same challenge, and a
+question-bank import must not rewrite a challenge that users may already have
+started.
+
+**Implications**
+- Generation uses published questions available at first creation.
+- A persisted assignment is immutable.
+- Concurrent first requests must converge on one assignment.
+- Timezone resolves the user's local date; it does not create a
+  timezone-specific question set.
+
+
+## PD-022 — Daily Challenge attempt status remains local to mobile
+
+**Decision**
+The first Daily Challenge attempt is official in local mobile state. Replays are
+practice attempts.
+
+**Rationale**
+The product can support a meaningful daily result without accounts or backend
+attempt tracking.
+
+**Implications**
+- The backend does not receive answers or scores.
+- The backend cannot distinguish an official attempt from a replay.
+- Cross-device result synchronization is out of scope.
+
+
+## PD-023 — Quick Play supports Mixed or one optional collection
+
+**Decision**
+Quick Play accepts an optional `collectionId`. Omitting it selects Mixed content.
+
+**Rationale**
+This provides a fast default while allowing focused play without requiring a
+category hierarchy.
+
+**Implications**
+- Quick Play selection is random among eligible published questions.
+- The request supports 5, 10, or 20 questions.
+- An unsupported count returns `400 insufficient_quiz_questions`.
+
+
+## PD-024 — Quiz timing is mode-specific and returned as metadata
+
+**Decision**
+Daily Challenge has one total timer: 2 minutes for 5 questions, 4 minutes for
+10, and 8 minutes for 20. Quick Play defaults to 20 seconds for multiple choice,
+20 seconds for true/false, 30 seconds for image identification, and 45 seconds
+for chronological ordering.
+
+**Rationale**
+Chronological ordering and image identification require different amounts of
+interaction and recognition time.
+
+**Implications**
+- Daily timeout ends the challenge and unanswered questions are incorrect.
+- Quick Play timeout marks the current question incorrect and continues.
+- The API returns timer metadata.
+- The mobile client may disable Quick Play timing.
+
+
+## PD-025 — Correct answers are included for on-device evaluation
+
+**Decision**
+Quiz responses include correct answers, explanations, and sources. The mobile
+client evaluates answers and presents immediate feedback and end-of-quiz review.
+
+**Rationale**
+Quiz v0.1.0 has no competitive integrity requirement and does not need a grading
+round trip.
+
+**Implications**
+- There is no answer-submission or grading endpoint.
+- True/false uses the normal option model.
+- Chronological ordering returns shuffled items and the correct ordered item
+  IDs.
+
+
+## PD-026 — Collections are flat, many-to-many, and grouped for presentation
+
+**Decision**
+Collections do not form a hierarchy. Each collection has one catalog grouping:
+`topic`, `historical_period`, `civilization`, or `conflict_or_movement`.
+
+**Rationale**
+Flat membership supports both broad and focused choices without creating a
+brittle taxonomy.
+
+**Implications**
+- Questions may belong to multiple collections.
+- Catalog responses group collections for display.
+- Each collection advertises supported question counts based on its published
+  question count.
+
+
+## PD-027 — Difficulty balances selection but does not affect scoring
+
+**Decision**
+Every question is marked Easy, Medium, or Hard. Difficulty is used in balanced
+selection and remains visually secondary.
+
+**Rationale**
+Difficulty helps create varied sessions without turning scoring into an opaque
+or overly game-like system.
+
+**Implications**
+- Difficulty metadata is included in quiz responses.
+- Correct answers are not worth different amounts based on difficulty.
+- The reviewed bank targets approximately 25% Easy, 55% Medium, and 20% Hard.
+
+
+## PD-028 — Quiz content is curated, sourced, and expanded in reviewed batches
+
+**Decision**
+The v0.1.0 target is 240 reviewed questions: 144 multiple choice, 36 true/false,
+36 image identification, and 24 chronological ordering. Delivery begins with
+60 questions and continues in six batches of 30.
+
+**Rationale**
+Incremental review protects accuracy and editorial quality while building a
+large enough bank for varied play.
+
+**Implications**
+- Every question needs an explanation and at least one credible source.
+- Image metadata must be complete and factual when an image is used.
+- Content should broaden globally without rigid quotas.
+- Sensitive subjects require educational and respectful treatment.
+
+## PD-029 — Today and Daily use explicit event-question relationships
+
+**Decision**
+Questions may reference reviewed stable event IDs. Newly generated Daily
+assignments reserve one eligible featured-event-related question in their first
+five positions when available and may include one more same-date relation in
+positions 6-20.
+
+**Implications**
+- Relationships are many-to-many, curated, imported, and validated.
+- No runtime text inference or AI generation is permitted.
+- Global balanced selection supplies all remaining positions and all fallback.
+- Existing persisted assignments remain unchanged.
+
+## PD-030 — Recent content is a seven-calendar-day window
+
+**Decision**
+The backend may return today plus the previous six dates using the requested
+IANA timezone. It does not expose arbitrary date search or a complete archive.
+
+**Implications**
+- Year-end and leap-day boundaries are resolved by the backend.
+- Missing curated days are represented without failing available days.
+- Revisiting past content does not create a new official result.
+
+## PD-031 — Notification batches fail independently
+
+**Decision**
+Scheduled FCM delivery groups devices by applicable local date/timezone and
+isolates unavailable content and send failures per group.
+
+**Implications**
+- One missing date cannot abort all recipients.
+- Permanent and transient token failures retain distinct handling.
+- Simulator/local notification checks are not backend delivery evidence.
+
+## PD-032 — Option position never identifies correctness
+
+**Decision**
+Correctness remains explicit through `correctOptionId` and persisted
+`is_correct`. Canonical authoring should vary correct positions and report
+pack-level distribution even though playable choices are shuffled.
+
+**Implications**
+- Ingestion does not infer correctness from display order.
+- Human review checks plausible, parallel distractors and prompt leakage.
+- True/false retains its canonical True/False option order.
+
+## PD-033 — Runtime databases contain approved canonical content only
+
+**Decision**
+Draft and `source_verified` records remain in the editorial workspace.
+Canonical files require owner approval before import.
+
+**Implications**
+- Status tooling compares editorial, canonical, and database counts/fingerprints.
+- A stale database is reported rather than mistaken for current content.
+- Working drafts do not require runtime publication-state behavior.
+
+## PD-034 — Featured-event review includes image research
+
+**Decision**
+Every featured-event batch records an image search and rights-review outcome.
+Publishing an image remains conditional on relevance, clarity, provenance, and
+license suitability.
+
+**Implications**
+- Coverage is reported, but unsuitable images are never quota filler.
+- Featured images are prioritized before additional-event images.
+- Owned delivery may change the served URL without losing original provenance.

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "ancient-history",
+      "name": "Ancient History",
+      "group": "historical_period"
+    },
+    {
+      "id": "spaceflight",
+      "name": "Spaceflight",
+      "group": "topic"
+    }
+  ]
+}

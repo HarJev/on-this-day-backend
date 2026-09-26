@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-accessible-global-history",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [],
+  "monthDays": [],
+  "quizPackFilenames": ["questions/100-l7-accessible-global-history.json"]
+}

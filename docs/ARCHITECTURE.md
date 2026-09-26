@@ -2,12 +2,13 @@
 
 ## Purpose
 
-The backend exists to serve the v0.0.1 daily history experience:
+The backend serves the daily-history experience and its Quiz v0.1.0 expansion:
 
 1. return today's curated historical events,
 2. return event details,
 3. register notification-capable devices,
 4. send one daily featured-event notification.
+5. return quiz catalog, Quick Play, and stable Daily Challenge definitions.
 
 The backend should stay small until the product proves the daily habit. It is not
 a general history platform, CMS, personalization engine, or search service for
@@ -45,7 +46,10 @@ results into HTTP responses.
 
 ## Lambda Functions
 
-v0.0.1 should use a small set of Lambda entry points.
+v0.0.1 should use a small set of Lambda entry points. Quiz endpoints are an
+additive feature already implemented in this repository and documented as a
+separate API contract. They should not complicate the core daily-history path
+or change its behavior.
 
 ### Get Today Content
 
@@ -110,7 +114,7 @@ Responsibilities:
 
 ## API Boundary
 
-The public v0.0.1 API surface should remain intentionally narrow:
+The core v0.0.1 API surface should remain intentionally narrow:
 
 ```text
 GET    /v1/days/today
@@ -122,6 +126,11 @@ GET    /v1/health
 
 Do not expose arbitrary date browsing, global search, categories, timelines, or
 event mutation APIs in v0.0.1.
+
+Quiz routes are additive and remain separately documented in
+`docs/API_CONTRACT.md`. Their presence does not expand the daily-history
+product scope or require accounts, personalization, or arbitrary history
+browsing.
 
 ## Persistence Model
 
@@ -374,3 +383,242 @@ event details
 device registration
 daily featured-event notifications
 ```
+
+## Quiz v0.1.0 Architecture
+
+Quiz is a new module within the existing modular monolith. It does not change
+the v0.0.1 content or notification package responsibilities.
+
+### Package boundaries
+
+```text
+src/main/java/com/onthisday/
+  quiz/                  quiz domain, selection services, and repositories
+  ingestion/quiz/        curated quiz JSON reading, validation, and import
+  platform/quiz/         quiz HTTP handlers and API DTOs
+```
+
+The same dependency rules continue to apply:
+
+- `com.onthisday.quiz` has no API Gateway dependencies;
+- platform DTOs do not enter the quiz domain;
+- JDBC implementations stay behind quiz repository interfaces;
+- handlers perform request parsing, response mapping, and public error mapping;
+- no framework or second deployable service is introduced.
+
+### Quiz persistence responsibilities
+
+The quiz schema should represent:
+
+- questions with stable IDs, type, prompt, difficulty, explanation, publication
+  state, and type-specific answer data;
+- options for multiple-choice, true/false, and image-identification questions;
+- ordering items for chronological-ordering questions;
+- one or more credible sources per question;
+- optional image metadata, required for published image-identification
+  questions;
+- flat collections with one constrained presentation grouping;
+- many-to-many question membership in collections;
+- one immutable 20-question Daily Challenge assignment per calendar date;
+- the stable order of questions within each daily assignment.
+
+Suggested table ownership remains within the quiz module. Exact names and
+constraints are decided in Quiz Task Q2, but the database must enforce stable
+identities, valid type-specific data, unique collection membership, and one
+daily assignment per date.
+
+### Daily Challenge generation
+
+The Daily Challenge request flow is:
+
+```text
+IANA timezone
+-> resolve local calendar date
+-> read persisted assignment for date
+-> if absent, select one ordered 20-question set from published questions
+-> atomically persist or recover the concurrently persisted assignment
+-> return the requested stable prefix
+```
+
+Generation has these invariants:
+
+- the same calendar date maps to the same assignment worldwide;
+- timezone affects date resolution only;
+- an assignment contains 20 distinct published questions;
+- generation is deterministic for a date and the eligible question-bank state;
+- a database uniqueness constraint prevents multiple assignments for one date;
+- concurrent creators either persist the same assignment or one creator wins
+  and the others reread that persisted assignment;
+- after persistence, imports and publication changes never rewrite the
+  assignment;
+- requests for 5 and 10 questions return positions 1-5 and 1-10 respectively.
+
+Daily positions 1-5, 1-10, and 1-20 are each balanced against the target for
+that question count. Generation fills those prefixes progressively, preserving
+the earlier prefix while selecting the next stage. The targets are:
+
+| Count | Multiple choice | True/false | Image | Ordering | Easy | Medium | Hard |
+| ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| 5 | 2 | 1 | 1 | 1 | 1 | 3 | 1 |
+| 10 | 5 | 2 | 2 | 1 | 3 | 5 | 2 |
+| 20 | 12 | 3 | 3 | 2 | 5 | 11 | 4 |
+
+A small quiz-specific min-cost allocator meets both margins exactly when the
+available type/difficulty matrix and an established Daily prefix permit it.
+Otherwise it deterministically minimizes combined type and difficulty
+deviation, then type deviation, then candidate rank. It always preserves the
+requested count and scope and never duplicates questions. Progressive prefix
+generation is deterministic best effort at each stage; it does not claim a
+joint global optimum across all three prefixes.
+
+The allocator expresses that priority with bounded integer costs. For `k`
+remaining selections from `N` candidates, `R = k * N + 1` bounds all rank
+costs, and `P = (target count + 3) * R` dominates all secondary costs. A
+difficulty overflow costs `P`, a type overflow costs `P + R`, and a candidate
+edge costs its zero-based supplied rank. This keeps the fallback inspectable
+and prevents rank from outweighing a smaller distribution deviation.
+
+Daily candidate rank compares the complete unsigned SHA-256 digest of the
+UTF-8 seed `on-this-day:daily-selection:v1:<ISO date>` plus question ID, with
+question ID as the final collision tie-breaker. The explicit namespace version
+makes future algorithm changes deliberate. A persisted assignment remains
+authoritative even if the bank later changes.
+
+### Quick Play generation
+
+Quick Play selects 5, 10, or 20 distinct published questions at request time.
+An omitted `collectionId` selects from the Mixed bank; a supplied collection ID
+limits candidates to that collection.
+
+The catalog computes supported counts from currently published, eligible
+questions. A request for more questions than a selection supports fails with
+`400 insufficient_quiz_questions`; it must not silently return a smaller quiz.
+
+Quick Play uses the same balance targets and allocator. Candidates are first
+ordered with one request-local `RandomGenerator`; full aggregates are loaded
+only for the selected IDs. Random selection is not reproducible or persisted in
+production, and no mutable generator is shared across Lambda requests.
+
+### Question and answer delivery
+
+The backend returns presentation data and correct answers together:
+
+- multiple-choice and image-identification questions return shuffled options
+  and `correctOptionId`;
+- true/false options remain in canonical `True`, `False` order;
+- chronological questions return shuffled items and
+  `correctOrderItemIds`;
+- every question returns its explanation, sources, difficulty, and applicable
+  timer metadata;
+- image-identification questions return full image provenance metadata.
+
+This is an intentional trusted-client design. Mobile grades locally and shows
+immediate feedback. There is no answer-submission, grading, score-history, or
+attempt endpoint.
+
+Presentation order is separate from the canonical aggregate and cannot change
+correct-answer data. Quick Play uses its request-local random generator. Daily
+uses the complete unsigned SHA-256 digest of the UTF-8 seed
+`on-this-day:daily-presentation:v1:<ISO date>:<question ID>` plus answer/item ID,
+so presentation is stable for the date. Chronological items are rotated when a
+shuffle would otherwise reproduce the correct order.
+
+### Timing ownership
+
+The backend publishes timing metadata while the mobile client runs the timers:
+
+- Daily Challenge uses a total duration of 120, 240, or 480 seconds for 5, 10,
+  or 20 questions;
+- Quick Play uses per-question defaults of 20 seconds for multiple choice and
+  true/false, 30 seconds for image identification, and 45 seconds for
+  chronological ordering;
+- mobile may disable Quick Play timing;
+- the backend does not receive timeout or completion events.
+
+### Quiz ingestion
+
+Curated quiz files should live under:
+
+```text
+content/quizzes/
+```
+
+Ingestion must validate all files before a transactional, idempotent import.
+Validation should cover stable IDs, supported enums, type-specific answer
+shapes, unique options/items, correct-answer references, required explanations
+and sources, collection references, publication requirements, and complete
+image provenance.
+
+The first content milestone is 60 reviewed questions. Six subsequent batches of
+30 expand the bank to 240. Runtime fetching, scraping, and AI generation are not
+part of the serving path.
+
+### Quiz testing boundaries
+
+Unit tests should cover validators, response mapping, timer metadata, balanced
+selection, deterministic generation, stable prefixes, and concurrent-generation
+outcomes at the service/repository boundary.
+
+Testcontainers integration tests should cover schema constraints, imports,
+catalog queries, published-question filtering, assignment immutability, and the
+database uniqueness behavior used by concurrent first requests.
+
+Ordinary `mvn test` remains Docker-free. Quiz repository integration tests run
+through the existing integration-test profile.
+
+### Quiz-specific exclusions
+
+Quiz v0.1.0 does not add:
+
+- accounts or authentication;
+- backend attempts, answer submission, grading, score history, or leaderboards;
+- a CMS, mutation API, or user-created content;
+- runtime AI;
+- a service split or framework;
+- quiz-specific deployment infrastructure.
+
+## Post-Audit Architecture Extensions
+
+These are approved design constraints for pending work, not descriptions of the
+current API.
+
+### Event-question relation
+
+Add a quiz-owned many-to-many relation between stable `question_id` and
+`event_id`, with foreign keys to the existing aggregates. Quiz ingestion
+accepts explicit related event IDs and validates that each resolves to canonical
+content. Repository candidate reads expose relation eligibility without loading
+full question aggregates.
+
+For an unassigned date, Daily generation resolves the featured and additional
+events, deterministically selects one eligible featured-related question for the
+first-five prefix when possible, optionally selects one other same-date relation
+for later positions, and delegates the remaining slots to the existing min-cost
+allocator. Related selection must not duplicate a question or make a supported
+challenge fail. Persisted assignments remain authoritative, so the algorithm is
+versioned only for future dates.
+
+### Recent-content query
+
+A recent-content service resolves the caller's local date from an IANA timezone
+and reads seven calendar dates as one bounded operation. It returns available
+curated days in date order plus enough metadata to distinguish uncovered dates.
+It does not expose unrestricted event search or arbitrary ranges.
+
+### Notification failure isolation
+
+The scheduled notification handler obtains eligible devices, groups them by
+resolved local date/timezone, and creates/sends each group independently.
+Content-unavailable is an expected skipped-group result. Repository,
+configuration, and sender failures are logged/metricized with safe categories;
+one group cannot abort later groups. Idempotency prevents routine retries from
+duplicating the same local-date notification.
+
+### Content status and image coverage
+
+Editorial status remains a build/import concern rather than a serving-table
+state. A status command reads ledgers and canonical files, optionally queries a
+target database, and emits deterministic counts and content fingerprints. It
+reports unapproved drafts, canonical records lacking approval, database drift,
+related-event coverage, distractor/answer-position review, and featured-image
+review outcomes. It never promotes or imports content.

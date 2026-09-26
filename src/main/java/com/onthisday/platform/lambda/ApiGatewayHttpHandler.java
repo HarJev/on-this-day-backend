@@ -11,6 +11,8 @@ import com.onthisday.notifications.DeviceRegistrationRepository;
 import com.onthisday.platform.http.ApiRoutes;
 import com.onthisday.platform.http.ErrorResponseWriter;
 import com.onthisday.platform.http.HttpRouter;
+import com.onthisday.platform.http.JsonMapperFactory;
+import com.onthisday.platform.quiz.QuizApiServices;
 import com.onthisday.platform.runtime.RuntimeApiComposition;
 import java.time.Clock;
 import org.slf4j.Logger;
@@ -20,7 +22,7 @@ public final class ApiGatewayHttpHandler
     implements RequestHandler<APIGatewayV2HTTPEvent, APIGatewayV2HTTPResponse> {
 
   private static final Logger LOG = LoggerFactory.getLogger(ApiGatewayHttpHandler.class);
-  private static final ObjectMapper OBJECT_MAPPER = new ObjectMapper();
+  private static final ObjectMapper OBJECT_MAPPER = JsonMapperFactory.create();
 
   private final ApiGatewayHttpRequestAdapter requestAdapter;
   private final ApiGatewayHttpResponseAdapter responseAdapter;
@@ -38,6 +40,21 @@ public final class ApiGatewayHttpHandler
       Clock clock) {
     this(ApiRoutes.create(
         todayContentRepository, historicalEventRepository, deviceRegistrationRepository, clock));
+  }
+
+  public ApiGatewayHttpHandler(
+      TodayContentRepository todayContentRepository,
+      HistoricalEventRepository historicalEventRepository,
+      DeviceRegistrationRepository deviceRegistrationRepository,
+      Clock clock,
+      QuizApiServices quizApiServices) {
+    this(
+        ApiRoutes.create(
+            todayContentRepository,
+            historicalEventRepository,
+            deviceRegistrationRepository,
+            clock,
+            quizApiServices));
   }
 
   ApiGatewayHttpHandler(HttpRouter router) {

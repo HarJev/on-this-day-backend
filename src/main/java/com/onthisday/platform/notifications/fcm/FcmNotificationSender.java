@@ -21,6 +21,8 @@ public final class FcmNotificationSender implements NotificationSender {
 
   private static final Logger LOG = LoggerFactory.getLogger(FcmNotificationSender.class);
   private static final Pattern PROJECT_ID = Pattern.compile("[A-Za-z0-9._-]+");
+  private static final Duration CONNECT_TIMEOUT = Duration.ofSeconds(10);
+  private static final Duration REQUEST_TIMEOUT = Duration.ofSeconds(20);
 
   private final HttpClient httpClient;
   private final FcmAccessTokenProvider accessTokenProvider;
@@ -31,7 +33,7 @@ public final class FcmNotificationSender implements NotificationSender {
   public FcmNotificationSender(
       String projectId, FcmAccessTokenProvider accessTokenProvider, ObjectMapper objectMapper) {
     this(
-        HttpClient.newBuilder().connectTimeout(Duration.ofSeconds(10)).build(),
+        HttpClient.newBuilder().connectTimeout(CONNECT_TIMEOUT).build(),
         projectId,
         accessTokenProvider,
         objectMapper);
@@ -60,14 +62,14 @@ public final class FcmNotificationSender implements NotificationSender {
     try {
       var request =
           HttpRequest.newBuilder(sendUri)
-              .timeout(Duration.ofSeconds(20))
+              .timeout(REQUEST_TIMEOUT)
               .header("Authorization", "Bearer " + accessTokenProvider.getAccessToken())
               .header("Content-Type", "application/json; charset=UTF-8")
               .POST(HttpRequest.BodyPublishers.ofString(messageWriter.write(recipientToken, message)))
               .build();
       var response = httpClient.send(request, HttpResponse.BodyHandlers.ofString());
       if (response.statusCode() >= 200 && response.statusCode() < 300) {
-        LOG.info("fcm_send_end status=success durationMs={}", durationMs(startedAt));
+        LOG.debug("fcm_send_end status=success durationMs={}", durationMs(startedAt));
         return NotificationDeliveryResult.success();
       }
 

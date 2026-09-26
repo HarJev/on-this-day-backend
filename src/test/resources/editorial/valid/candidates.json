@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "batchId": "fixture-batch",
+  "candidates": [
+    {
+      "candidateId": "fixture-candidate",
+      "kind": "event",
+      "proposedCanonicalId": "fixture-event-1900",
+      "workingClaim": "A test-only working claim.",
+      "sourceUrls": ["https://example.com/fixture-source"]
+    }
+  ]
+}

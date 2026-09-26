@@ -67,12 +67,12 @@ public class JdbcHistoricalEventRepository implements HistoricalEventRepository 
     requireNonBlank(eventId, "eventId");
 
     var startedAt = System.nanoTime();
-    LOG.info("db_query_start operation=getEvent eventId={}", eventId);
-    LOG.info("db_connection_start operation=getEvent eventId={}", eventId);
+    LOG.debug("db_query_start operation=getEvent eventId={}", eventId);
+    LOG.debug("db_connection_start operation=getEvent eventId={}", eventId);
     var connectionStartedAt = System.nanoTime();
     try (var connection = dataSource.getConnection()) {
       var connectionDurationMs = (System.nanoTime() - connectionStartedAt) / 1_000_000;
-      LOG.info(
+      LOG.debug(
           "db_connection_acquired operation=getEvent eventId={} durationMs={}",
           eventId,
           connectionDurationMs);
@@ -109,7 +109,7 @@ public class JdbcHistoricalEventRepository implements HistoricalEventRepository 
               eventImages,
               event.dateNote());
       var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
-      LOG.info(
+      LOG.debug(
           "db_query_end operation=getEvent eventId={} sourceCount={} imageCount={} durationMs={}",
           eventId,
           sources.size(),

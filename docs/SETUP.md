@@ -13,6 +13,9 @@ GET /v1/days/today?timezone=Area/Location
 GET /v1/events/{eventId}
 POST /v1/devices
 DELETE /v1/devices/{token}
+GET /v1/quizzes/catalog
+POST /v1/quizzes/quick-play
+GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
 
 It does not yet have scheduled notification delivery, Terraform/deployment
@@ -166,6 +169,9 @@ needed.
 
 ## Curated Content Import
 
+For the reviewed editorial workflow, batch preflight, coverage reports, and an
+operator-safe import sequence, see [CONTENT_IMPORT_GUIDE.md](CONTENT_IMPORT_GUIDE.md).
+
 Curated content files live in:
 
 ```text
@@ -262,6 +268,13 @@ sam local start-api \
 the Postman/mobile loop much closer to warm Lambda behavior. Plain
 `sam local start-api` creates fresh containers by default and can be slow enough
 to obscure backend issues during demos.
+
+## Quiz Local Expectation
+
+Quiz HTTP routes use the same local SAM/API Gateway path as the existing
+endpoints. Import the reviewed content under `content/quizzes/` before calling
+Quick Play or Daily Challenge. The imported bank contains 60 published
+questions; its review record is `docs/QUIZ_CONTENT_REVIEW.md`.
 
 For verbose SAM runtime diagnostics, start with:
 
@@ -436,3 +449,62 @@ Missing send credentials fail with `ConfigurationException`. FCM permanent
 token failures are separated from transient/configuration failures; only a
 permanently invalid token is removed. No EventBridge schedule or AWS deployment
 is created by this command.
+
+## Quiz v0.1.0 Local Content Tooling
+
+Quiz v0.1.0 has schema, domain, validation, import tooling, selection services,
+HTTP routes, and an initial reviewed 60-question bank.
+
+The curated quiz-content root is:
+
+```text
+content/quizzes/
+```
+
+It contains `collections.json` and a `questions/` directory with six regular
+`*.json` question packs. The reader continues to accept a missing or empty
+question directory for tests and tooling, with a no-published-questions warning.
+
+After starting Postgres and running Flyway migrations, import quiz content with:
+
+```bash
+mvn exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+To import from another directory:
+
+```bash
+mvn exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day /path/to/content/quizzes"
+```
+
+The historical-event importer remains:
+
+```bash
+mvn exec:java \
+  -Dexec.args="jdbc:postgresql://localhost:5432/on_this_day on_this_day on_this_day"
+```
+
+Warnings are printed and do not fail the import. Validation errors, malformed
+JSON, unknown JSON properties, missing migrations, or database constraint
+failures fail the command. The database password is accepted only as a command
+argument and is not printed by the command.
+
+Quiz endpoints are documented in `docs/API_CONTRACT.md` and are locally callable
+through SAM after migration and both content imports.
+
+## Pending Post-Audit Capabilities
+
+The following are approved work but are not current API/runtime claims:
+
+- explicit event-question relationships and date-linked Daily selection;
+- a timezone-aware seven-day recent-content endpoint;
+- scheduled notification delivery with per-timezone failure isolation;
+- a read-only editorial/canonical/database status and fingerprint command;
+- featured-image review coverage and stricter distractor/answer-position reports.
+
+Do not invent endpoint paths or operational commands before their implementation
+tasks update `docs/API_CONTRACT.md` and this setup guide.
