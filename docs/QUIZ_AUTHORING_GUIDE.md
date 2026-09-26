@@ -170,11 +170,14 @@ portraits held by reputable collections, sculptures only when the prompt names
 the medium, and globally varied figures. Match distractors by era, region, or
 role so the answer is not obvious from visual demographics alone.
 
-Before publication, retain the direct rendition URL and source page, verify
-the creator and license, and review the exact bytes. The current offline image
-gate accepts JPEG or PNG renditions up to 8 MiB and 1024 pixels on the longest
-edge. Follow `content/media/README.md` and `docs/OWNED_IMAGE_DELIVERY.md`; do not
-invent checksums or claim an owned URL before infrastructure is approved.
+Before publication, retain a direct rendition URL that returns an image without
+a redirect, plus its source page; verify the creator and license; and review the
+exact bytes. The offline owned-image gate accepts JPEG or PNG renditions up to
+8 MiB and 1024 pixels on the longest edge. Before release, run the separate
+`QuizImageLivenessAuditCommand` against canonical content; it checks remote
+HTTP delivery without adding network work to imports or ordinary tests. Follow
+`content/media/README.md` and `docs/OWNED_IMAGE_DELIVERY.md`; do not invent
+checksums or claim an owned URL before infrastructure is approved.
 
 ## Chronological Ordering
 

@@ -687,14 +687,14 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://cdn.loc.gov/service/pnp/det/4a20000/4a26000/4a26500/4a26549v.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/George_Washington%2C_1795_by_Gilbert_Stuart.jpg",
         "altText": "A painted head-and-shoulders view of a man in eighteenth-century clothing.",
-        "source": "Library of Congress",
-        "sourceUrl": "https://www.loc.gov/item/2016817403/",
-        "attribution": "George Washington, head-and-shoulders portrait, after Gilbert Stuart; Library of Congress, Prints and Photographs Division, LC-DIG-det-4a26549.",
+        "source": "Wikimedia Commons and The Metropolitan Museum of Art",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Washington,_1795_by_Gilbert_Stuart.jpg",
+        "attribution": "George Washington, Gilbert Stuart, 1795; The Metropolitan Museum of Art, 07.160; public-domain rendition via Wikimedia Commons.",
         "creator": "Gilbert Stuart",
-        "license": "No known restrictions on publication",
-        "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
       },
       "options": [
         {
@@ -718,8 +718,8 @@
       "explanation": "The portrait derives from Gilbert Stuart's image of George Washington, the first president of the United States.",
       "sources": [
         {
-          "displayName": "Library of Congress - George Washington portrait",
-          "url": "https://www.loc.gov/item/2016817403/"
+          "displayName": "The Metropolitan Museum of Art - George Washington",
+          "url": "https://www.metmuseum.org/art/collection/search/16584"
         }
       ],
       "collectionIds": [
@@ -733,11 +733,11 @@
       "publicationState": "published",
       "prompt": "Which scientist is shown in this photograph?",
       "image": {
-        "url": "https://cdn.loc.gov/service/pnp/ggbain/07600/07682v.jpg",
-        "altText": "A black-and-white head-and-shoulders photograph of a woman in formal early twentieth-century clothing.",
+        "url": "https://tile.loc.gov/image-services/iiif/service:pnp:ggbain:07600:07682v/110,70,560,880/full/0/default.jpg",
+        "altText": "A black-and-white three-quarter-length photograph of a woman in a dark high-necked dress, standing beside a table and holding a long neck chain.",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/item/2014687674/",
-        "attribution": "Mme. Marie Curie, Bain News Service; Library of Congress, Prints and Photographs Division, LC-DIG-ggbain-07682.",
+        "attribution": "Bain News Service photograph; Library of Congress, Prints and Photographs Division, LC-DIG-ggbain-07682; cropped from the digitized glass negative to exclude its caption.",
         "creator": "Bain News Service",
         "license": "No known restrictions on publication",
         "licenseUrl": "https://www.loc.gov/rr/print/res/274_bain.html"
@@ -779,14 +779,14 @@
       "publicationState": "published",
       "prompt": "Which playwright is shown in this portrait?",
       "image": {
-        "url": "https://images.metmuseum.org/CRDImages/dp/web-large/DP858195.jpg",
-        "altText": "An engraved head-and-shoulders view of a man with a high forehead, moustache, and small pointed beard.",
-        "source": "The Metropolitan Museum of Art",
-        "sourceUrl": "https://www.metmuseum.org/art/collection/search/708351",
-        "attribution": "William Shakespeare, Charles Picart, 1827, The Metropolitan Museum of Art, 17.3.756-2421.",
-        "creator": "Charles Picart",
-        "license": "Public Domain",
-        "licenseUrl": "https://www.metmuseum.org/about-the-met/policies-and-documents/open-access"
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/William_Shakespeare_Chandos_Portrait.jpg",
+        "altText": "Dark-toned painted head-and-shoulders portrait of a man with a moustache and small pointed beard.",
+        "source": "Wikimedia Commons and the National Portrait Gallery",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_Chandos_Portrait.jpg",
+        "attribution": "The Chandos portrait, attributed to John Taylor, before 1616; National Portrait Gallery, London, NPG 1; public-domain rendition via Wikimedia Commons.",
+        "creator": "Attributed to John Taylor",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
       },
       "options": [
         {
@@ -807,11 +807,11 @@
         }
       ],
       "correctOptionId": "shakespeare",
-      "explanation": "Charles Picart's 1827 engraving is based on the accepted Droeshout image associated with William Shakespeare.",
+      "explanation": "The Chandos portrait is traditionally identified as William Shakespeare and is held by the National Portrait Gallery, London.",
       "sources": [
         {
-          "displayName": "The Metropolitan Museum of Art - William Shakespeare",
-          "url": "https://www.metmuseum.org/art/collection/search/708351"
+          "displayName": "National Portrait Gallery - The Chandos Portrait",
+          "url": "https://www.npg.org.uk/collections/search/portrait/mw11574/William-Shakespeare"
         }
       ],
       "collectionIds": [
@@ -871,11 +871,11 @@
       "publicationState": "published",
       "prompt": "Which queen is shown in this portrait?",
       "image": {
-        "url": "https://cdn.loc.gov/service/pnp/cph/3b00000/3b07000/3b07500/3b07514r.jpg",
-        "altText": "A seated woman in formal nineteenth-century clothing.",
+        "url": "https://tile.loc.gov/image-services/iiif/master:pnp:cph:3a30000:3a39000:3a39200:3a39242u/76,76,1064,1140/800,/0/default.jpg",
+        "altText": "A black-and-white head-and-shoulders photograph of an older woman with curled gray hair, wearing a dark dress with a pale lace jabot, seated in a wicker chair.",
         "source": "Library of Congress",
-        "sourceUrl": "https://www.loc.gov/pictures/item/2004679211/",
-        "attribution": "Liliuokalani, Queen of Hawaii; photograph by Benine; Library of Congress, Prints and Photographs Division.",
+        "sourceUrl": "https://www.loc.gov/pictures/item/2016651074/",
+        "attribution": "Head-and-shoulders portrait, 1917; photograph credited to Benine; Library of Congress, Prints and Photographs Division, cph.3a39242; cropped from the digitized print.",
         "creator": "Benine",
         "license": "No known restrictions on publication",
         "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"
@@ -903,7 +903,7 @@
       "sources": [
         {
           "displayName": "Library of Congress - Liliuokalani",
-          "url": "https://www.loc.gov/pictures/item/2004679211/"
+          "url": "https://www.loc.gov/pictures/item/2016651074/"
         }
       ],
       "collectionIds": [
