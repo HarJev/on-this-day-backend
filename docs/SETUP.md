@@ -501,16 +501,24 @@ through SAM after migration and both content imports.
 Run this explicit network gate before a release or mobile first-fetch check. It
 does not run during JSON parsing, imports, or ordinary unit tests:
 
+Use Java 21 (`JAVA_HOME` pointing at a 21 JDK; the Maven enforcer rejects other
+versions). The report is written to the Git-ignored `target/` directory:
+
 ```bash
-mvn -q exec:java \
+mkdir -p target
+mvn -q compile exec:java \
   -Dexec.mainClass=com.onthisday.ingestion.media.QuizImageLivenessAuditCommand \
-  -Dexec.args="content/quizzes" > build/quiz-image-liveness-report.json
+  -Dexec.args="content/quizzes" > target/quiz-image-liveness-report.json
 ```
 
-The command makes bounded concurrent HTTPS requests with the repository
-identifying itself as `OnThisDayImageAudit`. It fails on redirects, non-200
-responses, non-image content, timeouts, unreachable hosts, or streamed assets
-larger than 8 MiB. Review the JSON report before release; source-page
+The command validates canonical content first, then makes bounded concurrent
+HTTPS requests identifying itself as `OnThisDayImageAudit`. Each image has one
+15-second deadline covering headers and the streamed body (matching the mobile
+per-image ceiling). It fails on redirects, non-200 responses, content types
+other than `image/jpeg` or `image/png`, bodies whose leading bytes do not match
+the declared type, timeouts, unreachable hosts, or streamed assets larger than
+8 MiB. It exits `0` when every image passes, `1` when any fails, and `2` when
+content is invalid. Review the JSON report before release; source-page
 reachability is editorial review, not this rendition-delivery gate.
 
 ## Pending Post-Audit Capabilities
