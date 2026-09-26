@@ -23,7 +23,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "Which independent country emerged from the Haitian Revolution?",
+      "prompt": "Which country declared independence after the revolution in Saint-Domingue?",
       "options": [
         {"id": "haiti", "text": "Haiti"},
         {"id": "jamaica", "text": "Jamaica"},

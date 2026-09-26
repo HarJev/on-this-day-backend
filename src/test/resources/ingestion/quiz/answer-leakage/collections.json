@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "collections": [
+    {
+      "id": "science-and-innovation",
+      "name": "Science & Innovation",
+      "group": "topic"
+    }
+  ]
+}

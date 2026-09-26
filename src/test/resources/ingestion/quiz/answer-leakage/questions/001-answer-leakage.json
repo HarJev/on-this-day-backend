@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "leaking-image-question",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Is Ada-Lovelace shown in this portrait?",
+      "options": [
+        {"id": "ada-lovelace", "text": "Ada Lovelace"},
+        {"id": "mary-somerville", "text": "Mary Somerville"},
+        {"id": "grace-hopper", "text": "Grace Hopper"},
+        {"id": "katherine-johnson", "text": "Katherine Johnson"}
+      ],
+      "correctOptionId": "ada-lovelace",
+      "explanation": "This fixture intentionally contains answer leakage.",
+      "sources": [
+        {
+          "displayName": "Example institutional record",
+          "url": "https://example.edu/ada"
+        }
+      ],
+      "image": {
+        "url": "https://images.example.edu/ada.jpg",
+        "altText": "Portrait labelled Ada Lovelace.",
+        "source": "Example University Archives",
+        "sourceUrl": "https://archives.example.edu/ada",
+        "attribution": "Example University Archives, item 1.",
+        "creator": "Example Studio",
+        "license": "Public Domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "collectionIds": ["science-and-innovation"]
+    }
+  ]
+}

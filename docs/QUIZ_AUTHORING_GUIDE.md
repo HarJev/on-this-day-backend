@@ -92,6 +92,10 @@ technical, famous, or grammatically compatible. The correct answer is identified
 by `correctOptionId`; vary its authored position across the pack even though the
 playable API shuffles options. True/false is the deliberate exception.
 
+The validator rejects a prompt or image alt text that repeats the complete correct
+choice after case and punctuation normalization. This is a narrow mechanical guard;
+human review still catches subtler answer hints.
+
 ## True Or False
 
 True/false always has the two canonical options below, in this order. Do not

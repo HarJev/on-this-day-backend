@@ -6,26 +6,26 @@
       "type": "multiple_choice",
       "difficulty": "easy",
       "publicationState": "published",
-      "prompt": "What was the Code of Hammurabi?",
+      "prompt": "The stele associated with Hammurabi records hundreds of what?",
       "options": [
         {
-          "id": "written-laws-and-penalties",
-          "text": "A written collection of laws and penalties"
+          "id": "legal-judgements",
+          "text": "Legal judgements and penalties"
         },
         {
-          "id": "royal-family-history",
-          "text": "A history of a royal family"
+          "id": "royal-genealogies",
+          "text": "Royal genealogies and succession rules"
         },
         {
-          "id": "religious-hymn-collection",
-          "text": "A collection of religious hymns"
+          "id": "religious-hymns",
+          "text": "Religious hymns and rituals"
         },
         {
-          "id": "merchant-trade-agreement",
-          "text": "A trade agreement for merchants"
+          "id": "merchant-accounts",
+          "text": "Merchant accounts and tax records"
         }
       ],
-      "correctOptionId": "written-laws-and-penalties",
+      "correctOptionId": "legal-judgements",
       "explanation": "The stele known as the Code of Hammurabi records laws and penalties from ancient Babylon, alongside a royal inscription presenting Hammurabi as a ruler concerned with justice.",
       "sources": [
         {
@@ -301,26 +301,26 @@
       "type": "multiple_choice",
       "difficulty": "easy",
       "publicationState": "published",
-      "prompt": "What did the Slavery Abolition Act 1833 primarily do?",
+      "prompt": "In most British colonies, which institution did the 1833 act seek to end?",
       "options": [
         {
-          "id": "abolished-slavery-most-british-empire",
-          "text": "Abolished slavery through most of the British Empire"
+          "id": "legal-slavery",
+          "text": "Legal slavery"
         },
         {
-          "id": "ended-serfdom-in-russia",
-          "text": "Ended serfdom in Russia"
+          "id": "serfdom",
+          "text": "Serfdom"
         },
         {
-          "id": "created-united-nations",
-          "text": "Created the United Nations"
+          "id": "debt-peonage",
+          "text": "Debt peonage"
         },
         {
-          "id": "granted-votes-to-women",
-          "text": "Granted votes to women"
+          "id": "compulsory-military-service",
+          "text": "Compulsory military service"
         }
       ],
-      "correctOptionId": "abolished-slavery-most-british-empire",
+      "correctOptionId": "legal-slavery",
       "explanation": "The 1833 act abolished slavery in most British colonies, although its apprenticeship system delayed full freedom for many formerly enslaved people.",
       "sources": [
         {
@@ -557,26 +557,26 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "OPEC was founded to coordinate policies among which countries?",
+      "prompt": "Which shared economic interest linked OPEC's founding members?",
       "options": [
         {
-          "id": "petroleum-exporting-countries",
-          "text": "Petroleum-exporting countries"
+          "id": "petroleum-market-coordination",
+          "text": "Producing and exporting petroleum"
         },
         {
-          "id": "major-oil-consuming-countries",
-          "text": "Major oil-consuming countries"
+          "id": "petroleum-imports",
+          "text": "Importing petroleum for domestic use"
         },
         {
-          "id": "international-shipping-nations",
-          "text": "International shipping nations"
+          "id": "shipping-routes",
+          "text": "Operating international shipping routes"
         },
         {
-          "id": "mineral-exporting-countries",
-          "text": "Mineral-exporting countries"
+          "id": "mineral-exports",
+          "text": "Exporting a broad range of minerals"
         }
       ],
-      "correctOptionId": "petroleum-exporting-countries",
+      "correctOptionId": "petroleum-market-coordination",
       "explanation": "OPEC is an intergovernmental organization whose mission includes coordinating and unifying petroleum policies among its member countries.",
       "sources": [
         {
@@ -593,26 +593,26 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "What was the central aim of the Human Genome Project?",
+      "prompt": "What did the project provide as a foundational resource for biological research?",
       "options": [
         {
-          "id": "map-and-sequence-human-genome",
-          "text": "Map and sequence the human genome"
+          "id": "human-dna-reference-sequence",
+          "text": "A reference sequence of human DNA"
         },
         {
-          "id": "standardize-medical-records",
-          "text": "Standardize medical records worldwide"
+          "id": "global-medical-records",
+          "text": "A global standard for medical records"
         },
         {
-          "id": "develop-universal-genetic-treatment",
-          "text": "Develop a universal genetic treatment"
+          "id": "universal-gene-therapy",
+          "text": "A universal genetic treatment"
         },
         {
-          "id": "catalog-all-species-genomes",
-          "text": "Catalog the genomes of all species"
+          "id": "all-species-genomes",
+          "text": "A catalogue of every species' DNA"
         }
       ],
-      "correctOptionId": "map-and-sequence-human-genome",
+      "correctOptionId": "human-dna-reference-sequence",
       "explanation": "The Human Genome Project was an international effort to determine the sequence of human DNA and identify and map human genes.",
       "sources": [
         {
@@ -1162,8 +1162,8 @@
           "text": "The Motherland Calls"
         },
         {
-          "id": "winged-victory-samothrace",
-          "text": "Winged Victory of Samothrace"
+          "id": "angel-of-the-north",
+          "text": "Angel of the North"
         }
       ],
       "correctOptionId": "statue-of-liberty",

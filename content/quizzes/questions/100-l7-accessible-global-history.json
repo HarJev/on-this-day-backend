@@ -6,7 +6,7 @@
       "type": "multiple_choice",
       "difficulty": "easy",
       "publicationState": "published",
-      "prompt": "Dholavira's reservoirs and channels were built primarily to manage what scarce resource?",
+      "prompt": "What did Dholavira's planners collect from seasonal streams for use in the city?",
       "options": [
         {
           "id": "water",
@@ -886,8 +886,8 @@
           "text": "Queen Liliʻuokalani"
         },
         {
-          "id": "victoria",
-          "text": "Queen Victoria"
+          "id": "salote",
+          "text": "Queen Salote Tupou III"
         },
         {
           "id": "kapiolani",
@@ -940,8 +940,8 @@
           "text": "Eleanor of Aquitaine"
         },
         {
-          "id": "victoria",
-          "text": "Queen Victoria"
+          "id": "isabella",
+          "text": "Isabella I of Castile"
         }
       ],
       "correctOptionId": "joan",

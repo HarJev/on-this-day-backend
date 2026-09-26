@@ -110,6 +110,17 @@ class QuizContentValidatorTest {
   }
 
   @Test
+  void rejectsNormalizedCorrectAnswerLeakageInPromptsAndImageAltText() {
+    var result = validator.validate(reader.read(Path.of("src/test/resources/ingestion/quiz/answer-leakage")));
+
+    assertFalse(result.valid());
+    assertContainsError(
+        result, "questions/001-answer-leakage.json:$.questions[0].prompt", "prompt must not repeat the correct answer");
+    assertContainsError(
+        result, "questions/001-answer-leakage.json:$.questions[0].image.altText", "image altText must not repeat the correct answer");
+  }
+
+  @Test
   void acceptsACompleteProviderNeutralInstitutionalImage() {
     var result = validator.validate(reader.read(Path.of("src/test/resources/ingestion/quiz/institutional-image")));
 
