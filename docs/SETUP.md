@@ -496,6 +496,23 @@ argument and is not printed by the command.
 Quiz endpoints are documented in `docs/API_CONTRACT.md` and are locally callable
 through SAM after migration and both content imports.
 
+### Pre-release Quiz Image Liveness Audit
+
+Run this explicit network gate before a release or mobile first-fetch check. It
+does not run during JSON parsing, imports, or ordinary unit tests:
+
+```bash
+mvn -q exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.media.QuizImageLivenessAuditCommand \
+  -Dexec.args="content/quizzes" > build/quiz-image-liveness-report.json
+```
+
+The command makes bounded concurrent HTTPS requests with the repository
+identifying itself as `OnThisDayImageAudit`. It fails on redirects, non-200
+responses, non-image content, timeouts, unreachable hosts, or streamed assets
+larger than 8 MiB. Review the JSON report before release; source-page
+reachability is editorial review, not this rendition-delivery gate.
+
 ## Pending Post-Audit Capabilities
 
 The following are approved work but are not current API/runtime claims:

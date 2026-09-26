@@ -906,7 +906,7 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://cdn.loc.gov/service/pnp/ppmsca/19200/19211v.jpg",
+        "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/19200/19211v.jpg",
         "altText": "Black-and-white seated portrait of a bearded man in a dark suit",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/pictures/item/2008680391/",
@@ -999,7 +999,7 @@
       "publicationState": "published",
       "prompt": "Which scientist is shown in this portrait?",
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Darwin_portrait.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Charles_Darwin_portrait.jpg",
         "altText": "Black-and-white head-and-shoulders portrait of an elderly bearded man in a dark coat",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg",
@@ -1045,7 +1045,7 @@
       "publicationState": "published",
       "prompt": "Which political leader is shown in this portrait?",
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun_Yat_Sen_portrait_2.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sun_Yat_Sen_portrait_2.jpg",
         "altText": "Black-and-white formal portrait of a man in a dark high-collared jacket",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg",
@@ -1092,7 +1092,7 @@
       "publicationState": "published",
       "prompt": "Which writer and reformer is shown in this portrait?",
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Jos%C3%A9_Rizal_(1891).jpg?width=737",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Portrait_of_Jos%C3%A9_Rizal_%281891%29.jpg/960px-Portrait_of_Jos%C3%A9_Rizal_%281891%29.jpg",
         "altText": "Nineteenth-century painted portrait of a man in a dark formal jacket",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jos%C3%A9_Rizal_(1891).jpg",
@@ -1139,7 +1139,7 @@
       "publicationState": "published",
       "prompt": "Which monument is shown?",
       "image": {
-        "url": "https://commons.wikimedia.org/wiki/Special:FilePath/Statueofliberty_nps.jpg?width=683",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Statueofliberty_nps.jpg/960px-Statueofliberty_nps.jpg",
         "altText": "Large robed statue holding a raised torch on an island beside a harbor",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statueofliberty_nps.jpg",
