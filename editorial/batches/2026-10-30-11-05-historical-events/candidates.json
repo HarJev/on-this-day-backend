@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-30-11-05-historical-events",
+  "candidates": [
+    {
+      "candidateId": "oct-30-war-of-the-worlds",
+      "kind": "event",
+      "proposedCanonicalId": "war-of-the-worlds-broadcast-1938",
+      "workingClaim": "October 30, 1938: On October 30, 1938, Orson Welles and his Mercury Theatre on the Air broadcast an adaptation of H.G. Wells's The War of the Worlds as a simulated news bulletin about Martians invading New Jersey. Although it was announced as a dramatization, some listeners who tuned in late took it for real news.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
+      ]
+    },
+    {
+      "candidateId": "oct-30-rumble",
+      "kind": "event",
+      "proposedCanonicalId": "rumble-in-the-jungle-1974",
+      "workingClaim": "October 30, 1974: On October 30, 1974, in Kinshasa, Zaire, Muhammad Ali knocked out heavyweight champion George Foreman in the eighth round to reclaim the world heavyweight title, after using the tactic later dubbed 'rope-a-dope'.",
+      "sourceUrls": [
+        "https://www.britannica.com/sports/Rumble-in-the-Jungle"
+      ]
+    },
+    {
+      "candidateId": "oct-30-october-manifesto",
+      "kind": "event",
+      "proposedCanonicalId": "october-manifesto-1905",
+      "workingClaim": "October 30, 1905: On October 30, 1905 (October 17 in Russia's Julian calendar), Tsar Nicholas II, on the advice of Sergey Witte, issued the October Manifesto, promising a constitution and an elected legislature, the Duma.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/October-Manifesto"
+      ]
+    },
+    {
+      "candidateId": "oct-30-mudros",
+      "kind": "event",
+      "proposedCanonicalId": "armistice-of-mudros-1918",
+      "workingClaim": "October 30, 1918: On October 30, 1918, the Ottoman Empire and Great Britain, representing the Allied powers, signed an armistice at the port of Mudros on the Aegean island of Lemnos, marking the Ottoman defeat in World War I.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Armistice-of-Mudros"
+      ]
+    },
+    {
+      "candidateId": "oct-31-95-theses",
+      "kind": "event",
+      "proposedCanonicalId": "luther-ninety-five-theses-1517",
+      "workingClaim": "October 31, 1517: According to tradition, on October 31, 1517, Martin Luther posted his Ninety-five Theses on the door of the Castle Church in Wittenberg. The theses came to be seen as the beginning of the Protestant Reformation, and October 31 is marked as Reformation Day.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Ninety-five-Theses"
+      ]
+    },
+    {
+      "candidateId": "oct-31-nevada",
+      "kind": "event",
+      "proposedCanonicalId": "nevada-statehood-1864",
+      "workingClaim": "October 31, 1864: On October 31, 1864, during the American Civil War, Nevada became the 36th state in the Union. Its nickname, the Battle Born State, reflects that wartime admission.",
+      "sourceUrls": [
+        "https://nsla.nv.gov/blog/nevada-in-the-civil-war"
+      ]
+    },
+    {
+      "candidateId": "oct-31-seven-billion",
+      "kind": "event",
+      "proposedCanonicalId": "world-population-seven-billion-2011",
+      "workingClaim": "October 31, 2011: October 31, 2011, was the date on which the United Nations projected that world population would reach 7 billion, based on its official World Population Prospects.",
+      "sourceUrls": [
+        "https://www.unfpa.org/press/world-population-reach-7-billion-31-october"
+      ]
+    },
+    {
+      "candidateId": "oct-31-indira-gandhi",
+      "kind": "event",
+      "proposedCanonicalId": "indira-gandhi-assassinated-1984",
+      "workingClaim": "October 31, 1984: On October 31, 1984, Indira Gandhi, India's first female prime minister, was assassinated in New Delhi during her fourth term in office.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Indira-Gandhi"
+      ]
+    },
+    {
+      "candidateId": "nov-01-maastricht",
+      "kind": "event",
+      "proposedCanonicalId": "maastricht-treaty-in-force-1993",
+      "workingClaim": "November 1, 1993: On November 1, 1993, the Maastricht Treaty entered into force, creating the European Union. The treaty had been signed on February 7, 1992, and ratified by all member states of the European Community.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Maastricht-Treaty"
+      ]
+    },
+    {
+      "candidateId": "nov-01-lisbon-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "lisbon-earthquake-1755",
+      "workingClaim": "November 1, 1755: On the morning of November 1, 1755, a series of earthquakes caused serious damage to Lisbon. Because it was All Saints' Day, many people were at mass when churches collapsed.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Lisbon-earthquake-of-1755"
+      ]
+    },
+    {
+      "candidateId": "nov-01-gavotti",
+      "kind": "event",
+      "proposedCanonicalId": "first-aerial-bombardment-1911",
+      "workingClaim": "November 1, 1911: On November 1, 1911, during the Italian-Ottoman war in Libya, Second Lieutenant Giulio Gavotti carried out the first aerial bombardment from an Etrich Taube aircraft.",
+      "sourceUrls": [
+        "https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-warplane-115175678/"
+      ]
+    },
+    {
+      "candidateId": "nov-01-antigua",
+      "kind": "event",
+      "proposedCanonicalId": "antigua-barbuda-independence-1981",
+      "workingClaim": "November 1, 1981: On November 1, 1981, Antigua and Barbuda became an independent state within the Commonwealth of Nations, with Vere Cornwall Bird as its first prime minister.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/antigua-barbuda"
+      ]
+    },
+    {
+      "candidateId": "nov-02-iss-expedition-1",
+      "kind": "event",
+      "proposedCanonicalId": "first-iss-crew-arrives-2000",
+      "workingClaim": "November 2, 2000: On November 2, 2000, the Expedition 1 crew of American astronaut William Shepherd and Russian cosmonauts Yuri Gidzenko and Sergei Krikalev arrived at the International Space Station, becoming the first people to live aboard it.",
+      "sourceUrls": [
+        "https://www.nasa.gov/image-article/celebrating-20-years-station-expedition-1/",
+        "https://www.nasa.gov/mission/expedition-1/"
+      ]
+    },
+    {
+      "candidateId": "nov-02-balfour",
+      "kind": "event",
+      "proposedCanonicalId": "balfour-declaration-1917",
+      "workingClaim": "November 2, 1917: On November 2, 1917, British Foreign Secretary Arthur James Balfour wrote to Lionel Walter Rothschild, a leader of the Anglo-Jewish community, stating British support for a national home for the Jewish people in Palestine.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Balfour-Declaration"
+      ]
+    },
+    {
+      "candidateId": "nov-02-haile-selassie",
+      "kind": "event",
+      "proposedCanonicalId": "haile-selassie-crowned-1930",
+      "workingClaim": "November 2, 1930: On November 2, 1930, following the death of Empress Zauditu, Ras Tafari was crowned emperor of Ethiopia and took the name Haile Selassie, meaning 'Might of the Trinity'.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Haile-Selassie-I"
+      ]
+    },
+    {
+      "candidateId": "nov-02-bbc-tv",
+      "kind": "event",
+      "proposedCanonicalId": "bbc-television-service-launches-1936",
+      "workingClaim": "November 2, 1936: On November 2, 1936, the BBC launched the world's first regular high-definition television service from studios at Alexandra Palace in London.",
+      "sourceUrls": [
+        "https://www.alexandrapalace.com/our-history/bbc-at-the-palace/"
+      ]
+    },
+    {
+      "candidateId": "nov-03-japan-constitution",
+      "kind": "event",
+      "proposedCanonicalId": "constitution-of-japan-promulgated-1946",
+      "workingClaim": "November 3, 1946: On November 3, 1946, the Constitution of Japan was promulgated, amending the Imperial Japanese Constitution through the Imperial Diet. It was set to take effect six months after promulgation.",
+      "sourceUrls": [
+        "https://www.ndl.go.jp/constitution/e/etc/c01.html"
+      ]
+    },
+    {
+      "candidateId": "nov-03-laika",
+      "kind": "event",
+      "proposedCanonicalId": "sputnik-2-laika-1957",
+      "workingClaim": "November 3, 1957: On November 3, 1957, the Soviet Union launched Sputnik 2 carrying Laika, a dog that became the first living creature to be launched into Earth orbit.",
+      "sourceUrls": [
+        "https://www.britannica.com/animal/Laika"
+      ]
+    },
+    {
+      "candidateId": "nov-03-panama",
+      "kind": "event",
+      "proposedCanonicalId": "panama-independence-1903",
+      "workingClaim": "November 3, 1903: On November 3, 1903, Panamanians revolted against the Colombian government, declared an independent Republic of Panama, and set up a provisional governing junta. The United States recognized the new republic three days later.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/panama"
+      ]
+    },
+    {
+      "candidateId": "nov-03-dominica",
+      "kind": "event",
+      "proposedCanonicalId": "dominica-independence-1978",
+      "workingClaim": "November 3, 1978: On November 3, 1978, Great Britain granted independence to the Commonwealth of Dominica.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/dominica"
+      ]
+    },
+    {
+      "candidateId": "nov-04-tutankhamun",
+      "kind": "event",
+      "proposedCanonicalId": "tutankhamun-tomb-found-1922",
+      "workingClaim": "November 4, 1922: On November 4, 1922, Howard Carter's team of largely Egyptian excavators found the first sign of what proved to be the tomb of Tutankhamun. The sealed doorway behind which lay the tomb's treasures was reached on November 26.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Howard-Carter"
+      ]
+    },
+    {
+      "candidateId": "nov-04-nature",
+      "kind": "event",
+      "proposedCanonicalId": "nature-journal-first-issue-1869",
+      "workingClaim": "November 4, 1869: On November 4, 1869, the first issue of the journal Nature was published, with Norman Lockyer as its first editor and Alexander Macmillan as publisher.",
+      "sourceUrls": [
+        "https://www.nature.com/nature/history-of-nature"
+      ]
+    },
+    {
+      "candidateId": "nov-04-iran-hostage",
+      "kind": "event",
+      "proposedCanonicalId": "iran-hostage-crisis-begins-1979",
+      "workingClaim": "November 4, 1979: On November 4, 1979, a crowd attacked the US embassy in Tehran and took Americans hostage. More than 50 of them were held for 444 days.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Iran-hostage-crisis"
+      ]
+    },
+    {
+      "candidateId": "nov-04-obama",
+      "kind": "event",
+      "proposedCanonicalId": "obama-elected-president-2008",
+      "workingClaim": "November 4, 2008: On November 4, 2008, Barack Obama won the US presidential election and addressed an election-night rally in Chicago's Grant Park as president-elect.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Barack-Obama"
+      ]
+    },
+    {
+      "candidateId": "nov-05-gunpowder-plot",
+      "kind": "event",
+      "proposedCanonicalId": "gunpowder-plot-foiled-1605",
+      "workingClaim": "November 5, 1605: November 5, 1605, was the day a group of English Roman Catholic conspirators planned to blow up Parliament and King James I at its opening. The plot was foiled, and in January 1606 Parliament made November 5 a day of public thanksgiving.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Gunpowder-Plot"
+      ]
+    },
+    {
+      "candidateId": "nov-05-vin-fiz",
+      "kind": "event",
+      "proposedCanonicalId": "first-transcontinental-flight-1911",
+      "workingClaim": "November 5, 1911: On November 5, 1911, Calbraith Perry Rodgers landed his Wright biplane, the Vin Fiz, in Pasadena's Tournament Park before about 20,000 people, completing the first flight across the United States. He had left Sheepshead Bay, New York, on September 17.",
+      "sourceUrls": [
+        "https://library.caltech.edu/c.php?g=1242603&p=9093325",
+        "https://airandspace.si.edu/collection-objects/wright-ex-vin-fiz/nasm_A19340060000"
+      ]
+    },
+    {
+      "candidateId": "nov-05-suez",
+      "kind": "event",
+      "proposedCanonicalId": "suez-landings-1956",
+      "workingClaim": "November 5, 1956: On November 5, 1956, during the Suez Crisis, British and French forces began landing at Port Said and Port Fuad in Egypt and started occupying the Suez Canal zone.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Suez-Crisis"
+      ]
+    },
+    {
+      "candidateId": "nov-05-inkerman",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-inkerman-1854",
+      "workingClaim": "November 5, 1854: On November 5, 1854, the Battle of Inkerman was fought during the Crimean War, a significant engagement of the conflict.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Battle-of-Inkerman"
+      ]
+    }
+  ]
+}
