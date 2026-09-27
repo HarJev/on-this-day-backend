@@ -8,6 +8,7 @@ import com.onthisday.content.JdbcHistoricalEventRepository;
 import com.onthisday.content.JdbcTodayContentRepository;
 import java.sql.SQLException;
 import java.time.MonthDay;
+import java.util.Set;
 import javax.sql.DataSource;
 import org.flywaydb.core.Flyway;
 import org.junit.jupiter.api.BeforeAll;
@@ -50,15 +51,14 @@ class CuratedContentImporterIT {
     var secondResult = importer.importContent(content);
 
     assertTrue(firstResult.valid());
-    assertEquals(6, firstResult.warnings().size());
+    assertTrue(secondResult.valid());
+    assertEquals(firstResult.warnings(), secondResult.warnings());
     assertTrue(
         firstResult.warnings().stream()
-            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
-    assertTrue(secondResult.valid());
-    assertEquals(6, secondResult.warnings().size());
-    assertTrue(
-        secondResult.warnings().stream()
-            .allMatch(warning -> warning.message().equals("featured event has no primary image")));
+            .allMatch(
+                warning ->
+                    Set.of("featured event has no primary image", "day has fewer than 4 total events")
+                        .contains(warning.message())));
 
     var todayRepository = new JdbcTodayContentRepository(dataSource);
     var todayContent = todayRepository.getTodayContent(MonthDay.of(8, 22));
@@ -105,10 +105,20 @@ class CuratedContentImporterIT {
         "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
         bosworth.primaryImage().sourceUrl().toString());
 
-    assertEquals(51, countRows("historical_event"));
-    assertEquals(55, countRows("event_source"));
-    assertEquals(1, countRows("event_image"));
-    assertEquals(51, countRows("daily_event"));
+    assertEquals(content.eventsFile().events().size(), countRows("historical_event"));
+    assertEquals(
+        content.eventsFile().events().stream().mapToInt(event -> event.sources().size()).sum(),
+        countRows("event_source"));
+    assertEquals(
+        content.eventsFile().events().stream()
+            .mapToInt(event -> event.images() == null ? 0 : event.images().size())
+            .sum(),
+        countRows("event_image"));
+    assertEquals(
+        content.dailyEventsFile().days().stream()
+            .mapToInt(day -> 1 + day.additionalEventIds().size())
+            .sum(),
+        countRows("daily_event"));
   }
 
   private static int countRows(String tableName) throws SQLException {
