@@ -906,7 +906,7 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://tile.loc.gov/image-services/iiif/service:pnp:ppmsca:19200:19211v/40,40,555,870/full/0/default.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-abraham-lincoln/dcea84c8d8e014cca8caf673e875b8f2af6d997b4119b1166477051b8a6cb6d2.jpg",
         "altText": "Sepia-toned seated portrait of a bearded man in a dark suit and bow tie",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/pictures/item/2008680391/",
@@ -953,7 +953,7 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/69200/69250v.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-frederick-douglass/0748b29b51d2eba4820b3fb0e23864e863337136d1256b72c3932149f52dcc11.jpg",
         "altText": "Seated nineteenth-century man in a dark coat with a white collar",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/pictures/item/2020633537/",
@@ -999,7 +999,7 @@
       "publicationState": "published",
       "prompt": "Which scientist is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Charles_Darwin_portrait.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-charles-darwin/63f513109badb5cfcf6a713cdbc0e03df8e05d31da87912cd5273bd81039b71a.jpg",
         "altText": "Black-and-white head-and-shoulders portrait of an elderly bearded man in a dark coat",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg",
@@ -1045,7 +1045,7 @@
       "publicationState": "published",
       "prompt": "Which political leader is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Sun_Yat_Sen_portrait_2.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-sun-yat-sen/e0add7c0d7e6507d5534cd8fb113f3005132439dee3c9e6b5af111420f0f3f1f.jpg",
         "altText": "Black-and-white formal portrait of a man in a dark high-collared jacket",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg",
@@ -1092,7 +1092,7 @@
       "publicationState": "published",
       "prompt": "Which writer and reformer is shown in this portrait?",
       "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Portrait_of_Jos%C3%A9_Rizal_%281891%29.jpg/960px-Portrait_of_Jos%C3%A9_Rizal_%281891%29.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-jose-rizal/cad544402db9dcbfa1c91603c5e6479a0112805e499f3742ee0c09943467b3ab.jpg",
         "altText": "Nineteenth-century painted portrait of a man in a dark formal jacket",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jos%C3%A9_Rizal_(1891).jpg",
@@ -1139,7 +1139,7 @@
       "publicationState": "published",
       "prompt": "Which monument is shown?",
       "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Statueofliberty_nps.jpg/960px-Statueofliberty_nps.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-statue-of-liberty/7f3b7cbc0f73820fc8d284448c2876745323ad4710ce7189c490fe65cca67d87.jpg",
         "altText": "Low-angle view of a green copper statue in draped robes and a spiked crown, raising a torch and holding a tablet, against a cloudy sky",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statueofliberty_nps.jpg",

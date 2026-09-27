@@ -1,9 +1,13 @@
 # Owned Image Delivery
 
-L3 prepares, but does not deploy, the public-release image path. The reviewed
-quiz bank currently contains nine Wikimedia Commons image-identification
-records. Their original URLs and complete provenance remain canonical content;
-the owned object is only a licensed rendition used for delivery.
+Quiz images are served from an owned origin. All 21 reviewed
+image-identification records (Wikimedia Commons, Library of Congress, and The
+Met) point `image.url` at an immutable rendition on
+`https://d2v6di8uk52rif.cloudfront.net/quiz-images/`. Source pages,
+attribution, creators, licences, and licence URLs remain canonical in the quiz
+JSON; each original rendition URL is kept as `sourceRenditionUrl` in
+`content/media/quiz-images.manifest.json`. The owned object is only a licensed
+rendition used for delivery.
 
 ## Offline Review Gate
 
@@ -21,18 +25,27 @@ The command only prints an upload plan. It has no AWS SDK, credentials, upload
 path, or network fetch. Invalid bytes or incomplete rights metadata stop the
 plan before any publisher could act.
 
-## Future Publication
+## Live Origin
 
-The unapplied `infra/media` module describes a private S3 origin and a
-pay-as-you-go CloudFront distribution with OAC. Its bucket allows only the
-specific distribution to read `quiz-images/*`; no public bucket policy, public
-write access, image proxy, or automatic flat-rate subscription is present.
+Terraform (`infra/media`, moving to `infra/prod/media.tf`) manages the private
+bucket `on-this-day-media-764574955085` in us-east-1 and CloudFront
+distribution `E37FOLDK13W1ZN`, which the owner subscribed to the CloudFront
+**Free** flat-rate plan (with its AWS WAF web ACL). The bucket allows only that
+distribution to read `quiz-images/*`; there is no public bucket policy, public
+write access, or image proxy. Never move the distribution to a paid plan
+without an owner decision.
+
+The 21 renditions were published on 2026-09-27. Twelve were downscaled to a
+1024-pixel longest edge; nine are the original source bytes. None were
+cropped or edited.
 
 Every corrected image receives a new checksum-derived key and
 `public, max-age=31536000, immutable`. Existing question IDs, Daily assignments,
 source pages, attribution, creators, licenses, and license URLs do not change.
-Do not update `image.url` until a separate owner approval permits applying the
-reviewed plan, publishing assets, and verifying the owned HTTPS origin.
+To add or correct an image: stage the rendition, add a manifest entry, run the
+dry-run command, have the owner publish the object, verify the HTTPS URL
+serves the exact checksum, then update only `image.url`. Never overwrite an
+existing object.
 
 The module includes an explicit deny of
 `pricingplanmanager:ApprovePaidSubscription`. Attach it to every deployment or

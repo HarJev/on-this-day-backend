@@ -116,7 +116,7 @@ class ProductionQuizContentIT {
             .filter(question -> "image_identification".equals(question.path("type").asText()))
             .findFirst()
             .orElseThrow();
-    assertTrue(imageQuestion.path("image").path("url").asText().startsWith("https://upload.wikimedia.org/"));
+    assertTrue(imageQuestion.path("image").path("url").asText().startsWith("https://d2v6di8uk52rif.cloudfront.net/quiz-images/"));
     assertTrue(imageQuestion.path("image").path("sourceUrl").asText().startsWith("https://commons.wikimedia.org/"));
     assertFalse(imageQuestion.path("image").path("license").asText().isBlank());
   }

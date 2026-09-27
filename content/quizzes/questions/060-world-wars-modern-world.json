@@ -122,7 +122,7 @@
       "publicationState": "published",
       "prompt": "Which British wartime prime minister is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Sir_Winston_Churchill_%28cropped_3_by_4%29.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-winston-churchill/b15abb90086eddb8b7e3e3b5aaf27756d8862f90454abc70d9a03d21ed48f30d.jpg",
         "altText": "Black-and-white head-and-shoulders portrait of an older man in a dark suit",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_(cropped_3_by_4).jpg",
@@ -149,7 +149,7 @@
       "publicationState": "published",
       "prompt": "Which wartime codebreaker is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-alan-turing/57cba211169af428962fd01253b99124c4b5787518f44b108e0c4e82c33a5077.jpg",
         "altText": "Black-and-white head-and-shoulders portrait of a man in a jacket and tie",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alan_Turing_(1951).jpg",
