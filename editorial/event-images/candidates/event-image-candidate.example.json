@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "gandhi-born-1869-portrait",
+      "eventId": "gandhi-born-1869",
+      "primary": true,
+      "sourceRenditionUrl": "https://REPLACE-WITH-DIRECT-LICENSED-IMAGE-URL",
+      "source": "REPLACE-WITH-COLLECTION-NAME",
+      "sourceUrl": "https://REPLACE-WITH-SOURCE-PAGE-URL",
+      "altText": "REPLACE-WITH-NEUTRAL-DESCRIPTIVE-ALT-TEXT",
+      "attribution": "REPLACE-WITH-REQUIRED-ATTRIBUTION",
+      "creator": null,
+      "license": "REPLACE-WITH-LICENSE-NAME",
+      "licenseUrl": "https://REPLACE-WITH-LICENSE-URL"
+    }
+  ]
+}

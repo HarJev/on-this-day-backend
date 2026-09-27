@@ -139,7 +139,10 @@ data "aws_iam_policy_document" "media_bucket" {
     }
 
     actions   = ["s3:GetObject"]
-    resources = ["${aws_s3_bucket.media.arn}/quiz-images/*"]
+    resources = [
+      "${aws_s3_bucket.media.arn}/quiz-images/*",
+      "${aws_s3_bucket.media.arn}/event-images/*",
+    ]
 
     condition {
       test     = "StringEquals"
@@ -164,7 +167,7 @@ data "aws_iam_policy_document" "media_publisher" {
     condition {
       test     = "StringLike"
       variable = "s3:prefix"
-      values   = ["quiz-images/*"]
+      values   = ["quiz-images/*", "event-images/*"]
     }
   }
 

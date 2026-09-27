@@ -3,7 +3,10 @@
 L3 prepares, but does not deploy, the public-release image path. The reviewed
 quiz bank currently contains nine Wikimedia Commons image-identification
 records. Their original URLs and complete provenance remain canonical content;
-the owned object is only a licensed rendition used for delivery.
+the owned object is only a licensed rendition used for delivery. Event imagery
+uses the same private delivery path under `event-images/*`; its candidate,
+preparation, publication, and attachment workflow is documented in
+[Event Image Pipeline](EVENT_IMAGE_PIPELINE.md).
 
 ## Offline Review Gate
 
@@ -25,7 +28,7 @@ plan before any publisher could act.
 
 The unapplied `infra/prod/media.tf` configuration describes a private S3 origin and a
 pay-as-you-go CloudFront distribution with OAC. Its bucket allows only the
-specific distribution to read `quiz-images/*`; no public bucket policy, public
+specific distribution to read `quiz-images/*` and `event-images/*`; no public bucket policy, public
 write access, image proxy, or automatic flat-rate subscription is present.
 
 Every corrected image receives a new checksum-derived key and
