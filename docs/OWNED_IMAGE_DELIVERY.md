@@ -23,7 +23,7 @@ plan before any publisher could act.
 
 ## Future Publication
 
-The unapplied `infra/media` module describes a private S3 origin and a
+The `infra/prod` Terraform root (`media.tf`) describes a private S3 origin and a
 pay-as-you-go CloudFront distribution with OAC. Its bucket allows only the
 specific distribution to read `quiz-images/*`; no public bucket policy, public
 write access, image proxy, or automatic flat-rate subscription is present.

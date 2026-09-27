@@ -1,6 +1,7 @@
-# Owned Image Delivery IaC
+# Production Terraform Root
 
-This module is an **unapplied** description of the approved L3 delivery shape:
+The single application root. `media.tf` holds the approved L3 owned-image
+delivery shape:
 
 - `us-east-1` S3 Standard storage;
 - a private, versioned bucket with Block Public Access and SSE-S3;
@@ -17,19 +18,17 @@ It deliberately does **not** subscribe to a CloudFront flat-rate plan, upload
 objects, create a custom domain, or edit curated image URLs. `terraform apply`
 still requires a separate owner approval after a reviewed plan and cost budget.
 
-Before an eventual plan, provide a unique `media_bucket_name` and every
-automation/deployment role that will use this module:
+Run it as the `on-this-day-terraform` deployer from `infra/bootstrap`, never
+root. Role variables are optional; leaving them empty attaches nothing to
+existing roles:
 
 ```sh
-terraform -chdir=infra/media init -backend=false
-terraform -chdir=infra/media plan \
-  -var='media_bucket_name=<approved-unique-name>' \
-  -var='media_publisher_role_names=["<approved-publisher-role>"]' \
-  -var='deployment_role_names=["<approved-deployment-role>"]'
+export AWS_PROFILE=on-this-day
+terraform -chdir=infra/prod init
+terraform -chdir=infra/prod plan -out=prod.tfplan \
+  -var='media_bucket_name=on-this-day-media-<account-id>'
+terraform -chdir=infra/prod apply prod.tfplan   # only after owner approval
 ```
-
-The command above is shown for future owner review only. Do not run it against
-an AWS account without the required resource and spend approvals.
 
 ## Staying on the $0 Free Plan
 
