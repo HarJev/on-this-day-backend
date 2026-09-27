@@ -1,0 +1,25 @@
+name: Editorial media checks
+
+on:
+  pull_request:
+    paths:
+      - 'editorial/event-images/**'
+      - 'infra/media/**'
+      - 'docs/EVENT_IMAGE_PIPELINE.md'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-tooling:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install editorial image dependencies
+        run: python3 -m pip install -r editorial/event-images/requirements.txt
+      - name: Syntax check pipeline script
+        run: python3 -m py_compile editorial/event-images/event_image_pipeline.py
