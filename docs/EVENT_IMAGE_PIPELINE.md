@@ -28,7 +28,7 @@ python3 -m venv .venv-event-images
 Prepare a weekly batch. This rejects redirects, non-image responses, sources above 20 MiB, decode bombs, and outputs above 1.5 MiB. It creates JPEG renditions at 960 pixels or less, aiming for 750 KiB.
 
 ```sh
-python3 editorial/event-images/event_image_pipeline.py prepare \
+.venv-event-images/bin/python editorial/event-images/event_image_pipeline.py prepare \
   --candidates editorial/event-images/candidates/2026-10-02-08.json \
   --asset-root build/event-images/2026-10-02-08 \
   --output-manifest build/event-images/2026-10-02-08/publish-manifest.json \
@@ -40,7 +40,7 @@ Open the generated review page. Check phone-scale recognizability, neutral alt t
 Validate exact bytes again before publishing:
 
 ```sh
-python3 editorial/event-images/event_image_pipeline.py validate \
+.venv-event-images/bin/python editorial/event-images/event_image_pipeline.py validate \
   --manifest build/event-images/2026-10-02-08/publish-manifest.json \
   --asset-root build/event-images/2026-10-02-08
 ```
@@ -50,7 +50,7 @@ python3 editorial/event-images/event_image_pipeline.py validate \
 The private S3/CloudFront Terraform module must be applied and allow `event-images/*` before first publish. Publishing defaults to dry run. Only `--execute` invokes the AWS CLI.
 
 ```sh
-python3 editorial/event-images/event_image_pipeline.py publish \
+.venv-event-images/bin/python editorial/event-images/event_image_pipeline.py publish \
   --manifest build/event-images/2026-10-02-08/publish-manifest.json \
   --asset-root build/event-images/2026-10-02-08 \
   --bucket YOUR_PRIVATE_MEDIA_BUCKET \
@@ -66,7 +66,7 @@ Objects use immutable `event-images/<event-id>/<sha256>.jpg` keys and one-year i
 After CloudFront liveness is verified, create a proposed events file:
 
 ```sh
-python3 editorial/event-images/event_image_pipeline.py attach \
+.venv-event-images/bin/python editorial/event-images/event_image_pipeline.py attach \
   --manifest build/event-images/2026-10-02-08/publish-manifest.json \
   --asset-root build/event-images/2026-10-02-08 \
   --events content/events.json \
