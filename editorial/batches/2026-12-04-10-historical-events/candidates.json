@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-04-10-historical-events",
+  "candidates": [
+    {
+      "candidateId": "dec-04-mars-pathfinder",
+      "kind": "event",
+      "proposedCanonicalId": "mars-pathfinder-launched-1996",
+      "workingClaim": "December 4, 1996: On December 4, 1996, the Mars Pathfinder spacecraft was launched from Cape Canaveral, Florida, to explore the surface of Mars.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-4"
+      ]
+    },
+    {
+      "candidateId": "dec-04-ivan-iv",
+      "kind": "event",
+      "proposedCanonicalId": "ivan-the-terrible-proclaimed-1533",
+      "workingClaim": "December 4, 1533: On December 4, 1533, on the death of his father, Grand Prince Vasily III, the three-year-old who would become Ivan the Terrible was proclaimed grand prince of Moscow. His mother ruled in his name until her death in 1538.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-4"
+      ]
+    },
+    {
+      "candidateId": "dec-04-grey-cup",
+      "kind": "event",
+      "proposedCanonicalId": "first-grey-cup-1909",
+      "workingClaim": "December 4, 1909: On December 4, 1909, the Grey Cup was awarded for the first time, as the Toronto Varsity Blues defeated the Toronto Parkdale team in Canada's amateur football championship game.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-4"
+      ]
+    },
+    {
+      "candidateId": "dec-04-adrian-iv",
+      "kind": "event",
+      "proposedCanonicalId": "adrian-iv-elected-pope-1154",
+      "workingClaim": "December 4, 1154: On December 4, 1154, Adrian IV was elected pope, becoming the only Englishman ever to occupy the papal throne.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-4"
+      ]
+    },
+    {
+      "candidateId": "dec-05-mary-celeste",
+      "kind": "event",
+      "proposedCanonicalId": "mary-celeste-found-abandoned-1872",
+      "workingClaim": "December 5, 1872: On December 5, 1872, the American ship Mary Celeste was found abandoned about 400 nautical miles from the Azores. The fate of the 10 people who had been aboard remains a mystery.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5"
+      ]
+    },
+    {
+      "candidateId": "dec-05-walt-disney",
+      "kind": "event",
+      "proposedCanonicalId": "walt-disney-born-1901",
+      "workingClaim": "December 5, 1901: On December 5, 1901, Walt Disney was born in Chicago. He pioneered animated cartoon films, created characters such as Mickey Mouse and Donald Duck, and founded what became one of the world's largest entertainment companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5"
+      ]
+    },
+    {
+      "candidateId": "dec-05-mozart",
+      "kind": "event",
+      "proposedCanonicalId": "mozart-dies-1791",
+      "workingClaim": "December 5, 1791: On December 5, 1791, the Austrian composer Wolfgang Amadeus Mozart died in Vienna at the age of 35.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5"
+      ]
+    },
+    {
+      "candidateId": "dec-05-mandela-dies",
+      "kind": "event",
+      "proposedCanonicalId": "nelson-mandela-dies-2013",
+      "workingClaim": "December 5, 2013: On December 5, 2013, Nelson Mandela, who helped end South Africa's apartheid system and became the country's first Black president, died at the age of 95.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5"
+      ]
+    },
+    {
+      "candidateId": "dec-06-anglo-irish-treaty",
+      "kind": "event",
+      "proposedCanonicalId": "anglo-irish-treaty-1921",
+      "workingClaim": "December 6, 1921: On December 6, 1921, representatives of the British government and Irish leaders including Arthur Griffith and Michael Collins signed the Anglo-Irish Treaty, concluding the Irish War of Independence and establishing the Irish Free State.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "dec-06-finland",
+      "kind": "event",
+      "proposedCanonicalId": "finland-independence-1917",
+      "workingClaim": "December 6, 1917: On December 6, 1917, following the Bolshevik Revolution, Finland declared itself independent of Russia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "dec-06-nefertiti",
+      "kind": "event",
+      "proposedCanonicalId": "nefertiti-bust-discovered-1912",
+      "workingClaim": "December 6, 1912: On December 6, 1912, a bust of Nefertiti was discovered during excavations at Tell el-Amarna, Egypt. It later went on display in a Berlin museum, and calls for its repatriation have made it a source of controversy.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "dec-06-ulysses-ruling",
+      "kind": "event",
+      "proposedCanonicalId": "ulysses-not-obscene-ruling-1933",
+      "workingClaim": "December 6, 1933: On December 6, 1933, in a landmark ruling, a US federal judge held that James Joyce's Ulysses was not obscene, allowing greater freedom for literary works.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "dec-07-apollo-17",
+      "kind": "event",
+      "proposedCanonicalId": "apollo-17-launches-1972",
+      "workingClaim": "December 7, 1972: On December 7, 1972, Apollo 17 launched on the Apollo program's last lunar landing mission, commanded by Eugene Cernan. It landed in the Moon's Taurus-Littrow Valley and was the first mission to include an astronaut-scientist.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-17/",
+        "https://www.britannica.com/on-this-day/December-7"
+      ]
+    },
+    {
+      "candidateId": "dec-07-pearl-harbor",
+      "kind": "event",
+      "proposedCanonicalId": "pearl-harbor-attack-1941",
+      "workingClaim": "December 7, 1941: On December 7, 1941, Japanese bombers launched a surprise attack on the US naval base at Pearl Harbor on Oahu, Hawaii, bringing the United States into World War II.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-7"
+      ]
+    },
+    {
+      "candidateId": "dec-07-delaware",
+      "kind": "event",
+      "proposedCanonicalId": "delaware-ratifies-constitution-1787",
+      "workingClaim": "December 7, 1787: On December 7, 1787, Delaware became the first state to ratify the US Constitution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-7"
+      ]
+    },
+    {
+      "candidateId": "dec-07-bernini",
+      "kind": "event",
+      "proposedCanonicalId": "bernini-born-1598",
+      "workingClaim": "December 7, 1598: On December 7, 1598, Gian Lorenzo Bernini was born. Perhaps the greatest sculptor-architect of the 17th century, he created the Baroque style and produced masterpieces such as The Ecstasy of St. Teresa.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-7"
+      ]
+    },
+    {
+      "candidateId": "dec-08-notre-dame",
+      "kind": "event",
+      "proposedCanonicalId": "notre-dame-reopens-2024",
+      "workingClaim": "December 8, 2024: On December 8, 2024, the restored Notre-Dame Cathedral in Paris reopened to the public, a little more than five years after it was heavily damaged by fire.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-8"
+      ]
+    },
+    {
+      "candidateId": "dec-08-spacex-dragon",
+      "kind": "event",
+      "proposedCanonicalId": "spacex-dragon-orbit-return-2010",
+      "workingClaim": "December 8, 2010: On December 8, 2010, SpaceX became the first commercial company to launch a spacecraft, the Dragon capsule, into orbit and successfully return it to Earth.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-8"
+      ]
+    },
+    {
+      "candidateId": "dec-08-cis",
+      "kind": "event",
+      "proposedCanonicalId": "commonwealth-of-independent-states-1991",
+      "workingClaim": "December 8, 1991: On December 8, 1991, Russia, Ukraine, and Belarus signed an agreement to form the Commonwealth of Independent States in the wake of the Soviet Union's demise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-8"
+      ]
+    },
+    {
+      "candidateId": "dec-08-diego-rivera",
+      "kind": "event",
+      "proposedCanonicalId": "diego-rivera-born-1886",
+      "workingClaim": "December 8, 1886: On December 8, 1886, Diego Rivera was born in Mexico. His bold, large-scale murals stimulated a revival of fresco painting in Latin America.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-8"
+      ]
+    },
+    {
+      "candidateId": "dec-09-smallpox-eradicated",
+      "kind": "event",
+      "proposedCanonicalId": "smallpox-declared-eradicated-1979",
+      "workingClaim": "December 9, 1979: On December 9, 1979, some 10 years after the World Health Organization began a global vaccination program against smallpox, the disease was officially declared eradicated.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-9"
+      ]
+    },
+    {
+      "candidateId": "dec-09-tanganyika",
+      "kind": "event",
+      "proposedCanonicalId": "tanganyika-independence-1961",
+      "workingClaim": "December 9, 1961: On December 9, 1961, Tanganyika became independent, with Julius Nyerere as its first prime minister. In 1964 it united with Zanzibar to form Tanzania.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-9"
+      ]
+    },
+    {
+      "candidateId": "dec-09-ayacucho",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-ayacucho-1824",
+      "workingClaim": "December 9, 1824: On December 9, 1824, revolutionary forces led by Antonio Jose de Sucre defeated the Spanish royal army at the Battle of Ayacucho.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-9"
+      ]
+    },
+    {
+      "candidateId": "dec-09-traffic-light",
+      "kind": "event",
+      "proposedCanonicalId": "first-traffic-light-1868",
+      "workingClaim": "December 9, 1868: On December 9, 1868, the world's first traffic light was erected near Westminster Bridge in London. It was removed a month later after a gas leak caused one of its lights to explode.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-9"
+      ]
+    },
+    {
+      "candidateId": "dec-10-udhr",
+      "kind": "event",
+      "proposedCanonicalId": "universal-declaration-of-human-rights-1948",
+      "workingClaim": "December 10, 1948: On December 10, 1948, the United Nations General Assembly adopted the Universal Declaration of Human Rights.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "dec-10-first-nobels",
+      "kind": "event",
+      "proposedCanonicalId": "first-nobel-prizes-awarded-1901",
+      "workingClaim": "December 10, 1901: On December 10, 1901, the first Nobel Prizes were distributed, on the fifth anniversary of the death of Alfred Nobel, who founded and endowed the awards through his will.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "dec-10-ada-lovelace",
+      "kind": "event",
+      "proposedCanonicalId": "ada-lovelace-born-1815",
+      "workingClaim": "December 10, 1815: On December 10, 1815, Ada Lovelace, often considered the first computer programmer, was born in what is now London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "dec-10-emu-war",
+      "kind": "event",
+      "proposedCanonicalId": "emu-war-ends-1932",
+      "workingClaim": "December 10, 1932: On December 10, 1932, the Australian government officially gave up after a month-long campaign against thousands of emus, an episode known as the Emu War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "dec-10-sa-constitution",
+      "kind": "event",
+      "proposedCanonicalId": "south-africa-constitution-signed-1996",
+      "workingClaim": "December 10, 1996: On December 10, 1996, President Nelson Mandela signed South Africa's new constitution, completing the transition from white minority rule under apartheid to full democracy.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    }
+  ]
+}

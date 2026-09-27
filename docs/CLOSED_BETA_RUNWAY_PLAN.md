@@ -36,7 +36,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 | `2026-11-13-19-historical-events` | Nov 13-19 | Drafted: 28 events (4 per date), source-verified |
 | `2026-11-20-26-historical-events` | Nov 20-26 | Drafted: 28 events (4 per date), source-verified |
 | `2026-11-27-12-03-historical-events` | Nov 27-Dec 3 | Drafted: 28 events (4 per date), source-verified |
-| `2026-12-04-10-historical-events` | Dec 4-10 | Not started |
+| `2026-12-04-10-historical-events` | Dec 4-10 | Drafted: 29 events (4-5 per date), source-verified |
 | `2026-12-11-17-historical-events` | Dec 11-17 | Not started |
 | `2026-12-18-25-historical-events` | Dec 18-25 | Not started |
 
