@@ -27,7 +27,7 @@ plan before any publisher could act.
 
 ## Live Origin
 
-Terraform (`infra/media`, moving to `infra/prod/media.tf`) manages the private
+Terraform (`infra/prod/media.tf`) manages the private
 bucket `on-this-day-media-764574955085` in us-east-1 and CloudFront
 distribution `E37FOLDK13W1ZN`, which the owner subscribed to the CloudFront
 **Free** flat-rate plan (with its AWS WAF web ACL). The bucket allows only that
