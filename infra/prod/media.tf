@@ -1,9 +1,7 @@
 locals {
   common_tags = merge(
     {
-      Application = "on-this-day"
-      Component   = "owned-image-delivery"
-      ManagedBy   = "terraform"
+      Component = "owned-image-delivery"
     },
     var.tags,
   )
@@ -49,6 +47,30 @@ resource "aws_s3_bucket_versioning" "media" {
   }
 }
 
+# Objects use immutable checksum keys, so noncurrent versions only exist after
+# an accidental overwrite or delete. Keep them briefly for recovery, then let
+# them expire so storage stays inside the free plan's S3 credit.
+resource "aws_s3_bucket_lifecycle_configuration" "media" {
+  bucket = aws_s3_bucket.media.id
+
+  rule {
+    id     = "expire-noncurrent-and-abandoned-uploads"
+    status = "Enabled"
+
+    filter {}
+
+    noncurrent_version_expiration {
+      noncurrent_days = 30
+    }
+
+    abort_incomplete_multipart_upload {
+      days_after_initiation = 1
+    }
+  }
+
+  depends_on = [aws_s3_bucket_versioning.media]
+}
+
 resource "aws_cloudfront_origin_access_control" "media" {
   name                              = "on-this-day-owned-images"
   description                       = "CloudFront read access for private On This Day media"
@@ -64,6 +86,7 @@ data "aws_cloudfront_cache_policy" "caching_optimized" {
 resource "aws_cloudfront_distribution" "media" {
   enabled             = true
   is_ipv6_enabled     = true
+  http_version        = "http2and3"
   comment             = "On This Day immutable reviewed image renditions"
   default_root_object = null
   price_class         = "PriceClass_All"
@@ -90,9 +113,18 @@ resource "aws_cloudfront_distribution" "media" {
     }
   }
 
+  # The default *.cloudfront.net certificate always uses CloudFront's TLSv1
+  # security policy; a stricter minimum needs a custom domain and certificate.
   viewer_certificate {
     cloudfront_default_certificate = true
-    minimum_protocol_version       = "TLSv1.2_2021"
+    minimum_protocol_version       = "TLSv1"
+  }
+
+  # The CloudFront Free flat-rate plan is subscribed manually by the owner in
+  # the console, which associates the plan's own AWS WAF web ACL. Terraform
+  # must not remove that association on later applies.
+  lifecycle {
+    ignore_changes = [web_acl_id]
   }
 }
 
@@ -107,7 +139,10 @@ data "aws_iam_policy_document" "media_bucket" {
     }
 
     actions   = ["s3:GetObject"]
-    resources = ["${aws_s3_bucket.media.arn}/quiz-images/*"]
+    resources = [
+      "${aws_s3_bucket.media.arn}/quiz-images/*",
+      "${aws_s3_bucket.media.arn}/event-images/*",
+    ]
 
     condition {
       test     = "StringEquals"
@@ -132,7 +167,7 @@ data "aws_iam_policy_document" "media_publisher" {
     condition {
       test     = "StringLike"
       variable = "s3:prefix"
-      values   = ["quiz-images/*"]
+      values   = ["quiz-images/*", "event-images/*"]
     }
   }
 

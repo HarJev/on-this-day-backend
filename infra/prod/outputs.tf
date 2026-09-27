@@ -1,5 +1,5 @@
-output "cloudfront_domain_name" {
-  description = "Future HTTPS image origin. Do not use it in curated JSON until post-apply verification succeeds."
+output "media_cloudfront_domain_name" {
+  description = "Owned HTTPS image origin. Do not use it in curated JSON until post-apply verification succeeds."
   value       = aws_cloudfront_distribution.media.domain_name
 }
 
