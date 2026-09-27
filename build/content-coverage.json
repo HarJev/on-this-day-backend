@@ -1,0 +1,1409 @@
+{
+  "reportVersion" : 1,
+  "historical" : {
+    "featuredNotificationCopy" : [ {
+      "monthDay" : "08-22",
+      "complete" : true,
+      "eventId" : "battle-of-bosworth-field-1485"
+    }, {
+      "monthDay" : "08-24",
+      "complete" : true,
+      "eventId" : "vesuvius-erupts-79"
+    }, {
+      "monthDay" : "08-25",
+      "complete" : true,
+      "eventId" : "liberation-of-paris-1944"
+    }, {
+      "monthDay" : "08-26",
+      "complete" : true,
+      "eventId" : "nineteenth-amendment-certified-1920"
+    }, {
+      "monthDay" : "08-27",
+      "complete" : true,
+      "eventId" : "kellogg-briand-pact-signed-1928"
+    }, {
+      "monthDay" : "08-28",
+      "complete" : true,
+      "eventId" : "march-on-washington-1963"
+    }, {
+      "monthDay" : "08-29",
+      "complete" : true,
+      "eventId" : "hurricane-katrina-landfall-2005"
+    }, {
+      "monthDay" : "09-15",
+      "complete" : true,
+      "eventId" : "central-american-independence-1821"
+    }, {
+      "monthDay" : "09-16",
+      "complete" : true,
+      "eventId" : "montreal-protocol-adopted-1987"
+    }, {
+      "monthDay" : "09-17",
+      "complete" : true,
+      "eventId" : "camp-david-accords-signed-1978"
+    }, {
+      "monthDay" : "09-18",
+      "complete" : true,
+      "eventId" : "us-capitol-cornerstone-1793"
+    }, {
+      "monthDay" : "09-19",
+      "complete" : true,
+      "eventId" : "new-zealand-womens-suffrage-1893"
+    }, {
+      "monthDay" : "09-20",
+      "complete" : true,
+      "eventId" : "magellan-departs-sanlucar-1519"
+    }, {
+      "monthDay" : "09-21",
+      "complete" : true,
+      "eventId" : "belize-independence-1981"
+    }, {
+      "monthDay" : "09-22",
+      "complete" : true,
+      "eventId" : "mali-republic-proclaimed-1960"
+    }, {
+      "monthDay" : "09-23",
+      "complete" : true,
+      "eventId" : "neptune-confirmed-1846"
+    }, {
+      "monthDay" : "09-24",
+      "complete" : true,
+      "eventId" : "osiris-rex-sample-return-2023"
+    }, {
+      "monthDay" : "09-25",
+      "complete" : true,
+      "eventId" : "little-rock-nine-full-school-day-1957"
+    }, {
+      "monthDay" : "09-26",
+      "complete" : true,
+      "eventId" : "dart-asteroid-impact-2022"
+    }, {
+      "monthDay" : "09-27",
+      "complete" : true,
+      "eventId" : "stockton-darlington-railway-opens-1825"
+    }, {
+      "monthDay" : "09-28",
+      "complete" : true,
+      "eventId" : "william-lands-pevensey-1066"
+    }, {
+      "monthDay" : "09-29",
+      "complete" : true,
+      "eventId" : "cern-founded-1954"
+    }, {
+      "monthDay" : "09-30",
+      "complete" : true,
+      "eventId" : "botswana-independence-1966"
+    }, {
+      "monthDay" : "10-01",
+      "complete" : true,
+      "eventId" : "nasa-begins-operations-1958"
+    } ],
+    "potentialDuplicateEvents" : [ ],
+    "sourceLinks" : [ {
+      "url" : "https://www.britannica.com/event/Battle-of-Bosworth-Field",
+      "kind" : "event",
+      "id" : "battle-of-bosworth-field-1485",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.hrp.org.uk/tower-of-london/history-and-stories/richard-iii/",
+      "kind" : "event",
+      "id" : "battle-of-bosworth-field-1485",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.historic-uk.com/HistoryUK/HistoryofScotland/The-Loch-Ness-Monster/",
+      "kind" : "event",
+      "id" : "loch-ness-monster-columba-565",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nma.gov.au/defining-moments/resources/cook-claims-australia",
+      "kind" : "event",
+      "id" : "cook-claims-eastern-australia-1770",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.smithsonianmag.com/air-space-magazine/bombs-away-35362547/",
+      "kind" : "event",
+      "id" : "venice-air-raid-1849",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Korea/Division-of-Korea",
+      "kind" : "event",
+      "id" : "korea-annexed-by-japan-1910",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.history.com/this-day-in-history/de-gaulle-survives-assassination-attempt",
+      "kind" : "event",
+      "id" : "de-gaulle-assassination-attempt-1962",
+      "status" : "unknown"
+    }, {
+      "url" : "https://baseballhall.org/discover-more/stories/inside-pitch/nolan-ryan-5000-strikeouts",
+      "kind" : "event",
+      "id" : "nolan-ryan-5000-strikeouts-1989",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/829/",
+      "kind" : "event",
+      "id" : "vesuvius-erupts-79",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Pompeii",
+      "kind" : "event",
+      "id" : "vesuvius-erupts-79",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Massacre-of-Saint-Bartholomews-Day",
+      "kind" : "event",
+      "id" : "st-bartholomews-day-massacre-begins-1572",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/articles/burning-of-washington.htm",
+      "kind" : "event",
+      "id" : "british-burn-washington-1814",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Mexico/Independence",
+      "kind" : "event",
+      "id" : "treaty-of-cordoba-signed-1821",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nato.int/cps/en/natohq/official_texts_17120.htm",
+      "kind" : "event",
+      "id" : "nato-treaty-enters-force-1949",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Ukraine/Independent-Ukraine",
+      "kind" : "event",
+      "id" : "ukraine-declares-independence-1991",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iau.org/news/pressreleases/detail/iau0603/",
+      "kind" : "event",
+      "id" : "pluto-reclassified-dwarf-planet-2006",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/how-paris-was-liberated-in-1944",
+      "kind" : "event",
+      "id" : "liberation-of-paris-1944",
+      "status" : "unknown"
+    }, {
+      "url" : "https://catalogue.museogalileo.it/biography/GalileoGalilei.html",
+      "kind" : "event",
+      "id" : "galileo-demonstrates-telescope-1609",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Uruguay/History",
+      "kind" : "event",
+      "id" : "uruguay-declares-independence-1825",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/subjects/npscelebrates/august-25-1916.htm",
+      "kind" : "event",
+      "id" : "national-park-service-established-1916",
+      "status" : "unknown"
+    }, {
+      "url" : "https://science.nasa.gov/mission/voyager/voyager-2/",
+      "kind" : "event",
+      "id" : "voyager-2-neptune-flyby-1989",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nhc.noaa.gov/data/tcr/AL092017_Harvey.pdf",
+      "kind" : "event",
+      "id" : "hurricane-harvey-landfall-2017",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Ivan-the-Terrible",
+      "kind" : "event",
+      "id" : "ivan-the-terrible-born-1530",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/19th-amendment",
+      "kind" : "event",
+      "id" : "nineteenth-amendment-certified-1920",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.worldhistory.org/Battle_of_Crecy/",
+      "kind" : "event",
+      "id" : "battle-of-crecy-1346",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.conseil-constitutionnel.fr/en/declaration-of-human-and-civic-rights-of-26-august-1789",
+      "kind" : "event",
+      "id" : "rights-of-man-approved-1789",
+      "status" : "unknown"
+    }, {
+      "url" : "https://volcano.si.edu/volcano.cfm?vn=262000",
+      "kind" : "event",
+      "id" : "krakatoa-eruption-intensifies-1883",
+      "status" : "unknown"
+    }, {
+      "url" : "https://baseballhall.org/discover-more/stories/inside-pitch/first-televised-game",
+      "kind" : "event",
+      "id" : "first-televised-mlb-game-1939",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.womenshistory.org/articles/womens-strike-equality",
+      "kind" : "event",
+      "id" : "womens-strike-for-equality-1970",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.vatican.va/content/john-paul-i/en/biografia/documents/hf_jp-i_bio_26081978_biografia.html",
+      "kind" : "event",
+      "id" : "john-paul-i-elected-1978",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/milestones/1921-1936/kellogg",
+      "kind" : "event",
+      "id" : "kellogg-briand-pact-signed-1928",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.drakewell.org/history/",
+      "kind" : "event",
+      "id" : "drake-oil-well-strikes-oil-1859",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/battle-of-long-island/",
+      "kind" : "event",
+      "id" : "battle-of-long-island-1776",
+      "status" : "unknown"
+    }, {
+      "url" : "https://encyclopedia.1914-1918-online.net/article/romania/",
+      "kind" : "event",
+      "id" : "romania-enters-world-war-i-1916",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.guinnessworldrecords.com/about-us/our-story",
+      "kind" : "event",
+      "id" : "guinness-book-first-published-1955",
+      "status" : "unknown"
+    }, {
+      "url" : "https://science.nasa.gov/solar-system/planets/mars/",
+      "kind" : "event",
+      "id" : "mars-close-approach-2003",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Moldova/History",
+      "kind" : "event",
+      "id" : "moldova-declares-independence-1991",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.rte.ie/archives/2014/0827/639649-lord-mountbatten-assassinated/",
+      "kind" : "event",
+      "id" : "lord-mountbatten-assassinated-1979",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.margaretthatcher.org/source/prem19/prem19-0013",
+      "kind" : "event",
+      "id" : "lord-mountbatten-assassinated-1979",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/exhibits/featured-documents/march-on-washington",
+      "kind" : "event",
+      "id" : "march-on-washington-1963",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nmaahc.si.edu/explore/stories/emmett-till",
+      "kind" : "event",
+      "id" : "emmett-till-murdered-1955",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Johann-Wolfgang-von-Goethe",
+      "kind" : "event",
+      "id" : "goethe-born-1749",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.scientificamerican.com/page/about-scientific-american/",
+      "kind" : "event",
+      "id" : "scientific-american-first-issue-1845",
+      "status" : "unknown"
+    }, {
+      "url" : "https://global.toyota/en/company/history_of_toyota/",
+      "kind" : "event",
+      "id" : "toyota-motor-company-founded-1937",
+      "status" : "unknown"
+    }, {
+      "url" : "https://science.nasa.gov/mission/galileo/",
+      "kind" : "event",
+      "id" : "galileo-discovers-dactyl-1993",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Leo-Tolstoy",
+      "kind" : "event",
+      "id" : "tolstoy-born-1828",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.royal.uk/diana-princess-wales",
+      "kind" : "event",
+      "id" : "charles-diana-divorce-finalized-1996",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf",
+      "kind" : "event",
+      "id" : "hurricane-katrina-landfall-2005",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.noaa.gov/education/resource-collections/weather-atmosphere/hurricanes/hurricane-katrina",
+      "kind" : "event",
+      "id" : "hurricane-katrina-landfall-2005",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/milestones/1830-1860/china-1",
+      "kind" : "event",
+      "id" : "treaty-of-nanking-signed-1842",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/John-Locke",
+      "kind" : "event",
+      "id" : "john-locke-born-1632",
+      "status" : "unknown"
+    }, {
+      "url" : "https://ahf.nuclearmuseum.org/ahf/history/soviet-atomic-program-1946/",
+      "kind" : "event",
+      "id" : "soviet-first-atomic-bomb-test-1949",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.marforres.marines.mil/About/History/",
+      "kind" : "event",
+      "id" : "marine-corps-reserve-established-1916",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Michael-Jackson-American-singer-songwriter-and-dancer",
+      "kind" : "event",
+      "id" : "michael-jackson-born-1958",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nhc.noaa.gov/data/tcr/AL092021_Ida.pdf",
+      "kind" : "event",
+      "id" : "hurricane-ida-landfall-2021",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/central-american-federation",
+      "kind" : "event",
+      "id" : "central-american-independence-1821",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/how-tanks-first-appeared-on-the-battlefield",
+      "kind" : "event",
+      "id" : "battle-of-flers-courcelette-tanks-1916",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.rafmuseum.org.uk/documents/podcasts/transcripts/15_Sept_Podcast.pdf",
+      "kind" : "event",
+      "id" : "battle-of-britain-day-1940",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/people/16th-street-baptist-church-bombing.htm",
+      "kind" : "event",
+      "id" : "birmingham-sixteenth-street-baptist-bombing-1963",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.greenpeace.org/international/history/",
+      "kind" : "event",
+      "id" : "greenpeace-founded-1971",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.federalreservehistory.org/essays/panic-of-2008",
+      "kind" : "event",
+      "id" : "lehman-brothers-bankruptcy-2008",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/item/today-in-history/september-15/",
+      "kind" : "event",
+      "id" : "william-howard-taft-born-1857",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol",
+      "kind" : "event",
+      "id" : "montreal-protocol-adopted-1987",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea",
+      "kind" : "event",
+      "id" : "papua-new-guinea-independence-1975",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57",
+      "kind" : "event",
+      "id" : "camp-david-accords-signed-1978",
+      "status" : "unknown"
+    }, {
+      "url" : "https://founders.archives.gov/documents/Washington/01-05-02-0002-0009-0017",
+      "kind" : "event",
+      "id" : "us-constitution-signed-1787",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.aoc.gov/explore-capitol-campus/art/capitol-cornerstone-ceremony-1793",
+      "kind" : "event",
+      "id" : "us-capitol-cornerstone-1793",
+      "status" : "unknown"
+    }, {
+      "url" : "https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm",
+      "kind" : "event",
+      "id" : "fugitive-slave-act-signed-1850",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nzhistory.govt.nz/womens-suffrage-day",
+      "kind" : "event",
+      "id" : "new-zealand-womens-suffrage-1893",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm",
+      "kind" : "event",
+      "id" : "washington-farewell-address-published-1796",
+      "status" : "unknown"
+    }, {
+      "url" : "https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/",
+      "kind" : "event",
+      "id" : "magellan-departs-sanlucar-1519",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+      "kind" : "event",
+      "id" : "battle-of-fulford-1066",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/belize",
+      "kind" : "event",
+      "id" : "belize-independence-1981",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf",
+      "kind" : "event",
+      "id" : "malta-independence-1964",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/mali",
+      "kind" : "event",
+      "id" : "mali-republic-proclaimed-1960",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html",
+      "kind" : "event",
+      "id" : "preliminary-emancipation-proclamation-1862",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed",
+      "kind" : "event",
+      "id" : "neptune-confirmed-1846",
+      "status" : "unknown"
+    }, {
+      "url" : "https://mofa.gov.sa/en/ksa/Pages/nationalday.aspx",
+      "kind" : "event",
+      "id" : "saudi-arabia-proclaimed-1932",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/",
+      "kind" : "event",
+      "id" : "osiris-rex-sample-return-2023",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/federal-judiciary-act",
+      "kind" : "event",
+      "id" : "judiciary-act-signed-1789",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/people/the-little-rock-nine.htm",
+      "kind" : "event",
+      "id" : "little-rock-nine-full-school-day-1957",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+      "kind" : "event",
+      "id" : "battle-of-stamford-bridge-1066",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/",
+      "kind" : "event",
+      "id" : "dart-asteroid-impact-2022",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://nzhistory.govt.nz/keyword/dominion-of-new-zealand",
+      "kind" : "event",
+      "id" : "new-zealand-dominion-1907",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/",
+      "kind" : "event",
+      "id" : "stockton-darlington-railway-opens-1825",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf",
+      "kind" : "event",
+      "id" : "champollion-hieroglyphs-presentation-1822",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/",
+      "kind" : "event",
+      "id" : "william-lands-pevensey-1066",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/",
+      "kind" : "event",
+      "id" : "first-aerial-circumnavigation-completed-1924",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://timeline.web.cern.ch/cern-exists",
+      "kind" : "event",
+      "id" : "cern-founded-1954",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+      "kind" : "event",
+      "id" : "discovery-return-to-flight-1988",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://botswanamission.ch/brief-history-2/",
+      "kind" : "event",
+      "id" : "botswana-independence-1966",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet",
+      "kind" : "event",
+      "id" : "rosetta-mission-ends-2016",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.cia.gov/stories/story/the-mapmakers-craft-a-history-of-cartography-at-cia/",
+      "kind" : "event",
+      "id" : "cia-established-1947",
+      "status" : "unknown"
+    }, {
+      "url" : "https://archives.un.org/en/content/death-dag-hammarskjold-0",
+      "kind" : "event",
+      "id" : "dag-hammarskjold-dies-1961",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.usgs.gov/publications/neic-national-earthquake-information-center-0",
+      "kind" : "event",
+      "id" : "mexico-earthquake-1985",
+      "status" : "unknown"
+    }, {
+      "url" : "https://royalarmouries.org/objects-and-stories/stories/the-hundred-years-war-1337-1453",
+      "kind" : "event",
+      "id" : "battle-of-poitiers-1356",
+      "status" : "unknown"
+    }, {
+      "url" : "https://womenshistory.si.edu/blog/beyond-court-billie-jean-kings-triumph-battle-sexes",
+      "kind" : "event",
+      "id" : "billie-jean-king-defeats-bobby-riggs-1973",
+      "status" : "unknown"
+    }, {
+      "url" : "https://treaties.un.org/doc/Publication/UNTS/Volume%201102/volume-1102-I-16921-English.pdf",
+      "kind" : "event",
+      "id" : "vietnam-admitted-un-1977",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/revolution-francaise/la-convention-nationale-et-la-fin-de-la-royaute",
+      "kind" : "event",
+      "id" : "french-monarchy-abolished-1792",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.tolkienestate.com/writing/john-d-rateliff-the-hobbit/",
+      "kind" : "event",
+      "id" : "the-hobbit-published-1937",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/historicaldocuments/frus1977-80v18/d220",
+      "kind" : "event",
+      "id" : "iran-iraq-war-begins-1980",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/item/today-in-history/september-22/",
+      "kind" : "event",
+      "id" : "nathan-hale-executed-1776",
+      "status" : "unknown"
+    }, {
+      "url" : "https://science.nasa.gov/mission/mars-climate-orbiter/",
+      "kind" : "event",
+      "id" : "mars-climate-orbiter-lost-1999",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.sec.gov/Archives/edgar/vprr/0800/08006168.pdf",
+      "kind" : "event",
+      "id" : "nintendo-founded-1889",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nintendo.com/us/about/",
+      "kind" : "event",
+      "id" : "nintendo-founded-1889",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.ctbto.org/news-and-events/news/happy-birthday-ctbt-0",
+      "kind" : "event",
+      "id" : "ctbt-opens-for-signature-1996",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.history.navy.mil/research/histories/ship-histories/danfs/e/enterprise-cvan-65-viii-1961-1965.html",
+      "kind" : "event",
+      "id" : "uss-enterprise-launched-1960",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/bill-of-rights",
+      "kind" : "event",
+      "id" : "bill-of-rights-proposed-1789",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://science.nasa.gov/mission/mars-observer/",
+      "kind" : "event",
+      "id" : "mars-observer-launched-1992",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.tavistock.gov.uk/drake-statue",
+      "kind" : "event",
+      "id" : "francis-drake-returns-plymouth-1580",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.jfklibrary.org/sites/default/files/2021-08/PresidentsDeskResourceGuide_118pgs%20SINGLE_WEB.pdf",
+      "kind" : "event",
+      "id" : "kennedy-nixon-first-televised-debate-1960",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.senate.gov/artandhistory/history/minute/The_First_Televised_Presidential_Debate.htm",
+      "kind" : "event",
+      "id" : "kennedy-nixon-first-televised-debate-1960",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.jesuits.global/2021/09/26/on-27-september-1540-the-society-of-jesus-received-papal-approval/",
+      "kind" : "event",
+      "id" : "society-of-jesus-approved-1540",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://history.state.gov/historicaldocuments/frus1931-41v02/d100",
+      "kind" : "event",
+      "id" : "tripartite-pact-signed-1940",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nps.gov/articles/cabrillo.htm",
+      "kind" : "event",
+      "id" : "cabrillo-enters-san-diego-bay-1542",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nps.gov/york/learn/historyculture/history-of-the-siege.htm",
+      "kind" : "event",
+      "id" : "siege-of-yorktown-begins-1781",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september/documents/hf_jp-ii_spe_19790929_irlanda-dublino-presidente.html",
+      "kind" : "event",
+      "id" : "john-paul-ii-arrives-ireland-1979",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar",
+      "kind" : "event",
+      "id" : "babyn-yar-massacre-begins-1941",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nationalmuseum.af.mil/Upcoming/Photos/igphoto/2000573158/",
+      "kind" : "event",
+      "id" : "berlin-airlift-last-flight-1949",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/",
+      "kind" : "event",
+      "id" : "berlin-airlift-last-flight-1949",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement",
+      "kind" : "event",
+      "id" : "munich-agreement-signed-1938",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/",
+      "kind" : "event",
+      "id" : "nasa-begins-operations-1958",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://fmino.gov.ng/1st-october-nigerias-history/",
+      "kind" : "event",
+      "id" : "nigeria-independence-1960",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html",
+      "kind" : "event",
+      "id" : "peoples-republic-china-proclaimed-1949",
+      "status" : "verified_supporting"
+    }, {
+      "url" : "https://psc.gov.tv/wp-content/uploads/2024/06/tuvalu.pdf",
+      "kind" : "event",
+      "id" : "tuvalu-independence-1978",
+      "status" : "verified_supporting"
+    } ],
+    "fiveOrMoreTotalEvents" : [ "08-22", "08-24", "08-25", "08-26", "08-27", "08-28", "08-29", "09-15" ],
+    "missingMonthDays" : [ "01-01", "01-02", "01-03", "01-04", "01-05", "01-06", "01-07", "01-08", "01-09", "01-10", "01-11", "01-12", "01-13", "01-14", "01-15", "01-16", "01-17", "01-18", "01-19", "01-20", "01-21", "01-22", "01-23", "01-24", "01-25", "01-26", "01-27", "01-28", "01-29", "01-30", "01-31", "02-01", "02-02", "02-03", "02-04", "02-05", "02-06", "02-07", "02-08", "02-09", "02-10", "02-11", "02-12", "02-13", "02-14", "02-15", "02-16", "02-17", "02-18", "02-19", "02-20", "02-21", "02-22", "02-23", "02-24", "02-25", "02-26", "02-27", "02-28", "02-29", "03-01", "03-02", "03-03", "03-04", "03-05", "03-06", "03-07", "03-08", "03-09", "03-10", "03-11", "03-12", "03-13", "03-14", "03-15", "03-16", "03-17", "03-18", "03-19", "03-20", "03-21", "03-22", "03-23", "03-24", "03-25", "03-26", "03-27", "03-28", "03-29", "03-30", "03-31", "04-01", "04-02", "04-03", "04-04", "04-05", "04-06", "04-07", "04-08", "04-09", "04-10", "04-11", "04-12", "04-13", "04-14", "04-15", "04-16", "04-17", "04-18", "04-19", "04-20", "04-21", "04-22", "04-23", "04-24", "04-25", "04-26", "04-27", "04-28", "04-29", "04-30", "05-01", "05-02", "05-03", "05-04", "05-05", "05-06", "05-07", "05-08", "05-09", "05-10", "05-11", "05-12", "05-13", "05-14", "05-15", "05-16", "05-17", "05-18", "05-19", "05-20", "05-21", "05-22", "05-23", "05-24", "05-25", "05-26", "05-27", "05-28", "05-29", "05-30", "05-31", "06-01", "06-02", "06-03", "06-04", "06-05", "06-06", "06-07", "06-08", "06-09", "06-10", "06-11", "06-12", "06-13", "06-14", "06-15", "06-16", "06-17", "06-18", "06-19", "06-20", "06-21", "06-22", "06-23", "06-24", "06-25", "06-26", "06-27", "06-28", "06-29", "06-30", "07-01", "07-02", "07-03", "07-04", "07-05", "07-06", "07-07", "07-08", "07-09", "07-10", "07-11", "07-12", "07-13", "07-14", "07-15", "07-16", "07-17", "07-18", "07-19", "07-20", "07-21", "07-22", "07-23", "07-24", "07-25", "07-26", "07-27", "07-28", "07-29", "07-30", "07-31", "08-01", "08-02", "08-03", "08-04", "08-05", "08-06", "08-07", "08-08", "08-09", "08-10", "08-11", "08-12", "08-13", "08-14", "08-15", "08-16", "08-17", "08-18", "08-19", "08-20", "08-21", "08-23", "08-30", "08-31", "09-01", "09-02", "09-03", "09-04", "09-05", "09-06", "09-07", "09-08", "09-09", "09-10", "09-11", "09-12", "09-13", "09-14", "10-02", "10-03", "10-04", "10-05", "10-06", "10-07", "10-08", "10-09", "10-10", "10-11", "10-12", "10-13", "10-14", "10-15", "10-16", "10-17", "10-18", "10-19", "10-20", "10-21", "10-22", "10-23", "10-24", "10-25", "10-26", "10-27", "10-28", "10-29", "10-30", "10-31", "11-01", "11-02", "11-03", "11-04", "11-05", "11-06", "11-07", "11-08", "11-09", "11-10", "11-11", "11-12", "11-13", "11-14", "11-15", "11-16", "11-17", "11-18", "11-19", "11-20", "11-21", "11-22", "11-23", "11-24", "11-25", "11-26", "11-27", "11-28", "11-29", "11-30", "12-01", "12-02", "12-03", "12-04", "12-05", "12-06", "12-07", "12-08", "12-09", "12-10", "12-11", "12-12", "12-13", "12-14", "12-15", "12-16", "12-17", "12-18", "12-19", "12-20", "12-21", "12-22", "12-23", "12-24", "12-25", "12-26", "12-27", "12-28", "12-29", "12-30", "12-31" ],
+    "imageRights" : [ {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/2/22/Richard_III_at_the_Battle_of_Bosworth.jpg",
+      "kind" : "event",
+      "id" : "battle-of-bosworth-field-1485",
+      "status" : "unknown"
+    } ],
+    "belowFourTotalEvents" : [ {
+      "monthDay" : "09-16",
+      "totalEvents" : 2,
+      "editorialException" : null
+    }, {
+      "monthDay" : "09-17",
+      "totalEvents" : 2,
+      "editorialException" : null
+    } ]
+  },
+  "quiz" : {
+    "publishedByEra" : {
+      "unknown" : 0
+    },
+    "publishedByDifficulty" : {
+      "easy" : 23,
+      "hard" : 19,
+      "medium" : 54
+    },
+    "publishedByType" : {
+      "chronological_ordering" : 8,
+      "image_identification" : 9,
+      "multiple_choice" : 61,
+      "true_false" : 18
+    },
+    "sourceLinks" : [ {
+      "url" : "https://www.britannica.com/topic/Pyramids-of-Giza",
+      "kind" : "quiz",
+      "id" : "great-pyramid-pharaoh",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Pompeii",
+      "kind" : "quiz",
+      "id" : "pompeii-destruction-volcano",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Latin-language",
+      "kind" : "quiz",
+      "id" : "western-roman-language",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Punic-Wars",
+      "kind" : "quiz",
+      "id" : "punic-wars-opponent",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Law-of-the-Twelve-Tables",
+      "kind" : "quiz",
+      "id" : "twelve-tables-purpose",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Battle-of-Actium-ancient-Roman-history",
+      "kind" : "quiz",
+      "id" : "battle-of-actium-victor",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/ancient-Rome",
+      "kind" : "quiz",
+      "id" : "roman-republic-before-empire",
+      "status" : "unknown"
+    }, {
+      "url" : "https://olympics.com/ioc/ancient-olympic-games",
+      "kind" : "quiz",
+      "id" : "ancient-olympics-two-year-cycle",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Colosseum",
+      "kind" : "quiz",
+      "id" : "identify-colosseum",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/ancient-Rome",
+      "kind" : "quiz",
+      "id" : "order-roman-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Punic-Wars",
+      "kind" : "quiz",
+      "id" : "order-roman-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler",
+      "kind" : "quiz",
+      "id" : "order-roman-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Augustus-Roman-emperor",
+      "kind" : "quiz",
+      "id" : "order-roman-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Musa-I-of-Mali",
+      "kind" : "quiz",
+      "id" : "mansa-musa-empire",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/364/",
+      "kind" : "quiz",
+      "id" : "great-zimbabwe-builders",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.metmuseum.org/essays/the-kingdom-of-aksum",
+      "kind" : "quiz",
+      "id" : "aksum-conversion-ruler",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+      "kind" : "quiz",
+      "id" : "constantinople-ottoman-sultan",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Suez-Canal",
+      "kind" : "quiz",
+      "id" : "suez-canal-seas",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Meroe-ancient-city-Sudan",
+      "kind" : "quiz",
+      "id" : "kush-royal-city-meroe",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Battle-of-Adwa",
+      "kind" : "quiz",
+      "id" : "adwa-ethiopian-independence",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britishmuseum.org/about-us/british-museum-story/contested-objects-collection/benin-bronzes",
+      "kind" : "quiz",
+      "id" : "identify-benin-bronze",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nelsonmandela.org/biography",
+      "kind" : "quiz",
+      "id" : "identify-nelson-mandela",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.metmuseum.org/essays/the-kingdom-of-aksum",
+      "kind" : "quiz",
+      "id" : "order-africa-middle-east-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Mali-historical-empire-Africa",
+      "kind" : "quiz",
+      "id" : "order-africa-middle-east-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Fall-of-Constantinople-1453",
+      "kind" : "quiz",
+      "id" : "order-africa-middle-east-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Battle-of-Adwa",
+      "kind" : "quiz",
+      "id" : "order-africa-middle-east-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/252/",
+      "kind" : "quiz",
+      "id" : "taj-mahal-commissioner",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Tokugawa-Ieyasu",
+      "kind" : "quiz",
+      "id" : "tokugawa-shogunate-founder",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Angkor-Wat",
+      "kind" : "quiz",
+      "id" : "angkor-wat-original-dedication",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief",
+      "kind" : "quiz",
+      "id" : "treaty-waitangi-parties",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Meiji-Restoration",
+      "kind" : "quiz",
+      "id" : "meiji-restoration-government",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Bandung-Conference",
+      "kind" : "quiz",
+      "id" : "bandung-conference-opening-president",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/438/",
+      "kind" : "quiz",
+      "id" : "great-wall-single-project",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/empire/collections1/collections2/indian-independence-act-1947/",
+      "kind" : "quiz",
+      "id" : "india-independence-1947",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c",
+      "kind" : "quiz",
+      "id" : "identify-terracotta-army",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Tang-dynasty",
+      "kind" : "quiz",
+      "id" : "order-asian-pacific-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Angkor-Wat",
+      "kind" : "quiz",
+      "id" : "order-asian-pacific-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Tokugawa-period",
+      "kind" : "quiz",
+      "id" : "order-asian-pacific-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Meiji-Restoration",
+      "kind" : "quiz",
+      "id" : "order-asian-pacific-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Kemal-Ataturk",
+      "kind" : "quiz",
+      "id" : "turkish-republic-founder",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Haitian-Revolution",
+      "kind" : "quiz",
+      "id" : "haitian-revolution-outcome",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen",
+      "kind" : "quiz",
+      "id" : "rights-of-man-year",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/Industrial-Revolution",
+      "kind" : "quiz",
+      "id" : "industrial-revolution-origin",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nzhistory.govt.nz/politics/womens-suffrage",
+      "kind" : "quiz",
+      "id" : "new-zealand-womens-vote",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nelsonmandela.org/biography",
+      "kind" : "quiz",
+      "id" : "south-africa-1994-president",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/overview.html",
+      "kind" : "quiz",
+      "id" : "mexican-revolution-began-1910",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/biography/Mahatma-Gandhi",
+      "kind" : "quiz",
+      "id" : "identify-mahatma-gandhi",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/people/harriet-tubman.htm",
+      "kind" : "quiz",
+      "id" : "identify-harriet-tubman",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/English-Civil-Wars",
+      "kind" : "quiz",
+      "id" : "order-atlantic-revolutions",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/subjects/americanrevolution/index.htm",
+      "kind" : "quiz",
+      "id" : "order-atlantic-revolutions",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/event/French-Revolution",
+      "kind" : "quiz",
+      "id" : "order-atlantic-revolutions",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/topic/Haitian-Revolution",
+      "kind" : "quiz",
+      "id" : "order-atlantic-revolutions",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Tenochtitlan",
+      "kind" : "quiz",
+      "id" : "aztec-capital-city",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/273/",
+      "kind" : "quiz",
+      "id" : "inca-capital-city",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm",
+      "kind" : "quiz",
+      "id" : "columbian-exchange-meaning",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/lecl/learn/historyculture/index.htm",
+      "kind" : "quiz",
+      "id" : "lewis-clark-commissioner",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Brazil/Independence",
+      "kind" : "quiz",
+      "id" : "brazil-independence-ruler",
+      "status" : "unknown"
+    }, {
+      "url" : "https://pancanal.com/en/history-of-the-panama-canal/",
+      "kind" : "quiz",
+      "id" : "panama-canal-transfer-year",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.metmuseum.org/essays/maya-writing",
+      "kind" : "quiz",
+      "id" : "maya-writing-system",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/louisiana-purchase-treaty",
+      "kind" : "quiz",
+      "id" : "louisiana-purchase-from-spain",
+      "status" : "unknown"
+    }, {
+      "url" : "https://whc.unesco.org/en/list/274/",
+      "kind" : "quiz",
+      "id" : "identify-machu-picchu",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Tenochtitlan",
+      "kind" : "quiz",
+      "id" : "order-americas-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/exhibits/1492/",
+      "kind" : "quiz",
+      "id" : "order-americas-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/founding-docs/declaration",
+      "kind" : "quiz",
+      "id" : "order-americas-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.britannica.com/place/Brazil/Independence",
+      "kind" : "quiz",
+      "id" : "order-americas-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/how-the-world-went-to-war-in-1914",
+      "kind" : "quiz",
+      "id" : "first-world-war-assassination",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/general-order-143",
+      "kind" : "quiz",
+      "id" : "d-day-operation-name",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/milestones/1914-1920/paris-peace",
+      "kind" : "quiz",
+      "id" : "versailles-league-created",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/midway.html",
+      "kind" : "quiz",
+      "id" : "midway-war-theatre",
+      "status" : "unknown"
+    }, {
+      "url" : "https://bletchleypark.org.uk/our-story/the-story-of-bletchley-park/",
+      "kind" : "quiz",
+      "id" : "bletchley-park-purpose",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.energy.gov/lm/manhattan-project-national-historical-park",
+      "kind" : "quiz",
+      "id" : "manhattan-project-objective",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.senate.gov/about/powers-procedures/treaties/versailles-treaty.htm",
+      "kind" : "quiz",
+      "id" : "united-states-league-member",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/winston-churchill-the-war-leader",
+      "kind" : "quiz",
+      "id" : "identify-winston-churchill",
+      "status" : "unknown"
+    }, {
+      "url" : "https://bletchleypark.org.uk/wp-content/uploads/record_attachments/1800.pdf",
+      "kind" : "quiz",
+      "id" : "identify-alan-turing",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/what-was-the-armistice",
+      "kind" : "quiz",
+      "id" : "order-world-war-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939",
+      "kind" : "quiz",
+      "id" : "order-world-war-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/general-order-143",
+      "kind" : "quiz",
+      "id" : "order-world-war-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/exhibits/featured-documents/japanese-surrender-document",
+      "kind" : "quiz",
+      "id" : "order-world-war-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/central-american-federation",
+      "kind" : "quiz",
+      "id" : "central-american-independence-date",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/how-tanks-first-appeared-on-the-battlefield",
+      "kind" : "quiz",
+      "id" : "first-world-war-tanks-flers-courcelette",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.rafmuseum.org.uk/documents/podcasts/transcripts/15_Sept_Podcast.pdf",
+      "kind" : "quiz",
+      "id" : "battle-of-britain-day-date",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/item/today-in-history/september-15/",
+      "kind" : "quiz",
+      "id" : "taft-president-chief-justice",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.federalreservehistory.org/essays/panic-of-2008",
+      "kind" : "quiz",
+      "id" : "lehman-bankruptcy-financial-crisis",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.loc.gov/item/today-in-history/september-15/",
+      "kind" : "quiz",
+      "id" : "order-september-15-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.iwm.org.uk/history/how-tanks-first-appeared-on-the-battlefield",
+      "kind" : "quiz",
+      "id" : "order-september-15-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.rafmuseum.org.uk/documents/podcasts/transcripts/15_Sept_Podcast.pdf",
+      "kind" : "quiz",
+      "id" : "order-september-15-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.federalreservehistory.org/essays/panic-of-2008",
+      "kind" : "quiz",
+      "id" : "order-september-15-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "kind" : "quiz",
+      "id" : "apollo-11-command-module-pilot",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "kind" : "quiz",
+      "id" : "apollo-11-lunar-module-name",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "kind" : "quiz",
+      "id" : "apollo-11-landing-site",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.who.int/emergencies/situations/smallpox/",
+      "kind" : "quiz",
+      "id" : "smallpox-last-natural-case-country",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.who.int/emergencies/situations/smallpox/",
+      "kind" : "quiz",
+      "id" : "smallpox-only-eradicated-infectious-disease",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/history/apollo-11-mission-overview/",
+      "kind" : "quiz",
+      "id" : "order-apollo-11-mission-milestones",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.unep.org/ozonaction/who-we-are/about-montreal-protocol",
+      "kind" : "quiz",
+      "id" : "montreal-protocol-environmental-goal",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea",
+      "kind" : "quiz",
+      "id" : "papua-new-guinea-former-administrator",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57",
+      "kind" : "quiz",
+      "id" : "camp-david-egyptian-president",
+      "status" : "unknown"
+    }, {
+      "url" : "https://home.nps.gov/articles/000/fugitive-slave-laws-boston.htm",
+      "kind" : "quiz",
+      "id" : "fugitive-slave-act-compromise",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/belize",
+      "kind" : "quiz",
+      "id" : "belize-former-colonial-name",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nso.gov.mt/wp-content/uploads/MIF-2013.pdf",
+      "kind" : "quiz",
+      "id" : "malta-colonial-power",
+      "status" : "unknown"
+    }, {
+      "url" : "https://history.state.gov/countries/mali",
+      "kind" : "quiz",
+      "id" : "mali-federation-partner",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.aps.org/apsnews/2020/08/neptunes-existence-confirmed",
+      "kind" : "quiz",
+      "id" : "neptune-mathematical-prediction",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.pbs.org/wgbh/globalconnections/mideast/timeline/text/qnations.html",
+      "kind" : "quiz",
+      "id" : "saudi-arabia-founding-king",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/podcasts/curious-universe/special-delivery-from-outer-space/",
+      "kind" : "quiz",
+      "id" : "osiris-rex-sampled-asteroid",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/milestone-documents/federal-judiciary-act",
+      "kind" : "quiz",
+      "id" : "judiciary-act-original-supreme-court",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nps.gov/people/the-little-rock-nine.htm",
+      "kind" : "quiz",
+      "id" : "little-rock-nine-school",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/science-research/planetary-science/from-impact-to-innovation-a-year-of-science-and-triumph-for-historic-dart-mission/",
+      "kind" : "quiz",
+      "id" : "dart-impact-target",
+      "status" : "unknown"
+    }, {
+      "url" : "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/",
+      "kind" : "quiz",
+      "id" : "locomotion-railway-opening",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf",
+      "kind" : "quiz",
+      "id" : "champollion-writing-system",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/",
+      "kind" : "quiz",
+      "id" : "world-flight-1924-service",
+      "status" : "unknown"
+    }, {
+      "url" : "https://botswanamission.ch/brief-history-2/",
+      "kind" : "quiz",
+      "id" : "botswana-first-president",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet",
+      "kind" : "quiz",
+      "id" : "rosetta-comet-name",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.senate.gov/art-artifacts/historical-images/prints-engravings/38_00005_001.htm",
+      "kind" : "quiz",
+      "id" : "washington-farewell-public-speech",
+      "status" : "unknown"
+    }, {
+      "url" : "https://socialnewsroom.spain.info/extensive-activity-programme-announced-for-the-500th-anniversary-of-the-first-circumnavigation-of-the-world/",
+      "kind" : "quiz",
+      "id" : "magellan-completed-own-expedition",
+      "status" : "unknown"
+    }, {
+      "url" : "https://nzhistory.govt.nz/womens-suffrage-day",
+      "kind" : "quiz",
+      "id" : "nz-vote-and-candidacy-same-year",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.archives.gov/exhibits/american_originals_iv/sections/text_preliminary_emancipation.html",
+      "kind" : "quiz",
+      "id" : "preliminary-emancipation-immediate-abolition",
+      "status" : "unknown"
+    }, {
+      "url" : "https://timeline.web.cern.ch/cern-exists",
+      "kind" : "quiz",
+      "id" : "cern-founded-before-space-age",
+      "status" : "unknown"
+    }, {
+      "url" : "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+      "kind" : "quiz",
+      "id" : "discovery-sts26-return-to-flight",
+      "status" : "unknown"
+    } ],
+    "publishedByRegion" : {
+      "unknown" : 0
+    },
+    "adjacentDayQuestionOverlap" : [ ],
+    "publishedByCollection" : {
+      "ancient-history" : 16,
+      "ancient-rome" : 6,
+      "exploration-and-exchange" : 16,
+      "leaders-and-power" : 23,
+      "revolutions" : 11,
+      "science-and-innovation" : 28,
+      "society-culture-and-ideas" : 19,
+      "wars-and-conflicts" : 20,
+      "world-wars" : 13
+    },
+    "imageRights" : [ {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/5/53/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+      "kind" : "quiz",
+      "id" : "identify-colosseum",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/At_the_British_Museum_2024_017.jpg/960px-At_the_British_Museum_2024_017.jpg",
+      "kind" : "quiz",
+      "id" : "identify-benin-bronze",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/9/94/Bust_of_Nelson_Mandela%2C_National_Portrait_Gallery%2C_London.jpg",
+      "kind" : "quiz",
+      "id" : "identify-nelson-mandela",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/4/43/Qin_Shihuang_Terracotta_Army%2C_Pit_1.jpg",
+      "kind" : "quiz",
+      "id" : "identify-terracotta-army",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg",
+      "kind" : "quiz",
+      "id" : "identify-mahatma-gandhi",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/6/61/Harriet_Tubman_%28circa_1885%29.jpg",
+      "kind" : "quiz",
+      "id" : "identify-harriet-tubman",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG/960px-Machu_Picchu%2C_Per%C3%BA%2C_2015-07-30%2C_DD_47.JPG",
+      "kind" : "quiz",
+      "id" : "identify-machu-picchu",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/3/30/Sir_Winston_Churchill_%28cropped_3_by_4%29.jpg",
+      "kind" : "quiz",
+      "id" : "identify-winston-churchill",
+      "status" : "unknown"
+    }, {
+      "url" : "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg",
+      "kind" : "quiz",
+      "id" : "identify-alan-turing",
+      "status" : "unknown"
+    } ]
+  }
+}

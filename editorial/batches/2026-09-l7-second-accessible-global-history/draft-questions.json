@@ -1,0 +1,486 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "hammurabi-code-written-laws",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What was the Code of Hammurabi?",
+      "options": [
+        {"id": "written-laws-and-penalties", "text": "A written collection of laws and penalties"},
+        {"id": "royal-family-history", "text": "A history of a royal family"},
+        {"id": "religious-hymn-collection", "text": "A collection of religious hymns"},
+        {"id": "merchant-trade-agreement", "text": "A trade agreement for merchants"}
+      ],
+      "correctOptionId": "written-laws-and-penalties",
+      "explanation": "The stele known as the Code of Hammurabi records laws and penalties from ancient Babylon, alongside a royal inscription presenting Hammurabi as a ruler concerned with justice.",
+      "sources": [{"displayName": "Louvre - The Code of Hammurabi", "url": "https://www.louvre.fr/en/the-code-of-hammurabi"}],
+      "collectionIds": ["ancient-history", "society-culture-and-ideas"]
+    },
+    {
+      "id": "teotihuacan-ceremonial-center",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which ancient city is known for the Avenue of the Dead and the Pyramid of the Sun?",
+      "options": [
+        {"id": "teotihuacan", "text": "Teotihuacan"},
+        {"id": "tenochtitlan", "text": "Tenochtitlan"},
+        {"id": "cusco", "text": "Cusco"},
+        {"id": "tikal", "text": "Tikal"}
+      ],
+      "correctOptionId": "teotihuacan",
+      "explanation": "Teotihuacan developed into one of the largest ancient cities in the Americas. Its monumental Avenue of the Dead is lined by major ceremonial structures, including the Pyramids of the Sun and Moon.",
+      "sources": [{"displayName": "UNESCO - Pre-Hispanic City of Teotihuacan", "url": "https://whc.unesco.org/en/list/414"}],
+      "collectionIds": ["ancient-history", "society-culture-and-ideas"]
+    },
+    {
+      "id": "ashoka-edicts-dhamma",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Ashoka's stone edicts were used to communicate ideas rooted in what concept?",
+      "options": [
+        {"id": "dhamma", "text": "Dhamma"},
+        {"id": "feudalism", "text": "Feudalism"},
+        {"id": "mercantilism", "text": "Mercantilism"},
+        {"id": "humanism", "text": "Humanism"}
+      ],
+      "correctOptionId": "dhamma",
+      "explanation": "Ashoka used inscriptions in public places to communicate moral principles rooted in dhamma, alongside directions to officials and messages intended for people across his empire.",
+      "sources": [{"displayName": "UNESCO - Ashokan Edict Sites along the Mauryan Routes", "url": "https://whc.unesco.org/en/tentativelists/6803"}],
+      "collectionIds": ["ancient-history", "society-culture-and-ideas"]
+    },
+    {
+      "id": "alhambra-nasrid-palace",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Which dynasty built the principal palaces of the Alhambra?",
+      "options": [
+        {"id": "nasrid", "text": "Nasrid"},
+        {"id": "umayyad", "text": "Umayyad"},
+        {"id": "abbasid", "text": "Abbasid"},
+        {"id": "almohad", "text": "Almohad"}
+      ],
+      "correctOptionId": "nasrid",
+      "explanation": "The Alhambra in Granada contains palaces and gardens developed under the Nasrid dynasty, the last Muslim dynasty to rule part of the Iberian Peninsula.",
+      "sources": [{"displayName": "UNESCO - Alhambra, Generalife and Albayzín, Granada", "url": "https://whc.unesco.org/en/list/314"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "kilwa-indian-ocean-trade",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Kilwa Kisiwani became prosperous chiefly through what?",
+      "options": [
+        {"id": "indian-ocean-trade", "text": "Indian Ocean trade"},
+        {"id": "trans-saharan-caravans", "text": "Trans-Saharan caravans"},
+        {"id": "mediterranean-shipping", "text": "Mediterranean shipping"},
+        {"id": "atlantic-whaling", "text": "Atlantic whaling"}
+      ],
+      "correctOptionId": "indian-ocean-trade",
+      "explanation": "Kilwa Kisiwani was a Swahili trading city whose prosperity rested on Indian Ocean connections with Arabia, India, and China, as well as trade with the African interior.",
+      "sources": [{"displayName": "UNESCO - Ruins of Kilwa Kisiwani and Songo Mnara", "url": "https://whc.unesco.org/en/list/144"}],
+      "collectionIds": ["exploration-and-exchange", "society-culture-and-ideas"]
+    },
+    {
+      "id": "timbuktu-manuscript-scholarship",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Timbuktu became renowned as a center of what?",
+      "options": [
+        {"id": "scholarship-and-manuscripts", "text": "Scholarship and manuscript culture"},
+        {"id": "roman-law", "text": "Roman law"},
+        {"id": "shipbuilding", "text": "Shipbuilding"},
+        {"id": "silk-production", "text": "Silk production"}
+      ],
+      "correctOptionId": "scholarship-and-manuscripts",
+      "explanation": "Timbuktu's mosques, madrasas, and manuscript collections reflect its historic role as a center of Islamic scholarship and learning in West Africa.",
+      "sources": [{"displayName": "UNESCO - Timbuktu", "url": "https://whc.unesco.org/en/list/119"}],
+      "collectionIds": ["society-culture-and-ideas", "exploration-and-exchange"]
+    },
+    {
+      "id": "dutch-east-india-company-purpose",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Dutch East India Company was established chiefly to do what?",
+      "options": [
+        {"id": "coordinate-overseas-trade", "text": "Coordinate Dutch overseas trade"},
+        {"id": "regulate-domestic-merchant-guilds", "text": "Regulate merchant guilds within the Dutch Republic"},
+        {"id": "finance-coastal-defenses", "text": "Finance defenses along the Dutch coast"},
+        {"id": "manage-european-bank-rates", "text": "Manage bank rates across Europe"}
+      ],
+      "correctOptionId": "coordinate-overseas-trade",
+      "explanation": "The Dutch East India Company, or VOC, received a charter to organize Dutch trade and colonial activity in Asia. Its archive documents a vast commercial network as well as the coercive power that sustained it.",
+      "sources": [{"displayName": "Dutch National Archives - VOC archives", "url": "https://www.nationaalarchief.nl/en/research/archive-collection/1.04.02"}],
+      "collectionIds": ["exploration-and-exchange", "society-culture-and-ideas"]
+    },
+    {
+      "id": "copernican-model-earth-orbits-sun",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In the Copernican model, which body is at the center of the planetary system?",
+      "options": [
+        {"id": "sun", "text": "The Sun"},
+        {"id": "earth", "text": "The Earth"},
+        {"id": "moon", "text": "The Moon"},
+        {"id": "jupiter", "text": "Jupiter"}
+      ],
+      "correctOptionId": "sun",
+      "explanation": "Copernicus argued for a Sun-centered arrangement in which Earth is one of the planets moving around the Sun, challenging the long-dominant Earth-centered model.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Nicolaus Copernicus", "url": "https://www.britannica.com/biography/Nicolaus-Copernicus"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "british-slavery-abolition-act-1833",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What did the Slavery Abolition Act 1833 primarily do?",
+      "options": [
+        {"id": "abolished-slavery-most-british-empire", "text": "Abolished slavery through most of the British Empire"},
+        {"id": "ended-serfdom-in-russia", "text": "Ended serfdom in Russia"},
+        {"id": "created-united-nations", "text": "Created the United Nations"},
+        {"id": "granted-votes-to-women", "text": "Granted votes to women"}
+      ],
+      "correctOptionId": "abolished-slavery-most-british-empire",
+      "explanation": "The 1833 act abolished slavery in most British colonies, although its apprenticeship system delayed full freedom for many formerly enslaved people.",
+      "sources": [{"displayName": "UK Parliament - Abolition of the Slave Trade and Slavery", "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/overview/abolition/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "simon-bolivar-gran-colombia",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which leader was central to the independence movement that created Gran Colombia?",
+      "options": [
+        {"id": "simon-bolivar", "text": "Simón Bolívar"},
+        {"id": "jose-de-san-martin", "text": "José de San Martín"},
+        {"id": "bernardo-ohiggins", "text": "Bernardo O'Higgins"},
+        {"id": "miguel-hidalgo", "text": "Miguel Hidalgo"}
+      ],
+      "correctOptionId": "simon-bolivar",
+      "explanation": "Simón Bolívar led independence campaigns in northern South America and became president of Gran Colombia, a federation that included present-day Colombia, Venezuela, Ecuador, and Panama.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Simón Bolívar", "url": "https://www.britannica.com/biography/Simon-Bolivar"}],
+      "collectionIds": ["leaders-and-power", "revolutions"]
+    },
+    {
+      "id": "xinhai-revolution-qing-dynasty",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Xinhai Revolution ended rule by which Chinese dynasty?",
+      "options": [
+        {"id": "qing", "text": "Qing"},
+        {"id": "ming", "text": "Ming"},
+        {"id": "tang", "text": "Tang"},
+        {"id": "song", "text": "Song"}
+      ],
+      "correctOptionId": "qing",
+      "explanation": "The 1911–12 Xinhai Revolution brought down the Qing dynasty and led to the establishment of the Republic of China.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Chinese Revolution of 1911–12", "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912"}],
+      "collectionIds": ["revolutions"]
+    },
+    {
+      "id": "harlem-renaissance-cultural-movement",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Harlem Renaissance was a flowering of what?",
+      "options": [
+        {"id": "black-art-literature-and-intellectual-life", "text": "Black art, literature, and intellectual life"},
+        {"id": "industrial-labor-organizing", "text": "Industrial labor organizing"},
+        {"id": "federal-government-administration", "text": "Federal government administration"},
+        {"id": "agricultural-land-reform", "text": "Agricultural land reform"}
+      ],
+      "correctOptionId": "black-art-literature-and-intellectual-life",
+      "explanation": "The Harlem Renaissance was a major early-twentieth-century cultural movement in which Black writers, artists, musicians, and intellectuals reshaped American cultural life.",
+      "sources": [{"displayName": "Smithsonian NMAAHC - Harlem Renaissance", "url": "https://nmaahc.si.edu/explore/stories/harlem-renaissance"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "ghana-independence-1957",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which country became independent from British colonial rule in 1957 under Kwame Nkrumah?",
+      "options": [
+        {"id": "ghana", "text": "Ghana"},
+        {"id": "kenya", "text": "Kenya"},
+        {"id": "nigeria", "text": "Nigeria"},
+        {"id": "tanzania", "text": "Tanzania"}
+      ],
+      "correctOptionId": "ghana",
+      "explanation": "The Gold Coast became the independent state of Ghana on 6 March 1957. Kwame Nkrumah was a central leader in the movement for independence.",
+      "sources": [{"displayName": "Ghana Ministry of Foreign Affairs - The Ghanaian Envoy", "url": "https://mfa.gov.gh/wp-content/uploads/2021/02/The-Ghanaian-Envoy-Newsletter-2019.pdf"}],
+      "collectionIds": ["revolutions", "society-culture-and-ideas"]
+    },
+    {
+      "id": "civil-rights-act-title-vii-employment",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What major area of discrimination was addressed by Title VII of the U.S. Civil Rights Act of 1964?",
+      "options": [
+        {"id": "employment", "text": "Employment"},
+        {"id": "immigration", "text": "Immigration"},
+        {"id": "military-draft-service", "text": "Military draft service"},
+        {"id": "banking-regulation", "text": "Banking regulation"}
+      ],
+      "correctOptionId": "employment",
+      "explanation": "Title VII of the Civil Rights Act of 1964 prohibited employment discrimination and established the Equal Employment Opportunity Commission to help enforce the law.",
+      "sources": [{"displayName": "U.S. National Archives - Civil Rights Act of 1964", "url": "https://www.archives.gov/milestone-documents/civil-rights-act"}],
+      "collectionIds": ["society-culture-and-ideas", "revolutions"]
+    },
+    {
+      "id": "green-revolution-agriculture",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Green Revolution relied especially on what?",
+      "options": [
+        {"id": "high-yield-crops-and-modern-inputs", "text": "High-yield crops and modern agricultural inputs"},
+        {"id": "land-reform-and-redistribution", "text": "Land reform and redistribution"},
+        {"id": "expanded-subsistence-farming", "text": "Expanded subsistence farming"},
+        {"id": "industrial-factory-mechanization", "text": "Industrial factory mechanization"}
+      ],
+      "correctOptionId": "high-yield-crops-and-modern-inputs",
+      "explanation": "The Green Revolution increased crop yields through high-yield varieties together with irrigation, fertilizer, pest control, and agricultural research. Its gains and social consequences varied by place.",
+      "sources": [{"displayName": "Nobel Prize - Norman Borlaug facts", "url": "https://www.nobelprize.org/prizes/peace/1970/borlaug/facts/"}],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "opec-founding-purpose",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "OPEC was founded to coordinate policies among which countries?",
+      "options": [
+        {"id": "petroleum-exporting-countries", "text": "Petroleum-exporting countries"},
+        {"id": "major-oil-consuming-countries", "text": "Major oil-consuming countries"},
+        {"id": "international-shipping-nations", "text": "International shipping nations"},
+        {"id": "mineral-exporting-countries", "text": "Mineral-exporting countries"}
+      ],
+      "correctOptionId": "petroleum-exporting-countries",
+      "explanation": "OPEC is an intergovernmental organization whose mission includes coordinating and unifying petroleum policies among its member countries.",
+      "sources": [{"displayName": "OPEC - Mission statement", "url": "https://www.opec.org/speech-detail/357-19-september-2022.html"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "human-genome-project-sequence",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What was the central aim of the Human Genome Project?",
+      "options": [
+        {"id": "map-and-sequence-human-genome", "text": "Map and sequence the human genome"},
+        {"id": "standardize-medical-records", "text": "Standardize medical records worldwide"},
+        {"id": "develop-universal-genetic-treatment", "text": "Develop a universal genetic treatment"},
+        {"id": "catalog-all-species-genomes", "text": "Catalog the genomes of all species"}
+      ],
+      "correctOptionId": "map-and-sequence-human-genome",
+      "explanation": "The Human Genome Project was an international effort to determine the sequence of human DNA and identify and map human genes.",
+      "sources": [{"displayName": "NHGRI - Human Genome Project", "url": "https://www.genome.gov/human-genome-project"}],
+      "collectionIds": ["science-and-innovation"]
+    },
+    {
+      "id": "silk-roads-single-route",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Silk Roads were one road used only to carry silk.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "false",
+      "explanation": "The Silk Roads were networks of land and sea routes. They carried many goods as well as religions, technologies, artistic ideas, and people across Eurasia and beyond.",
+      "sources": [{"displayName": "UNESCO - About the Silk Roads", "url": "https://en.unesco.org/silkroad/about-silk-roads"}],
+      "collectionIds": ["exploration-and-exchange", "society-culture-and-ideas"]
+    },
+    {
+      "id": "universal-declaration-binding-treaty",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Universal Declaration of Human Rights is itself a legally binding treaty.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "false",
+      "explanation": "The Universal Declaration set a common standard of human rights. It is not itself a treaty, though it influenced later binding international agreements and many national constitutions.",
+      "sources": [{"displayName": "United Nations - Universal Declaration of Human Rights", "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "bertha-von-suttner-nobel-peace-prize",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Bertha von Suttner was the first woman awarded the Nobel Peace Prize.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "Austrian peace activist Bertha von Suttner received the Nobel Peace Prize in 1905, becoming the first woman to receive that prize.",
+      "sources": [{"displayName": "Nobel Prize - Bertha von Suttner facts", "url": "https://www.nobelprize.org/prizes/peace/1905/suttner/facts/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "mongol-empire-contiguous-land-empire",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Mongol Empire is generally described as history's largest contiguous land empire.",
+      "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
+      "correctOptionId": "true",
+      "explanation": "At its height, the Mongol Empire stretched across much of Eurasia and is commonly described as the largest contiguous land empire in history.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Mongol empire", "url": "https://www.britannica.com/place/Mongol-empire"}],
+      "collectionIds": ["wars-and-conflicts", "leaders-and-power"]
+    },
+    {
+      "id": "order-constitutional-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these constitutional and human-rights milestones in order from earliest to latest.",
+      "items": [
+        {"id": "us-constitution", "text": "U.S. Constitution signed"},
+        {"id": "universal-declaration", "text": "Universal Declaration of Human Rights adopted"},
+        {"id": "magna-carta", "text": "Magna Carta sealed"},
+        {"id": "english-bill-of-rights", "text": "English Bill of Rights enacted"}
+      ],
+      "correctOrderItemIds": ["magna-carta", "english-bill-of-rights", "us-constitution", "universal-declaration"],
+      "explanation": "The four landmarks span more than seven centuries: Magna Carta in 1215, the English Bill of Rights in 1689, the U.S. Constitution in 1787, and the Universal Declaration in 1948.",
+      "sources": [
+        {"displayName": "UK Parliament - Magna Carta", "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-the-constitution/overview/magnacarta/"},
+        {"displayName": "UK Parliament - Bill of Rights 1689", "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/overview/rights/"},
+        {"displayName": "U.S. National Archives - Constitution", "url": "https://www.archives.gov/founding-docs/constitution"},
+        {"displayName": "United Nations - Universal Declaration of Human Rights", "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights"}
+      ],
+      "collectionIds": ["society-culture-and-ideas", "revolutions"]
+    },
+    {
+      "id": "order-modern-communication-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these communication milestones in order from earliest to latest.",
+      "items": [
+        {"id": "arpanet-first-message", "text": "First ARPANET message sent"},
+        {"id": "bell-telephone-patent", "text": "Bell receives a telephone patent"},
+        {"id": "web-software-public-domain", "text": "CERN releases Web software into the public domain"},
+        {"id": "morse-telegraph-patent", "text": "Morse receives a telegraph patent"}
+      ],
+      "correctOrderItemIds": ["morse-telegraph-patent", "bell-telephone-patent", "arpanet-first-message", "web-software-public-domain"],
+      "explanation": "The intended milestones are Morse's U.S. telegraph patent in 1840, Bell's telephone patent in 1876, the first ARPANET message in 1969, and CERN's 1993 release of Web software into the public domain.",
+      "sources": [
+        {"displayName": "U.S. Patent and Trademark Office - Samuel Morse", "url": "https://www.uspto.gov/about-us/news-updates/telegraph-patent"},
+        {"displayName": "U.S. Patent and Trademark Office - Alexander Graham Bell", "url": "https://www.uspto.gov/about-us/news-updates/bells-telephone-patent"},
+        {"displayName": "UCLA - First ARPANET message", "url": "https://www.internethistory.ucla.edu/internet/msg.html"},
+        {"displayName": "CERN - Web software made available", "url": "https://home.cern/science/computing/birth-web/short-history-web"}
+      ],
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+    },
+    {
+      "id": "order-cold-war-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Put these Cold War milestones in order from earliest to latest.",
+      "items": [
+        {"id": "berlin-wall-opens", "text": "Berlin Wall opens"},
+        {"id": "warsaw-pact-signed", "text": "Warsaw Pact signed"},
+        {"id": "nato-founded", "text": "NATO founded"},
+        {"id": "berlin-wall-erected", "text": "Berlin Wall erected"}
+      ],
+      "correctOrderItemIds": ["nato-founded", "warsaw-pact-signed", "berlin-wall-erected", "berlin-wall-opens"],
+      "explanation": "NATO was founded in 1949, the Warsaw Pact was signed in 1955, the Berlin Wall was erected in 1961, and border crossings opened in November 1989.",
+      "sources": [
+        {"displayName": "NATO - Founding treaty", "url": "https://www.nato.int/cps/en/natohq/declassified_137930.htm"},
+        {"displayName": "Wilson Center - Warsaw Pact", "url": "https://www.wilsoncenter.org/article/warsaw-pact"},
+        {"displayName": "German Historical Museum - Berlin Wall", "url": "https://www.dhm.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/berlin-mauerbau.html"},
+        {"displayName": "German Historical Museum - Fall of the Berlin Wall", "url": "https://www.dhm.de/lemo/kapitel/friedliche-revolution/der-mauerfall.html"}
+      ],
+      "collectionIds": ["wars-and-conflicts"]
+    },
+    {
+      "id": "identify-abraham-lincoln",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who is shown in this portrait?",
+      "image": {"url": "https://cdn.loc.gov/service/pnp/ppmsca/19200/19211v.jpg", "altText": "Black-and-white seated portrait of a bearded man in a dark suit", "source": "Library of Congress", "sourceUrl": "https://www.loc.gov/pictures/item/2008680391/", "attribution": "Library of Congress Prints and Photographs Division", "creator": "Unknown photographer", "license": "No known restrictions", "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"},
+      "options": [{"id": "abraham-lincoln", "text": "Abraham Lincoln"}, {"id": "ulysses-s-grant", "text": "Ulysses S. Grant"}, {"id": "andrew-johnson", "text": "Andrew Johnson"}, {"id": "william-t-sherman", "text": "William T. Sherman"}],
+      "correctOptionId": "abraham-lincoln",
+      "explanation": "Abraham Lincoln served as U.S. president during the Civil War and issued the Emancipation Proclamation, a pivotal wartime measure against slavery.",
+      "sources": [{"displayName": "Library of Congress - Abraham Lincoln portrait", "url": "https://www.loc.gov/pictures/item/2008680391/"}],
+      "collectionIds": ["leaders-and-power", "society-culture-and-ideas"]
+    },
+    {
+      "id": "identify-frederick-douglass",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who is shown in this portrait?",
+      "image": {"url": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/69200/69250v.jpg", "altText": "Seated nineteenth-century man in a dark coat with a white collar", "source": "Library of Congress", "sourceUrl": "https://www.loc.gov/pictures/item/2020633537/", "attribution": "B.F. Smith & Son, via Library of Congress", "creator": "B.F. Smith & Son", "license": "No known restrictions", "licenseUrl": "https://www.loc.gov/rr/print/res/rights.html"},
+      "options": [{"id": "frederick-douglass", "text": "Frederick Douglass"}, {"id": "booker-t-washington", "text": "Booker T. Washington"}, {"id": "w-e-b-du-bois", "text": "W. E. B. Du Bois"}, {"id": "martin-delany", "text": "Martin Delany"}],
+      "correctOptionId": "frederick-douglass",
+      "explanation": "Frederick Douglass was an abolitionist, writer, and public speaker who escaped slavery and became one of the most influential advocates for freedom and equal citizenship in nineteenth-century America.",
+      "sources": [{"displayName": "Library of Congress - Frederick Douglass portrait", "url": "https://www.loc.gov/pictures/item/2020633537/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    },
+    {
+      "id": "identify-charles-darwin",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which scientist is shown in this portrait?",
+      "image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Charles_Darwin_portrait.jpg", "altText": "Black-and-white head-and-shoulders portrait of an elderly bearded man in a dark coat", "source": "Wikimedia Commons", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_portrait.jpg", "attribution": "Herbert Rose Barraud, 1881, via Wikimedia Commons", "creator": "Herbert Rose Barraud", "license": "Public Domain Mark 1.0", "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"},
+      "options": [{"id": "charles-darwin", "text": "Charles Darwin"}, {"id": "alfred-russel-wallace", "text": "Alfred Russel Wallace"}, {"id": "gregor-mendel", "text": "Gregor Mendel"}, {"id": "louis-pasteur", "text": "Louis Pasteur"}],
+      "correctOptionId": "charles-darwin",
+      "explanation": "Charles Darwin developed a theory of evolution by natural selection. Alfred Russel Wallace independently reached a closely related insight, while Mendel and Pasteur made different foundational contributions to science.",
+      "sources": [{"displayName": "Natural History Museum - Charles Darwin", "url": "https://www.nhm.ac.uk/discover/charles-darwin-most-famous-scientist.html"}],
+      "collectionIds": ["science-and-innovation"]
+    },
+    {
+      "id": "identify-sun-yat-sen",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which political leader is shown in this portrait?",
+      "image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Sun_Yat_Sen_portrait_2.jpg", "altText": "Black-and-white formal portrait of a man in a dark high-collared jacket", "source": "Wikimedia Commons", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg", "attribution": "Shanghai Tongsheng Photography Studio, via Wikimedia Commons", "creator": "Shanghai Tongsheng Photography Studio", "license": "Public Domain Mark 1.0", "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"},
+      "options": [{"id": "sun-yat-sen", "text": "Sun Yat-sen"}, {"id": "chiang-kai-shek", "text": "Chiang Kai-shek"}, {"id": "mao-zedong", "text": "Mao Zedong"}, {"id": "yuan-shikai", "text": "Yuan Shikai"}],
+      "correctOptionId": "sun-yat-sen",
+      "explanation": "Sun Yat-sen was a revolutionary leader associated with the overthrow of the Qing dynasty and the founding of the Republic of China. He became its first provisional president in 1912.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Sun Yat-sen", "url": "https://www.britannica.com/biography/Sun-Yat-sen"}],
+      "collectionIds": ["leaders-and-power", "revolutions"]
+    },
+    {
+      "id": "identify-jose-rizal",
+      "type": "image_identification",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Which writer and reformer is shown in this portrait?",
+      "image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Portrait_of_Jos%C3%A9_Rizal_(1891).jpg?width=737", "altText": "Nineteenth-century painted portrait of a man in a dark formal jacket", "source": "Wikimedia Commons", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Jos%C3%A9_Rizal_(1891).jpg", "attribution": "Portrait of José Rizal, 1891; photograph by Redenertube via Wikimedia Commons", "creator": "Unknown painter; photograph by Redenertube", "license": "CC0 1.0 Universal", "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"},
+      "options": [{"id": "jose-rizal", "text": "José Rizal"}, {"id": "andres-bonifacio", "text": "Andrés Bonifacio"}, {"id": "emilio-aguinaldo", "text": "Emilio Aguinaldo"}, {"id": "apolinario-mabini", "text": "Apolinario Mabini"}],
+      "correctOptionId": "jose-rizal",
+      "explanation": "José Rizal was a Filipino writer and reform advocate whose novels and political writings became important to Philippine nationalism.",
+      "sources": [{"displayName": "National Historical Commission of the Philippines - José Rizal", "url": "https://nhcp.gov.ph/jose-rizal/"}],
+      "collectionIds": ["leaders-and-power", "society-culture-and-ideas"]
+    },
+    {
+      "id": "identify-statue-of-liberty",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which monument is shown?",
+      "image": {"url": "https://commons.wikimedia.org/wiki/Special:FilePath/Statueofliberty_nps.jpg?width=683", "altText": "Large robed statue holding a raised torch on an island beside a harbor", "source": "Wikimedia Commons", "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statueofliberty_nps.jpg", "attribution": "National Park Service, via Wikimedia Commons", "creator": "National Park Service", "license": "Public Domain Mark 1.0", "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"},
+      "options": [{"id": "statue-of-liberty", "text": "Statue of Liberty"}, {"id": "christ-the-redeemer", "text": "Christ the Redeemer"}, {"id": "motherland-calls", "text": "The Motherland Calls"}, {"id": "winged-victory-samothrace", "text": "Winged Victory of Samothrace"}],
+      "correctOptionId": "statue-of-liberty",
+      "explanation": "The Statue of Liberty was dedicated in New York Harbor in 1886. It was designed by Frédéric Auguste Bartholdi, with an internal framework associated with Gustave Eiffel.",
+      "sources": [{"displayName": "Library of Congress - Statue of Liberty", "url": "https://www.loc.gov/item/ny1251/"}],
+      "collectionIds": ["society-culture-and-ideas"]
+    }
+  ]
+}

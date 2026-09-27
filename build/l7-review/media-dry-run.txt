@@ -1,0 +1,69 @@
+{
+  "entries" : [ {
+    "id" : "washington",
+    "questionId" : "identify-george-washington",
+    "objectKey" : "quiz-images/identify-george-washington/49f14519c7c4a66b73cb0f24b33ecd630c0fa71ea6bfcb74d34d5b6123b3d2f6.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 139812,
+    "width" : 815,
+    "height" : 1024,
+    "sha256" : "49f14519c7c4a66b73cb0f24b33ecd630c0fa71ea6bfcb74d34d5b6123b3d2f6",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  }, {
+    "id" : "curie",
+    "questionId" : "identify-marie-curie",
+    "objectKey" : "quiz-images/identify-marie-curie/01368f2f5d08f87acf55741dc7692b159b433f8aefd91bb59a3a010371c4f46e.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 118107,
+    "width" : 500,
+    "height" : 900,
+    "sha256" : "01368f2f5d08f87acf55741dc7692b159b433f8aefd91bb59a3a010371c4f46e",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  }, {
+    "id" : "shakespeare",
+    "questionId" : "identify-william-shakespeare",
+    "objectKey" : "quiz-images/identify-william-shakespeare/7f31261f91c9f40010c408a5cbd350b87bb481b617bc8592b41ace776eda00cd.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 365697,
+    "width" : 983,
+    "height" : 1024,
+    "sha256" : "7f31261f91c9f40010c408a5cbd350b87bb481b617bc8592b41ace776eda00cd",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  }, {
+    "id" : "great-wave",
+    "questionId" : "identify-great-wave-off-kanagawa",
+    "objectKey" : "quiz-images/identify-great-wave-off-kanagawa/cca653cef3d832a81ceaa2a344ecbeeec31ecfc0fa12d33df4c3d03cd04a3f56.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 112230,
+    "width" : 600,
+    "height" : 410,
+    "sha256" : "cca653cef3d832a81ceaa2a344ecbeeec31ecfc0fa12d33df4c3d03cd04a3f56",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  }, {
+    "id" : "liliuokalani",
+    "questionId" : "identify-queen-liliuokalani",
+    "objectKey" : "quiz-images/identify-queen-liliuokalani/16492f4bef52cf5ae7beda0ab47b29407bea26e4fd062eb501ccc8083119c909.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 15132,
+    "width" : 366,
+    "height" : 640,
+    "sha256" : "16492f4bef52cf5ae7beda0ab47b29407bea26e4fd062eb501ccc8083119c909",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  }, {
+    "id" : "joan",
+    "questionId" : "identify-joan-of-arc-painting",
+    "objectKey" : "quiz-images/identify-joan-of-arc-painting/099d2c085b5ee7a7c6bb7d27c7aa7e9cb63964262d8b496bfc483d0cb79bde77.jpg",
+    "contentType" : "image/jpeg",
+    "byteSize" : 138990,
+    "width" : 593,
+    "height" : 800,
+    "sha256" : "099d2c085b5ee7a7c6bb7d27c7aa7e9cb63964262d8b496bfc483d0cb79bde77",
+    "cacheControl" : "public, max-age=31536000, immutable",
+    "proposedUrl" : null
+  } ]
+}

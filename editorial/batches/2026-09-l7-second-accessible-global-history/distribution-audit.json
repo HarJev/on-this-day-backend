@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-second-accessible-global-history",
+  "status": "draft_for_owner_review",
+  "method": "Counts are computed from the Pack 110 editorial draft. Existing-bank totals are the verified Pack 100 checkpoint plus the committed baseline; Packs 070-090 do not yet have row-level region and era review metadata.",
+  "existingBank": {
+    "questions": 120,
+    "types": {
+      "multiple_choice": 73,
+      "true_false": 21,
+      "image_identification": 15,
+      "chronological_ordering": 11
+    },
+    "difficulty": {
+      "easy": 31,
+      "medium": 65,
+      "hard": 24
+    }
+  },
+  "draftPack": {
+    "questions": 30,
+    "types": {
+      "multiple_choice": 17,
+      "true_false": 4,
+      "image_identification": 6,
+      "chronological_ordering": 3
+    },
+    "difficulty": {
+      "easy": 11,
+      "medium": 16,
+      "hard": 3
+    },
+    "regions": {
+      "east_africa": 1,
+      "east_asia": 2,
+      "eurasia": 2,
+      "europe": 5,
+      "global": 3,
+      "iberia": 1,
+      "mesoamerica": 1,
+      "mesopotamia": 1,
+      "middle_east": 1,
+      "north_america": 5,
+      "northern_south_america": 1,
+      "south_asia": 1,
+      "southeast_asia": 1,
+      "transregional": 3,
+      "west_africa": 2
+    },
+    "eras": {
+      "ancient": 4,
+      "medieval": 6,
+      "1500_1800": 3,
+      "1800_1945": 12,
+      "1945_present": 9
+    },
+    "collections": {
+      "ancient_history": 3,
+      "exploration_and_exchange": 4,
+      "leaders_and_power": 5,
+      "revolutions": 6,
+      "science_and_innovation": 5,
+      "society_culture_and_ideas": 23,
+      "wars_and_conflicts": 2
+    }
+  },
+  "projectedBank": {
+    "questions": 150,
+    "types": {
+      "multiple_choice": 90,
+      "true_false": 25,
+      "image_identification": 21,
+      "chronological_ordering": 14
+    },
+    "difficulty": {
+      "easy": 42,
+      "medium": 81,
+      "hard": 27
+    }
+  },
+  "followUp": "Add the same row-level region and era review metadata to canonical Packs 070-090 in a separate editorial task; do not infer it from title text."
+}
