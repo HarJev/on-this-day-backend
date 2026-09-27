@@ -4,7 +4,7 @@ on:
   pull_request:
     paths:
       - 'editorial/event-images/**'
-      - 'infra/media/**'
+      - 'infra/prod/media.tf'
       - 'docs/EVENT_IMAGE_PIPELINE.md'
   workflow_dispatch:
 
