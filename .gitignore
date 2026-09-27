@@ -8,3 +8,8 @@ firebase-service-account*.json
 service-account*.json
 __pycache__/
 *.py[cod]
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
