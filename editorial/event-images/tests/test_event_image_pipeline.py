@@ -100,7 +100,8 @@ class EventImagePipelineTest(unittest.TestCase):
                 events=events,
                 output=output,
                 origin="https://cdn.example.com",
-                replace_primary=False
+                replace_primary=False,
+                write_canonical=False
             )
 
             with self.assertRaisesRegex(ValueError, "primary image exists"):
