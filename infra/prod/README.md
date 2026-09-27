@@ -21,8 +21,8 @@ Before an eventual plan, provide a unique `media_bucket_name` and every
 automation/deployment role that will use this module:
 
 ```sh
-terraform -chdir=infra/media init -backend=false
-terraform -chdir=infra/media plan \
+terraform -chdir=infra/prod init -backend=false
+terraform -chdir=infra/prod plan \
   -var='media_bucket_name=<approved-unique-name>' \
   -var='media_publisher_role_names=["<approved-publisher-role>"]' \
   -var='deployment_role_names=["<approved-deployment-role>"]'

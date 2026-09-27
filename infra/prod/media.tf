@@ -1,9 +1,7 @@
 locals {
   common_tags = merge(
     {
-      Application = "on-this-day"
-      Component   = "owned-image-delivery"
-      ManagedBy   = "terraform"
+      Component = "owned-image-delivery"
     },
     var.tags,
   )

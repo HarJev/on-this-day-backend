@@ -1,0 +1,2 @@
+# Copy to terraform.tfvars (ignored by git) and fill in.
+media_bucket_name = "on-this-day-media-<account-id>"
