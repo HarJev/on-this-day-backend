@@ -19,7 +19,10 @@ Use sources with clear reuse terms, such as NASA, Library of Congress, National 
 Install the isolated editorial dependency:
 
 ```sh
-python3 -m pip install -r editorial/event-images/requirements.txt
+python3 -m venv .venv-event-images
+.venv-event-images/bin/pip install -r editorial/event-images/requirements.txt
+
+# Use .venv-event-images/bin/python for the commands below.
 ```
 
 Prepare a weekly batch. This rejects redirects, non-image responses, sources above 20 MiB, decode bombs, and outputs above 1.5 MiB. It creates JPEG renditions at 960 pixels or less, aiming for 750 KiB.
