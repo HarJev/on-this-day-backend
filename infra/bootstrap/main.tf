@@ -68,11 +68,13 @@ data "aws_iam_policy_document" "deployer" {
     resources = ["arn:aws:s3:::${local.prefix}-*", "arn:aws:s3:::${local.prefix}-*/*"]
   }
 
-  # CloudFront, WAF and API Gateway resources cannot be scoped by name.
+  # CloudFront and API Gateway resources cannot be scoped by name. WAF stays
+  # read-only (ReadForPlanning): the Free plan supplies its own web ACL, and
+  # creating one here would be a paid resource.
   statement {
     sid       = "EdgeAndApi"
     effect    = "Allow"
-    actions   = ["cloudfront:*", "wafv2:*", "pricingplanmanager:*", "apigateway:*"]
+    actions   = ["cloudfront:*", "pricingplanmanager:*", "apigateway:*"]
     resources = ["*"]
   }
 
