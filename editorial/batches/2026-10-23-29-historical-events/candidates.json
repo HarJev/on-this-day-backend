@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-23-29-historical-events",
+  "candidates": [
+    {
+      "candidateId": "oct-23-ipod",
+      "kind": "event",
+      "proposedCanonicalId": "apple-introduces-ipod-2001",
+      "workingClaim": "October 23, 2001: On October 23, 2001, Apple introduced the iPod, a portable MP3 player that could hold up to 1,000 CD-quality songs and synchronize automatically with a user's iTunes library on a Mac.",
+      "sourceUrls": [
+        "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
+      ]
+    },
+    {
+      "candidateId": "oct-23-hungary-1956",
+      "kind": "event",
+      "proposedCanonicalId": "hungarian-revolution-begins-1956",
+      "workingClaim": "October 23, 1956: On October 23, 1956, a large-scale protest in Hungary led to clashes with security forces. Students had demanded economic reforms and the withdrawal of the Soviet military, and Soviet troops intervened the following day.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Hungarian-Revolution-1956"
+      ]
+    },
+    {
+      "candidateId": "oct-23-el-alamein",
+      "kind": "event",
+      "proposedCanonicalId": "second-battle-of-el-alamein-begins-1942",
+      "workingClaim": "October 23, 1942: On the night of October 23, 1942, a barrage from more than 800 guns opened the Allied offensive at El Alamein in Egypt. The battle, which lasted until November 11, pitted German and Italian forces against British, Australian, New Zealand, South African, and Indian troops and ended in a pivotal Allied victory.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battles-of-El-Alamein"
+      ]
+    },
+    {
+      "candidateId": "oct-23-piazza",
+      "kind": "event",
+      "proposedCanonicalId": "first-military-reconnaissance-flight-1911",
+      "workingClaim": "October 23, 1911: On October 23, 1911, during the war between Italy and the Ottoman Empire, Captain Carlo Piazza flew a Bleriot XI over Libya to spy on enemy positions, making military aviation history.",
+      "sourceUrls": [
+        "https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-warplane-115175678/"
+      ]
+    },
+    {
+      "candidateId": "oct-24-un-day",
+      "kind": "event",
+      "proposedCanonicalId": "un-charter-enters-into-force-1945",
+      "workingClaim": "October 24, 1945: On October 24, 1945, the United Nations officially came into existence when its Charter had been ratified by a majority of signatories. The date is now marked each year as United Nations Day.",
+      "sourceUrls": [
+        "https://www.un.org/en/observances/un-day"
+      ]
+    },
+    {
+      "candidateId": "oct-24-westphalia",
+      "kind": "event",
+      "proposedCanonicalId": "peace-of-westphalia-signed-1648",
+      "workingClaim": "October 24, 1648: On October 24, 1648, a treaty signed as part of the Peace of Westphalia brought together Holy Roman Emperor Ferdinand III, the German princes, France, and Sweden. The settlements of 1648 ended the German phase of the Thirty Years' War.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Peace-of-Westphalia"
+      ]
+    },
+    {
+      "candidateId": "oct-24-zambia",
+      "kind": "event",
+      "proposedCanonicalId": "zambia-independence-1964",
+      "workingClaim": "October 24, 1964: On October 24, 1964, Zambia attained independence. The United States recognized the new nation the same day, raising its consulate at Lusaka to an embassy.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/zambia"
+      ]
+    },
+    {
+      "candidateId": "oct-24-v2-photo",
+      "kind": "event",
+      "proposedCanonicalId": "first-photo-from-space-1946",
+      "workingClaim": "October 24, 1946: On October 24, 1946, a 35-millimeter motion picture camera aboard a V-2 missile launched from White Sands, New Mexico, captured the first pictures of Earth as seen from space, from an altitude of 65 miles.",
+      "sourceUrls": [
+        "https://www.smithsonianmag.com/air-space-magazine/the-first-photo-from-space-13721411/"
+      ]
+    },
+    {
+      "candidateId": "oct-25-agincourt",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-agincourt-1415",
+      "workingClaim": "October 25, 1415: On October 25, 1415, the English army led by King Henry V defeated a numerically superior French force at Agincourt. The victory made possible England's later conquest of Normandy.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Agincourt"
+      ]
+    },
+    {
+      "candidateId": "oct-25-balaklava",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-balaklava-1854",
+      "workingClaim": "October 25, 1854: On October 25, 1854, British and Russian forces fought the indecisive Battle of Balaklava during the Crimean War. It is best known for the Charge of the Light Brigade, which inspired Alfred, Lord Tennyson's poem.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Balaklava"
+      ]
+    },
+    {
+      "candidateId": "oct-25-lisbon",
+      "kind": "event",
+      "proposedCanonicalId": "siege-of-lisbon-ends-1147",
+      "workingClaim": "October 25, 1147: On October 25, 1147, the gates of Lisbon opened and a siege by Afonso Henriques of Portugal and crusaders bound for the Second Crusade came to an end. The capture of the city from the Almoravids was the only major Christian victory of that crusade.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Siege-of-Lisbon"
+      ]
+    },
+    {
+      "candidateId": "oct-25-windows-xp",
+      "kind": "event",
+      "proposedCanonicalId": "windows-xp-launches-2001",
+      "workingClaim": "October 25, 2001: On October 25, 2001, Microsoft launched Windows XP in New York, making the operating system available on new personal computers and in stores around the world.",
+      "sourceUrls": [
+        "https://news.microsoft.com/source/2001/10/25/windows-xp-is-here/"
+      ]
+    },
+    {
+      "candidateId": "oct-26-smallpox",
+      "kind": "event",
+      "proposedCanonicalId": "last-natural-smallpox-case-1977",
+      "workingClaim": "October 26, 1977: On October 26, 1977, the world's last naturally occurring case of smallpox was discovered in the Merca district of Somalia. Two years of active searching followed to make certain transmission had stopped.",
+      "sourceUrls": [
+        "https://www.who.int/news/item/17-05-2010-statue-commemorates-smallpox-eradication",
+        "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5142a5.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-26-fa-founded",
+      "kind": "event",
+      "proposedCanonicalId": "football-association-founded-1863",
+      "workingClaim": "October 26, 1863: On October 26, 1863, the Football Association was formed at a meeting at the Freemasons' Tavern in Great Queen Street, London. It became English football's governing body.",
+      "sourceUrls": [
+        "https://www.thefa.com/about-football-association/who-we-are/history"
+      ]
+    },
+    {
+      "candidateId": "oct-26-austria-neutrality",
+      "kind": "event",
+      "proposedCanonicalId": "austria-declares-neutrality-1955",
+      "workingClaim": "October 26, 1955: On October 26, 1955, the Austrian National Council passed the constitutional law establishing Austria's permanent neutral status.",
+      "sourceUrls": [
+        "https://www.cvce.eu/en/obj/constitutional_law_on_the_neutrality_of_austria_26_october_1955-en-670aa09c-4d4b-451a-84f2-23f2f9c8cb06.html"
+      ]
+    },
+    {
+      "candidateId": "oct-26-erie-canal",
+      "kind": "event",
+      "proposedCanonicalId": "erie-canal-completed-1825",
+      "workingClaim": "October 26, 1825: On October 26, 1825, the Erie Canal was finished, two years ahead of schedule. Connecting the Hudson River valley with the Great Lakes, it stimulated migration into central and western New York.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Erie-Canal"
+      ]
+    },
+    {
+      "candidateId": "oct-27-nyc-subway",
+      "kind": "event",
+      "proposedCanonicalId": "new-york-subway-opens-1904",
+      "workingClaim": "October 27, 1904: On October 27, 1904, the Interborough Rapid Transit Company opened New York City's first underground subway line. The 9.1-mile route had 28 stations, running from City Hall to Grand Central, across to Times Square, and up to 145th Street and Broadway.",
+      "sourceUrls": [
+        "https://www.tenement.org/blog/on-this-day-1904-first-underground-subway/"
+      ]
+    },
+    {
+      "candidateId": "oct-27-st-vincent",
+      "kind": "event",
+      "proposedCanonicalId": "saint-vincent-grenadines-independence-1979",
+      "workingClaim": "October 27, 1979: On October 27, 1979, Saint Vincent and the Grenadines achieved full independence, becoming the last of the Windward Islands to do so after a referendum earlier that year.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/saint-vincent-grenadines"
+      ]
+    },
+    {
+      "candidateId": "oct-27-turkmenistan",
+      "kind": "event",
+      "proposedCanonicalId": "turkmenistan-declares-independence-1991",
+      "workingClaim": "October 27, 1991: On October 27, 1991, Turkmenistan, a constituent republic of the Soviet Union since 1925, declared its independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Turkmenistan"
+      ]
+    },
+    {
+      "candidateId": "oct-27-amsterdam",
+      "kind": "event",
+      "proposedCanonicalId": "amsterdam-toll-privilege-1275",
+      "workingClaim": "October 27, 1275: On October 27, 1275, Count Floris V of Holland issued a toll privilege exempting the people living near the dam on the Amstel from tolls in his territory. The document, drawn up in Leiden, is the first to mention Amsterdam by name, and the city celebrates the date as its birthday.",
+      "sourceUrls": [
+        "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
+        "https://www.museum.nl/en/stadsarchief-amsterdam/showpiece/tolprivilege-uit-1275-amsterdam"
+      ]
+    },
+    {
+      "candidateId": "oct-28-statue-of-liberty",
+      "kind": "event",
+      "proposedCanonicalId": "statue-of-liberty-dedicated-1886",
+      "workingClaim": "October 28, 1886: On October 28, 1886, President Grover Cleveland dedicated the Statue of Liberty, mounted on its pedestal. Funded by contributions from the French people and designed by sculptor Frederic-Auguste Bartholdi, it commemorates the friendship of the United States and France.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Statue-of-Liberty"
+      ]
+    },
+    {
+      "candidateId": "oct-28-czechoslovakia",
+      "kind": "event",
+      "proposedCanonicalId": "czechoslovakia-independence-1918",
+      "workingClaim": "October 28, 1918: On October 28, 1918, Tomas Masaryk, Edvard Benes, and other leaders declared an independent Czechoslovak state as Austria-Hungary collapsed at the end of World War I. France and other Allied powers quickly recognized it.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Czechoslovakia"
+      ]
+    },
+    {
+      "candidateId": "oct-28-ohi-day",
+      "kind": "event",
+      "proposedCanonicalId": "greece-rejects-italian-ultimatum-1940",
+      "workingClaim": "October 28, 1940: In the early hours of October 28, 1940, the Italian ambassador handed Greek Prime Minister Ioannis Metaxas an ultimatum from Mussolini demanding that Italian forces be allowed to occupy strategic sites in Greece. Greece rejected it, and the day is commemorated as Ohi Day, the 'Day of No'.",
+      "sourceUrls": [
+        "https://www.greeknewsagenda.gr/ohi-day/"
+      ]
+    },
+    {
+      "candidateId": "oct-28-milvian-bridge",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-milvian-bridge-312",
+      "workingClaim": "October 28, 312: On October 28, 312, Constantine defeated his rival Maxentius at the Milvian Bridge near Rome. The victory confirmed Constantine's role as ruler of the Western Roman Empire.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Battle-of-the-Milvian-Bridge"
+      ]
+    },
+    {
+      "candidateId": "oct-29-turkish-republic",
+      "kind": "event",
+      "proposedCanonicalId": "turkish-republic-proclaimed-1923",
+      "workingClaim": "October 29, 1923: On October 29, 1923, the Turkish republic was proclaimed, with Ankara named as its capital. It followed the abolition of the sultanate in 1922 and the Treaty of Lausanne in July 1923.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Kemal-Ataturk"
+      ]
+    },
+    {
+      "candidateId": "oct-29-arpanet",
+      "kind": "event",
+      "proposedCanonicalId": "first-arpanet-message-1969",
+      "workingClaim": "October 29, 1969: On October 29, 1969, a team led by UCLA computer scientist Leonard Kleinrock sent the first message between networked computers at UCLA and the Stanford Research Institute. Graduate student Charley Kline typed the first two letters of 'login' before the network crashed.",
+      "sourceUrls": [
+        "https://www.universityofcalifornia.edu/news/lo-and-behold-internet"
+      ]
+    },
+    {
+      "candidateId": "oct-29-john-glenn",
+      "kind": "event",
+      "proposedCanonicalId": "john-glenn-returns-to-space-1998",
+      "workingClaim": "October 29, 1998: On October 29, 1998, space shuttle Discovery launched on mission STS-95 with John Glenn aboard. At 77, Glenn became the oldest person to fly in space.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/sts-95/"
+      ]
+    },
+    {
+      "candidateId": "oct-29-black-tuesday",
+      "kind": "event",
+      "proposedCanonicalId": "black-tuesday-1929",
+      "workingClaim": "October 29, 1929: On October 29, 1929, known as Black Tuesday, the New York stock market dropped nearly 12 percent, following a fall of nearly 13 percent the day before. By mid-November the Dow had lost almost half its value.",
+      "sourceUrls": [
+        "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,808 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-18-25-historical-events",
+  "entries": [
+    {
+      "candidateId": "dec-18-nutcracker",
+      "canonicalId": "nutcracker-premieres-1892",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 18): 1892: 'Pyotr Ilyich Tchaikovsky's ballet The Nutcracker was first presented at the Mariinsky Theatre in St. Petersburg, Russia.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-18-thirteenth-amendment",
+      "canonicalId": "thirteenth-amendment-in-force-1865",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 18): 1865: 'The Thirteenth Amendment to the U.S. Constitution officially entered into force, abolishing slavery in the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-18-piltdown",
+      "canonicalId": "piltdown-man-announced-1912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 18): 'A British Museum paleontologist announced on this day in 1912 that an amateur geologist had discovered the fossil remains of an extinct human species in England. The remains, known as the Piltdown man, were presented as the missing evolutionary link ... but by the 1950s they had been exposed as a fraud.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-18-stradivari",
+      "canonicalId": "stradivari-dies-1737",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 18): 1737: 'Famed Italian violin maker Antonio Stradivari died in Cremona.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-19-christmas-carol",
+      "canonicalId": "a-christmas-carol-published-1843",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 19): 'A Christmas Carol by Charles Dickens was published for the first time on this day in 1843. It became an instant classic, its story of Ebenezer Scrooge's redemption and the Cratchit family's joy often repeated on stage and screen today.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-19-valley-forge",
+      "canonicalId": "washington-at-valley-forge-1777",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 19): 1777: 'During the American Revolution, General George Washington led 11,000 regulars to take up winter quarters at Valley Forge on the west bank of the Schuylkill River near Philadelphia, which was occupied by the British.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-19-edith-piaf",
+      "canonicalId": "edith-piaf-born-1915",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 19): 1915: 'Singer and actress Edith Piaf, whose interpretation of the chanson (French ballad) made her internationally famous, was born in Paris.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-19-park-geun-hye",
+      "canonicalId": "park-geun-hye-elected-2012",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 19): 2012: 'Park Geun-Hye became the first female to be elected president of South Korea. She also became the country's first democratically elected president to be removed from office after she was impeached in 2017.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-20-grimm",
+      "canonicalId": "grimms-fairy-tales-published-1812",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 20): 'On this day in 1812 brothers Jacob and Wilhelm Grimm published the first volume of stories that would make them famous. Among the 200 or so stories that became known collectively as Grimm's Fairy Tales are \"Hansel and Gretel,\" \"Snow White,\" \"Little Red Riding Hood,\" and \"Sleeping Beauty.\"'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-20-macau",
+      "canonicalId": "macau-handover-1999",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 20): 1999: 'Centuries of Portuguese rule ended in Macau when it became a special administrative region under Chinese sovereignty, 12 years after China and Portugal reached an agreement on its status.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-20-wonderful-life",
+      "canonicalId": "its-a-wonderful-life-premieres-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 20): 1946: 'Frank Capra's It's a Wonderful Life, a drama starring Jimmy Stewart, premiered and later became a holiday classic.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-20-south-carolina-secedes",
+      "canonicalId": "south-carolina-secedes-1860",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 20): 1860: 'Following Abraham Lincoln's election as U.S. president, South Carolina became the first U.S. state to secede from the Union.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-21-basketball",
+      "canonicalId": "first-basketball-game-1891",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 21): 'Gym teacher James Naismith organized the first game of basketball, which was played on this day in 1891 in a school in Springfield, Massachusetts. Chaos reigned and a fight broke out, which prompted Naismith to develop the sport's original rules.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-21-apollo-8",
+      "canonicalId": "apollo-8-launched-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 21): 1968: 'Apollo 8 was launched from Cape Kennedy (Cape Canaveral) and eventually completed 10 lunar orbits.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-21-radium",
+      "canonicalId": "curies-discover-radium-1898",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 21): 1898: 'Future Nobel Prize winners Marie Curie and Pierre Curie discovered the radioactive chemical element radium, a silvery white metal used in early cancer treatment.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-21-crossword",
+      "canonicalId": "first-crossword-puzzle-1913",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 21): 1913: 'The New York World published the first modern crossword puzzle.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-22-brandenburg-gate",
+      "canonicalId": "brandenburg-gate-reopens-1989",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 22): 'On this day in 1989, the Brandenburg Gate in Berlin was reopened as East and West Germany continued moving toward reunification. Berliners had been unable to use the gate since 1961, when the newly built Berlin Wall blocked access to it.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-22-ramanujan",
+      "canonicalId": "srinivasa-ramanujan-born-1887",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 22): 1887: 'Srinivasa Ramanujan, a self-taught Indian mathematician who made many pioneering discoveries ... was born in Erode in what is today Tamil Nadu.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-22-dominican-order",
+      "canonicalId": "dominican-order-sanctioned-1216",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 22): 1216: 'The Dominican order was sanctioned by Pope Honorius III.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-22-eclipse-968",
+      "canonicalId": "earliest-solar-corona-account-968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 22): 968: 'At the winter solstice there was an eclipse of the Sun ... wrote Leo the Deacon in the earliest account of the solar corona that can be definitely linked to a datable eclipse.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-23-washington-resigns",
+      "canonicalId": "washington-resigns-commission-1783",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 23): 1783: 'Before the Continental Congress, George Washington resigned as commander in chief of the Continental Army.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-23-ottoman-constitution",
+      "canonicalId": "ottoman-constitution-1876",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 23): 1876: 'The first comprehensive constitution of the Ottoman Empire went into effect, giving the sultan full executive power.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-23-federal-reserve",
+      "canonicalId": "federal-reserve-act-1913",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 23): 1913: 'With the signing of the Federal Reserve Act by U.S. President Woodrow Wilson, the Federal Reserve System came into being.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-23-champollion",
+      "canonicalId": "champollion-born-1790",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 23): Famous birthdays: '1790 Jean-Francois Champollion - French historian and linguist'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-24-phonograph",
+      "canonicalId": "edison-phonograph-patent-application-1877",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 24): 'On this day in 1877, the U.S. Patent Office received an application for a \"Phonograph or Speaking Machine\" from inventor Thomas Edison. He had demonstrated the device for the first time a few weeks earlier, when he played his recorded ... voice to magazine staffers in New York City.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-24-treaty-of-ghent",
+      "canonicalId": "treaty-of-ghent-1814",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 24): 1814: 'The United States and Great Britain signed the Treaty of Ghent in Belgium, ending the War of 1812.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-24-libya",
+      "canonicalId": "libya-independence-1951",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 24): 1951: 'Idris I became the first king of newly independent Libya.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-24-king-john",
+      "canonicalId": "king-john-born-1167",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 24): 'King John of England (1199-1216), born this day in 1167, lost Normandy and almost all his other French possessions in a war with France and was forced to seal the Magna Carta (1215) following an English baronial revolt.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-25-jwst",
+      "canonicalId": "james-webb-telescope-launched-2021",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 25): 2021: 'The James Webb Space Telescope - designed and built by U.S., Canadian, and European space agencies as the successor to the Hubble Space Telescope - was launched into space.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-25-charlemagne",
+      "canonicalId": "charlemagne-crowned-emperor-800",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 25): 800: 'Charlemagne, king of the Franks, became the first emperor of the Holy Roman Empire.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-25-william-crowned",
+      "canonicalId": "william-i-crowned-1066",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 25): 1066: 'William I was crowned king of England, formally completing the Norman Conquest.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-25-delaware-crossing",
+      "canonicalId": "washington-crosses-delaware-1776",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 25): 1776: 'During the American Revolution, General George Washington crossed the Delaware River and surprised the British at Trenton, New Jersey.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-25-gorbachev-resigns",
+      "canonicalId": "gorbachev-resigns-1991",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 25): 1991: 'Mikhail Gorbachev resigned the presidency of the Soviet Union, which ceased to exist at the end of the year.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "cold-war",
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

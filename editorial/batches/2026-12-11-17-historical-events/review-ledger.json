@@ -1,0 +1,686 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-11-17-historical-events",
+  "entries": [
+    {
+      "candidateId": "dec-11-unicef",
+      "canonicalId": "unicef-established-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 11): 1946: 'UNICEF - a United Nations program devoted to improving the health, nutrition, education, and general welfare of children - was established.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-11-edward-viii",
+      "canonicalId": "edward-viii-abdication-approved-1936",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 11): 1936: 'Edward VIII's abdication as king of the United Kingdom was formally approved. He is the only sovereign to voluntarily resign the British crown, which he did to marry American divorcee Wallis Warfield Simpson.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-11-mahfouz",
+      "canonicalId": "naguib-mahfouz-born-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 11): 1911: 'Naguib Mahfouz, the first Arabic writer to be awarded the Nobel Prize for Literature, was born in Cairo.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-11-sonderbund",
+      "canonicalId": "sonderbund-formed-1845",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 11): 1845: 'The Sonderbund was formed by the seven Roman Catholic conservative Swiss cantons ... to oppose anti-Catholic measures by Protestant liberal cantons. These tensions culminated in a brief civil war in 1847.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-12-paris-agreement",
+      "canonicalId": "paris-climate-agreement-2015",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 12): 2015: 'A landmark climate change agreement was reached at a UN conference in Paris as 195 countries agreed to limit greenhouse gas emissions; the accord effectively replaced the Kyoto Protocol.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-12-first-motel",
+      "canonicalId": "first-motel-opens-1925",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 12): 'The world's first motel opened on this day in 1925. Located in San Luis Obispo, the Milestone Mo-Tel gave motorists a place to stop as they drove between San Francisco and Los Angeles.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-12-kenya-republic",
+      "canonicalId": "kenya-becomes-republic-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 12): 1964: 'Kenya became a republic on the first anniversary of its independence from Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-12-munch",
+      "canonicalId": "edvard-munch-born-1863",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 12): 'Norwegian artist Edvard Munch, whose painting The Scream (1893) can be seen as a symbol of modern spiritual anguish and whose works greatly influenced German Expressionism in the 20th century, was born this day in 1863.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-13-tasman-nz",
+      "canonicalId": "tasman-sights-new-zealand-1642",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 13): 1642: 'Dutch navigator Abel Tasman became the first European to sight South Island, New Zealand.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-13-council-of-trent",
+      "canonicalId": "council-of-trent-opens-1545",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 13): 1545: 'The Council of Trent, the 19th ecumenical council of the Roman Catholic Church, which helped revitalize the church in many parts of Europe after the Protestant Reformation, opened in Trent, Italy.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-13-celestine-v",
+      "canonicalId": "celestine-v-resigns-1294",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 13): 'After five months as pope, Celestine V resigned on this day in 1294. Because he was struggling to fulfill his duties, after many years living as a hermit in a cave, he decided it would be dangerous for the church and for his soul if he continued.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-13-nova-herculis",
+      "canonicalId": "nova-herculis-discovered-1934",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 13): 1934: 'British astronomer J.P.M. Prentice discovered Nova Herculis, one of the brightest novas of the 20th century.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-14-amundsen",
+      "canonicalId": "amundsen-reaches-south-pole-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 14): 1911: 'Roald Amundsen - traveling with 4 companions, 52 dogs, and 4 sledges - became the first explorer to reach the South Pole.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-14-oecd",
+      "canonicalId": "oecd-convention-signed-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 14): 1960: 'The convention establishing the Organisation for Economic Co-operation and Development was signed by 18 European countries, the United States, and Canada.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-14-mankiller",
+      "canonicalId": "wilma-mankiller-sworn-in-1985",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 14): 1985: 'Wilma Mankiller became the first woman ever to serve as chief of a major Native tribe when she was sworn in as principal chief of the Cherokee Nation.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-14-tycho-brahe",
+      "canonicalId": "tycho-brahe-born-1546",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 14): 'Danish astronomer Tycho Brahe, born this day in 1546, developed astronomical instruments and measured and fixed the positions of stars in an era before the invention of the telescope, paving the way for future discoveries.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-15-bill-of-rights",
+      "canonicalId": "bill-of-rights-adopted-1791",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 15): 1791: 'The first 10 amendments to the U.S. Constitution - the Bill of Rights, traditionally defined as a collection of mutually reinforcing guarantees of individual rights and limitations on federal and state governments - were adopted as a single unit.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-15-pisa",
+      "canonicalId": "leaning-tower-reopens-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 15): 2001: 'The Leaning Tower of Pisa reopened in Pisa, Italy, after more than 10 years of work to stabilize the structure.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-15-janet-jagan",
+      "canonicalId": "janet-jagan-elected-1997",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 15): 1997: 'Janet Jagan was elected president of Guyana, becoming the first elected female president in South America and the first white president of Guyana.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-15-nero",
+      "canonicalId": "nero-born-37",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 15): 37 ce: 'Nero, who became infamous for his personal debaucheries and extravagances as the fifth Roman emperor, was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-16-boston-tea-party",
+      "canonicalId": "boston-tea-party-1773",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 16): 'On this day in 1773, a group of men dressed in Mohawk headdresses and cheered by a crowd of thousands threw tea belonging to the British East India Company into Boston Harbor. Britain's punitive response to the Boston Tea Party, which was a protest against taxes, helped push American colonists closer to war.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-16-jane-austen",
+      "canonicalId": "jane-austen-born-1775",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 16): 'English writer Jane Austen, born this day in 1775, gave the novel its distinctly modern character through her treatment of ordinary people in everyday life.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-16-cromwell",
+      "canonicalId": "cromwell-lord-protector-1653",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 16): 1653: 'Oliver Cromwell became lord protector of England, Scotland, and Ireland.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-16-avatar",
+      "canonicalId": "avatar-released-2009",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 16): 2009: 'Avatar, a science-fiction thriller directed by James Cameron, was released internationally. It went on to make more than $2.7 billion worldwide and spawn a film franchise.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-17-wright-brothers",
+      "canonicalId": "wright-brothers-first-flight-1903",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 17): 1903: 'Brothers Orville and Wilbur Wright made the first successful sustained flights in an airplane - Orville first, gliding 120 feet (36.6 metres) through the air in 12 seconds - at Kill Devil Hills, North Carolina.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-17-nzinga",
+      "canonicalId": "queen-nzinga-dies-1663",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 17): 1663: 'Nzinga, a Mbundu queen, died in Matamba. Today she is considered the \"mother of the nation\" in Angola.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-17-nafta",
+      "canonicalId": "nafta-signed-1992",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 17): 1992: 'The North American Free Trade Agreement (NAFTA) was signed by the leaders of Mexico, Canada, and the United States. It was replaced by the United States-Mexico-Canada Agreement in 2020.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-17-us-cuba",
+      "canonicalId": "us-cuba-relations-restored-2014",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 17): 2014: 'The United States and Cuba reestablished diplomatic relations that had been suspended for more than 50 years.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

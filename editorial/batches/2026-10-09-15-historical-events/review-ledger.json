@@ -1,0 +1,766 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-historical-events",
+  "entries": [
+    {
+      "candidateId": "oct-09-upu-founded",
+      "canonicalId": "universal-postal-union-founded-1874",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UPU states that on 9 October of the conference year the Treaty of Bern establishing the General Postal Union was signed, a day now celebrated as World Post Day; conference attended by 22 nations."
+        },
+        {
+          "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Swiss National Museum states: 'On 9 October 1874, the Universal Postal Union was established in Bern'; founding members came from 22 countries."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-09-kepler-supernova",
+      "canonicalId": "keplers-supernova-first-sighted-1604",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA states Lodovico delle Colombo first observed the supernova in Ophiuchus on Oct. 9 (1604); Kepler, in Prague, did not observe it until Oct. 17."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-09-washington-monument",
+      "canonicalId": "washington-monument-opens-to-public-1888",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Washington-Monument-Washington-DC",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: capstone set December 6, 1884; dedicated February 21, 1885; 'not opened to the public until October 9, 1888, following the installation of a steam elevator'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-09-uganda-independence",
+      "canonicalId": "uganda-independence-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Uganda/The-Republic-of-Uganda",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Uganda became independent on October 9, 1962'."
+        },
+        {
+          "url": "https://www.ebsco.com/research-starters/history/uganda-gains-independence",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "EBSCO: Uganda gained independence from British colonial rule on October 9, 1962; Milton Obote prime minister via UPC-Kabaka Yekka coalition."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-09-che-guevara",
+      "canonicalId": "che-guevara-executed-1967",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "National Security Archive (GWU): captured October 8; 'At 1:15 p.m. on October 9, 1967, Guevara was executed' at La Higuera after capture by a U.S.-trained Bolivian battalion; CIA operative present."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-10-wuchang-uprising",
+      "canonicalId": "wuchang-uprising-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://blogs.britannica.com/2011/10/wuchang-uprising-double-ten-10101911",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica Blog: uprising on October 10, 1911 at Wuchang, part of Wuhan; Xinhai Revolution led to overthrow of the Qing dynasty and founding of a republic."
+        },
+        {
+          "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica event page header lists the revolution as October 10, 1911 - February 12, 1912 and its summary describes the revolt overthrowing the Qing in 1912 and creating a republic (body text not returned by fetch)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-10-fiji-independence",
+      "canonicalId": "fiji-independence-1970",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.parliament.gov.fj/our-story/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Parliament of Fiji: 'On 10th October, 1970 Fiji was given independence and gained dominion status' and 'On 10th October 1874 Fiji was ceded to Great Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-10-cry-of-yara",
+      "canonicalId": "cry-of-yara-1868",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/grito-de-yara",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Encyclopedia.com (Encyclopedia of Latin American History and Culture entry): on 10 October 1868 at La Demajagua near Bayamo, Cespedes proclaimed Cuban independence, launching the Ten Years' War (1868-1878); freed his thirty slaves, who joined his rebel army."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-10-outer-space-treaty",
+      "canonicalId": "outer-space-treaty-enters-force-1967",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.unoosa.org/oosa/en/informationfor/media/2017-unis-os-486.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UNOOSA: 'the Outer Space Treaty entered into force on 10 October 1967'; describes it as the foundation of international space law."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-10-naval-academy",
+      "canonicalId": "us-naval-academy-founded-1845",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.usna.edu/USNAHistory/index.php",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "USNA: the Naval School was established at Fort Severn in Annapolis on October 10, 1845, with 50 midshipmen and seven professors; renamed the U.S. Naval Academy in 1850; George Bancroft credited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "nineteenth-century"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-11-apollo-7",
+      "canonicalId": "apollo-7-launches-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/apollo-7/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA states Apollo 7 launched October 11, 1968 from Launch Complex 34 at Cape Kennedy with Schirra, Eisele and Cunningham aboard."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-11-vatican-ii",
+      "canonicalId": "second-vatican-council-opens-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Second-Vatican-Council",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica lists the council's dates as October 11, 1962 - December 8, 1965 and identifies Pope John XXIII as announcing it."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-11-boer-war",
+      "canonicalId": "south-african-war-begins-1899",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/South-African-War",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'war fought from October 11, 1899, to May 31, 1902' (also called the Boer War / Second Boer War)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-11-mary-rose",
+      "canonicalId": "mary-rose-raised-1982",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://maryrose.org/discover/history/recovering-the-mary-rose/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Mary Rose Trust: 'The Mary Rose was raised on 11th October 1982, following many years of searching, excavation, and recording'; ship served 1511-1545."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-12-equatorial-guinea",
+      "canonicalId": "equatorial-guinea-independence-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/equatorial-guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'On October 12, 1968, Equatorial Guinea gained independence from Spain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-13-chile-miners",
+      "canonicalId": "chilean-miners-rescued-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: rescue of 33 workers from the San Jose gold and copper mine on October 13, 2010, 69 days after the mine's collapse on August 5."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-14-hastings",
+      "canonicalId": "battle-of-hastings-1066",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'battle on October 14, 1066, that ended in the defeat of Harold II of England by William, duke of Normandy, and established the Normans as the rulers of England.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-14-yeager",
+      "canonicalId": "yeager-breaks-sound-barrier-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Chuck-Yeager",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On October 14, 1947, over Rogers Dry Lake in southern California, he rode the X-1...'; aircraft nicknamed Glamorous Glennis; not announced publicly until June 1948."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-14-jena",
+      "canonicalId": "battles-of-jena-auerstedt-1806",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Jena",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Jena, (Oct. 14, 1806), military engagement of the Napoleonic Wars... at Jena and Auerstadt'; Napoleon completed conquest of Prussia within six weeks."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-15-shenzhou-5",
+      "canonicalId": "shenzhou-5-yang-liwei-2003",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Shenzhou",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On October 15, 2003, Shenzhou 5 carried the first Chinese astronaut, pilot Yang Liwei, on a 21-hour spaceflight.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-15-cassini",
+      "canonicalId": "cassini-launches-to-saturn-1997",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/cassini/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA Science mission page lists Cassini's launch as Oct. 15, 1997."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-12-oktoberfest",
+      "canonicalId": "first-oktoberfest-1810",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Oktoberfest",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The festival originated on October 12, 1810, in celebration of the marriage of the crown prince of Bavaria, who later became King Louis I, to Princess Therese von Sachsen-Hildburghausen.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-12-columbus-landfall",
+      "canonicalId": "columbus-sights-land-1492",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Christopher-Columbus",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: fleet left on August 3, 1492; 'on October 12 land was sighted from the Pinta'; first landfall called Guanahani, hotly disputed, San Salvador (Watlings) Island generally preferred."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-12-voskhod-1",
+      "canonicalId": "voskhod-1-launches-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/Voskhod-spacecraft",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On October 12, 1964, Voskhod 1 carried three cosmonauts - commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov - into Earth orbit'; table: first multiperson spacecraft; first doctor in space (Yegorov)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-13-templars",
+      "canonicalId": "templars-arrested-in-france-1307",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Templars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'after Philip IV ordered the arrest on October 13, 1307, of every Templar in France and sequestered all the Templars' property in the country - that most of the people of Europe became aware of the extent of the alleged crimes of the order.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-13-white-house",
+      "canonicalId": "white-house-cornerstone-laid-1792",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.whitehousehistory.org/building-the-white-house",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "WHHA: 'On October 13, 1792, White House construction officially began with the laying of a cornerstone during a Masonic ceremony'; enslaved people worked as axemen, stone cutters, carpenters and laborers throughout each stage of construction from 1792 through 1800."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-13-italy-war",
+      "canonicalId": "italy-declares-war-on-germany-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-one",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Timeline entry 'October 13 Italy declares war on Germany. The declaration, signed by Victor Emmanuel III, is transmitted to Berlin through the Italian Embassy in Madrid.' (1943 section)."
+        },
+        {
+          "url": "https://www.iwm.org.uk/collections/item/object/205195632",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "IWM photo caption: 'Marshal Badoglio reading the declaration of war against Germany, Brindisi, 13 October 1943'; date field 1943-10-13."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-14-u2-cuba",
+      "canonicalId": "u2-photographs-missiles-in-cuba-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "National Archives: 'Sunday morning, October 14, was cloudless, and the U-2 flight took photographs that, over the next few days, were analyzed'; 'With the October 14 photographs, the United States caught the Soviet Union building offensive nuclear missile bases' (1962)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-15-gregorian",
+      "canonicalId": "gregorian-calendar-takes-effect-1582",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Gregorian-calendar",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: proclaimed in 1582 by Pope Gregory XIII as a reform of the Julian calendar; 'The change was effected by advancing the calendar 10 days after October 4, 1582, the day following being reckoned as October 15.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-15-thrustssc",
+      "canonicalId": "thrustssc-land-speed-record-1997",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.transport-museum.com/visiting/thrustssc.aspx",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Museum: 'ThrustSSC holds the current World Land Speed Record which was set on October 15, 1997, by accomplishing a speed of 763 mph'; 'first land vehicle to officially break the sound barrier.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

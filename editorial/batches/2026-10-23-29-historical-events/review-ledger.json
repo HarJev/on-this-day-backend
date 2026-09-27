@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-23-29-historical-events",
+  "entries": [
+    {
+      "candidateId": "oct-23-ipod",
+      "canonicalId": "apple-introduces-ipod-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Apple press release dated 'CUPERTINO, California - October 23, 2001 - Apple today introduced iPod ... packs up to 1,000 CD-quality songs'; Auto-Sync downloads iTunes songs and playlists."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-23-hungary-1956",
+      "canonicalId": "hungarian-revolution-begins-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Hungarian-Revolution-1956",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica (1956): students demanded economic reforms and withdrawal of the Soviet military; 'A large-scale protest on October 23 led to clashes with local security forces. Soviet troops stationed in Hungary intervened the next day'; photo caption dated October 23, 1956."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-23-el-alamein",
+      "canonicalId": "second-battle-of-el-alamein-begins-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battles-of-El-Alamein",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: battles fought July 1-27 and October 23-November 11, 1942 in coastal Egypt, pivotal Allied victory; 'On the night of October 23-24 a barrage from more than 800 guns heralded the offensive.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-23-piazza",
+      "canonicalId": "first-military-reconnaissance-flight-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-warplane-115175678/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Smithsonian: 'on October 23, 1911, Captain Carlo Piazza climbed onto his spindly Bleriot XI and made military history by spying on the enemy below'; Italo-Ottoman war was the first to use aircraft for reconnaissance."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-24-un-day",
+      "canonicalId": "un-charter-enters-into-force-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.un.org/en/observances/un-day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UN: 'The United Nations officially came into existence on 24 October 1945, when the Charter had been ratified by a majority of signatories'; UN Day marks the anniversary."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-24-westphalia",
+      "canonicalId": "peace-of-westphalia-signed-1648",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Peace-of-Westphalia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: settlements of 1648 ended the Eighty Years' War and the German phase of the Thirty Years' War; 'The treaty of October 24, 1648, comprehended the Holy Roman emperor Ferdinand III, the other German princes, France, and Sweden.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-24-zambia",
+      "canonicalId": "zambia-independence-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/zambia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'The United States recognized Zambia on October 24, 1964, when the American consulate at Lusaka was elevated to Embassy status upon Zambia's attainment of independence on the same date.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-24-v2-photo",
+      "canonicalId": "first-photo-from-space-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.smithsonianmag.com/air-space-magazine/the-first-photo-from-space-13721411/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Smithsonian: 'On October 24, 1946 ... soldiers and scientists in the New Mexico desert saw ... the first pictures of Earth as seen from space'; taken from 65 miles by a 35-mm motion picture camera on a V-2 launched from White Sands."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-25-agincourt",
+      "canonicalId": "battle-of-agincourt-1415",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Agincourt, (October 25, 1415), decisive battle in the Hundred Years' War ... victory of the English over the French'; English led by Henry V won despite the numerical superiority of its opponent; made possible England's conquest of Normandy."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-25-balaklava",
+      "canonicalId": "battle-of-balaklava-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Balaklava",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'indecisive military engagement on October 25 (October 13, Old Style), 1854, during the Crimean War that is best known as the inspiration of ... Tennyson's \"Charge of the Light Brigade.\"'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-25-lisbon",
+      "canonicalId": "siege-of-lisbon-ends-1147",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Siege-of-Lisbon",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: siege July 1 - October 25, 1147; garrison agreed to surrender on October 21 and 'The gates of Lisbon were opened four days later, which brought the siege to an end on October 25, 1147'; only major Christian victory of the Second Crusade."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "africa"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-25-windows-xp",
+      "canonicalId": "windows-xp-launches-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://news.microsoft.com/source/2001/10/25/windows-xp-is-here/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Microsoft: 'NEW YORK, Oct. 25, 2001 - Today Microsoft Corp. ...' launched Windows XP on new PCs and in retail stores throughout the world."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-26-smallpox",
+      "canonicalId": "last-natural-smallpox-case-1977",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.who.int/news/item/17-05-2010-statue-commemorates-smallpox-eradication",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "WHO: 'The world's last naturally occurring case was discovered on 26 October 1977 in Somalia; this was followed by two years of actively searching for cases.'"
+        },
+        {
+          "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5142a5.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "CDC: 'On October 26, 1977, the last case of naturally acquired smallpox occurred in the Merca District of Somalia.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-26-fa-founded",
+      "canonicalId": "football-association-founded-1863",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.thefa.com/about-football-association/who-we-are/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "The FA: first meeting at the Freemasons' Tavern in Great Queen Street; 'The FA was formed there on 26 October 1863, a Monday evening'; English football's governing body."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-26-austria-neutrality",
+      "canonicalId": "austria-declares-neutrality-1955",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.cvce.eu/en/obj/constitutional_law_on_the_neutrality_of_austria_26_october_1955-en-670aa09c-4d4b-451a-84f2-23f2f9c8cb06.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "CVCE: 'On 26 October 1955, the Austrian National Council passes the Constitutional Law which lays down Austria's permanent neutral status.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-26-erie-canal",
+      "canonicalId": "erie-canal-completed-1825",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Erie-Canal",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The canal was finished on October 26, 1825, two years ahead of schedule'; connects the Hudson River valley with the Great Lakes; opening stimulated migration into central and western New York."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-27-nyc-subway",
+      "canonicalId": "new-york-subway-opens-1904",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.tenement.org/blog/on-this-day-1904-first-underground-subway/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Tenement Museum: 'On October 27th, 1904, the IRT or Interborough Rapid Transit Company, opened 9.1-miles of underground subway line, a first in New York'; 28 stations from City Hall to Grand Central, Times Square, and 145th Street and Broadway."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-27-st-vincent",
+      "canonicalId": "saint-vincent-grenadines-independence-1979",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/saint-vincent-grenadines",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'After a 1979 referendum it eventually became the last of the Windward Islands to achieve independence'; achieved full independence on October 27, 1979."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-27-turkmenistan",
+      "canonicalId": "turkmenistan-declares-independence-1991",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Turkmenistan",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'From 1925 to 1991 Turkmenistan was the Turkmen Soviet Socialist Republic, a constituent (union) republic of the Soviet Union; it declared independence on October 27, 1991.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-27-amsterdam",
+      "canonicalId": "amsterdam-toll-privilege-1275",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Amsterdam City Archives (Dutch): the name Amsterdam first appears in this document drawn up in Leiden on 27 October 1275, the toll privilege of Count Floris V; people living near the Amstel dam need not pay toll in his territory."
+        },
+        {
+          "url": "https://www.museum.nl/en/stadsarchief-amsterdam/showpiece/tolprivilege-uit-1275-amsterdam",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Museum.nl (Dutch): Amsterdam celebrates its birthday every 27 October; on that day in 1275 the city received the toll privilege from Count Floris V."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-28-statue-of-liberty",
+      "canonicalId": "statue-of-liberty-dedicated-1886",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Statue-of-Liberty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The statue, mounted on its pedestal, was dedicated by President Grover Cleveland on October 28, 1886'; commemorates friendship of the US and France; funds contributed by the French people; sculptor Frederic-Auguste Bartholdi."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-28-czechoslovakia",
+      "canonicalId": "czechoslovakia-independence-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Czechoslovakia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'An independent Czechoslovak state was declared by Tomas Masaryk, Edvard Benes, and other leaders on October 28, 1918, and was quickly recognized by France and other Allied opponents of Austria'; formed from provinces of collapsing Austria-Hungary."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-28-ohi-day",
+      "canonicalId": "greece-rejects-italian-ultimatum-1940",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.greeknewsagenda.gr/ohi-day/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Greek News Agenda: 'In the early hours of 28 October 1940' ambassador Grazzi handed Metaxas a written ultimatum from Mussolini demanding Italian forces occupy strategic sites; Ohi Day commemorates Greece's rejection of the ultimatum."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-28-milvian-bridge",
+      "canonicalId": "battle-of-milvian-bridge-312",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Battle-of-the-Milvian-Bridge",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Milvian Bridge, (October 28, 312 CE), major battle in a Roman civil war between Constantine I and Maxentius'; 'Constantine's victory confirmed his role as ruler of the Western Empire.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-29-turkish-republic",
+      "canonicalId": "turkish-republic-proclaimed-1923",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica, in its 1922-23 narrative: sultanate abolished November 1, 1922; Treaty of Lausanne July 24, 1923; nationalists occupied Istanbul October 2; 'Ankara was named the capital, and on October 29 the Turkish republic was proclaimed.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-29-arpanet",
+      "canonicalId": "first-arpanet-message-1969",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.universityofcalifornia.edu/news/lo-and-behold-internet",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "University of California: first-ever Internet message sent on October 29, 1969; Kleinrock's group connected UCLA and the Stanford Research Institute; Charley Kline typed the first two letters of 'login' when the network crashed."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-29-john-glenn",
+      "canonicalId": "john-glenn-returns-to-space-1998",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/sts-95/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: STS-95 launched October 29, 1998; 'At 77 years old, Glenn at the time became the oldest person to go to space.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-29-black-tuesday",
+      "canonicalId": "black-tuesday-1929",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Federal Reserve History: 'On Black Monday, October 28, 1929, the Dow declined nearly 13 percent. On the following day, Black Tuesday, the market dropped nearly 12 percent. By mid-November, the Dow had lost almost half of its value.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

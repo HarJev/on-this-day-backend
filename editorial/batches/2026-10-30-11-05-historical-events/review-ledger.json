@@ -1,0 +1,705 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-30-11-05-historical-events",
+  "entries": [
+    {
+      "candidateId": "oct-30-war-of-the-worlds",
+      "canonicalId": "war-of-the-worlds-broadcast-1938",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The radio drama The War of the Worlds, broadcast on October 30, 1938, by Orson Welles and his Mercury Theatre on the Air'; simulated news broadcast announcing an attack on New Jersey from Mars; some listeners who tuned in late mistook it for actual news."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-30-rumble",
+      "canonicalId": "rumble-in-the-jungle-1974",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/sports/Rumble-in-the-Jungle",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'heavyweight boxing match held on October 30, 1974, between then heavyweight champion George Foreman and Muhammad Ali in Kinshasa, Zaire'; Ali won by knockout in the eighth round and reclaimed the world heavyweight title; rope-a-dope."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-30-october-manifesto",
+      "canonicalId": "october-manifesto-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/October-Manifesto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'October Manifesto, (Oct. 30 [Oct. 17, Old Style], 1905)'; issued on Witte's advice, it promised a constitution and the establishment of an elected legislature (Duma)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-30-mudros",
+      "canonicalId": "armistice-of-mudros-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Armistice-of-Mudros",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Armistice of Mudros, (Oct. 30, 1918), pact signed at the port of Mudros, on the Aegean island of Lemnos, between the Ottoman Empire and Great Britain (representing the Allied powers) marking the defeat of the Ottoman Empire in World War I.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-31-95-theses",
+      "canonicalId": "luther-ninety-five-theses-1517",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Ninety-five-Theses",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'According to tradition, Luther posted the theses on the door of the Schlosskirche (Castle Church) in Wittenberg on October 31, 1517'; considered the beginning of the Protestant Reformation; October 31 celebrated as Reformation Day."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-31-nevada",
+      "canonicalId": "nevada-statehood-1864",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nsla.nv.gov/blog/nevada-in-the-civil-war",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NSLA: 'During the Civil War, Nevada became the 36th state in the Union on October 31, 1864'; legacy lives on in the nickname 'The Battle Born State.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-31-seven-billion",
+      "canonicalId": "world-population-seven-billion-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.unfpa.org/press/world-population-reach-7-billion-31-october",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UNFPA: 'World population is projected to reach 7 billion on 31 October 2011, according to the 2010 Revision of World Population Prospects, the official United Nations population projections.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-31-indira-gandhi",
+      "canonicalId": "indira-gandhi-assassinated-1984",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Indira-Gandhi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Indira Gandhi (born November 19, 1917 ... - died October 31, 1984, New Delhi) was ... the first female prime minister of India, serving for three consecutive terms (1966-77) and a fourth term from 1980 until she was assassinated in 1984.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-01-maastricht",
+      "canonicalId": "maastricht-treaty-in-force-1993",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Maastricht-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: treaty 'signed on February 7, 1992, and entered into force on November 1, 1993'; 'The EU was created by the Maastricht Treaty, which entered into force on November 1, 1993.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-01-lisbon-earthquake",
+      "canonicalId": "lisbon-earthquake-1755",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Lisbon-earthquake-of-1755",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'series of earthquakes that occurred on the morning of Nov. 1, 1755, causing serious damage to the port city of Lisbon'; All Saints' Day, many at mass when churches collapsed."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-01-gavotti",
+      "canonicalId": "first-aerial-bombardment-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-warplane-115175678/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Smithsonian (1911 Italo-Ottoman war article): 'Nine days after Piazza's reconnaissance flight, on November 1, Second Lieutenant Giolio Gavotti, in an Etrich Taube, would carry out the first aerial bombardment.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-01-antigua",
+      "canonicalId": "antigua-barbuda-independence-1981",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/antigua-barbuda",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'Antigua and Barbuda became an independent state within the Commonwealth of Nations on November 1, 1981, with Queen Elizabeth as the first Queen ... and ... Vere Cornwall Bird as its first prime minister.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-02-iss-expedition-1",
+      "canonicalId": "first-iss-crew-arrives-2000",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/image-article/celebrating-20-years-station-expedition-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: the Expedition 1 crew were the first humans to live aboard the ISS; 'Arriving on station on Nov. 2, 2000, they were the first of 64 crews...'"
+        },
+        {
+          "url": "https://www.nasa.gov/mission/expedition-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA mission page lists the Expedition 1 crew: William Shepherd, Sergei Krikalev, Yuri Gidzenko."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-02-balfour",
+      "canonicalId": "balfour-declaration-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Balfour-Declaration",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: made in a letter dated November 2, 1917, from Arthur James Balfour, the British foreign secretary, to Lionel Walter Rothschild, a leader of the Anglo-Jewish community; statement of British support for a national home for the Jewish people in Palestine."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-02-haile-selassie",
+      "canonicalId": "haile-selassie-crowned-1930",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Haile-Selassie-I",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'when Zauditu died, he was crowned emperor (November 2, 1930) and took the name of Haile Selassie (\"Might of the Trinity\").'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-02-bbc-tv",
+      "canonicalId": "bbc-television-service-launches-1936",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.alexandrapalace.com/our-history/bbc-at-the-palace/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Alexandra Palace: 'On 2nd November 1936 the BBC launched the world's first high-definition television service from studios at Alexandra Palace'; first regular 'high definition' broadcast."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-03-japan-constitution",
+      "canonicalId": "constitution-of-japan-promulgated-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.ndl.go.jp/constitution/e/etc/c01.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NDL: imperial rescript promulgating the amendments of the Imperial Japanese Constitution dated 'This third day of the eleventh month of the twenty-first year of Showa (November 3, 1946)'; constitution enforced six months after promulgation."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-03-laika",
+      "canonicalId": "sputnik-2-laika-1957",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/animal/Laika",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Laika, a dog that was the first living creature to be launched into Earth orbit, on board the Soviet artificial satellite Sputnik 2, on November 3, 1957.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-03-panama",
+      "canonicalId": "panama-independence-1903",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/panama",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'On November 3, 1903, Panamanians had revolted against the Colombian government, declared an independent Republic of Panama, and established a provisional government junta'; US recognition November 6, 1903."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-03-dominica",
+      "canonicalId": "dominica-independence-1978",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/dominica",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'Great Britain granted independence to the Commonwealth of Dominica on November 3, 1978.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-04-tutankhamun",
+      "canonicalId": "tutankhamun-tomb-found-1922",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Howard-Carter",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On November 4, 1922, Carter's team of largely Egyptian excavators ... found the first sign of what proved to be Tutankhamen's tomb, but it was not until November 26 that a second sealed doorway was reached, behind which were the treasures'; tomb largely intact."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-04-nature",
+      "canonicalId": "nature-journal-first-issue-1869",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nature.com/nature/history-of-nature",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Nature: 'The first issue of Nature was published on 4 November 1869'; Norman Lockyer the first editor; Alexander Macmillan publisher."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-04-iran-hostage",
+      "canonicalId": "iran-hostage-crisis-begins-1979",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Iran-hostage-crisis",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica (crisis of 1979-81): 'on November 4 the embassy was attacked by a mob of perhaps 3,000 ... [who] took 63 American men and women hostage'; more than 50 Americans held hostage for 444 days."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-04-obama",
+      "canonicalId": "obama-elected-president-2008",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Barack-Obama",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica caption: 'President-elect Barack Obama at an election-night rally in Chicago's Grant Park on November 4, 2008'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-05-gunpowder-plot",
+      "canonicalId": "gunpowder-plot-foiled-1605",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Gunpowder-Plot",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: conspiracy 'to blow up Parliament and King James I, his queen, and his eldest son on November 5, 1605', the day fixed for the opening of Parliament; foiled after an anonymous letter; 'In January 1606 Parliament established November 5 as a day of public thanksgiving.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-05-vin-fiz",
+      "canonicalId": "first-transcontinental-flight-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://library.caltech.edu/c.php?g=1242603&p=9093325",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Caltech Library: 'Aviation history was made on November 5, 1911, when Calbraith Perry Rodgers ... landed his American built Wright bi-plane in Pasadena's Tournament Park before a crowd of approximately 20,000 people, successfully completing the first U.S. transcontinental flight'."
+        },
+        {
+          "url": "https://airandspace.si.edu/collection-objects/wright-ex-vin-fiz/nasm_A19340060000",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASM: Rodgers left Sheepshead Bay, New York, on September 17, 1911, and arrived in Pasadena 49 days later."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-05-suez",
+      "canonicalId": "suez-landings-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Suez-Crisis",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica (1956): 'On November 5 and 6, British and French forces landed at Port Said and Port Fuad and began occupying the canal zone.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-05-inkerman",
+      "canonicalId": "battle-of-inkerman-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Battle-of-Inkerman",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The Battle of Inkerman, fought on November 5, 1854, was a significant engagement during the Crimean War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

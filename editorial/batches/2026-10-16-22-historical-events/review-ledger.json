@@ -1,0 +1,726 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-16-22-historical-events",
+  "entries": [
+    {
+      "candidateId": "oct-16-ether-day",
+      "canonicalId": "ether-anesthesia-demonstrated-1846",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.lindahall.org/about/news/scientist-of-the-day/ether-dome/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Linda Hall Library: 'On October 16, 1846, the first successful public demonstration of surgical anesthesia took place in the operating theater of Massachusetts General Hospital'; Warren removed a tumor from Abbott's neck; ether administered by dentist William Morton; Abbott barely stirred."
+        },
+        {
+          "url": "https://libguides.massgeneral.org/mghhistory/ether",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "MGH history guide: 'On October 16, 1846, MGH co-founder Dr. ...' (Ether Day 1846) and references to the first public demonstration of ether anesthesia in 1846."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-16-john-paul-ii",
+      "canonicalId": "john-paul-ii-elected-pope-1978",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saint-John-Paul-II",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Wojtyla's election on October 16, 1978, made him the first non-Italian pope since the Dutch Adrian VI (reigned 1522-23)'; 'first from a Slavic country.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-16-parliament-fire",
+      "canonicalId": "houses-of-parliament-burn-1834",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://heritagecollections.parliament.uk/stories/the-fire-of-1834/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UK Parliament: 'By 6.30pm on 16 October 1834, a huge fireball had exploded through the roof of the Houses of Parliament'; fire caused by burning tally sticks, an ancient form of receipt for government income; firefighters focused on saving Westminster Hall."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-16-disney",
+      "canonicalId": "disney-studio-founded-1923",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://d23.com/disney-history/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "D23 (official Disney fan club): '...Winkler, contracted to distribute the Alice Comedies on October 16, 1923, and this date became the start of the Disney company.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-17-calder-hall",
+      "canonicalId": "calder-hall-opens-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.world-nuclear-news.org/Articles/UK-marks-60th-anniversary-of-Calder-Hall",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "WNN: 'Opened on 17 October 1956 by Queen Elizabeth II, Calder Hall was in operation for 47 years.'"
+        },
+        {
+          "url": "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/calder-hall-nuclear-power-station",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "ICE: 'Calder Hall was the first nuclear power station in the world to produce electricity for domestic use'; opened in 1956."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-17-first-open",
+      "canonicalId": "first-open-championship-1860",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.theopen.com/previous-opens/1st-open-prestwick-1860",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "The Open: 'Willie Park Snr was the winner of the first Open played at Prestwick, on the Ayrshire coast of Scotland, on Wednesday 17 October 1860'; eight professionals; no prize money, just the Challenge Belt."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-17-saratoga",
+      "canonicalId": "burgoyne-surrenders-at-saratoga-1777",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/places/saratoga-surrender-site.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NPS: 'On the morning of October 17, 1777, a British army over 6,000 strong made preparations to surrender arms and ordnance to the Northern Army forces'; Burgoyne rode to meet Gates."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-17-loma-prieta",
+      "canonicalId": "loma-prieta-earthquake-1989",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://pubs.usgs.gov/dds/dds-29/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "USGS: 'On October 17, 1989, at 5:04:15 p.m. (P.d.t.), a magnitude 6.9 ... earthquake severely shook the San Francisco and Monterey Bay regions'; epicenter near Loma Prieta peak; slip along the San Andreas fault system."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-18-persons-case",
+      "canonicalId": "persons-case-decided-1929",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Senate of Canada: the Famous Five took their case to the Judicial Committee of the Privy Council; 'On October 18, 1929, it overruled Canada's Supreme Court, opening the door for some women to be appointed to the Senate'; 'October 18 has come to be known as Persons Day.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-18-the-whale",
+      "canonicalId": "the-whale-published-in-london-1851",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nha.org/research/nantucket-history/history-topics/very-like-a-whale-editions-of-moby-dick/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NHA: 'Bentley released the book under its original title The Whale on October 18, 1851'; 'Harper & Brothers published the book as Moby-Dick in New York on November 14, 1851'; Bentley edition only 500 copies."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-18-alaska-transfer",
+      "canonicalId": "alaska-transferred-to-us-1867",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://alaskahistoricalsociety.org/about-ahs/special-projects/150treaty/150th-resource-library/new-articles/eyewitness-accounts-to-alaska-transfer-ceremony/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "AHS: booklet 'As the Old Flag Came Down: Eyewitnesses to the October 18, 1867 Alaska Transfer Ceremony' - 16 eyewitness accounts of the transfer ceremony held in Sitka; Americans arrive and Russians depart."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-18-beamon",
+      "canonicalId": "bob-beamon-long-jump-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.guinnessworldrecords.com/news/2016/8/olympic-legends-bob-beamon-takes-long-jump-record-to-new-heights-in-1968-437935",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Guinness (1968 article): 'On October 18 of that year in Mexico City's Estadio Olimpico Universitario, Beamon broke ... the record for the Farthest long jump, leaping 8.90 m (29 ft 2.5 in)'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bob-Beamon",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: American long jumper who set a world record of 8.90 metres; first long jumper to surpass both 28 and 29 feet."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-19-yorktown",
+      "canonicalId": "cornwallis-surrenders-at-yorktown-1781",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/york/index.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NPS: 'in the fall of 1781, General George Washington, with allied American and French forces, besieged General Charles Lord Cornwallis's British army. On October 19, Cornwallis surrendered, effectively ending the war and ensuring independence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-19-napoleon-retreat",
+      "canonicalId": "napoleon-retreats-from-moscow-1812",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/French-invasion-of-Russia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: the Russians refused to come to terms; 'After waiting for a month, Napoleon began his retreat, his army now 110,000 strong, on October 19, 1812'; French suffered 500,000 casualties between invasion and retreat."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-19-black-monday",
+      "canonicalId": "black-monday-crash-1987",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Federal Reserve History: 'The first contemporary global financial crisis unfolded on October 19, 1987, a day known as \"Black Monday,\" when the Dow Jones Industrial Average dropped 22.6 percent'; largest one-day decline in history."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-19-japan-soviet",
+      "canonicalId": "japan-soviet-joint-declaration-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.mofa.go.jp/region/europe/russia/territory/overview.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "MOFA: 'on 19 October 1956, the Japan-Soviet Joint Declaration was signed in place of a peace treaty, stipulating the termination of the state of war and the resumption of diplomatic relations'; no agreement on the Northern Territories."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-20-sydney-opera-house",
+      "canonicalId": "sydney-opera-house-opens-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://mhnsw.au/stories/on-this-day/20-october-1973/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Museums of History NSW: 'On this day 20 October 1973 the Sydney Opera House was officially opened by Queen Elizabeth II'; work began 1959, completed 1973 at a cost of $102 million; first public performance 28 September 1973."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-20-leyte",
+      "canonicalId": "leyte-landings-1944",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/leyte/leyte-invasion.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NHHC: 'Navy landed four Sixth Army divisions ashore on Leyte on October 20, 1944'; MacArthur gave his 'I have returned' radio message to the Philippine people."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-20-navarino",
+      "canonicalId": "battle-of-navarino-1827",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Navarino",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Navarino, decisive naval engagement on October 20, 1827, during the War of Greek Independence against the Ottoman Empire'; Great Britain, France and Russia 'on October 20, 1827, destroyed the Egyptian fleet.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-20-maria-theresa",
+      "canonicalId": "charles-vi-dies-maria-theresa-succeeds-1740",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Maria-Theresa",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On October 20, 1740, Charles VI died, and the war of succession he had striven so hard to forestall broke out before the end of the year'; upon her accession the War of the Austrian Succession challenged her inheritance of the Habsburg lands."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-21-france-women-vote",
+      "canonicalId": "french-women-vote-nationally-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Assemblee nationale (French): 'Le 21 octobre 1945, a eu lieu le premier vote des femmes dans un scrutin national (referendum et Assemblee constituante)'; 33 women elected members of the National Constituent Assembly."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-21-trafalgar",
+      "canonicalId": "battle-of-trafalgar-1805",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.rmg.co.uk/stories/maritime-history/battle-trafalgar-background",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "RMG: 'The Battle of Trafalgar took place on 21 October 1805. The battle was fought between the British Royal Navy and the combined fleets of France and Spain.'"
+        },
+        {
+          "url": "https://ornc.org/stories/the-battle-of-trafalgar/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "ORNC: fought off the Cape of Trafalgar near Cadiz on 21 October 1805; 'an overwhelming victory for Britain'; Nelson 'lost his life at the height of the battle, shot by a marksman.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-21-guggenheim",
+      "canonicalId": "guggenheim-museum-opens-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.guggenheim.org/about-us/architecture/frank-lloyd-wright-and-the-guggenheim",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Guggenheim: Wright commissioned in 1943; 'Wright's masterpiece opened to the public on October 21, 1959, six months after his death.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-21-nightingale",
+      "canonicalId": "nightingale-departs-for-crimea-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Florence-Nightingale",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Nightingale led an officially sanctioned party of 38 women, departing October 21, 1854, and arriving in Scutari at the Barrack Hospital on November 5.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-22-chandrayaan-1",
+      "canonicalId": "chandrayaan-1-launches-2008",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "ISRO: 'Chandrayaan-1, India's first mission to Moon, was launched successfully on October 22, 2008 from SDSC SHAR, Sriharikota.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-22-met-opera",
+      "canonicalId": "metropolitan-opera-house-opens-1883",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.historytoday.com/archive/months-past/opening-new-york%E2%80%99s-metropolitan-opera-house",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "History Today: 'The Metropolitan Opera House opened on 22 October 1883'; first season opened with Gounod's Faust starring Swedish soprano Christina Nilsson."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-22-xerography",
+      "canonicalId": "first-xerographic-copy-1938",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.rochester.edu/newscenter/review-sept-oct-2013-chester-carlson-haloid-xerox-electrophotography/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "University of Rochester: 'What they accomplished on the morning of Oct. 22, 1938, would prove historic'; Kornei coated a zinc plate with sulfur, charged it, and reproduced '10-22-38 ASTORIA' in powder; Carlson's Astoria experiment."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-22-sam-houston",
+      "canonicalId": "sam-houston-inaugurated-1836",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://thc.texas.gov/historic-sites/first-capitol-texas",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "THC: 'Columbia (now West Columbia) was the capital of Texas on October 22, 1836. On that day, Sam Houston, the first president of the new Texas Republic, gave his inaugural address'; inauguration had been scheduled for December but Burnet resigned unexpectedly, leaving Houston two hours to prepare."
+        },
+        {
+          "url": "https://www.tsl.texas.gov/exhibits/presidents/houston1/mrprez.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "TSLAC: after San Jacinto (April 21, 1836) Houston won the presidency; 'President Burnet resigned so that Houston could take office early on October 22'; inauguration in Columbia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

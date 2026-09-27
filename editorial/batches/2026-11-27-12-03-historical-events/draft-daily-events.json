@@ -1,0 +1,74 @@
+{
+  "days": [
+    {
+      "month": 11,
+      "day": 27,
+      "featuredEventId": "nobel-prizes-established-1895",
+      "additionalEventIds": [
+        "first-macys-parade-1924",
+        "treaty-of-neuilly-1919",
+        "anders-celsius-born-1701"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 28,
+      "featuredEventId": "albania-independence-1912",
+      "additionalEventIds": [
+        "lady-astor-takes-seat-1919",
+        "mauritania-independence-1960",
+        "tehran-conference-opens-1943"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 29,
+      "featuredEventId": "byrd-flies-over-south-pole-1929",
+      "additionalEventIds": [
+        "november-insurrection-1830",
+        "louisa-may-alcott-born-1832",
+        "un-partition-resolution-1947"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 30,
+      "featuredEventId": "barbados-independence-1966",
+      "additionalEventIds": [
+        "treaty-of-paris-preliminary-1782",
+        "thriller-released-1982",
+        "stone-of-scone-returned-1996"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 1,
+      "featuredEventId": "rosa-parks-arrested-1955",
+      "additionalEventIds": [
+        "ford-moving-assembly-line-1913",
+        "first-world-aids-day-1988",
+        "pact-of-locarno-signed-1925"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 2,
+      "featuredEventId": "first-nuclear-chain-reaction-1942",
+      "additionalEventIds": [
+        "uae-formed-1971",
+        "napoleon-crowned-emperor-1804",
+        "monroe-doctrine-1823"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 3,
+      "featuredEventId": "first-heart-transplant-1967",
+      "additionalEventIds": [
+        "eureka-stockade-1854",
+        "streetcar-named-desire-premieres-1947",
+        "francis-xavier-dies-1552"
+      ]
+    }
+  ]
+}

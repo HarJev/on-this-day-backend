@@ -1,0 +1,280 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-historical-events",
+  "candidates": [
+    {
+      "candidateId": "oct-09-upu-founded",
+      "kind": "event",
+      "proposedCanonicalId": "universal-postal-union-founded-1874",
+      "workingClaim": "October 9, 1874: On October 9, 1874, representatives of 22 countries meeting in Bern signed the Treaty of Bern, founding the organization now known as the Universal Postal Union. The anniversary is marked around the world today as World Post Day.",
+      "sourceUrls": [
+        "https://www.upu.int/en/universal-postal-union/about-upu/history",
+        "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/"
+      ]
+    },
+    {
+      "candidateId": "oct-09-kepler-supernova",
+      "kind": "event",
+      "proposedCanonicalId": "keplers-supernova-first-sighted-1604",
+      "workingClaim": "October 9, 1604: On October 9, 1604, Italian astronomer Lodovico delle Colombo first observed a bright new star in the constellation Ophiuchus. Johannes Kepler, working in Prague, began observing it on October 17, and the stellar explosion is now known by his name.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/"
+      ]
+    },
+    {
+      "candidateId": "oct-09-washington-monument",
+      "kind": "event",
+      "proposedCanonicalId": "washington-monument-opens-to-public-1888",
+      "workingClaim": "October 9, 1888: On October 9, 1888, the Washington Monument in Washington, D.C., opened to the public after a steam elevator was installed. The obelisk had been completed in 1884 and dedicated in February 1885.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Washington-Monument-Washington-DC"
+      ]
+    },
+    {
+      "candidateId": "oct-09-uganda-independence",
+      "kind": "event",
+      "proposedCanonicalId": "uganda-independence-1962",
+      "workingClaim": "October 9, 1962: On October 9, 1962, Uganda gained independence from Britain. Milton Obote became prime minister at the head of a coalition between the Uganda People's Congress and Kabaka Yekka.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Uganda/The-Republic-of-Uganda",
+        "https://www.ebsco.com/research-starters/history/uganda-gains-independence"
+      ]
+    },
+    {
+      "candidateId": "oct-09-che-guevara",
+      "kind": "event",
+      "proposedCanonicalId": "che-guevara-executed-1967",
+      "workingClaim": "October 9, 1967: On October 9, 1967, the revolutionary Ernesto \"Che\" Guevara was executed at La Higuera in Bolivia, a day after a U.S.-trained Bolivian army unit captured him. Declassified records show CIA involvement in the campaign against his guerrilla group.",
+      "sourceUrls": [
+        "https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia"
+      ]
+    },
+    {
+      "candidateId": "oct-10-wuchang-uprising",
+      "kind": "event",
+      "proposedCanonicalId": "wuchang-uprising-1911",
+      "workingClaim": "October 10, 1911: On October 10, 1911, an uprising broke out in Wuchang, part of present-day Wuhan in central China. It triggered the Xinhai Revolution, which overthrew the Qing dynasty and founded a republic, and the date is still commemorated as Double Ten.",
+      "sourceUrls": [
+        "https://blogs.britannica.com/2011/10/wuchang-uprising-double-ten-10101911",
+        "https://www.britannica.com/event/Chinese-Revolution-1911-1912"
+      ]
+    },
+    {
+      "candidateId": "oct-10-fiji-independence",
+      "kind": "event",
+      "proposedCanonicalId": "fiji-independence-1970",
+      "workingClaim": "October 10, 1970: On October 10, 1970, Fiji became independent with dominion status. The date echoed October 10, 1874, when Fiji had been ceded to Great Britain.",
+      "sourceUrls": [
+        "https://www.parliament.gov.fj/our-story/"
+      ]
+    },
+    {
+      "candidateId": "oct-10-cry-of-yara",
+      "kind": "event",
+      "proposedCanonicalId": "cry-of-yara-1868",
+      "workingClaim": "October 10, 1868: On October 10, 1868, planter Carlos Manuel de Cespedes proclaimed Cuban independence at his La Demajagua plantation near Bayamo, launching the Ten Years' War against Spanish rule. He freed his enslaved workers, who joined his rebel force.",
+      "sourceUrls": [
+        "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/grito-de-yara"
+      ]
+    },
+    {
+      "candidateId": "oct-10-outer-space-treaty",
+      "kind": "event",
+      "proposedCanonicalId": "outer-space-treaty-enters-force-1967",
+      "workingClaim": "October 10, 1967: On October 10, 1967, the Outer Space Treaty entered into force. Formally governing the exploration and use of outer space, the Moon, and other celestial bodies, it remains the foundation of international space law.",
+      "sourceUrls": [
+        "https://www.unoosa.org/oosa/en/informationfor/media/2017-unis-os-486.html"
+      ]
+    },
+    {
+      "candidateId": "oct-10-naval-academy",
+      "kind": "event",
+      "proposedCanonicalId": "us-naval-academy-founded-1845",
+      "workingClaim": "October 10, 1845: On October 10, 1845, the Naval School opened at Fort Severn in Annapolis, Maryland, with 50 midshipmen and seven professors. Established through the efforts of Navy Secretary George Bancroft, it became the United States Naval Academy in 1850.",
+      "sourceUrls": [
+        "https://www.usna.edu/USNAHistory/index.php"
+      ]
+    },
+    {
+      "candidateId": "oct-11-apollo-7",
+      "kind": "event",
+      "proposedCanonicalId": "apollo-7-launches-1968",
+      "workingClaim": "October 11, 1968: On October 11, 1968, Apollo 7 lifted off from Cape Kennedy with Walter Schirra, Donn Eisele, and Walter Cunningham aboard. It was the first Apollo mission to carry a crew.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-7/"
+      ]
+    },
+    {
+      "candidateId": "oct-11-vatican-ii",
+      "kind": "event",
+      "proposedCanonicalId": "second-vatican-council-opens-1962",
+      "workingClaim": "October 11, 1962: On October 11, 1962, the Second Vatican Council opened in Rome. Announced by Pope John XXIII, the council met in sessions until December 8, 1965.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Second-Vatican-Council"
+      ]
+    },
+    {
+      "candidateId": "oct-11-boer-war",
+      "kind": "event",
+      "proposedCanonicalId": "south-african-war-begins-1899",
+      "workingClaim": "October 11, 1899: On October 11, 1899, the South African War, also called the Second Boer War, began between Britain and the Boer republics. The conflict lasted until May 31, 1902.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/South-African-War"
+      ]
+    },
+    {
+      "candidateId": "oct-11-mary-rose",
+      "kind": "event",
+      "proposedCanonicalId": "mary-rose-raised-1982",
+      "workingClaim": "October 11, 1982: On October 11, 1982, the hull of the Mary Rose, Henry VIII's warship that sank in 1545, was raised from the seabed of the Solent after many years of searching, excavation, and recording.",
+      "sourceUrls": [
+        "https://maryrose.org/discover/history/recovering-the-mary-rose/"
+      ]
+    },
+    {
+      "candidateId": "oct-12-equatorial-guinea",
+      "kind": "event",
+      "proposedCanonicalId": "equatorial-guinea-independence-1968",
+      "workingClaim": "October 12, 1968: On October 12, 1968, Equatorial Guinea gained independence from Spain.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/equatorial-guinea"
+      ]
+    },
+    {
+      "candidateId": "oct-13-chile-miners",
+      "kind": "event",
+      "proposedCanonicalId": "chilean-miners-rescued-2010",
+      "workingClaim": "October 13, 2010: On October 13, 2010, rescuers began lifting 33 miners out of the San Jose gold and copper mine in northern Chile, 69 days after a collapse trapped them underground.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chile-mine-rescue-of-2010"
+      ]
+    },
+    {
+      "candidateId": "oct-14-hastings",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-hastings-1066",
+      "workingClaim": "October 14, 1066: On October 14, 1066, William, duke of Normandy, defeated King Harold II of England at the Battle of Hastings. The victory established the Normans as the rulers of England.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Hastings"
+      ]
+    },
+    {
+      "candidateId": "oct-14-yeager",
+      "kind": "event",
+      "proposedCanonicalId": "yeager-breaks-sound-barrier-1947",
+      "workingClaim": "October 14, 1947: On October 14, 1947, U.S. Air Force pilot Chuck Yeager flew the Bell X-1 faster than the speed of sound over Rogers Dry Lake in California. The achievement was kept secret until June 1948.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Chuck-Yeager"
+      ]
+    },
+    {
+      "candidateId": "oct-14-jena",
+      "kind": "event",
+      "proposedCanonicalId": "battles-of-jena-auerstedt-1806",
+      "workingClaim": "October 14, 1806: On October 14, 1806, Napoleon's forces defeated the armies of Prussia and Saxony in twin battles at Jena and Auerstedt. The victories let Napoleon complete his conquest of Prussia within six weeks.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Jena"
+      ]
+    },
+    {
+      "candidateId": "oct-15-shenzhou-5",
+      "kind": "event",
+      "proposedCanonicalId": "shenzhou-5-yang-liwei-2003",
+      "workingClaim": "October 15, 2003: On October 15, 2003, Shenzhou 5 carried Yang Liwei, China's first astronaut, into orbit on a 21-hour spaceflight.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Shenzhou"
+      ]
+    },
+    {
+      "candidateId": "oct-15-cassini",
+      "kind": "event",
+      "proposedCanonicalId": "cassini-launches-to-saturn-1997",
+      "workingClaim": "October 15, 1997: On October 15, 1997, NASA's Cassini spacecraft launched on its long journey to Saturn, where it would study the planet, its rings, and its moons.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/cassini/"
+      ]
+    },
+    {
+      "candidateId": "oct-12-oktoberfest",
+      "kind": "event",
+      "proposedCanonicalId": "first-oktoberfest-1810",
+      "workingClaim": "October 12, 1810: On October 12, 1810, the festival that became Oktoberfest began in Munich, celebrating the marriage of the Bavarian crown prince, later King Louis I, to Princess Therese von Sachsen-Hildburghausen.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Oktoberfest"
+      ]
+    },
+    {
+      "candidateId": "oct-12-columbus-landfall",
+      "kind": "event",
+      "proposedCanonicalId": "columbus-sights-land-1492",
+      "workingClaim": "October 12, 1492: On October 12, 1492, land was sighted from the Pinta, ending the Atlantic crossing of Christopher Columbus's fleet, which had left Spain on August 3. The island, called Guanahani, is usually identified with San Salvador in the Bahamas, though the exact site is disputed.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Christopher-Columbus"
+      ]
+    },
+    {
+      "candidateId": "oct-12-voskhod-1",
+      "kind": "event",
+      "proposedCanonicalId": "voskhod-1-launches-1964",
+      "workingClaim": "October 12, 1964: On October 12, 1964, Voskhod 1 carried commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov into Earth orbit. It was the first spacecraft to carry more than one person, and Yegorov became the first doctor in space.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Voskhod-spacecraft"
+      ]
+    },
+    {
+      "candidateId": "oct-13-templars",
+      "kind": "event",
+      "proposedCanonicalId": "templars-arrested-in-france-1307",
+      "workingClaim": "October 13, 1307: On October 13, 1307, King Philip IV of France ordered the arrest of every Templar in France and seized the order's property there. The arrests made much of Europe aware of the crimes alleged against the order.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Templars"
+      ]
+    },
+    {
+      "candidateId": "oct-13-white-house",
+      "kind": "event",
+      "proposedCanonicalId": "white-house-cornerstone-laid-1792",
+      "workingClaim": "October 13, 1792: On October 13, 1792, construction of the White House officially began with the laying of a cornerstone during a Masonic ceremony. Enslaved people worked alongside hired laborers at every stage of construction through 1800.",
+      "sourceUrls": [
+        "https://www.whitehousehistory.org/building-the-white-house"
+      ]
+    },
+    {
+      "candidateId": "oct-13-italy-war",
+      "kind": "event",
+      "proposedCanonicalId": "italy-declares-war-on-germany-1943",
+      "workingClaim": "October 13, 1943: On October 13, 1943, Italy declared war on Germany. Marshal Pietro Badoglio read the declaration at Brindisi, and the document, signed by King Victor Emmanuel III, was sent to Berlin through the Italian Embassy in Madrid.",
+      "sourceUrls": [
+        "https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-one",
+        "https://www.iwm.org.uk/collections/item/object/205195632"
+      ]
+    },
+    {
+      "candidateId": "oct-14-u2-cuba",
+      "kind": "event",
+      "proposedCanonicalId": "u2-photographs-missiles-in-cuba-1962",
+      "workingClaim": "October 14, 1962: On October 14, 1962, an American U-2 flight over Cuba took photographs that analysts studied over the following days. The images showed the Soviet Union building nuclear missile bases in Cuba, bringing the two superpowers into direct nuclear confrontation.",
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
+      ]
+    },
+    {
+      "candidateId": "oct-15-gregorian",
+      "kind": "event",
+      "proposedCanonicalId": "gregorian-calendar-takes-effect-1582",
+      "workingClaim": "October 15, 1582: On October 15, 1582, the Gregorian calendar took effect. Proclaimed by Pope Gregory XIII to reform the Julian calendar, the change advanced the calendar by 10 days, so the day after October 4 was counted as October 15.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Gregorian-calendar"
+      ]
+    },
+    {
+      "candidateId": "oct-15-thrustssc",
+      "kind": "event",
+      "proposedCanonicalId": "thrustssc-land-speed-record-1997",
+      "workingClaim": "October 15, 1997: On October 15, 1997, ThrustSSC set the world land speed record at 763 mph, becoming the first land vehicle to officially break the sound barrier.",
+      "sourceUrls": [
+        "https://www.transport-museum.com/visiting/thrustssc.aspx"
+      ]
+    }
+  ]
+}

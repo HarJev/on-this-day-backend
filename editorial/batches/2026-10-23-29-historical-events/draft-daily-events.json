@@ -1,0 +1,74 @@
+{
+  "days": [
+    {
+      "month": 10,
+      "day": 23,
+      "featuredEventId": "apple-introduces-ipod-2001",
+      "additionalEventIds": [
+        "hungarian-revolution-begins-1956",
+        "second-battle-of-el-alamein-begins-1942",
+        "first-military-reconnaissance-flight-1911"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 24,
+      "featuredEventId": "un-charter-enters-into-force-1945",
+      "additionalEventIds": [
+        "peace-of-westphalia-signed-1648",
+        "zambia-independence-1964",
+        "first-photo-from-space-1946"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 25,
+      "featuredEventId": "battle-of-agincourt-1415",
+      "additionalEventIds": [
+        "battle-of-balaklava-1854",
+        "siege-of-lisbon-ends-1147",
+        "windows-xp-launches-2001"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 26,
+      "featuredEventId": "last-natural-smallpox-case-1977",
+      "additionalEventIds": [
+        "football-association-founded-1863",
+        "austria-declares-neutrality-1955",
+        "erie-canal-completed-1825"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 27,
+      "featuredEventId": "new-york-subway-opens-1904",
+      "additionalEventIds": [
+        "saint-vincent-grenadines-independence-1979",
+        "turkmenistan-declares-independence-1991",
+        "amsterdam-toll-privilege-1275"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 28,
+      "featuredEventId": "statue-of-liberty-dedicated-1886",
+      "additionalEventIds": [
+        "czechoslovakia-independence-1918",
+        "greece-rejects-italian-ultimatum-1940",
+        "battle-of-milvian-bridge-312"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 29,
+      "featuredEventId": "turkish-republic-proclaimed-1923",
+      "additionalEventIds": [
+        "first-arpanet-message-1969",
+        "john-glenn-returns-to-space-1998",
+        "black-tuesday-1929"
+      ]
+    }
+  ]
+}

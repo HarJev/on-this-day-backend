@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-20-26-historical-events",
+  "entries": [
+    {
+      "candidateId": "nov-20-mexican-revolution",
+      "canonicalId": "mexican-revolution-begins-1910",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 20): 'On this day in 1910, Francisco Madero launched a failed revolt that sparked the Mexican Revolution by inspiring hope in such leaders as Pancho Villa and Emiliano Zapata, who then mobilized their armies against the government of Porfirio Diaz.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-20-qatar-world-cup",
+      "canonicalId": "qatar-world-cup-begins-2022",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 20): 2022: 'The first World Cup to be held in the Middle East began. Ecuador defeated Qatar, the host country, in the tournament's first match.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-20-essex",
+      "canonicalId": "whaleship-essex-sunk-1820",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 20): 1820: 'The American whaling ship Essex was rammed by a sperm whale and later sank, inspiring the climactic scene in Herman Melville's novel Moby Dick (1851).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "oceania"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-20-cambrai",
+      "canonicalId": "battle-of-cambrai-tanks-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 20): 1917: 'For the first time, tanks were used effectively in warfare, by the British at the Battle of Cambrai.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-21-montgolfier-balloon",
+      "canonicalId": "first-crewed-balloon-flight-1783",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 21): 1783: 'The first crewed hot-air balloon flight was made by Jean-Francois Pilatre de Rozier and Francois Laurent, marquis d'Arlandes, traveling from the Chateau de la Muette across the Bois de Boulogne on the edge of Paris in a balloon made by Joseph-Michel and Jacques-Etienne Montgolfier.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-21-dayton",
+      "canonicalId": "dayton-accords-1995",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 21): 1995: 'A peace agreement, known as the Dayton Accords, was reached by the presidents of Bosnia, Croatia, and Serbia, ending the Bosnian War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-21-voltaire",
+      "canonicalId": "voltaire-born-1694",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 21): 'One of the greatest French writers, famous for his critical capacity and satiric wit and still widely revered as a courageous crusader against tyranny, bigotry, and cruelty, Voltaire was born this day in 1694.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-21-mugabe",
+      "canonicalId": "mugabe-resigns-2017",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 21): 2017: 'After some 37 years as leader of Zimbabwe - first as prime minister and later as president - Robert Mugabe resigned from office as the parliament began impeachment proceedings against him.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-22-toy-story",
+      "canonicalId": "toy-story-released-1995",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 22): 1995: 'Pixar's Toy Story, the first entirely computer-animated feature-length film, was released. It became a critical and commercial hit and established a long-running franchise.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-22-jfk-assassinated",
+      "canonicalId": "kennedy-assassinated-1963",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 22): 'John F. Kennedy, the 35th president of the United States (1961-63), was shot and killed in Dallas, Texas, on this day in 1963.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-22-lebanon",
+      "canonicalId": "lebanon-independence-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 22): 1943: 'Lebanon proclaimed its independence from France, though it did not become wholly independent until 1946.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945",
+        "decolonization"
+      ],
+      "calendarDays": [
+        "11-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-22-merkel",
+      "canonicalId": "merkel-becomes-chancellor-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 22): 2005: 'Angela Merkel was sworn in as Germany's chancellor, becoming the first woman to hold the post.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-23-doctor-who",
+      "canonicalId": "doctor-who-first-episode-1963",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 23): 1963: 'The first episode of the British science-fiction television series Doctor Who aired, and the show soon became a landmark of British popular culture.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-23-ley-juarez",
+      "canonicalId": "ley-juarez-passed-1855",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 23): 'Passed this day in 1855 in Mexico, the Ley Juarez abolished special courts for the clergy and military in an attempt by justice minister Benito Juarez to eliminate the remnants of colonialism in Mexico and promote equality.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-23-life-magazine",
+      "canonicalId": "life-magazine-first-issue-1936",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 23): 1936: 'The first issue of Life was published. The magazine later became a pioneer in photojournalism and was one of the major forces in that field's development.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-23-otto-i",
+      "canonicalId": "otto-i-born-912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 23): 912: 'The Holy Roman emperor Otto I - who, during his reign in the 10th century, consolidated the German Reich by his suppression of rebellious vassals and his decisive victory over the Hungarians - was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-24-tasman",
+      "canonicalId": "tasman-reaches-tasmania-1642",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 24): 'Dutch navigator Abel Janszoon Tasman, who sailed from Batavia (Jakarta) to investigate the practicality of a sea passage eastward to Chile and to explore New Guinea, skirted the southern shores of Tasmania this day in 1642.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-24-black-beauty",
+      "canonicalId": "black-beauty-published-1877",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 24): 1877: 'Shortly before her death, Anna Sewell published her only novel, Black Beauty, the first major story about an animal in children's literature.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-24-turkey-equality",
+      "canonicalId": "turkey-legal-equality-reform-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 24): 2001: 'The Grand National Assembly of Turkey ratified changes to the country's legal code that made women equal to men before the law and no longer subject to their husbands.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-24-toulouse-lautrec",
+      "canonicalId": "toulouse-lautrec-born-1864",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 24): 'French artist Henri de Toulouse-Lautrec, born this day in 1864, documented with great psychological insight the personalities and facets of Parisian nightlife and the French world of entertainment in the 1890s.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-25-mousetrap",
+      "canonicalId": "the-mousetrap-opens-1952",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 25): 2002: 'In London the Agatha Christie play The Mousetrap celebrated its 50th anniversary with a royal gala, having opened on November 25, 1952, and this performance being its 20,807th.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-25-suriname",
+      "canonicalId": "suriname-independence-1975",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 25): 1975: 'Suriname gained its independence from the Netherlands.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "decolonization",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-25-lope-de-vega",
+      "canonicalId": "lope-de-vega-born-1562",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 25): Famous birthdays: '1562 Lope de Vega - Spanish author'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-25-los-alamos",
+      "canonicalId": "los-alamos-chosen-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 25): 1942: 'Leslie Groves and J. Robert Oppenheimer chose Los Alamos, New Mexico, as the site of Project Y, which developed the first atomic bomb.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-26-casablanca",
+      "canonicalId": "casablanca-premieres-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 26): 'Casablanca premiered this day in 1942. Set in occupied Morocco during World War II, directed by Michael Curtiz, and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, it became one of Hollywood's most-revered films.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-26-mongolia",
+      "canonicalId": "mongolian-peoples-republic-1924",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 26): 1924: 'After the defeat of the White Russians and the Chinese, the Mongolian People's Republic was proclaimed.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-26-nhl",
+      "canonicalId": "nhl-founded-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 26): 1917: 'The National Hockey League was founded and featured four Canadian teams; the first American club, the Boston Bruins, was added in 1924.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-26-curiosity",
+      "canonicalId": "curiosity-rover-launched-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 26): 2011: 'The Mars rover Curiosity was launched from Cape Canaveral, Florida.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

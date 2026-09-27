@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-16-22-historical-events",
+  "candidates": [
+    {
+      "candidateId": "oct-16-ether-day",
+      "kind": "event",
+      "proposedCanonicalId": "ether-anesthesia-demonstrated-1846",
+      "workingClaim": "October 16, 1846: On October 16, 1846, the first successful public demonstration of surgical anesthesia took place at Massachusetts General Hospital. Surgeon John Collins Warren removed a tumor from the neck of Edward Gilbert Abbott while dentist William Morton administered ether vapor, and Abbott barely stirred.",
+      "sourceUrls": [
+        "https://www.lindahall.org/about/news/scientist-of-the-day/ether-dome/",
+        "https://libguides.massgeneral.org/mghhistory/ether"
+      ]
+    },
+    {
+      "candidateId": "oct-16-john-paul-ii",
+      "kind": "event",
+      "proposedCanonicalId": "john-paul-ii-elected-pope-1978",
+      "workingClaim": "October 16, 1978: On October 16, 1978, Karol Wojtyla of Poland was elected pope and took the name John Paul II. He was the first non-Italian pope since Adrian VI in the 1520s and the first from a Slavic country.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Saint-John-Paul-II"
+      ]
+    },
+    {
+      "candidateId": "oct-16-parliament-fire",
+      "kind": "event",
+      "proposedCanonicalId": "houses-of-parliament-burn-1834",
+      "workingClaim": "October 16, 1834: On October 16, 1834, a fire destroyed most of the old Houses of Parliament in London. It began when old wooden tally sticks, once used as government receipts, were burned in furnaces beneath the House of Lords; firefighters managed to save Westminster Hall.",
+      "sourceUrls": [
+        "https://heritagecollections.parliament.uk/stories/the-fire-of-1834/"
+      ]
+    },
+    {
+      "candidateId": "oct-16-disney",
+      "kind": "event",
+      "proposedCanonicalId": "disney-studio-founded-1923",
+      "workingClaim": "October 16, 1923: On October 16, 1923, New York distributor M. J. Winkler contracted to distribute Walt Disney's Alice Comedies, and that date became the start of the Disney company.",
+      "sourceUrls": [
+        "https://d23.com/disney-history/"
+      ]
+    },
+    {
+      "candidateId": "oct-17-calder-hall",
+      "kind": "event",
+      "proposedCanonicalId": "calder-hall-opens-1956",
+      "workingClaim": "October 17, 1956: On October 17, 1956, Queen Elizabeth II opened Calder Hall in Cumbria, England. It was the first nuclear power station in the world to produce electricity for domestic use, and it operated for 47 years.",
+      "sourceUrls": [
+        "https://www.world-nuclear-news.org/Articles/UK-marks-60th-anniversary-of-Calder-Hall",
+        "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/calder-hall-nuclear-power-station"
+      ]
+    },
+    {
+      "candidateId": "oct-17-first-open",
+      "kind": "event",
+      "proposedCanonicalId": "first-open-championship-1860",
+      "workingClaim": "October 17, 1860: On October 17, 1860, the first Open was played at Prestwick on Scotland's Ayrshire coast. Eight professionals competed for the Challenge Belt, with no prize money, and Willie Park won.",
+      "sourceUrls": [
+        "https://www.theopen.com/previous-opens/1st-open-prestwick-1860"
+      ]
+    },
+    {
+      "candidateId": "oct-17-saratoga",
+      "kind": "event",
+      "proposedCanonicalId": "burgoyne-surrenders-at-saratoga-1777",
+      "workingClaim": "October 17, 1777: On October 17, 1777, a British army of more than 6,000 prepared to surrender to American forces at Saratoga, New York. Lieutenant General John Burgoyne met Major General Horatio Gates to mark the occasion.",
+      "sourceUrls": [
+        "https://www.nps.gov/places/saratoga-surrender-site.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-17-loma-prieta",
+      "kind": "event",
+      "proposedCanonicalId": "loma-prieta-earthquake-1989",
+      "workingClaim": "October 17, 1989: On October 17, 1989, a magnitude 6.9 earthquake centered near Loma Prieta peak in the Santa Cruz Mountains severely shook the San Francisco and Monterey Bay regions. It struck when the Pacific and North American plates slipped along the San Andreas fault system.",
+      "sourceUrls": [
+        "https://pubs.usgs.gov/dds/dds-29/"
+      ]
+    },
+    {
+      "candidateId": "oct-18-persons-case",
+      "kind": "event",
+      "proposedCanonicalId": "persons-case-decided-1929",
+      "workingClaim": "October 18, 1929: On October 18, 1929, the Judicial Committee of the Privy Council in London overruled Canada's Supreme Court in the Persons Case, brought by five Alberta women known as the Famous Five. The ruling opened the door for women to be appointed to the Senate, and October 18 is now marked as Persons Day.",
+      "sourceUrls": [
+        "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/"
+      ]
+    },
+    {
+      "candidateId": "oct-18-the-whale",
+      "kind": "event",
+      "proposedCanonicalId": "the-whale-published-in-london-1851",
+      "workingClaim": "October 18, 1851: On October 18, 1851, London publisher Richard Bentley released Herman Melville's novel under its original title, The Whale, in an edition of only 500 copies. Harper & Brothers published it in New York as Moby-Dick on November 14, 1851.",
+      "sourceUrls": [
+        "https://nha.org/research/nantucket-history/history-topics/very-like-a-whale-editions-of-moby-dick/"
+      ]
+    },
+    {
+      "candidateId": "oct-18-alaska-transfer",
+      "kind": "event",
+      "proposedCanonicalId": "alaska-transferred-to-us-1867",
+      "workingClaim": "October 18, 1867: On October 18, 1867, a ceremony at Sitka formally transferred Alaska from Russia to the United States. Eyewitnesses recorded the lowering of the old flag as Americans arrived and Russians departed.",
+      "sourceUrls": [
+        "https://alaskahistoricalsociety.org/about-ahs/special-projects/150treaty/150th-resource-library/new-articles/eyewitness-accounts-to-alaska-transfer-ceremony/"
+      ]
+    },
+    {
+      "candidateId": "oct-18-beamon",
+      "kind": "event",
+      "proposedCanonicalId": "bob-beamon-long-jump-1968",
+      "workingClaim": "October 18, 1968: On October 18, 1968, at the Olympic Games in Mexico City, American long jumper Bob Beamon leaped 8.90 meters (29 feet 2.5 inches), setting a world record. He became the first long jumper to pass both 28 and 29 feet.",
+      "sourceUrls": [
+        "https://www.guinnessworldrecords.com/news/2016/8/olympic-legends-bob-beamon-takes-long-jump-record-to-new-heights-in-1968-437935",
+        "https://www.britannica.com/biography/Bob-Beamon"
+      ]
+    },
+    {
+      "candidateId": "oct-19-yorktown",
+      "kind": "event",
+      "proposedCanonicalId": "cornwallis-surrenders-at-yorktown-1781",
+      "workingClaim": "October 19, 1781: On October 19, 1781, General Charles Cornwallis surrendered his British army at Yorktown, Virginia, after a siege by allied American and French forces under George Washington. The surrender effectively ended the war and ensured American independence.",
+      "sourceUrls": [
+        "https://www.nps.gov/york/index.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-19-napoleon-retreat",
+      "kind": "event",
+      "proposedCanonicalId": "napoleon-retreats-from-moscow-1812",
+      "workingClaim": "October 19, 1812: On October 19, 1812, after waiting a month in Moscow for Russia to come to terms, Napoleon began his retreat with an army then 110,000 strong. The invasion and retreat cost the French about 500,000 casualties.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/French-invasion-of-Russia"
+      ]
+    },
+    {
+      "candidateId": "oct-19-black-monday",
+      "kind": "event",
+      "proposedCanonicalId": "black-monday-crash-1987",
+      "workingClaim": "October 19, 1987: On October 19, 1987, known as Black Monday, the Dow Jones Industrial Average fell 22.6 percent, the largest one-day stock market decline in history. Markets around the world were hit in what became the first contemporary global financial crisis.",
+      "sourceUrls": [
+        "https://www.federalreservehistory.org/essays/stock-market-crash-of-1987"
+      ]
+    },
+    {
+      "candidateId": "oct-19-japan-soviet",
+      "kind": "event",
+      "proposedCanonicalId": "japan-soviet-joint-declaration-1956",
+      "workingClaim": "October 19, 1956: On October 19, 1956, Japan and the Soviet Union signed a joint declaration ending the state of war between them and resuming diplomatic relations. It was signed in place of a peace treaty because the two sides could not agree on the Northern Territories.",
+      "sourceUrls": [
+        "https://www.mofa.go.jp/region/europe/russia/territory/overview.html"
+      ]
+    },
+    {
+      "candidateId": "oct-20-sydney-opera-house",
+      "kind": "event",
+      "proposedCanonicalId": "sydney-opera-house-opens-1973",
+      "workingClaim": "October 20, 1973: On October 20, 1973, Queen Elizabeth II officially opened the Sydney Opera House. Work on the building had begun in 1959 and cost $102 million; its first public performance had taken place the month before.",
+      "sourceUrls": [
+        "https://mhnsw.au/stories/on-this-day/20-october-1973/"
+      ]
+    },
+    {
+      "candidateId": "oct-20-leyte",
+      "kind": "event",
+      "proposedCanonicalId": "leyte-landings-1944",
+      "workingClaim": "October 20, 1944: On October 20, 1944, the U.S. Navy landed four Sixth Army divisions on Leyte in the Philippines. Later that day General Douglas MacArthur gave his 'I have returned' radio message to the Philippine people.",
+      "sourceUrls": [
+        "https://www.history.navy.mil/content/history/museums/nmusn/explore/photography/wwii/wwii-pacific/leyte/leyte-invasion.html"
+      ]
+    },
+    {
+      "candidateId": "oct-20-navarino",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-navarino-1827",
+      "workingClaim": "October 20, 1827: On October 20, 1827, the naval fleets of Great Britain, France, and Russia destroyed the Egyptian fleet at Navarino. The engagement was decisive in the Greek War of Independence against the Ottoman Empire.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Navarino"
+      ]
+    },
+    {
+      "candidateId": "oct-20-maria-theresa",
+      "kind": "event",
+      "proposedCanonicalId": "charles-vi-dies-maria-theresa-succeeds-1740",
+      "workingClaim": "October 20, 1740: On October 20, 1740, the Habsburg emperor Charles VI died, and his daughter Maria Theresa succeeded to the Habsburg lands. Her inheritance was soon challenged in the War of the Austrian Succession, which broke out before the end of the year.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Maria-Theresa"
+      ]
+    },
+    {
+      "candidateId": "oct-21-france-women-vote",
+      "kind": "event",
+      "proposedCanonicalId": "french-women-vote-nationally-1945",
+      "workingClaim": "October 21, 1945: On October 21, 1945, women in France voted for the first time in a national ballot, a referendum and the election of a Constituent Assembly. Thirty-three women were elected members of the new assembly.",
+      "sourceUrls": [
+        "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/"
+      ]
+    },
+    {
+      "candidateId": "oct-21-trafalgar",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-trafalgar-1805",
+      "workingClaim": "October 21, 1805: On October 21, 1805, the British Royal Navy defeated the combined fleets of France and Spain off Cape Trafalgar near Cadiz. The battle was an overwhelming British victory, but Admiral Lord Horatio Nelson was shot by a marksman and killed.",
+      "sourceUrls": [
+        "https://www.rmg.co.uk/stories/maritime-history/battle-trafalgar-background",
+        "https://ornc.org/stories/the-battle-of-trafalgar/"
+      ]
+    },
+    {
+      "candidateId": "oct-21-guggenheim",
+      "kind": "event",
+      "proposedCanonicalId": "guggenheim-museum-opens-1959",
+      "workingClaim": "October 21, 1959: On October 21, 1959, the Solomon R. Guggenheim Museum, designed by Frank Lloyd Wright, opened to the public in New York. Wright had been commissioned in 1943, and the building opened six months after his death.",
+      "sourceUrls": [
+        "https://www.guggenheim.org/about-us/architecture/frank-lloyd-wright-and-the-guggenheim"
+      ]
+    },
+    {
+      "candidateId": "oct-21-nightingale",
+      "kind": "event",
+      "proposedCanonicalId": "nightingale-departs-for-crimea-1854",
+      "workingClaim": "October 21, 1854: On October 21, 1854, Florence Nightingale departed with an officially sanctioned party of 38 women to nurse British soldiers in the Crimean War. They reached the Barrack Hospital at Scutari on November 5.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Florence-Nightingale"
+      ]
+    },
+    {
+      "candidateId": "oct-22-chandrayaan-1",
+      "kind": "event",
+      "proposedCanonicalId": "chandrayaan-1-launches-2008",
+      "workingClaim": "October 22, 2008: On October 22, 2008, India launched Chandrayaan-1, its first mission to the Moon, from the Satish Dhawan Space Centre at Sriharikota.",
+      "sourceUrls": [
+        "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html"
+      ]
+    },
+    {
+      "candidateId": "oct-22-met-opera",
+      "kind": "event",
+      "proposedCanonicalId": "metropolitan-opera-house-opens-1883",
+      "workingClaim": "October 22, 1883: On October 22, 1883, the Metropolitan Opera House opened in New York. The first season began with Charles Gounod's Faust, starring Swedish soprano Christina Nilsson.",
+      "sourceUrls": [
+        "https://www.historytoday.com/archive/months-past/opening-new-york%E2%80%99s-metropolitan-opera-house"
+      ]
+    },
+    {
+      "candidateId": "oct-22-xerography",
+      "kind": "event",
+      "proposedCanonicalId": "first-xerographic-copy-1938",
+      "workingClaim": "October 22, 1938: On October 22, 1938, in a room in Astoria, Queens, Chester Carlson and physicist Otto Kornei produced the first image by the process that became xerography. A charged, sulfur-coated plate reproduced the words '10-22-38 ASTORIA' in powder.",
+      "sourceUrls": [
+        "https://www.rochester.edu/newscenter/review-sept-oct-2013-chester-carlson-haloid-xerox-electrophotography/"
+      ]
+    },
+    {
+      "candidateId": "oct-22-sam-houston",
+      "kind": "event",
+      "proposedCanonicalId": "sam-houston-inaugurated-1836",
+      "workingClaim": "October 22, 1836: On October 22, 1836, Sam Houston, the first president of the new Republic of Texas, gave his inaugural address in Columbia, then the capital. The ceremony had been planned for December, but interim president David Burnet resigned early.",
+      "sourceUrls": [
+        "https://thc.texas.gov/historic-sites/first-capitol-texas",
+        "https://www.tsl.texas.gov/exhibits/presidents/houston1/mrprez.html"
+      ]
+    }
+  ]
+}

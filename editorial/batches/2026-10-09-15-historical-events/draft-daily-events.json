@@ -1,0 +1,76 @@
+{
+  "days": [
+    {
+      "month": 10,
+      "day": 9,
+      "featuredEventId": "universal-postal-union-founded-1874",
+      "additionalEventIds": [
+        "keplers-supernova-first-sighted-1604",
+        "washington-monument-opens-to-public-1888",
+        "uganda-independence-1962",
+        "che-guevara-executed-1967"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 10,
+      "featuredEventId": "wuchang-uprising-1911",
+      "additionalEventIds": [
+        "fiji-independence-1970",
+        "cry-of-yara-1868",
+        "outer-space-treaty-enters-force-1967",
+        "us-naval-academy-founded-1845"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 11,
+      "featuredEventId": "apollo-7-launches-1968",
+      "additionalEventIds": [
+        "second-vatican-council-opens-1962",
+        "south-african-war-begins-1899",
+        "mary-rose-raised-1982"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 12,
+      "featuredEventId": "equatorial-guinea-independence-1968",
+      "additionalEventIds": [
+        "first-oktoberfest-1810",
+        "columbus-sights-land-1492",
+        "voskhod-1-launches-1964"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 13,
+      "featuredEventId": "chilean-miners-rescued-2010",
+      "additionalEventIds": [
+        "templars-arrested-in-france-1307",
+        "white-house-cornerstone-laid-1792",
+        "italy-declares-war-on-germany-1943"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 14,
+      "featuredEventId": "battle-of-hastings-1066",
+      "additionalEventIds": [
+        "yeager-breaks-sound-barrier-1947",
+        "battles-of-jena-auerstedt-1806",
+        "u2-photographs-missiles-in-cuba-1962"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 15,
+      "featuredEventId": "shenzhou-5-yang-liwei-2003",
+      "additionalEventIds": [
+        "cassini-launches-to-saturn-1997",
+        "gregorian-calendar-takes-effect-1582",
+        "thrustssc-land-speed-record-1997"
+      ]
+    }
+  ]
+}
