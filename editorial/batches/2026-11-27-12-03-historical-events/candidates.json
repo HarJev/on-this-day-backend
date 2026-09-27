@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-27-12-03-historical-events",
+  "candidates": [
+    {
+      "candidateId": "nov-27-nobel-will",
+      "kind": "event",
+      "proposedCanonicalId": "nobel-prizes-established-1895",
+      "workingClaim": "November 27, 1895: On November 27, 1895, the Nobel Prizes were established through the will of Alfred Nobel, the Swedish chemist, engineer, and industrialist who invented dynamite and other powerful explosives.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-27"
+      ]
+    },
+    {
+      "candidateId": "nov-27-macys-parade",
+      "kind": "event",
+      "proposedCanonicalId": "first-macys-parade-1924",
+      "workingClaim": "November 27, 1924: On November 27, 1924, the first Macy's Thanksgiving Day Parade was held in New York City. It became an American tradition, known especially for the huge balloons introduced in 1927.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-27"
+      ]
+    },
+    {
+      "candidateId": "nov-27-neuilly",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-neuilly-1919",
+      "workingClaim": "November 27, 1919: On November 27, 1919, the Treaty of Neuilly, setting out the post-World War I peace terms for Bulgaria, was signed between Bulgaria and the Allied powers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-27"
+      ]
+    },
+    {
+      "candidateId": "nov-27-celsius",
+      "kind": "event",
+      "proposedCanonicalId": "anders-celsius-born-1701",
+      "workingClaim": "November 27, 1701: On November 27, 1701, the Swedish astronomer Anders Celsius was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-27"
+      ]
+    },
+    {
+      "candidateId": "nov-28-albania",
+      "kind": "event",
+      "proposedCanonicalId": "albania-independence-1912",
+      "workingClaim": "November 28, 1912: On November 28, 1912, Albanian national delegates led by Ismail Qemal issued the Vlore proclamation, declaring Albania's independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "nov-28-lady-astor",
+      "kind": "event",
+      "proposedCanonicalId": "lady-astor-takes-seat-1919",
+      "workingClaim": "November 28, 1919: On November 28, 1919, Lady Astor became the first woman to sit in the British House of Commons.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "nov-28-mauritania",
+      "kind": "event",
+      "proposedCanonicalId": "mauritania-independence-1960",
+      "workingClaim": "November 28, 1960: On November 28, 1960, Mauritania declared its independence and left the French Community.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "nov-28-tehran-conference",
+      "kind": "event",
+      "proposedCanonicalId": "tehran-conference-opens-1943",
+      "workingClaim": "November 28, 1943: On November 28, 1943, the Tehran Conference opened, bringing together US President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Soviet Premier Joseph Stalin, who pressed for an invasion of France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "nov-29-byrd-south-pole",
+      "kind": "event",
+      "proposedCanonicalId": "byrd-flies-over-south-pole-1929",
+      "workingClaim": "November 29, 1929: On November 29, 1929, American pioneer aviator Richard E. Byrd flew over the South Pole.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-29"
+      ]
+    },
+    {
+      "candidateId": "nov-29-november-uprising",
+      "kind": "event",
+      "proposedCanonicalId": "november-insurrection-1830",
+      "workingClaim": "November 29, 1830: On November 29, 1830, a Polish secret society of infantry cadets staged an uprising in Warsaw, beginning the November Insurrection.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-29"
+      ]
+    },
+    {
+      "candidateId": "nov-29-alcott",
+      "kind": "event",
+      "proposedCanonicalId": "louisa-may-alcott-born-1832",
+      "workingClaim": "November 29, 1832: On November 29, 1832, Louisa May Alcott, best known for her novel Little Women, was born in Pennsylvania.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-29"
+      ]
+    },
+    {
+      "candidateId": "nov-29-resolution-181",
+      "kind": "event",
+      "proposedCanonicalId": "un-partition-resolution-1947",
+      "workingClaim": "November 29, 1947: On November 29, 1947, the United Nations General Assembly passed Resolution 181, which called for the partition of Palestine into Arab and Jewish states and for placing Jerusalem under a special international regime.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-29"
+      ]
+    },
+    {
+      "candidateId": "nov-30-barbados",
+      "kind": "event",
+      "proposedCanonicalId": "barbados-independence-1966",
+      "workingClaim": "November 30, 1966: On November 30, 1966, Barbados, which had gained internal self-rule in 1961, achieved full independence from Britain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-30"
+      ]
+    },
+    {
+      "candidateId": "nov-30-treaty-of-paris-prelim",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-paris-preliminary-1782",
+      "workingClaim": "November 30, 1782: On November 30, 1782, Britain and the United States signed the preliminary articles of the Treaty of Paris, part of the Peace of Paris that concluded the American Revolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-30"
+      ]
+    },
+    {
+      "candidateId": "nov-30-thriller",
+      "kind": "event",
+      "proposedCanonicalId": "thriller-released-1982",
+      "workingClaim": "November 30, 1982: On November 30, 1982, Michael Jackson released Thriller, which became the best-selling album in the world and won a record eight Grammy Awards.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-30"
+      ]
+    },
+    {
+      "candidateId": "nov-30-stone-of-scone",
+      "kind": "event",
+      "proposedCanonicalId": "stone-of-scone-returned-1996",
+      "workingClaim": "November 30, 1996: On November 30, 1996, the Stone of Scone, a block of gray sandstone, was returned to Scotland 700 years after King Edward I took it to England as war booty.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-30"
+      ]
+    },
+    {
+      "candidateId": "dec-01-rosa-parks",
+      "kind": "event",
+      "proposedCanonicalId": "rosa-parks-arrested-1955",
+      "workingClaim": "December 1, 1955: On December 1, 1955, in Montgomery, Alabama, Rosa Parks refused to give up her bus seat to a white passenger in violation of segregation laws and was arrested, sparking a 381-day bus boycott led by Martin Luther King, Jr.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "dec-01-assembly-line",
+      "kind": "event",
+      "proposedCanonicalId": "ford-moving-assembly-line-1913",
+      "workingClaim": "December 1, 1913: On December 1, 1913, the world's first moving assembly line debuted at a Ford factory in Highland Park, Michigan, manufacturing Model Ts. Henry Ford's innovation revolutionized the auto industry.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "dec-01-world-aids-day",
+      "kind": "event",
+      "proposedCanonicalId": "first-world-aids-day-1988",
+      "workingClaim": "December 1, 1988: On December 1, 1988, the first World AIDS Day was held.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "dec-01-locarno",
+      "kind": "event",
+      "proposedCanonicalId": "pact-of-locarno-signed-1925",
+      "workingClaim": "December 1, 1925: On December 1, 1925, Germany, France, Belgium, Great Britain, and Italy signed the Pact of Locarno, a series of agreements intended to guarantee peace in western Europe.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "dec-02-chicago-pile",
+      "kind": "event",
+      "proposedCanonicalId": "first-nuclear-chain-reaction-1942",
+      "workingClaim": "December 2, 1942: On December 2, 1942, scientists led by Enrico Fermi conducted the world's first controlled, self-sustaining nuclear chain reaction at the University of Chicago.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "dec-02-uae",
+      "kind": "event",
+      "proposedCanonicalId": "uae-formed-1971",
+      "workingClaim": "December 2, 1971: On December 2, 1971, the United Arab Emirates was formed by the union of six small emirates on the Arabian Peninsula; a seventh joined in February 1972.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "dec-02-napoleon-crowned",
+      "kind": "event",
+      "proposedCanonicalId": "napoleon-crowned-emperor-1804",
+      "workingClaim": "December 2, 1804: On December 2, 1804, Napoleon crowned himself emperor of France in the presence of Pope Pius VII.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "dec-02-monroe-doctrine",
+      "kind": "event",
+      "proposedCanonicalId": "monroe-doctrine-1823",
+      "workingClaim": "December 2, 1823: On December 2, 1823, in his annual message to Congress, President James Monroe declared that the United States would not interfere in European affairs and would treat any European attempt to control a nation in the Western Hemisphere as a hostile act. The policy became known as the Monroe Doctrine.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "dec-03-heart-transplant",
+      "kind": "event",
+      "proposedCanonicalId": "first-heart-transplant-1967",
+      "workingClaim": "December 3, 1967: On December 3, 1967, South African surgeon Christiaan Barnard performed the first human heart transplant, at Groote Schuur Hospital in Cape Town.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3"
+      ]
+    },
+    {
+      "candidateId": "dec-03-eureka-stockade",
+      "kind": "event",
+      "proposedCanonicalId": "eureka-stockade-1854",
+      "workingClaim": "December 3, 1854: On December 3, 1854, gold miners at the Eureka goldfield in Victoria, Australia, who had barricaded themselves inside a hastily built stockade, opened fire on the government forces surrounding them, the culmination of long-standing grievances.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3"
+      ]
+    },
+    {
+      "candidateId": "dec-03-streetcar",
+      "kind": "event",
+      "proposedCanonicalId": "streetcar-named-desire-premieres-1947",
+      "workingClaim": "December 3, 1947: On December 3, 1947, Tennessee Williams's A Streetcar Named Desire premiered on Broadway, starring Jessica Tandy, Kim Hunter, and Marlon Brando.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3"
+      ]
+    },
+    {
+      "candidateId": "dec-03-francis-xavier",
+      "kind": "event",
+      "proposedCanonicalId": "francis-xavier-dies-1552",
+      "workingClaim": "December 3, 1552: On December 3, 1552, St. Francis Xavier, the leading Roman Catholic missionary of modern times, died of fever off the coast of China.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3"
+      ]
+    }
+  ]
+}

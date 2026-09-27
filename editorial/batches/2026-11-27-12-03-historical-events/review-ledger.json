@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-27-12-03-historical-events",
+  "entries": [
+    {
+      "candidateId": "nov-27-nobel-will",
+      "canonicalId": "nobel-prizes-established-1895",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 27): 'Through the will drawn up by Alfred Bernhard Nobel - the Swedish chemist, engineer, and industrialist who invented dynamite and other, more powerful explosives - the Nobel Prizes were established on this day in 1895.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-27-macys-parade",
+      "canonicalId": "first-macys-parade-1924",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 27): 1924: 'The first Macy's Thanksgiving Day Parade was held in New York City, and it became an American tradition, especially known for its huge balloons, which were introduced in 1927.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-27-neuilly",
+      "canonicalId": "treaty-of-neuilly-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 27): 1919: 'The Treaty of Neuilly, outlining the post-World War I peace terms for Bulgaria, was signed between the defeated country and the Allied powers.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-27-celsius",
+      "canonicalId": "anders-celsius-born-1701",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 27): Famous birthdays: '1701 Anders Celsius - Swedish astronomer'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-28-albania",
+      "canonicalId": "albania-independence-1912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 28): 1912: 'Albanian national delegates, led by Ismail Qemal, issued the Vlore proclamation, which declared Albania's independence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-28-lady-astor",
+      "canonicalId": "lady-astor-takes-seat-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 28): 1919: 'Lady Astor became the first woman to sit in the British House of Commons.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-28-mauritania",
+      "canonicalId": "mauritania-independence-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 28): 1960: 'Mauritania declared its independence and left the French Community.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-28-tehran-conference",
+      "canonicalId": "tehran-conference-opens-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 28): 'The Tehran Conference, attended by U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Soviet Premier Joseph Stalin, at which Stalin pressed for an invasion of France, opened this day in 1943.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-29-byrd-south-pole",
+      "canonicalId": "byrd-flies-over-south-pole-1929",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 29): 1929: 'American pioneer aviator Richard E. Byrd flew over the South Pole.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-29-november-uprising",
+      "canonicalId": "november-insurrection-1830",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 29): 1830: 'A Polish secret society of infantry cadets staged an uprising in Warsaw, beginning the November Insurrection.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-29-alcott",
+      "canonicalId": "louisa-may-alcott-born-1832",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 29): 1832: 'Author Louisa May Alcott, who is best known for her novel Little Women, was born in Pennsylvania.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-29-resolution-181",
+      "canonicalId": "un-partition-resolution-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 29): 'On this day in 1947, the United Nations General Assembly passed Resolution 181, which called for the partition of Palestine into Arab and Jewish states and for placing the city of Jerusalem under a special international regime.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-30-barbados",
+      "canonicalId": "barbados-independence-1966",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 30): 'Barbados, an island nation in the Caribbean ... had gained internal self-rule in 1961 and achieved its full independence from Britain on this day in 1966.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-30-treaty-of-paris-prelim",
+      "canonicalId": "treaty-of-paris-preliminary-1782",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 30): 1782: 'Britain and the United States signed the preliminary articles of the Treaty of Paris as part of the Peace of Paris, a collection of treaties concluding the American Revolution.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "11-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-30-thriller",
+      "canonicalId": "thriller-released-1982",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 30): 1982: 'American singer and songwriter Michael Jackson released Thriller, which became the best-selling album in the world and won a record-setting eight Grammy Awards.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-30-stone-of-scone",
+      "canonicalId": "stone-of-scone-returned-1996",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 30): 1996: 'A block of gray sandstone known as the Stone of Scone was returned to Scotland, 700 years after it had been taken to England as war booty by King Edward I.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-01-rosa-parks",
+      "canonicalId": "rosa-parks-arrested-1955",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 1): 'This day in 1955, in violation of segregation laws in Montgomery, Alabama, Rosa Parks refused to surrender her bus seat to a white passenger and was arrested, sparking a 381-day bus boycott led by Martin Luther King, Jr.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-01-assembly-line",
+      "canonicalId": "ford-moving-assembly-line-1913",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 1): 1913: 'The world's first moving assembly line debuted, used in manufacturing Model Ts at a Ford factory in Highland Park, Michigan; the innovation was the idea of owner Henry Ford, and it revolutionized the auto industry.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-01-world-aids-day",
+      "canonicalId": "first-world-aids-day-1988",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 1): 1988: 'The first World AIDS Day was held.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-01-locarno",
+      "canonicalId": "pact-of-locarno-signed-1925",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 1): 1925: 'Germany, France, Belgium, Great Britain, and Italy signed the Pact of Locarno, a series of agreements intended to guarantee peace in western Europe.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-02-chicago-pile",
+      "canonicalId": "first-nuclear-chain-reaction-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 2): 1942: 'Scientists led by Enrico Fermi conducted the world's first controlled self-sustaining nuclear chain reaction, at the University of Chicago.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-02-uae",
+      "canonicalId": "uae-formed-1971",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 2): 1971: 'The United Arab Emirates was formed by the union of six small emirates on the Arabian Peninsula; a seventh emirate joined in February 1972.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "cold-war",
+        "decolonization"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-02-napoleon-crowned",
+      "canonicalId": "napoleon-crowned-emperor-1804",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 2): 1804: 'Napoleon crowned himself emperor of France in the presence of Pope Pius VII.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-02-monroe-doctrine",
+      "canonicalId": "monroe-doctrine-1823",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 2): 'On this day in 1823, U.S. President James Monroe used his annual message to Congress to assert that the United States would not interfere in internal European affairs and that any attempt by a European power to control any nation in the Western Hemisphere would be viewed as a hostile act against the United States. His policy became known as the Monroe Doctrine.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-03-heart-transplant",
+      "canonicalId": "first-heart-transplant-1967",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 3): 1967: 'Christiaan Barnard of South Africa performed the first human heart transplant, at Groote Schuur Hospital in Cape Town.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-03-eureka-stockade",
+      "canonicalId": "eureka-stockade-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 3): 1854: 'After hastily constructing a fortification and barricading themselves inside, miners (\"diggers\") working in the Eureka goldfield in Victoria, Australia, opened fire on government forces surrounding the stockade, the culmination of long-standing grievances on the part of the diggers.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-03-streetcar",
+      "canonicalId": "streetcar-named-desire-premieres-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 3): 1947: 'Tennessee Williams's A Streetcar Named Desire premiered on Broadway, starring Jessica Tandy, Kim Hunter, and Marlon Brando.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dec-03-francis-xavier",
+      "canonicalId": "francis-xavier-dies-1552",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Dec 3): 1552: 'St. Francis Xavier, the leading Roman Catholic missionary of modern times, died of fever off the coast of China.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}
