@@ -74,7 +74,7 @@ python3 editorial/event-images/event_image_pipeline.py attach \
   --origin https://YOUR_DISTRIBUTION.cloudfront.net
 ```
 
-Review the output diff, copy approved entries to `content/events.json`, run the existing canonical event importer from `CONTENT_IMPORT_GUIDE.md`, then check the owned URLs. The mobile cache already handles ordinary HTTPS image URLs, so no mobile code change is required.
+Review the output diff, copy approved entries to `content/events.json`, run the existing canonical event importer from `CONTENT_IMPORT_GUIDE.md`, then check the owned URLs. The tool refuses to overwrite the input event file unless `--write-canonical` is also supplied. The mobile cache already handles ordinary HTTPS image URLs, so no mobile code change is required.
 
 ## Automation boundary
 
