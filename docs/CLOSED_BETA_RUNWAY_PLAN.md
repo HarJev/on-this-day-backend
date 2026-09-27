@@ -41,7 +41,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 | `2026-12-18-25-historical-events` | Dec 18-25 | Drafted: 33 events (4-5 per date), source-verified |
 
 As of the Dec 18-25 batch, every date from Oct 2 to Dec 25 has four or five
-draft events (382 in total). Merged with canonical content, all 90 dates from
+draft events (344 in total). Merged with canonical content, all 90 dates from
 Sep 27 to Dec 25 meet the four-event floor.
 
 Each date targets four or five events: one featured event with notification
