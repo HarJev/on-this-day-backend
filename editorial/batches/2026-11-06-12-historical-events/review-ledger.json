@@ -1,0 +1,702 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-06-12-historical-events",
+  "entries": [
+    {
+      "candidateId": "nov-06-lincoln-elected",
+      "canonicalId": "lincoln-elected-president-1860",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'A deeply divided nation went to the polls on November 6, 1860'; Lincoln 'captured slightly less than 40 percent of the vote, but he won a majority in the electoral college, with 180 electoral votes, by sweeping the North ... and also winning ... California and Oregon.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-06-first-college-football",
+      "canonicalId": "first-college-football-game-1869",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.rutgers.edu/news/birthplace-college-football",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Rutgers: Rutgers and Princeton 'came together ... to play the first collegiate football game, on November 6, 1869'; Rutgers 'won the game 6-4.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-06-australia-republic",
+      "canonicalId": "australia-republic-referendum-1999",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.aec.gov.au/elections/referendums/1999_referendum_reports_statistics/1999.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "AEC: referendum held on 6 November 1999 on establishing the Commonwealth of Australia as a republic with a President appointed by a two-thirds majority of Parliament; polling day Saturday 6 November 1999."
+        },
+        {
+          "url": "https://www.aec.gov.au/elections/referendums/1999_referendum_reports_statistics/key_results.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "AEC: proposed changes 'were not approved by a double majority'; 'Only the Australian Capital Territory recorded a majority yes vote for the republic question.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-06-lutzen",
+      "canonicalId": "battle-of-lutzen-1632",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Lutzen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Lutzen, (November 16 [November 6, Old Style], 1632), military engagement of the Thirty Years' War in which Gustavus II Adolphus of Sweden lost his life'; Gustavus Adolphus 'died November 6, 1632, Lutzen, Saxony'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-07-marie-curie",
+      "canonicalId": "marie-curie-born-1867",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Marie-Curie",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Marie Curie (born November 7, 1867, Warsaw ... - died July 4, 1934 ...) was a Polish-born French physicist, famous for her work on radioactivity and twice a winner of the Nobel Prize.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-07-last-spike",
+      "canonicalId": "cpr-last-spike-1885",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.thecanadianencyclopedia.ca/en/article/the-last-spike",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Canadian Encyclopedia: 'The Last Spike was the final and ceremonial railway spike driven into the Canadian Pacific Railway (CPR) track by company director Donald Smith on the morning of 7 November 1885'; marked completion of the transcontinental CPR at Craigellachie, BC."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-07-october-revolution",
+      "canonicalId": "bolsheviks-take-power-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Russian-Revolution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: congress fixed for 'October 25 (November 7, New Style)'; 'In an all-night session on October 25-26 (November 7-8, New Style) the Congress of Soviets in Petrograd declared the power of government to be vested in the Council of People's Commissars ... with Lenin as premier.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-07-tacoma-narrows",
+      "canonicalId": "tacoma-narrows-bridge-collapse-1940",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.wsdot.wa.gov/tnbhistory/collapse.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "WSDOT: '\"Galloping Gertie\" collapses November 7, 1940'; 'In the early morning hours of November 7, 1940 strong winds blew through the Narrows from the southwest.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-08-xrays",
+      "canonicalId": "rontgen-discovers-x-rays-1895",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On November 8, 1895, while experimenting with electric current flow in a partially evacuated glass tube (cathode-ray tube), Rontgen observed that a screen of barium platinocyanide far from the tube gave off light when the tube was in operation.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-08-tenochtitlan",
+      "canonicalId": "cortes-enters-tenochtitlan-1519",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Hernan-Cortes",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Rejecting all of Montezuma's threats ... to keep him away from Tenochtitlan or Mexico, the capital (rebuilt as Mexico City after 1521), Cortes entered the city on November 8, 1519, with his small Spanish force and only 1,000 Tlaxcaltecs.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-08-jfk-elected",
+      "canonicalId": "kennedy-elected-president-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1960",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'American presidential election held on November 8, 1960, in which Democrat John F. Kennedy narrowly defeated Republican Vice Pres. Richard M. Nixon. Kennedy thus became the first Roman Catholic and the youngest person ever elected president.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-08-beer-hall-putsch",
+      "canonicalId": "beer-hall-putsch-1923",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Beer-Hall-Putsch",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'abortive attempt by Adolf Hitler and Erich Ludendorff to start an insurrection in Germany against the Weimar Republic on November 8-9, 1923'; 'On November 8, 1923, Hitler and Ludendorff struck in Munich.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-09-berlin-wall",
+      "canonicalId": "berlin-wall-opens-1989",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'On November 9, 1989, thousands of jubilant Germans brought down the most visible symbol of division at the heart of Europe - the Berlin Wall'; East German government announced the opening of all borders."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Berlin-Wall",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On November 9 the East German government opened the country's borders with West Germany (including West Berlin), and openings were made in the Berlin Wall.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-09-brumaire",
+      "canonicalId": "coup-of-18-brumaire-1799",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Coup of 18-19 Brumaire, (November 9-10, 1799), coup d'etat that overthrew the system of government under the Directory in France and substituted the Consulate'; on 18 Brumaire (November 9, 1799) the Council of Ancients voted to meet at Saint-Cloud under the intimidation of Bonaparte's troops."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-09-kaiser-abdicates",
+      "canonicalId": "kaiser-wilhelm-abdicates-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/William-II-emperor-of-Germany",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica (1918 narrative): 'He was forced to abdicate on November 9, when he was persuaded to seek asylum in the Netherlands.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-09-apollo-4",
+      "canonicalId": "apollo-4-first-saturn-v-1967",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/apollo-4/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: 'The first all-up test of the three stage Saturn V rocket'; 'On November 9, 1967, the uncrewed Apollo 4 test flight made a great ellipse around Earth as a test of the translunar motors and of the high speed entry required of a crewed flight returning from the Moon.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-10-luna-17",
+      "canonicalId": "luna-17-lunokhod-launch-1970",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA NSSDCA: 'Luna 17 - Launched 10 Nov 1970 - Landed on Moon 17 Nov 1970 ... Mare Imbrium - Lunar Rover - Lunokhod 1'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-10-martin-luther",
+      "canonicalId": "martin-luther-born-1483",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Martin-Luther",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Martin Luther (born November 10, 1483, Eisleben, Saxony ... - died February 18, 1546, Eisleben) was a German theologian and religious reformer who was the catalyst of the 16th-century Protestant Reformation.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-10-stanley-livingstone",
+      "canonicalId": "stanley-meets-livingstone-1871",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Henry-Morton-Stanley",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Livingstone, I presume?' - 'The exact date of their meeting is unclear ... according to Stanley, they met on November 10, 1871, while Livingstone's journal suggests that the event occurred sometime between October 24 and 28.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-10-ataturk",
+      "canonicalId": "ataturk-dies-1938",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Kemal Ataturk (born 1881, Salonika ... - died November 10, 1938, Istanbul, Turkey) was a soldier, statesman, and reformer who was the founder and first president (1923-38) of the Republic of Turkey.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-11-armistice",
+      "canonicalId": "armistice-ends-ww1-fighting-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.iwm.org.uk/history/first-world-war/armistice",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "IWM: 'On 11 November 1918 Germany signed an armistice which ended the fighting'; 'Armistice negotiations were finally agreed on 11 November 1918, with the guns falling silent at 11am.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-11-angola",
+      "canonicalId": "angola-independence-1975",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/angola",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'Portugal granted Angola independence on November 11, 1975, at a time when multiple Angolan nationalist forces were fighting among themselves to establish control over the newly liberated state.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-11-poland",
+      "canonicalId": "poland-regains-independence-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.gov.pl/web/diplomacy/103rd-anniversary-of-regaining-independence-by-the-republic-of-poland2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Polish MFA: 'on 11 November 1918, when the war operations in Western Europe were declining, Jozef Pilsudski, who had come to Warsaw from Magdeburg, seized power to become provisional chief of state.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-11-mayflower-compact",
+      "canonicalId": "mayflower-compact-signed-1620",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Mayflower-Compact",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Mayflower Compact, document signed on the English ship Mayflower on November 21 [November 11, Old Style], 1620, prior to its landing at Plymouth, Massachusetts.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-12-philae",
+      "canonicalId": "philae-lands-on-comet-2014",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "ESA: 'On 12 November 2014, after a ten year journey through the Solar System and over 500 million kilometres from home, Rosetta's lander Philae made space exploration history by touching down on a comet for the first time.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-12-voyager-saturn",
+      "canonicalId": "voyager-1-saturn-flyby-1980",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/voyager/voyager-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: 'Nov. 12, 1980: Saturn flyby - closest approach'; 'Voyager 1's closest approach to Saturn was at 23:46 UT on Nov. 12, 1980, at a range of about 78,000 miles (126,000 km).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-12-sun-yat-sen",
+      "canonicalId": "sun-yat-sen-born-1866",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Sun-Yat-sen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Sun Yat-sen (born November 12, 1866, Xiangshan [now Zhongshan], Guangdong province, China - died March 12, 1925, Beijing) was the leader of the Chinese Nationalist Party (Kuomintang), known as the father of modern China.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-12-akihito",
+      "canonicalId": "akihito-enthroned-1990",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Akihito",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'He was formally enthroned on November 12, 1990.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

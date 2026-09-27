@@ -1,0 +1,74 @@
+{
+  "days": [
+    {
+      "month": 11,
+      "day": 6,
+      "featuredEventId": "lincoln-elected-president-1860",
+      "additionalEventIds": [
+        "first-college-football-game-1869",
+        "australia-republic-referendum-1999",
+        "battle-of-lutzen-1632"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 7,
+      "featuredEventId": "marie-curie-born-1867",
+      "additionalEventIds": [
+        "cpr-last-spike-1885",
+        "bolsheviks-take-power-1917",
+        "tacoma-narrows-bridge-collapse-1940"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 8,
+      "featuredEventId": "rontgen-discovers-x-rays-1895",
+      "additionalEventIds": [
+        "cortes-enters-tenochtitlan-1519",
+        "kennedy-elected-president-1960",
+        "beer-hall-putsch-1923"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 9,
+      "featuredEventId": "berlin-wall-opens-1989",
+      "additionalEventIds": [
+        "coup-of-18-brumaire-1799",
+        "kaiser-wilhelm-abdicates-1918",
+        "apollo-4-first-saturn-v-1967"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 10,
+      "featuredEventId": "luna-17-lunokhod-launch-1970",
+      "additionalEventIds": [
+        "martin-luther-born-1483",
+        "stanley-meets-livingstone-1871",
+        "ataturk-dies-1938"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 11,
+      "featuredEventId": "armistice-ends-ww1-fighting-1918",
+      "additionalEventIds": [
+        "angola-independence-1975",
+        "poland-regains-independence-1918",
+        "mayflower-compact-signed-1620"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 12,
+      "featuredEventId": "philae-lands-on-comet-2014",
+      "additionalEventIds": [
+        "voyager-1-saturn-flyby-1980",
+        "sun-yat-sen-born-1866",
+        "akihito-enthroned-1990"
+      ]
+    }
+  ]
+}

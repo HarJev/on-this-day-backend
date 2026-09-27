@@ -1,0 +1,712 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-02-08-historical-events",
+  "entries": [
+    {
+      "candidateId": "oct-02-gandhi-born",
+      "canonicalId": "gandhi-born-1869",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Mahatma Gandhi (born October 2, 1869, Porbandar, India - died January 30, 1948, Delhi) was an Indian lawyer, politician, social activist, and writer who became the leader of the Indian Independence Movement against British rule.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-02-saladin",
+      "canonicalId": "saladin-captures-jerusalem-1187",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saladin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'on October 2, 1187, when the city of Jerusalem ... surrendered to Saladin's army after 88 years in the hands of the Franks'; Crusader army destroyed at Hattin on July 4, 1187."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-02-peanuts",
+      "canonicalId": "peanuts-debuts-1950",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://schulzmuseum.org/about-schulz/schulz-biography/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Schulz Museum: 'The first Peanuts strip appeared on October 2, 1950, in seven newspapers nationwide.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-02-beagle",
+      "canonicalId": "beagle-returns-to-england-1836",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Darwin Correspondence Project (Cambridge): 'They did not arrive back in England until 2 October 1836'; five years of the voyage."
+        },
+        {
+          "url": "https://www.darwinproject.ac.uk/robert-fitzroy",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Darwin Correspondence Project: 'When the Beagle docked at Falmouth on 2 October 1836...'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-03-german-reunification",
+      "canonicalId": "german-reunification-1990",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/German-reunification",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'A unification treaty was ratified by the Bundestag and the People's Chamber in September and went into effect on October 3, 1990.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-03-iraq-league",
+      "canonicalId": "iraq-joins-league-of-nations-1932",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Iraq/Independence-1932-39",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On October 3, 1932, Iraq was admitted to the League of Nations as an independent state.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945",
+        "decolonization"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-03-thanksgiving-1789",
+      "canonicalId": "washington-thanksgiving-proclamation-1789",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Founders Online: 'Thanksgiving Proclamation, 3 October 1789' [New York]; 'I do recommend and assign Thursday the 26th day of November next to be devoted by the People of these States...'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-03-francis-assisi",
+      "canonicalId": "francis-of-assisi-dies-1226",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Francis of Assisi (born 1181/82, Assisi - died October 3, 1226, Assisi; canonized July 16, 1228; feast day October 4) was the founder of the Franciscan religious orders.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-04-sputnik",
+      "canonicalId": "sputnik-1-launched-1957",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'On October 4, 1957, the Soviet Union launched the earth's first artificial satellite, Sputnik-1.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia",
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-04-lesotho",
+      "canonicalId": "lesotho-independence-1966",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/lesotho",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Office of the Historian: 'The United States recognized the Kingdom of Lesotho on October 4, 1966, when the American Embassy at Maseru was established upon Lesotho's attainment of independence on that same date.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-04-mount-rushmore",
+      "canonicalId": "mount-rushmore-carving-begins-1927",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NPS Carving History page dates the carving 'October 4, 1927 - October 31, 1941'; 'From 1927 to 1941 the 400 workers at Mount Rushmore...'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-04-rembrandt",
+      "canonicalId": "rembrandt-dies-1669",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Rembrandt (born July 15, 1606, Leiden - died October 4, 1669, Amsterdam) was a Dutch Baroque painter and printmaker, one of the greatest storytellers in the history of art.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-05-love-me-do",
+      "canonicalId": "beatles-love-me-do-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.thebeatles.com/love-me-do",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Official site: '\"Love Me Do\" is the Beatles' first single, backed by \"P.S. I Love You\" and released on 5 October 1962'; UK peak number seventeen; US number one in 1964."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-05-portugal-republic",
+      "canonicalId": "portugal-republic-proclaimed-1910",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/history-of-Portugal",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica, in its 1910 narrative: after the August 1910 elections, revolutionaries 'began the republican revolution on October 4; the next morning, Portugal's First Republic was declared from the balcony of the Lisbon City Hall. Manuel escaped via his yacht to Gibraltar.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-05-bulgaria",
+      "canonicalId": "bulgaria-declares-independence-1908",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'On Oct. 5, 1908, he ... proclaim[ed] the full independence of Bulgaria from the Ottoman Empire and assumed the title of king, or tsar.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-05-monty-python",
+      "canonicalId": "monty-python-first-broadcast-1969",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Official site: 'Episode 1, \"Whither Canada?\" (Original air date: 5 Oct. 1969) - Famous Deaths; Italian Lesson; ... The Funniest Joke in the World'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-06-51-pegasi",
+      "canonicalId": "first-exoplanet-announced-1995",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UNIGE: 'On 6 October 1995, Michel Mayor and Didier Queloz ... announced the discovery of the first planet orbiting a star other than the Sun'; official announcement at a conference in Florence on 6 October 1995; named 51 Pegasi b; Nobel Prize in Physics 2019."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-06-jazz-singer",
+      "canonicalId": "the-jazz-singer-premieres-1927",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "AFI Catalog entry lists 'Melodrama | 6 October 1927' for The Jazz Singer."
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Jazz-Singer-film-1927",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The Jazz Singer, American musical film, released in 1927, that was the first feature-length movie with synchronized dialogue'; Al Jolson."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-06-yom-kippur-war",
+      "canonicalId": "yom-kippur-war-begins-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Yom-Kippur-War",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'fourth of the Arab-Israeli wars, which was initiated by Egypt and Syria on October 6, 1973, on the Jewish holy day of Yom Kippur'; 'On the afternoon of October 6 Egypt and Syria attacked Israel simultaneously on two fronts.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-06-sadat",
+      "canonicalId": "anwar-sadat-assassinated-1981",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Anwar-Sadat",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Anwar Sadat (born December 25, 1918 ... - died October 6, 1981, Cairo) was an Egyptian army officer and politician who was president of Egypt from 1970 until his assassination in 1981.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-07-klm",
+      "canonicalId": "klm-founded-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.klm.com/information/corporate/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "KLM (page served via regional klm.sx redirect): 'On 7 October 1919, the Koninklijke Luchtvaart Maatschappij voor Nederland en Kolonien ... was founded by 8 investors from the business and banking sectors'; 'KLM is the oldest airline in the world still operating under its original name.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-07-lepanto",
+      "canonicalId": "battle-of-lepanto-1571",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Lepanto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Lepanto, (October 7, 1571), naval engagement in the waters off southwestern Greece between the allied Christian forces of the Holy League and the Ottoman Turks'; fleets of Spain, Venice and the Papal States defeated the Turks in the last great sea battle involving galleys."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-07-mercury",
+      "canonicalId": "project-mercury-approved-1958",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/SP-4001/p2a.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA SP-4001: plans presented to Glennan on October 7; 'On October 7, 1958, Dr. Glennan approved the project by saying, in effect, \"Let's get on with it.\"'"
+        },
+        {
+          "url": "https://www.nasa.gov/project-mercury/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: Project Mercury was the United States' first man-in-space program, initiated in 1958."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-07-gdr",
+      "canonicalId": "german-democratic-republic-founded-1949",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "bpb (German federal civic education agency, in German): '7. Oktober 1949 - Grundung der DDR: Die Provisorische Volkskammer ... setzt die Verfassung in Kraft.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-08-larsen",
+      "canonicalId": "don-larsen-perfect-game-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Don-Larsen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: Larsen pitched 'the first and, to date, only perfect game in World Series history on October 8, 1956, while playing for the New York Yankees against the Brooklyn Dodgers'; retired all 27 batters."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-08-chicago-fire",
+      "canonicalId": "great-chicago-fire-1871",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chicago-fire-of-1871",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Great Chicago Fire, conflagration that began on October 8, 1871, and burned until early October 10, devastating an expansive swath of the city of Chicago.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-08-balkan-war",
+      "canonicalId": "first-balkan-war-begins-1912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Balkan-Wars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Montenegro opened hostilities by declaring war on Turkey on October 8, 1912, and the other members of the league followed suit 10 days later.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "oct-08-treaty-of-bogue",
+      "canonicalId": "treaty-of-the-bogue-1843",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Opium-Wars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'The British Supplementary Treaty of the Bogue (Humen), signed October 8, 1843, gave British citizens extraterritoriality (the right to be tried by British courts) and most-favoured-nation status.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

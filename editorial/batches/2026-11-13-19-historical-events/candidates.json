@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-13-19-historical-events",
+  "candidates": [
+    {
+      "candidateId": "nov-13-stevenson",
+      "kind": "event",
+      "proposedCanonicalId": "robert-louis-stevenson-born-1850",
+      "workingClaim": "November 13, 1850: On November 13, 1850, the Scottish essayist, poet, and novelist Robert Louis Stevenson was born. He became best known for Treasure Island, Kidnapped, and The Strange Case of Dr. Jekyll and Mr. Hyde.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-13"
+      ]
+    },
+    {
+      "candidateId": "nov-13-browder",
+      "kind": "event",
+      "proposedCanonicalId": "browder-v-gayle-affirmed-1956",
+      "workingClaim": "November 13, 1956: On November 13, 1956, the US Supreme Court affirmed a lower-court ruling in Browder v. Gayle that bus segregation in Alabama was unconstitutional. Martin Luther King, Jr., learned of the decision while on trial over the Montgomery bus boycott's carpools; the boycott ended the following month after 381 days.",
+      "sourceUrls": [
+        "https://kinginstitute.stanford.edu/browder-v-gayle-352-us-903"
+      ]
+    },
+    {
+      "candidateId": "nov-13-vietnam-memorial",
+      "kind": "event",
+      "proposedCanonicalId": "vietnam-veterans-memorial-dedicated-1982",
+      "workingClaim": "November 13, 1982: On November 13, 1982, the Vietnam Veterans Memorial was dedicated in Washington, D.C. Designed by Yale architecture student Maya Lin, its polished granite walls bear the names of more than 58,000 fallen men and women.",
+      "sourceUrls": [
+        "https://www.tclf.org/landscapes/vietnam-veterans-memorial"
+      ]
+    },
+    {
+      "candidateId": "nov-13-augustine",
+      "kind": "event",
+      "proposedCanonicalId": "augustine-of-hippo-born-354",
+      "workingClaim": "November 13, 354: On November 13, 354, Augustine was born in Numidia, in what is now Algeria. The author of Confessions and The City of God, he served as bishop of Hippo and became one of the most significant Christian thinkers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-13"
+      ]
+    },
+    {
+      "candidateId": "nov-14-ruby-bridges",
+      "kind": "event",
+      "proposedCanonicalId": "ruby-bridges-first-day-1960",
+      "workingClaim": "November 14, 1960: On November 14, 1960, six-year-old Ruby Bridges began attending an all-white elementary school in New Orleans, becoming the youngest of a group of Black students to racially integrate schools in the American South.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-14"
+      ]
+    },
+    {
+      "candidateId": "nov-14-nellie-bly",
+      "kind": "event",
+      "proposedCanonicalId": "nellie-bly-sets-off-1889",
+      "workingClaim": "November 14, 1889: On November 14, 1889, American journalist Nellie Bly began her race around the world against the fictional record of Phileas Fogg from Jules Verne's Around the World in Eighty Days. She completed the journey in slightly more than 72 days.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-14"
+      ]
+    },
+    {
+      "candidateId": "nov-14-mariner-9",
+      "kind": "event",
+      "proposedCanonicalId": "mariner-9-orbits-mars-1971",
+      "workingClaim": "November 14, 1971: On November 14, 1971 (UTC), NASA's Mariner 9 fired its main engine for more than 15 minutes and entered orbit around Mars, becoming the first human-made object to orbit another planet.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/mariner-9/"
+      ]
+    },
+    {
+      "candidateId": "nov-14-clement-v",
+      "kind": "event",
+      "proposedCanonicalId": "clement-v-crowned-1305",
+      "workingClaim": "November 14, 1305: On November 14, 1305, Clement V was crowned pope, becoming the first of the Avignon popes.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-14"
+      ]
+    },
+    {
+      "candidateId": "nov-15-league-assembly",
+      "kind": "event",
+      "proposedCanonicalId": "league-of-nations-first-assembly-1920",
+      "workingClaim": "November 15, 1920: On November 15, 1920, 41 member states gathered in Geneva for the opening of the first session of the League of Nations Assembly, representing more than 70 percent of the world's population.",
+      "sourceUrls": [
+        "https://www.ungeneva.org/en/about/league-of-nations/overview"
+      ]
+    },
+    {
+      "candidateId": "nov-15-kohli-50",
+      "kind": "event",
+      "proposedCanonicalId": "virat-kohli-50th-odi-century-2023",
+      "workingClaim": "November 15, 2023: On November 15, 2023, Virat Kohli scored his 50th century in one-day international cricket for India, breaking a record held by Sachin Tendulkar that many thought would never be broken.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-15"
+      ]
+    },
+    {
+      "candidateId": "nov-15-okeeffe",
+      "kind": "event",
+      "proposedCanonicalId": "georgia-okeeffe-born-1887",
+      "workingClaim": "November 15, 1887: On November 15, 1887, American painter Georgia O'Keeffe was born. A hugely influential Modernist, she became known for large-format paintings of flowers, skulls, shells, rocks, mountains, and other natural forms.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-15"
+      ]
+    },
+    {
+      "candidateId": "nov-15-gillette",
+      "kind": "event",
+      "proposedCanonicalId": "gillette-razor-patent-1904",
+      "workingClaim": "November 15, 1904: On November 15, 1904, American inventor King Camp Gillette was granted a US patent for the first razor with disposable blades.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-15"
+      ]
+    },
+    {
+      "candidateId": "nov-16-bhutto",
+      "kind": "event",
+      "proposedCanonicalId": "benazir-bhutto-elected-1988",
+      "workingClaim": "November 16, 1988: On November 16, 1988, Benazir Bhutto was elected prime minister of Pakistan, becoming the first woman in modern history to lead a Muslim country. She served from 1988 to 1990 and again from 1993 to 1996.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-16"
+      ]
+    },
+    {
+      "candidateId": "nov-16-victoria-falls",
+      "kind": "event",
+      "proposedCanonicalId": "livingstone-sees-victoria-falls-1855",
+      "workingClaim": "November 16, 1855: On November 16, 1855, British explorer David Livingstone became the first European to see Victoria Falls, known locally as Mosi-oa-Tunya.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-16"
+      ]
+    },
+    {
+      "candidateId": "nov-16-sint-eustatius",
+      "kind": "event",
+      "proposedCanonicalId": "sint-eustatius-recognizes-us-1776",
+      "workingClaim": "November 16, 1776: On November 16, 1776, the Dutch Caribbean island of Sint Eustatius became the first foreign government to recognize the fledgling United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-16"
+      ]
+    },
+    {
+      "candidateId": "nov-16-tiberius",
+      "kind": "event",
+      "proposedCanonicalId": "tiberius-born-42-bce",
+      "workingClaim": "November 16, 42 BCE: On November 16, 42 BCE, Tiberius was born. The adopted son of Augustus, he became the second Roman emperor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-16"
+      ]
+    },
+    {
+      "candidateId": "nov-17-suez-canal",
+      "kind": "event",
+      "proposedCanonicalId": "suez-canal-opens-1869",
+      "workingClaim": "November 17, 1869: On November 17, 1869, after 10 years of construction, the Suez Canal opened in Egypt.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "nov-17-velvet-revolution",
+      "kind": "event",
+      "proposedCanonicalId": "velvet-revolution-begins-1989",
+      "workingClaim": "November 17, 1989: On November 17, 1989, police brutality at a Prague demonstration marking the 50th anniversary of a student protest suppressed under German occupation set off massive antigovernment demonstrations in Czechoslovakia. Led by Vaclav Havel, they continued until the communist government resigned.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "nov-17-elizabeth-i",
+      "kind": "event",
+      "proposedCanonicalId": "elizabeth-i-accession-1558",
+      "workingClaim": "November 17, 1558: On November 17, 1558, on the death of Mary I, Elizabeth Tudor came to the English throne as Elizabeth I.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "nov-17-diocletian",
+      "kind": "event",
+      "proposedCanonicalId": "diocletian-acclaimed-emperor-284",
+      "workingClaim": "November 17, 284: On November 17, 284, Diocletian was acclaimed Roman emperor by his soldiers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "nov-18-steamboat-willie",
+      "kind": "event",
+      "proposedCanonicalId": "steamboat-willie-released-1928",
+      "workingClaim": "November 18, 1928: On November 18, 1928, Walt Disney released Steamboat Willie, the first animated film with sound to feature Mickey Mouse. Its success helped make Mickey an iconic character.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "nov-18-latvia",
+      "kind": "event",
+      "proposedCanonicalId": "latvia-independence-1918",
+      "workingClaim": "November 18, 1918: On November 18, 1918, the Latvian People's Council proclaimed Latvia's independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "nov-18-vertieres",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-vertieres-1803",
+      "workingClaim": "November 18, 1803: On November 18, 1803, Haitian forces led by Jean-Jacques Dessalines defeated the French at the Battle of Vertieres, effectively concluding the Haitian Revolution and opening the way to Haiti's declaration of independence weeks later.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "nov-18-st-peters",
+      "kind": "event",
+      "proposedCanonicalId": "st-peters-basilica-consecrated-1626",
+      "workingClaim": "November 18, 1626: On November 18, 1626, Saint Peter's Basilica in Vatican City, built to replace an earlier basilica, was consecrated.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "nov-19-gettysburg-address",
+      "kind": "event",
+      "proposedCanonicalId": "gettysburg-address-1863",
+      "workingClaim": "November 19, 1863: On November 19, 1863, during the American Civil War, President Abraham Lincoln delivered the brief but renowned Gettysburg Address at the dedication of the National Cemetery in Gettysburg, Pennsylvania.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-19"
+      ]
+    },
+    {
+      "candidateId": "nov-19-sadat-jerusalem",
+      "kind": "event",
+      "proposedCanonicalId": "sadat-visits-israel-1977",
+      "workingClaim": "November 19, 1977: On November 19, 1977, Egyptian President Anwar Sadat began a historic visit to Israel, during which he offered a peace plan to the Israeli parliament.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-19"
+      ]
+    },
+    {
+      "candidateId": "nov-19-pele-1000",
+      "kind": "event",
+      "proposedCanonicalId": "pele-1000th-goal-1969",
+      "workingClaim": "November 19, 1969: On November 19, 1969, Brazilian football player Pele scored his 1,000th career goal.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-19"
+      ]
+    },
+    {
+      "candidateId": "nov-19-iron-mask",
+      "kind": "event",
+      "proposedCanonicalId": "man-in-the-iron-mask-dies-1703",
+      "workingClaim": "November 19, 1703: On November 19, 1703, the Man in the Iron Mask, a political prisoner famous in French history and legend, died in the Bastille.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-19"
+      ]
+    }
+  ]
+}

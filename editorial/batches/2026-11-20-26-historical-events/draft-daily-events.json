@@ -1,0 +1,74 @@
+{
+  "days": [
+    {
+      "month": 11,
+      "day": 20,
+      "featuredEventId": "mexican-revolution-begins-1910",
+      "additionalEventIds": [
+        "qatar-world-cup-begins-2022",
+        "whaleship-essex-sunk-1820",
+        "battle-of-cambrai-tanks-1917"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 21,
+      "featuredEventId": "first-crewed-balloon-flight-1783",
+      "additionalEventIds": [
+        "dayton-accords-1995",
+        "voltaire-born-1694",
+        "mugabe-resigns-2017"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 22,
+      "featuredEventId": "toy-story-released-1995",
+      "additionalEventIds": [
+        "kennedy-assassinated-1963",
+        "lebanon-independence-1943",
+        "merkel-becomes-chancellor-2005"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 23,
+      "featuredEventId": "doctor-who-first-episode-1963",
+      "additionalEventIds": [
+        "ley-juarez-passed-1855",
+        "life-magazine-first-issue-1936",
+        "otto-i-born-912"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 24,
+      "featuredEventId": "tasman-reaches-tasmania-1642",
+      "additionalEventIds": [
+        "black-beauty-published-1877",
+        "turkey-legal-equality-reform-2001",
+        "toulouse-lautrec-born-1864"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 25,
+      "featuredEventId": "the-mousetrap-opens-1952",
+      "additionalEventIds": [
+        "suriname-independence-1975",
+        "lope-de-vega-born-1562",
+        "los-alamos-chosen-1942"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 26,
+      "featuredEventId": "casablanca-premieres-1942",
+      "additionalEventIds": [
+        "mongolian-peoples-republic-1924",
+        "nhl-founded-1917",
+        "curiosity-rover-launched-2011"
+      ]
+    }
+  ]
+}

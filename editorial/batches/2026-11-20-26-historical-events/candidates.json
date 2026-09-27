@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-20-26-historical-events",
+  "candidates": [
+    {
+      "candidateId": "nov-20-mexican-revolution",
+      "kind": "event",
+      "proposedCanonicalId": "mexican-revolution-begins-1910",
+      "workingClaim": "November 20, 1910: On November 20, 1910, Francisco Madero launched a revolt that failed but sparked the Mexican Revolution, inspiring leaders such as Pancho Villa and Emiliano Zapata to mobilize their armies against President Porfirio Diaz.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "nov-20-qatar-world-cup",
+      "kind": "event",
+      "proposedCanonicalId": "qatar-world-cup-begins-2022",
+      "workingClaim": "November 20, 2022: On November 20, 2022, the first FIFA World Cup held in the Middle East began in Qatar, with Ecuador defeating the host country in the opening match.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "nov-20-essex",
+      "kind": "event",
+      "proposedCanonicalId": "whaleship-essex-sunk-1820",
+      "workingClaim": "November 20, 1820: On November 20, 1820, the American whaling ship Essex was rammed by a sperm whale and later sank, an event that inspired the climactic scene of Herman Melville's Moby-Dick.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "nov-20-cambrai",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-cambrai-tanks-1917",
+      "workingClaim": "November 20, 1917: On November 20, 1917, at the Battle of Cambrai during World War I, the British used tanks effectively in warfare for the first time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "nov-21-montgolfier-balloon",
+      "kind": "event",
+      "proposedCanonicalId": "first-crewed-balloon-flight-1783",
+      "workingClaim": "November 21, 1783: On November 21, 1783, Jean-Francois Pilatre de Rozier and the marquis d'Arlandes made the first crewed hot-air balloon flight, traveling from the Chateau de la Muette across the Bois de Boulogne near Paris in a balloon built by the Montgolfier brothers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-21"
+      ]
+    },
+    {
+      "candidateId": "nov-21-dayton",
+      "kind": "event",
+      "proposedCanonicalId": "dayton-accords-1995",
+      "workingClaim": "November 21, 1995: On November 21, 1995, the presidents of Bosnia, Croatia, and Serbia reached the peace agreement known as the Dayton Accords, ending the Bosnian War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-21"
+      ]
+    },
+    {
+      "candidateId": "nov-21-voltaire",
+      "kind": "event",
+      "proposedCanonicalId": "voltaire-born-1694",
+      "workingClaim": "November 21, 1694: On November 21, 1694, Voltaire was born. One of the greatest French writers, he is remembered for his critical capacity and satiric wit and as a crusader against tyranny, bigotry, and cruelty.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-21"
+      ]
+    },
+    {
+      "candidateId": "nov-21-mugabe",
+      "kind": "event",
+      "proposedCanonicalId": "mugabe-resigns-2017",
+      "workingClaim": "November 21, 2017: On November 21, 2017, after some 37 years as leader of Zimbabwe, first as prime minister and later as president, Robert Mugabe resigned as parliament began impeachment proceedings against him.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-21"
+      ]
+    },
+    {
+      "candidateId": "nov-22-toy-story",
+      "kind": "event",
+      "proposedCanonicalId": "toy-story-released-1995",
+      "workingClaim": "November 22, 1995: On November 22, 1995, Pixar's Toy Story, the first entirely computer-animated feature-length film, was released. It became a critical and commercial hit and started a long-running franchise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-22"
+      ]
+    },
+    {
+      "candidateId": "nov-22-jfk-assassinated",
+      "kind": "event",
+      "proposedCanonicalId": "kennedy-assassinated-1963",
+      "workingClaim": "November 22, 1963: On November 22, 1963, John F. Kennedy, the 35th president of the United States, was shot and killed in Dallas, Texas.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-22"
+      ]
+    },
+    {
+      "candidateId": "nov-22-lebanon",
+      "kind": "event",
+      "proposedCanonicalId": "lebanon-independence-1943",
+      "workingClaim": "November 22, 1943: On November 22, 1943, Lebanon proclaimed its independence from France, though it did not become wholly independent until 1946.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-22"
+      ]
+    },
+    {
+      "candidateId": "nov-22-merkel",
+      "kind": "event",
+      "proposedCanonicalId": "merkel-becomes-chancellor-2005",
+      "workingClaim": "November 22, 2005: On November 22, 2005, Angela Merkel was sworn in as chancellor of Germany, the first woman to hold the post.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-22"
+      ]
+    },
+    {
+      "candidateId": "nov-23-doctor-who",
+      "kind": "event",
+      "proposedCanonicalId": "doctor-who-first-episode-1963",
+      "workingClaim": "November 23, 1963: On November 23, 1963, the first episode of the British science-fiction series Doctor Who aired, and the show soon became a landmark of British popular culture.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "nov-23-ley-juarez",
+      "kind": "event",
+      "proposedCanonicalId": "ley-juarez-passed-1855",
+      "workingClaim": "November 23, 1855: On November 23, 1855, Mexico passed the Ley Juarez, which abolished special courts for the clergy and military in an effort by justice minister Benito Juarez to remove remnants of colonialism and promote equality.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "nov-23-life-magazine",
+      "kind": "event",
+      "proposedCanonicalId": "life-magazine-first-issue-1936",
+      "workingClaim": "November 23, 1936: On November 23, 1936, the first issue of Life was published. The magazine became a pioneer in photojournalism and a major force in the field's development.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "nov-23-otto-i",
+      "kind": "event",
+      "proposedCanonicalId": "otto-i-born-912",
+      "workingClaim": "November 23, 912: On November 23, 912, Otto I was born. As Holy Roman emperor he consolidated the German realm by suppressing rebellious vassals and winning a decisive victory over the Hungarians.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "nov-24-tasman",
+      "kind": "event",
+      "proposedCanonicalId": "tasman-reaches-tasmania-1642",
+      "workingClaim": "November 24, 1642: On November 24, 1642, Dutch navigator Abel Janszoon Tasman, sailing from Batavia (Jakarta) to seek an eastward sea passage to Chile and explore New Guinea, skirted the southern shores of Tasmania.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24"
+      ]
+    },
+    {
+      "candidateId": "nov-24-black-beauty",
+      "kind": "event",
+      "proposedCanonicalId": "black-beauty-published-1877",
+      "workingClaim": "November 24, 1877: On November 24, 1877, shortly before her death, Anna Sewell published her only novel, Black Beauty, the first major story about an animal in children's literature.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24"
+      ]
+    },
+    {
+      "candidateId": "nov-24-turkey-equality",
+      "kind": "event",
+      "proposedCanonicalId": "turkey-legal-equality-reform-2001",
+      "workingClaim": "November 24, 2001: On November 24, 2001, the Grand National Assembly of Turkey ratified changes to the legal code that made women equal to men before the law and no longer subject to their husbands.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24"
+      ]
+    },
+    {
+      "candidateId": "nov-24-toulouse-lautrec",
+      "kind": "event",
+      "proposedCanonicalId": "toulouse-lautrec-born-1864",
+      "workingClaim": "November 24, 1864: On November 24, 1864, the French artist Henri de Toulouse-Lautrec was born. He documented Parisian nightlife and the world of entertainment in the 1890s with great psychological insight.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24"
+      ]
+    },
+    {
+      "candidateId": "nov-25-mousetrap",
+      "kind": "event",
+      "proposedCanonicalId": "the-mousetrap-opens-1952",
+      "workingClaim": "November 25, 1952: On November 25, 1952, Agatha Christie's play The Mousetrap opened in London. By its 50th anniversary in 2002, it had been performed more than 20,000 times.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-25"
+      ]
+    },
+    {
+      "candidateId": "nov-25-suriname",
+      "kind": "event",
+      "proposedCanonicalId": "suriname-independence-1975",
+      "workingClaim": "November 25, 1975: On November 25, 1975, Suriname gained its independence from the Netherlands.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-25"
+      ]
+    },
+    {
+      "candidateId": "nov-25-lope-de-vega",
+      "kind": "event",
+      "proposedCanonicalId": "lope-de-vega-born-1562",
+      "workingClaim": "November 25, 1562: On November 25, 1562, the Spanish author Lope de Vega was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-25"
+      ]
+    },
+    {
+      "candidateId": "nov-25-los-alamos",
+      "kind": "event",
+      "proposedCanonicalId": "los-alamos-chosen-1942",
+      "workingClaim": "November 25, 1942: On November 25, 1942, Leslie Groves and J. Robert Oppenheimer chose Los Alamos, New Mexico, as the site of Project Y, which developed the first atomic bomb.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-25"
+      ]
+    },
+    {
+      "candidateId": "nov-26-casablanca",
+      "kind": "event",
+      "proposedCanonicalId": "casablanca-premieres-1942",
+      "workingClaim": "November 26, 1942: On November 26, 1942, Casablanca premiered. Set in occupied Morocco during World War II, directed by Michael Curtiz, and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, it became one of Hollywood's most revered films.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-26"
+      ]
+    },
+    {
+      "candidateId": "nov-26-mongolia",
+      "kind": "event",
+      "proposedCanonicalId": "mongolian-peoples-republic-1924",
+      "workingClaim": "November 26, 1924: On November 26, 1924, after the defeat of the White Russians and the Chinese, the Mongolian People's Republic was proclaimed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-26"
+      ]
+    },
+    {
+      "candidateId": "nov-26-nhl",
+      "kind": "event",
+      "proposedCanonicalId": "nhl-founded-1917",
+      "workingClaim": "November 26, 1917: On November 26, 1917, the National Hockey League was founded with four Canadian teams. Its first American club, the Boston Bruins, joined in 1924.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-26"
+      ]
+    },
+    {
+      "candidateId": "nov-26-curiosity",
+      "kind": "event",
+      "proposedCanonicalId": "curiosity-rover-launched-2011",
+      "workingClaim": "November 26, 2011: On November 26, 2011, NASA's Mars rover Curiosity was launched from Cape Canaveral, Florida.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-26"
+      ]
+    }
+  ]
+}

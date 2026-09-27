@@ -1,0 +1,74 @@
+{
+  "days": [
+    {
+      "month": 10,
+      "day": 30,
+      "featuredEventId": "war-of-the-worlds-broadcast-1938",
+      "additionalEventIds": [
+        "rumble-in-the-jungle-1974",
+        "october-manifesto-1905",
+        "armistice-of-mudros-1918"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 31,
+      "featuredEventId": "luther-ninety-five-theses-1517",
+      "additionalEventIds": [
+        "nevada-statehood-1864",
+        "world-population-seven-billion-2011",
+        "indira-gandhi-assassinated-1984"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "featuredEventId": "maastricht-treaty-in-force-1993",
+      "additionalEventIds": [
+        "lisbon-earthquake-1755",
+        "first-aerial-bombardment-1911",
+        "antigua-barbuda-independence-1981"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 2,
+      "featuredEventId": "first-iss-crew-arrives-2000",
+      "additionalEventIds": [
+        "balfour-declaration-1917",
+        "haile-selassie-crowned-1930",
+        "bbc-television-service-launches-1936"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 3,
+      "featuredEventId": "constitution-of-japan-promulgated-1946",
+      "additionalEventIds": [
+        "sputnik-2-laika-1957",
+        "panama-independence-1903",
+        "dominica-independence-1978"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 4,
+      "featuredEventId": "tutankhamun-tomb-found-1922",
+      "additionalEventIds": [
+        "nature-journal-first-issue-1869",
+        "iran-hostage-crisis-begins-1979",
+        "obama-elected-president-2008"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 5,
+      "featuredEventId": "gunpowder-plot-foiled-1605",
+      "additionalEventIds": [
+        "first-transcontinental-flight-1911",
+        "suez-landings-1956",
+        "battle-of-inkerman-1854"
+      ]
+    }
+  ]
+}
