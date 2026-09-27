@@ -33,7 +33,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 | `2026-10-23-29-historical-events` | Oct 23-29 | Drafted: 28 events (4 per date), source-verified |
 | `2026-10-30-11-05-historical-events` | Oct 30-Nov 5 | Drafted: 28 events (4 per date), source-verified |
 | `2026-11-06-12-historical-events` | Nov 6-12 | Drafted: 28 events (4 per date), source-verified |
-| `2026-11-13-19-historical-events` | Nov 13-19 | Not started |
+| `2026-11-13-19-historical-events` | Nov 13-19 | Drafted: 28 events (4 per date), source-verified |
 | `2026-11-20-26-historical-events` | Nov 20-26 | Not started |
 | `2026-11-27-12-03-historical-events` | Nov 27-Dec 3 | Not started |
 | `2026-12-04-10-historical-events` | Dec 4-10 | Not started |
@@ -61,6 +61,9 @@ The web-fetch service rate-limited this pass, so throughput set the pace.
 From the Oct 12-15 pass onward, Britannica and the Library of Congress returned
 HTTP 403 to scripted fetches, so cited pages were read in a real browser and the
 exact supporting sentence was recorded in each source-check note.
+From the Nov 13-19 batch onward, many events cite Britannica's dated "On This
+Day" pages (britannica.com/on-this-day/<Month>-<day>), which state the year and
+claim for each listed event.
 
 ## Quiz Bank
 

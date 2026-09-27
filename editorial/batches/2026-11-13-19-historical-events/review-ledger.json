@@ -1,0 +1,689 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-13-19-historical-events",
+  "entries": [
+    {
+      "candidateId": "nov-13-stevenson",
+      "canonicalId": "robert-louis-stevenson-born-1850",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 13), 1850: Robert Louis Stevenson - the Scottish essayist, poet, and author ... best known for his novels Treasure Island (1881), Kidnapped (1886), The Strange Case of Dr. Jekyll and Mr. Hyde (1886) ... - was born."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-13-browder",
+      "canonicalId": "browder-v-gayle-affirmed-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://kinginstitute.stanford.edu/browder-v-gayle-352-us-903",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "King Institute: 'On 13 November 1956, while King was in the courthouse being tried on the legality of the boycott's carpools, a reporter notified him that the U.S. Supreme Court had just affirmed the District Court's decision on Browder v. Gayle'; lower court had ruled segregation on Alabama's intrastate buses unconstitutional; 381-day boycott ended 20 December 1956."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-13-vietnam-memorial",
+      "canonicalId": "vietnam-veterans-memorial-dedicated-1982",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.tclf.org/landscapes/vietnam-veterans-memorial",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "TCLF: 'the memorial was dedicated on November 13, 1982'; design by Yale architecture student Maya Lin; polished granite panels etched with the names of more than 58,000 fallen men and women."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-13-augustine",
+      "canonicalId": "augustine-of-hippo-born-354",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 13): St. Augustine - author of Confessions and The City of God, bishop of Hippo from 396 to 430 CE ... 'was born in Numidia (now in Algeria) this day in 354.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-14-ruby-bridges",
+      "canonicalId": "ruby-bridges-first-day-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 14): 'Six-year-old Ruby Bridges began attending an all-white elementary school in New Orleans on this day in 1960, becoming the youngest of a group of Black students to racially integrate schools in the American South.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-14-nellie-bly",
+      "canonicalId": "nellie-bly-sets-off-1889",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 14), 1889: 'American journalist Nellie Bly began her around-the-world race against the record of Phileas Fogg ... She completed the journey in slightly more than 72 days.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-14-mariner-9",
+      "canonicalId": "mariner-9-orbits-mars-1971",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/mariner-9/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "NASA: 'At 00:18 UT Nov. 14, 1971, Mariner 9 ignited its main engine for 915.6 seconds to become the first human-made object to enter orbit around another planet.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-14-clement-v",
+      "canonicalId": "clement-v-crowned-1305",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 14), 1305: 'Clement V was crowned pope, becoming the first of the Avignon popes.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-15-league-assembly",
+      "canonicalId": "league-of-nations-first-assembly-1920",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.ungeneva.org/en/about/league-of-nations/overview",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "UN Geneva: 'On 15 November 1920, 41 members states gathered in Geneva for the opening of the first session of the Assembly'; more than 70% of the world's population."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-15-kohli-50",
+      "canonicalId": "virat-kohli-50th-odi-century-2023",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 15), 2023: 'Virat Kohli scored his 50th century in one-day international play for India, breaking a record held by Sachin Tendulkar that many thought would never be broken.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-15-okeeffe",
+      "canonicalId": "georgia-okeeffe-born-1887",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 15): 'American painter Georgia O'Keeffe - a hugely influential figure in Modernism, known for her large-format paintings of skulls, flowers ... and other natural forms - was born this day in 1887.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-15-gillette",
+      "canonicalId": "gillette-razor-patent-1904",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 15), 1904: 'American inventor King Camp Gillette was granted a U.S. patent for the first razor with disposable blades.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-16-bhutto",
+      "canonicalId": "benazir-bhutto-elected-1988",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 16): 'Benazir Bhutto, elected prime minister of Pakistan on this day in 1988, became the first woman in modern history to lead a Muslim country, serving as prime minister from 1988 to 1990 and again from 1993 to 1996.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-16-victoria-falls",
+      "canonicalId": "livingstone-sees-victoria-falls-1855",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 16), 1855: 'British explorer David Livingstone was the first European to see Victoria Falls (Mosi-oa-Tunya).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-16-sint-eustatius",
+      "canonicalId": "sint-eustatius-recognizes-us-1776",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 16), 1776: 'Sint Eustatius became the first foreign government to recognize the fledgling United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-16-tiberius",
+      "canonicalId": "tiberius-born-42-bce",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 16), 42 bce: 'Tiberius, the second Roman emperor and the adopted son of Augustus, was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-17-suez-canal",
+      "canonicalId": "suez-canal-opens-1869",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 17), 1869: 'After 10 years of construction, the Suez Canal opened in Egypt.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-17-velvet-revolution",
+      "canonicalId": "velvet-revolution-begins-1989",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 17), 1989: 'Massive antigovernment demonstrations in Czechoslovakia were set off by police brutality at a demonstration commemorating the 50th anniversary of the suppression of a student demonstration in German-occupied Prague, and, under the leadership of Vaclav Havel, they continued until the communist government resigned.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-17-elizabeth-i",
+      "canonicalId": "elizabeth-i-accession-1558",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 17), 1558: 'At the death of Mary I this day, Elizabeth Tudor came to the English throne as Elizabeth I.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-17-diocletian",
+      "canonicalId": "diocletian-acclaimed-emperor-284",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 17), 284: 'Diocletian was acclaimed Roman emperor by his soldiers.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-18-steamboat-willie",
+      "canonicalId": "steamboat-willie-released-1928",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 18), 1928: 'Walt Disney released Steamboat Willie, the first animated film with sound to feature Mickey Mouse. Its huge success helped make Mickey an iconic character.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-18-latvia",
+      "canonicalId": "latvia-independence-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 18): 'The Latvian People's Council proclaimed Latvia's independence on this day in 1918.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-18-vertieres",
+      "canonicalId": "battle-of-vertieres-1803",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 18), 1803: 'Haitian forces led by Jean-Jacques Dessalines defeated the French at the Battle of Vertieres, effectively concluding the Haitian Revolution and paving the way for the declaration of Haitian independence several weeks later.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-18-st-peters",
+      "canonicalId": "st-peters-basilica-consecrated-1626",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 18), 1626: 'Saint Peter's Basilica in Vatican City, which replaced an earlier basilica, was consecrated.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-19-gettysburg-address",
+      "canonicalId": "gettysburg-address-1863",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 19), 1863: 'U.S. President Abraham Lincoln delivered the brief but renowned Gettysburg Address at the dedication of the National Cemetery in Pennsylvania during the American Civil War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-19-sadat-jerusalem",
+      "canonicalId": "sadat-visits-israel-1977",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 19): 'Egyptian President Anwar Sadat began to work toward peace, and on this day in 1977 he began his historic visit to Israel, during which he offered a peace plan to its parliament.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-19-pele-1000",
+      "canonicalId": "pele-1000th-goal-1969",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 19), 1969: 'Brazilian football (soccer) player Pele scored his 1,000th career goal.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "nov-19-iron-mask",
+      "canonicalId": "man-in-the-iron-mask-dies-1703",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica On This Day (Nov 19), 1703: 'The man in the iron mask, a political prisoner famous in French history and legend, died in the Bastille.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}
