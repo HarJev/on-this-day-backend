@@ -193,6 +193,88 @@
       "sourceUrls": [
         "https://science.nasa.gov/mission/cassini/"
       ]
+    },
+    {
+      "candidateId": "oct-12-oktoberfest",
+      "kind": "event",
+      "proposedCanonicalId": "first-oktoberfest-1810",
+      "workingClaim": "October 12, 1810: On October 12, 1810, the festival that became Oktoberfest began in Munich, celebrating the marriage of the Bavarian crown prince, later King Louis I, to Princess Therese von Sachsen-Hildburghausen.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Oktoberfest"
+      ]
+    },
+    {
+      "candidateId": "oct-12-columbus-landfall",
+      "kind": "event",
+      "proposedCanonicalId": "columbus-sights-land-1492",
+      "workingClaim": "October 12, 1492: On October 12, 1492, land was sighted from the Pinta, ending the Atlantic crossing of Christopher Columbus's fleet, which had left Spain on August 3. The island, called Guanahani, is usually identified with San Salvador in the Bahamas, though the exact site is disputed.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Christopher-Columbus"
+      ]
+    },
+    {
+      "candidateId": "oct-12-voskhod-1",
+      "kind": "event",
+      "proposedCanonicalId": "voskhod-1-launches-1964",
+      "workingClaim": "October 12, 1964: On October 12, 1964, Voskhod 1 carried commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov into Earth orbit. It was the first spacecraft to carry more than one person, and Yegorov became the first doctor in space.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Voskhod-spacecraft"
+      ]
+    },
+    {
+      "candidateId": "oct-13-templars",
+      "kind": "event",
+      "proposedCanonicalId": "templars-arrested-in-france-1307",
+      "workingClaim": "October 13, 1307: On October 13, 1307, King Philip IV of France ordered the arrest of every Templar in France and seized the order's property there. The arrests made much of Europe aware of the crimes alleged against the order.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Templars"
+      ]
+    },
+    {
+      "candidateId": "oct-13-white-house",
+      "kind": "event",
+      "proposedCanonicalId": "white-house-cornerstone-laid-1792",
+      "workingClaim": "October 13, 1792: On October 13, 1792, construction of the White House officially began with the laying of a cornerstone during a Masonic ceremony. Enslaved people worked alongside hired laborers at every stage of construction through 1800.",
+      "sourceUrls": [
+        "https://www.whitehousehistory.org/building-the-white-house"
+      ]
+    },
+    {
+      "candidateId": "oct-13-italy-war",
+      "kind": "event",
+      "proposedCanonicalId": "italy-declares-war-on-germany-1943",
+      "workingClaim": "October 13, 1943: On October 13, 1943, Italy declared war on Germany. Marshal Pietro Badoglio read the declaration at Brindisi, and the document, signed by King Victor Emmanuel III, was sent to Berlin through the Italian Embassy in Madrid.",
+      "sourceUrls": [
+        "https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-one",
+        "https://www.iwm.org.uk/collections/item/object/205195632"
+      ]
+    },
+    {
+      "candidateId": "oct-14-u2-cuba",
+      "kind": "event",
+      "proposedCanonicalId": "u2-photographs-missiles-in-cuba-1962",
+      "workingClaim": "October 14, 1962: On October 14, 1962, an American U-2 flight over Cuba took photographs that analysts studied over the following days. The images showed the Soviet Union building nuclear missile bases in Cuba, bringing the two superpowers into direct nuclear confrontation.",
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
+      ]
+    },
+    {
+      "candidateId": "oct-15-gregorian",
+      "kind": "event",
+      "proposedCanonicalId": "gregorian-calendar-takes-effect-1582",
+      "workingClaim": "October 15, 1582: On October 15, 1582, the Gregorian calendar took effect. Proclaimed by Pope Gregory XIII to reform the Julian calendar, the change advanced the calendar by 10 days, so the day after October 4 was counted as October 15.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Gregorian-calendar"
+      ]
+    },
+    {
+      "candidateId": "oct-15-thrustssc",
+      "kind": "event",
+      "proposedCanonicalId": "thrustssc-land-speed-record-1997",
+      "workingClaim": "October 15, 1997: On October 15, 1997, ThrustSSC set the world land speed record at 763 mph, becoming the first land vehicle to officially break the sound barrier.",
+      "sourceUrls": [
+        "https://www.transport-museum.com/visiting/thrustssc.aspx"
+      ]
     }
   ]
 }

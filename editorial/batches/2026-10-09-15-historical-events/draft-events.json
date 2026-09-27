@@ -389,6 +389,172 @@
         }
       ],
       "images": []
+    },
+    {
+      "id": "first-oktoberfest-1810",
+      "title": "Munich holds the first Oktoberfest",
+      "year": "1810",
+      "historicalDate": "October 12, 1810",
+      "dateNote": null,
+      "summary": "A royal wedding celebration in Bavaria begins what becomes a famous annual festival.",
+      "description": "On October 12, 1810, the festival that became Oktoberfest began in Munich, celebrating the marriage of the Bavarian crown prince, later King Louis I, to Princess Therese von Sachsen-Hildburghausen.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Oktoberfest",
+          "url": "https://www.britannica.com/topic/Oktoberfest"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "columbus-sights-land-1492",
+      "title": "Columbus's fleet sights land in the Caribbean",
+      "year": "1492",
+      "historicalDate": "October 12, 1492",
+      "dateNote": "Julian calendar date.",
+      "summary": "After weeks at sea, Columbus's crew spots land in the Bahamas.",
+      "description": "On October 12, 1492, land was sighted from the Pinta, ending the Atlantic crossing of Christopher Columbus's fleet, which had left Spain on August 3. The island, called Guanahani, is usually identified with San Salvador in the Bahamas, though the exact site is disputed.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Christopher Columbus",
+          "url": "https://www.britannica.com/biography/Christopher-Columbus"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "voskhod-1-launches-1964",
+      "title": "Voskhod 1 carries the first multi-person crew into orbit",
+      "year": "1964",
+      "historicalDate": "October 12, 1964",
+      "dateNote": null,
+      "summary": "Three Soviet cosmonauts, including a doctor, fly together for the first time.",
+      "description": "On October 12, 1964, Voskhod 1 carried commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov into Earth orbit. It was the first spacecraft to carry more than one person, and Yegorov became the first doctor in space.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Voskhod",
+          "url": "https://www.britannica.com/technology/Voskhod-spacecraft"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "templars-arrested-in-france-1307",
+      "title": "Philip IV orders the arrest of the Knights Templar",
+      "year": "1307",
+      "historicalDate": "October 13, 1307",
+      "dateNote": "Julian calendar date.",
+      "summary": "The French king moves against the powerful military order and seizes its property.",
+      "description": "On October 13, 1307, King Philip IV of France ordered the arrest of every Templar in France and seized the order's property there. The arrests made much of Europe aware of the crimes alleged against the order.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Templar",
+          "url": "https://www.britannica.com/topic/Templars"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "white-house-cornerstone-laid-1792",
+      "title": "Construction of the White House begins",
+      "year": "1792",
+      "historicalDate": "October 13, 1792",
+      "dateNote": null,
+      "summary": "A cornerstone is laid for the president's house in the new federal city.",
+      "description": "On October 13, 1792, construction of the White House officially began with the laying of a cornerstone during a Masonic ceremony. Enslaved people worked alongside hired laborers at every stage of construction through 1800.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "White House Historical Association - Building the White House",
+          "url": "https://www.whitehousehistory.org/building-the-white-house"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "italy-declares-war-on-germany-1943",
+      "title": "Italy declares war on Germany",
+      "year": "1943",
+      "historicalDate": "October 13, 1943",
+      "dateNote": null,
+      "summary": "Italy turns against its former Axis partner during the Second World War.",
+      "description": "On October 13, 1943, Italy declared war on Germany. Marshal Pietro Badoglio read the declaration at Brindisi, and the document, signed by King Victor Emmanuel III, was sent to Berlin through the Italian Embassy in Madrid.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "The National WWII Museum - The Allied Campaign in Italy, 1943-45: A Timeline, Part One",
+          "url": "https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-one"
+        },
+        {
+          "name": "Imperial War Museums - Italy declares war against Germany 1943",
+          "url": "https://www.iwm.org.uk/collections/item/object/205195632"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "u2-photographs-missiles-in-cuba-1962",
+      "title": "A U-2 flight photographs Soviet missile sites in Cuba",
+      "year": "1962",
+      "historicalDate": "October 14, 1962",
+      "dateNote": null,
+      "summary": "Aerial reconnaissance captures the evidence that sets off the Cuban Missile Crisis.",
+      "description": "On October 14, 1962, an American U-2 flight over Cuba took photographs that analysts studied over the following days. The images showed the Soviet Union building nuclear missile bases in Cuba, bringing the two superpowers into direct nuclear confrontation.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. National Archives - Aerial Photograph of Missiles in Cuba (1962)",
+          "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gregorian-calendar-takes-effect-1582",
+      "title": "The Gregorian calendar takes effect",
+      "year": "1582",
+      "historicalDate": "October 15, 1582",
+      "dateNote": "First day of the Gregorian calendar; adoption outside Catholic Europe came later.",
+      "summary": "Ten days vanish from the calendar as Pope Gregory XIII's reform begins.",
+      "description": "On October 15, 1582, the Gregorian calendar took effect. Proclaimed by Pope Gregory XIII to reform the Julian calendar, the change advanced the calendar by 10 days, so the day after October 4 was counted as October 15.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Gregorian calendar",
+          "url": "https://www.britannica.com/topic/Gregorian-calendar"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "thrustssc-land-speed-record-1997",
+      "title": "ThrustSSC breaks the sound barrier on land",
+      "year": "1997",
+      "historicalDate": "October 15, 1997",
+      "dateNote": null,
+      "summary": "A British jet-powered car sets a land speed record of 763 mph.",
+      "description": "On October 15, 1997, ThrustSSC set the world land speed record at 763 mph, becoming the first land vehicle to officially break the sound barrier.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Coventry Transport Museum - ThrustSSC",
+          "url": "https://www.transport-museum.com/visiting/thrustssc.aspx"
+        }
+      ],
+      "images": []
     }
   ]
 }

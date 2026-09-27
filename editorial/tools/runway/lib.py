@@ -14,7 +14,13 @@ class Batch:
         e = {"id": id, "title": title, "year": year, "historicalDate": hd, "dateNote": note,
              "summary": summary, "description": desc, "notificationTitle": nt, "notificationBody": nb,
              "sources": [{"name": n, "url": u} for n, u, _ in sources], "images": []}
-        self.ev.append((day, short, e, [c for _, _, c in sources], regions, eras))
+        row = (day, short, e, [c for _, _, c in sources], regions, eras)
+        # Re-adding an id already loaded by load_existing() replaces it in place, so scripts can be rerun.
+        for i, x in enumerate(self.ev):
+            if x[2]["id"] == id:
+                self.ev[i] = row
+                return
+        self.ev.append(row)
 
     def write(self):
         os.makedirs(self.dir, exist_ok=True)

@@ -67,4 +67,51 @@ b.add("10-15","cassini","cassini-launches-to-saturn-1997","The Cassini spacecraf
  "On October 15, 1997, NASA's Cassini spacecraft launched on its long journey to Saturn, where it would study the planet, its rings, and its moons.",
  [("NASA Science - Cassini","https://science.nasa.gov/mission/cassini/","NASA Science mission page lists Cassini's launch as Oct. 15, 1997.")],
  ["global"],["contemporary"])
+# Oct 12-15 fill-in (second pass)
+b.add("10-12","oktoberfest","first-oktoberfest-1810","Munich holds the first Oktoberfest","1810","October 12, 1810",
+ "A royal wedding celebration in Bavaria begins what becomes a famous annual festival.",
+ "On October 12, 1810, the festival that became Oktoberfest began in Munich, celebrating the marriage of the Bavarian crown prince, later King Louis I, to Princess Therese von Sachsen-Hildburghausen.",
+ [(BR+"Oktoberfest","https://www.britannica.com/topic/Oktoberfest","Britannica: 'The festival originated on October 12, 1810, in celebration of the marriage of the crown prince of Bavaria, who later became King Louis I, to Princess Therese von Sachsen-Hildburghausen.'")],
+ ["europe"],["1800-1945"])
+b.add("10-12","columbus-landfall","columbus-sights-land-1492","Columbus's fleet sights land in the Caribbean","1492","October 12, 1492",
+ "After weeks at sea, Columbus's crew spots land in the Bahamas.",
+ "On October 12, 1492, land was sighted from the Pinta, ending the Atlantic crossing of Christopher Columbus's fleet, which had left Spain on August 3. The island, called Guanahani, is usually identified with San Salvador in the Bahamas, though the exact site is disputed.",
+ [(BR+"Christopher Columbus","https://www.britannica.com/biography/Christopher-Columbus","Britannica: fleet left on August 3, 1492; 'on October 12 land was sighted from the Pinta'; first landfall called Guanahani, hotly disputed, San Salvador (Watlings) Island generally preferred.")],
+ ["americas","europe"],["early-modern"],note="Julian calendar date.")
+b.add("10-12","voskhod-1","voskhod-1-launches-1964","Voskhod 1 carries the first multi-person crew into orbit","1964","October 12, 1964",
+ "Three Soviet cosmonauts, including a doctor, fly together for the first time.",
+ "On October 12, 1964, Voskhod 1 carried commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov into Earth orbit. It was the first spacecraft to carry more than one person, and Yegorov became the first doctor in space.",
+ [(BR+"Voskhod","https://www.britannica.com/technology/Voskhod-spacecraft","Britannica: 'On October 12, 1964, Voskhod 1 carried three cosmonauts - commander Vladimir Komarov, engineer Konstantin Feoktistov, and doctor Boris Yegorov - into Earth orbit'; table: first multiperson spacecraft; first doctor in space (Yegorov).")],
+ ["europe","asia"],["space-age","cold-war"])
+b.add("10-13","templars","templars-arrested-in-france-1307","Philip IV orders the arrest of the Knights Templar","1307","October 13, 1307",
+ "The French king moves against the powerful military order and seizes its property.",
+ "On October 13, 1307, King Philip IV of France ordered the arrest of every Templar in France and seized the order's property there. The arrests made much of Europe aware of the crimes alleged against the order.",
+ [(BR+"Templar","https://www.britannica.com/topic/Templars","Britannica: 'after Philip IV ordered the arrest on October 13, 1307, of every Templar in France and sequestered all the Templars' property in the country - that most of the people of Europe became aware of the extent of the alleged crimes of the order.'")],
+ ["europe"],["medieval"],note="Julian calendar date.")
+b.add("10-13","white-house","white-house-cornerstone-laid-1792","Construction of the White House begins","1792","October 13, 1792",
+ "A cornerstone is laid for the president's house in the new federal city.",
+ "On October 13, 1792, construction of the White House officially began with the laying of a cornerstone during a Masonic ceremony. Enslaved people worked alongside hired laborers at every stage of construction through 1800.",
+ [("White House Historical Association - Building the White House","https://www.whitehousehistory.org/building-the-white-house","WHHA: 'On October 13, 1792, White House construction officially began with the laying of a cornerstone during a Masonic ceremony'; enslaved people worked as axemen, stone cutters, carpenters and laborers throughout each stage of construction from 1792 through 1800.")],
+ ["americas"],["early-modern"])
+b.add("10-13","italy-war","italy-declares-war-on-germany-1943","Italy declares war on Germany","1943","October 13, 1943",
+ "Italy turns against its former Axis partner during the Second World War.",
+ "On October 13, 1943, Italy declared war on Germany. Marshal Pietro Badoglio read the declaration at Brindisi, and the document, signed by King Victor Emmanuel III, was sent to Berlin through the Italian Embassy in Madrid.",
+ [("The National WWII Museum - The Allied Campaign in Italy, 1943-45: A Timeline, Part One","https://www.nationalww2museum.org/war/articles/allied-campaign-italy-1943-45-timeline-part-one","Timeline entry 'October 13 Italy declares war on Germany. The declaration, signed by Victor Emmanuel III, is transmitted to Berlin through the Italian Embassy in Madrid.' (1943 section)."),
+  ("Imperial War Museums - Italy declares war against Germany 1943","https://www.iwm.org.uk/collections/item/object/205195632","IWM photo caption: 'Marshal Badoglio reading the declaration of war against Germany, Brindisi, 13 October 1943'; date field 1943-10-13.")],
+ ["europe"],["1800-1945"])
+b.add("10-14","u2-cuba","u2-photographs-missiles-in-cuba-1962","A U-2 flight photographs Soviet missile sites in Cuba","1962","October 14, 1962",
+ "Aerial reconnaissance captures the evidence that sets off the Cuban Missile Crisis.",
+ "On October 14, 1962, an American U-2 flight over Cuba took photographs that analysts studied over the following days. The images showed the Soviet Union building nuclear missile bases in Cuba, bringing the two superpowers into direct nuclear confrontation.",
+ [("U.S. National Archives - Aerial Photograph of Missiles in Cuba (1962)","https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba","National Archives: 'Sunday morning, October 14, was cloudless, and the U-2 flight took photographs that, over the next few days, were analyzed'; 'With the October 14 photographs, the United States caught the Soviet Union building offensive nuclear missile bases' (1962).")],
+ ["americas"],["cold-war"])
+b.add("10-15","gregorian","gregorian-calendar-takes-effect-1582","The Gregorian calendar takes effect","1582","October 15, 1582",
+ "Ten days vanish from the calendar as Pope Gregory XIII's reform begins.",
+ "On October 15, 1582, the Gregorian calendar took effect. Proclaimed by Pope Gregory XIII to reform the Julian calendar, the change advanced the calendar by 10 days, so the day after October 4 was counted as October 15.",
+ [(BR+"Gregorian calendar","https://www.britannica.com/topic/Gregorian-calendar","Britannica: proclaimed in 1582 by Pope Gregory XIII as a reform of the Julian calendar; 'The change was effected by advancing the calendar 10 days after October 4, 1582, the day following being reckoned as October 15.'")],
+ ["europe","global"],["early-modern"],note="First day of the Gregorian calendar; adoption outside Catholic Europe came later.")
+b.add("10-15","thrustssc","thrustssc-land-speed-record-1997","ThrustSSC breaks the sound barrier on land","1997","October 15, 1997",
+ "A British jet-powered car sets a land speed record of 763 mph.",
+ "On October 15, 1997, ThrustSSC set the world land speed record at 763 mph, becoming the first land vehicle to officially break the sound barrier.",
+ [("Coventry Transport Museum - ThrustSSC","https://www.transport-museum.com/visiting/thrustssc.aspx","Museum: 'ThrustSSC holds the current World Land Speed Record which was set on October 15, 1997, by accomplishing a speed of 763 mph'; 'first land vehicle to officially break the sound barrier.'")],
+ ["europe","americas"],["contemporary"])
 b.write()
