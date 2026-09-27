@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-06-12-historical-events",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [],
+  "monthDays": [
+    "11-06",
+    "11-07",
+    "11-08",
+    "11-09",
+    "11-10",
+    "11-11",
+    "11-12"
+  ],
+  "quizPackFilenames": []
+}

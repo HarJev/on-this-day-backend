@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-11-06-12-historical-events",
+  "candidates": [
+    {
+      "candidateId": "nov-06-lincoln-elected",
+      "kind": "event",
+      "proposedCanonicalId": "lincoln-elected-president-1860",
+      "workingClaim": "November 6, 1860: On November 6, 1860, a deeply divided United States went to the polls and elected Abraham Lincoln president. He won slightly less than 40 percent of the popular vote but a majority of 180 electoral votes, sweeping the North and winning California and Oregon.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/United-States-presidential-election-of-1860"
+      ]
+    },
+    {
+      "candidateId": "nov-06-first-college-football",
+      "kind": "event",
+      "proposedCanonicalId": "first-college-football-game-1869",
+      "workingClaim": "November 6, 1869: On November 6, 1869, Rutgers and Princeton played the first collegiate football game, in New Brunswick, New Jersey. Rutgers won 6-4.",
+      "sourceUrls": [
+        "https://www.rutgers.edu/news/birthplace-college-football"
+      ]
+    },
+    {
+      "candidateId": "nov-06-australia-republic",
+      "kind": "event",
+      "proposedCanonicalId": "australia-republic-referendum-1999",
+      "workingClaim": "November 6, 1999: On November 6, 1999, Australians voted in a referendum on whether to make the country a republic with a president appointed by Parliament in place of the Queen and Governor-General. The proposal was not approved by the required double majority, and only the Australian Capital Territory recorded a majority 'yes' vote.",
+      "sourceUrls": [
+        "https://www.aec.gov.au/elections/referendums/1999_referendum_reports_statistics/1999.htm",
+        "https://www.aec.gov.au/elections/referendums/1999_referendum_reports_statistics/key_results.htm"
+      ]
+    },
+    {
+      "candidateId": "nov-06-lutzen",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-lutzen-1632",
+      "workingClaim": "November 6, 1632: On November 6, 1632 (by the Julian calendar then used in Sweden), Swedish forces fought imperial troops at Lutzen in Saxony during the Thirty Years' War. King Gustavus II Adolphus of Sweden was killed in the battle.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Lutzen"
+      ]
+    },
+    {
+      "candidateId": "nov-07-marie-curie",
+      "kind": "event",
+      "proposedCanonicalId": "marie-curie-born-1867",
+      "workingClaim": "November 7, 1867: On November 7, 1867, Marie Curie was born in Warsaw. The Polish-born French physicist became famous for her work on radioactivity and won the Nobel Prize twice.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Marie-Curie"
+      ]
+    },
+    {
+      "candidateId": "nov-07-last-spike",
+      "kind": "event",
+      "proposedCanonicalId": "cpr-last-spike-1885",
+      "workingClaim": "November 7, 1885: On the morning of November 7, 1885, company director Donald Smith drove the ceremonial last spike of the Canadian Pacific Railway at Craigellachie, British Columbia, marking the completion of the transcontinental line.",
+      "sourceUrls": [
+        "https://www.thecanadianencyclopedia.ca/en/article/the-last-spike"
+      ]
+    },
+    {
+      "candidateId": "nov-07-october-revolution",
+      "kind": "event",
+      "proposedCanonicalId": "bolsheviks-take-power-1917",
+      "workingClaim": "November 7, 1917: On November 7, 1917 (October 25 in Russia's Julian calendar), the Congress of Soviets convened in Petrograd as the Bolsheviks moved to take power. In an all-night session it declared government power vested in a Council of People's Commissars led by Lenin.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Russian-Revolution"
+      ]
+    },
+    {
+      "candidateId": "nov-07-tacoma-narrows",
+      "kind": "event",
+      "proposedCanonicalId": "tacoma-narrows-bridge-collapse-1940",
+      "workingClaim": "November 7, 1940: On November 7, 1940, after strong winds blew through the Narrows, the Tacoma Narrows Bridge in Washington State, nicknamed 'Galloping Gertie', collapsed.",
+      "sourceUrls": [
+        "https://www.wsdot.wa.gov/tnbhistory/collapse.htm"
+      ]
+    },
+    {
+      "candidateId": "nov-08-xrays",
+      "kind": "event",
+      "proposedCanonicalId": "rontgen-discovers-x-rays-1895",
+      "workingClaim": "November 8, 1895: On November 8, 1895, while experimenting with a cathode-ray tube, German physicist Wilhelm Rontgen noticed that a screen far from the tube glowed when the tube was operating, leading to his discovery of X-rays.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wilhelm-Rontgen"
+      ]
+    },
+    {
+      "candidateId": "nov-08-tenochtitlan",
+      "kind": "event",
+      "proposedCanonicalId": "cortes-enters-tenochtitlan-1519",
+      "workingClaim": "November 8, 1519: On November 8, 1519, Hernan Cortes entered Tenochtitlan, the Aztec capital later rebuilt as Mexico City, with his small Spanish force and about 1,000 Tlaxcaltec allies.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Hernan-Cortes"
+      ]
+    },
+    {
+      "candidateId": "nov-08-jfk-elected",
+      "kind": "event",
+      "proposedCanonicalId": "kennedy-elected-president-1960",
+      "workingClaim": "November 8, 1960: On November 8, 1960, Democrat John F. Kennedy narrowly defeated Republican Vice President Richard Nixon to win the US presidency. He became the first Roman Catholic and the youngest person ever elected president.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/United-States-presidential-election-of-1960"
+      ]
+    },
+    {
+      "candidateId": "nov-08-beer-hall-putsch",
+      "kind": "event",
+      "proposedCanonicalId": "beer-hall-putsch-1923",
+      "workingClaim": "November 8, 1923: On November 8, 1923, Adolf Hitler and Erich Ludendorff launched an attempt in Munich to start an insurrection against Germany's Weimar Republic. The Beer Hall Putsch failed the next day.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Beer-Hall-Putsch"
+      ]
+    },
+    {
+      "candidateId": "nov-09-berlin-wall",
+      "kind": "event",
+      "proposedCanonicalId": "berlin-wall-opens-1989",
+      "workingClaim": "November 9, 1989: On November 9, 1989, the East German government opened the country's borders, including those with West Berlin, and thousands of jubilant Germans began to bring down the Berlin Wall, the most visible symbol of Europe's division.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+        "https://www.britannica.com/topic/Berlin-Wall"
+      ]
+    },
+    {
+      "candidateId": "nov-09-brumaire",
+      "kind": "event",
+      "proposedCanonicalId": "coup-of-18-brumaire-1799",
+      "workingClaim": "November 9, 1799: On November 9, 1799 (18 Brumaire in the French Revolutionary calendar), the coup that overthrew France's Directory began, moving the legislature to Saint-Cloud under the pressure of Napoleon Bonaparte's troops. It replaced the Directory with the Consulate.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Coup-of-18-19-Brumaire"
+      ]
+    },
+    {
+      "candidateId": "nov-09-kaiser-abdicates",
+      "kind": "event",
+      "proposedCanonicalId": "kaiser-wilhelm-abdicates-1918",
+      "workingClaim": "November 9, 1918: On November 9, 1918, in the final days of World War I, Germany's Kaiser Wilhelm II was forced to abdicate and was persuaded to seek asylum in the Netherlands.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/William-II-emperor-of-Germany"
+      ]
+    },
+    {
+      "candidateId": "nov-09-apollo-4",
+      "kind": "event",
+      "proposedCanonicalId": "apollo-4-first-saturn-v-1967",
+      "workingClaim": "November 9, 1967: On November 9, 1967, NASA launched the uncrewed Apollo 4 mission, the first all-up test of the three-stage Saturn V rocket. The flight tested the translunar motors and the high-speed reentry needed for crews returning from the Moon.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-4/"
+      ]
+    },
+    {
+      "candidateId": "nov-10-luna-17",
+      "kind": "event",
+      "proposedCanonicalId": "luna-17-lunokhod-launch-1970",
+      "workingClaim": "November 10, 1970: On November 10, 1970, the Soviet Union launched Luna 17. It landed on the Moon's Mare Imbrium on November 17 and carried the lunar rover Lunokhod 1.",
+      "sourceUrls": [
+        "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html"
+      ]
+    },
+    {
+      "candidateId": "nov-10-martin-luther",
+      "kind": "event",
+      "proposedCanonicalId": "martin-luther-born-1483",
+      "workingClaim": "November 10, 1483: On November 10, 1483, Martin Luther was born in Eisleben, Saxony. The German theologian and religious reformer became the catalyst of the 16th-century Protestant Reformation.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Martin-Luther"
+      ]
+    },
+    {
+      "candidateId": "nov-10-stanley-livingstone",
+      "kind": "event",
+      "proposedCanonicalId": "stanley-meets-livingstone-1871",
+      "workingClaim": "November 10, 1871: According to Henry Morton Stanley's account, he met the explorer David Livingstone on November 10, 1871, greeting him with 'Dr. Livingstone, I presume?'",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Henry-Morton-Stanley"
+      ]
+    },
+    {
+      "candidateId": "nov-10-ataturk",
+      "kind": "event",
+      "proposedCanonicalId": "ataturk-dies-1938",
+      "workingClaim": "November 10, 1938: On November 10, 1938, Kemal Ataturk, the soldier, statesman, and reformer who founded the Republic of Turkey and served as its first president from 1923, died in Istanbul.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Kemal-Ataturk"
+      ]
+    },
+    {
+      "candidateId": "nov-11-armistice",
+      "kind": "event",
+      "proposedCanonicalId": "armistice-ends-ww1-fighting-1918",
+      "workingClaim": "November 11, 1918: On November 11, 1918, Germany signed an armistice with the Allies, and the guns on the Western Front fell silent at 11 a.m., ending the fighting of the First World War in Western Europe.",
+      "sourceUrls": [
+        "https://www.iwm.org.uk/history/first-world-war/armistice"
+      ]
+    },
+    {
+      "candidateId": "nov-11-angola",
+      "kind": "event",
+      "proposedCanonicalId": "angola-independence-1975",
+      "workingClaim": "November 11, 1975: On November 11, 1975, Portugal granted Angola independence, at a time when several Angolan nationalist movements were fighting among themselves for control of the new state.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/angola"
+      ]
+    },
+    {
+      "candidateId": "nov-11-poland",
+      "kind": "event",
+      "proposedCanonicalId": "poland-regains-independence-1918",
+      "workingClaim": "November 11, 1918: On November 11, 1918, as fighting in Western Europe ended, Jozef Pilsudski, newly arrived in Warsaw from Magdeburg, took power and became provisional head of the reborn Polish state. Poland marks the date as its National Independence Day.",
+      "sourceUrls": [
+        "https://www.gov.pl/web/diplomacy/103rd-anniversary-of-regaining-independence-by-the-republic-of-poland2"
+      ]
+    },
+    {
+      "candidateId": "nov-11-mayflower-compact",
+      "kind": "event",
+      "proposedCanonicalId": "mayflower-compact-signed-1620",
+      "workingClaim": "November 11, 1620: On November 11, 1620, by the Julian calendar then in use in England, passengers aboard the Mayflower signed the Mayflower Compact before landing at Plymouth, Massachusetts.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Mayflower-Compact"
+      ]
+    },
+    {
+      "candidateId": "nov-12-philae",
+      "kind": "event",
+      "proposedCanonicalId": "philae-lands-on-comet-2014",
+      "workingClaim": "November 12, 2014: On November 12, 2014, after a ten-year journey of more than 500 million kilometers, the European Space Agency's Rosetta lander Philae touched down on a comet, the first spacecraft ever to do so.",
+      "sourceUrls": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived"
+      ]
+    },
+    {
+      "candidateId": "nov-12-voyager-saturn",
+      "kind": "event",
+      "proposedCanonicalId": "voyager-1-saturn-flyby-1980",
+      "workingClaim": "November 12, 1980: On November 12, 1980, NASA's Voyager 1 made its closest approach to Saturn, passing at a range of about 126,000 kilometers (78,000 miles).",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/voyager/voyager-1/"
+      ]
+    },
+    {
+      "candidateId": "nov-12-sun-yat-sen",
+      "kind": "event",
+      "proposedCanonicalId": "sun-yat-sen-born-1866",
+      "workingClaim": "November 12, 1866: On November 12, 1866, Sun Yat-sen was born in Xiangshan, Guangdong province. He led the Chinese Nationalist Party and is known as the father of modern China.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Sun-Yat-sen"
+      ]
+    },
+    {
+      "candidateId": "nov-12-akihito",
+      "kind": "event",
+      "proposedCanonicalId": "akihito-enthroned-1990",
+      "workingClaim": "November 12, 1990: On November 12, 1990, Akihito was formally enthroned as emperor of Japan.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Akihito"
+      ]
+    }
+  ]
+}
