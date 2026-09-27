@@ -113,9 +113,11 @@ resource "aws_cloudfront_distribution" "media" {
     }
   }
 
+  # The default *.cloudfront.net certificate always uses CloudFront's TLSv1
+  # security policy; a stricter minimum needs a custom domain and certificate.
   viewer_certificate {
     cloudfront_default_certificate = true
-    minimum_protocol_version       = "TLSv1.2_2021"
+    minimum_protocol_version       = "TLSv1"
   }
 
   # The CloudFront Free flat-rate plan is subscribed manually by the owner in
