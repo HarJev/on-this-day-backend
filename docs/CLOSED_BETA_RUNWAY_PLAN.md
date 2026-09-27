@@ -27,7 +27,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 
 | Batch | Dates | Status |
 | --- | --- | --- |
-| `2026-10-02-08-historical-events` | Oct 2-8 | Not started |
+| `2026-10-02-08-historical-events` | Oct 2-8 | Drafted: 28 events (4 per date), source-verified |
 | `2026-10-09-15-historical-events` | Oct 9-15 | Drafted: 30 events (4-5 per date), source-verified |
 | `2026-10-16-22-historical-events` | Oct 16-22 | Drafted: 28 events (4 per date), source-verified |
 | `2026-10-23-29-historical-events` | Oct 23-29 | Drafted: 28 events (4 per date), source-verified |
