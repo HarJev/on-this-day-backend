@@ -29,7 +29,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 | --- | --- | --- |
 | `2026-10-02-08-historical-events` | Oct 2-8 | Not started |
 | `2026-10-09-15-historical-events` | Oct 9-15 | Drafted: 30 events (4-5 per date), source-verified |
-| `2026-10-16-22-historical-events` | Oct 16-22 | Not started |
+| `2026-10-16-22-historical-events` | Oct 16-22 | Drafted: 28 events (4 per date), source-verified |
 | `2026-10-23-29-historical-events` | Oct 23-29 | Not started |
 | `2026-10-30-11-05-historical-events` | Oct 30-Nov 5 | Not started |
 | `2026-11-06-12-historical-events` | Nov 6-12 | Not started |
@@ -58,6 +58,9 @@ Every draft ledger entry is `source_verified`, not `approved`:
 
 Pages that could not be read were left out and not replaced by guessed URLs.
 The web-fetch service rate-limited this pass, so throughput set the pace.
+From the Oct 12-15 pass onward, Britannica and the Library of Congress returned
+HTTP 403 to scripted fetches, so cited pages were read in a real browser and the
+exact supporting sentence was recorded in each source-check note.
 
 ## Quiz Bank
 
