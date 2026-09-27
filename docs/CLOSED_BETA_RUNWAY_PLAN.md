@@ -83,5 +83,6 @@ toward the 240 target.
    `reviewedOn`.
 3. Append `draft-events.json` events to `content/events.json`, and
    `draft-daily-events.json` days to `content/daily-events.json`.
-4. Run `EditorialReviewCheckCommand` on the batch, then the canonical import
+4. Run `mvn -B -Dtest=ClosedBetaRunwayDraftTest test` and
+   `EditorialReviewCheckCommand` on the batch. Then run the canonical import
    and coverage report described in `CONTENT_IMPORT_GUIDE.md`.
