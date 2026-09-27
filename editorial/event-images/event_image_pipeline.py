@@ -114,6 +114,8 @@ def encode(raw):
     try:
         with Image.open(BytesIO(raw)) as original:
             image = ImageOps.exif_transpose(original).convert("RGB")
+            if image.width * image.height > Image.MAX_IMAGE_PIXELS:
+                raise ValueError("source image exceeds the pixel safety limit")
             for edge in (MAX_EDGE, 896, 832, 768, 704, 640, 576, 512):
                 scale = min(1.0, edge / max(image.width, image.height))
                 width, height = max(1, round(image.width * scale)), max(1, round(image.height * scale))
@@ -200,6 +202,8 @@ def publish(args):
 
 
 def attach(args):
+    if args.output.resolve() == args.events.resolve() and not args.write_canonical:
+        raise ValueError("refusing to overwrite canonical events without --write-canonical")
     raw = manifest(args.manifest)
     validate(raw, args.asset_root)
     origin = https(args.origin, "origin").rstrip("/")
@@ -249,6 +253,7 @@ def main():
     attach_parser.add_argument("--output", type=Path, required=True)
     attach_parser.add_argument("--origin", required=True)
     attach_parser.add_argument("--replace-primary", action="store_true")
+    attach_parser.add_argument("--write-canonical", action="store_true")
     args = parser.parse_args()
     try:
         if args.command == "prepare":
