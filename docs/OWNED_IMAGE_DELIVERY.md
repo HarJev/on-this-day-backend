@@ -26,7 +26,7 @@ plan before any publisher could act.
 
 ## Future Publication
 
-The unapplied `infra/media` module describes a private S3 origin and a
+The unapplied `infra/prod/media.tf` configuration describes a private S3 origin and a
 pay-as-you-go CloudFront distribution with OAC. Its bucket allows only the
 specific distribution to read `quiz-images/*` and `event-images/*`; no public bucket policy, public
 write access, image proxy, or automatic flat-rate subscription is present.
