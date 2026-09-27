@@ -40,12 +40,12 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "Which international organization was created under the Treaty of Versailles settlement?",
+      "prompt": "Which collective-security body emerged from the Paris Peace Conference?",
       "options": [
         {"id": "league-of-nations", "text": "League of Nations"},
         {"id": "united-nations", "text": "United Nations"},
         {"id": "nato", "text": "North Atlantic Treaty Organization"},
-        {"id": "european-union", "text": "European Union"}
+        {"id": "osce", "text": "Organization for Security and Co-operation in Europe"}
       ],
       "correctOptionId": "league-of-nations",
       "explanation": "The Covenant of the League of Nations formed part of the Versailles settlement after the First World War.",
@@ -57,14 +57,14 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "The Battle of Midway was a pivotal naval battle in which theatre of the Second World War?",
+      "prompt": "The Battle of Midway was fought primarily between the United States and which country?",
       "options": [
-        {"id": "pacific", "text": "Pacific"},
-        {"id": "mediterranean", "text": "Mediterranean"},
-        {"id": "north-atlantic", "text": "North Atlantic"},
-        {"id": "balkans", "text": "Balkans"}
+        {"id": "japan", "text": "Japan"},
+        {"id": "germany", "text": "Germany"},
+        {"id": "italy", "text": "Italy"},
+        {"id": "united-kingdom", "text": "United Kingdom"}
       ],
-      "correctOptionId": "pacific",
+      "correctOptionId": "japan",
       "explanation": "U.S. and Japanese carrier forces fought near Midway Atoll in June 1942, changing the strategic balance in the Pacific.",
       "sources": [{"displayName": "U.S. Naval History and Heritage Command - Battle of Midway", "url": "https://www.history.navy.mil/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/midway.html"}],
       "collectionIds": ["wars-and-conflicts", "world-wars"]
@@ -147,7 +147,7 @@
       "type": "image_identification",
       "difficulty": "hard",
       "publicationState": "published",
-      "prompt": "Which mathematician and cryptanalyst is shown in this 1951 portrait?",
+      "prompt": "Which wartime codebreaker is shown in this portrait?",
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Alan_Turing_%281951%29.jpg",
         "altText": "Black-and-white head-and-shoulders portrait of a man in a jacket and tie",

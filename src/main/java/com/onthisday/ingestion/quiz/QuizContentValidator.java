@@ -8,7 +8,9 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.Objects;
 import java.util.Set;
 import java.util.regex.Pattern;
 
@@ -16,6 +18,7 @@ public class QuizContentValidator {
 
   private static final int SUPPORTED_SCHEMA_VERSION = 1;
   private static final Pattern SLUG_PATTERN = Pattern.compile("[a-z0-9]+(?:-[a-z0-9]+)*");
+  private static final Pattern NON_ALPHANUMERIC_PATTERN = Pattern.compile("[^\\p{L}\\p{N}]+");
   private static final Set<String> QUESTION_TYPES =
       Set.of("multiple_choice", "true_false", "image_identification", "chronological_ordering");
   private static final Set<String> DIFFICULTIES = Set.of("easy", "medium", "hard");
@@ -222,6 +225,21 @@ public class QuizContentValidator {
     requireNonBlank(question.correctOptionId(), path + ".correctOptionId", "correctOptionId is required", errors);
     if (!blank(question.correctOptionId()) && !optionIds.contains(question.correctOptionId())) {
       errors.add(error(path + ".correctOptionId", "correctOptionId must reference an option"));
+    }
+
+    if (!trueFalse) {
+      var correctOption =
+          options.stream()
+              .filter(option -> option != null && Objects.equals(question.correctOptionId(), option.id()))
+              .findFirst()
+              .orElse(null);
+      if (correctOption != null) {
+        validateAnswerIsNotRestated(question.prompt(), correctOption.text(), path + ".prompt", "prompt", errors);
+        if ("image_identification".equals(question.type()) && question.image() != null) {
+          validateAnswerIsNotRestated(
+              question.image().altText(), correctOption.text(), path + ".image.altText", "image altText", errors);
+        }
+      }
     }
 
     if (trueFalse) {
@@ -488,6 +506,31 @@ public class QuizContentValidator {
     } catch (IllegalArgumentException exception) {
       errors.add(error(path, message));
     }
+  }
+
+  private void validateAnswerIsNotRestated(
+      String candidate, String correctAnswer, String path, String field, List<ContentValidationError> errors) {
+    var normalizedAnswer = normalizeForLeakageCheck(correctAnswer);
+    if (normalizedAnswer.trim().length() < 3) {
+      return;
+    }
+    var normalizedCandidate = normalizeForLeakageCheck(candidate);
+    if (normalizedCandidate.contains(normalizedAnswer)) {
+      errors.add(error(path, field + " must not repeat the correct answer"));
+    }
+  }
+
+  private static String normalizeForLeakageCheck(String value) {
+    if (value == null) {
+      return "";
+    }
+    return " "
+        + NON_ALPHANUMERIC_PATTERN
+            .matcher(value.toLowerCase(Locale.ROOT))
+            .replaceAll(" ")
+            .trim()
+            .replaceAll("\\s+", " ")
+        + " ";
   }
 
   private static boolean blank(String value) {

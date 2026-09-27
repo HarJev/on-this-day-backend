@@ -51,7 +51,7 @@
       "prompt": "Which battle is depicted in this painting?",
       "image": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Richard_III_at_the_Battle_of_Bosworth.jpg",
-        "altText": "Richard III on horseback at the Battle of Bosworth Field",
+        "altText": "A mounted armored figure on horseback in a crowded battle scene",
         "source": "Wikimedia Commons",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
         "attribution": "Edmund Blair Leighton, Richard III at the Battle of Bosworth Field",
