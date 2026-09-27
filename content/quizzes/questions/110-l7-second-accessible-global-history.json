@@ -593,7 +593,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "published",
-      "prompt": "What did the project provide as a foundational resource for biological research?",
+      "prompt": "What did the Human Genome Project provide as a foundational resource for biological research?",
       "options": [
         {
           "id": "human-dna-reference-sequence",
