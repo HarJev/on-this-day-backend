@@ -79,7 +79,7 @@ data "aws_iam_policy_document" "deployer" {
   statement {
     sid     = "ProjectFunctionsLogsAlarms"
     effect  = "Allow"
-    actions = ["lambda:*", "logs:*", "cloudwatch:*Alarm*", "cloudwatch:TagResource", "cloudwatch:UntagResource", "budgets:*"]
+    actions = ["lambda:*", "logs:*", "cloudwatch:*Alarm*", "cloudwatch:TagResource", "cloudwatch:UntagResource", "budgets:*", "events:*", "scheduler:*", "sns:*"]
     resources = [
       "arn:aws:lambda:*:${local.account_id}:function:${local.prefix}-*",
       "arn:aws:logs:*:${local.account_id}:log-group:/aws/lambda/${local.prefix}-*",
@@ -152,6 +152,15 @@ data "aws_iam_policy_document" "deployer" {
       variable = "iam:AWSServiceName"
       values   = ["ops.apigateway.amazonaws.com", "wafv2.amazonaws.com", "lambda.amazonaws.com"]
     }
+  }
+
+  # Required by `aws login` to exchange the console session for short-lived
+  # CLI credentials (see the SignInLocalDevelopmentAccess managed policy).
+  statement {
+    sid       = "CliSignIn"
+    effect    = "Allow"
+    actions   = ["signin:AuthorizeOAuth2Access", "signin:CreateOAuth2Token"]
+    resources = ["*"]
   }
 
   # Lets the deployer manage its own password and MFA in the console.
