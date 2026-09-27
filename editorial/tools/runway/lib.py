@@ -1,5 +1,9 @@
 import json, os
-C = "2026-09-27"
+from datetime import date
+
+
+def checked_on():
+    return date.today().isoformat()
 MONTHS = {1:"jan",2:"feb",3:"mar",4:"apr",5:"may",6:"jun",7:"jul",8:"aug",9:"sep",10:"oct",11:"nov",12:"dec"}
 
 class Batch:
@@ -37,7 +41,7 @@ class Batch:
             cand.append({"candidateId": cid, "kind": "event", "proposedCanonicalId": e["id"],
                          "workingClaim": f"{e['historicalDate']}: {e['description']}", "sourceUrls": urls})
             led.append({"candidateId": cid, "canonicalId": e["id"], "reviewStatus": "source_verified",
-                        "sourceChecks": [{"url": u, "status": "verified_supporting", "checkedOn": C, "note": n}
+                        "sourceChecks": [{"url": u, "status": "verified_supporting", "checkedOn": checked_on(), "note": n}
                                          for u, n in zip(urls, checks)],
                         "imageRightsStatus": "not_applicable", "regions": regions, "eras": eras,
                         "calendarDays": [day],
