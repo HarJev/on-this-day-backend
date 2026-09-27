@@ -687,7 +687,7 @@
       "publicationState": "published",
       "prompt": "Who is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/George_Washington%2C_1795_by_Gilbert_Stuart.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-george-washington/3c4d850b0e6fc8dbd4a74d1d681baef374a073876b1eec2c865a5444a02a9917.jpg",
         "altText": "A painted head-and-shoulders view of a man in eighteenth-century clothing.",
         "source": "Wikimedia Commons and The Metropolitan Museum of Art",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:George_Washington,_1795_by_Gilbert_Stuart.jpg",
@@ -733,7 +733,7 @@
       "publicationState": "published",
       "prompt": "Which scientist is shown in this photograph?",
       "image": {
-        "url": "https://tile.loc.gov/image-services/iiif/service:pnp:ggbain:07600:07682v/110,70,560,880/full/0/default.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-marie-curie/036cd175fbdea13e940a5903748fb780174241aee07ed1f0b4efa61428479844.jpg",
         "altText": "A black-and-white three-quarter-length photograph of a woman in a dark high-necked dress, standing beside a table and holding a long neck chain.",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/item/2014687674/",
@@ -779,7 +779,7 @@
       "publicationState": "published",
       "prompt": "Which playwright is shown in this portrait?",
       "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/William_Shakespeare_Chandos_Portrait.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-william-shakespeare/80c7740809d5dad3e648ae96a7198bcfca54a8c29a8c5425516e289a03a2ae81.jpg",
         "altText": "Dark-toned painted head-and-shoulders portrait of a man with a moustache and small pointed beard.",
         "source": "Wikimedia Commons and the National Portrait Gallery",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Shakespeare_Chandos_Portrait.jpg",
@@ -825,7 +825,7 @@
       "publicationState": "published",
       "prompt": "Which artwork is shown?",
       "image": {
-        "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP141042.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-great-wave-off-kanagawa/cca653cef3d832a81ceaa2a344ecbeeec31ecfc0fa12d33df4c3d03cd04a3f56.jpg",
         "altText": "A towering blue wave curls above small boats, with a distant mountain in the background.",
         "source": "The Metropolitan Museum of Art",
         "sourceUrl": "https://www.metmuseum.org/art/collection/search/39799",
@@ -871,7 +871,7 @@
       "publicationState": "published",
       "prompt": "Which queen is shown in this portrait?",
       "image": {
-        "url": "https://tile.loc.gov/image-services/iiif/master:pnp:cph:3a30000:3a39000:3a39200:3a39242u/76,76,1064,1140/800,/0/default.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-queen-liliuokalani/b080d76c05f97ac7973b299af791b6ddba8a579359dd1f6d9c323db6ca462315.jpg",
         "altText": "A black-and-white head-and-shoulders photograph of an older woman with curled gray hair, wearing a dark dress with a pale lace jabot, seated in a wicker chair.",
         "source": "Library of Congress",
         "sourceUrl": "https://www.loc.gov/pictures/item/2016651074/",
@@ -917,7 +917,7 @@
       "publicationState": "published",
       "prompt": "Who is depicted in this painting?",
       "image": {
-        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ingres_coronation_charles_vii.jpg/960px-Ingres_coronation_charles_vii.jpg",
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-joan-of-arc-painting/f44ace1c3b2ae8c3b4e76212f32b391e45d9e87799deda448add779b41f5eca4.jpg",
         "altText": "An armored woman stands with a banner in a cathedral setting.",
         "source": "Louvre and Wikimedia Commons",
         "sourceUrl": "https://collections.louvre.fr/cartelen/visite?idNotice=22739&srv=car_not_frame",

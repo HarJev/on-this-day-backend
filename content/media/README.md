@@ -10,18 +10,18 @@ rendition URL, source page, source name, alt text, attribution, optional
 creator, license, license URL, content type, dimensions, encoded byte count,
 SHA-256 digest, and immutable object key.
 
-The initial nine review records are in `docs/QUIZ_CONTENT_REVIEW.md`; their
-canonical provenance remains in `content/quizzes/questions/*.json`. A
-production manifest is intentionally absent until the exact locally reviewed
-rendition bytes and their checksums are ready. Do not invent checksums or copy
-unreviewed assets into this repository.
+`quiz-images.manifest.json` is the production manifest for the 21 published
+renditions. Canonical provenance remains in
+`content/quizzes/questions/*.json`; the manifest additionally records each
+original `sourceRenditionUrl`. Do not invent checksums or copy image bytes into
+this repository.
 
 The dry-run command reads only local bytes and makes no AWS call:
 
 ```sh
 mvn exec:java \
   -Dexec.mainClass=com.onthisday.ingestion.media.OwnedImagePublishDryRunCommand \
-  -Dexec.args="<manifest.json> <local-reviewed-asset-root> [https://future-owned-origin]"
+  -Dexec.args="<manifest.json> <local-reviewed-asset-root> [https://d2v6di8uk52rif.cloudfront.net]"
 ```
 
 It accepts JPEG and PNG renditions up to 8 MiB and a 1024-pixel longest edge,
