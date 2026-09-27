@@ -6,3 +6,8 @@ target/
 !.env.example
 firebase-service-account*.json
 service-account*.json
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
