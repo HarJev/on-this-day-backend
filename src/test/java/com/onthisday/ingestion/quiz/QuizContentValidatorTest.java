@@ -53,6 +53,20 @@ class QuizContentValidatorTest {
   }
 
   @Test
+  void reportsRelatedEventIdErrors() {
+    var result = validateInvalidFixture();
+
+    assertContainsError(
+        result,
+        "questions/001-invalid.json:$.questions[0].relatedEventIds[0]",
+        "id must use lowercase letters, numbers, and hyphens");
+    assertContainsError(
+        result,
+        "questions/001-invalid.json:$.questions[0].relatedEventIds[2]",
+        "duplicate related event id: dup-event-1900");
+  }
+
+  @Test
   void reportsChoiceQuestionErrors() {
     var result = validateInvalidFixture();
 

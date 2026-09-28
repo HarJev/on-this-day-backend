@@ -7,6 +7,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.time.MonthDay;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -42,6 +43,24 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
       ORDER BY question.question_id
       """;
 
+  private static final String DATE_LINKED_CANDIDATES_SQL =
+      """
+      SELECT question.question_id,
+             question.question_type,
+             question.difficulty,
+             bool_or(daily.role = 'featured') AS featured
+      FROM quiz_question_event link
+      JOIN daily_event daily
+        ON daily.event_id = link.event_id
+      JOIN quiz_question question
+        ON question.question_id = link.question_id
+      WHERE daily.month = ?
+        AND daily.day = ?
+        AND question.publication_state = 'published'
+      GROUP BY question.question_id, question.question_type, question.difficulty
+      ORDER BY question.question_id
+      """;
+
   private final DataSource dataSource;
 
   public JdbcQuizQuestionRepository(DataSource dataSource) {
@@ -60,6 +79,38 @@ public class JdbcQuizQuestionRepository implements QuizQuestionRepository {
         PUBLISHED_COLLECTION_CANDIDATES_SQL,
         collectionId,
         "findPublishedQuizCandidatesByCollection");
+  }
+
+  @Override
+  public List<DateLinkedQuizCandidate> findPublishedCandidatesLinkedTo(MonthDay monthDay) {
+    Objects.requireNonNull(monthDay, "monthDay must not be null");
+    var startedAt = System.nanoTime();
+    LOG.debug("db_query_start operation=findDateLinkedQuizCandidates monthDay={}", monthDay);
+    try (var connection = dataSource.getConnection();
+        var statement = connection.prepareStatement(DATE_LINKED_CANDIDATES_SQL)) {
+      statement.setInt(1, monthDay.getMonthValue());
+      statement.setInt(2, monthDay.getDayOfMonth());
+      try (var resultSet = statement.executeQuery()) {
+        var candidates = new ArrayList<DateLinkedQuizCandidate>();
+        while (resultSet.next()) {
+          candidates.add(
+              new DateLinkedQuizCandidate(
+                  new QuizQuestionCandidate(
+                      resultSet.getString("question_id"),
+                      QuestionType.fromValue(resultSet.getString("question_type")),
+                      QuizDifficulty.fromValue(resultSet.getString("difficulty"))),
+                  resultSet.getBoolean("featured")));
+        }
+        LOG.debug(
+            "db_query_end operation=findDateLinkedQuizCandidates candidateCount={} durationMs={}",
+            candidates.size(),
+            elapsedMillis(startedAt));
+        return List.copyOf(candidates);
+      }
+    } catch (SQLException | RuntimeException exception) {
+      LOG.error("db_query_failed operation=findDateLinkedQuizCandidates", exception);
+      throw new QuizUnavailableException("Could not load date-linked quiz candidates.", exception);
+    }
   }
 
   @Override

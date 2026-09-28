@@ -305,8 +305,8 @@ SAM local are the working environment until then.
 | Task | Status | Evidence |
 | --- | --- | --- |
 | PA1 editorial status baseline | **Complete** | `ContentCoverageReportCommand` plus `ContentStatusCommand` (review counts, drafts, fingerprints, database drift, answer positions, featured images). Related-event coverage lands with PA2 |
-| PA2 event-question relations | Not started | |
-| PA3 date-linked Daily selection | Not started | Depends on PA2 |
+| PA2 event-question relations | **Complete** (code) | `quiz_question_event` table, `relatedEventIds` in quiz JSON, import check, status report coverage. Links themselves still need editorial review before any are added |
+| PA3 date-linked Daily selection | **Complete** (code) | Daily selection version 2: featured link at position 1, one more same-date link at position 6, global fallback |
 | PA4 recent content API | **Complete** | `GET /v1/days/recent`, PR #12. Returns featured events for up to 14 past days and skips uncovered dates |
 | PA5 scheduled notification delivery | Parked by owner | Needs a paid Apple Developer account for iOS push |
 | PA6 event image coverage | In progress | Pipeline in `docs/EVENT_IMAGE_PIPELINE.md` (PR #5); Sep 27-Oct 1 images live (PR #8) |

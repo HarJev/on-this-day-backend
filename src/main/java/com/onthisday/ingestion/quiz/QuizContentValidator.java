@@ -164,6 +164,7 @@ public class QuizContentValidator {
     requireNonBlank(question.explanation(), path + ".explanation", "explanation is required", errors);
     validateSources(question.sources(), path + ".sources", errors);
     validateCollectionReferences(question, path, collectionIds, publishedCollectionCounts, warnings, errors);
+    validateRelatedEventIds(question.relatedEventIds(), path + ".relatedEventIds", errors);
 
     if ("published".equals(question.publicationState())) {
       aggregate.record(question.type(), question.difficulty());
@@ -372,6 +373,22 @@ public class QuizContentValidator {
     }
     requireNonBlank(image.license(), path + ".license", "image license is required", errors);
     requireHttpsUrl(image.licenseUrl(), path + ".licenseUrl", "image licenseUrl must be an absolute HTTPS URL", errors);
+  }
+
+  /** Existence is checked against historical_event at import time; here only the shape. */
+  private void validateRelatedEventIds(
+      List<String> relatedEventIds, String path, List<ContentValidationError> errors) {
+    if (relatedEventIds == null) {
+      return;
+    }
+    var seen = new HashSet<String>();
+    for (int index = 0; index < relatedEventIds.size(); index++) {
+      var eventId = relatedEventIds.get(index);
+      validateSlug(eventId, path + "[" + index + "]", "related event id is required", errors);
+      if (!blank(eventId) && !seen.add(eventId)) {
+        errors.add(error(path + "[" + index + "]", "duplicate related event id: " + eventId));
+      }
+    }
   }
 
   private void validateCollectionReferences(

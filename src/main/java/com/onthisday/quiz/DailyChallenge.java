@@ -6,10 +6,24 @@ import java.time.LocalDate;
 import java.util.HashSet;
 import java.util.List;
 
-public record DailyChallenge(LocalDate date, List<DailyChallengeQuestion> questions) {
+public record DailyChallenge(
+    LocalDate date, List<DailyChallengeQuestion> questions, int selectionVersion) {
+
+  /** Balanced global selection; every assignment created before date-linked selection. */
+  public static final int GLOBAL_SELECTION_VERSION = 1;
+
+  /** Reserves reviewed questions linked to the date's curated events, then balances the rest. */
+  public static final int DATE_LINKED_SELECTION_VERSION = 2;
+
+  public DailyChallenge(LocalDate date, List<DailyChallengeQuestion> questions) {
+    this(date, questions, GLOBAL_SELECTION_VERSION);
+  }
 
   public DailyChallenge {
     date = requireNonNull(date, "date");
+    if (selectionVersion != GLOBAL_SELECTION_VERSION && selectionVersion != DATE_LINKED_SELECTION_VERSION) {
+      throw new InvalidQuizDefinitionException("selectionVersion is unsupported: " + selectionVersion);
+    }
     if (questions == null) {
       throw new InvalidQuizDefinitionException("questions must not be null");
     }

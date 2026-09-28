@@ -2,11 +2,13 @@ package com.onthisday.quiz;
 
 import java.time.Clock;
 import java.time.LocalDate;
+import java.time.MonthDay;
 import java.time.ZoneId;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Objects;
+import java.util.Optional;
 
 public class DailyQuizService {
 
@@ -56,17 +58,14 @@ public class DailyQuizService {
     }
 
     var ordered = DeterministicQuizOrder.candidates(date, candidates);
-    var selected = new ArrayList<>(selector.select(ordered, 5));
-    selected.addAll(
-        selector.selectAdditional(remaining(ordered, selected), List.copyOf(selected), 10));
-    selected.addAll(
-        selector.selectAdditional(remaining(ordered, selected), List.copyOf(selected), 20));
+    var linked = questionRepository.findPublishedCandidatesLinkedTo(MonthDay.from(date));
+    var selected = dateLinkedSelection(date, ordered, linked).orElseGet(() -> globalSelection(ordered));
 
     var references = new ArrayList<DailyChallengeQuestion>(20);
     for (var index = 0; index < selected.size(); index++) {
       references.add(new DailyChallengeQuestion(index + 1, selected.get(index).questionId()));
     }
-    var proposed = new DailyChallenge(date, references);
+    var proposed = new DailyChallenge(date, references, DailyChallenge.DATE_LINKED_SELECTION_VERSION);
     if (challengeRepository.insertIfAbsent(proposed)) {
       return proposed;
     }
@@ -76,6 +75,53 @@ public class DailyQuizService {
             () ->
                 new QuizUnavailableException(
                     "A concurrent Daily Challenge creator won, but its assignment could not be read."));
+  }
+
+  /** Version 1 behavior: balanced global selection with stable 5/10 prefixes. */
+  private List<QuizQuestionCandidate> globalSelection(List<QuizQuestionCandidate> ordered) {
+    var selected = new ArrayList<>(selector.select(ordered, 5));
+    selected.addAll(
+        selector.selectAdditional(remaining(ordered, selected), List.copyOf(selected), 10));
+    selected.addAll(
+        selector.selectAdditional(remaining(ordered, selected), List.copyOf(selected), 20));
+    return selected;
+  }
+
+  /**
+   * Reserves position 1 for a question linked to the date's featured event and position 6 for
+   * one more question linked to any event curated for that date. Other date-linked questions
+   * are left out so the whole assignment carries at most two. Empty when nothing is linked or
+   * the remaining bank cannot fill 20, so the caller falls back to the global selection.
+   */
+  private Optional<List<QuizQuestionCandidate>> dateLinkedSelection(
+      LocalDate date, List<QuizQuestionCandidate> ordered, List<DateLinkedQuizCandidate> linked) {
+    if (linked.isEmpty()) {
+      return Optional.empty();
+    }
+    var featured =
+        DeterministicQuizOrder.candidates(
+            date, linked.stream().filter(DateLinkedQuizCandidate::featured).map(DateLinkedQuizCandidate::candidate).toList());
+    var others =
+        DeterministicQuizOrder.candidates(
+            date, linked.stream().filter(link -> !link.featured()).map(DateLinkedQuizCandidate::candidate).toList());
+    var linkedIds = new HashSet<String>();
+    linked.forEach(link -> linkedIds.add(link.candidate().questionId()));
+    var pool = ordered.stream().filter(candidate -> !linkedIds.contains(candidate.questionId())).toList();
+
+    var extras = new ArrayList<QuizQuestionCandidate>();
+    extras.addAll(featured.stream().skip(1).toList());
+    extras.addAll(others);
+    try {
+      var selected = new ArrayList<QuizQuestionCandidate>(20);
+      featured.stream().findFirst().ifPresent(selected::add);
+      selected.addAll(selector.selectAdditional(remaining(pool, selected), List.copyOf(selected), 5));
+      extras.stream().findFirst().ifPresent(selected::add);
+      selected.addAll(selector.selectAdditional(remaining(pool, selected), List.copyOf(selected), 10));
+      selected.addAll(selector.selectAdditional(remaining(pool, selected), List.copyOf(selected), 20));
+      return Optional.of(selected);
+    } catch (InsufficientQuizQuestionsException exception) {
+      return Optional.empty();
+    }
   }
 
   private static List<QuizQuestionCandidate> remaining(

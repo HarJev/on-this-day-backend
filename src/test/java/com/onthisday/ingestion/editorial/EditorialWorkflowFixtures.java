@@ -70,7 +70,8 @@ final class EditorialWorkflowFixtures {
               null,
               "Fixture explanation " + number + ".",
               List.of(new CuratedQuizSourceJson("Fixture source", sourceUrl(id))),
-              List.of("fixture-collection")));
+              List.of("fixture-collection"),
+              null));
     }
     return new CuratedQuizContent(
         new QuizCollectionsFile(
