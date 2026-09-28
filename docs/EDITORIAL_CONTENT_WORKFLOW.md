@@ -45,6 +45,8 @@ for each curated day. Related IDs are factual editorial assertions: validate the
 event exists and that the question meaningfully reinforces it.
 
 Draft, `source_verified`, approved canonical, and imported database states must
-remain distinguishable. The planned status command compares ledgers, canonical
-files, and an optional target database by counts and deterministic fingerprints.
-It reports drift but never approves, promotes, imports, or deletes content.
+remain distinguishable. `ContentStatusCommand` compares ledgers, canonical
+files, and an optional target database by counts and deterministic per-record
+fingerprints, and reports correct-option positions and featured days without an
+image. It reports drift but never approves, promotes, imports, or deletes
+content. See `CONTENT_IMPORT_GUIDE.md` section 5 for the command.
