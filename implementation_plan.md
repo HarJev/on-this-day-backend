@@ -310,7 +310,7 @@ SAM local are the working environment until then.
 | PA4 recent content API | **Complete** | `GET /v1/days/recent`, PR #12. Returns featured events for up to 14 past days and skips uncovered dates |
 | PA5 scheduled notification delivery | Parked by owner | Needs a paid Apple Developer account for iOS push |
 | PA6 event image coverage | In progress | Pipeline in `docs/EVENT_IMAGE_PIPELINE.md` (PR #5); Sep 27-Oct 1 images live (PR #8) |
-| PA7 backend observability | Not started | |
+| PA7 backend observability | **Complete** (backend logs) | `docs/OBSERVABILITY.md`; one `api_request` line per request with route pattern and outcome, and device tokens never logged. Alarms and retention wait for deployment |
 
 ## PA1: Editorial Quality And Content Status Baseline
 

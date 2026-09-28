@@ -48,6 +48,23 @@ public final class HttpRouter {
     return errorResponseWriter.json(404, "route_not_found", "Route not found.");
   }
 
+  /**
+   * The registered route pattern that handles this request, safe to log: path parameters such
+   * as device tokens stay as {@code {token}} placeholders. Unregistered paths return
+   * {@code "unmatched"} rather than echoing caller-supplied text.
+   */
+  public String routeLabel(HttpRequest request) {
+    if (routes.containsKey(new RouteKey(request.method(), request.path()))) {
+      return request.path();
+    }
+    for (var templateRoute : templateRoutes) {
+      if (templateRoute.match(request) != null) {
+        return templateRoute.template().path();
+      }
+    }
+    return "unmatched";
+  }
+
   private static List<TemplateRoute> templateRoutes(Map<RouteKey, HttpRoute> routes) {
     var templateRoutes = new ArrayList<TemplateRoute>();
     for (var entry : (routes == null ? Map.<RouteKey, HttpRoute>of() : routes).entrySet()) {
