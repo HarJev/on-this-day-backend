@@ -25,7 +25,7 @@ public final class TodayContentService {
     return repository.getTodayContent(MonthDay.from(localDate));
   }
 
-  private static ZoneId parseTimezone(String timezone) {
+  static ZoneId parseTimezone(String timezone) {
     try {
       return ZoneId.of(requireNonBlank(timezone, "timezone"));
     } catch (IllegalArgumentException | DateTimeException exception) {

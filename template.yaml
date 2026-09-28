@@ -34,6 +34,11 @@ Resources:
           Properties:
             Path: /v1/days/today
             Method: GET
+        RecentDays:
+          Type: HttpApi
+          Properties:
+            Path: /v1/days/recent
+            Method: GET
         EventDetail:
           Type: HttpApi
           Properties:

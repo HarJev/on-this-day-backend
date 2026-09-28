@@ -1,11 +1,13 @@
 package com.onthisday.platform.http;
 
 import com.onthisday.content.HistoricalEventRepository;
+import com.onthisday.content.RecentDaysService;
 import com.onthisday.content.TodayContentRepository;
 import com.onthisday.content.TodayContentService;
 import com.onthisday.notifications.DeviceRegistrationRepository;
 import com.onthisday.notifications.DeviceRegistrationService;
 import com.onthisday.platform.content.EventDetailHandler;
+import com.onthisday.platform.content.RecentDaysHandler;
 import com.onthisday.platform.content.TodayContentHandler;
 import com.onthisday.platform.health.HealthHandler;
 import com.onthisday.platform.notifications.DeleteDeviceHandler;
@@ -47,6 +49,9 @@ public final class ApiRoutes {
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.GET, "/v1/days/today"),
         new TodayContentHandler(new TodayContentService(todayContentRepository, clock), objectMapper));
+    routes.put(
+        new HttpRouter.RouteKey(HttpMethod.GET, "/v1/days/recent"),
+        new RecentDaysHandler(new RecentDaysService(todayContentRepository, clock), objectMapper));
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.GET, "/v1/events/{eventId}"),
         new EventDetailHandler(historicalEventRepository, objectMapper));

@@ -7,9 +7,12 @@ import java.sql.SQLException;
 import java.time.MonthDay;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.Objects;
+import java.util.stream.Collectors;
 import javax.sql.DataSource;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -66,6 +69,21 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
       ORDER BY de.display_order
       """;
 
+  private static final String FEATURED_SUMMARIES_SQL_PREFIX =
+      """
+      SELECT
+        de.month,
+        de.day,
+        he.event_id,
+        he.title,
+        he.year_label,
+        he.historical_date,
+        he.date_note
+      FROM daily_event de
+      JOIN historical_event he ON he.event_id = de.event_id
+      WHERE de.role = 'featured'
+        AND (de.month, de.day) IN (""";
+
   private final DataSource dataSource;
 
   public JdbcTodayContentRepository(DataSource dataSource) {
@@ -116,6 +134,53 @@ public class JdbcTodayContentRepository implements TodayContentRepository {
           date.getDayOfMonth(),
           exception);
       throw new ContentUnavailableException("Could not load today content.", exception);
+    }
+  }
+
+  @Override
+  public Map<MonthDay, EventSummary> findFeaturedEventSummaries(List<MonthDay> dates) {
+    Objects.requireNonNull(dates, "dates must not be null");
+    if (dates.isEmpty()) {
+      return Map.of();
+    }
+
+    var sql =
+        FEATURED_SUMMARIES_SQL_PREFIX
+            + dates.stream().map(date -> "(?, ?)").collect(Collectors.joining(", "))
+            + ")";
+    var startedAt = System.nanoTime();
+    LOG.debug("db_query_start operation=findFeaturedEventSummaries dateCount={}", dates.size());
+    try (var connection = dataSource.getConnection();
+        var statement = connection.prepareStatement(sql)) {
+      var parameterIndex = 1;
+      for (var date : dates) {
+        statement.setInt(parameterIndex++, date.getMonthValue());
+        statement.setInt(parameterIndex++, date.getDayOfMonth());
+      }
+
+      try (var resultSet = statement.executeQuery()) {
+        var summaries = new HashMap<MonthDay, EventSummary>();
+        while (resultSet.next()) {
+          summaries.put(
+              MonthDay.of(resultSet.getInt("month"), resultSet.getInt("day")),
+              new EventSummary(
+                  resultSet.getString("event_id"),
+                  resultSet.getString("title"),
+                  resultSet.getString("year_label"),
+                  resultSet.getString("historical_date"),
+                  resultSet.getString("date_note")));
+        }
+        var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
+        LOG.debug(
+            "db_query_end operation=findFeaturedEventSummaries dateCount={} resultCount={} durationMs={}",
+            dates.size(),
+            summaries.size(),
+            durationMs);
+        return Map.copyOf(summaries);
+      }
+    } catch (SQLException exception) {
+      LOG.error("db_query_failed operation=findFeaturedEventSummaries dateCount={}", dates.size(), exception);
+      throw new ContentUnavailableException("Could not load recent days.", exception);
     }
   }
 
