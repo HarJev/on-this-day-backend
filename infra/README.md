@@ -16,8 +16,12 @@ per-environment folders are deliberately deferred until a staging environment
 exists. `bootstrap/` stays separate so the identity that runs `prod/` cannot
 rewrite its own permissions.
 
-State is local and ignored by git until the owner approves a remote S3 state
-bucket (see `docs/PRODUCTION_DEPLOYMENT_PLAN.md`).
+State lives in HCP Terraform (free tier, organization `har-jev-org`,
+workspaces `on-this-day-bootstrap` and `on-this-day-prod`) with **local
+execution**: Terraform runs on the operator's machine with their own AWS
+credentials, and HCP only stores versioned, locked state. Run `terraform login`
+once per machine. An S3 state bucket was rejected because it is not guaranteed
+$0. Never commit state files.
 
 ## Order
 
@@ -26,6 +30,11 @@ bucket (see `docs/PRODUCTION_DEPLOYMENT_PLAN.md`).
    boundary. The owner then adds a console password and MFA to that user in
    the console and signs the CLI in with `aws login --profile on-this-day`.
    Root is not used again for Terraform.
+
+   Applied on 2026-09-27 and now frozen: the owner makes any further change
+   to these IAM resources by hand in the console, then updates this code to
+   match so it stays an accurate record. Do not run `plan` or `apply` in
+   `bootstrap/`; its state is kept in HCP only as history.
 2. `prod/` with `AWS_PROFILE=on-this-day`: copy `terraform.tfvars.example` to
    `terraform.tfvars`, then `init`, `validate`, `plan`, and apply only after
    the owner approves the saved plan.
