@@ -225,7 +225,8 @@ class QuizContentImporterIT {
         null,
         explanation,
         java.util.List.of(new CuratedQuizSourceJson("Updated source", "https://example.com/updated")),
-        collectionIds);
+        collectionIds,
+        null);
   }
 
   private static CuratedQuizQuestionJson chronological(String id, String prompt, String explanation) {
@@ -246,7 +247,8 @@ class QuizContentImporterIT {
         null,
         explanation,
         java.util.List.of(new CuratedQuizSourceJson("Source", "https://example.com/source")),
-        java.util.List.of());
+        java.util.List.of(),
+        null);
   }
 
   private static void createCompletedDailyAssignment(LocalDate date) throws SQLException {

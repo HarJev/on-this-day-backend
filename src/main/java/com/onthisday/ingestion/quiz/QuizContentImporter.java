@@ -3,8 +3,10 @@ package com.onthisday.ingestion.quiz;
 import com.onthisday.ingestion.ContentValidationResult;
 import java.sql.Connection;
 import java.sql.SQLException;
+import java.util.HashSet;
 import java.util.List;
 import java.util.Objects;
+import java.util.TreeSet;
 import javax.sql.DataSource;
 
 public class QuizContentImporter {
@@ -96,6 +98,17 @@ public class QuizContentImporter {
       VALUES (?, ?)
       """;
 
+  private static final String DELETE_RELATED_EVENTS_SQL = "DELETE FROM quiz_question_event WHERE question_id = ?";
+
+  private static final String INSERT_RELATED_EVENT_SQL =
+      """
+      INSERT INTO quiz_question_event (question_id, event_id)
+      VALUES (?, ?)
+      """;
+
+  private static final String KNOWN_EVENT_IDS_SQL =
+      "SELECT event_id FROM historical_event WHERE event_id = ANY (?)";
+
   private final DataSource dataSource;
   private final QuizContentValidator validator;
 
@@ -129,6 +142,7 @@ public class QuizContentImporter {
   }
 
   private void importContent(Connection connection, CuratedQuizContent content) throws SQLException {
+    requireKnownRelatedEvents(connection, content);
     for (var collection : collections(content.collectionsFile())) {
       upsertCollection(connection, collection);
     }
@@ -172,6 +186,7 @@ public class QuizContentImporter {
     deleteByQuestionId(connection, DELETE_ORDERING_ITEMS_SQL, question.id());
     deleteByQuestionId(connection, DELETE_IMAGE_SQL, question.id());
     deleteByQuestionId(connection, DELETE_COLLECTION_MEMBERSHIP_SQL, question.id());
+    deleteByQuestionId(connection, DELETE_RELATED_EVENTS_SQL, question.id());
 
     insertSources(connection, question);
     if ("chronological_ordering".equals(question.type())) {
@@ -183,6 +198,51 @@ public class QuizContentImporter {
       }
     }
     insertCollectionMembership(connection, question);
+    insertRelatedEvents(connection, question);
+  }
+
+  /** Related events must already be imported; report every unknown ID rather than an FK error. */
+  private void requireKnownRelatedEvents(Connection connection, CuratedQuizContent content)
+      throws SQLException {
+    var referenced = new TreeSet<String>();
+    for (var pack : content.questionPacks()) {
+      for (var question : questions(pack.file())) {
+        referenced.addAll(relatedEventIds(question));
+      }
+    }
+    if (referenced.isEmpty()) {
+      return;
+    }
+    var known = new HashSet<String>();
+    try (var statement = connection.prepareStatement(KNOWN_EVENT_IDS_SQL)) {
+      statement.setArray(1, connection.createArrayOf("text", referenced.toArray()));
+      try (var rows = statement.executeQuery()) {
+        while (rows.next()) {
+          known.add(rows.getString(1));
+        }
+      }
+    }
+    referenced.removeAll(known);
+    if (!referenced.isEmpty()) {
+      throw new QuizContentImportException(
+          "Quiz questions reference events that are not imported: " + String.join(", ", referenced));
+    }
+  }
+
+  private void insertRelatedEvents(Connection connection, CuratedQuizQuestionJson question)
+      throws SQLException {
+    try (var statement = connection.prepareStatement(INSERT_RELATED_EVENT_SQL)) {
+      for (var eventId : relatedEventIds(question)) {
+        statement.setString(1, question.id());
+        statement.setString(2, eventId);
+        statement.addBatch();
+      }
+      statement.executeBatch();
+    }
+  }
+
+  private static List<String> relatedEventIds(CuratedQuizQuestionJson question) {
+    return question.relatedEventIds() == null ? List.of() : question.relatedEventIds();
   }
 
   private void insertSources(Connection connection, CuratedQuizQuestionJson question) throws SQLException {

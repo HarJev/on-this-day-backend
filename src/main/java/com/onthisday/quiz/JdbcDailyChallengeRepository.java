@@ -15,6 +15,7 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
   private static final String FIND_BY_DATE_SQL =
       """
       SELECT challenge.challenge_date,
+             challenge.selection_version,
              daily.position,
              daily.question_id
       FROM quiz_daily_challenge challenge
@@ -26,8 +27,8 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
       """;
   private static final String INSERT_CHALLENGE_SQL =
       """
-      INSERT INTO quiz_daily_challenge (challenge_date)
-      VALUES (?)
+      INSERT INTO quiz_daily_challenge (challenge_date, selection_version)
+      VALUES (?, ?)
       ON CONFLICT (challenge_date) DO NOTHING
       """;
   private static final String INSERT_QUESTION_SQL =
@@ -59,8 +60,10 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
       try (var resultSet = statement.executeQuery()) {
         var questions = new ArrayList<DailyChallengeQuestion>(20);
         var challengeFound = false;
+        var selectionVersion = DailyChallenge.GLOBAL_SELECTION_VERSION;
         while (resultSet.next()) {
           challengeFound = true;
+          selectionVersion = resultSet.getInt("selection_version");
           var position = resultSet.getObject("position", Integer.class);
           if (position != null) {
             questions.add(
@@ -74,7 +77,7 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
           return Optional.empty();
         }
         try {
-          var challenge = new DailyChallenge(date, questions);
+          var challenge = new DailyChallenge(date, questions, selectionVersion);
           LOG.debug(
               "db_query_end operation=findDailyChallenge found=true durationMs={}",
               elapsedMillis(startedAt));
@@ -100,7 +103,7 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
     try (var connection = dataSource.getConnection()) {
       connection.setAutoCommit(false);
       try {
-        if (!insertParent(connection, challenge.date())) {
+        if (!insertParent(connection, challenge)) {
           connection.commit();
           LOG.debug(
               "db_query_end operation=insertDailyChallenge inserted=false durationMs={}",
@@ -128,10 +131,11 @@ public class JdbcDailyChallengeRepository implements DailyChallengeRepository {
     }
   }
 
-  private static boolean insertParent(java.sql.Connection connection, LocalDate date)
+  private static boolean insertParent(java.sql.Connection connection, DailyChallenge challenge)
       throws SQLException {
     try (var statement = connection.prepareStatement(INSERT_CHALLENGE_SQL)) {
-      statement.setObject(1, date);
+      statement.setObject(1, challenge.date());
+      statement.setInt(2, challenge.selectionVersion());
       return statement.executeUpdate() == 1;
     }
   }

@@ -38,7 +38,8 @@
           "url": "http://example.com/source"
         }
       ],
-      "collectionIds": ["missing-collection", "missing-collection"]
+      "collectionIds": ["missing-collection", "missing-collection"],
+      "relatedEventIds": ["Bad Event", "dup-event-1900", "dup-event-1900"]
     },
     {
       "id": "broken-true-false",

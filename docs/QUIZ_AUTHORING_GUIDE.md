@@ -46,6 +46,9 @@ Question, option, item, and collection IDs use lowercase slug form, such as
 - `publicationState`: `draft`, `published`, or `retired`
 - `collectionIds`: IDs already present in
   `content/quizzes/collections.json`
+- `relatedEventIds` (optional): stable event IDs from `content/events.json` that
+  the question genuinely reinforces. The quiz import fails, listing each ID, if
+  a related event has not been imported yet, so import events first.
 
 Every published question needs a nonblank explanation, at least one directly
 supporting HTTPS source, and at least one collection membership. Unknown JSON

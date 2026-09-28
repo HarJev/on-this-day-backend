@@ -584,6 +584,14 @@ current API.
 
 ### Event-question relation
 
+Implemented 2026-09-28 (`V4__create_quiz_question_event.sql`,
+`relatedEventIds` in quiz JSON, `DailyQuizService` selection version 2).
+Position 1 takes the featured-event link and position 6 takes one more same-date
+link; other same-date links are excluded so the assignment carries at most two.
+If the remaining bank cannot fill 20, generation falls back to the global
+selection. `quiz_daily_challenge.selection_version` records which generator
+created each assignment.
+
 Add a quiz-owned many-to-many relation between stable `question_id` and
 `event_id`, with foreign keys to the existing aggregates. Quiz ingestion
 accepts explicit related event IDs and validates that each resolves to canonical

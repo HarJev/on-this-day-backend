@@ -15,4 +15,5 @@ public record CuratedQuizQuestionJson(
     CuratedQuizImageJson image,
     String explanation,
     List<CuratedQuizSourceJson> sources,
-    List<String> collectionIds) {}
+    List<String> collectionIds,
+    List<String> relatedEventIds) {}

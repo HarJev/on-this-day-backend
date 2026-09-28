@@ -46,6 +46,7 @@ public class ContentStatusReporter {
     report.put("database", database.map(snapshot -> database(canonicalFingerprints, snapshot)).orElse(Map.of("checked", false)));
     report.put("quizAnswerPositions", answerPositions(questions));
     report.put("featuredImages", featuredImages(events, days, ledgerEntries));
+    report.put("relatedEvents", relatedEvents(events, days, questions));
     return report;
   }
 
@@ -209,6 +210,42 @@ public class ContentStatusReporter {
     var result = new LinkedHashMap<String, Object>();
     result.put("daysWithFeaturedImage", withImage);
     result.put("daysWithoutFeaturedImage", withoutImage);
+    return result;
+  }
+
+  /** Coverage of reviewed event-question links that date-linked Daily selection draws on. */
+  private static Map<String, Object> relatedEvents(
+      List<CuratedEventJson> events, List<CuratedDayJson> days, List<CuratedQuizQuestionJson> questions) {
+    var eventIds = new HashMap<String, Boolean>();
+    events.forEach(event -> eventIds.put(event.id(), true));
+    var publishedLinksByEvent = new HashMap<String, Integer>();
+    var linkedQuestions = 0;
+    var unknownEventIds = new TreeSet<String>();
+    for (var question : questions) {
+      var related = safe(question.relatedEventIds());
+      if (!related.isEmpty()) {
+        linkedQuestions += 1;
+      }
+      for (var eventId : related) {
+        if (!eventIds.containsKey(eventId)) {
+          unknownEventIds.add(eventId);
+        }
+        if ("published".equals(question.publicationState())) {
+          publishedLinksByEvent.merge(eventId, 1, Integer::sum);
+        }
+      }
+    }
+    var featuredWithLink = new ArrayList<String>();
+    var featuredWithoutLink = new ArrayList<String>();
+    for (var day : days) {
+      var monthDay = ContentFingerprints.monthDay(day.month(), day.day());
+      (publishedLinksByEvent.containsKey(day.featuredEventId()) ? featuredWithLink : featuredWithoutLink).add(monthDay);
+    }
+    var result = new LinkedHashMap<String, Object>();
+    result.put("questionsWithRelatedEvents", linkedQuestions);
+    result.put("featuredDaysWithLinkedQuestion", featuredWithLink);
+    result.put("featuredDaysWithoutLinkedQuestion", featuredWithoutLink);
+    result.put("unknownRelatedEventIds", List.copyOf(unknownEventIds));
     return result;
   }
 

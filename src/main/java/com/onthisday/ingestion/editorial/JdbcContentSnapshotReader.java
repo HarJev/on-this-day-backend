@@ -65,6 +65,9 @@ public class JdbcContentSnapshotReader {
       ORDER BY question_id, collection_id
       """;
 
+  private static final String RELATED_EVENTS_SQL =
+      "SELECT question_id, event_id FROM quiz_question_event ORDER BY question_id, event_id";
+
   private final DataSource dataSource;
 
   public JdbcContentSnapshotReader(DataSource dataSource) {
@@ -198,6 +201,7 @@ public class JdbcContentSnapshotReader {
                     nullable(row.getString(9))));
     var sources = children(connection, QUIZ_SOURCES_SQL, row -> List.of(row.getString(2), row.getString(3)));
     var collections = children(connection, COLLECTIONS_SQL, row -> List.of(row.getString(2)));
+    var relatedEvents = children(connection, RELATED_EVENTS_SQL, row -> List.of(row.getString(2)));
     var fingerprints = new TreeMap<String, String>();
     for (var entry : base.entrySet()) {
       var id = entry.getKey();
@@ -212,6 +216,8 @@ public class JdbcContentSnapshotReader {
       sources.getOrDefault(id, List.of()).forEach(fields::addAll);
       fields.add("collections");
       collections.getOrDefault(id, List.of()).forEach(fields::addAll);
+      fields.add("relatedEvents");
+      relatedEvents.getOrDefault(id, List.of()).forEach(fields::addAll);
       fingerprints.put(id, fields.hash());
     }
     return fingerprints;

@@ -506,6 +506,13 @@ Timezone resolves the local date only. Five- and ten-question requests return
 stable prefixes of that assignment. Question order and each question's
 presentation order are stable for the Daily date.
 
+When a new assignment is created and reviewed quiz questions are linked to the
+date's curated events, position 1 holds a question linked to the featured
+event and position 6 holds one more question linked to any of that date's
+events. At most two date-linked questions appear. Dates without links use the
+balanced global selection unchanged. Assignments already stored are never
+regenerated.
+
 Daily timer durations are:
 
 | Question count | `durationSeconds` |

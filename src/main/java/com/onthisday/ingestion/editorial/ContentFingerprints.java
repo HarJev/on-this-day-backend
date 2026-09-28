@@ -104,6 +104,8 @@ public final class ContentFingerprints {
     }
     fields.add("collections");
     fields.addAll(safe(question.collectionIds()).stream().sorted().toList());
+    fields.add("relatedEvents");
+    fields.addAll(safe(question.relatedEventIds()).stream().sorted().toList());
     return fields.hash();
   }
 

@@ -2,10 +2,12 @@ package com.onthisday.quiz;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.Clock;
 import java.time.Instant;
 import java.time.LocalDate;
+import java.time.MonthDay;
 import java.time.ZoneId;
 import java.time.ZoneOffset;
 import java.util.ArrayList;
@@ -142,6 +144,69 @@ class DailyQuizServiceTest {
     return new DailyChallenge(date, questions);
   }
 
+  @Test
+  void reservesAFeaturedLinkFirstAndOneMoreSameDateLinkAtPositionSix() {
+    var candidates = QuizTestFixtures.balancedCandidates(3);
+    var featured = List.of(candidates.get(3), candidates.get(4));
+    var additional = candidates.stream().filter(value -> value.type() == QuestionType.TRUE_FALSE).findFirst().orElseThrow();
+    var challengeRepository = new FakeDailyChallengeRepository();
+    var questionRepository =
+        new FakeQuestionRepository(candidates)
+            .linking(
+                List.of(
+                    new DateLinkedQuizCandidate(featured.get(0), true),
+                    new DateLinkedQuizCandidate(featured.get(1), true),
+                    new DateLinkedQuizCandidate(additional, false)));
+
+    service(questionRepository, challengeRepository).getQuiz(ZoneId.of("America/Jamaica"), 20);
+
+    var ids = challengeRepository.challenge.questions().stream().map(DailyChallengeQuestion::questionId).toList();
+    var linkedIds = List.of(featured.get(0).questionId(), featured.get(1).questionId(), additional.questionId());
+    assertEquals(MonthDay.of(9, 7), questionRepository.linkedMonthDay);
+    assertEquals(DailyChallenge.DATE_LINKED_SELECTION_VERSION, challengeRepository.challenge.selectionVersion());
+    assertTrue(featured.stream().anyMatch(value -> value.questionId().equals(ids.get(0))));
+    assertTrue(linkedIds.contains(ids.get(5)));
+    assertEquals(2, ids.stream().filter(linkedIds::contains).count());
+    assertEquals(20, new java.util.HashSet<>(ids).size());
+    assertBalancedPrefix(challengeRepository.challenge, candidates, 5);
+    assertBalancedPrefix(challengeRepository.challenge, candidates, 20);
+  }
+
+  @Test
+  void additionalEventLinksNeverTakeTheFirstFive() {
+    var candidates = QuizTestFixtures.balancedCandidates(3);
+    var additional = candidates.get(10);
+    var challengeRepository = new FakeDailyChallengeRepository();
+    var questionRepository =
+        new FakeQuestionRepository(candidates)
+            .linking(List.of(new DateLinkedQuizCandidate(additional, false)));
+
+    service(questionRepository, challengeRepository).getQuiz(ZoneId.of("America/Jamaica"), 5);
+
+    var ids = challengeRepository.challenge.questions().stream().map(DailyChallengeQuestion::questionId).toList();
+    assertEquals(additional.questionId(), ids.get(5));
+    assertEquals(1, ids.stream().filter(additional.questionId()::equals).count());
+  }
+
+  @Test
+  void fallsBackToGlobalSelectionWhenLinksLeaveTooFewQuestions() {
+    var candidates = QuizTestFixtures.balancedCandidates(1);
+    var challengeRepository = new FakeDailyChallengeRepository();
+    var questionRepository =
+        new FakeQuestionRepository(candidates)
+            .linking(
+                List.of(
+                    new DateLinkedQuizCandidate(candidates.get(0), true),
+                    new DateLinkedQuizCandidate(candidates.get(1), true),
+                    new DateLinkedQuizCandidate(candidates.get(2), false)));
+
+    service(questionRepository, challengeRepository).getQuiz(ZoneId.of("America/Jamaica"), 20);
+
+    var ids = challengeRepository.challenge.questions().stream().map(DailyChallengeQuestion::questionId).toList();
+    assertEquals(candidates.stream().map(QuizQuestionCandidate::questionId).sorted().toList(), ids.stream().sorted().toList());
+    assertBalancedPrefix(challengeRepository.challenge, candidates, 5);
+  }
+
   private static void assertBalancedPrefix(
       DailyChallenge challenge, List<QuizQuestionCandidate> candidates, int count) {
     var byId =
@@ -221,6 +286,8 @@ class DailyQuizServiceTest {
 
   private static final class FakeQuestionRepository implements QuizQuestionRepository {
     private final List<QuizQuestionCandidate> candidates;
+    private List<DateLinkedQuizCandidate> linked = List.of();
+    private MonthDay linkedMonthDay;
     private final boolean retireFirst;
     private int candidateLoads;
     private final List<Integer> aggregateLoadSizes = new ArrayList<>();
@@ -243,6 +310,17 @@ class DailyQuizServiceTest {
     @Override
     public List<QuizQuestionCandidate> findPublishedCandidatesByCollectionId(String collectionId) {
       throw new AssertionError("Daily Challenge does not use collections");
+    }
+
+    @Override
+    public List<DateLinkedQuizCandidate> findPublishedCandidatesLinkedTo(MonthDay monthDay) {
+      linkedMonthDay = monthDay;
+      return linked;
+    }
+
+    private FakeQuestionRepository linking(List<DateLinkedQuizCandidate> links) {
+      linked = List.copyOf(links);
+      return this;
     }
 
     @Override
