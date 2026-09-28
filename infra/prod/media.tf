@@ -175,7 +175,10 @@ data "aws_iam_policy_document" "media_publisher" {
     sid       = "PublishOnlyEncryptedImmutableImageObjects"
     effect    = "Allow"
     actions   = ["s3:PutObject", "s3:AbortMultipartUpload"]
-    resources = ["${aws_s3_bucket.media.arn}/quiz-images/*"]
+    resources = [
+      "${aws_s3_bucket.media.arn}/quiz-images/*",
+      "${aws_s3_bucket.media.arn}/event-images/*",
+    ]
 
     condition {
       test     = "StringEquals"

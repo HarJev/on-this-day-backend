@@ -1449,7 +1449,19 @@
           "url": "https://blog.railwaymuseum.org.uk/shildon-the-cradle-of-the-railways-and-locomotion-no-1/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/stockton-darlington-railway-opens-1825/b7d585e98e3508fc191a6424d6b1fdb6e8366f1a2b5406f6a86991bf28fec065.jpg",
+          "altText": "Painting of crowds watching the first train cross the Skerne Bridge at Darlington in 1825",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:StocktonDarlingtonOpening.jpg",
+          "creator": "John Dobbin",
+          "attribution": "John Dobbin, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "champollion-hieroglyphs-presentation-1822",
@@ -1467,7 +1479,19 @@
           "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/champollion-hieroglyphs-presentation-1822/470e56e9cd0db95fdd277e18d550427ebd78069762c2973b025da61a6fb0e1f1.jpg",
+          "altText": "Portrait of Jean-François Champollion in a dark coat, painted by Léon Cogniet",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leon_Cogniet_-_Jean-Francois_Champollion.jpg",
+          "creator": "Léon Cogniet",
+          "attribution": "Léon Cogniet, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "william-lands-pevensey-1066",
@@ -1485,7 +1509,19 @@
           "url": "https://www.english-heritage.org.uk/learn/teaching-resources/story-of-1066/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/william-lands-pevensey-1066/370f808a1406204336b18389445870a4fb2e29e61ab414a77563fbecf5d763b9.jpg",
+          "altText": "Bayeux Tapestry scene of Norman ships crossing the Channel carrying men and horses",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:France-000687_-_Tapestry_-_38-39_(14994772181)_(cropped).jpg",
+          "creator": "Dennis G. Jarvis",
+          "attribution": "Dennis G. Jarvis, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-aerial-circumnavigation-completed-1924",
@@ -1503,7 +1539,19 @@
           "url": "https://www.af.mil/About-Us/Biographies/Display/Article/2143039/brigadier-general-erik-henning-nelson/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-aerial-circumnavigation-completed-1924/2daebad93026a8b035e7a9ffaf64f937b24c760ea941b504bbc1c897b19e9d3c.jpg",
+          "altText": "Three Douglas World Cruiser seaplanes resting on a beach in Alaska during the 1924 world flight",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Douglas_World_Cruiser_aircraft_on_beach.jpg",
+          "creator": "Joseph Baillargeon Douglas World Cruisers Photograph Collection, The Museum of Flight",
+          "attribution": "Joseph Baillargeon Douglas World Cruisers Photograph Collection, The Museum of Flight, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cern-founded-1954",
@@ -1521,7 +1569,19 @@
           "url": "https://timeline.web.cern.ch/cern-exists"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cern-founded-1954/b9004b6f71690cedbe8065ea839f84c9699cf8012ad92925466cda2c493ad047.jpg",
+          "altText": "Construction site of CERN's first accelerator, the Synchro-Cyclotron, in the 1950s",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Synchro-Cyclotron_Construction.jpg",
+          "creator": "CERN Photolab",
+          "attribution": "CERN Photolab, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "discovery-return-to-flight-1988",
@@ -1539,7 +1599,19 @@
           "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/discovery-return-to-flight-1988/ad6894f4b7277a03e166a7f9976205a3fa0a389026e2642d8ce20cd1c196e4a4.jpg",
+          "altText": "Space Shuttle Discovery lifting off from Kennedy Space Center on the STS-26 mission",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Return_to_Flight_Launch_of_Discovery_-_GPN-2000-001871.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "botswana-independence-1966",
@@ -1557,7 +1629,19 @@
           "url": "https://botswanamission.ch/brief-history-2/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/botswana-independence-1966/145648fdbb2476e32630106ab90285dab2bf2981e359741c8281013af47fe75b.jpg",
+          "altText": "Portrait of Seretse Khama, Botswana's first president, in 1977",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seretse_Khama_1977.png",
+          "creator": "European Communities / Louis C. D. Joos",
+          "attribution": "European Communities / Louis C. D. Joos, via Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "rosetta-mission-ends-2016",
@@ -1575,7 +1659,19 @@
           "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/rosetta-mission-ends-2016/08cbf748d90f8200756b4e5d39364c9f2b7525c56d41b891e077455ec7cfa5df.jpg",
+          "altText": "Grey, two-lobed nucleus of Comet 67P photographed by the Rosetta spacecraft",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Comet_67P_True_color.jpg",
+          "creator": "ESA/Rosetta/MPS for OSIRIS Team",
+          "attribution": "ESA/Rosetta/MPS for OSIRIS Team, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cia-established-1947",
@@ -1925,7 +2021,19 @@
           "url": "https://www.jesuits.global/2021/09/26/on-27-september-1540-the-society-of-jesus-received-papal-approval/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/society-of-jesus-approved-1540/1f41a8a145fca5efaa9f9bcf09c811e43bec7458ceb89a120e133770aa42998c.jpg",
+          "altText": "Baroque fresco of Pope Paul III approving the rule of the Society of Jesus",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regimini_militantis_Ecclesiae.jpg",
+          "creator": "Johann Christoph Handke (fresco); photo by Michal Maňas",
+          "attribution": "Johann Christoph Handke (fresco); photo by Michal Maňas, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "tripartite-pact-signed-1940",
@@ -1943,7 +2051,19 @@
           "url": "https://history.state.gov/historicaldocuments/frus1931-41v02/d100"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/tripartite-pact-signed-1940/a565b4026b0ef828d0b797d1422f15b1cdf9a442e0b897b2e15d7fc42717f7db.jpg",
+          "altText": "Diplomats seated at a table during the signing of the Tripartite Pact in Berlin, 1940",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unterzeichnung_des_Dreim%C3%A4chtepakts_1940.jpg",
+          "creator": "National Digital Archives, Poland",
+          "attribution": "National Digital Archives, Poland, via Wikimedia Commons (CC0)",
+          "license": "CC0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cabrillo-enters-san-diego-bay-1542",
@@ -1961,7 +2081,19 @@
           "url": "https://www.nps.gov/articles/cabrillo.htm"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cabrillo-enters-san-diego-bay-1542/e2d901bca066d84def5a139f474b38298e2ee94d7444f288a1fc79aa095a1af7.jpg",
+          "altText": "Stone statue of Juan Rodríguez Cabrillo at Cabrillo National Monument on Point Loma",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Statue_of_Juan_Rodr%C3%ADguez_Cabrillo.jpg",
+          "creator": "Bernard Gagnon",
+          "attribution": "Bernard Gagnon, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "siege-of-yorktown-begins-1781",
@@ -1979,7 +2111,19 @@
           "url": "https://www.nps.gov/york/learn/historyculture/history-of-the-siege.htm"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/siege-of-yorktown-begins-1781/46ad86851014ce9d89e1592e6ea436f686a5be3df525fe5757463d1059c0c74d.jpg",
+          "altText": "Painting of Rochambeau and Washington directing French and American troops at Yorktown",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Si%C3%A8ge_de_Yorktown,_17_octobre_1781.png",
+          "creator": "Auguste Couder",
+          "attribution": "Auguste Couder, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "john-paul-ii-arrives-ireland-1979",
@@ -1997,7 +2141,19 @@
           "url": "https://www.vatican.va/content/john-paul-ii/en/speeches/1979/september/documents/hf_jp-ii_spe_19790929_irlanda-dublino-presidente.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/john-paul-ii-arrives-ireland-1979/c58ed3154d9650f9d3886d7d6283c375b715fb18ecdeb40df30d4d8d30b06a35.jpg",
+          "altText": "The tall white Papal Cross in Dublin's Phoenix Park, erected for John Paul II's 1979 Mass",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Papal_Cross,_Phoenix_Park_-_May_1994_-_geograph.org.uk_-_6739837.jpg",
+          "creator": "Jeff Buck",
+          "attribution": "Jeff Buck, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "babyn-yar-massacre-begins-1941",
@@ -2015,7 +2171,19 @@
           "url": "https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/babyn-yar-massacre-begins-1941/22096ee14b9222fca80b2d4eea85b4f578c7f28cb8cc0df7a06302455e64305e.jpg",
+          "altText": "The bronze Menorah memorial to the Jewish victims of Babyn Yar in Kyiv",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%B0%D0%BC%27%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%C2%AB%D0%9C%D0%B5%D0%BD%D0%BE%D1%80%D0%B0%C2%BB_(1).jpg",
+          "creator": "Dmitri Semenovsky",
+          "attribution": "Dmitri Semenovsky, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "berlin-airlift-last-flight-1949",
@@ -2037,7 +2205,19 @@
           "url": "https://www.alliiertenmuseum.de/en/thema/the-berlin-airlift-1948-49/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/berlin-airlift-last-flight-1949/1ef551dadd2c8acff2834b6630b634a4712a4e48700f664d10fad7230b262c8d.jpg",
+          "altText": "Berliners on a rubble mound watching a C-54 transport land at Tempelhof during the airlift",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:C-54_landing_at_Tempelhof_(cropped).jpg",
+          "creator": "Henry Ries / USAF",
+          "attribution": "Henry Ries / USAF, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "munich-agreement-signed-1938",
@@ -2055,7 +2235,19 @@
           "url": "https://encyclopedia.ushmm.org/content/en/timeline-event/holocaust/1933-1938/munich-agreement"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/munich-agreement-signed-1938/bd2c117df9b733a080840512caa427da106a18fb7509b330df902a3632b05a47.jpg",
+          "altText": "Neville Chamberlain holding up the Munich agreement paper on his return to Britain",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:MunichAgreement.jpg",
+          "creator": "Ministry of Information official photographer",
+          "attribution": "Ministry of Information official photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "nasa-begins-operations-1958",
@@ -2073,7 +2265,19 @@
           "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nasa-begins-operations-1958/c31e3bc052f402e490635c2ebbe327a298b66af8995e158eb935206769543805.jpg",
+          "altText": "President Eisenhower with NASA's first leaders, T. Keith Glennan and Hugh Dryden",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Eisenhower_with_Dryden_and_Glennan_(18017930243).jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (No restrictions)",
+          "license": "No restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "nigeria-independence-1960",
@@ -2091,7 +2295,19 @@
           "url": "https://fmino.gov.ng/1st-october-nigerias-history/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nigeria-independence-1960/36c6a53142cf763b2dfbbd8758ac2be7a3537c416b87fa30fe50ee6250e99618.jpg",
+          "altText": "Princess Alexandra, Governor-General Robertson and Prime Minister Balewa at Nigeria's independence ceremony in Lagos, 1960",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ASC_Leiden_-_NSAG_-_Crebolder_2_-_40_-_Independence_ceremony._Robertson_GG,_Princess_Alexandra,_Abubakar_Tafawa_Balewa,_President_-_Lagos,_Nigeria_-_October_1,_1960.tif",
+          "creator": "H.F.J.M. Crebolder",
+          "attribution": "H.F.J.M. Crebolder, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "peoples-republic-china-proclaimed-1949",
@@ -2109,7 +2325,19 @@
           "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/peoples-republic-china-proclaimed-1949/ad0b7a5c211d01f30d8d5c8db7a59742d804adb0e46455a5d0f2ac79ea1da73d.jpg",
+          "altText": "Mao Zedong smiling at the Tiananmen rostrum during the founding ceremony of the People's Republic of China, 1949",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mao_Zedong_in_1949.png",
+          "creator": null,
+          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "tuvalu-independence-1978",
@@ -2127,7 +2355,19 @@
           "url": "https://psc.gov.tv/wp-content/uploads/2024/06/tuvalu.pdf"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/tuvalu-independence-1978/cfc4890d12ab0d38f717165a52fd25ff52027ae309be1084c4e31521c57777f8.jpg",
+          "altText": "Satellite view of Funafuti Atoll, Tuvalu, a ring of narrow islands around a lagoon",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Funafuti_Atoll,_Tuvalu_(153047_-_funafuti_oli_20230928_lrg).jpg",
+          "creator": "NASA Earth Observatory (Wanmei Liang, Landsat data from USGS)",
+          "attribution": "NASA Earth Observatory (Wanmei Liang, Landsat data from USGS), via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     }
   ]
 }

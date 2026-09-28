@@ -15,3 +15,6 @@ __pycache__/
 crash.log
 *.tfvars
 !*.tfvars.example
+
+# Staged editorial image renditions (published to S3, never committed)
+/build/
