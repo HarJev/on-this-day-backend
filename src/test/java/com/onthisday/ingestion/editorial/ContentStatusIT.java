@@ -33,10 +33,7 @@ class ContentStatusIT {
 
   @Container
   static final PostgreSQLContainer<?> POSTGRES =
-      new PostgreSQLContainer<>("postgres:16-alpine")
-          .withDatabaseName("on_this_day")
-          .withUsername("on_this_day")
-          .withPassword("on_this_day");
+      new PostgreSQLContainer<>("postgres:16-alpine");
 
   private static DataSource dataSource;
   private static CuratedContent canonical;
