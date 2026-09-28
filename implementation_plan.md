@@ -296,6 +296,22 @@ These tasks implement the approved integrated daily-learning direction. They do
 not rewrite completed Q1-Q9 checkpoints or existing persisted Daily assignments.
 Implement and review them separately.
 
+## Status (checked against `main` on 2026-09-28)
+
+Tasks 1-16 and Q1-Q9 are complete. Deployment work (Lambda, API Gateway and
+database provisioning) is deferred until launch; local Docker PostgreSQL and
+SAM local are the working environment until then.
+
+| Task | Status | Evidence |
+| --- | --- | --- |
+| PA1 editorial status baseline | **Complete** | `ContentCoverageReportCommand` plus `ContentStatusCommand` (review counts, drafts, fingerprints, database drift, answer positions, featured images). Related-event coverage lands with PA2 |
+| PA2 event-question relations | Not started | |
+| PA3 date-linked Daily selection | Not started | Depends on PA2 |
+| PA4 recent content API | **Complete** | `GET /v1/days/recent`, PR #12. Returns featured events for up to 14 past days and skips uncovered dates |
+| PA5 scheduled notification delivery | Parked by owner | Needs a paid Apple Developer account for iOS push |
+| PA6 event image coverage | In progress | Pipeline in `docs/EVENT_IMAGE_PIPELINE.md` (PR #5); Sep 27-Oct 1 images live (PR #8) |
+| PA7 backend observability | Not started | |
+
 ## PA1: Editorial Quality And Content Status Baseline
 
 - **Goal:** Make draft, approved canonical, and imported database state

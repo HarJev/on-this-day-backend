@@ -65,7 +65,7 @@ class ProductionQuizContentIT {
     var collectionRepository = new JdbcQuizCollectionRepository(dataSource);
     var catalog =
         new QuizCatalogService(new JdbcQuizCatalogRepository(dataSource)).getCatalog();
-    assertEquals(150, catalog.mixed().publishedQuestionCount());
+    assertEquals(195, catalog.mixed().publishedQuestionCount());
     assertEquals(List.of(5, 10, 20), catalog.mixed().supportedQuestionCounts());
     assertEquals(9, catalog.collections().size());
 
@@ -123,12 +123,12 @@ class ProductionQuizContentIT {
 
   private static void assertPersistedRowCounts() throws SQLException {
     assertEquals(9, count("quiz_collection"));
-    assertEquals(150, count("quiz_question"));
-    assertEquals(189, count("quiz_source"));
-    assertEquals(494, count("quiz_option"));
-    assertEquals(56, count("quiz_ordering_item"));
-    assertEquals(21, count("quiz_image"));
-    assertEquals(228, count("quiz_question_collection"));
+    assertEquals(196, count("quiz_question"));
+    assertEquals(260, count("quiz_source"));
+    assertEquals(638, count("quiz_option"));
+    assertEquals(84, count("quiz_ordering_item"));
+    assertEquals(36, count("quiz_image"));
+    assertEquals(294, count("quiz_question_collection"));
     assertEquals(0, count("quiz_daily_challenge"));
   }
 

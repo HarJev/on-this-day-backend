@@ -143,6 +143,28 @@ mvn -B exec:java \
   -Dexec.args="content content/quizzes build/content-coverage.json editorial/batches/2026-09-example/batch.json"
 ```
 
+Then check editorial state and database drift. The status report counts
+ledger entries by review status, lists drafts still outside `content/`, lists
+canonical records without an approved ledger entry, records canonical content
+fingerprints, and summarizes authored correct-answer positions and featured
+days without an image. With the database variables set, it also compares every
+event, day, and question against the imported rows and lists `stale`
+(edited since import), `notImported`, and `onlyInDatabase` records. It is
+read-only and never approves, promotes, or imports anything.
+
+```sh
+DB_JDBC_URL=jdbc:postgresql://localhost:5432/on_this_day \
+DB_USER=on_this_day \
+DB_PASSWORD=on_this_day \
+JAVA_HOME=$(/usr/libexec/java_home -v 21) \
+mvn -B exec:java \
+  -Dexec.mainClass=com.onthisday.ingestion.editorial.ContentStatusCommand \
+  -Dexec.args="content content/quizzes editorial/batches build/content-status.json"
+```
+
+Leave out the three `DB_` variables to skip the database comparison. After an
+import, `database.inSync` should be `true`.
+
 Check the selected database rows:
 
 ```sh
