@@ -16,8 +16,12 @@ per-environment folders are deliberately deferred until a staging environment
 exists. `bootstrap/` stays separate so the identity that runs `prod/` cannot
 rewrite its own permissions.
 
-State is local and ignored by git until the owner approves a remote S3 state
-bucket (see `docs/PRODUCTION_DEPLOYMENT_PLAN.md`).
+State lives in HCP Terraform (free tier, organization `har-jev-org`,
+workspaces `on-this-day-bootstrap` and `on-this-day-prod`) with **local
+execution**: Terraform runs on the operator's machine with their own AWS
+credentials, and HCP only stores versioned, locked state. Run `terraform login`
+once per machine. An S3 state bucket was rejected because it is not guaranteed
+$0. Never commit state files.
 
 ## Order
 

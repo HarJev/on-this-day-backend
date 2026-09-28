@@ -1,5 +1,5 @@
 terraform {
-  required_version = ">= 1.8.0"
+  required_version = ">= 1.10.0"
 
   required_providers {
     aws = {
@@ -8,8 +8,16 @@ terraform {
     }
   }
 
-  # Local state until the owner approves a remote S3 state bucket. State and
-  # plan files are ignored by git.
+  # State lives in HCP Terraform (free tier) with local execution: plans and
+  # applies run on the operator's machine with their own AWS credentials, and
+  # HCP only stores versioned, locked state. Log in with `terraform login`.
+  cloud {
+    organization = "har-jev-org"
+
+    workspaces {
+      name = "on-this-day-prod"
+    }
+  }
 }
 
 provider "aws" {

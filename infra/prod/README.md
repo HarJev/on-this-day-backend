@@ -48,5 +48,5 @@ plan provides; Terraform ignores `web_acl_id` so later applies keep it.
 3. Confirm the distribution shows the Free plan and its web ACL, then publish
    objects. Use SSE-S3 only; SSE-KMS would add KMS charges.
 
-Terraform state stays local and out of git; creating a remote state bucket is
-a separate owner decision.
+Terraform state lives in the HCP Terraform workspace `on-this-day-prod`
+(see `infra/README.md`).
