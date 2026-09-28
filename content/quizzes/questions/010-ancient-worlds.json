@@ -33,7 +33,8 @@
       "correctOptionId": "vesuvius",
       "explanation": "Mount Vesuvius erupted in 79 CE and buried Pompeii under volcanic material, preserving much of the Roman city.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Pompeii", "url": "https://www.britannica.com/place/Pompeii"}],
-      "collectionIds": ["ancient-history", "ancient-rome"]
+      "collectionIds": ["ancient-history", "ancient-rome"],
+      "relatedEventIds": ["vesuvius-erupts-79"]
     },
     {
       "id": "western-roman-language",

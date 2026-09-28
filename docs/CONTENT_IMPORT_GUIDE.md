@@ -94,8 +94,10 @@ operation; this guide does not authorize it.
 ## 4. Run Canonical Importers
 
 The historical and quiz importers are independent transactions. A failure in
-the second importer does not roll back a successful first import. Run and check
-both commands:
+the second importer does not roll back a successful first import. Run the historical
+importer first: quiz questions can link to events through `relatedEventIds`, and
+the quiz import stops, listing each missing ID, if a linked event is not in the
+database yet. Run and check both commands:
 
 ```sh
 JAVA_HOME=$(/usr/libexec/java_home -v 21) \

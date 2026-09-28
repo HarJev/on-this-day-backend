@@ -466,7 +466,9 @@ It contains `collections.json` and a `questions/` directory with six regular
 `*.json` question packs. The reader continues to accept a missing or empty
 question directory for tests and tooling, with a no-published-questions warning.
 
-After starting Postgres and running Flyway migrations, import quiz content with:
+After starting Postgres, running Flyway migrations, and importing historical
+events (quiz questions can link to events, so events go first), import quiz
+content with:
 
 ```bash
 mvn exec:java \
