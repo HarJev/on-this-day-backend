@@ -1,0 +1,706 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "identify-ada-lovelace",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which mathematician, known for her notes on a proposed calculating engine, is shown in this watercolour portrait?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-ada-lovelace/c10dc683441fcdc9c2e190eef1b46ccc9c7037e91ce603ecb6bcaa7eaae8e053.jpg",
+        "altText": "Watercolour portrait of a young woman in a lilac gown and black lace shawl, holding a closed fan",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg",
+        "attribution": "Watercolour by Alfred Edward Chalon, c. 1840 (Science Museum Group)",
+        "creator": "Alfred Edward Chalon",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "ada-lovelace",
+          "text": "Ada Lovelace"
+        },
+        {
+          "id": "mary-somerville",
+          "text": "Mary Somerville"
+        },
+        {
+          "id": "caroline-herschel",
+          "text": "Caroline Herschel"
+        },
+        {
+          "id": "sophie-germain",
+          "text": "Sophie Germain"
+        }
+      ],
+      "correctOptionId": "ada-lovelace",
+      "explanation": "Alfred Edward Chalon's portrait shows Ada Lovelace, daughter of Lord Byron, whose 1843 notes on Charles Babbage's Analytical Engine described how it could be programmed to compute Bernoulli numbers.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ada Lovelace",
+          "url": "https://www.britannica.com/biography/Ada-Lovelace"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "identify-simon-bolivar",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which leader of South American independence appears in this 1895 portrait?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-simon-bolivar/2fef5320fb3a3b72d5be51f27c25a9fc2bdf5dbefdd1a79c9a8289e38763ce2a.jpg",
+        "altText": "Full-length painted portrait of a man in a dark military coat with gold embroidery and white breeches, standing beside a desk",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sim%C3%B3n_Bol%C3%ADvar_by_Arturo_Michelena.jpg",
+        "attribution": "Painting by Arturo Michelena, 1895; photograph by Wilfredor",
+        "creator": "Arturo Michelena",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "simon-bolivar",
+          "text": "Simón Bolívar"
+        },
+        {
+          "id": "jose-de-san-martin",
+          "text": "José de San Martín"
+        },
+        {
+          "id": "bernardo-ohiggins",
+          "text": "Bernardo O'Higgins"
+        },
+        {
+          "id": "antonio-jose-de-sucre",
+          "text": "Antonio José de Sucre"
+        }
+      ],
+      "correctOptionId": "simon-bolivar",
+      "explanation": "Arturo Michelena's portrait shows Simón Bolívar, the Venezuelan soldier and statesman called the Liberator, who led revolutions against Spanish rule and was president of Gran Colombia from 1819 to 1830.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Simón Bolívar",
+          "url": "https://www.britannica.com/biography/Simon-Bolivar"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-albert-einstein",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which physicist is shown in this 1921 photograph?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-albert-einstein/be0399613bd8413dd8a01d6933f7f2ed8442fe89088c1d6c318783158eb4fe98.jpg",
+        "altText": "Black-and-white photograph of a man with a moustache and unruly hair, wearing a dark suit, standing before a chalkboard",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_1921_portrait2.jpg",
+        "attribution": "Photograph by Ferdinand Schmutzer, Vienna, 1921",
+        "creator": "Ferdinand Schmutzer",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "albert-einstein",
+          "text": "Albert Einstein"
+        },
+        {
+          "id": "niels-bohr",
+          "text": "Niels Bohr"
+        },
+        {
+          "id": "max-planck",
+          "text": "Max Planck"
+        },
+        {
+          "id": "erwin-schrodinger",
+          "text": "Erwin Schrödinger"
+        }
+      ],
+      "correctOptionId": "albert-einstein",
+      "explanation": "Ferdinand Schmutzer photographed Albert Einstein in 1921, the year for which Einstein received the Nobel Prize for Physics for his explanation of the photoelectric effect.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Albert Einstein",
+          "url": "https://www.britannica.com/biography/Albert-Einstein"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "identify-taj-mahal",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which white marble mausoleum is shown here?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-taj-mahal/32af844f66d0932db9b145718134e926d473023f0415b39f7d67f752bceaf0f8.jpg",
+        "altText": "White marble domed building with four slender minarets, reflected in a long garden pool lined with cypress trees",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+        "attribution": "Photo by Yann, edited by King of Hearts",
+        "creator": "Yann; edited by King of Hearts",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {
+          "id": "taj-mahal",
+          "text": "Taj Mahal"
+        },
+        {
+          "id": "humayuns-tomb",
+          "text": "Humayun's Tomb"
+        },
+        {
+          "id": "bibi-ka-maqbara",
+          "text": "Bibi Ka Maqbara"
+        },
+        {
+          "id": "gol-gumbaz",
+          "text": "Gol Gumbaz"
+        }
+      ],
+      "correctOptionId": "taj-mahal",
+      "explanation": "The Taj Mahal in Agra was built between 1631 and 1648 on the orders of the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+      "sources": [
+        {
+          "displayName": "UNESCO World Heritage Centre - Taj Mahal",
+          "url": "https://whc.unesco.org/en/list/252/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-petra-treasury",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which ancient caravan city was this facade carved into a cliff?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-petra-treasury/ecd6847fb150ad653f6d6521850fa469d6f10f17fa89ef02e47bf8a9b6192834.jpg",
+        "altText": "Columned classical facade carved directly into a rose-coloured cliff, with camels resting on the sand in front",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Khazneh_Petra_edit_2.jpg",
+        "attribution": "Photo by Graham Racher, edited by MrPanyGoff",
+        "creator": "Graham Racher; derivative work by MrPanyGoff",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/"
+      },
+      "options": [
+        {
+          "id": "petra",
+          "text": "Petra"
+        },
+        {
+          "id": "palmyra",
+          "text": "Palmyra"
+        },
+        {
+          "id": "persepolis",
+          "text": "Persepolis"
+        },
+        {
+          "id": "baalbek",
+          "text": "Baalbek"
+        }
+      ],
+      "correctOptionId": "petra",
+      "explanation": "The facade known as the Khazneh, or Treasury, is one of the rock-cut temple-tombs of Petra, the Nabataean caravan city between the Red Sea and the Dead Sea.",
+      "sources": [
+        {
+          "displayName": "UNESCO World Heritage Centre - Petra",
+          "url": "https://whc.unesco.org/en/list/326/"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "identify-rosetta-stone",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which inscribed stone slab is shown here?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-rosetta-stone/02227070d11557b6bd8f4651631e37b623a22639fdf489545cacd490bec5e5e4.jpg",
+        "altText": "Dark stone slab with a broken upper edge, covered in closely spaced lines of carved text, lit against a black background",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+        "attribution": "Photo by Hans Hillewaert",
+        "creator": "Hans Hillewaert",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {
+          "id": "rosetta-stone",
+          "text": "Rosetta Stone"
+        },
+        {
+          "id": "mesha-stele",
+          "text": "Mesha Stele"
+        },
+        {
+          "id": "palermo-stone",
+          "text": "Palermo Stone"
+        },
+        {
+          "id": "stele-of-hammurabi",
+          "text": "Stele of Hammurabi"
+        }
+      ],
+      "correctOptionId": "rosetta-stone",
+      "explanation": "The Rosetta Stone, carved in 196 BC and found at el-Rashid (Rosetta) in Egypt, records a priestly decree for Ptolemy V in three scripts: hieroglyphic, Demotic and Greek.",
+      "sources": [
+        {
+          "displayName": "British Museum - The Rosetta Stone",
+          "url": "https://www.britishmuseum.org/collection/object/Y_EA24"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ]
+    },
+    {
+      "id": "identify-hagia-sophia",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which domed monument, completed in 537 CE, is shown here?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-hagia-sophia/7243d07ffb7c05e257fc34f6d26a08049d1141e847daa088bea2e83a125f2589.jpg",
+        "altText": "Large domed building of pink-washed stone with four tall minarets, seen from above against a clear sky",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+        "attribution": "Photo by Arild Vågen",
+        "creator": "Arild Vågen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "options": [
+        {
+          "id": "hagia-sophia",
+          "text": "Hagia Sophia"
+        },
+        {
+          "id": "sultan-ahmed-mosque",
+          "text": "Sultan Ahmed Mosque"
+        },
+        {
+          "id": "suleymaniye-mosque",
+          "text": "Süleymaniye Mosque"
+        },
+        {
+          "id": "dome-of-the-rock",
+          "text": "Dome of the Rock"
+        }
+      ],
+      "correctOptionId": "hagia-sophia",
+      "explanation": "Hagia Sophia in Istanbul was built as a church between 532 and 537 CE under the Byzantine emperor Justinian I; it later became a mosque, a museum and, since 2020, a mosque again.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Hagia Sophia",
+          "url": "https://www.britannica.com/topic/Hagia-Sophia"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-rapa-nui-moai",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "On which Pacific island were these stone figures carved?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-rapa-nui-moai/237db1d298daf83e082ab4b180bcbdc123ed39bbf7fdaece77e8ab6839666244.jpg",
+        "altText": "A row of large carved stone figures standing on a stone platform under a blue sky with white clouds",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki.jpg",
+        "attribution": "Photo by Rivi",
+        "creator": "Rivi",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      },
+      "options": [
+        {
+          "id": "rapa-nui",
+          "text": "Rapa Nui (Easter Island)"
+        },
+        {
+          "id": "tahiti",
+          "text": "Tahiti"
+        },
+        {
+          "id": "tongatapu",
+          "text": "Tongatapu"
+        },
+        {
+          "id": "upolu",
+          "text": "Upolu"
+        }
+      ],
+      "correctOptionId": "rapa-nui",
+      "explanation": "These moai stand at Ahu Tongariki on Rapa Nui (Easter Island), where Polynesian settlers set colossal carved statues representing ancestors on ceremonial platforms called ahu.",
+      "sources": [
+        {
+          "displayName": "UNESCO World Heritage Centre - Rapa Nui National Park",
+          "url": "https://whc.unesco.org/en/list/715/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-great-zimbabwe",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which southern African stone city is shown in this aerial view?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-great-zimbabwe/9be4a6ede3979546e622984dea78c95b674cf6af6bd8ae1c380533c5fb7b122f.jpg",
+        "altText": "Aerial view of a large oval drystone enclosure among the remains of stone walls in dry scrubland",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG",
+        "attribution": "Photo by Janice Bell",
+        "creator": "Janice Bell",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {
+          "id": "great-zimbabwe",
+          "text": "Great Zimbabwe"
+        },
+        {
+          "id": "mapungubwe",
+          "text": "Mapungubwe"
+        },
+        {
+          "id": "khami",
+          "text": "Khami"
+        },
+        {
+          "id": "thulamela",
+          "text": "Thulamela"
+        }
+      ],
+      "correctOptionId": "great-zimbabwe",
+      "explanation": "Great Zimbabwe, built between about 1100 and 1450, is a testimony to the Shona civilization; the oval Great Enclosure is one of its three main groups of ruins.",
+      "sources": [
+        {
+          "displayName": "UNESCO World Heritage Centre - Great Zimbabwe National Monument",
+          "url": "https://whc.unesco.org/en/list/364/"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-angkor-wat",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which temple complex is shown reflected in this pool?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-angkor-wat/dfc0bfecae511478a65fd46ece1997483207fbc1af328f4b871d4a2a42ccd671.jpg",
+        "altText": "Stone temple with five lotus-shaped towers behind palm trees, mirrored in a still pool of water",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg",
+        "attribution": "Photo by Satdeep Gill",
+        "creator": "Satdeep Gill",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      },
+      "options": [
+        {
+          "id": "angkor-wat",
+          "text": "Angkor Wat"
+        },
+        {
+          "id": "borobudur",
+          "text": "Borobudur"
+        },
+        {
+          "id": "prambanan",
+          "text": "Prambanan"
+        },
+        {
+          "id": "wat-arun",
+          "text": "Wat Arun"
+        }
+      ],
+      "correctOptionId": "angkor-wat",
+      "explanation": "Angkor Wat stands in the Angkor Archaeological Park in Cambodia, which holds the remains of the capitals of the Khmer Empire from the 9th to the 15th century.",
+      "sources": [
+        {
+          "displayName": "UNESCO World Heritage Centre - Angkor",
+          "url": "https://whc.unesco.org/en/list/668/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "identify-napoleon-bonaparte",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which ruler did Jacques-Louis David paint at work in his study in 1812?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-napoleon-bonaparte/01e26b37ba4f32d3085cbee27cf6db5706972ff36608ef8c232a64dbe6eb7c08.jpg",
+        "altText": "Full-length painted portrait of a man in a dark blue uniform and white breeches, standing beside a desk and a tall clock",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+        "attribution": "Painting by Jacques-Louis David, 1812 (National Gallery of Art, Washington)",
+        "creator": "Jacques-Louis David",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "napoleon-bonaparte",
+          "text": "Napoleon Bonaparte"
+        },
+        {
+          "id": "louis-xviii",
+          "text": "Louis XVIII"
+        },
+        {
+          "id": "charles-x",
+          "text": "Charles X"
+        },
+        {
+          "id": "louis-philippe",
+          "text": "Louis-Philippe"
+        }
+      ],
+      "correctOptionId": "napoleon-bonaparte",
+      "explanation": "David's 1812 portrait shows Napoleon Bonaparte after a night spent drafting the Napoleonic Code, France's first civil law code.",
+      "sources": [
+        {
+          "displayName": "National Gallery of Art - The Emperor Napoleon in His Study at the Tuileries",
+          "url": "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-martin-luther-king-jr",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which civil rights leader is shown at this 1964 press conference?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-martin-luther-king-jr/e80e7a724794289a569cf864acea57cd429f58a1f266458c0e4b3a46f921fe05.jpg",
+        "altText": "Black-and-white photograph of a man in a dark suit and tie leaning on a lectern with his hands folded",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_press_conference_01269u_edit.jpg",
+        "attribution": "Photograph by Marion S. Trikosko, U.S. News & World Report (Library of Congress)",
+        "creator": "Marion S. Trikosko",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "martin-luther-king-jr",
+          "text": "Martin Luther King Jr."
+        },
+        {
+          "id": "malcolm-x",
+          "text": "Malcolm X"
+        },
+        {
+          "id": "john-lewis",
+          "text": "John Lewis"
+        },
+        {
+          "id": "ralph-abernathy",
+          "text": "Ralph Abernathy"
+        }
+      ],
+      "correctOptionId": "martin-luther-king-jr",
+      "explanation": "Marion S. Trikosko photographed Martin Luther King Jr. in March 1964, the year King received the Nobel Peace Prize for leading the nonviolent US civil rights movement.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Martin Luther King, Jr.",
+          "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "identify-wright-first-flight",
+      "type": "image_identification",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which aviation milestone does this photograph record?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-wright-first-flight/2aee909514ca7ebdd8486c34638102e5cd814a7cb4606234c4223244410151d2.jpg",
+        "altText": "Black-and-white photograph of an early biplane lifting off a flat sandy field as a man watches from one side",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+        "attribution": "Photograph by John T. Daniels (Library of Congress)",
+        "creator": "John T. Daniels",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "wright-first-flight",
+          "text": "The Wright brothers' first powered flight"
+        },
+        {
+          "id": "bleriot-channel",
+          "text": "Louis Blériot's English Channel crossing"
+        },
+        {
+          "id": "santos-dumont-14-bis",
+          "text": "Alberto Santos-Dumont's 14-bis flight in Paris"
+        },
+        {
+          "id": "lilienthal-glider",
+          "text": "Otto Lilienthal's glider trials"
+        }
+      ],
+      "correctOptionId": "wright-first-flight",
+      "explanation": "John T. Daniels photographed the Wright Flyer's first flight at Kitty Hawk, North Carolina, on 17 December 1903: a 12-second, 36-metre flight with Orville Wright piloting.",
+      "sources": [
+        {
+          "displayName": "Smithsonian National Air and Space Museum - 1903 Wright Flyer",
+          "url": "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "identify-apollo-11-moon-photo",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "During which mission was this photograph of an astronaut on the Moon taken?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-apollo-11-moon-photo/ca69702db5d18f820476a7f3dfa164c1d55fd1cbcde589d18699e55a55a562ae.jpg",
+        "altText": "An astronaut in a white spacesuit stands on grey lunar soil, with the photographer reflected in the gold visor",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg",
+        "attribution": "Photograph by Neil Armstrong, NASA (AS11-40-5903)",
+        "creator": "Neil Armstrong (NASA)",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "apollo-11",
+          "text": "Apollo 11"
+        },
+        {
+          "id": "apollo-12",
+          "text": "Apollo 12"
+        },
+        {
+          "id": "apollo-15",
+          "text": "Apollo 15"
+        },
+        {
+          "id": "apollo-17",
+          "text": "Apollo 17"
+        }
+      ],
+      "correctOptionId": "apollo-11",
+      "explanation": "Neil Armstrong took this photograph of Buzz Aldrin on 20 July 1969 during Apollo 11, the mission that made Armstrong the first human to set foot on the Moon.",
+      "sources": [
+        {
+          "displayName": "NASA Image and Video Library - AS11-40-5903",
+          "url": "https://images.nasa.gov/details/as11-40-5903"
+        },
+        {
+          "displayName": "NASA - Apollo 11",
+          "url": "https://www.nasa.gov/mission/apollo-11/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "identify-mansa-musa-catalan-atlas",
+      "type": "image_identification",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which West African ruler is shown holding gold on this map drawn in 1375?",
+      "image": {
+        "url": "https://d2v6di8uk52rif.cloudfront.net/quiz-images/identify-mansa-musa-catalan-atlas/686eb9ea300bc057f753cb1b742095fdd4efbccbb544ac836dcfc131403efbdf.jpg",
+        "altText": "Painted map detail of a crowned, bearded ruler seated on a throne, holding a gold disc and a sceptre",
+        "source": "Wikimedia Commons",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+        "attribution": "Catalan Atlas, attributed to Abraham Cresques, 1375 (Bibliothèque nationale de France)",
+        "creator": "Attributed to Abraham Cresques",
+        "license": "Public Domain Mark 1.0",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      },
+      "options": [
+        {
+          "id": "mansa-musa",
+          "text": "Mansa Musa"
+        },
+        {
+          "id": "sundiata-keita",
+          "text": "Sundiata Keita"
+        },
+        {
+          "id": "askia-muhammad",
+          "text": "Askia Muhammad"
+        },
+        {
+          "id": "sunni-ali",
+          "text": "Sunni Ali"
+        }
+      ],
+      "correctOptionId": "mansa-musa",
+      "explanation": "This detail of the Catalan Atlas shows Mansa Musa of Mali, whose 1324 pilgrimage to Mecca made the empire's gold famous in the Middle East and Europe.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Mūsā I of Mali",
+          "url": "https://www.britannica.com/biography/Musa-I-of-Mali"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "exploration-and-exchange"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-image-identification",
+  "candidates": [
+    {
+      "candidateId": "identify-ada-lovelace",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-ada-lovelace",
+      "workingClaim": "Which mathematician, known for her notes on a proposed calculating engine, is shown in this watercolour portrait? Answer: Ada Lovelace",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ada-Lovelace",
+        "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-simon-bolivar",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-simon-bolivar",
+      "workingClaim": "Which leader of South American independence appears in this 1895 portrait? Answer: Simón Bolívar",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Simon-Bolivar",
+        "https://commons.wikimedia.org/wiki/File:Portrait_of_Sim%C3%B3n_Bol%C3%ADvar_by_Arturo_Michelena.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-albert-einstein",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-albert-einstein",
+      "workingClaim": "Which physicist is shown in this 1921 photograph? Answer: Albert Einstein",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Albert-Einstein",
+        "https://commons.wikimedia.org/wiki/File:Einstein_1921_portrait2.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-taj-mahal",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-taj-mahal",
+      "workingClaim": "Which white marble mausoleum is shown here? Answer: Taj Mahal",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/252/",
+        "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-petra-treasury",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-petra-treasury",
+      "workingClaim": "In which ancient caravan city was this facade carved into a cliff? Answer: Petra",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/326/",
+        "https://commons.wikimedia.org/wiki/File:Al_Khazneh_Petra_edit_2.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-rosetta-stone",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-rosetta-stone",
+      "workingClaim": "Which inscribed stone slab is shown here? Answer: Rosetta Stone",
+      "sourceUrls": [
+        "https://www.britishmuseum.org/collection/object/Y_EA24",
+        "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG"
+      ]
+    },
+    {
+      "candidateId": "identify-hagia-sophia",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-hagia-sophia",
+      "workingClaim": "Which domed monument, completed in 537 CE, is shown here? Answer: Hagia Sophia",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Hagia-Sophia",
+        "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-rapa-nui-moai",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-rapa-nui-moai",
+      "workingClaim": "On which Pacific island were these stone figures carved? Answer: Rapa Nui (Easter Island)",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/715/",
+        "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-great-zimbabwe",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-great-zimbabwe",
+      "workingClaim": "Which southern African stone city is shown in this aerial view? Answer: Great Zimbabwe",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/364/",
+        "https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG"
+      ]
+    },
+    {
+      "candidateId": "identify-angkor-wat",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-angkor-wat",
+      "workingClaim": "Which temple complex is shown reflected in this pool? Answer: Angkor Wat",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/668/",
+        "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-napoleon-bonaparte",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-napoleon-bonaparte",
+      "workingClaim": "Which ruler did Jacques-Louis David paint at work in his study in 1812? Answer: Napoleon Bonaparte",
+      "sourceUrls": [
+        "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries",
+        "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-martin-luther-king-jr",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-martin-luther-king-jr",
+      "workingClaim": "Which civil rights leader is shown at this 1964 press conference? Answer: Martin Luther King Jr.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+        "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_press_conference_01269u_edit.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-wright-first-flight",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-wright-first-flight",
+      "workingClaim": "Which aviation milestone does this photograph record? Answer: The Wright brothers' first powered flight",
+      "sourceUrls": [
+        "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000",
+        "https://commons.wikimedia.org/wiki/File:First_flight2.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-apollo-11-moon-photo",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-apollo-11-moon-photo",
+      "workingClaim": "During which mission was this photograph of an astronaut on the Moon taken? Answer: Apollo 11",
+      "sourceUrls": [
+        "https://images.nasa.gov/details/as11-40-5903",
+        "https://www.nasa.gov/mission/apollo-11/",
+        "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg"
+      ]
+    },
+    {
+      "candidateId": "identify-mansa-musa-catalan-atlas",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-mansa-musa-catalan-atlas",
+      "workingClaim": "Which West African ruler is shown holding gold on this map drawn in 1375? Answer: Mansa Musa",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Musa-I-of-Mali",
+        "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-image-identification",
+  "entries": [
+    {
+      "candidateId": "identify-ada-lovelace",
+      "canonicalId": "identify-ada-lovelace",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ada-Lovelace",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: English mathematician, associate of Charles Babbage; daughter of Lord Byron; 1843 annotations described programming the Analytical Engine to compute Bernoulli numbers."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Alfred Edward Chalon). Original rendition downscaled to 712x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-simon-bolivar",
+      "canonicalId": "identify-simon-bolivar",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Simon-Bolivar",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: Venezuelan soldier and statesman, known as El Libertador; led revolutions against Spanish rule in New Granada; president of Gran Colombia 1819-30."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Portrait_of_Sim%C3%B3n_Bol%C3%ADvar_by_Arturo_Michelena.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Arturo Michelena). Original rendition downscaled to 514x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "south-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-albert-einstein",
+      "canonicalId": "identify-albert-einstein",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Albert-Einstein",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: developed special and general relativity; won the Nobel Prize for Physics in 1921 for his explanation of the photoelectric effect."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Einstein_1921_portrait2.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Ferdinand Schmutzer). Original rendition downscaled to 820x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-taj-mahal",
+      "canonicalId": "identify-taj-mahal",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/252/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNESCO: immense white marble mausoleum built in Agra between 1631 and 1648 by order of Mughal emperor Shah Jahan in memory of his wife (Mumtaz Mahal)."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal,_Agra,_India_edit2.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 4.0 (Yann; edited by King of Hearts). Original rendition downscaled to 1024x673, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-petra-treasury",
+      "canonicalId": "identify-petra-treasury",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/326/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNESCO: Nabataean caravan-city between the Red Sea and the Dead Sea, half-built, half-carved into the rock; rock-cut temple/tombs include the Khasneh."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Al_Khazneh_Petra_edit_2.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 2.0 (Graham Racher; derivative work by MrPanyGoff). Original rendition downscaled to 613x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-rosetta-stone",
+      "canonicalId": "identify-rosetta-stone",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britishmuseum.org/collection/object/Y_EA24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "British Museum EA24: granodiorite stela bearing priestly decree concerning Ptolemy V in hieroglyphic, Demotic and Greek; from Fort St Julien, el-Rashid (Rosetta), Egypt; 196 BC."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 4.0 (Hans Hillewaert). Original rendition downscaled to 875x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-africa"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-hagia-sophia",
+      "canonicalId": "identify-hagia-sophia",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Hagia-Sophia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: built as an Eastern Orthodox church 532-537 CE under Justinian I; later cathedral, church, mosque (1453-1935), museum (1935-2020), mosque (2020-present)."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 3.0 (Arild Vågen). Original rendition downscaled to 1024x683, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-rapa-nui-moai",
+      "canonicalId": "identify-rapa-nui-moai",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/715/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNESCO: Rapa Nui, indigenous name of Easter Island; settlers from Eastern Polynesia built ahu (ceremonial platforms) and carved moai (colossal statues) representing ancestors."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Ahu_Tongariki.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 3.0 (Rivi). Original rendition downscaled to 1024x681, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-great-zimbabwe",
+      "canonicalId": "identify-great-zimbabwe",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/364/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNESCO: testimony to the Bantu civilization of the Shona between the 11th and 15th centuries; built 1100-1450 AD; divided into the Hill Ruins, the Great Enclosure and the Valley Ruins."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 4.0 (Janice Bell). Original rendition downscaled to 1024x680, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "southern-africa"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-angkor-wat",
+      "canonicalId": "identify-angkor-wat",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/668/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNESCO: Angkor Archaeological Park contains remains of the capitals of the Khmer Empire from the 9th to the 15th century, including the famous Temple of Angkor Wat."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Angkor_Wat_with_its_reflection_(cropped).jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: CC BY-SA 4.0 (Satdeep Gill). Original rendition downscaled to 1024x516, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-napoleon-bonaparte",
+      "canonicalId": "identify-napoleon-bonaparte",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "NGA: 1812, Jacques-Louis David; shows Napoleon Bonaparte, who has spent the night drafting the Napoleonic Code, France's first civil law code; media is public domain."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Jacques-Louis David). Original rendition downscaled to 614x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-martin-luther-king-jr",
+      "canonicalId": "identify-martin-luther-king-jr",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: led the US civil rights movement from the mid-1950s until 1968, promoting nonviolent tactics; awarded the Nobel Peace Prize in 1964."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_press_conference_01269u_edit.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Marion S. Trikosko). Original rendition downscaled to 688x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-wright-first-flight",
+      "canonicalId": "identify-wright-first-flight",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "NASM: first powered airplane flew at Kitty Hawk, North Carolina, on December 17, 1903, a 12-second flight of 36 m (120 ft) with Orville piloting."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (John T. Daniels). Original rendition downscaled to 1024x663, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-apollo-11-moon-photo",
+      "canonicalId": "identify-apollo-11-moon-photo",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://images.nasa.gov/details/as11-40-5903",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "NASA AS11-40-5903 (20 July 1969): Aldrin walks on the lunar surface during the Apollo 11 EVA; Neil A. Armstrong took this photograph with a 70mm lunar surface camera."
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-11/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "NASA mission page: lunar landing; crew Armstrong, Aldrin, Collins; Armstrong the first human to set foot on the Moon."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Aldrin_Apollo_11_original.jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Neil Armstrong (NASA)). Original rendition downscaled to 1017x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "candidateId": "identify-mansa-musa-catalan-atlas",
+      "canonicalId": "identify-mansa-musa-catalan-atlas",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Musa-I-of-Mali",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: mansa of Mali from 1307 (or 1312); pilgrimage to Mecca in 1324 awakened the world to Mali's wealth, much of it gold; captions the Catalan Atlas (1375) detail of him on his throne."
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_(cropped).jpg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Commons file page: Public Domain (Attributed to Abraham Cresques). Original rendition downscaled to 897x1024, no crop or edit."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "west-africa"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted, source-checked in a real browser and image-rights-checked by Claude on 2026-09-28; owner delegated promotion approval on 2026-09-28. Image is served from the owned CDN once uploaded.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     {
       "candidateId": "john-paul-ii-first-non-italian",
       "canonicalId": "john-paul-ii-first-non-italian",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Saint-John-Paul-II",
@@ -22,12 +22,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "voskhod-1-multiperson-crew",
       "canonicalId": "voskhod-1-multiperson-crew",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/technology/Voskhod-spacecraft",
@@ -45,12 +47,14 @@
         "cold-war"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "tasman-reaches-tasmania",
       "canonicalId": "tasman-reaches-tasmania",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-24",
@@ -68,12 +72,14 @@
         "early-modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "persons-case-senate",
       "canonicalId": "persons-case-senate",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/",
@@ -90,12 +96,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "ferdinand-bulgarian-independence",
       "canonicalId": "ferdinand-bulgarian-independence",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
@@ -112,12 +120,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "napoleon-crowns-himself",
       "canonicalId": "napoleon-crowns-himself",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-2",
@@ -134,12 +144,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "chile-miners-days-underground",
       "canonicalId": "chile-miners-days-underground",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010",
@@ -156,12 +168,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "james-webb-telescope-launch",
       "canonicalId": "james-webb-telescope-launch",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-25",
@@ -178,12 +192,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "amsterdam-toll-privilege",
       "canonicalId": "amsterdam-toll-privilege",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
@@ -206,12 +222,14 @@
         "medieval"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "dessalines-vertieres",
       "canonicalId": "dessalines-vertieres",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-18",
@@ -228,12 +246,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "madero-mexican-revolution",
       "canonicalId": "madero-mexican-revolution",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-20",
@@ -250,12 +270,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "ley-juarez-special-courts",
       "canonicalId": "ley-juarez-special-courts",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-23",
@@ -272,12 +294,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "naismith-first-basketball",
       "canonicalId": "naismith-first-basketball",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-21",
@@ -294,12 +318,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "whaleship-essex-moby-dick",
       "canonicalId": "whaleship-essex-moby-dick",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-20",
@@ -317,12 +343,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "locarno-western-europe",
       "canonicalId": "locarno-western-europe",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-1",
@@ -339,12 +367,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "anglo-irish-treaty-free-state",
       "canonicalId": "anglo-irish-treaty-free-state",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-6",
@@ -361,12 +391,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "finland-independence-1917",
       "canonicalId": "finland-independence-1917",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-6",
@@ -383,12 +415,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "barnard-first-heart-transplant",
       "canonicalId": "barnard-first-heart-transplant",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-3",
@@ -405,12 +439,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "great-chicago-fire-duration",
       "canonicalId": "great-chicago-fire-duration",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chicago-fire-of-1871",
@@ -427,12 +463,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "amundsen-first-south-pole",
       "canonicalId": "amundsen-first-south-pole",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -450,12 +488,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "suez-canal-construction-decade",
       "canonicalId": "suez-canal-construction-decade",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-17",
@@ -472,12 +512,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "tehran-conference-big-three",
       "canonicalId": "tehran-conference-big-three",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-28",
@@ -495,12 +537,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "mozart-death-age",
       "canonicalId": "mozart-death-age",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-5",
@@ -517,12 +561,14 @@
         "early-modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "first-nobel-prizes-anniversary",
       "canonicalId": "first-nobel-prizes-anniversary",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-10",
@@ -540,12 +586,14 @@
         "modern"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-space-exploration-firsts",
       "canonicalId": "order-space-exploration-firsts",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1953-1960/sputnik",
@@ -581,12 +629,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-african-independence-1960s",
       "canonicalId": "order-african-independence-1960s",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-9",
@@ -623,12 +673,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-peace-treaties",
       "canonicalId": "order-peace-treaties",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Peace-of-Westphalia",
@@ -666,12 +718,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-science-discoveries",
       "canonicalId": "order-science-discoveries",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
@@ -708,12 +762,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-political-turning-points",
       "canonicalId": "order-political-turning-points",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
@@ -749,12 +805,14 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     },
     {
       "candidateId": "order-film-milestones",
       "canonicalId": "order-film-milestones",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
@@ -796,7 +854,9 @@
         "contemporary"
       ],
       "calendarDays": [],
-      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude in a real browser; links re-checked 2026-09-28 before promotion; owner delegated promotion approval on 2026-09-28.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-28"
     }
   ]
 }

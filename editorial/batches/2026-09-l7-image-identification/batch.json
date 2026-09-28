@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "batchId": "2026-09-l7-third-global-history",
+  "batchId": "2026-09-l7-image-identification",
   "candidateFile": "candidates.json",
   "reviewLedgerFile": "review-ledger.json",
   "eventIds": [],
   "monthDays": [],
   "quizPackFilenames": [
-    "questions/120-l7-third-global-history.json"
+    "questions/130-l7-image-identification.json"
   ]
 }

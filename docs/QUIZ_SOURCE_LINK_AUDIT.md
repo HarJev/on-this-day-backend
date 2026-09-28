@@ -91,6 +91,20 @@ ID for existing history, and replaced by `order-second-world-war-milestones`:
 
 The published total stays at 150.
 
+## Follow-up recheck (2026-09-28, packs 120 and 130)
+
+Rerun over 289 unique URLs after promoting pack 120 and adding the image pack
+130: no 404/410 responses. Every blocked URL cited by packs 120 and 130 was
+opened in a real browser and loaded the expected page. Of the two no-response
+rows, the IOC ancient Olympics page loads in a browser; the High Court Mabo
+PDF now returns "404 Not Found" there and was replaced:
+
+| Question(s) | Dead URL | Replacement (verified 2026-09-28) |
+| --- | --- | --- |
+| mabo-native-title-ruling | https://www.hcourt.gov.au/assets/publications/speeches/former-justices/gaudronj/gaudronj_mabo.pdf | [National Museum of Australia - Mabo decision](https://www.nma.gov.au/defining-moments/resources/mabo-decision) |
+
+The published total is now 195 (150 + 30 + 15).
+
 ## Rerunning
 
 ```sh
