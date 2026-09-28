@@ -1,6 +1,11 @@
 package com.onthisday.platform.lambda;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
+
+import ch.qos.logback.classic.Logger;
+import ch.qos.logback.classic.spi.ILoggingEvent;
+import ch.qos.logback.core.read.ListAppender;
 
 import com.amazonaws.services.lambda.runtime.events.APIGatewayV2HTTPEvent;
 import com.onthisday.content.ContentDate;
@@ -23,6 +28,7 @@ import java.time.ZoneOffset;
 import java.util.List;
 import java.util.Map;
 import org.junit.jupiter.api.Test;
+import org.slf4j.LoggerFactory;
 
 class ApiGatewayHttpHandlerTest {
 
@@ -168,6 +174,53 @@ class ApiGatewayHttpHandlerTest {
     assertEquals(500, response.getStatusCode());
     assertEquals(
         "{\"code\":\"internal_error\",\"message\":\"Internal server error.\"}", response.getBody());
+  }
+
+  @Test
+  void requestLogUsesRoutePatternAndNeverTheDeviceToken() {
+    var handler =
+        new ApiGatewayHttpHandler(
+            date -> {
+              throw new AssertionError("not called");
+            },
+            eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
+            Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
+    var logs = captureLogs();
+    try {
+      var response = handler.handleRequest(event("DELETE", "/v1/devices/secret-fcm-token-123"), null);
+      handler.handleRequest(event("GET", "/private-typo/secret-fcm-token-123"), null);
+
+      assertEquals(200, response.getStatusCode());
+      var lines = logs.list.stream().map(ILoggingEvent::getFormattedMessage).toList();
+      assertTrue(
+          lines.stream()
+              .anyMatch(line -> line.startsWith("api_request method=DELETE route=/v1/devices/{token} statusCode=200 outcome=ok ")));
+      assertTrue(lines.stream().anyMatch(line -> line.contains("route=unmatched statusCode=404 outcome=client_error")));
+      assertTrue(lines.stream().noneMatch(line -> line.contains("secret-fcm-token-123")));
+    } finally {
+      releaseLogs(logs);
+    }
+  }
+
+  @Test
+  void outcomeCategoriesAreStable() {
+    assertEquals("ok", ApiGatewayHttpHandler.outcome(200));
+    assertEquals("client_error", ApiGatewayHttpHandler.outcome(400));
+    assertEquals("unavailable", ApiGatewayHttpHandler.outcome(503));
+    assertEquals("server_error", ApiGatewayHttpHandler.outcome(500));
+  }
+
+  private static ListAppender<ILoggingEvent> captureLogs() {
+    var logger = (Logger) LoggerFactory.getLogger(ApiGatewayHttpHandler.class);
+    var appender = new ListAppender<ILoggingEvent>();
+    appender.start();
+    logger.addAppender(appender);
+    return appender;
+  }
+
+  private static void releaseLogs(ListAppender<ILoggingEvent> appender) {
+    ((Logger) LoggerFactory.getLogger(ApiGatewayHttpHandler.class)).detachAppender(appender);
   }
 
   private APIGatewayV2HTTPEvent event(String method, String path) {

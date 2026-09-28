@@ -75,25 +75,29 @@ public final class ApiGatewayHttpHandler
     return router;
   }
 
+  /**
+   * Logs one {@code api_request} line per invocation with the route pattern, never the raw path
+   * or query string, so device tokens and other caller-supplied values stay out of logs.
+   */
   @Override
   public APIGatewayV2HTTPResponse handleRequest(APIGatewayV2HTTPEvent event, Context context) {
     var startedAt = System.nanoTime();
     var method = method(event);
-    var path = path(event);
+    var route = "unmatched";
     var requestId = context == null ? "" : context.getAwsRequestId();
     var statusCode = 500;
-    LOG.info("lambda_request_start method={} path={} requestId={}", method, path, requestId);
 
     try {
       var request = requestAdapter.adapt(event);
+      route = router.routeLabel(request);
       var response = router.route(request);
       statusCode = response.statusCode();
       return responseAdapter.adapt(response);
     } catch (Exception exception) {
       LOG.error(
-          "lambda_unexpected_exception method={} path={} requestId={}",
+          "lambda_unexpected_exception method={} route={} requestId={}",
           method,
-          path,
+          route,
           requestId,
           exception);
       return responseAdapter.adapt(
@@ -101,13 +105,25 @@ public final class ApiGatewayHttpHandler
     } finally {
       var durationMs = (System.nanoTime() - startedAt) / 1_000_000;
       LOG.info(
-          "lambda_request_end method={} path={} requestId={} statusCode={} durationMs={}",
+          "api_request method={} route={} statusCode={} outcome={} durationMs={} requestId={}",
           method,
-          path,
-          requestId,
+          route,
           statusCode,
-          durationMs);
+          outcome(statusCode),
+          durationMs,
+          requestId);
     }
+  }
+
+  /** Coarse, stable categories for log-based alerting; 503 is the documented content-unavailable status. */
+  static String outcome(int statusCode) {
+    if (statusCode < 400) {
+      return "ok";
+    }
+    if (statusCode == 503) {
+      return "unavailable";
+    }
+    return statusCode < 500 ? "client_error" : "server_error";
   }
 
   private static String method(APIGatewayV2HTTPEvent event) {
@@ -115,8 +131,4 @@ public final class ApiGatewayHttpHandler
     return http == null || http.getMethod() == null ? "" : http.getMethod();
   }
 
-  private static String path(APIGatewayV2HTTPEvent event) {
-    var http = event == null || event.getRequestContext() == null ? null : event.getRequestContext().getHttp();
-    return http == null || http.getPath() == null ? "" : http.getPath();
-  }
 }
