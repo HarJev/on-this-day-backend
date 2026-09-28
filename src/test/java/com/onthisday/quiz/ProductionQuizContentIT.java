@@ -5,6 +5,9 @@ import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.onthisday.ingestion.CuratedContentImporter;
+import com.onthisday.ingestion.CuratedContentReader;
+import com.onthisday.ingestion.CuratedContentValidator;
 import com.onthisday.ingestion.quiz.QuizContentImporter;
 import com.onthisday.ingestion.quiz.QuizContentReader;
 import com.onthisday.ingestion.quiz.QuizContentValidator;
@@ -53,6 +56,9 @@ class ProductionQuizContentIT {
     dataSource = postgresDataSource;
     Flyway.configure().dataSource(dataSource).locations("classpath:db/migration").load().migrate();
 
+    // Quiz questions link to canonical events, so events import first, as in the real workflow.
+    new CuratedContentImporter(dataSource, new CuratedContentValidator())
+        .importContent(new CuratedContentReader(OBJECT_MAPPER).read(Path.of("content")));
     var content = new QuizContentReader(OBJECT_MAPPER).read(Path.of("content/quizzes"));
     new QuizContentImporter(dataSource, new QuizContentValidator(true)).importContent(content);
   }
@@ -130,6 +136,7 @@ class ProductionQuizContentIT {
     assertEquals(36, count("quiz_image"));
     assertEquals(294, count("quiz_question_collection"));
     assertEquals(0, count("quiz_daily_challenge"));
+    assertEquals(37, count("quiz_question_event"));
   }
 
   private static int count(String table) throws SQLException {

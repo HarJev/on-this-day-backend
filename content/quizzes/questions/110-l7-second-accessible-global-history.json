@@ -790,7 +790,8 @@
       "collectionIds": [
         "society-culture-and-ideas",
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["us-constitution-signed-1787"]
     },
     {
       "id": "order-modern-communication-milestones",

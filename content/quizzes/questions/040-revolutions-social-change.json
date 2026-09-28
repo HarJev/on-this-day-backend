@@ -50,7 +50,8 @@
       "correctOptionId": "french",
       "explanation": "France's National Assembly adopted the declaration in August 1789 during the opening phase of the French Revolution.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Declaration of the Rights of Man and of the Citizen", "url": "https://www.britannica.com/topic/Declaration-of-the-Rights-of-Man-and-of-the-Citizen"}],
-      "collectionIds": ["revolutions", "society-culture-and-ideas"]
+      "collectionIds": ["revolutions", "society-culture-and-ideas"],
+      "relatedEventIds": ["rights-of-man-approved-1789"]
     },
     {
       "id": "industrial-revolution-origin",
@@ -84,7 +85,8 @@
       "correctOptionId": "1893",
       "explanation": "New Zealand's Electoral Act received assent in September 1893, enfranchising women for that year's parliamentary election.",
       "sources": [{"displayName": "New Zealand History - Women win the right to vote", "url": "https://nzhistory.govt.nz/politics/womens-suffrage"}],
-      "collectionIds": ["revolutions", "society-culture-and-ideas"]
+      "collectionIds": ["revolutions", "society-culture-and-ideas"],
+      "relatedEventIds": ["new-zealand-womens-suffrage-1893"]
     },
     {
       "id": "south-africa-1994-president",
