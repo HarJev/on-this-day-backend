@@ -30,6 +30,11 @@ $0. Never commit state files.
    boundary. The owner then adds a console password and MFA to that user in
    the console and signs the CLI in with `aws login --profile on-this-day`.
    Root is not used again for Terraform.
+
+   Applied on 2026-09-27 and now frozen: the owner makes any further change
+   to these IAM resources by hand in the console, then updates this code to
+   match so it stays an accurate record. Do not run `plan` or `apply` in
+   `bootstrap/`; its state is kept in HCP only as history.
 2. `prod/` with `AWS_PROFILE=on-this-day`: copy `terraform.tfvars.example` to
    `terraform.tfvars`, then `init`, `validate`, `plan`, and apply only after
    the owner approves the saved plan.
