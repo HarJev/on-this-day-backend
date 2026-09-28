@@ -32,7 +32,7 @@
       ],
       "correctOptionId": "overlord",
       "explanation": "Operation Overlord was the Allied campaign to establish a lodgment in Normandy; its assault phase began on D-Day, 6 June 1944.",
-      "sources": [{"displayName": "U.S. National Archives - D-Day", "url": "https://www.archives.gov/milestone-documents/general-order-143"}],
+      "sources": [{"displayName": "Encyclopaedia Britannica - Normandy Invasion", "url": "https://www.britannica.com/event/Normandy-Invasion"}],
       "collectionIds": ["wars-and-conflicts", "world-wars"]
     },
     {
@@ -83,7 +83,7 @@
       ],
       "correctOptionId": "codebreaking",
       "explanation": "Bletchley Park was the center of British wartime codebreaking, where intercepted Axis communications were analyzed and decrypted.",
-      "sources": [{"displayName": "Bletchley Park - The story of Bletchley Park", "url": "https://bletchleypark.org.uk/our-story/the-story-of-bletchley-park/"}],
+      "sources": [{"displayName": "Encyclopaedia Britannica - Bletchley Park", "url": "https://www.britannica.com/place/Bletchley-Park"}],
       "collectionIds": ["wars-and-conflicts", "world-wars", "science-and-innovation"]
     },
     {
@@ -100,7 +100,7 @@
       ],
       "correctOptionId": "atomic-weapons",
       "explanation": "The U.S.-led Manhattan Project coordinated the scientific and industrial effort that produced the first atomic weapons during the Second World War.",
-      "sources": [{"displayName": "U.S. Department of Energy - Manhattan Project National Historical Park", "url": "https://www.energy.gov/lm/manhattan-project-national-historical-park"}],
+      "sources": [{"displayName": "Encyclopaedia Britannica - Manhattan Project", "url": "https://www.britannica.com/event/Manhattan-Project"}],
       "collectionIds": ["wars-and-conflicts", "world-wars", "science-and-innovation"]
     },
     {
@@ -112,7 +112,7 @@
       "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
       "correctOptionId": "false",
       "explanation": "The U.S. Senate rejected the Treaty of Versailles, so the United States never joined the League of Nations.",
-      "sources": [{"displayName": "United States Senate - The Senate Rejects the Treaty of Versailles", "url": "https://www.senate.gov/about/powers-procedures/treaties/versailles-treaty.htm"}],
+      "sources": [{"displayName": "U.S. Office of the Historian - The League of Nations, 1920", "url": "https://history.state.gov/milestones/1914-1920/league"}],
       "collectionIds": ["wars-and-conflicts", "world-wars"]
     },
     {
@@ -139,7 +139,7 @@
       ],
       "correctOptionId": "winston-churchill",
       "explanation": "The portrait shows Winston Churchill, who served as British prime minister for most of the Second World War.",
-      "sources": [{"displayName": "Imperial War Museums - Winston Churchill", "url": "https://www.iwm.org.uk/history/winston-churchill-the-war-leader"}],
+      "sources": [{"displayName": "Encyclopaedia Britannica - Winston Churchill", "url": "https://www.britannica.com/biography/Winston-Churchill"}],
       "collectionIds": ["wars-and-conflicts", "world-wars", "leaders-and-power"]
     },
     {
@@ -173,7 +173,7 @@
       "id": "order-world-war-milestones",
       "type": "chronological_ordering",
       "difficulty": "hard",
-      "publicationState": "published",
+      "publicationState": "retired",
       "prompt": "Put these World War milestones in chronological order, earliest first.",
       "items": [
         {"id": "first-war-armistice", "text": "Armistice ends fighting on the Western Front"},
@@ -186,10 +186,64 @@
       "sources": [
         {"displayName": "Imperial War Museums - What was the Armistice?", "url": "https://www.iwm.org.uk/history/what-was-the-armistice"},
         {"displayName": "United States Holocaust Memorial Museum - Invasion of Poland", "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939"},
-        {"displayName": "U.S. National Archives - D-Day", "url": "https://www.archives.gov/milestone-documents/general-order-143"},
+        {"displayName": "Encyclopaedia Britannica - Normandy Invasion", "url": "https://www.britannica.com/event/Normandy-Invasion"},
         {"displayName": "U.S. National Archives - Japanese Surrender Documents", "url": "https://www.archives.gov/exhibits/featured-documents/japanese-surrender-document"}
       ],
       "collectionIds": ["wars-and-conflicts", "world-wars"]
+    },
+    {
+      "id": "order-second-world-war-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these Second World War events in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "d-day",
+          "text": "Allied forces land in Normandy on D-Day"
+        },
+        {
+          "id": "poland-invasion",
+          "text": "Germany invades Poland"
+        },
+        {
+          "id": "japan-surrenders",
+          "text": "Japan formally surrenders aboard USS Missouri"
+        },
+        {
+          "id": "pearl-harbor",
+          "text": "Japan attacks Pearl Harbor"
+        }
+      ],
+      "correctOrderItemIds": [
+        "poland-invasion",
+        "pearl-harbor",
+        "d-day",
+        "japan-surrenders"
+      ],
+      "explanation": "Germany invaded Poland on 1 September 1939, Japan attacked Pearl Harbor on 7 December 1941, the Allies landed in Normandy on 6 June 1944, and Japan formally surrendered on 2 September 1945.",
+      "sources": [
+        {
+          "displayName": "United States Holocaust Memorial Museum - Invasion of Poland",
+          "url": "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Pearl Harbor attack",
+          "url": "https://www.britannica.com/event/Pearl-Harbor-attack"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Normandy Invasion",
+          "url": "https://www.britannica.com/event/Normandy-Invasion"
+        },
+        {
+          "displayName": "U.S. National Archives - Japanese Surrender Documents",
+          "url": "https://www.archives.gov/exhibits/featured-documents/japanese-surrender-document"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts",
+        "world-wars"
+      ]
     }
   ]
 }

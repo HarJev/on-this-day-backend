@@ -250,8 +250,8 @@
       "explanation": "The Dutch East India Company, or VOC, received a charter to organize Dutch trade and colonial activity in Asia. Its archive documents a vast commercial network as well as the coercive power that sustained it.",
       "sources": [
         {
-          "displayName": "Dutch National Archives - VOC archives",
-          "url": "https://www.nationaalarchief.nl/en/research/archive-collection/1.04.02"
+          "displayName": "Encyclopaedia Britannica - Dutch East India Company",
+          "url": "https://www.britannica.com/topic/Dutch-East-India-Company"
         }
       ],
       "collectionIds": [
@@ -321,11 +321,11 @@
         }
       ],
       "correctOptionId": "legal-slavery",
-      "explanation": "The 1833 act abolished slavery in most British colonies, although its apprenticeship system delayed full freedom for many formerly enslaved people.",
+      "explanation": "The 1833 act abolished slavery in most British colonies, freeing more than 800,000 enslaved Africans in the Caribbean and South Africa as well as a small number in Canada.",
       "sources": [
         {
-          "displayName": "UK Parliament - Abolition of the Slave Trade and Slavery",
-          "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/overview/abolition/"
+          "displayName": "Encyclopaedia Britannica - Slavery Abolition Act",
+          "url": "https://www.britannica.com/topic/Slavery-Abolition-Act"
         }
       ],
       "collectionIds": [
@@ -771,12 +771,12 @@
       "explanation": "The four landmarks span more than seven centuries: Magna Carta in 1215, the English Bill of Rights in 1689, the U.S. Constitution in 1787, and the Universal Declaration in 1948.",
       "sources": [
         {
-          "displayName": "UK Parliament - Magna Carta",
-          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-the-constitution/overview/magnacarta/"
+          "displayName": "Encyclopaedia Britannica - Magna Carta",
+          "url": "https://www.britannica.com/topic/Magna-Carta"
         },
         {
-          "displayName": "UK Parliament - Bill of Rights 1689",
-          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/overview/rights/"
+          "displayName": "Encyclopaedia Britannica - Bill of Rights (British history)",
+          "url": "https://www.britannica.com/topic/Bill-of-Rights-British-history"
         },
         {
           "displayName": "U.S. National Archives - Constitution",
@@ -825,20 +825,20 @@
       "explanation": "The intended milestones are Morse's U.S. telegraph patent in 1840, Bell's telephone patent in 1876, the first ARPANET message in 1969, and CERN's 1993 release of Web software into the public domain.",
       "sources": [
         {
-          "displayName": "U.S. Patent and Trademark Office - Samuel Morse",
-          "url": "https://www.uspto.gov/about-us/news-updates/telegraph-patent"
+          "displayName": "IEEE REACH - Samuel Morse, American Electro-Magnet Telegraph Patent and Morse Code",
+          "url": "https://reach.ieee.org/primary-sources/samuel-morse-american-electro-magnet-telegraph-patent-and-morse-code/"
         },
         {
-          "displayName": "U.S. Patent and Trademark Office - Alexander Graham Bell",
-          "url": "https://www.uspto.gov/about-us/news-updates/bells-telephone-patent"
+          "displayName": "Encyclopaedia Britannica - Alexander Graham Bell",
+          "url": "https://www.britannica.com/biography/Alexander-Graham-Bell"
         },
         {
-          "displayName": "UCLA - First ARPANET message",
-          "url": "https://www.internethistory.ucla.edu/internet/msg.html"
+          "displayName": "University of California - Lo and behold: The internet",
+          "url": "https://www.universityofcalifornia.edu/news/lo-and-behold-internet"
         },
         {
-          "displayName": "CERN - Web software made available",
-          "url": "https://home.cern/science/computing/birth-web/short-history-web"
+          "displayName": "CERN - The birth of the Web",
+          "url": "https://home.cern/science/computing/the-birth-of-the-web/"
         }
       ],
       "collectionIds": [
@@ -879,20 +879,20 @@
       "explanation": "NATO was founded in 1949, the Warsaw Pact was signed in 1955, the Berlin Wall was erected in 1961, and border crossings opened in November 1989.",
       "sources": [
         {
-          "displayName": "NATO - Founding treaty",
-          "url": "https://www.nato.int/cps/en/natohq/declassified_137930.htm"
+          "displayName": "Encyclopaedia Britannica - North Atlantic Treaty Organization",
+          "url": "https://www.britannica.com/topic/North-Atlantic-Treaty-Organization"
         },
         {
-          "displayName": "Wilson Center - Warsaw Pact",
-          "url": "https://www.wilsoncenter.org/article/warsaw-pact"
+          "displayName": "Encyclopaedia Britannica - Warsaw Pact",
+          "url": "https://www.britannica.com/event/Warsaw-Pact"
         },
         {
-          "displayName": "German Historical Museum - Berlin Wall",
-          "url": "https://www.dhm.de/lemo/kapitel/geteiltes-deutschland-gruenderjahre/berlin-mauerbau.html"
+          "displayName": "Encyclopaedia Britannica - Berlin Wall",
+          "url": "https://www.britannica.com/topic/Berlin-Wall"
         },
         {
-          "displayName": "German Historical Museum - Fall of the Berlin Wall",
-          "url": "https://www.dhm.de/lemo/kapitel/friedliche-revolution/der-mauerfall.html"
+          "displayName": "U.S. Office of the Historian - Fall of Communism in Eastern Europe, 1989",
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism"
         }
       ],
       "collectionIds": [
@@ -1027,11 +1027,15 @@
         }
       ],
       "correctOptionId": "charles-darwin",
-      "explanation": "Charles Darwin developed a theory of evolution by natural selection. Alfred Russel Wallace independently reached a closely related insight, while Mendel and Pasteur made different foundational contributions to science.",
+      "explanation": "Charles Darwin's theory of evolution by natural selection became the foundation of modern evolutionary studies. Alfred Russel Wallace formulated the theory independently, before Darwin's published work.",
       "sources": [
         {
-          "displayName": "Natural History Museum - Charles Darwin",
-          "url": "https://www.nhm.ac.uk/discover/charles-darwin-most-famous-scientist.html"
+          "displayName": "Encyclopaedia Britannica - Charles Darwin",
+          "url": "https://www.britannica.com/biography/Charles-Darwin"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Alfred Russel Wallace",
+          "url": "https://www.britannica.com/biography/Alfred-Russel-Wallace"
         }
       ],
       "collectionIds": [

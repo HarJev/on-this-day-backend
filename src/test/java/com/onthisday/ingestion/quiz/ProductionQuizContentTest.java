@@ -6,6 +6,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.nio.file.Path;
+import java.util.Set;
 import org.junit.jupiter.api.Test;
 
 class ProductionQuizContentTest {
@@ -20,9 +21,15 @@ class ProductionQuizContentTest {
     var questions =
         content.questionPacks().stream().flatMap(pack -> pack.file().questions().stream()).toList();
     assertTrue(content.questionPacks().size() >= 6);
-    assertTrue(questions.size() >= 60);
     assertEquals(questions.size(), questions.stream().map(CuratedQuizQuestionJson::id).distinct().count());
-    assertTrue(questions.stream().allMatch(question -> "published".equals(question.publicationState())));
+    // Retirement is explicit in content (see QUIZ_SCHEMA.md), so the canonical bank may hold
+    // retired questions alongside published ones, but never drafts.
+    assertTrue(
+        questions.stream()
+            .allMatch(question -> Set.of("published", "retired").contains(question.publicationState())));
+    assertTrue(
+        questions.stream().filter(question -> "published".equals(question.publicationState())).count()
+            >= 60);
     assertTrue(questions.stream().allMatch(question -> !question.collectionIds().isEmpty()));
 
     assertTrue(questions.stream().map(CuratedQuizQuestionJson::type).distinct().count() == 4);

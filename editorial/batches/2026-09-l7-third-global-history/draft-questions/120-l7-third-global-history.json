@@ -1,0 +1,1159 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "john-paul-ii-first-non-italian",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which pope, elected in 1978, was the first non-Italian pope in more than 450 years?",
+      "options": [
+        {
+          "id": "paul-vi",
+          "text": "Paul VI"
+        },
+        {
+          "id": "john-xxiii",
+          "text": "John XXIII"
+        },
+        {
+          "id": "john-paul-ii",
+          "text": "John Paul II"
+        },
+        {
+          "id": "benedict-xvi",
+          "text": "Benedict XVI"
+        }
+      ],
+      "correctOptionId": "john-paul-ii",
+      "explanation": "Karol Wojtyla of Poland was elected on 16 October 1978 as John Paul II, the first non-Italian pope since Adrian VI in the 1520s and the first from a Slavic country.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - St. John Paul II",
+          "url": "https://www.britannica.com/biography/Saint-John-Paul-II"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "voskhod-1-multiperson-crew",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Which spacecraft carried the first crew of more than one person into Earth orbit, in 1964?",
+      "options": [
+        {
+          "id": "vostok-1",
+          "text": "Vostok 1"
+        },
+        {
+          "id": "voskhod-1",
+          "text": "Voskhod 1"
+        },
+        {
+          "id": "gemini-3",
+          "text": "Gemini 3"
+        },
+        {
+          "id": "soyuz-1",
+          "text": "Soyuz 1"
+        }
+      ],
+      "correctOptionId": "voskhod-1",
+      "explanation": "Voskhod 1 carried three Soviet cosmonauts into orbit on 12 October 1964: a commander, an engineer, and a doctor, the first physician in space.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Voskhod",
+          "url": "https://www.britannica.com/technology/Voskhod-spacecraft"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "tasman-reaches-tasmania",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which Dutch navigator skirted the southern shores of the island later named Tasmania in 1642?",
+      "options": [
+        {
+          "id": "willem-janszoon",
+          "text": "Willem Janszoon"
+        },
+        {
+          "id": "dirk-hartog",
+          "text": "Dirk Hartog"
+        },
+        {
+          "id": "james-cook",
+          "text": "James Cook"
+        },
+        {
+          "id": "abel-tasman",
+          "text": "Abel Tasman"
+        }
+      ],
+      "correctOptionId": "abel-tasman",
+      "explanation": "Sailing from Batavia (Jakarta) to test a sea passage eastward to Chile and to explore New Guinea, Abel Janszoon Tasman skirted the southern shores of Tasmania on 24 November 1642.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 24",
+          "url": "https://www.britannica.com/on-this-day/November-24"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "persons-case-senate",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Canada's 1929 Persons Case opened the way for women to be appointed to which institution?",
+      "options": [
+        {
+          "id": "senate",
+          "text": "The Senate"
+        },
+        {
+          "id": "supreme-court",
+          "text": "The Supreme Court"
+        },
+        {
+          "id": "cabinet",
+          "text": "The federal cabinet"
+        },
+        {
+          "id": "governor-general",
+          "text": "The office of governor general"
+        }
+      ],
+      "correctOptionId": "senate",
+      "explanation": "On 18 October 1929 the Judicial Committee of the Privy Council overruled Canada's Supreme Court, opening the door for women to be appointed to the Senate. The case was brought by five Alberta women known as the Famous Five.",
+      "sources": [
+        {
+          "displayName": "Senate of Canada - Why the Persons Case Matters",
+          "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "ferdinand-bulgarian-independence",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Who proclaimed Bulgaria's full independence from the Ottoman Empire in 1908 and took the title of tsar?",
+      "options": [
+        {
+          "id": "boris-iii",
+          "text": "Boris III"
+        },
+        {
+          "id": "alexander-battenberg",
+          "text": "Alexander of Battenberg"
+        },
+        {
+          "id": "ferdinand",
+          "text": "Ferdinand"
+        },
+        {
+          "id": "simeon-ii",
+          "text": "Simeon II"
+        }
+      ],
+      "correctOptionId": "ferdinand",
+      "explanation": "On 5 October 1908 Ferdinand, prince of Bulgaria since 1887, proclaimed the country's full independence from the Ottoman Empire and assumed the title of king, or tsar.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ferdinand (king of Bulgaria)",
+          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "napoleon-crowns-himself",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "At his coronation as emperor of France in 1804, who crowned Napoleon?",
+      "options": [
+        {
+          "id": "pope-pius-vii",
+          "text": "Pope Pius VII"
+        },
+        {
+          "id": "napoleon-himself",
+          "text": "Napoleon himself"
+        },
+        {
+          "id": "josephine",
+          "text": "Josephine"
+        },
+        {
+          "id": "talleyrand",
+          "text": "Talleyrand"
+        }
+      ],
+      "correctOptionId": "napoleon-himself",
+      "explanation": "On 2 December 1804 Napoleon crowned himself emperor of France, with Pope Pius VII present at the ceremony.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 2",
+          "url": "https://www.britannica.com/on-this-day/December-2"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "revolutions"
+      ]
+    },
+    {
+      "id": "chile-miners-days-underground",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "About how long were the 33 miners trapped in Chile's San Jose mine before their rescue in October 2010?",
+      "options": [
+        {
+          "id": "17-days",
+          "text": "17 days"
+        },
+        {
+          "id": "33-days",
+          "text": "33 days"
+        },
+        {
+          "id": "69-days",
+          "text": "69 days"
+        },
+        {
+          "id": "102-days",
+          "text": "102 days"
+        }
+      ],
+      "correctOptionId": "69-days",
+      "explanation": "The 33 workers were rescued on 13 October 2010, 69 days after the mine collapsed on 5 August. For the first 17 days they had no contact with the surface.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Chile mine rescue of 2010",
+          "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "james-webb-telescope-launch",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which space telescope, built as the successor to Hubble, launched on 25 December 2021?",
+      "options": [
+        {
+          "id": "kepler",
+          "text": "Kepler"
+        },
+        {
+          "id": "spitzer",
+          "text": "Spitzer"
+        },
+        {
+          "id": "chandra",
+          "text": "Chandra"
+        },
+        {
+          "id": "james-webb",
+          "text": "James Webb Space Telescope"
+        }
+      ],
+      "correctOptionId": "james-webb",
+      "explanation": "The James Webb Space Telescope, designed and built by U.S., Canadian, and European space agencies as Hubble's successor, launched on Christmas Day 2021.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 25",
+          "url": "https://www.britannica.com/on-this-day/December-25"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "amsterdam-toll-privilege",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "A 1275 toll privilege from the Count of Holland is the first document to name which city?",
+      "options": [
+        {
+          "id": "amsterdam",
+          "text": "Amsterdam"
+        },
+        {
+          "id": "rotterdam",
+          "text": "Rotterdam"
+        },
+        {
+          "id": "utrecht",
+          "text": "Utrecht"
+        },
+        {
+          "id": "haarlem",
+          "text": "Haarlem"
+        }
+      ],
+      "correctOptionId": "amsterdam",
+      "explanation": "Drawn up in Leiden on 27 October 1275, Count Floris V's toll privilege spared people living near the dam on the Amstel from his tolls; it is the first document to name Amsterdam, which marks the date as its birthday.",
+      "sources": [
+        {
+          "displayName": "Stadsarchief Amsterdam - Tolprivilege",
+          "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/"
+        },
+        {
+          "displayName": "Museum.nl - Tolprivilege uit 1275 (Stadsarchief Amsterdam)",
+          "url": "https://www.museum.nl/en/stadsarchief-amsterdam/showpiece/tolprivilege-uit-1275-amsterdam"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange",
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "dessalines-vertieres",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Who led the Haitian forces that defeated the French at the Battle of Vertieres in 1803?",
+      "options": [
+        {
+          "id": "toussaint-louverture",
+          "text": "Toussaint Louverture"
+        },
+        {
+          "id": "henri-christophe",
+          "text": "Henri Christophe"
+        },
+        {
+          "id": "alexandre-petion",
+          "text": "Alexandre Petion"
+        },
+        {
+          "id": "jean-jacques-dessalines",
+          "text": "Jean-Jacques Dessalines"
+        }
+      ],
+      "correctOptionId": "jean-jacques-dessalines",
+      "explanation": "Haitian forces led by Jean-Jacques Dessalines defeated the French at Vertieres on 18 November 1803, effectively ending the Haitian Revolution weeks before Haiti declared independence.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 18",
+          "url": "https://www.britannica.com/on-this-day/November-18"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "wars-and-conflicts"
+      ]
+    },
+    {
+      "id": "madero-mexican-revolution",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Whose 1910 revolt, though it failed, sparked the Mexican Revolution?",
+      "options": [
+        {
+          "id": "porfirio-diaz",
+          "text": "Porfirio Diaz"
+        },
+        {
+          "id": "francisco-madero",
+          "text": "Francisco Madero"
+        },
+        {
+          "id": "emiliano-zapata",
+          "text": "Emiliano Zapata"
+        },
+        {
+          "id": "pancho-villa",
+          "text": "Pancho Villa"
+        }
+      ],
+      "correctOptionId": "francisco-madero",
+      "explanation": "Francisco Madero launched a failed revolt on 20 November 1910 that sparked the Mexican Revolution, inspiring leaders such as Pancho Villa and Emiliano Zapata to mobilize against President Porfirio Diaz.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 20",
+          "url": "https://www.britannica.com/on-this-day/November-20"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ]
+    },
+    {
+      "id": "ley-juarez-special-courts",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "What did Mexico's Ley Juarez of 1855 abolish?",
+      "options": [
+        {
+          "id": "special-courts",
+          "text": "Special courts for the clergy and military"
+        },
+        {
+          "id": "slavery",
+          "text": "Slavery"
+        },
+        {
+          "id": "monarchy",
+          "text": "The monarchy"
+        },
+        {
+          "id": "state-lottery",
+          "text": "The state lottery"
+        }
+      ],
+      "correctOptionId": "special-courts",
+      "explanation": "Passed on 23 November 1855, the Ley Juarez abolished special courts for the clergy and military, part of justice minister Benito Juarez's effort to remove remnants of colonialism and promote equality.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 23",
+          "url": "https://www.britannica.com/on-this-day/November-23"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "revolutions"
+      ]
+    },
+    {
+      "id": "naismith-first-basketball",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which gym teacher organized the first game of basketball in 1891?",
+      "options": [
+        {
+          "id": "walter-camp",
+          "text": "Walter Camp"
+        },
+        {
+          "id": "abner-doubleday",
+          "text": "Abner Doubleday"
+        },
+        {
+          "id": "james-naismith",
+          "text": "James Naismith"
+        },
+        {
+          "id": "william-morgan",
+          "text": "William G. Morgan"
+        }
+      ],
+      "correctOptionId": "james-naismith",
+      "explanation": "James Naismith organized the first basketball game on 21 December 1891 at a school in Springfield, Massachusetts. It was so chaotic that he went on to write the sport's original rules.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 21",
+          "url": "https://www.britannica.com/on-this-day/December-21"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "whaleship-essex-moby-dick",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The 1820 sinking of which whaling ship, rammed by a sperm whale, inspired the climax of Moby-Dick?",
+      "options": [
+        {
+          "id": "essex",
+          "text": "Essex"
+        },
+        {
+          "id": "acushnet",
+          "text": "Acushnet"
+        },
+        {
+          "id": "bounty",
+          "text": "Bounty"
+        },
+        {
+          "id": "endeavour",
+          "text": "Endeavour"
+        }
+      ],
+      "correctOptionId": "essex",
+      "explanation": "On 20 November 1820 the American whaleship Essex was rammed by a sperm whale and later sank, inspiring the climactic scene of Herman Melville's Moby-Dick (1851).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 20",
+          "url": "https://www.britannica.com/on-this-day/November-20"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange",
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "locarno-western-europe",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Pact of Locarno, signed in 1925, was meant to guarantee peace in which region?",
+      "options": [
+        {
+          "id": "balkans",
+          "text": "The Balkans"
+        },
+        {
+          "id": "scandinavia",
+          "text": "Scandinavia"
+        },
+        {
+          "id": "western-europe",
+          "text": "Western Europe"
+        },
+        {
+          "id": "pacific",
+          "text": "The Pacific"
+        }
+      ],
+      "correctOptionId": "western-europe",
+      "explanation": "On 1 December 1925 Germany, France, Belgium, Great Britain, and Italy signed the Pact of Locarno, a series of agreements intended to guarantee peace in western Europe.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 1",
+          "url": "https://www.britannica.com/on-this-day/December-1"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "anglo-irish-treaty-free-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What did the Anglo-Irish Treaty of 1921 establish?",
+      "options": [
+        {
+          "id": "irish-free-state",
+          "text": "The Irish Free State"
+        },
+        {
+          "id": "republic-of-ireland",
+          "text": "The Republic of Ireland"
+        },
+        {
+          "id": "home-rule-parliament",
+          "text": "A Home Rule parliament in Dublin"
+        },
+        {
+          "id": "united-ireland",
+          "text": "A united Irish republic"
+        }
+      ],
+      "correctOptionId": "irish-free-state",
+      "explanation": "Signed on 6 December 1921 by British representatives and Irish leaders including Arthur Griffith and Michael Collins, the treaty ended the Irish War of Independence and established the Irish Free State.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 6",
+          "url": "https://www.britannica.com/on-this-day/December-6"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "finland-independence-1917",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which country declared itself independent of Russia on 6 December 1917, following the Bolshevik Revolution?",
+      "options": [
+        {
+          "id": "estonia",
+          "text": "Estonia"
+        },
+        {
+          "id": "finland",
+          "text": "Finland"
+        },
+        {
+          "id": "latvia",
+          "text": "Latvia"
+        },
+        {
+          "id": "lithuania",
+          "text": "Lithuania"
+        }
+      ],
+      "correctOptionId": "finland",
+      "explanation": "Finland declared its independence from Russia on 6 December 1917, weeks after the Bolshevik Revolution.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 6",
+          "url": "https://www.britannica.com/on-this-day/December-6"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "barnard-first-heart-transplant",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which surgeon performed the first human heart transplant, in Cape Town in 1967?",
+      "options": [
+        {
+          "id": "michael-debakey",
+          "text": "Michael DeBakey"
+        },
+        {
+          "id": "norman-shumway",
+          "text": "Norman Shumway"
+        },
+        {
+          "id": "denton-cooley",
+          "text": "Denton Cooley"
+        },
+        {
+          "id": "christiaan-barnard",
+          "text": "Christiaan Barnard"
+        }
+      ],
+      "correctOptionId": "christiaan-barnard",
+      "explanation": "South African surgeon Christiaan Barnard performed the first human heart transplant on 3 December 1967 at Groote Schuur Hospital in Cape Town.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 3",
+          "url": "https://www.britannica.com/on-this-day/December-3"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "great-chicago-fire-duration",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Great Chicago Fire of 1871 burned for about a week.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "The fire began on 8 October 1871 and burned until early on 10 October, about two days, devastating a wide swath of the city.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Great Chicago Fire",
+          "url": "https://www.britannica.com/event/Chicago-fire-of-1871"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "amundsen-first-south-pole",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Roald Amundsen's expedition was the first to reach the South Pole.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Traveling with four companions, 52 dogs, and four sledges, Roald Amundsen became the first explorer to reach the South Pole, on 14 December 1911.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 14",
+          "url": "https://www.britannica.com/on-this-day/December-14"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "suez-canal-construction-decade",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Suez Canal opened in 1869 after about ten years of construction.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The Suez Canal opened in Egypt on 17 November 1869, after ten years of construction.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 17",
+          "url": "https://www.britannica.com/on-this-day/November-17"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ]
+    },
+    {
+      "id": "tehran-conference-big-three",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The 1943 Tehran Conference brought together Roosevelt, Churchill, and Stalin.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The Tehran Conference opened on 28 November 1943 with U.S. President Franklin D. Roosevelt, British Prime Minister Winston Churchill, and Soviet Premier Joseph Stalin; Stalin pressed for an invasion of France.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 28",
+          "url": "https://www.britannica.com/on-this-day/November-28"
+        }
+      ],
+      "collectionIds": [
+        "world-wars",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "mozart-death-age",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Wolfgang Amadeus Mozart lived into his fifties.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Mozart died in Vienna on 5 December 1791 at the age of 35.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 5",
+          "url": "https://www.britannica.com/on-this-day/December-5"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "first-nobel-prizes-anniversary",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The first Nobel Prizes were presented on the anniversary of Alfred Nobel's death.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The first Nobel Prizes were distributed on 10 December 1901, the fifth anniversary of the death of Alfred Nobel, who founded and endowed them through his will.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 10",
+          "url": "https://www.britannica.com/on-this-day/December-10"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ]
+    },
+    {
+      "id": "order-space-exploration-firsts",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these space milestones in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "apollo-8",
+          "text": "Apollo 8 launches toward the Moon"
+        },
+        {
+          "id": "philae",
+          "text": "Philae lands on a comet"
+        },
+        {
+          "id": "sputnik-1",
+          "text": "Sputnik 1 is launched"
+        },
+        {
+          "id": "apollo-17",
+          "text": "Apollo 17, the last crewed Moon mission, launches"
+        }
+      ],
+      "correctOrderItemIds": [
+        "sputnik-1",
+        "apollo-8",
+        "apollo-17",
+        "philae"
+      ],
+      "explanation": "Sputnik 1 launched on 4 October 1957, Apollo 8 on 21 December 1968, and Apollo 17 on 7 December 1972; Philae landed on a comet on 12 November 2014.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - Sputnik, 1957",
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 21",
+          "url": "https://www.britannica.com/on-this-day/December-21"
+        },
+        {
+          "displayName": "NASA - Apollo 17",
+          "url": "https://www.nasa.gov/mission/apollo-17/"
+        },
+        {
+          "displayName": "European Space Agency - Philae's extraordinary comet landing relived",
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "order-african-independence-1960s",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these African independence dates in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "zambia",
+          "text": "Zambia becomes independent"
+        },
+        {
+          "id": "equatorial-guinea",
+          "text": "Equatorial Guinea becomes independent"
+        },
+        {
+          "id": "tanganyika",
+          "text": "Tanganyika becomes independent"
+        },
+        {
+          "id": "lesotho",
+          "text": "Lesotho becomes independent"
+        }
+      ],
+      "correctOrderItemIds": [
+        "tanganyika",
+        "zambia",
+        "lesotho",
+        "equatorial-guinea"
+      ],
+      "explanation": "Tanganyika became independent on 9 December 1961, Zambia on 24 October 1964, Lesotho on 4 October 1966, and Equatorial Guinea on 12 October 1968.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 9",
+          "url": "https://www.britannica.com/on-this-day/December-9"
+        },
+        {
+          "displayName": "U.S. Office of the Historian - Zambia",
+          "url": "https://history.state.gov/countries/zambia"
+        },
+        {
+          "displayName": "U.S. Office of the Historian - Lesotho",
+          "url": "https://history.state.gov/countries/lesotho"
+        },
+        {
+          "displayName": "U.S. Office of the Historian - Equatorial Guinea",
+          "url": "https://history.state.gov/countries/equatorial-guinea"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "order-peace-treaties",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these peace settlements in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "neuilly",
+          "text": "Treaty of Neuilly sets peace terms for Bulgaria"
+        },
+        {
+          "id": "dayton",
+          "text": "Dayton Accords end the Bosnian War"
+        },
+        {
+          "id": "westphalia",
+          "text": "Peace of Westphalia ends the Thirty Years' War in Germany"
+        },
+        {
+          "id": "ghent",
+          "text": "Treaty of Ghent ends the War of 1812"
+        }
+      ],
+      "correctOrderItemIds": [
+        "westphalia",
+        "ghent",
+        "neuilly",
+        "dayton"
+      ],
+      "explanation": "The settlements were signed in 1648 (Westphalia), 1814 (Ghent), 1919 (Neuilly), and 1995 (Dayton).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Peace of Westphalia",
+          "url": "https://www.britannica.com/event/Peace-of-Westphalia"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 24",
+          "url": "https://www.britannica.com/on-this-day/December-24"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 27",
+          "url": "https://www.britannica.com/on-this-day/November-27"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 21",
+          "url": "https://www.britannica.com/on-this-day/November-21"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ]
+    },
+    {
+      "id": "order-science-discoveries",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these scientific milestones in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "radium",
+          "text": "Marie and Pierre Curie discover radium"
+        },
+        {
+          "id": "exoplanet",
+          "text": "First planet found orbiting a Sun-like star is announced"
+        },
+        {
+          "id": "x-rays",
+          "text": "Wilhelm Rontgen discovers X-rays"
+        },
+        {
+          "id": "chain-reaction",
+          "text": "First controlled nuclear chain reaction"
+        }
+      ],
+      "correctOrderItemIds": [
+        "x-rays",
+        "radium",
+        "chain-reaction",
+        "exoplanet"
+      ],
+      "explanation": "Rontgen observed X-rays on 8 November 1895, the Curies discovered radium on 21 December 1898, Fermi's team achieved the first controlled chain reaction on 2 December 1942, and the first exoplanet around a Sun-like star was announced on 6 October 1995.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Wilhelm Conrad Roentgen",
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 21",
+          "url": "https://www.britannica.com/on-this-day/December-21"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 2",
+          "url": "https://www.britannica.com/on-this-day/December-2"
+        },
+        {
+          "displayName": "University of Geneva - The first exoplanet was discovered 30 years ago at the UNIGE",
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ]
+    },
+    {
+      "id": "order-political-turning-points",
+      "type": "chronological_ordering",
+      "difficulty": "hard",
+      "publicationState": "published",
+      "prompt": "Put these political turning points in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "october-manifesto",
+          "text": "Tsar Nicholas II issues the October Manifesto"
+        },
+        {
+          "id": "velvet-revolution",
+          "text": "Protests in Prague begin the Velvet Revolution"
+        },
+        {
+          "id": "brumaire",
+          "text": "Napoleon's Brumaire coup overthrows the Directory"
+        },
+        {
+          "id": "bolsheviks",
+          "text": "The Bolsheviks take power in Petrograd"
+        }
+      ],
+      "correctOrderItemIds": [
+        "brumaire",
+        "october-manifesto",
+        "bolsheviks",
+        "velvet-revolution"
+      ],
+      "explanation": "The Brumaire coup took place on 9-10 November 1799, the October Manifesto was issued in October 1905, the Bolsheviks took power in November 1917, and the Velvet Revolution began on 17 November 1989.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Coup of 18-19 Brumaire",
+          "url": "https://www.britannica.com/event/Coup-of-18-19-Brumaire"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - October Manifesto",
+          "url": "https://www.britannica.com/event/October-Manifesto"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Russian Revolution",
+          "url": "https://www.britannica.com/event/Russian-Revolution"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 17",
+          "url": "https://www.britannica.com/on-this-day/November-17"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ]
+    },
+    {
+      "id": "order-film-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Put these film premieres in chronological order, earliest first.",
+      "items": [
+        {
+          "id": "casablanca",
+          "text": "Casablanca premieres"
+        },
+        {
+          "id": "jazz-singer",
+          "text": "The Jazz Singer is released"
+        },
+        {
+          "id": "toy-story",
+          "text": "Toy Story is released"
+        },
+        {
+          "id": "steamboat-willie",
+          "text": "Steamboat Willie is released"
+        }
+      ],
+      "correctOrderItemIds": [
+        "jazz-singer",
+        "steamboat-willie",
+        "casablanca",
+        "toy-story"
+      ],
+      "explanation": "The Jazz Singer, the first feature-length film with synchronized dialogue, came out in October 1927; Steamboat Willie followed in November 1928, Casablanca in November 1942, and Toy Story, the first fully computer-animated feature, in November 1995.",
+      "sources": [
+        {
+          "displayName": "American Film Institute Catalog - The Jazz Singer (1927)",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - The Jazz Singer",
+          "url": "https://www.britannica.com/topic/The-Jazz-Singer-film-1927"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 18",
+          "url": "https://www.britannica.com/on-this-day/November-18"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 26",
+          "url": "https://www.britannica.com/on-this-day/November-26"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 22",
+          "url": "https://www.britannica.com/on-this-day/November-22"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ]
+    }
+  ]
+}

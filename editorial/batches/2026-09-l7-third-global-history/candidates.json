@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-third-global-history",
+  "candidates": [
+    {
+      "candidateId": "john-paul-ii-first-non-italian",
+      "kind": "quiz",
+      "proposedCanonicalId": "john-paul-ii-first-non-italian",
+      "workingClaim": "Which pope, elected in 1978, was the first non-Italian pope in more than 450 years? Answer: John Paul II",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Saint-John-Paul-II"
+      ]
+    },
+    {
+      "candidateId": "voskhod-1-multiperson-crew",
+      "kind": "quiz",
+      "proposedCanonicalId": "voskhod-1-multiperson-crew",
+      "workingClaim": "Which spacecraft carried the first crew of more than one person into Earth orbit, in 1964? Answer: Voskhod 1",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Voskhod-spacecraft"
+      ]
+    },
+    {
+      "candidateId": "tasman-reaches-tasmania",
+      "kind": "quiz",
+      "proposedCanonicalId": "tasman-reaches-tasmania",
+      "workingClaim": "Which Dutch navigator skirted the southern shores of the island later named Tasmania in 1642? Answer: Abel Tasman",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24"
+      ]
+    },
+    {
+      "candidateId": "persons-case-senate",
+      "kind": "quiz",
+      "proposedCanonicalId": "persons-case-senate",
+      "workingClaim": "Canada's 1929 Persons Case opened the way for women to be appointed to which institution? Answer: The Senate",
+      "sourceUrls": [
+        "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/"
+      ]
+    },
+    {
+      "candidateId": "ferdinand-bulgarian-independence",
+      "kind": "quiz",
+      "proposedCanonicalId": "ferdinand-bulgarian-independence",
+      "workingClaim": "Who proclaimed Bulgaria's full independence from the Ottoman Empire in 1908 and took the title of tsar? Answer: Ferdinand",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
+      ]
+    },
+    {
+      "candidateId": "napoleon-crowns-himself",
+      "kind": "quiz",
+      "proposedCanonicalId": "napoleon-crowns-himself",
+      "workingClaim": "At his coronation as emperor of France in 1804, who crowned Napoleon? Answer: Napoleon himself",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "chile-miners-days-underground",
+      "kind": "quiz",
+      "proposedCanonicalId": "chile-miners-days-underground",
+      "workingClaim": "About how long were the 33 miners trapped in Chile's San Jose mine before their rescue in October 2010? Answer: 69 days",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chile-mine-rescue-of-2010"
+      ]
+    },
+    {
+      "candidateId": "james-webb-telescope-launch",
+      "kind": "quiz",
+      "proposedCanonicalId": "james-webb-telescope-launch",
+      "workingClaim": "Which space telescope, built as the successor to Hubble, launched on 25 December 2021? Answer: James Webb Space Telescope",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-25"
+      ]
+    },
+    {
+      "candidateId": "amsterdam-toll-privilege",
+      "kind": "quiz",
+      "proposedCanonicalId": "amsterdam-toll-privilege",
+      "workingClaim": "A 1275 toll privilege from the Count of Holland is the first document to name which city? Answer: Amsterdam",
+      "sourceUrls": [
+        "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
+        "https://www.museum.nl/en/stadsarchief-amsterdam/showpiece/tolprivilege-uit-1275-amsterdam"
+      ]
+    },
+    {
+      "candidateId": "dessalines-vertieres",
+      "kind": "quiz",
+      "proposedCanonicalId": "dessalines-vertieres",
+      "workingClaim": "Who led the Haitian forces that defeated the French at the Battle of Vertieres in 1803? Answer: Jean-Jacques Dessalines",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "madero-mexican-revolution",
+      "kind": "quiz",
+      "proposedCanonicalId": "madero-mexican-revolution",
+      "workingClaim": "Whose 1910 revolt, though it failed, sparked the Mexican Revolution? Answer: Francisco Madero",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "ley-juarez-special-courts",
+      "kind": "quiz",
+      "proposedCanonicalId": "ley-juarez-special-courts",
+      "workingClaim": "What did Mexico's Ley Juarez of 1855 abolish? Answer: Special courts for the clergy and military",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "naismith-first-basketball",
+      "kind": "quiz",
+      "proposedCanonicalId": "naismith-first-basketball",
+      "workingClaim": "Which gym teacher organized the first game of basketball in 1891? Answer: James Naismith",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-21"
+      ]
+    },
+    {
+      "candidateId": "whaleship-essex-moby-dick",
+      "kind": "quiz",
+      "proposedCanonicalId": "whaleship-essex-moby-dick",
+      "workingClaim": "The 1820 sinking of which whaling ship, rammed by a sperm whale, inspired the climax of Moby-Dick? Answer: Essex",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "locarno-western-europe",
+      "kind": "quiz",
+      "proposedCanonicalId": "locarno-western-europe",
+      "workingClaim": "The Pact of Locarno, signed in 1925, was meant to guarantee peace in which region? Answer: Western Europe",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "anglo-irish-treaty-free-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "anglo-irish-treaty-free-state",
+      "workingClaim": "What did the Anglo-Irish Treaty of 1921 establish? Answer: The Irish Free State",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "finland-independence-1917",
+      "kind": "quiz",
+      "proposedCanonicalId": "finland-independence-1917",
+      "workingClaim": "Which country declared itself independent of Russia on 6 December 1917, following the Bolshevik Revolution? Answer: Finland",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "barnard-first-heart-transplant",
+      "kind": "quiz",
+      "proposedCanonicalId": "barnard-first-heart-transplant",
+      "workingClaim": "Which surgeon performed the first human heart transplant, in Cape Town in 1967? Answer: Christiaan Barnard",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3"
+      ]
+    },
+    {
+      "candidateId": "great-chicago-fire-duration",
+      "kind": "quiz",
+      "proposedCanonicalId": "great-chicago-fire-duration",
+      "workingClaim": "The Great Chicago Fire of 1871 burned for about a week. Answer: False",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chicago-fire-of-1871"
+      ]
+    },
+    {
+      "candidateId": "amundsen-first-south-pole",
+      "kind": "quiz",
+      "proposedCanonicalId": "amundsen-first-south-pole",
+      "workingClaim": "Roald Amundsen's expedition was the first to reach the South Pole. Answer: True",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-14"
+      ]
+    },
+    {
+      "candidateId": "suez-canal-construction-decade",
+      "kind": "quiz",
+      "proposedCanonicalId": "suez-canal-construction-decade",
+      "workingClaim": "The Suez Canal opened in 1869 after about ten years of construction. Answer: True",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "tehran-conference-big-three",
+      "kind": "quiz",
+      "proposedCanonicalId": "tehran-conference-big-three",
+      "workingClaim": "The 1943 Tehran Conference brought together Roosevelt, Churchill, and Stalin. Answer: True",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "mozart-death-age",
+      "kind": "quiz",
+      "proposedCanonicalId": "mozart-death-age",
+      "workingClaim": "Wolfgang Amadeus Mozart lived into his fifties. Answer: False",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5"
+      ]
+    },
+    {
+      "candidateId": "first-nobel-prizes-anniversary",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-nobel-prizes-anniversary",
+      "workingClaim": "The first Nobel Prizes were presented on the anniversary of Alfred Nobel's death. Answer: True",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "order-space-exploration-firsts",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-space-exploration-firsts",
+      "workingClaim": "Put these space milestones in chronological order, earliest first. Answer: Sputnik 1 is launched -> Apollo 8 launches toward the Moon -> Apollo 17, the last crewed Moon mission, launches -> Philae lands on a comet",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1953-1960/sputnik",
+        "https://www.britannica.com/on-this-day/December-21",
+        "https://www.nasa.gov/mission/apollo-17/",
+        "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived"
+      ]
+    },
+    {
+      "candidateId": "order-african-independence-1960s",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-african-independence-1960s",
+      "workingClaim": "Put these African independence dates in chronological order, earliest first. Answer: Tanganyika becomes independent -> Zambia becomes independent -> Lesotho becomes independent -> Equatorial Guinea becomes independent",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-9",
+        "https://history.state.gov/countries/zambia",
+        "https://history.state.gov/countries/lesotho",
+        "https://history.state.gov/countries/equatorial-guinea"
+      ]
+    },
+    {
+      "candidateId": "order-peace-treaties",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-peace-treaties",
+      "workingClaim": "Put these peace settlements in chronological order, earliest first. Answer: Peace of Westphalia ends the Thirty Years' War in Germany -> Treaty of Ghent ends the War of 1812 -> Treaty of Neuilly sets peace terms for Bulgaria -> Dayton Accords end the Bosnian War",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Peace-of-Westphalia",
+        "https://www.britannica.com/on-this-day/December-24",
+        "https://www.britannica.com/on-this-day/November-27",
+        "https://www.britannica.com/on-this-day/November-21"
+      ]
+    },
+    {
+      "candidateId": "order-science-discoveries",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-science-discoveries",
+      "workingClaim": "Put these scientific milestones in chronological order, earliest first. Answer: Wilhelm Rontgen discovers X-rays -> Marie and Pierre Curie discover radium -> First controlled nuclear chain reaction -> First planet found orbiting a Sun-like star is announced",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wilhelm-Rontgen",
+        "https://www.britannica.com/on-this-day/December-21",
+        "https://www.britannica.com/on-this-day/December-2",
+        "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
+      ]
+    },
+    {
+      "candidateId": "order-political-turning-points",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-political-turning-points",
+      "workingClaim": "Put these political turning points in chronological order, earliest first. Answer: Napoleon's Brumaire coup overthrows the Directory -> Tsar Nicholas II issues the October Manifesto -> The Bolsheviks take power in Petrograd -> Protests in Prague begin the Velvet Revolution",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
+        "https://www.britannica.com/event/October-Manifesto",
+        "https://www.britannica.com/event/Russian-Revolution",
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "order-film-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-film-milestones",
+      "workingClaim": "Put these film premieres in chronological order, earliest first. Answer: The Jazz Singer is released -> Steamboat Willie is released -> Casablanca premieres -> Toy Story is released",
+      "sourceUrls": [
+        "https://catalog.afi.com/Catalog/moviedetails/1535",
+        "https://www.britannica.com/topic/The-Jazz-Singer-film-1927",
+        "https://www.britannica.com/on-this-day/November-18",
+        "https://www.britannica.com/on-this-day/November-26",
+        "https://www.britannica.com/on-this-day/November-22"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-third-global-history",
+  "status": "draft_for_owner_review",
+  "method": "Counts computed from this draft pack; the existing bank figure is the 150 published questions on main after the source repairs.",
+  "existingBank": {
+    "questions": 150
+  },
+  "draftPack": {
+    "questions": 30,
+    "types": {
+      "multiple_choice": 18,
+      "true_false": 6,
+      "chronological_ordering": 6
+    },
+    "difficulty": {
+      "medium": 17,
+      "hard": 8,
+      "easy": 5
+    },
+    "multipleChoiceCorrectPosition": {
+      "0": 5,
+      "1": 4,
+      "2": 5,
+      "3": 4
+    },
+    "regions": {
+      "europe": 15,
+      "asia": 1,
+      "oceania": 2,
+      "north-america": 9,
+      "south-america": 1,
+      "global": 4,
+      "caribbean": 1,
+      "southern-africa": 2,
+      "antarctica": 1,
+      "north-africa": 1,
+      "middle-east": 1,
+      "east-africa": 1,
+      "central-africa": 1
+    },
+    "eras": {
+      "contemporary": 10,
+      "cold-war": 2,
+      "early-modern": 3,
+      "modern": 20,
+      "medieval": 1
+    }
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-09-l7-third-global-history",
+  "entries": [
+    {
+      "candidateId": "john-paul-ii-first-non-italian",
+      "canonicalId": "john-paul-ii-first-non-italian",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saint-John-Paul-II",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: Wojtyla's election on October 16, 1978, made him the first non-Italian pope since Adrian VI (reigned 1522-23); first from a Slavic country."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "voskhod-1-multiperson-crew",
+      "canonicalId": "voskhod-1-multiperson-crew",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/Voskhod-spacecraft",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: On October 12, 1964, Voskhod 1 carried three cosmonauts - commander Komarov, engineer Feoktistov and doctor Yegorov - into Earth orbit; first multiperson spacecraft; first doctor in space."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "tasman-reaches-tasmania",
+      "canonicalId": "tasman-reaches-tasmania",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 24): Dutch navigator Abel Janszoon Tasman, sailing from Batavia (Jakarta) ... skirted the southern shores of Tasmania this day in 1642."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "persons-case-senate",
+      "canonicalId": "persons-case-senate",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Senate of Canada: the Famous Five took their case to the Judicial Committee of the Privy Council; On October 18, 1929, it overruled Canada's Supreme Court, opening the door for some women to be appointed to the Senate."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "ferdinand-bulgarian-independence",
+      "canonicalId": "ferdinand-bulgarian-independence",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: prince (1887-1908) and first king (1908-18) of modern Bulgaria; On Oct. 5, 1908, he proclaimed the full independence of Bulgaria from the Ottoman Empire and assumed the title of king, or tsar."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "napoleon-crowns-himself",
+      "canonicalId": "napoleon-crowns-himself",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 2), 1804: Napoleon crowned himself emperor of France in the presence of Pope Pius VII."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "chile-miners-days-underground",
+      "canonicalId": "chile-miners-days-underground",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: rescue of 33 workers from the San Jose mine on October 13, 2010, 69 days after the mine's collapse on August 5; the 17-day period the men spent without contact with the surface."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "south-america"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "james-webb-telescope-launch",
+      "canonicalId": "james-webb-telescope-launch",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 25), 2021: The James Webb Space Telescope - designed and built by U.S., Canadian, and European space agencies as the successor to the Hubble Space Telescope - was launched into space."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "amsterdam-toll-privilege",
+      "canonicalId": "amsterdam-toll-privilege",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Amsterdam City Archives (Dutch): the name Amsterdam first appears in this document drawn up in Leiden on 27 October 1275, the toll privilege of Count Floris V; people living near the Amstel dam need not pay toll in his territory."
+        },
+        {
+          "url": "https://www.museum.nl/en/stadsarchief-amsterdam/showpiece/tolprivilege-uit-1275-amsterdam",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Museum.nl (Dutch): Amsterdam celebrates its birthday every 27 October; on that day in 1275 the city received the toll privilege from Count Floris V."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "dessalines-vertieres",
+      "canonicalId": "dessalines-vertieres",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 18), 1803: Haitian forces led by Jean-Jacques Dessalines defeated the French at the Battle of Vertieres, effectively concluding the Haitian Revolution and paving the way for the declaration of Haitian independence several weeks later."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "caribbean"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "madero-mexican-revolution",
+      "canonicalId": "madero-mexican-revolution",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 20): On this day in 1910, Francisco Madero launched a failed revolt that sparked the Mexican Revolution by inspiring ... Pancho Villa and Emiliano Zapata ... against the government of Porfirio Diaz."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "ley-juarez-special-courts",
+      "canonicalId": "ley-juarez-special-courts",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 23): Passed this day in 1855 in Mexico, the Ley Juarez abolished special courts for the clergy and military in an attempt by justice minister Benito Juarez to eliminate the remnants of colonialism in Mexico and promote equality."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "naismith-first-basketball",
+      "canonicalId": "naismith-first-basketball",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 21): Gym teacher James Naismith organized the first game of basketball, which was played on this day in 1891 in a school in Springfield, Massachusetts ... prompted Naismith to develop the sport's original rules."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "whaleship-essex-moby-dick",
+      "canonicalId": "whaleship-essex-moby-dick",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 20), 1820: The American whaling ship Essex was rammed by a sperm whale and later sank, inspiring the climactic scene in Herman Melville's novel Moby Dick (1851)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america",
+        "oceania"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "locarno-western-europe",
+      "canonicalId": "locarno-western-europe",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 1), 1925: Germany, France, Belgium, Great Britain, and Italy signed the Pact of Locarno, a series of agreements intended to guarantee peace in western Europe."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "anglo-irish-treaty-free-state",
+      "canonicalId": "anglo-irish-treaty-free-state",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 6): Representatives of the British government and Irish leaders Arthur Griffith, Michael Collins, and others signed the Anglo-Irish Treaty this day in 1921, concluding the Irish War of Independence and establishing the Irish Free State."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "finland-independence-1917",
+      "canonicalId": "finland-independence-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 6), 1917: Finland declared itself independent of Russia, following the Bolshevik Revolution."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "barnard-first-heart-transplant",
+      "canonicalId": "barnard-first-heart-transplant",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 3), 1967: Christiaan Barnard of South Africa performed the first human heart transplant, at Groote Schuur Hospital in Cape Town."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "southern-africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "great-chicago-fire-duration",
+      "canonicalId": "great-chicago-fire-duration",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chicago-fire-of-1871",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: conflagration that began on October 8, 1871, and burned until early October 10, devastating an expansive swath of the city of Chicago."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "amundsen-first-south-pole",
+      "canonicalId": "amundsen-first-south-pole",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 14), 1911: Roald Amundsen - traveling with 4 companions, 52 dogs, and 4 sledges - became the first explorer to reach the South Pole."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "antarctica",
+        "europe"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "suez-canal-construction-decade",
+      "canonicalId": "suez-canal-construction-decade",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 17), 1869: After 10 years of construction, the Suez Canal opened in Egypt."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-africa"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "tehran-conference-big-three",
+      "canonicalId": "tehran-conference-big-three",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 28): The Tehran Conference, attended by Roosevelt, Churchill, and Stalin, at which Stalin pressed for an invasion of France, opened this day in 1943."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mozart-death-age",
+      "canonicalId": "mozart-death-age",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 5), 1791: Austrian composer Wolfgang Amadeus Mozart died in Vienna at age 35."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "first-nobel-prizes-anniversary",
+      "canonicalId": "first-nobel-prizes-anniversary",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 10), 1901: The first Nobel Prizes were distributed, marking the fifth anniversary of the death of Alfred Nobel ... who founded and endowed the awards through his will."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "modern"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-space-exploration-firsts",
+      "canonicalId": "order-space-exploration-firsts",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Office of the Historian: On October 4, 1957, the Soviet Union launched the earth's first artificial satellite, Sputnik-1."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 21), 1968: Apollo 8 was launched from Cape Kennedy (Cape Canaveral) and eventually completed 10 lunar orbits."
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-17/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "NASA: launch Dec. 7, 1972; the Apollo Program's last lunar landing mission."
+        },
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "ESA: On 12 November 2014 ... Rosetta's lander Philae made space exploration history by touching down on a comet for the first time."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "cold-war",
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-african-independence-1960s",
+      "canonicalId": "order-african-independence-1960s",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 9), 1961: Tanganyika became independent, with Julius Nyerere as its first prime minister."
+        },
+        {
+          "url": "https://history.state.gov/countries/zambia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Office of the Historian: recognized Zambia on October 24, 1964 ... upon Zambia's attainment of independence on the same date."
+        },
+        {
+          "url": "https://history.state.gov/countries/lesotho",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Office of the Historian: recognized the Kingdom of Lesotho on October 4, 1966 ... upon Lesotho's attainment of independence on that same date."
+        },
+        {
+          "url": "https://history.state.gov/countries/equatorial-guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Office of the Historian: On October 12, 1968, Equatorial Guinea gained independence from Spain."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "east-africa",
+        "southern-africa",
+        "central-africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-peace-treaties",
+      "canonicalId": "order-peace-treaties",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Peace-of-Westphalia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: European settlements of 1648 that ended the German phase of the Thirty Years' War; the treaty of October 24, 1648."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 24), 1814: The United States and Great Britain signed the Treaty of Ghent in Belgium, ending the War of 1812."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 27), 1919: The Treaty of Neuilly, outlining the post-World War I peace terms for Bulgaria, was signed."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 21), 1995: A peace agreement, known as the Dayton Accords, was reached ... ending the Bosnian War."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "north-america"
+      ],
+      "eras": [
+        "early-modern",
+        "modern",
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-science-discoveries",
+      "canonicalId": "order-science-discoveries",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: On November 8, 1895 ... Rontgen observed that a screen of barium platinocyanide far from the tube gave off light."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 21), 1898: Marie Curie and Pierre Curie discovered the radioactive chemical element radium."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Dec 2), 1942: Scientists led by Enrico Fermi conducted the world's first controlled self-sustaining nuclear chain reaction, at the University of Chicago."
+        },
+        {
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "UNIGE: On 6 October 1995, Michel Mayor and Didier Queloz announced the discovery of the first planet orbiting a star other than the Sun."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "north-america"
+      ],
+      "eras": [
+        "modern",
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-political-turning-points",
+      "canonicalId": "order-political-turning-points",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: Coup of 18-19 Brumaire (November 9-10, 1799), coup d'etat that overthrew the Directory and substituted the Consulate."
+        },
+        {
+          "url": "https://www.britannica.com/event/October-Manifesto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: October Manifesto, (Oct. 30 [Oct. 17, Old Style], 1905); promised a constitution and an elected Duma."
+        },
+        {
+          "url": "https://www.britannica.com/event/Russian-Revolution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: In an all-night session on October 25-26 (November 7-8, New Style) the Congress of Soviets in Petrograd declared government power vested in the Council of People's Commissars, with Lenin as premier (1917)."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 17), 1989: Massive antigovernment demonstrations in Czechoslovakia ... under the leadership of Vaclav Havel, continued until the communist government resigned."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "modern",
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "order-film-milestones",
+      "canonicalId": "order-film-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "AFI Catalog lists 6 October 1927 for The Jazz Singer."
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Jazz-Singer-film-1927",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica: The Jazz Singer, released in 1927, the first feature-length movie with synchronized dialogue."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 18), 1928: Walt Disney released Steamboat Willie, the first animated film with sound to feature Mickey Mouse."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 26): Casablanca premiered this day in 1942."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-28",
+          "note": "Britannica OTD (Nov 22), 1995: Pixar's Toy Story, the first entirely computer-animated feature-length film, was released."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "modern",
+        "contemporary"
+      ],
+      "calendarDays": [],
+      "notes": "Drafted and source-checked by Claude in a real browser; awaiting owner editorial review."
+    }
+  ]
+}
