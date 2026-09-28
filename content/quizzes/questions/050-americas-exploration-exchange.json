@@ -111,8 +111,8 @@
       "prompt": "The ancient Maya developed a hieroglyphic writing system.",
       "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
       "correctOptionId": "true",
-      "explanation": "Maya scribes used a sophisticated logosyllabic script in inscriptions and books to record history, ritual, and calendrical information.",
-      "sources": [{"displayName": "The Metropolitan Museum of Art - Maya Writing", "url": "https://www.metmuseum.org/essays/maya-writing"}],
+      "explanation": "Maya scribes used a script of more than 800 characters, combining word signs with signs for syllables, in stone inscriptions and a few surviving books.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Maya hieroglyphic writing", "url": "https://www.britannica.com/topic/Maya-hieroglyphic-writing"}],
       "collectionIds": ["ancient-history", "society-culture-and-ideas"]
     },
     {

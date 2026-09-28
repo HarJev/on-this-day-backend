@@ -172,11 +172,11 @@
         }
       ],
       "correctOptionId": "disease",
-      "explanation": "Nightingale's diagrams showed that most recorded army-hospital deaths came from disease rather than battle wounds, strengthening the case for sanitary reform.",
+      "explanation": "Nightingale's polar area diagram showed that more soldiers died of preventable diseases caused by unsanitary conditions than of battlefield wounds, strengthening the case for sanitary reform.",
       "sources": [
         {
-          "displayName": "UK National Archives - Florence Nightingale",
-          "url": "https://www.nationalarchives.gov.uk/education/resources/florence-nightingale/"
+          "displayName": "Science Museum - Florence Nightingale: The pioneer statistician",
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician"
         }
       ],
       "collectionIds": [
@@ -389,11 +389,11 @@
         }
       ],
       "correctOptionId": "oil",
-      "explanation": "As Iran's prime minister, Mossadegh moved to nationalize the oil industry in 1951.",
+      "explanation": "Mossadegh, Iran's premier from 1951 to 1953, nationalized the huge British oil holdings in Iran.",
       "sources": [
         {
-          "displayName": "U.S. Department of State - Iran, 1952-1954",
-          "url": "https://history.state.gov/milestones/1953-1960/iran"
+          "displayName": "Encyclopaedia Britannica - Mohammad Mosaddegh",
+          "url": "https://www.britannica.com/biography/Mohammad-Mosaddegh"
         }
       ],
       "collectionIds": [
@@ -481,11 +481,11 @@
         }
       ],
       "correctOptionId": "false",
-      "explanation": "The referendum changed constitutional provisions; voting rights had been extended through earlier legislation.",
+      "explanation": "The 1967 referendum let Indigenous Australians be counted in the census and let the Commonwealth make laws for them; the federal right to vote had been extended to all Indigenous Australians in 1962.",
       "sources": [
         {
-          "displayName": "Australian Museum - 1967 referendum",
-          "url": "https://australian.museum/learn/first-nations/1967-referendum/"
+          "displayName": "Australian Electoral Commission - Electoral milestones for Indigenous Australians",
+          "url": "https://www.aec.gov.au/indigenous/milestones.htm"
         }
       ],
       "collectionIds": [
@@ -512,8 +512,8 @@
       "explanation": "The Triple Alliance joined Germany, Austria-Hungary, and Italy before the First World War.",
       "sources": [
         {
-          "displayName": "Imperial War Museums - Triple Alliance",
-          "url": "https://www.iwm.org.uk/history/the-causes-of-world-war-one"
+          "displayName": "Encyclopaedia Britannica - Triple Alliance",
+          "url": "https://www.britannica.com/event/Triple-Alliance-Europe-1882-1915"
         }
       ],
       "collectionIds": [
@@ -611,16 +611,16 @@
           "url": "https://thecommonwealth.org/our-member-countries/samoa"
         },
         {
-          "displayName": "National Archives of Fiji",
-          "url": "https://www.nationalarchives.gov.fj/"
+          "displayName": "Commonwealth - Fiji",
+          "url": "https://thecommonwealth.org/our-member-countries/fiji"
         },
         {
           "displayName": "National Museum of Australia - Papua New Guinea",
           "url": "https://www.nma.gov.au/defining-moments/resources/papua-new-guinea"
         },
         {
-          "displayName": "Vanuatu National Archives",
-          "url": "https://vanuatu.gov.vu/"
+          "displayName": "Commonwealth - Vanuatu",
+          "url": "https://thecommonwealth.org/our-member-countries/vanuatu"
         }
       ],
       "collectionIds": [
@@ -668,8 +668,8 @@
           "url": "https://www.britannica.com/biography/Indira-Gandhi"
         },
         {
-          "displayName": "UK Parliament - Margaret Thatcher",
-          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/premiers/overview/margaret-thatcher/"
+          "displayName": "Encyclopaedia Britannica - Margaret Thatcher",
+          "url": "https://www.britannica.com/biography/Margaret-Thatcher"
         },
         {
           "displayName": "Encyclopaedia Britannica - Benazir Bhutto",

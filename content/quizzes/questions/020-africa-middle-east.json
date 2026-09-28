@@ -48,8 +48,8 @@
         {"id": "menelik-ii", "text": "Menelik II"}
       ],
       "correctOptionId": "ezana",
-      "explanation": "King Ezana adopted Christianity in the fourth century, making Aksum one of the earliest Christian states.",
-      "sources": [{"displayName": "The Metropolitan Museum of Art - The Kingdom of Aksum", "url": "https://www.metmuseum.org/essays/the-kingdom-of-aksum"}],
+      "explanation": "Christianity was adopted in Ethiopia during the fourth-century reign of the Aksumite emperor Ezana, making Aksum one of the earliest Christian states.",
+      "sources": [{"displayName": "The Metropolitan Museum of Art - African Christianity in Ethiopia", "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia"}],
       "collectionIds": ["ancient-history", "leaders-and-power", "exploration-and-exchange"]
     },
     {
@@ -91,7 +91,7 @@
       "type": "multiple_choice",
       "difficulty": "hard",
       "publicationState": "published",
-      "prompt": "Which city became a major royal and industrial center of the Kingdom of Kush?",
+      "prompt": "Which city became the capital and principal royal residence of the Kingdom of Kush?",
       "options": [
         {"id": "meroe", "text": "Meroe"},
         {"id": "aksum", "text": "Aksum"},
@@ -99,8 +99,8 @@
         {"id": "kilwa", "text": "Kilwa"}
       ],
       "correctOptionId": "meroe",
-      "explanation": "Meroe became a royal residence and an important ironworking center of Kush in what is now Sudan.",
-      "sources": [{"displayName": "Encyclopaedia Britannica - Meroe", "url": "https://www.britannica.com/place/Meroe-ancient-city-Sudan"}],
+      "explanation": "Meroe, in what is now Sudan, became the capital of Kush and the main residence of its rulers; most later royal burials were made there.",
+      "sources": [{"displayName": "Encyclopaedia Britannica - Meroe", "url": "https://www.britannica.com/place/Meroe"}],
       "collectionIds": ["ancient-history"]
     },
     {
@@ -184,7 +184,7 @@
       "correctOrderItemIds": ["aksum-christianity", "mali-founded", "constantinople-captured", "battle-adwa"],
       "explanation": "These milestones occurred around the fourth century, about 1235, in 1453, and in 1896 respectively.",
       "sources": [
-        {"displayName": "The Metropolitan Museum of Art - The Kingdom of Aksum", "url": "https://www.metmuseum.org/essays/the-kingdom-of-aksum"},
+        {"displayName": "The Metropolitan Museum of Art - African Christianity in Ethiopia", "url": "https://www.metmuseum.org/essays/african-christianity-in-ethiopia"},
         {"displayName": "Encyclopaedia Britannica - Mali Empire", "url": "https://www.britannica.com/place/Mali-historical-empire-Africa"},
         {"displayName": "Encyclopaedia Britannica - Fall of Constantinople", "url": "https://www.britannica.com/event/Fall-of-Constantinople-1453"},
         {"displayName": "Encyclopaedia Britannica - Battle of Adwa", "url": "https://www.britannica.com/event/Battle-of-Adwa"}

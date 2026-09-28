@@ -124,7 +124,7 @@
       "options": [{"id": "true", "text": "True"}, {"id": "false", "text": "False"}],
       "correctOptionId": "true",
       "explanation": "The Indian Independence Act took effect in August 1947, creating the independent dominions of India and Pakistan amid a traumatic partition.",
-      "sources": [{"displayName": "UK Parliament - Indian Independence Act 1947", "url": "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/empire/collections1/collections2/indian-independence-act-1947/"}],
+      "sources": [{"displayName": "Encyclopaedia Britannica - Indian Independence Act", "url": "https://www.britannica.com/topic/Indian-Independence-Act-1947"}],
       "collectionIds": ["society-culture-and-ideas"]
     },
     {
