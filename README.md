@@ -32,6 +32,7 @@ Implemented:
 ```text
 GET /v1/health
 GET /v1/days/today?timezone=Area/Location
+GET /v1/days/recent?timezone=Area/Location&days=7
 GET /v1/events/{eventId}
 POST /v1/devices
 DELETE /v1/devices/{token}

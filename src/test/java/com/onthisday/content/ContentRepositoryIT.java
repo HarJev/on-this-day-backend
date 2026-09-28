@@ -117,6 +117,72 @@ class ContentRepositoryIT {
   }
 
   @Test
+  void featuredEventSummariesReturnOnlyFeaturedEventsForRequestedDates() throws SQLException {
+    inTransaction(
+        connection -> {
+          insertEvent(
+              connection,
+              "recent-featured-0310",
+              "A featured event on March 10",
+              "1876",
+              "March 10, 1876",
+              "Summary.",
+              "A concise description.",
+              "Notification title",
+              "Notification body",
+              "Date follows the Gregorian calendar.");
+          insertSource(connection, "recent-featured-0310", 1, "Encyclopaedia Britannica");
+          insertDailyEvent(connection, 3, 10, "recent-featured-0310", "featured", 1);
+
+          insertEvent(
+              connection,
+              "recent-featured-0311",
+              "A featured event on March 11",
+              "1918",
+              "March 11, 1918",
+              "Summary.",
+              "A concise description.",
+              "Notification title",
+              "Notification body",
+              null);
+          insertSource(connection, "recent-featured-0311", 1, "Encyclopaedia Britannica");
+          insertDailyEvent(connection, 3, 11, "recent-featured-0311", "featured", 1);
+
+          insertEvent(
+              connection,
+              "recent-additional-0311",
+              "An additional event on March 11",
+              "1702",
+              "March 11, 1702",
+              "Summary.",
+              "A concise description.",
+              null,
+              null,
+              null);
+          insertSource(connection, "recent-additional-0311", 1, "Encyclopaedia Britannica");
+          insertDailyEvent(connection, 3, 11, "recent-additional-0311", "additional", 2);
+        });
+
+    var repository = new JdbcTodayContentRepository(dataSource);
+
+    var summaries =
+        repository.findFeaturedEventSummaries(
+            java.util.List.of(MonthDay.of(3, 12), MonthDay.of(3, 11), MonthDay.of(3, 10)));
+
+    assertEquals(java.util.Set.of(MonthDay.of(3, 11), MonthDay.of(3, 10)), summaries.keySet());
+    assertEquals(
+        new EventSummary(
+            "recent-featured-0310",
+            "A featured event on March 10",
+            "1876",
+            "March 10, 1876",
+            "Date follows the Gregorian calendar."),
+        summaries.get(MonthDay.of(3, 10)));
+    assertEquals("recent-featured-0311", summaries.get(MonthDay.of(3, 11)).id());
+    assertEquals(java.util.Map.of(), repository.findFeaturedEventSummaries(java.util.List.of()));
+  }
+
+  @Test
   void eventRepositoryReturnsDetailsSourcesImagesAndPrimaryImage() throws SQLException {
     inTransaction(
         connection -> {

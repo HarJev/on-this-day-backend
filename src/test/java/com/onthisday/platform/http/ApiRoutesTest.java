@@ -79,6 +79,54 @@ class ApiRoutesTest {
   }
 
   @Test
+  void registersRecentDaysRouteWithInjectedRepository() {
+    var router =
+        ApiRoutes.create(
+            date -> {
+              if (!date.equals(java.time.MonthDay.of(8, 21))) {
+                throw new com.onthisday.content.ContentUnavailableException("missing");
+              }
+              return new TodayContent(
+                  new ContentDate(8, 21, "Aug 21"),
+                  new FeaturedEvent(
+                      "cook-claims-eastern-australia-1770",
+                      "James Cook claims eastern Australia for Britain",
+                      "1770",
+                      "August 21, 1770",
+                      "Cook claims eastern Australia.",
+                      "Notification title",
+                      "Notification body",
+                      null,
+                      null),
+                  List.of());
+            },
+            eventId -> eventDetail(),
+            new RecordingDeviceRegistrationRepository(),
+            Clock.fixed(Instant.parse("2026-08-23T03:30:00Z"), ZoneOffset.UTC));
+
+    var response =
+        router.route(
+            new HttpRequest(
+                HttpMethod.GET,
+                "/v1/days/recent",
+                Map.of("timezone", "America/Jamaica", "days", "3"),
+                Map.of(),
+                Map.of(),
+                ""));
+
+    assertEquals(200, response.statusCode());
+    assertEquals(
+        "{\"days\":[{\"daysAgo\":1,"
+            + "\"date\":{\"month\":8,\"day\":21,\"displayDate\":\"Aug 21\"},"
+            + "\"featuredEvent\":{\"id\":\"cook-claims-eastern-australia-1770\","
+            + "\"title\":\"James Cook claims eastern Australia for Britain\","
+            + "\"year\":\"1770\","
+            + "\"historicalDate\":\"August 21, 1770\","
+            + "\"dateNote\":null}}]}",
+        response.body());
+  }
+
+  @Test
   void registersEventDetailRouteWithInjectedRepository() {
     var router =
         ApiRoutes.create(

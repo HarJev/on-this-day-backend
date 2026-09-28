@@ -111,6 +111,72 @@ Rules:
 - Empty or missing featured content is a backend/content issue, not normal
   browsing behavior.
 
+## Get Recent Days
+
+```text
+GET /v1/days/recent?timezone=Area/Location&days=7
+```
+
+Returns the featured event for each of the local dates before today inside a
+window of `days` dates that ends today. The app uses it to let people revisit
+the past few days; today itself comes from `GET /v1/days/today`.
+
+Query parameters:
+
+| Name | Required | Rules |
+| --- | --- | --- |
+| `timezone` | yes | IANA timezone, resolved the same way as Today |
+| `days` | no | whole number from `2` to `14`, default `7` (today plus the six dates before it) |
+
+Example:
+
+```text
+GET /v1/days/recent?timezone=America/Jamaica&days=7
+```
+
+Successful response:
+
+```json
+{
+  "days": [
+    {
+      "daysAgo": 1,
+      "date": {
+        "month": 8,
+        "day": 21,
+        "displayDate": "Aug 21"
+      },
+      "featuredEvent": {
+        "id": "hawaii-becomes-50th-state-1959",
+        "title": "Hawaii becomes the 50th US state",
+        "year": "1959",
+        "historicalDate": "August 21, 1959",
+        "dateNote": null
+      }
+    }
+  ]
+}
+```
+
+Rules:
+
+- `days` is ordered newest first; `daysAgo` is `1` for yesterday.
+- Dates without featured content are skipped, so the list can be shorter than
+  `days - 1` or empty. `daysAgo` still reflects the real distance, so gaps are
+  visible.
+- `featuredEvent` uses the same summary shape as `additionalEvents` in Today.
+  The app opens full content with `GET /v1/events/{eventId}`.
+- Year and leap-day boundaries follow the local calendar: on March 1 of a leap
+  year, yesterday is Feb 29.
+
+Errors:
+
+| Status | Code | Use |
+| --- | --- | --- |
+| `400` | `invalid_timezone` | missing, blank, or invalid IANA timezone |
+| `400` | `invalid_days` | `days` is not a whole number from `2` to `14` |
+| `503` | `content_unavailable` | content could not be loaded |
+
 ## Get Event
 
 ```text
