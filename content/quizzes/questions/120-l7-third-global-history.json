@@ -688,7 +688,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["great-chicago-fire-1871"]
     },
     {
       "id": "amundsen-first-south-pole",
@@ -883,7 +884,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["sputnik-1-launched-1957"]
     },
     {
       "id": "order-african-independence-1960s",
@@ -1153,7 +1155,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["the-jazz-singer-premieres-1927"]
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Connected Quiz Content: Active Handoff
 
-Updated: 2026-09-29. Scope: C1-C3 for October 2-8 only.
+Updated: 2026-09-29. Scope: C1-C4 for October 2-8 only.
 
 Read AGENTS.md, CLAUDE.md, CONNECTED_QUIZ_CONTENT_PLAN.md and the editorial
 workflow before continuing. This document is not content approval.
@@ -27,7 +27,7 @@ workflow before continuing. This document is not content approval.
 | C1: October 2-8 inventory | COMPLETED | Canonical bank, all seven draft days, 28 event records and their ledger inspected; reuse candidates below. |
 | C2: October 2-8 slate | COMPLETED | Owner approved all fourteen hooks on 2026-09-29 for research/drafting, not publication. |
 | C3: sourced pack and link ledgers | COMPLETED | Eight draft questions and six link proposals researched; strict quiz/editorial checks pass. Final owner content review pending. |
-| C4: approval, promotion and import | NOT_STARTED | Explicit owner approval; events first, then questions/links; disposable verification before any approved shared-DB import. |
+| C4: approval, promotion and import | COMPLETED | Owner approved events, questions and links on 2026-09-29; promoted and imported into the local Docker DB only. See C4 evidence below. |
 
 ## Proposed Slate
 
@@ -150,3 +150,35 @@ regeneration, deployments or cloud resources changed in C1/C2.
 C4 next: owner may approve/revise any of the eight questions or six links.
 Recheck concurrent content/pack numbers; preserve stable IDs and existing
 Daily assignments; plan dependency-ordered promotion/import separately.
+
+## C4 Evidence - 2026-09-29
+
+- Branch: `codex/connected-quiz-oct-02-08-promotion` from main `08cdecc`.
+- Owner approval (2026-09-29, project thread): review, update if needed,
+  approve and import the October 2-8 drafts with all links. Ledgers record
+  reviewer `Jevaun Harris`, `reviewedOn` 2026-09-29: 28 event entries and 14
+  quiz entries (8 new questions, 6 relationships) now `approved`.
+- Pre-approval review change: `the-jazz-singer-premieres-1927` title, summary
+  and description now describe the October 6, 1927 New York premiere as a
+  landmark in the transition to sound film, not the first synchronized-dialogue
+  feature, matching the AFI caution already applied to `order-film-milestones`.
+  Source URLs unchanged. Other 27 events promoted as drafted.
+- Canonical: 28 events and seven days (10-02 to 10-08) appended; Pack 140
+  `140-connected-october-02-08.json` holds the eight questions as `published`.
+  Six `relatedEventIds` added in the original packs (040, 100, 110, 120) after
+  re-verifying each snapshot hash; no other field changed. Draft files removed;
+  `proposed-links.json` kept as the link-review record.
+- `ClosedBetaRunwayDraftTest` skips runway batches without `draft-events.json`
+  (promoted batches), as their events are now canonical.
+- Checks: `EditorialReviewCheckCommand` passes for both batches; `mvn -B test`
+  198 tests, 0 failures.
+- Local Docker Postgres only (migrations V1-V4 current): historical import, then
+  quiz import, both successful. Database now 146 events, 31 days, 204 questions
+  (203 published), 51 question-event relations. All 14 October 2-8 links present
+  and resolve to published questions. `ContentStatusCommand`: `inSync: true`.
+  The 10 Daily challenges and 200 assigned questions are unchanged.
+- SAM local: catalog reports 203 published; new events resolve via
+  `/v1/events/{id}`; Quick Play returns linked questions with `relatedEvents`.
+- Not done: Supabase/shared or production import, deployment, Daily
+  regeneration. Existing Daily assignments are not retrofitted.
+

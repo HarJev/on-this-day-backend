@@ -5,7 +5,7 @@
     {
       "candidateId": "german-reunification-two-states",
       "canonicalId": "german-reunification-two-states",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814",
@@ -24,12 +24,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Directly tests the states involved in reunification, without date recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Directly tests the states involved in reunification, without date recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "lesotho-surrounding-country",
       "canonicalId": "lesotho-surrounding-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.gov.za/about-sa/south-africas-provinces",
@@ -54,12 +56,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Places the independent country geographically without asking its independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Places the independent country geographically without asking its independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "beatles-home-city",
       "canonicalId": "beatles-home-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.thebeatles.com/please-please-me",
@@ -84,12 +88,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Connects the first-single milestone to the band's home city, not the recording studio. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Connects the first-single milestone to the band's home city, not the recording studio. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "monty-python-television-format",
       "canonicalId": "monty-python-television-format",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.montypython.com/python_The_Pythons/14",
@@ -108,12 +114,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Tests a familiar cultural format rather than broadcast-time or episode trivia. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Tests a familiar cultural format rather than broadcast-time or episode trivia. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "exoplanet-meaning",
       "canonicalId": "exoplanet-meaning",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/universe/unveiling-rogue-planets-with-nasas-roman-space-telescope/",
@@ -138,12 +146,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Explains the discovery's central term rather than testing telescope names or orbital statistics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Explains the discovery's central term rather than testing telescope names or orbital statistics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "klm-home-country",
       "canonicalId": "klm-home-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.klm.com/information/corporate/history",
@@ -162,12 +172,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Connects the airline's founding to its home country; no Dutch acronym expansion in prompt. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Connects the airline's founding to its home country; no Dutch acronym expansion in prompt. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "project-mercury-primary-goal",
       "canonicalId": "project-mercury-primary-goal",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/project-mercury/",
@@ -192,12 +204,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Tests the purpose of the approved program rather than memorizing its approval date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Tests the purpose of the approved program rather than memorizing its approval date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "baseball-perfect-game-meaning",
       "canonicalId": "baseball-perfect-game-meaning",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://baseballhall.org/discover/lee-richmond-created-baseball-perfection",
@@ -222,12 +236,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Makes Larsen's achievement understandable without obscure player or score recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched by Codex; owner approved final content for publication on 2026-09-29. Relation: Makes Larsen's achievement understandable without obscure player or score recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-identify-mahatma-gandhi",
       "canonicalId": "identify-mahatma-gandhi",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi",
@@ -246,12 +262,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation approved by owner on 2026-09-29. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); exact owned URL/provenance unchanged, no new download or fresh liveness claim.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-identify-charles-darwin",
       "canonicalId": "identify-charles-darwin",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
@@ -271,12 +289,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation approved by owner on 2026-09-29. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-identify-george-washington",
       "canonicalId": "identify-george-washington",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091",
@@ -295,12 +315,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation approved by owner on 2026-09-29. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-order-space-exploration-firsts",
       "canonicalId": "order-space-exploration-firsts",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1953-1960/sputnik",
@@ -319,12 +341,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Existing question's full sequence/explanation is not being newly approved by this link review."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation approved by owner on 2026-09-29. Existing question's full sequence/explanation is not being newly approved by this link review.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-order-film-milestones",
       "canonicalId": "order-film-milestones",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
@@ -344,12 +368,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Relationship review only; the new event link remains unapproved. Owner separately authorized immediate factual correction on 2026-09-29: the canonical Jazz Singer explanation now describes a landmark in the transition to sound film and its October premiere, without an absolute first-film priority claim. Four items, correct order, other film facts and all existing relationships unchanged. No approval of the proposed new event link is implied."
+      "notes": "Relationship review only; the new event link was approved by owner on 2026-09-29. Owner separately authorized immediate factual correction on 2026-09-29: the canonical Jazz Singer explanation now describes a landmark in the transition to sound film and its October premiere, without an absolute first-film priority claim. Four items, correct order, other film facts and all existing relationships unchanged. No approval of the proposed new event link is implied.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "link-great-chicago-fire-duration",
       "canonicalId": "great-chicago-fire-duration",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.chicagohistory.org/app/uploads/2020/03/3.-Chicago-Fire.pdf",
@@ -368,7 +394,9 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Existing question's full sequence/explanation is not being newly approved by this link review."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation approved by owner on 2026-09-29. Existing question's full sequence/explanation is not being newly approved by this link review.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     }
   ]
 }

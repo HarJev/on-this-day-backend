@@ -111,6 +111,8 @@ class ClosedBetaRunwayDraftTest {
   }
 
   private static boolean isRunwayBatch(Path path) {
-    return path.getFileName().toString().matches("2026-(10|11|12)-\\d{2}-\\d{2}-historical-events");
+    // A promoted batch keeps its ledger but no longer has drafts: its events are canonical.
+    return path.getFileName().toString().matches("2026-(10|11|12)-\\d{2}-\\d{2}-historical-events")
+        && Files.exists(path.resolve("draft-events.json"));
   }
 }

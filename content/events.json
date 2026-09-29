@@ -2368,6 +2368,522 @@
           "primary": true
         }
       ]
+    },
+    {
+      "id": "gandhi-born-1869",
+      "title": "Mohandas Gandhi is born",
+      "year": "1869",
+      "historicalDate": "October 2, 1869",
+      "dateNote": null,
+      "summary": "The future leader of India's independence movement is born in Porbandar.",
+      "description": "On October 2, 1869, Mohandas Karamchand Gandhi was born in Porbandar, India. A lawyer, politician, social activist, and writer, he became the leader of the Indian independence movement against British rule.",
+      "notificationTitle": "Where Gandhi's story began",
+      "notificationBody": "In 1869, Mohandas Gandhi was born in Porbandar, India.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Mahatma Gandhi",
+          "url": "https://www.britannica.com/biography/Mahatma-Gandhi"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "saladin-captures-jerusalem-1187",
+      "title": "Jerusalem surrenders to Saladin",
+      "year": "1187",
+      "historicalDate": "October 2, 1187",
+      "dateNote": "Julian calendar date.",
+      "summary": "The city returns to Muslim rule after 88 years under the Crusaders.",
+      "description": "On October 2, 1187, Jerusalem surrendered to the army of Saladin after 88 years in the hands of the Franks. The capture followed his victory over a Crusader army at Hattin that July.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Saladin",
+          "url": "https://www.britannica.com/biography/Saladin"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "peanuts-debuts-1950",
+      "title": "The first Peanuts comic strip appears",
+      "year": "1950",
+      "historicalDate": "October 2, 1950",
+      "dateNote": null,
+      "summary": "Charles Schulz's strip debuts in seven newspapers.",
+      "description": "On October 2, 1950, the first Peanuts comic strip by Charles M. Schulz appeared in seven newspapers across the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Charles M. Schulz Museum - Charles M. Schulz Biography",
+          "url": "https://schulzmuseum.org/about-schulz/schulz-biography/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "beagle-returns-to-england-1836",
+      "title": "HMS Beagle returns with Charles Darwin",
+      "year": "1836",
+      "historicalDate": "October 2, 1836",
+      "dateNote": null,
+      "summary": "The survey voyage that shaped Darwin's thinking ends at Falmouth.",
+      "description": "On October 2, 1836, HMS Beagle arrived back in England at Falmouth, ending a five-year voyage with the naturalist Charles Darwin aboard.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Darwin Correspondence Project - Voyage of HMS Beagle",
+          "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle"
+        },
+        {
+          "name": "Darwin Correspondence Project - Robert FitzRoy",
+          "url": "https://www.darwinproject.ac.uk/robert-fitzroy"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "german-reunification-1990",
+      "title": "Germany is reunified",
+      "year": "1990",
+      "historicalDate": "October 3, 1990",
+      "dateNote": null,
+      "summary": "East and West Germany become one country again after 45 years.",
+      "description": "On October 3, 1990, the unification treaty between East and West Germany went into effect, making Germany a single state again. The treaty had been ratified by both German parliaments in September.",
+      "notificationTitle": "One Germany again",
+      "notificationBody": "In 1990, East and West Germany were formally reunified.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - German reunification",
+          "url": "https://www.britannica.com/topic/German-reunification"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "iraq-joins-league-of-nations-1932",
+      "title": "Iraq joins the League of Nations as an independent state",
+      "year": "1932",
+      "historicalDate": "October 3, 1932",
+      "dateNote": null,
+      "summary": "Admission to the League marks the end of Iraq's British mandate.",
+      "description": "On October 3, 1932, Iraq was admitted to the League of Nations as an independent state.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Iraq: Independence, 1932-39",
+          "url": "https://www.britannica.com/place/Iraq/Independence-1932-39"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "washington-thanksgiving-proclamation-1789",
+      "title": "George Washington proclaims a national day of thanksgiving",
+      "year": "1789",
+      "historicalDate": "October 3, 1789",
+      "dateNote": null,
+      "summary": "The new president names November 26 as a day of public thanks.",
+      "description": "On October 3, 1789, in New York, President George Washington issued a proclamation recommending Thursday, November 26, as a day of public thanksgiving for the people of the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Founders Online (U.S. National Archives) - Thanksgiving Proclamation, 3 October 1789",
+          "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "francis-of-assisi-dies-1226",
+      "title": "Francis of Assisi dies",
+      "year": "1226",
+      "historicalDate": "October 3, 1226",
+      "dateNote": "Julian calendar date.",
+      "summary": "The founder of the Franciscan orders dies in his hometown.",
+      "description": "On October 3, 1226, Francis of Assisi, founder of the Franciscan religious orders, died in Assisi. He was canonized in 1228, and his feast day is October 4.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - St. Francis of Assisi",
+          "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sputnik-1-launched-1957",
+      "title": "Sputnik 1 becomes the first artificial satellite",
+      "year": "1957",
+      "historicalDate": "October 4, 1957",
+      "dateNote": null,
+      "summary": "The Soviet launch opens the space age.",
+      "description": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth.",
+      "notificationTitle": "The beep that started the space age",
+      "notificationBody": "In 1957, Sputnik 1 became the first artificial satellite.",
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Sputnik, 1957",
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lesotho-independence-1966",
+      "title": "Lesotho becomes independent",
+      "year": "1966",
+      "historicalDate": "October 4, 1966",
+      "dateNote": null,
+      "summary": "The mountain kingdom in southern Africa gains independence.",
+      "description": "On October 4, 1966, the Kingdom of Lesotho attained independence. The United States recognized it the same day and established an embassy at Maseru.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. Office of the Historian - Lesotho",
+          "url": "https://history.state.gov/countries/lesotho"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mount-rushmore-carving-begins-1927",
+      "title": "Carving begins at Mount Rushmore",
+      "year": "1927",
+      "historicalDate": "October 4, 1927",
+      "dateNote": null,
+      "summary": "Work starts on the mountain memorial in South Dakota.",
+      "description": "On October 4, 1927, carving began on Mount Rushmore in South Dakota. About 400 workers labored on the memorial until work ended on October 31, 1941.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "U.S. National Park Service - Mount Rushmore: Carving History",
+          "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "rembrandt-dies-1669",
+      "title": "Rembrandt dies in Amsterdam",
+      "year": "1669",
+      "historicalDate": "October 4, 1669",
+      "dateNote": null,
+      "summary": "The Dutch master of painting and printmaking dies at 63.",
+      "description": "On October 4, 1669, the Dutch Baroque painter and printmaker Rembrandt van Rijn died in Amsterdam. He is regarded as one of the greatest storytellers in the history of art.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Rembrandt",
+          "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "beatles-love-me-do-1962",
+      "title": "The Beatles release their first single",
+      "year": "1962",
+      "historicalDate": "October 5, 1962",
+      "dateNote": null,
+      "summary": "'Love Me Do' launches the band's recording career.",
+      "description": "On October 5, 1962, the Beatles released 'Love Me Do', backed by 'P.S. I Love You', as their first single. It reached number 17 in the United Kingdom and later became a US number one in 1964.",
+      "notificationTitle": "Where the Beatles began on record",
+      "notificationBody": "In 1962, the Beatles released their first single, 'Love Me Do'.",
+      "sources": [
+        {
+          "name": "The Beatles (official site) - Love Me Do",
+          "url": "https://www.thebeatles.com/love-me-do"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "portugal-republic-proclaimed-1910",
+      "title": "Portugal becomes a republic",
+      "year": "1910",
+      "historicalDate": "October 5, 1910",
+      "dateNote": null,
+      "summary": "A revolution in Lisbon ends the monarchy.",
+      "description": "On October 5, 1910, Portugal's First Republic was declared from the balcony of Lisbon City Hall, the morning after a republican revolution began. King Manuel II escaped into exile.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - History of Portugal",
+          "url": "https://www.britannica.com/topic/history-of-Portugal"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bulgaria-declares-independence-1908",
+      "title": "Bulgaria declares full independence",
+      "year": "1908",
+      "historicalDate": "October 5, 1908",
+      "dateNote": null,
+      "summary": "Prince Ferdinand proclaims independence from the Ottoman Empire and takes the title of tsar.",
+      "description": "On October 5, 1908, Ferdinand of Bulgaria proclaimed the full independence of Bulgaria from the Ottoman Empire and took the title of king, or tsar.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Ferdinand (king of Bulgaria)",
+          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "monty-python-first-broadcast-1969",
+      "title": "Monty Python's Flying Circus first airs",
+      "year": "1969",
+      "historicalDate": "October 5, 1969",
+      "dateNote": null,
+      "summary": "The anarchic comedy series makes its television debut.",
+      "description": "On October 5, 1969, the first episode of Monty Python's Flying Circus, 'Whither Canada?', aired, including the sketch 'The Funniest Joke in the World'.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Monty Python (official site) - Monty Python's Flying Circus, Series 1",
+          "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-exoplanet-announced-1995",
+      "title": "Astronomers announce the first planet around a Sun-like star",
+      "year": "1995",
+      "historicalDate": "October 6, 1995",
+      "dateNote": null,
+      "summary": "Geneva astronomers reveal 51 Pegasi b, opening the age of exoplanets.",
+      "description": "On October 6, 1995, Michel Mayor and Didier Queloz of the University of Geneva announced at a conference in Florence the discovery of 51 Pegasi b, the first planet found orbiting a Sun-like star. The discovery later earned them the 2019 Nobel Prize in Physics.",
+      "notificationTitle": "The first world around another sun",
+      "notificationBody": "In 1995, astronomers announced 51 Pegasi b, the first exoplanet around a Sun-like star.",
+      "sources": [
+        {
+          "name": "University of Geneva - The first exoplanet was discovered 30 years ago at the UNIGE",
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "the-jazz-singer-premieres-1927",
+      "title": "The Jazz Singer premieres in New York",
+      "year": "1927",
+      "historicalDate": "October 6, 1927",
+      "dateNote": null,
+      "summary": "Al Jolson's film becomes a landmark in the move to talking pictures.",
+      "description": "On October 6, 1927, The Jazz Singer, starring Al Jolson, premiered in New York. Its synchronized songs and spoken passages made it a landmark in the transition from silent films to sound film.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "American Film Institute Catalog - The Jazz Singer (1927)",
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535"
+        },
+        {
+          "name": "Encyclopaedia Britannica - The Jazz Singer",
+          "url": "https://www.britannica.com/topic/The-Jazz-Singer-film-1927"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "yom-kippur-war-begins-1973",
+      "title": "The Yom Kippur War begins",
+      "year": "1973",
+      "historicalDate": "October 6, 1973",
+      "dateNote": null,
+      "summary": "Egypt and Syria launch a surprise attack on Israel.",
+      "description": "On October 6, 1973, the Jewish holy day of Yom Kippur, Egypt and Syria attacked Israel simultaneously on two fronts, beginning the fourth of the Arab-Israeli wars.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Yom Kippur War",
+          "url": "https://www.britannica.com/event/Yom-Kippur-War"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "anwar-sadat-assassinated-1981",
+      "title": "Egyptian president Anwar Sadat is assassinated",
+      "year": "1981",
+      "historicalDate": "October 6, 1981",
+      "dateNote": null,
+      "summary": "The leader who made peace with Israel is killed in Cairo.",
+      "description": "On October 6, 1981, Anwar Sadat, president of Egypt since 1970, was assassinated in Cairo.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Anwar Sadat",
+          "url": "https://www.britannica.com/biography/Anwar-Sadat"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "klm-founded-1919",
+      "title": "KLM is founded",
+      "year": "1919",
+      "historicalDate": "October 7, 1919",
+      "dateNote": null,
+      "summary": "The Dutch carrier becomes the world's oldest airline still flying under its original name.",
+      "description": "On October 7, 1919, Royal Dutch Airlines (KLM) was founded by eight investors from business and banking. It is the oldest airline in the world still operating under its original name.",
+      "notificationTitle": "The airline that kept its name",
+      "notificationBody": "In 1919, KLM was founded; it still flies under its original name.",
+      "sources": [
+        {
+          "name": "KLM - History of KLM",
+          "url": "https://www.klm.com/information/corporate/history"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-lepanto-1571",
+      "title": "The Holy League defeats the Ottoman fleet at Lepanto",
+      "year": "1571",
+      "historicalDate": "October 7, 1571",
+      "dateNote": "Julian calendar date.",
+      "summary": "The last great sea battle between galleys is fought off Greece.",
+      "description": "On October 7, 1571, the fleets of the Holy League, including Spain, Venice, and the Papal States, defeated the Ottoman Turks in waters off southwestern Greece. Lepanto was the last great sea battle fought between galleys.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Battle of Lepanto",
+          "url": "https://www.britannica.com/event/Battle-of-Lepanto"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "project-mercury-approved-1958",
+      "title": "NASA approves Project Mercury",
+      "year": "1958",
+      "historicalDate": "October 7, 1958",
+      "dateNote": null,
+      "summary": "America's first human spaceflight program gets the go-ahead.",
+      "description": "On October 7, 1958, NASA Administrator T. Keith Glennan approved the manned satellite project that became Project Mercury, America's first human spaceflight program, reportedly saying, in effect, 'Let's get on with it.'",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA History - Project Mercury: A Chronology, Part 2(A)",
+          "url": "https://www.nasa.gov/history/SP-4001/p2a.htm"
+        },
+        {
+          "name": "NASA - Project Mercury",
+          "url": "https://www.nasa.gov/project-mercury/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "german-democratic-republic-founded-1949",
+      "title": "The German Democratic Republic is founded",
+      "year": "1949",
+      "historicalDate": "October 7, 1949",
+      "dateNote": null,
+      "summary": "A new constitution takes effect in the Soviet occupation zone.",
+      "description": "On October 7, 1949, the German Democratic Republic, or East Germany, was founded when its provisional People's Chamber put the new state's constitution into force.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Bundeszentrale fur politische Bildung - 7. Oktober 1949 (Deutschland-Chronik)",
+          "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "don-larsen-perfect-game-1956",
+      "title": "Don Larsen pitches a perfect game in the World Series",
+      "year": "1956",
+      "historicalDate": "October 8, 1956",
+      "dateNote": null,
+      "summary": "The Yankees pitcher retires all 27 Brooklyn Dodgers batters.",
+      "description": "On October 8, 1956, New York Yankees pitcher Don Larsen threw a perfect game against the Brooklyn Dodgers, retiring all 27 batters. It remains the only perfect game in World Series history.",
+      "notificationTitle": "27 up, 27 down",
+      "notificationBody": "In 1956, Don Larsen pitched the only perfect game in World Series history.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Don Larsen",
+          "url": "https://www.britannica.com/biography/Don-Larsen"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "great-chicago-fire-1871",
+      "title": "The Great Chicago Fire breaks out",
+      "year": "1871",
+      "historicalDate": "October 8, 1871",
+      "dateNote": null,
+      "summary": "A blaze burns for two days and devastates much of the city.",
+      "description": "On October 8, 1871, a fire broke out in Chicago that burned until early October 10, devastating a wide swath of the city.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Great Chicago Fire",
+          "url": "https://www.britannica.com/event/Chicago-fire-of-1871"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-balkan-war-begins-1912",
+      "title": "Montenegro opens the First Balkan War",
+      "year": "1912",
+      "historicalDate": "October 8, 1912",
+      "dateNote": null,
+      "summary": "The Balkan League moves against the Ottoman Empire.",
+      "description": "On October 8, 1912, Montenegro declared war on the Ottoman Empire, opening the First Balkan War. The other members of the Balkan League followed ten days later.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Balkan Wars",
+          "url": "https://www.britannica.com/topic/Balkan-Wars"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-the-bogue-1843",
+      "title": "China and Britain sign the Treaty of the Bogue",
+      "year": "1843",
+      "historicalDate": "October 8, 1843",
+      "dateNote": null,
+      "summary": "A supplementary treaty after the First Opium War gives British subjects new privileges in China.",
+      "description": "On October 8, 1843, Britain and China signed the Supplementary Treaty of the Bogue (Humen). It gave British citizens extraterritoriality, the right to be tried by British courts, and most-favored-nation status in China.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Opium Wars",
+          "url": "https://www.britannica.com/topic/Opium-Wars"
+        }
+      ],
+      "images": []
     }
   ]
 }

@@ -1,0 +1,325 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "german-reunification-two-states",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which two states became one country in the German reunification of 1990?",
+      "options": [
+        {
+          "id": "east-west-germany",
+          "text": "East Germany and West Germany"
+        },
+        {
+          "id": "east-germany-austria",
+          "text": "East Germany and Austria"
+        },
+        {
+          "id": "west-germany-switzerland",
+          "text": "West Germany and Switzerland"
+        },
+        {
+          "id": "austria-switzerland",
+          "text": "Austria and Switzerland"
+        }
+      ],
+      "correctOptionId": "east-west-germany",
+      "explanation": "East Germany, formally the German Democratic Republic, joined the Federal Republic of Germany on October 3, 1990. The division between East and West Germany ended, rather than Germany merging with a neighboring country.",
+      "sources": [
+        {
+          "displayName": "German Federal Government - German unity, October 3, 1990",
+          "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "german-reunification-1990"
+      ]
+    },
+    {
+      "id": "lesotho-surrounding-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which country completely surrounds Lesotho?",
+      "options": [
+        {
+          "id": "botswana",
+          "text": "Botswana"
+        },
+        {
+          "id": "south-africa",
+          "text": "South Africa"
+        },
+        {
+          "id": "eswatini",
+          "text": "Eswatini"
+        },
+        {
+          "id": "zimbabwe",
+          "text": "Zimbabwe"
+        }
+      ],
+      "correctOptionId": "south-africa",
+      "explanation": "Lesotho is a separate country entirely surrounded by South Africa. Its enclosed location is geographic, not a sign that it is a South African province.",
+      "sources": [
+        {
+          "displayName": "South African Government - South Africa's provinces",
+          "url": "https://www.gov.za/about-sa/south-africas-provinces"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lesotho-independence-1966"
+      ]
+    },
+    {
+      "id": "beatles-home-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which English city did the Beatles come from?",
+      "options": [
+        {
+          "id": "manchester",
+          "text": "Manchester"
+        },
+        {
+          "id": "birmingham",
+          "text": "Birmingham"
+        },
+        {
+          "id": "liverpool",
+          "text": "Liverpool"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "liverpool",
+      "explanation": "The Beatles formed in Liverpool and built their early following there before recording in London. Love Me Do became their first single in 1962.",
+      "sources": [
+        {
+          "displayName": "The Beatles - Please Please Me",
+          "url": "https://www.thebeatles.com/please-please-me"
+        },
+        {
+          "displayName": "The Beatles - Love Me Do",
+          "url": "https://www.thebeatles.com/love-me-do"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "beatles-love-me-do-1962"
+      ]
+    },
+    {
+      "id": "monty-python-television-format",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Monty Python's Flying Circus was primarily built around which comedy format?",
+      "options": [
+        {
+          "id": "situation-comedy",
+          "text": "Situation comedy"
+        },
+        {
+          "id": "panel-comedy",
+          "text": "Panel comedy"
+        },
+        {
+          "id": "stand-up-comedy",
+          "text": "Stand-up comedy"
+        },
+        {
+          "id": "sketch-comedy",
+          "text": "Sketch comedy"
+        }
+      ],
+      "correctOptionId": "sketch-comedy",
+      "explanation": "Flying Circus used sketches, animation and television parodies rather than a conventional sitcom's continuing story. The Pythons often abandoned familiar sketch endings and punchlines to keep the comedy unpredictable.",
+      "sources": [
+        {
+          "displayName": "Monty Python - The Pythons",
+          "url": "https://www.montypython.com/python_The_Pythons/14"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "monty-python-first-broadcast-1969"
+      ]
+    },
+    {
+      "id": "exoplanet-meaning",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What makes a planet an exoplanet?",
+      "options": [
+        {
+          "id": "outside-solar-system",
+          "text": "It is outside our Solar System"
+        },
+        {
+          "id": "made-of-gas",
+          "text": "It is made mainly of gas"
+        },
+        {
+          "id": "icy-surface",
+          "text": "It has a mainly icy surface"
+        },
+        {
+          "id": "beyond-neptune",
+          "text": "It orbits the Sun beyond Neptune"
+        }
+      ],
+      "correctOptionId": "outside-solar-system",
+      "explanation": "An exoplanet is a planet beyond our Solar System, not a planet defined by its material. Many orbit other stars, while some wander without a host star.",
+      "sources": [
+        {
+          "displayName": "NASA - Rogue planets and worlds beyond our Solar System",
+          "url": "https://www.nasa.gov/universe/unveiling-rogue-planets-with-nasas-roman-space-telescope/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-exoplanet-announced-1995"
+      ]
+    },
+    {
+      "id": "klm-home-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In which country was the airline KLM founded?",
+      "options": [
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        },
+        {
+          "id": "netherlands",
+          "text": "The Netherlands"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        },
+        {
+          "id": "switzerland",
+          "text": "Switzerland"
+        }
+      ],
+      "correctOptionId": "netherlands",
+      "explanation": "KLM was founded in the Netherlands in 1919. Its first scheduled flight followed in 1920, connecting London and Amsterdam.",
+      "sources": [
+        {
+          "displayName": "KLM - History of KLM",
+          "url": "https://www.klm.com/information/corporate/history"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "klm-founded-1919"
+      ]
+    },
+    {
+      "id": "project-mercury-primary-goal",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which crewed-flight goal was central to NASA's Project Mercury?",
+      "options": [
+        {
+          "id": "moon-landing",
+          "text": "Landing astronauts on the Moon"
+        },
+        {
+          "id": "mars-flight",
+          "text": "Sending astronauts past Mars"
+        },
+        {
+          "id": "earth-orbit",
+          "text": "Sending astronauts into Earth orbit"
+        },
+        {
+          "id": "permanent-station",
+          "text": "Building a permanently crewed station"
+        }
+      ],
+      "correctOptionId": "earth-orbit",
+      "explanation": "Mercury aimed to put a crewed spacecraft into Earth orbit, study how a person could function in space, and return both astronaut and spacecraft safely. It was a step toward later, more ambitious human spaceflight.",
+      "sources": [
+        {
+          "displayName": "NASA - Project Mercury objectives and guidelines",
+          "url": "https://www.nasa.gov/project-mercury/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "project-mercury-approved-1958"
+      ]
+    },
+    {
+      "id": "baseball-perfect-game-meaning",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Over a full nine-inning baseball game, what distinguishes a perfect game?",
+      "options": [
+        {
+          "id": "no-hits",
+          "text": "Allowing no opposing batter to get a hit"
+        },
+        {
+          "id": "no-runs",
+          "text": "Allowing no opposing batter to score a run"
+        },
+        {
+          "id": "no-home-runs",
+          "text": "Allowing no opposing batter to hit a home run"
+        },
+        {
+          "id": "no-baserunners",
+          "text": "Allowing no opposing batter to reach base"
+        }
+      ],
+      "correctOptionId": "no-baserunners",
+      "explanation": "A perfect game allows no opposing batter to reach base, even through a walk or fielding error. A no-hitter alone is not enough. Don Larsen achieved the feat in the 1956 World Series.",
+      "sources": [
+        {
+          "displayName": "National Baseball Hall of Fame - Baseball perfection",
+          "url": "https://baseballhall.org/discover/lee-richmond-created-baseball-perfection"
+        },
+        {
+          "displayName": "National Baseball Hall of Fame - Don Larsen's perfect game",
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "don-larsen-perfect-game-1956"
+      ]
+    }
+  ]
+}
