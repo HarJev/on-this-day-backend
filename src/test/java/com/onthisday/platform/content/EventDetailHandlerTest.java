@@ -93,7 +93,25 @@ class EventDetailHandlerTest {
         response.body());
   }
 
+  @Test
+  void quizAvailabilityIsOptionalAndFailureDoesNotHideTheArticle() throws Exception {
+    for (boolean fail : List.of(false, true)) {
+      var links = new com.onthisday.quiz.QuizEventLinkRepository() {
+        public Map<String, List<com.onthisday.quiz.RelatedQuizEvent>> findByQuestionIds(List<String> ids) { return Map.of(); }
+        public boolean hasPublishedQuestionForEvent(String id) {
+          if (fail) throw new com.onthisday.quiz.QuizUnavailableException("offline", new java.sql.SQLException());
+          return true;
+        }
+      };
+      var response = new EventDetailHandler(id -> eventDetail(), OBJECT_MAPPER, links)
+          .handle(request(Map.of("eventId", "battle-of-bosworth-field-1485")));
+      assertEquals(200, response.statusCode());
+      assertEquals(!fail, OBJECT_MAPPER.readTree(response.body()).path("hasRelatedQuizQuestions").asBoolean());
+    }
+  }
+
   private static HttpRequest request(Map<String, String> pathParameters) {
+
     return new HttpRequest(HttpMethod.GET, "/v1/events/battle-of-bosworth-field-1485", Map.of(), pathParameters, Map.of(), "");
   }
 

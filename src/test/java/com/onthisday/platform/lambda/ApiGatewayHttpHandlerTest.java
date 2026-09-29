@@ -146,7 +146,7 @@ class ApiGatewayHttpHandlerTest {
             + "\"url\":\"https://www.britannica.com/\"}],"
             + "\"primaryImage\":null,"
             + "\"images\":[],"
-            + "\"dateNote\":null}",
+            + "\"dateNote\":null,\"hasRelatedQuizQuestions\":false}",
         response.getBody());
   }
 

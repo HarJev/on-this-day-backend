@@ -1,5 +1,6 @@
 package com.onthisday.platform.content;
 
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.onthisday.content.ContentUnavailableException;
@@ -17,11 +18,17 @@ public final class EventDetailHandler implements HttpRoute {
   private static final Logger LOG = LoggerFactory.getLogger(EventDetailHandler.class);
 
   private final HistoricalEventRepository repository;
+  private final QuizEventLinkRepository eventLinks;
   private final EventDetailResponseMapper responseMapper;
   private final ObjectMapper objectMapper;
   private final ErrorResponseWriter errorResponseWriter;
 
   public EventDetailHandler(HistoricalEventRepository repository, ObjectMapper objectMapper) {
+    this(repository, objectMapper, QuizEventLinkRepository.empty());
+  }
+  public EventDetailHandler(HistoricalEventRepository repository, ObjectMapper objectMapper,
+      QuizEventLinkRepository eventLinks) {
+    this.eventLinks = java.util.Objects.requireNonNull(eventLinks);
     this.repository = repository;
     this.responseMapper = new EventDetailResponseMapper();
     this.objectMapper = objectMapper;
@@ -37,7 +44,14 @@ public final class EventDetailHandler implements HttpRoute {
 
     try {
       var event = repository.getEvent(eventId);
-      return HttpResponse.json(200, objectMapper.writeValueAsString(responseMapper.toResponse(event)));
+      boolean available = false;
+      try {
+        available = eventLinks.hasPublishedQuestionForEvent(eventId);
+      }
+      catch (com.onthisday.quiz.QuizUnavailableException exception) {
+        LOG.warn("event_quiz_availability_unavailable eventId={}", eventId);
+      }
+      return HttpResponse.json(200, objectMapper.writeValueAsString(responseMapper.toResponse(event, available)));
     } catch (EventNotFoundException exception) {
       return errorResponseWriter.json(404, "event_not_found", "Event not found.");
     } catch (ContentUnavailableException exception) {

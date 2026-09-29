@@ -1,5 +1,6 @@
 package com.onthisday.platform.quiz;
 
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -27,8 +28,13 @@ public final class QuickPlayQuizHandler implements HttpRoute {
 
   public QuickPlayQuizHandler(
       com.onthisday.quiz.QuickPlayQuizService service, ObjectMapper objectMapper) {
+    this(service, objectMapper, QuizEventLinkRepository.empty());
+  }
+
+  public QuickPlayQuizHandler(com.onthisday.quiz.QuickPlayQuizService service, ObjectMapper objectMapper,
+      QuizEventLinkRepository eventLinks) {
     this.service = service;
-    this.responseMapper = new QuizResponseMapper();
+    this.responseMapper = new QuizResponseMapper(eventLinks);
     this.responseObjectMapper = objectMapper;
     this.requestObjectMapper =
         objectMapper.copy().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, true);

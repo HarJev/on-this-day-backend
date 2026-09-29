@@ -1,5 +1,7 @@
 package com.onthisday.platform.quiz;
 
+import com.onthisday.quiz.RelatedQuizEvent;
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.onthisday.quiz.ChronologicalOrderingItem;
 import com.onthisday.quiz.ChronologicalOrderingQuestion;
 import com.onthisday.quiz.ImageIdentificationQuestion;
@@ -26,6 +28,14 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public final class QuizResponseMapper {
+  private final QuizEventLinkRepository eventLinks;
+  public QuizResponseMapper() {
+    this(QuizEventLinkRepository.empty());
+  }
+
+  public QuizResponseMapper(QuizEventLinkRepository eventLinks) {
+    this.eventLinks = java.util.Objects.requireNonNull(eventLinks);
+  }
 
   private static final DateTimeFormatter DAILY_DATE_FORMATTER =
       DateTimeFormatter.ofPattern("MMM d", Locale.ENGLISH);
@@ -44,17 +54,22 @@ public final class QuizResponseMapper {
   }
 
   public ApiQuickPlayQuizResponse toQuickPlayResponse(QuickPlayQuiz quiz) {
+    var links = eventLinks.findByQuestionIds(
+        quiz.questions().stream().map(question -> question.question().id()).toList());
     return new ApiQuickPlayQuizResponse(
         "quick_play",
         quiz.questions().size(),
         toSelection(quiz.collection()),
         new ApiQuickPlayTimerResponse("per_question", true),
         quiz.questions().stream()
-            .map(question -> toQuestionResponse(question, true))
+            .map(question -> toQuestionResponse(
+                question, true, links.getOrDefault(question.question().id(), List.of())))
             .toList());
   }
 
   public ApiDailyQuizResponse toDailyResponse(DailyQuiz quiz) {
+    var links = eventLinks.findByQuestionIds(
+        quiz.questions().stream().map(question -> question.question().id()).toList());
     var date = quiz.date();
     return new ApiDailyQuizResponse(
         "daily",
@@ -64,7 +79,8 @@ public final class QuizResponseMapper {
         20,
         new ApiDailyTimerResponse("total", QuizRules.dailyTotalTimerSeconds(quiz.questions().size())),
         quiz.questions().stream()
-            .map(question -> toQuestionResponse(question, false))
+            .map(question -> toQuestionResponse(
+                question, false, links.getOrDefault(question.question().id(), List.of())))
             .toList());
   }
 
@@ -92,8 +108,11 @@ public final class QuizResponseMapper {
   }
 
   private ApiQuizQuestionResponse toQuestionResponse(
-      PlayableQuizQuestion playableQuestion, boolean includeTimeLimit) {
+      PlayableQuizQuestion playableQuestion, boolean includeTimeLimit, List<RelatedQuizEvent> links) {
     var question = playableQuestion.question();
+    var relatedEvents = links.stream()
+        .map(event -> new ApiRelatedQuizEventResponse(event.id(), event.title(), event.year()))
+        .toList();
     var timeLimitSeconds =
         includeTimeLimit ? QuizRules.quickPlayTimerDefaultsSeconds().get(question.type()) : null;
     return switch (question) {
@@ -107,7 +126,8 @@ public final class QuizResponseMapper {
               presentedOptions(choice.options(), playableQuestion.presentationOrderIds()),
               correctOptionId(choice.options()),
               choice.explanation(),
-              sources(choice.sources()));
+              sources(choice.sources()),
+              relatedEvents);
       case TrueFalseQuestion trueFalse ->
           new ApiChoiceQuizQuestionResponse(
               trueFalse.id(),
@@ -118,7 +138,8 @@ public final class QuizResponseMapper {
               presentedOptions(trueFalse.options(), playableQuestion.presentationOrderIds()),
               correctOptionId(trueFalse.options()),
               trueFalse.explanation(),
-              sources(trueFalse.sources()));
+              sources(trueFalse.sources()),
+              relatedEvents);
       case ImageIdentificationQuestion image ->
           new ApiImageIdentificationQuizQuestionResponse(
               image.id(),
@@ -130,7 +151,8 @@ public final class QuizResponseMapper {
               presentedOptions(image.options(), playableQuestion.presentationOrderIds()),
               correctOptionId(image.options()),
               image.explanation(),
-              sources(image.sources()));
+              sources(image.sources()),
+              relatedEvents);
       case ChronologicalOrderingQuestion ordering ->
           new ApiChronologicalOrderingQuizQuestionResponse(
               ordering.id(),
@@ -144,7 +166,8 @@ public final class QuizResponseMapper {
                   .map(ChronologicalOrderingItem::id)
                   .toList(),
               ordering.explanation(),
-              sources(ordering.sources()));
+              sources(ordering.sources()),
+              relatedEvents);
     };
   }
 

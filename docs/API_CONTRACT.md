@@ -664,3 +664,24 @@ creator, and license information.
 
 The `items` array is shuffled presentation order. The
 `correctOrderItemIds` array is the answer from earliest to latest.
+
+## Related Story Metadata (A2)
+
+Daily and Quick Play questions of every type include `relatedEvents`, an array
+of `{ "id": "stable-event-id", "title": "Canonical event title", "year": "1958" }`.
+These are explicit reviewed `relatedEventIds` relations, enriched with canonical
+story metadata in one batch read (at most 20 question IDs). Unlinked questions
+return `[]`. This does not claim every relation belongs to the selected date.
+Clients must not render related titles or navigation during gameplay: they can
+reveal answers. Completed Results/Review may link to `GET /v1/events/{id}`.
+
+Event Detail adds `hasRelatedQuizQuestions`, a boolean indicating at least one
+explicitly linked **published** question. Availability failure suppresses this
+optional affordance (`false`), rather than failing an otherwise readable story.
+The current-day mobile Quiz action opens the Hub, not a guaranteed filtered
+quiz. Draft/retired-only links cannot enable it. Retired assigned questions still
+retain related metadata for review. Older clients ignore these additive fields;
+new clients treat absent fields on older servers as no links/availability.
+
+This changes no routes, migrations, selection rules, grades, or persisted Daily
+assignments. New links require the editorial approval/import workflow.

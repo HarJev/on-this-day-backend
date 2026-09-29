@@ -1,5 +1,6 @@
 package com.onthisday.platform.http;
 
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.onthisday.content.HistoricalEventRepository;
 import com.onthisday.content.RecentDaysService;
 import com.onthisday.content.TodayContentRepository;
@@ -54,7 +55,9 @@ public final class ApiRoutes {
         new RecentDaysHandler(new RecentDaysService(todayContentRepository, clock), objectMapper));
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.GET, "/v1/events/{eventId}"),
-        new EventDetailHandler(historicalEventRepository, objectMapper));
+        new EventDetailHandler(
+            historicalEventRepository, objectMapper,
+            quizApiServices == null ? QuizEventLinkRepository.empty() : quizApiServices.eventLinks()));
     routes.put(
         new HttpRouter.RouteKey(HttpMethod.POST, "/v1/devices"),
         new RegisterDeviceHandler(deviceRegistrationService, objectMapper));
@@ -67,10 +70,12 @@ public final class ApiRoutes {
           new QuizCatalogHandler(quizApiServices.catalogService(), objectMapper));
       routes.put(
           new HttpRouter.RouteKey(HttpMethod.POST, "/v1/quizzes/quick-play"),
-          new QuickPlayQuizHandler(quizApiServices.quickPlayService(), objectMapper));
+          new QuickPlayQuizHandler(
+              quizApiServices.quickPlayService(), objectMapper, quizApiServices.eventLinks()));
       routes.put(
           new HttpRouter.RouteKey(HttpMethod.GET, "/v1/quizzes/daily"),
-          new DailyQuizHandler(quizApiServices.dailyService(), objectMapper));
+          new DailyQuizHandler(
+              quizApiServices.dailyService(), objectMapper, quizApiServices.eventLinks()));
     }
     return new HttpRouter(routes);
   }

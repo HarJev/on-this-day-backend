@@ -12,5 +12,5 @@ public record ApiChronologicalOrderingQuizQuestionResponse(
     List<ApiChronologicalOrderingItemResponse> items,
     List<String> correctOrderItemIds,
     String explanation,
-    List<ApiQuizSourceResponse> sources)
+    List<ApiQuizSourceResponse> sources, List<ApiRelatedQuizEventResponse> relatedEvents)
     implements ApiQuizQuestionResponse {}

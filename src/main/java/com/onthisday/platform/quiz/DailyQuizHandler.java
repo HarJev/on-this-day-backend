@@ -1,5 +1,6 @@
 package com.onthisday.platform.quiz;
 
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.onthisday.platform.http.ErrorResponseWriter;
@@ -24,8 +25,13 @@ public final class DailyQuizHandler implements HttpRoute {
   private final ErrorResponseWriter errorResponseWriter;
 
   public DailyQuizHandler(com.onthisday.quiz.DailyQuizService service, ObjectMapper objectMapper) {
+    this(service, objectMapper, QuizEventLinkRepository.empty());
+  }
+
+  public DailyQuizHandler(com.onthisday.quiz.DailyQuizService service, ObjectMapper objectMapper,
+      QuizEventLinkRepository eventLinks) {
     this.service = service;
-    this.responseMapper = new QuizResponseMapper();
+    this.responseMapper = new QuizResponseMapper(eventLinks);
     this.objectMapper = objectMapper;
     this.errorResponseWriter = new ErrorResponseWriter(objectMapper);
   }
