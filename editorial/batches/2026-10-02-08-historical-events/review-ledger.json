@@ -5,7 +5,7 @@
     {
       "candidateId": "oct-02-gandhi-born",
       "canonicalId": "gandhi-born-1869",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
@@ -24,12 +24,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-saladin",
       "canonicalId": "saladin-captures-jerusalem-1187",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Saladin",
@@ -49,12 +51,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-peanuts",
       "canonicalId": "peanuts-debuts-1950",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://schulzmuseum.org/about-schulz/schulz-biography/",
@@ -73,12 +77,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-beagle",
       "canonicalId": "beagle-returns-to-england-1836",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
@@ -104,12 +110,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-03-german-reunification",
       "canonicalId": "german-reunification-1990",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/German-reunification",
@@ -129,12 +137,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-03-iraq-league",
       "canonicalId": "iraq-joins-league-of-nations-1932",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Iraq/Independence-1932-39",
@@ -154,12 +164,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-03-thanksgiving-1789",
       "canonicalId": "washington-thanksgiving-proclamation-1789",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091",
@@ -179,12 +191,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-03-francis-assisi",
       "canonicalId": "francis-of-assisi-dies-1226",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi",
@@ -203,12 +217,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-04-sputnik",
       "canonicalId": "sputnik-1-launched-1957",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1953-1960/sputnik",
@@ -230,12 +246,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-04-lesotho",
       "canonicalId": "lesotho-independence-1966",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/lesotho",
@@ -255,12 +273,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-04-mount-rushmore",
       "canonicalId": "mount-rushmore-carving-begins-1927",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm",
@@ -279,12 +299,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-04-rembrandt",
       "canonicalId": "rembrandt-dies-1669",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn",
@@ -303,12 +325,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-05-love-me-do",
       "canonicalId": "beatles-love-me-do-1962",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.thebeatles.com/love-me-do",
@@ -327,12 +351,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-05-portugal-republic",
       "canonicalId": "portugal-republic-proclaimed-1910",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/history-of-Portugal",
@@ -351,12 +377,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-05-bulgaria",
       "canonicalId": "bulgaria-declares-independence-1908",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
@@ -375,12 +403,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-05-monty-python",
       "canonicalId": "monty-python-first-broadcast-1969",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14",
@@ -399,12 +429,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-06-51-pegasi",
       "canonicalId": "first-exoplanet-announced-1995",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
@@ -424,12 +456,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-06-jazz-singer",
       "canonicalId": "the-jazz-singer-premieres-1927",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
@@ -454,12 +488,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Title, summary and description revised before promotion to avoid an absolute 'first synchronized-dialogue feature' claim and to describe October 6, 1927 as the New York premiere, consistent with the AFI Catalog caution applied to order-film-milestones.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-06-yom-kippur-war",
       "canonicalId": "yom-kippur-war-begins-1973",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Yom-Kippur-War",
@@ -478,12 +514,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-06-sadat",
       "canonicalId": "anwar-sadat-assassinated-1981",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Anwar-Sadat",
@@ -503,12 +541,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-07-klm",
       "canonicalId": "klm-founded-1919",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.klm.com/information/corporate/history",
@@ -527,12 +567,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-07-lepanto",
       "canonicalId": "battle-of-lepanto-1571",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Lepanto",
@@ -552,12 +594,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-07-mercury",
       "canonicalId": "project-mercury-approved-1958",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/history/SP-4001/p2a.htm",
@@ -583,12 +627,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-07-gdr",
       "canonicalId": "german-democratic-republic-founded-1949",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/",
@@ -608,12 +654,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-08-larsen",
       "canonicalId": "don-larsen-perfect-game-1956",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Don-Larsen",
@@ -632,12 +680,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-08-chicago-fire",
       "canonicalId": "great-chicago-fire-1871",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chicago-fire-of-1871",
@@ -656,12 +706,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-08-balkan-war",
       "canonicalId": "first-balkan-war-begins-1912",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Balkan-Wars",
@@ -681,12 +733,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-08-treaty-of-bogue",
       "canonicalId": "treaty-of-the-bogue-1843",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Opium-Wars",
@@ -706,7 +760,9 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29.",
+      "reviewer": "Jevaun Harris",
+      "reviewedOn": "2026-09-29"
     }
   ]
 }

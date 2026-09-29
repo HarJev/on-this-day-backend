@@ -1,6 +1,7 @@
 # October 2-8 Connected Quiz: Owner Review
 
-Updated: 2026-09-29. **Draft only: no publication or import.**
+Updated: 2026-09-29. **Approved by the owner on 2026-09-29 and promoted as Pack 140 plus six links.**
+The text below is the pre-approval review record; see `docs/CONNECTED_QUIZ_CONTENT_PROGRESS.md` (C4).
 
 The owner approved the fourteen-hook slate for drafting. This is the final
 content-review checkpoint: eight new questions, six existing-question links,

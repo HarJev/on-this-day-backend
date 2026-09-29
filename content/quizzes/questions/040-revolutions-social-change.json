@@ -142,7 +142,8 @@
       "correctOptionId": "mahatma-gandhi",
       "explanation": "The portrait shows Mohandas Gandhi, who led mass nonviolent campaigns against British rule in India.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Mahatma Gandhi", "url": "https://www.britannica.com/biography/Mahatma-Gandhi"}],
-      "collectionIds": ["revolutions"]
+      "collectionIds": ["revolutions"],
+      "relatedEventIds": ["gandhi-born-1869"]
     },
     {
       "id": "identify-harriet-tubman",

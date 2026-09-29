@@ -6,8 +6,8 @@ ahead for closed beta" from `PRODUCTION_LAUNCH_WORKPLAN.md`.
 ## Window
 
 The 90 upcoming dates from 2026-09-27 run from **September 27 to December 25**.
-Canonical content already covers September 15 to October 1, so the gap is
-**October 2 to December 25 (85 dates)**.
+Canonical content covers September 15 to October 8 (October 2-8 promoted on
+2026-09-29), so the remaining gap is **October 9 to December 25 (78 dates)**.
 
 September 16 and 17 are outside this window but still sit below the
 four-event floor. They should get a follow-up batch.
@@ -27,7 +27,7 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 
 | Batch | Dates | Status |
 | --- | --- | --- |
-| `2026-10-02-08-historical-events` | Oct 2-8 | Drafted: 28 events (4 per date), source-verified |
+| `2026-10-02-08-historical-events` | Oct 2-8 | Approved and promoted 2026-09-29: 28 events (4 per date) |
 | `2026-10-09-15-historical-events` | Oct 9-15 | Drafted: 30 events (4-5 per date), source-verified |
 | `2026-10-16-22-historical-events` | Oct 16-22 | Drafted: 28 events (4 per date), source-verified |
 | `2026-10-23-29-historical-events` | Oct 23-29 | Drafted: 28 events (4 per date), source-verified |
@@ -72,12 +72,12 @@ claim for each listed event.
 ## Quiz Bank
 
 The canonical bank held 150 published questions when this plan was drafted and
-holds 195 as of 2026-09-28 (packs 010-130, including 15 image questions). That meets the
+holds 203 as of 2026-09-29 (packs 010-140, including 15 image questions). That meets the
 closed-beta volume checkpoint, but count alone does not provide connected Daily supply.
 For the remaining runway, follow `CONNECTED_QUIZ_CONTENT_PLAN.md`: first reuse
 suitable questions through reviewed links, then research accessible new hooks
 from upcoming featured/additional stories. Do not force every event into a quiz.
-The 240 target is a checkpoint, not a ceiling. Event drafts remain unapproved.
+The 240 target is a checkpoint, not a ceiling. Event drafts after October 8 remain unapproved.
 
 ## Promotion Steps (Per Batch)
 
