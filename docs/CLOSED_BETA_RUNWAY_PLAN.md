@@ -73,9 +73,11 @@ claim for each listed event.
 
 The canonical bank held 150 published questions when this plan was drafted and
 holds 195 as of 2026-09-28 (packs 010-130, including 15 image questions). That meets the
-closed-beta figure of roughly 150 reviewed questions, so no new quiz pack is
-part of this runway. Autumn-anniversary questions can come in a later L7 pack
-toward the 240 target.
+closed-beta volume checkpoint, but count alone does not provide connected Daily supply.
+For the remaining runway, follow `CONNECTED_QUIZ_CONTENT_PLAN.md`: first reuse
+suitable questions through reviewed links, then research accessible new hooks
+from upcoming featured/additional stories. Do not force every event into a quiz.
+The 240 target is a checkpoint, not a ceiling. Event drafts remain unapproved.
 
 ## Promotion Steps (Per Batch)
 

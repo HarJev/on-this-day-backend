@@ -13,5 +13,5 @@ public record ApiImageIdentificationQuizQuestionResponse(
     List<ApiQuizOptionResponse> options,
     String correctOptionId,
     String explanation,
-    List<ApiQuizSourceResponse> sources)
+    List<ApiQuizSourceResponse> sources, List<ApiRelatedQuizEventResponse> relatedEvents)
     implements ApiQuizQuestionResponse {}

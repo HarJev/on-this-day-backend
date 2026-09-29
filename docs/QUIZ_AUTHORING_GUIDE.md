@@ -230,8 +230,10 @@ shuffle is deliberately verified.
 
 1. Check `git status` and list existing pack filenames. Do not overwrite dirty
    or uncommitted packs.
-2. Create one bounded pack under `content/quizzes/questions/`, normally 20-30
-   questions for L7.
+2. Draft one bounded pack under `editorial/batches/<batch>/`, normally 20-30
+   questions for L7. Keep drafts outside canonical importer discovery.
+   Follow `CONNECTED_QUIZ_CONTENT_PLAN.md` C1-C4 for forthcoming-event hooks
+   and reviewed reuse of existing questions.
 3. Use historical events only as inspiration. Open a direct institutional or
    authoritative source for every retained fact and answer.
 4. Draft the prompt, answer, distractors, explanation, sources, difficulty, and
@@ -242,7 +244,10 @@ shuffle is deliberately verified.
    separate requirement from factual sourcing.
 6. Add candidate and review-ledger entries under `editorial/`. Keep entries
    `source_verified` until a human editor approves them.
-7. Run the quiz importer/validator against a disposable database, inspect all
+7. After explicit owner approval, promote the reviewed pack to
+   `content/quizzes/questions/` and run approved-subset preflight. Import any
+   referenced approved events before linked questions. Run the quiz
+   importer/validator against a disposable database, inspect all
    four question shapes through Quick Play, and rerun the import to prove
    idempotency.
 8. Commit only the reviewed pack, its review records, and any deliberately

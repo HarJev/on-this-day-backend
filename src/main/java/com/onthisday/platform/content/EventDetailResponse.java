@@ -12,7 +12,8 @@ public record EventDetailResponse(
     List<ApiEventSourceResponse> sources,
     ApiEventImageResponse primaryImage,
     List<ApiEventImageResponse> images,
-    String dateNote) {
+    String dateNote,
+    boolean hasRelatedQuizQuestions) {
 
   public EventDetailResponse {
     sources = List.copyOf(sources);

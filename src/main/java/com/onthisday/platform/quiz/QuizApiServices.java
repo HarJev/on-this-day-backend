@@ -1,5 +1,6 @@
 package com.onthisday.platform.quiz;
 
+import com.onthisday.quiz.QuizEventLinkRepository;
 import com.onthisday.quiz.DailyQuizService;
 import com.onthisday.quiz.QuizCatalogService;
 import com.onthisday.quiz.QuickPlayQuizService;
@@ -9,9 +10,14 @@ import java.util.Objects;
 public record QuizApiServices(
     QuizCatalogService catalogService,
     QuickPlayQuizService quickPlayService,
-    DailyQuizService dailyService) {
+    DailyQuizService dailyService,
+    QuizEventLinkRepository eventLinks) {
+  public QuizApiServices(QuizCatalogService catalogService, QuickPlayQuizService quickPlayService, DailyQuizService dailyService) {
+    this(catalogService, quickPlayService, dailyService, QuizEventLinkRepository.empty());
+  }
 
   public QuizApiServices {
+    eventLinks = Objects.requireNonNull(eventLinks);
     catalogService = Objects.requireNonNull(catalogService, "catalogService must not be null");
     quickPlayService = Objects.requireNonNull(quickPlayService, "quickPlayService must not be null");
     dailyService = Objects.requireNonNull(dailyService, "dailyService must not be null");

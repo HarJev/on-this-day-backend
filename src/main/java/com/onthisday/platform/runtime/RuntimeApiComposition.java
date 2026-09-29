@@ -1,5 +1,6 @@
 package com.onthisday.platform.runtime;
 
+import com.onthisday.quiz.JdbcQuizEventLinkRepository;
 import com.onthisday.content.JdbcHistoricalEventRepository;
 import com.onthisday.content.JdbcTodayContentRepository;
 import com.onthisday.notifications.JdbcDeviceRegistrationRepository;
@@ -66,6 +67,6 @@ public final class RuntimeApiComposition {
             new JdbcDailyChallengeRepository(dataSource),
             selector,
             presenter,
-            clock));
+            clock), new JdbcQuizEventLinkRepository(dataSource));
   }
 }

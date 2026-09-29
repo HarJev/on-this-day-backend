@@ -107,7 +107,27 @@ class DateLinkedDailyIT {
     assertEquals(0, count("SELECT count(*) FROM quiz_question_event"));
   }
 
+  @Test
+  void relatedStoryMetadataAndPublishedAvailabilityFollowReviewedLinks() throws SQLException {
+    var ids = publishedIds();
+    importQuiz(Map.of(ids.get(0), List.of(FEATURED_EVENT, ADDITIONAL_EVENT), ids.get(1), List.of(FEATURED_EVENT)));
+    var repository = new JdbcQuizEventLinkRepository(dataSource);
+    var result = repository.findByQuestionIds(List.of(ids.get(0), ids.get(2)));
+    assertEquals(2, result.get(ids.get(0)).size());
+    assertEquals("1954", result.get(ids.get(0)).get(0).year());
+    assertTrue(!result.containsKey(ids.get(2)));
+    assertTrue(repository.hasPublishedQuestionForEvent(FEATURED_EVENT));
+    try (var connection = dataSource.getConnection(); var statement = connection.prepareStatement("UPDATE quiz_question SET publication_state = 'retired' WHERE question_id IN (?, ?)")) {
+      statement.setString(1, ids.get(0)); statement.setString(2, ids.get(1)); statement.executeUpdate();
+    }
+    assertTrue(!repository.hasPublishedQuestionForEvent(FEATURED_EVENT));
+    assertEquals(result, repository.findByQuestionIds(List.of(ids.get(0), ids.get(2))));
+    assertEquals(Map.of(), repository.findByQuestionIds(List.of()));
+    assertThrows(UnsupportedOperationException.class, () -> result.get(ids.get(0)).clear());
+  }
+
   private static void importQuiz(Map<String, List<String>> relatedEvents) {
+
     UnaryOperator<CuratedQuizQuestionJson> link =
         question ->
             new CuratedQuizQuestionJson(

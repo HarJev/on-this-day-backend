@@ -5,6 +5,9 @@ import com.onthisday.content.HistoricalEvent;
 public final class EventDetailResponseMapper {
 
   public EventDetailResponse toResponse(HistoricalEvent event) {
+    return toResponse(event, false);
+  }
+  public EventDetailResponse toResponse(HistoricalEvent event, boolean hasRelatedQuizQuestions) {
     return new EventDetailResponse(
         event.id(),
         event.title(),
@@ -15,6 +18,6 @@ public final class EventDetailResponseMapper {
         event.sources().stream().map(source -> new ApiEventSourceResponse(source.name(), source.url())).toList(),
         ApiEventImageResponseMapper.toResponse(event.primaryImage()),
         event.images().stream().map(ApiEventImageResponseMapper::toResponse).toList(),
-        event.dateNote());
+        event.dateNote(), hasRelatedQuizQuestions);
   }
 }

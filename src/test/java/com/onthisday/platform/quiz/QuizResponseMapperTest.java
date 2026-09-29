@@ -82,7 +82,39 @@ class QuizResponseMapperTest {
     assertFalse(root.path("questions").get(0).has("timeLimitSeconds"));
   }
 
+  @Test
+  void loadsRelatedEventsOnceForEveryShapeAndBothModes() throws Exception {
+    var calls = new java.util.ArrayList<List<String>>();
+    var event = new com.onthisday.quiz.RelatedQuizEvent("event-1958", "NASA begins operations", "1958");
+    var links = new com.onthisday.quiz.QuizEventLinkRepository() {
+      public java.util.Map<String, List<com.onthisday.quiz.RelatedQuizEvent>> findByQuestionIds(List<String> ids) {
+        calls.add(ids);
+        return ids.stream().collect(java.util.stream.Collectors.toMap(id -> id, id -> List.of(event)));
+      }
+      public boolean hasPublishedQuestionForEvent(String id) { return true; }
+    };
+    var linkedMapper = new QuizResponseMapper(links);
+    var questions = List.of(
+        new PlayableQuizQuestion(multipleChoice("choice"), List.of("option-4", "option-1", "option-2", "option-3")),
+        new PlayableQuizQuestion(trueFalse(), List.of("true", "false")),
+        new PlayableQuizQuestion(image(), List.of("option-3", "option-2", "option-1", "option-4")),
+        new PlayableQuizQuestion(ordering(), List.of("item-4", "item-2", "item-3", "item-1")),
+        new PlayableQuizQuestion(multipleChoice("extra"), List.of("option-1", "option-2", "option-3", "option-4")));
+    var quick = OBJECT_MAPPER.valueToTree(linkedMapper.toQuickPlayResponse(new com.onthisday.quiz.QuickPlayQuiz(Optional.empty(), questions)));
+    var daily = OBJECT_MAPPER.valueToTree(linkedMapper.toDailyResponse(new com.onthisday.quiz.DailyQuiz(LocalDate.of(2026, 9, 28), questions)));
+    assertEquals(2, calls.size());
+    assertEquals(List.of("choice", "true-false", "image-question", "ordering-question", "extra"), calls.get(0));
+    for (var response : List.of(quick, daily)) {
+      for (var question : response.path("questions")) {
+        assertEquals("event-1958", question.path("relatedEvents").get(0).path("id").asText());
+        assertEquals("1958", question.path("relatedEvents").get(0).path("year").asText());
+      }
+    }
+    assertEquals("option-4", quick.path("questions").get(0).path("options").get(0).path("id").asText());
+  }
+
   private static MultipleChoiceQuestion multipleChoice(String id) {
+
     return new MultipleChoiceQuestion(
         id,
         QuizDifficulty.EASY,
