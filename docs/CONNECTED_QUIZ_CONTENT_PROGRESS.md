@@ -1,6 +1,6 @@
 # Connected Quiz Content: Active Handoff
 
-Updated: 2026-09-28. Scope: C1/C2 for October 2-8 only.
+Updated: 2026-09-29. Scope: C1-C3 for October 2-8 only.
 
 Read AGENTS.md, CLAUDE.md, CONNECTED_QUIZ_CONTENT_PLAN.md and the editorial
 workflow before continuing. This document is not content approval.
@@ -25,8 +25,8 @@ workflow before continuing. This document is not content approval.
 | Item | Status | Evidence / next action |
 | --- | --- | --- |
 | C1: October 2-8 inventory | COMPLETED | Canonical bank, all seven draft days, 28 event records and their ledger inspected; reuse candidates below. |
-| C2: October 2-8 slate | IN_PROGRESS | Fourteen proposed hooks below; awaiting owner selection/revisions before C3. |
-| C3: sourced pack and link ledgers | NOT_STARTED | Independently verify answers, explanations, distractors and each relationship; draft outside canonical discovery. |
+| C2: October 2-8 slate | COMPLETED | Owner approved all fourteen hooks on 2026-09-29 for research/drafting, not publication. |
+| C3: sourced pack and link ledgers | COMPLETED | Eight draft questions and six link proposals researched; strict quiz/editorial checks pass. Final owner content review pending. |
 | C4: approval, promotion and import | NOT_STARTED | Explicit owner approval; events first, then questions/links; disposable verification before any approved shared-DB import. |
 
 ## Proposed Slate
@@ -106,10 +106,47 @@ source-check records were read, not independently re-approved in this task.
 
 ## Next Worker
 
-Stop for owner slate review. After approval, perform C3 on an isolated branch
-with new editorial files owned by this task. Do not edit the event worker's
-October drafts, existing canonical question packs or shared tracker. Propose
-reuse links through review records, not immediate canonical edits.
+C2 slate approval and C3 drafting are complete. Stop for final owner content
+review at `editorial/batches/2026-10-02-08-connected-quiz/OWNER_REVIEW.md`.
+C4 remains NOT_STARTED. Preserve the event worker's October drafts; obtain
+separate event approval before canonical promotion or imports. The prospective
+Pack 140 selector does not itself apply six updates to existing packs.
 
 No code, canonical content, ledger approvals, database imports, Daily assignment
 regeneration, deployments or cloud resources changed in C1/C2.
+
+## C3 Evidence - 2026-09-29
+
+- Branch: `codex/connected-quiz-draft` from merged main.
+- Batch: `editorial/batches/2026-10-02-08-connected-quiz/`.
+- `draft-questions.json`: eight MC drafts, five easy/three medium, authored
+  correct positions 2/2/2/2. No new images.
+- `proposed-links.json`: six existing-question links, current snapshot hashes,
+  inherited image-rights evidence. Original questions are not cloned.
+- Candidates/ledger: 14 `source_verified`, zero approved, no reviewer/date.
+  This is final-content review pending, not permission to publish.
+- Existing strict Jackson parser and QuizContentValidator: PASS, eight drafts;
+  ten expected draft-only catalog warnings. Log:
+  `build/connected-quiz-c3/draft-validation.log`.
+- Existing strict editorial reader/validator: PASS, fourteen entries.
+- Canonical strict quiz reader/validator after authorized film correction:
+  PASS, 196 records. Log: `build/connected-quiz-c3/canonical-validation.log`.
+- Local audit: all fourteen targets exist in the read-only event draft; six
+  canonical snapshots match; no new ID collisions or repeated hook IDs.
+  This does not establish live foreign keys or runtime Daily selection.
+- User authorized immediate factual corrections. `4b50434` qualifies the
+  Jazz Singer explanation as a landmark in the transition to sound film and
+  its October premiere. Items, correct order, other facts and existing links
+  are unchanged. Original review evidence updated; no DB import performed.
+- Full tests/integration tests were not run for this content-only task.
+  Whitespace checks passed. No mobile edits or assets downloaded/uploaded.
+- Bank remains 195 published/one retired, with 34 linked questions and 37
+  relations. Conditional approval/import projection: 203 published and 48
+  linked/51 relations; never report this projection as existing DB coverage.
+- Historical dependencies remain unapproved: seven days/28 events. No
+  preflight, shared/disposable DB imports, migrations, cloud changes or Daily
+  assignment regeneration occurred.
+
+C4 next: owner may approve/revise any of the eight questions or six links.
+Recheck concurrent content/pack numbers; preserve stable IDs and existing
+Daily assignments; plan dependency-ordered promotion/import separately.

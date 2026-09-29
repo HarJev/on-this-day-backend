@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-02-08-connected-quiz",
+  "auditedOn": "2026-09-29",
+  "state": "editorial_only_awaiting_owner_content_approval",
+  "newQuestionCount": 8,
+  "reusedQuestionCount": 6,
+  "proposedNewRelationCount": 14,
+  "newQuestionTypes": {
+    "multiple_choice": 8
+  },
+  "newQuestionDifficulties": {
+    "easy": 5,
+    "medium": 3
+  },
+  "hookTypes": {
+    "multiple_choice": 8,
+    "true_false": 1,
+    "chronological_ordering": 2,
+    "image_identification": 3
+  },
+  "hookDifficulties": {
+    "easy": 7,
+    "medium": 7
+  },
+  "newQuestionCorrectPositions": {
+    "1": 2,
+    "2": 2,
+    "3": 2,
+    "4": 2
+  },
+  "newQuestionCollectionMemberships": {
+    "society-culture-and-ideas": 5,
+    "science-and-innovation": 2,
+    "exploration-and-exchange": 1
+  },
+  "hookCollectionMemberships": {
+    "society-culture-and-ideas": 7,
+    "science-and-innovation": 4,
+    "exploration-and-exchange": 1,
+    "leaders-and-power": 1,
+    "revolutions": 1
+  },
+  "regionTagMemberships": {
+    "europe": 5,
+    "africa": 1,
+    "transregional": 3,
+    "north-america": 5,
+    "asia": 1
+  },
+  "eraTagMemberships": {
+    "1945-present": 9,
+    "1800-1945": 5,
+    "1500-1800": 1
+  },
+  "calendarDayHookCounts": {
+    "10-03": 2,
+    "10-04": 2,
+    "10-05": 2,
+    "10-06": 2,
+    "10-07": 2,
+    "10-08": 2,
+    "10-02": 2
+  },
+  "currentCanonical": {
+    "publishedQuestions": 195,
+    "retiredQuestions": 1,
+    "publishedLinkedQuestions": 34,
+    "publishedRelations": 37,
+    "events": 118,
+    "days": 24
+  },
+  "conditionalProjection": {
+    "publishedQuestions": 203,
+    "retiredQuestions": 1,
+    "publishedLinkedQuestions": 48,
+    "publishedRelations": 51,
+    "types": {
+      "multiple_choice": 116,
+      "true_false": 31,
+      "image_identification": 36,
+      "chronological_ordering": 20
+    },
+    "difficulties": {
+      "easy": 61,
+      "medium": 108,
+      "hard": 34
+    }
+  },
+  "duplicateQuestionIdsWithinWindow": [],
+  "notes": [
+    "Projection assumes all eight new questions and all six link proposals are approved and imported, with no concurrent bank changes.",
+    "Region/era/collection counts are many-to-many tag memberships, not disjoint question totals. Era tags describe linked stories, not every chronological item or portrait's creation date.",
+    "Runtime Daily selection/repetition is not established by this editorial audit.",
+    "No new images; three exact existing owned portraits are reused.",
+    "The owner-authorized film-ordering explanation correction is applied; the new event link remains unapproved.",
+    "Event dependencies remain unapproved historical drafts, not canonical/imported records."
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-02-08-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "identify-mahatma-gandhi",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "5032a48f2e5b1f4f15255de12a4120b38ec8244fd6c1175fcadba3fd90376692",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "gandhi-born-1869"
+      ],
+      "calendarDay": "10-02",
+      "eventRole": "featured",
+      "relationshipRationale": "Government of India chronology identifies Gandhi and records his birth on October 2, 1869. The portrait question identifies the person commemorated.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "identify-charles-darwin",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "ef2bbd353a90d331b2a2d33000077bf0aa82653d53aff0d35871e2c27c4f44b2",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "beagle-returns-to-england-1836"
+      ],
+      "calendarDay": "10-02",
+      "eventRole": "additional",
+      "relationshipRationale": "Darwin Correspondence Project describes Darwin's Beagle voyage and return to England in October 1836. The portrait identifies the scientist, not the return date.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "identify-george-washington",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "40c9ee98e5f3af04eae55cdc58fd9158d7a5023cdc456d663f7c6102fa3581db",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "washington-thanksgiving-proclamation-1789"
+      ],
+      "calendarDay": "10-03",
+      "eventRole": "additional",
+      "relationshipRationale": "Founders Online publishes Washington's October 3, 1789 Thanksgiving proclamation. The portrait identifies its author, not the later November observance.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "order-space-exploration-firsts",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "3846f744b6a8c25b490987b5ed5b013e41f11e5632a537bd633847a2b756d41e",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "sputnik-1-launched-1957"
+      ],
+      "calendarDay": "10-04",
+      "eventRole": "featured",
+      "relationshipRationale": "Office of the Historian confirms the October 4, 1957 Sputnik launch. Sputnik is an explicit item in the unchanged four-milestone ordering question.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-film-milestones",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "e951f10eb2486cddfcb707726c0fb159e8159a4d73a80b24d5d4173a990053ca",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "the-jazz-singer-premieres-1927"
+      ],
+      "calendarDay": "10-06",
+      "eventRole": "additional",
+      "relationshipRationale": "AFI identifies the New York premiere as October 6, 1927 and describes silent film with sound sequences. The Jazz Singer is an explicit item in the existing ordering question; retain distinction between premiere and later general release.",
+      "existingImageRightsEvidence": null,
+      "appliedEditorialCorrection": {
+        "field": "explanation",
+        "reason": "AFI cautions against absolute sound/dialogue priority claims. Owner authorized factual corrections on 2026-09-29. Items, correct order and existing links are unchanged.",
+        "sourceUrl": "https://catalog.afi.com/Catalog/moviedetails/1535",
+        "appliedOn": "2026-09-29"
+      }
+    },
+    {
+      "questionId": "great-chicago-fire-duration",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "43665e5b80e4f2b8984f39976088abed53d067758766b24abe4409e59a730bac",
+      "currentRelatedEventIds": [
+
+      ],
+      "addRelatedEventIds": [
+        "great-chicago-fire-1871"
+      ],
+      "calendarDay": "10-08",
+      "eventRole": "additional",
+      "relationshipRationale": "Chicago History Museum teaching resource places the fire between October 8 and October 10, 1871. This supports the existing false answer to the about-a-week statement; inclusive calendar-day and elapsed-duration wording differ, not a week.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}
