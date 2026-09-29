@@ -179,6 +179,14 @@ Daily assignments; plan dependency-ordered promotion/import separately.
   The 10 Daily challenges and 200 assigned questions are unchanged.
 - SAM local: catalog reports 203 published; new events resolve via
   `/v1/events/{id}`; Quick Play returns linked questions with `relatedEvents`.
+- Event images (owner approved publishing 2026-09-29): 17 new renditions in
+  `editorial/event-images/candidates/2026-10-04-08.json`, published to the
+  owned media origin (17/17 CloudFront 200, SHA-256 match); 7 October 2-3
+  renditions from batch 2026-09-27-10-03 reused. 24 of 28 events and 6 of 7
+  featured days now have a primary image; ledger `imageRightsStatus: verified`.
+  No free image: Peanuts, Monty Python (copyright), Don Larsen (featured
+  10-08; no usable public-domain rendition), Yom Kippur War (unclear rights).
+  Local re-import: 24 `event_image` rows; status `inSync: true`.
 - Not done: Supabase/shared or production import, deployment, Daily
   regeneration. Existing Daily assignments are not retrofitted.
 
