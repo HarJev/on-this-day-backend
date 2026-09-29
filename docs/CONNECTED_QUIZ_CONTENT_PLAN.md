@@ -79,8 +79,8 @@ L7 selection decision; do not change the algorithm inside a content task.
 
 | Item | Status | Acceptance |
 | --- | --- | --- |
-| C1: upcoming-date link inventory | NOT_STARTED | Identify next incomplete window and existing reusable questions; do not approve event drafts. |
-| C2: linked question slate | NOT_STARTED | Present natural, independent hooks with plausible distractors and explicit skip reasons. Owner reviews before drafting. |
+| C1: upcoming-date link inventory | COMPLETED | October 2-8 inventory complete; see CONNECTED_QUIZ_CONTENT_PROGRESS.md. Event drafts remain unapproved. |
+| C2: linked question slate | IN_PROGRESS | October 2-8: fourteen hooks proposed (six reuse, eight new); awaiting owner review before C3. |
 | C3: sourced editorial pack | NOT_STARTED | Draft outside canonical discovery, validate shapes, direct sources, relation rationale, and image fairness where relevant. |
 | C4: owner review and promotion | NOT_STARTED | Explicit approval, canonical promotion, import in dependency order, audit; preserve Daily assignments. |
 
