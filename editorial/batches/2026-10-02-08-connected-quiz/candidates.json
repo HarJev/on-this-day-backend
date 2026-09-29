@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-02-08-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "german-reunification-two-states",
+      "kind": "quiz",
+      "proposedCanonicalId": "german-reunification-two-states",
+      "workingClaim": "Which two states became one country in the German reunification of 1990? Answer: East Germany and West Germany. Proposed featured link on 10-03: german-reunification-1990. Directly tests the states involved in reunification, without date recall.",
+      "sourceUrls": [
+        "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814"
+      ]
+    },
+    {
+      "candidateId": "lesotho-surrounding-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "lesotho-surrounding-country",
+      "workingClaim": "Which country completely surrounds Lesotho? Answer: South Africa. Proposed additional link on 10-04: lesotho-independence-1966. Places the independent country geographically without asking its independence date.",
+      "sourceUrls": [
+        "https://www.gov.za/about-sa/south-africas-provinces",
+        "https://history.state.gov/countries/lesotho"
+      ]
+    },
+    {
+      "candidateId": "beatles-home-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "beatles-home-city",
+      "workingClaim": "Which English city did the Beatles come from? Answer: Liverpool. Proposed featured link on 10-05: beatles-love-me-do-1962. Connects the first-single milestone to the band's home city, not the recording studio.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/please-please-me",
+        "https://www.thebeatles.com/love-me-do"
+      ]
+    },
+    {
+      "candidateId": "monty-python-television-format",
+      "kind": "quiz",
+      "proposedCanonicalId": "monty-python-television-format",
+      "workingClaim": "Monty Python's Flying Circus was primarily built around which comedy format? Answer: Sketch comedy. Proposed additional link on 10-05: monty-python-first-broadcast-1969. Tests a familiar cultural format rather than broadcast-time or episode trivia.",
+      "sourceUrls": [
+        "https://www.montypython.com/python_The_Pythons/14"
+      ]
+    },
+    {
+      "candidateId": "exoplanet-meaning",
+      "kind": "quiz",
+      "proposedCanonicalId": "exoplanet-meaning",
+      "workingClaim": "What makes a planet an exoplanet? Answer: It is outside our Solar System. Proposed featured link on 10-06: first-exoplanet-announced-1995. Explains the discovery's central term rather than testing telescope names or orbital statistics.",
+      "sourceUrls": [
+        "https://www.nasa.gov/universe/unveiling-rogue-planets-with-nasas-roman-space-telescope/",
+        "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
+      ]
+    },
+    {
+      "candidateId": "klm-home-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "klm-home-country",
+      "workingClaim": "In which country was the airline KLM founded? Answer: The Netherlands. Proposed featured link on 10-07: klm-founded-1919. Connects the airline's founding to its home country; no Dutch acronym expansion in prompt.",
+      "sourceUrls": [
+        "https://www.klm.com/information/corporate/history"
+      ]
+    },
+    {
+      "candidateId": "project-mercury-primary-goal",
+      "kind": "quiz",
+      "proposedCanonicalId": "project-mercury-primary-goal",
+      "workingClaim": "Which crewed-flight goal was central to NASA's Project Mercury? Answer: Sending astronauts into Earth orbit. Proposed additional link on 10-07: project-mercury-approved-1958. Tests the purpose of the approved program rather than memorizing its approval date.",
+      "sourceUrls": [
+        "https://www.nasa.gov/project-mercury/",
+        "https://www.nasa.gov/history/SP-4001/p2a.htm"
+      ]
+    },
+    {
+      "candidateId": "baseball-perfect-game-meaning",
+      "kind": "quiz",
+      "proposedCanonicalId": "baseball-perfect-game-meaning",
+      "workingClaim": "Over a full nine-inning baseball game, what distinguishes a perfect game? Answer: Allowing no opposing batter to reach base. Proposed featured link on 10-08: don-larsen-perfect-game-1956. Makes Larsen's achievement understandable without obscure player or score recall.",
+      "sourceUrls": [
+        "https://baseballhall.org/discover/lee-richmond-created-baseball-perfection",
+        "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"
+      ]
+    },
+    {
+      "candidateId": "link-identify-mahatma-gandhi",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-mahatma-gandhi",
+      "workingClaim": "Propose featured relation on 10-02 from unchanged published identify-mahatma-gandhi to gandhi-born-1869. Government of India chronology identifies Gandhi and records his birth on October 2, 1869. The portrait question identifies the person commemorated.",
+      "sourceUrls": [
+        "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi"
+      ]
+    },
+    {
+      "candidateId": "link-identify-charles-darwin",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-charles-darwin",
+      "workingClaim": "Propose additional relation on 10-02 from unchanged published identify-charles-darwin to beagle-returns-to-england-1836. Darwin Correspondence Project describes Darwin's Beagle voyage and return to England in October 1836. The portrait identifies the scientist, not the return date.",
+      "sourceUrls": [
+        "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle"
+      ]
+    },
+    {
+      "candidateId": "link-identify-george-washington",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-george-washington",
+      "workingClaim": "Propose additional relation on 10-03 from unchanged published identify-george-washington to washington-thanksgiving-proclamation-1789. Founders Online publishes Washington's October 3, 1789 Thanksgiving proclamation. The portrait identifies its author, not the later November observance.",
+      "sourceUrls": [
+        "https://founders.archives.gov/documents/Washington/05-04-02-0091"
+      ]
+    },
+    {
+      "candidateId": "link-order-space-exploration-firsts",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-space-exploration-firsts",
+      "workingClaim": "Propose featured relation on 10-04 from unchanged published order-space-exploration-firsts to sputnik-1-launched-1957. Office of the Historian confirms the October 4, 1957 Sputnik launch. Sputnik is an explicit item in the unchanged four-milestone ordering question.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1953-1960/sputnik"
+      ]
+    },
+    {
+      "candidateId": "link-order-film-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-film-milestones",
+      "workingClaim": "Propose additional relation on 10-06 from unchanged published order-film-milestones to the-jazz-singer-premieres-1927. AFI identifies the New York premiere as October 6, 1927 and describes silent film with sound sequences. The Jazz Singer is an explicit item in the existing ordering question; retain distinction between premiere and later general release.",
+      "sourceUrls": [
+        "https://catalog.afi.com/Catalog/moviedetails/1535"
+      ]
+    },
+    {
+      "candidateId": "link-great-chicago-fire-duration",
+      "kind": "quiz",
+      "proposedCanonicalId": "great-chicago-fire-duration",
+      "workingClaim": "Propose additional relation on 10-08 from unchanged published great-chicago-fire-duration to great-chicago-fire-1871. Chicago History Museum teaching resource places the fire between October 8 and October 10, 1871. This supports the existing false answer to the about-a-week statement; inclusive calendar-day and elapsed-duration wording differ, not a week.",
+      "sourceUrls": [
+        "https://www.chicagohistory.org/app/uploads/2020/03/3.-Chicago-Fire.pdf"
+      ]
+    }
+  ]
+}

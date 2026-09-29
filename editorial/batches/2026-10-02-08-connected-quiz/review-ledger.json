@@ -1,0 +1,374 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-02-08-connected-quiz",
+  "entries": [
+    {
+      "candidateId": "german-reunification-two-states",
+      "canonicalId": "german-reunification-two-states",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/die-einheit-ist-wirklichkeit-432814",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The Federal Government timeline identifies the Federal Republic and GDR celebrating reunification on October 3, 1990; accession wording appears in the timeline."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Directly tests the states involved in reunification, without date recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lesotho-surrounding-country",
+      "canonicalId": "lesotho-surrounding-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.gov.za/about-sa/south-africas-provinces",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "South African Government describes Lesotho as entirely enclosed by South African territory; the three other southern African country choices do not surround it."
+        },
+        {
+          "url": "https://history.state.gov/countries/lesotho",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Office of the Historian records Lesotho's independence on October 4, 1966."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Places the independent country geographically without asking its independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "beatles-home-city",
+      "canonicalId": "beatles-home-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.thebeatles.com/please-please-me",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The Beatles' album page reproduces a contemporary account identifying the band with Liverpool; the Love Me Do page confirms first single and its 1962 release."
+        },
+        {
+          "url": "https://www.thebeatles.com/love-me-do",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The Beatles' album page reproduces a contemporary account identifying the band with Liverpool; the Love Me Do page confirms first single and its 1962 release."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Connects the first-single milestone to the band's home city, not the recording studio. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "monty-python-television-format",
+      "canonicalId": "monty-python-television-format",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.montypython.com/python_The_Pythons/14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The official history describes a deliberate reworking of sketch comedy, animations and parodies, and gives the October 5, 1969 BBC1 debut."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Tests a familiar cultural format rather than broadcast-time or episode trivia. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "exoplanet-meaning",
+      "canonicalId": "exoplanet-meaning",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/universe/unveiling-rogue-planets-with-nasas-roman-space-telescope/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "NASA defines exoplanets beyond our Solar System and discusses planets untethered to stars. Composition or surface properties are not the defining criterion."
+        },
+        {
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "University announcement supports the dated discovery relationship; retain Sun-like-star qualification, not an unrestricted first-exoplanet claim."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Explains the discovery's central term rather than testing telescope names or orbital statistics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "klm-home-country",
+      "canonicalId": "klm-home-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.klm.com/information/corporate/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "KLM's own history gives the Dutch founding on October 7, 1919 and its first scheduled London-Amsterdam flight on May 17, 1920."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Connects the airline's founding to its home country; no Dutch acronym expansion in prompt. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "project-mercury-primary-goal",
+      "canonicalId": "project-mercury-primary-goal",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/project-mercury/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "NASA's stated objectives are crewed Earth orbit, human performance in space and safe recovery. A lunar landing, crewed Mars flight and permanent station are not Mercury goals."
+        },
+        {
+          "url": "https://www.nasa.gov/history/SP-4001/p2a.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "NASA chronology records project approval on October 7, 1958."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Tests the purpose of the approved program rather than memorizing its approval date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "baseball-perfect-game-meaning",
+      "canonicalId": "baseball-perfect-game-meaning",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://baseballhall.org/discover/lee-richmond-created-baseball-perfection",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The Hall of Fame explains that all opposing batters fail to reach first base in a perfect game; its Larsen article confirms the October 8, 1956 World Series feat. No hits, no runs or no home runs alone is insufficient."
+        },
+        {
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "The Hall of Fame explains that all opposing batters fail to reach first base in a perfect game; its Larsen article confirms the October 8, 1956 World Series feat. No hits, no runs or no home runs alone is insufficient."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Draft researched by Codex; owner approved the slate only. Awaiting final content approval. Relation: Makes Larsen's achievement understandable without obscure player or score recall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "link-identify-mahatma-gandhi",
+      "canonicalId": "identify-mahatma-gandhi",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Government of India chronology identifies Gandhi and records his birth on October 2, 1869. The portrait question identifies the person commemorated."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+    },
+    {
+      "candidateId": "link-identify-charles-darwin",
+      "canonicalId": "identify-charles-darwin",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Darwin Correspondence Project describes Darwin's Beagle voyage and return to England in October 1836. The portrait identifies the scientist, not the return date."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "transregional"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+    },
+    {
+      "candidateId": "link-identify-george-washington",
+      "canonicalId": "identify-george-washington",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Founders Online publishes Washington's October 3, 1789 Thanksgiving proclamation. The portrait identifies its author, not the later November observance."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1500-1800"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; exact owned URL/provenance unchanged, no new download or fresh liveness claim."
+    },
+    {
+      "candidateId": "link-order-space-exploration-firsts",
+      "canonicalId": "order-space-exploration-firsts",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Office of the Historian confirms the October 4, 1957 Sputnik launch. Sputnik is an explicit item in the unchanged four-milestone ordering question."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "transregional"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Existing question's full sequence/explanation is not being newly approved by this link review."
+    },
+    {
+      "candidateId": "link-order-film-milestones",
+      "canonicalId": "order-film-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "AFI identifies the New York premiere as October 6, 1927 and describes silent film with sound sequences. The Jazz Singer is an explicit item in the existing ordering question; retain distinction between premiere and later general release."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Relationship review only; the new event link remains unapproved. Owner separately authorized immediate factual correction on 2026-09-29: the canonical Jazz Singer explanation now describes a landmark in the transition to sound film and its October premiere, without an absolute first-film priority claim. Four items, correct order, other film facts and all existing relationships unchanged. No approval of the proposed new event link is implied."
+    },
+    {
+      "candidateId": "link-great-chicago-fire-duration",
+      "canonicalId": "great-chicago-fire-duration",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.chicagohistory.org/app/uploads/2020/03/3.-Chicago-Fire.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-29",
+          "note": "Chicago History Museum teaching resource places the fire between October 8 and October 10, 1871. This supports the existing false answer to the about-a-week statement; inclusive calendar-day and elapsed-duration wording differ, not a week."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "north-america"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Existing question's full sequence/explanation is not being newly approved by this link review."
+    }
+  ]
+}
