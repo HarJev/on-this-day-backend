@@ -59,7 +59,7 @@ C. Liverpool **(correct)**
 
 D. London
 
-**Explanation:** The Beatles came from Liverpool. Although they recorded in London, their breakthrough began with a band from Liverpool; Love Me Do became their first single in 1962.
+**Explanation:** The Beatles formed in Liverpool and built their early following there before recording in London. Love Me Do became their first single in 1962.
 
 **Difficulty:** easy. **Date:** 10-05.
 **Related event:** `beatles-love-me-do-1962`.
