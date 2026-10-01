@@ -1,0 +1,4862 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "greensboro-sit-in-store",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Greensboro sit-in of 1960 began at a segregated lunch counter in which store?",
+      "options": [
+        {
+          "id": "kresge-s",
+          "text": "Kresge's"
+        },
+        {
+          "id": "sears",
+          "text": "Sears"
+        },
+        {
+          "id": "woolworth-s",
+          "text": "Woolworth's"
+        },
+        {
+          "id": "walgreens",
+          "text": "Walgreens"
+        }
+      ],
+      "correctOptionId": "woolworth-s",
+      "explanation": "On February 1, 1960, four African Americans sat down at the segregated Woolworth's lunch counter in Greensboro, North Carolina, and began a sit-in.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "greensboro-sit-in-begins-1960"
+      ]
+    },
+    {
+      "id": "la-boheme-premiere-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which Italian city did Puccini's opera La Boheme premiere in 1896?",
+      "options": [
+        {
+          "id": "turin",
+          "text": "Turin"
+        },
+        {
+          "id": "milan",
+          "text": "Milan"
+        },
+        {
+          "id": "venice",
+          "text": "Venice"
+        },
+        {
+          "id": "naples",
+          "text": "Naples"
+        }
+      ],
+      "correctOptionId": "turin",
+      "explanation": "La Boheme premiered at the Teatro Regio in Turin on February 1, 1896.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "la-boheme-premieres-1896"
+      ]
+    },
+    {
+      "id": "trygve-lie-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Trygve Lie, elected the first secretary-general of the United Nations in 1946, came from which country?",
+      "options": [
+        {
+          "id": "norway",
+          "text": "Norway"
+        },
+        {
+          "id": "sweden",
+          "text": "Sweden"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        },
+        {
+          "id": "finland",
+          "text": "Finland"
+        }
+      ],
+      "correctOptionId": "norway",
+      "explanation": "Lie, a Norwegian statesman, was elected UN secretary-general on February 1, 1946, and resigned in 1952.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Trygve Lie",
+          "url": "https://www.britannica.com/biography/Trygve-Lie"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "trygve-lie-first-un-secretary-general-1946"
+      ]
+    },
+    {
+      "id": "groundhog-day-town",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In 1887, a group in which Pennsylvania town went looking for a groundhog to predict the weather?",
+      "options": [
+        {
+          "id": "hershey",
+          "text": "Hershey"
+        },
+        {
+          "id": "gettysburg",
+          "text": "Gettysburg"
+        },
+        {
+          "id": "scranton",
+          "text": "Scranton"
+        },
+        {
+          "id": "punxsutawney",
+          "text": "Punxsutawney"
+        }
+      ],
+      "correctOptionId": "punxsutawney",
+      "explanation": "On February 2, 1887, a group in Punxsutawney, Pennsylvania, searched for a groundhog to forecast the weather, the start of the town's Groundhog Day tradition.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-punxsutawney-groundhog-day-1887"
+      ]
+    },
+    {
+      "id": "guadalupe-hidalgo-war",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Treaty of Guadalupe Hidalgo, signed in 1848, ended which war?",
+      "options": [
+        {
+          "id": "the-war-of-1812",
+          "text": "The War of 1812"
+        },
+        {
+          "id": "the-mexican-american-war",
+          "text": "The Mexican-American War"
+        },
+        {
+          "id": "the-spanish-american-war",
+          "text": "The Spanish-American War"
+        },
+        {
+          "id": "the-texas-revolution",
+          "text": "The Texas Revolution"
+        }
+      ],
+      "correctOptionId": "the-mexican-american-war",
+      "explanation": "The United States and Mexico signed the Treaty of Guadalupe Hidalgo on February 2, 1848, ending the Mexican-American War.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "treaty-of-guadalupe-hidalgo-1848"
+      ]
+    },
+    {
+      "id": "ulysses-single-day-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "James Joyce's novel Ulysses follows its characters through a single day in which city?",
+      "options": [
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "dublin",
+          "text": "Dublin"
+        },
+        {
+          "id": "trieste",
+          "text": "Trieste"
+        }
+      ],
+      "correctOptionId": "dublin",
+      "explanation": "Joyce, born in Dublin on February 2, 1882, set Ulysses in Dublin on June 16, 1904. The book was first published in Paris in 1922.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ulysses",
+          "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - James Joyce",
+          "url": "https://www.britannica.com/biography/James-Joyce"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "james-joyce-born-1882"
+      ]
+    },
+    {
+      "id": "collins-first-shuttle-piloted",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1995 Eileen Collins became the first woman to pilot a space shuttle. Which shuttle did she fly?",
+      "options": [
+        {
+          "id": "columbia",
+          "text": "Columbia"
+        },
+        {
+          "id": "atlantis",
+          "text": "Atlantis"
+        },
+        {
+          "id": "endeavour",
+          "text": "Endeavour"
+        },
+        {
+          "id": "discovery",
+          "text": "Discovery"
+        }
+      ],
+      "correctOptionId": "discovery",
+      "explanation": "Collins piloted the space shuttle Discovery, launched on February 3, 1995.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "eileen-collins-first-woman-shuttle-pilot-1995"
+      ]
+    },
+    {
+      "id": "fifteenth-amendment-women-vote",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Fifteenth Amendment to the US Constitution, ratified in 1870, gave women the right to vote.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "The Fifteenth Amendment, ratified on February 3, 1870, guaranteed the right to vote regardless of race. It did not address sex.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "fifteenth-amendment-ratified-1870"
+      ]
+    },
+    {
+      "id": "umm-kulthum-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The singer Umm Kulthum, one of the most famous Arab performers of the 20th century, came from which country?",
+      "options": [
+        {
+          "id": "lebanon",
+          "text": "Lebanon"
+        },
+        {
+          "id": "syria",
+          "text": "Syria"
+        },
+        {
+          "id": "morocco",
+          "text": "Morocco"
+        },
+        {
+          "id": "egypt",
+          "text": "Egypt"
+        }
+      ],
+      "correctOptionId": "egypt",
+      "explanation": "Umm Kulthum was Egyptian; she died in Cairo on February 3, 1975.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "umm-kulthum-dies-1975"
+      ]
+    },
+    {
+      "id": "facebook-founding-university",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "TheFacebook.com was launched in 2004 by students at which university?",
+      "options": [
+        {
+          "id": "stanford",
+          "text": "Stanford"
+        },
+        {
+          "id": "mit",
+          "text": "MIT"
+        },
+        {
+          "id": "harvard",
+          "text": "Harvard"
+        },
+        {
+          "id": "yale",
+          "text": "Yale"
+        }
+      ],
+      "correctOptionId": "harvard",
+      "explanation": "Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz and Chris Hughes launched TheFacebook.com at Harvard on February 4, 2004.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "thefacebook-launched-2004"
+      ]
+    },
+    {
+      "id": "ceylon-modern-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which country was called Ceylon when it gained independence from Britain in 1948?",
+      "options": [
+        {
+          "id": "mauritius",
+          "text": "Mauritius"
+        },
+        {
+          "id": "maldives",
+          "text": "Maldives"
+        },
+        {
+          "id": "madagascar",
+          "text": "Madagascar"
+        },
+        {
+          "id": "sri-lanka",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "sri-lanka",
+      "explanation": "Ceylon, now Sri Lanka, gained independence on February 4, 1948, after British control that began in 1796.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "ceylon-independence-1948"
+      ]
+    },
+    {
+      "id": "yalta-not-present",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these leaders did NOT take part in the Yalta Conference of 1945?",
+      "options": [
+        {
+          "id": "franklin-d-roosevelt",
+          "text": "Franklin D. Roosevelt"
+        },
+        {
+          "id": "winston-churchill",
+          "text": "Winston Churchill"
+        },
+        {
+          "id": "joseph-stalin",
+          "text": "Joseph Stalin"
+        },
+        {
+          "id": "charles-de-gaulle",
+          "text": "Charles de Gaulle"
+        }
+      ],
+      "correctOptionId": "charles-de-gaulle",
+      "explanation": "The Yalta Conference opened on February 4, 1945, with Roosevelt, Churchill and Stalin. De Gaulle was not among them.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "yalta-conference-opens-1945"
+      ]
+    },
+    {
+      "id": "washington-narrow-election",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "George Washington won the first US presidential election by a narrow margin in the electoral college.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "On February 4, 1789, the first electoral college voted unanimously for George Washington.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "washington-elected-first-president-1789"
+      ]
+    },
+    {
+      "id": "apollo-14-golf",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did Apollo 14 commander Alan Shepard swing at with a makeshift club on the Moon?",
+      "options": [
+        {
+          "id": "two-golf-balls",
+          "text": "Two golf balls"
+        },
+        {
+          "id": "a-baseball",
+          "text": "A baseball"
+        },
+        {
+          "id": "a-hockey-puck",
+          "text": "A hockey puck"
+        },
+        {
+          "id": "a-tennis-ball",
+          "text": "A tennis ball"
+        }
+      ],
+      "correctOptionId": "two-golf-balls",
+      "explanation": "Apollo 14 landed in the Fra Mauro highlands on February 5, 1971. Near the end of his moonwalk, Shepard swung at two golf balls with a makeshift six-iron.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Apollo 14",
+          "url": "https://www.britannica.com/topic/Apollo-14"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-14-lands-on-moon-1971"
+      ]
+    },
+    {
+      "id": "mexico-1917-constitution-in-force",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The constitution Mexico adopted in 1917 is still the country's constitution.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Britannica describes the constitution adopted on February 5, 1917, as Mexico's present constitution.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 5",
+          "url": "https://www.britannica.com/on-this-day/February-5"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "mexican-constitution-adopted-1917"
+      ]
+    },
+    {
+      "id": "elizabeth-ii-father",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Elizabeth II became queen in 1952 on the death of her father. Who was he?",
+      "options": [
+        {
+          "id": "edward-vii",
+          "text": "Edward VII"
+        },
+        {
+          "id": "george-v",
+          "text": "George V"
+        },
+        {
+          "id": "edward-viii",
+          "text": "Edward VIII"
+        },
+        {
+          "id": "george-vi",
+          "text": "George VI"
+        }
+      ],
+      "correctOptionId": "george-vi",
+      "explanation": "Elizabeth II ascended the throne on February 6, 1952, after the death of her father, King George VI.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "elizabeth-ii-accession-1952"
+      ]
+    },
+    {
+      "id": "marley-music-style",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Bob Marley, born in 1945, found stardom by blending ska and rock steady with which kind of music?",
+      "options": [
+        {
+          "id": "calypso",
+          "text": "Calypso"
+        },
+        {
+          "id": "salsa",
+          "text": "Salsa"
+        },
+        {
+          "id": "zydeco",
+          "text": "Zydeco"
+        },
+        {
+          "id": "reggae",
+          "text": "Reggae"
+        }
+      ],
+      "correctOptionId": "reggae",
+      "explanation": "Britannica says Marley, born on February 6, 1945, achieved stardom by blending early ska, rock steady and reggae.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "bob-marley-born-1945"
+      ]
+    },
+    {
+      "id": "falcon-heavy-company",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which company flew its Falcon Heavy rocket for the first time in 2018?",
+      "options": [
+        {
+          "id": "spacex",
+          "text": "SpaceX"
+        },
+        {
+          "id": "blue-origin",
+          "text": "Blue Origin"
+        },
+        {
+          "id": "boeing",
+          "text": "Boeing"
+        },
+        {
+          "id": "rocket-lab",
+          "text": "Rocket Lab"
+        }
+      ],
+      "correctOptionId": "spacex",
+      "explanation": "SpaceX's Falcon Heavy made its first test flight on February 6, 2018.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "falcon-heavy-first-flight-2018"
+      ]
+    },
+    {
+      "id": "chaplin-screen-character",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which famous screen character did Charlie Chaplin introduce in 1914?",
+      "options": [
+        {
+          "id": "the-little-tramp",
+          "text": "The Little Tramp"
+        },
+        {
+          "id": "the-lone-ranger",
+          "text": "The Lone Ranger"
+        },
+        {
+          "id": "charlie-chan",
+          "text": "Charlie Chan"
+        },
+        {
+          "id": "felix-the-cat",
+          "text": "Felix the Cat"
+        }
+      ],
+      "correctOptionId": "the-little-tramp",
+      "explanation": "Chaplin debuted the Little Tramp in Kid Auto Races at Venice, released on February 7, 1914.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "chaplin-little-tramp-debut-1914"
+      ]
+    },
+    {
+      "id": "dickens-novel",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which of these novels did Charles Dickens write?",
+      "options": [
+        {
+          "id": "middlemarch",
+          "text": "Middlemarch"
+        },
+        {
+          "id": "jane-eyre",
+          "text": "Jane Eyre"
+        },
+        {
+          "id": "great-expectations",
+          "text": "Great Expectations"
+        },
+        {
+          "id": "vanity-fair",
+          "text": "Vanity Fair"
+        }
+      ],
+      "correctOptionId": "great-expectations",
+      "explanation": "Dickens, born in Portsmouth on February 7, 1812, wrote Oliver Twist, A Christmas Carol, David Copperfield and Great Expectations (1861).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Charles Dickens",
+          "url": "https://www.britannica.com/biography/Charles-Dickens-British-novelist"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "charles-dickens-born-1812"
+      ]
+    },
+    {
+      "id": "grenada-independence-from",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "From which country did Grenada gain independence in 1974?",
+      "options": [
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "spain",
+          "text": "Spain"
+        },
+        {
+          "id": "the-netherlands",
+          "text": "The Netherlands"
+        },
+        {
+          "id": "the-united-kingdom",
+          "text": "The United Kingdom"
+        }
+      ],
+      "correctOptionId": "the-united-kingdom",
+      "explanation": "Grenada gained independence from the United Kingdom on February 7, 1974.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "grenada-independence-1974"
+      ]
+    },
+    {
+      "id": "abdullah-ii-father",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Abdullah II became king of Jordan in 1999, succeeding his father. Who was his father?",
+      "options": [
+        {
+          "id": "faisal",
+          "text": "Faisal"
+        },
+        {
+          "id": "talal",
+          "text": "Talal"
+        },
+        {
+          "id": "ghazi",
+          "text": "Ghazi"
+        },
+        {
+          "id": "hussein",
+          "text": "Hussein"
+        }
+      ],
+      "correctOptionId": "hussein",
+      "explanation": "Abdullah II became king on February 7, 1999, hours after the death of his father, King Hussein.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "abdullah-ii-becomes-king-of-jordan-1999"
+      ]
+    },
+    {
+      "id": "verne-submarine-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What is the name of the submarine in Jules Verne's Twenty Thousand Leagues Under the Sea?",
+      "options": [
+        {
+          "id": "neptune",
+          "text": "Neptune"
+        },
+        {
+          "id": "leviathan",
+          "text": "Leviathan"
+        },
+        {
+          "id": "nautilus",
+          "text": "Nautilus"
+        },
+        {
+          "id": "argonaut",
+          "text": "Argonaut"
+        }
+      ],
+      "correctOptionId": "nautilus",
+      "explanation": "Verne, born in Nantes on February 8, 1828, published Twenty Thousand Leagues Under the Sea in 1870. Its fictional submarine was the Nautilus.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Jules Verne",
+          "url": "https://www.britannica.com/biography/Jules-Verne"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "jules-verne-born-1828"
+      ]
+    },
+    {
+      "id": "skylab-4-days",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How long did the Skylab 4 crew spend in space, a record when they splashed down in 1974?",
+      "options": [
+        {
+          "id": "14-days",
+          "text": "14 days"
+        },
+        {
+          "id": "28-days",
+          "text": "28 days"
+        },
+        {
+          "id": "59-days",
+          "text": "59 days"
+        },
+        {
+          "id": "84-days",
+          "text": "84 days"
+        }
+      ],
+      "correctOptionId": "84-days",
+      "explanation": "The Skylab 4 crew splashed down in the Pacific on February 8, 1974, after 84 days in space.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "skylab-4-splashdown-1974"
+      ]
+    },
+    {
+      "id": "mary-queen-of-scots-rival",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Mary, Queen of Scots, executed in 1587, was the rival of which English monarch?",
+      "options": [
+        {
+          "id": "elizabeth-i",
+          "text": "Elizabeth I"
+        },
+        {
+          "id": "mary-i",
+          "text": "Mary I"
+        },
+        {
+          "id": "henry-viii",
+          "text": "Henry VIII"
+        },
+        {
+          "id": "james-i",
+          "text": "James I"
+        }
+      ],
+      "correctOptionId": "elizabeth-i",
+      "explanation": "Mary, Queen of Scots, rival of Elizabeth I, was beheaded at Fotheringhay Castle on February 8, 1587.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "mary-queen-of-scots-executed-1587"
+      ]
+    },
+    {
+      "id": "element-112-named-after",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Element 112, first made in Germany in 1996, is named after which astronomer?",
+      "options": [
+        {
+          "id": "galileo",
+          "text": "Galileo"
+        },
+        {
+          "id": "kepler",
+          "text": "Kepler"
+        },
+        {
+          "id": "copernicus",
+          "text": "Copernicus"
+        },
+        {
+          "id": "tycho-brahe",
+          "text": "Tycho Brahe"
+        }
+      ],
+      "correctOptionId": "copernicus",
+      "explanation": "Element 112 was synthesized on February 9, 1996, at GSI in Darmstadt and later named copernicium after Nicolaus Copernicus.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Copernicium",
+          "url": "https://www.britannica.com/science/copernicium"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "element-112-synthesized-1996"
+      ]
+    },
+    {
+      "id": "color-purple-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote the Pulitzer Prize-winning novel The Color Purple (1982)?",
+      "options": [
+        {
+          "id": "toni-morrison",
+          "text": "Toni Morrison"
+        },
+        {
+          "id": "maya-angelou",
+          "text": "Maya Angelou"
+        },
+        {
+          "id": "zora-neale-hurston",
+          "text": "Zora Neale Hurston"
+        },
+        {
+          "id": "alice-walker",
+          "text": "Alice Walker"
+        }
+      ],
+      "correctOptionId": "alice-walker",
+      "explanation": "Alice Walker, born on February 9, 1944, is perhaps best known for The Color Purple.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "alice-walker-born-1944"
+      ]
+    },
+    {
+      "id": "alinagar-modern-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Treaty of Alinagar of 1757 put which present-day Indian city under British control?",
+      "options": [
+        {
+          "id": "mumbai",
+          "text": "Mumbai"
+        },
+        {
+          "id": "chennai",
+          "text": "Chennai"
+        },
+        {
+          "id": "kolkata",
+          "text": "Kolkata"
+        },
+        {
+          "id": "delhi",
+          "text": "Delhi"
+        }
+      ],
+      "correctOptionId": "kolkata",
+      "explanation": "The Treaty of Alinagar, signed on February 9, 1757, placed what is now Kolkata under British control, a prelude to the seizure of Bengal.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "treaty-of-alinagar-1757"
+      ]
+    },
+    {
+      "id": "powers-aircraft-type",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Francis Gary Powers, swapped for a Soviet spy in 1962, had been shot down flying which kind of plane?",
+      "options": [
+        {
+          "id": "a-u-2",
+          "text": "A U-2"
+        },
+        {
+          "id": "an-sr-71",
+          "text": "An SR-71"
+        },
+        {
+          "id": "a-b-52",
+          "text": "A B-52"
+        },
+        {
+          "id": "a-mig-21",
+          "text": "A MiG-21"
+        }
+      ],
+      "correctOptionId": "a-u-2",
+      "explanation": "Powers's U-2 reconnaissance plane was shot down near Sverdlovsk on May 1, 1960. He was exchanged for Rudolf Abel on February 10, 1962.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - U-2 Incident",
+          "url": "https://www.britannica.com/event/U-2-Incident"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "powers-abel-spy-exchange-1962"
+      ]
+    },
+    {
+      "id": "treaty-of-paris-1763-war",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Treaty of Paris of 1763 ended which war?",
+      "options": [
+        {
+          "id": "the-thirty-years-war",
+          "text": "The Thirty Years' War"
+        },
+        {
+          "id": "the-war-of-the-spanish-succession",
+          "text": "The War of the Spanish Succession"
+        },
+        {
+          "id": "the-seven-years-war",
+          "text": "The Seven Years' War"
+        },
+        {
+          "id": "the-american-revolutionary-war",
+          "text": "The American Revolutionary War"
+        }
+      ],
+      "correctOptionId": "the-seven-years-war",
+      "explanation": "The Treaty of Paris, signed on February 10, 1763, ended the conflicts between France and Britain that had caused the Seven Years' War. A later Treaty of Paris ended the American Revolutionary War.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "treaty-of-paris-1763"
+      ]
+    },
+    {
+      "id": "spitz-seven-golds-first",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Mark Spitz was the first athlete to win seven gold medals at a single Olympic Games.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Spitz, born on February 10, 1950, became the first athlete to capture seven gold medals at a single Olympics.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "mark-spitz-born-1950"
+      ]
+    },
+    {
+      "id": "mandela-years-in-prison",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "How many years had Nelson Mandela spent in prison when he was released in 1990?",
+      "options": [
+        {
+          "id": "10",
+          "text": "10"
+        },
+        {
+          "id": "18",
+          "text": "18"
+        },
+        {
+          "id": "27",
+          "text": "27"
+        },
+        {
+          "id": "35",
+          "text": "35"
+        }
+      ],
+      "correctOptionId": "27",
+      "explanation": "Mandela was released on February 11, 1990, after 27 years in prison.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "nelson-mandela-released-1990"
+      ]
+    },
+    {
+      "id": "lateran-treaty-territory",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Lateran Treaty of 1929 recognized papal sovereignty over which territory?",
+      "options": [
+        {
+          "id": "vatican-city",
+          "text": "Vatican City"
+        },
+        {
+          "id": "san-marino",
+          "text": "San Marino"
+        },
+        {
+          "id": "monaco",
+          "text": "Monaco"
+        },
+        {
+          "id": "avignon",
+          "text": "Avignon"
+        }
+      ],
+      "correctOptionId": "vatican-city",
+      "explanation": "Signed on February 11, 1929, the Lateran Treaty recognized papal sovereignty over Vatican City, an enclave in Rome.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "lateran-treaty-signed-1929"
+      ]
+    },
+    {
+      "id": "mubarak-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Hosni Mubarak stepped down in 2011 after nearly 30 years as president of which country?",
+      "options": [
+        {
+          "id": "tunisia",
+          "text": "Tunisia"
+        },
+        {
+          "id": "libya",
+          "text": "Libya"
+        },
+        {
+          "id": "syria",
+          "text": "Syria"
+        },
+        {
+          "id": "egypt",
+          "text": "Egypt"
+        }
+      ],
+      "correctOptionId": "egypt",
+      "explanation": "Mubarak stepped down on February 11, 2011, after nearly 30 years in power, following the Arab Spring uprisings.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "hosni-mubarak-steps-down-2011"
+      ]
+    },
+    {
+      "id": "thatcher-predecessor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1975 Margaret Thatcher replaced whom as leader of Britain's Conservative Party?",
+      "options": [
+        {
+          "id": "harold-wilson",
+          "text": "Harold Wilson"
+        },
+        {
+          "id": "harold-macmillan",
+          "text": "Harold Macmillan"
+        },
+        {
+          "id": "john-major",
+          "text": "John Major"
+        },
+        {
+          "id": "edward-heath",
+          "text": "Edward Heath"
+        }
+      ],
+      "correctOptionId": "edward-heath",
+      "explanation": "Thatcher was elected Conservative leader on February 11, 1975, replacing Edward Heath.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "thatcher-elected-conservative-leader-1975"
+      ]
+    },
+    {
+      "id": "darwin-lincoln-same-birthday",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Charles Darwin and Abraham Lincoln were born on the same day.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Both were born on February 12, 1809: Darwin in England and Lincoln in the United States.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "charles-darwin-born-1809",
+        "abraham-lincoln-born-1809"
+      ]
+    },
+    {
+      "id": "puyi-last-emperor-of",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Puyi, who abdicated in 1912, was the last emperor of which country?",
+      "options": [
+        {
+          "id": "china",
+          "text": "China"
+        },
+        {
+          "id": "japan",
+          "text": "Japan"
+        },
+        {
+          "id": "korea",
+          "text": "Korea"
+        },
+        {
+          "id": "vietnam",
+          "text": "Vietnam"
+        }
+      ],
+      "correctOptionId": "china",
+      "explanation": "Puyi abdicated on February 12, 1912, at the end of the Chinese Revolution.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "puyi-abdicates-1912"
+      ]
+    },
+    {
+      "id": "scream-painter",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who painted The Scream, a version of which was stolen from Oslo's National Gallery in 1994?",
+      "options": [
+        {
+          "id": "edvard-munch",
+          "text": "Edvard Munch"
+        },
+        {
+          "id": "vincent-van-gogh",
+          "text": "Vincent van Gogh"
+        },
+        {
+          "id": "gustav-klimt",
+          "text": "Gustav Klimt"
+        },
+        {
+          "id": "egon-schiele",
+          "text": "Egon Schiele"
+        }
+      ],
+      "correctOptionId": "edvard-munch",
+      "explanation": "The Norwegian artist Edvard Munch painted The Scream. The version stolen on February 12, 1994, was recovered months later.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - The Scream",
+          "url": "https://www.britannica.com/topic/The-Scream-by-Munch"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "the-scream-stolen-1994"
+      ]
+    },
+    {
+      "id": "chile-independence-general",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Chile formally declared independence in 1818, one year after revolutionary forces led by whom won a key victory?",
+      "options": [
+        {
+          "id": "simon-bolivar",
+          "text": "Simon Bolivar"
+        },
+        {
+          "id": "jose-de-san-martin",
+          "text": "Jose de San Martin"
+        },
+        {
+          "id": "miguel-hidalgo",
+          "text": "Miguel Hidalgo"
+        },
+        {
+          "id": "antonio-jose-de-sucre",
+          "text": "Antonio Jose de Sucre"
+        }
+      ],
+      "correctOptionId": "jose-de-san-martin",
+      "explanation": "Chile declared independence on February 12, 1818, exactly one year after revolutionary forces led by Jose de San Martin won.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "chile-declares-independence-1818"
+      ]
+    },
+    {
+      "id": "peanuts-creator",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who created the comic strip Peanuts?",
+      "options": [
+        {
+          "id": "jim-davis",
+          "text": "Jim Davis"
+        },
+        {
+          "id": "bill-watterson",
+          "text": "Bill Watterson"
+        },
+        {
+          "id": "charles-addams",
+          "text": "Charles Addams"
+        },
+        {
+          "id": "charles-schulz",
+          "text": "Charles Schulz"
+        }
+      ],
+      "correctOptionId": "charles-schulz",
+      "explanation": "The last Peanuts strip was published on February 13, 2000, hours after its creator, Charles Schulz, died.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "last-peanuts-strip-2000"
+      ]
+    },
+    {
+      "id": "rudd-apology-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Kevin Rudd apologized to Aboriginal peoples in 2008 as prime minister of which country?",
+      "options": [
+        {
+          "id": "new-zealand",
+          "text": "New Zealand"
+        },
+        {
+          "id": "canada",
+          "text": "Canada"
+        },
+        {
+          "id": "australia",
+          "text": "Australia"
+        },
+        {
+          "id": "south-africa",
+          "text": "South Africa"
+        }
+      ],
+      "correctOptionId": "australia",
+      "explanation": "On February 13, 2008, Australian Prime Minister Kevin Rudd apologized to Aboriginal peoples for abuses under earlier governments.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "kevin-rudd-apology-2008"
+      ]
+    },
+    {
+      "id": "france-first-atomic-test-site",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Where did France detonate its first atomic bomb in 1960?",
+      "options": [
+        {
+          "id": "mururoa-atoll",
+          "text": "Mururoa Atoll"
+        },
+        {
+          "id": "the-sahara-desert",
+          "text": "The Sahara desert"
+        },
+        {
+          "id": "corsica",
+          "text": "Corsica"
+        },
+        {
+          "id": "french-guiana",
+          "text": "French Guiana"
+        }
+      ],
+      "correctOptionId": "the-sahara-desert",
+      "explanation": "France detonated its first atomic bomb in the Sahara desert on February 13, 1960.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "france-first-atomic-bomb-1960"
+      ]
+    },
+    {
+      "id": "simenon-detective",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which fictional detective did Georges Simenon create?",
+      "options": [
+        {
+          "id": "hercule-poirot",
+          "text": "Hercule Poirot"
+        },
+        {
+          "id": "arsene-lupin",
+          "text": "Arsene Lupin"
+        },
+        {
+          "id": "auguste-dupin",
+          "text": "Auguste Dupin"
+        },
+        {
+          "id": "jules-maigret",
+          "text": "Jules Maigret"
+        }
+      ],
+      "correctOptionId": "jules-maigret",
+      "explanation": "Simenon, born in Liege on February 13, 1903, created the Parisian police inspector Jules Maigret.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Georges Simenon",
+          "url": "https://www.britannica.com/biography/Georges-Simenon"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "georges-simenon-born-1903"
+      ]
+    },
+    {
+      "id": "eniac-vacuum-tubes",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Roughly how many vacuum tubes did the ENIAC computer use?",
+      "options": [
+        {
+          "id": "about-180",
+          "text": "About 180"
+        },
+        {
+          "id": "about-1-800",
+          "text": "About 1,800"
+        },
+        {
+          "id": "about-18-000",
+          "text": "About 18,000"
+        },
+        {
+          "id": "about-180-000",
+          "text": "About 180,000"
+        }
+      ],
+      "correctOptionId": "about-18-000",
+      "explanation": "ENIAC, announced on February 14, 1946, used about 18,000 vacuum tubes and weighed 30 tons.",
+      "sources": [
+        {
+          "displayName": "Penn Engineering - ENIAC",
+          "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "eniac-announced-1946"
+      ]
+    },
+    {
+      "id": "cook-killed-islands",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Captain James Cook was killed in 1779 at Kealakekua Bay, in which island group?",
+      "options": [
+        {
+          "id": "tahiti-and-the-society-islands",
+          "text": "Tahiti and the Society Islands"
+        },
+        {
+          "id": "the-hawaiian-islands",
+          "text": "The Hawaiian Islands"
+        },
+        {
+          "id": "tonga",
+          "text": "Tonga"
+        },
+        {
+          "id": "fiji",
+          "text": "Fiji"
+        }
+      ],
+      "correctOptionId": "the-hawaiian-islands",
+      "explanation": "Cook was killed by Hawaiians at Kealakekua Bay on February 14, 1779.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 14",
+          "url": "https://www.britannica.com/on-this-day/February-14"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "james-cook-killed-1779"
+      ]
+    },
+    {
+      "id": "arizona-last-contiguous-state",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Arizona, admitted in 1912, was the last of the 48 contiguous US states to join the Union.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Arizona became a state on February 14, 1912, the last of the 48 contiguous states to be admitted.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Arizona",
+          "url": "https://www.britannica.com/place/Arizona-state"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "arizona-statehood-1912"
+      ]
+    },
+    {
+      "id": "maple-leaf-flag-year",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which year did Canada officially adopt its Maple Leaf Flag?",
+      "options": [
+        {
+          "id": "1867",
+          "text": "1867"
+        },
+        {
+          "id": "1931",
+          "text": "1931"
+        },
+        {
+          "id": "1965",
+          "text": "1965"
+        },
+        {
+          "id": "1982",
+          "text": "1982"
+        }
+      ],
+      "correctOptionId": "1965",
+      "explanation": "Canada officially adopted the Maple Leaf Flag on February 15, 1965, following a royal proclamation.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 15",
+          "url": "https://www.britannica.com/on-this-day/February-15"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "canada-adopts-maple-leaf-flag-1965"
+      ]
+    },
+    {
+      "id": "uss-maine-harbor",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The battleship USS Maine exploded and sank in 1898 in the harbor of which city?",
+      "options": [
+        {
+          "id": "havana",
+          "text": "Havana"
+        },
+        {
+          "id": "san-juan",
+          "text": "San Juan"
+        },
+        {
+          "id": "manila",
+          "text": "Manila"
+        },
+        {
+          "id": "veracruz",
+          "text": "Veracruz"
+        }
+      ],
+      "correctOptionId": "havana",
+      "explanation": "An explosion sank the USS Maine at anchor in Havana Harbor on February 15, 1898.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 15",
+          "url": "https://www.britannica.com/on-this-day/February-15"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "uss-maine-sinks-1898"
+      ]
+    },
+    {
+      "id": "galilean-moons-planet",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Galilean moons, discovered by Galileo, orbit which planet?",
+      "options": [
+        {
+          "id": "saturn",
+          "text": "Saturn"
+        },
+        {
+          "id": "mars",
+          "text": "Mars"
+        },
+        {
+          "id": "uranus",
+          "text": "Uranus"
+        },
+        {
+          "id": "jupiter",
+          "text": "Jupiter"
+        }
+      ],
+      "correctOptionId": "jupiter",
+      "explanation": "Galileo, born in Pisa on February 15, 1564, discovered the four largest moons of Jupiter, now called the Galilean moons.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Galileo",
+          "url": "https://www.britannica.com/biography/Galileo-Galilei"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "galileo-galilei-born-1564"
+      ]
+    },
+    {
+      "id": "soviet-afghanistan-start-year",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The last Soviet troops left Afghanistan in 1989. In which year had the occupation begun?",
+      "options": [
+        {
+          "id": "1968",
+          "text": "1968"
+        },
+        {
+          "id": "1975",
+          "text": "1975"
+        },
+        {
+          "id": "1979",
+          "text": "1979"
+        },
+        {
+          "id": "1985",
+          "text": "1985"
+        }
+      ],
+      "correctOptionId": "1979",
+      "explanation": "The Soviet Union withdrew its last troops on February 15, 1989, after occupying Afghanistan since 1979.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 15",
+          "url": "https://www.britannica.com/on-this-day/February-15"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "soviet-withdrawal-from-afghanistan-1989"
+      ]
+    },
+    {
+      "id": "kyoto-protocol-aim",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Kyoto Protocol, which took effect in 2005, was meant to reduce what?",
+      "options": [
+        {
+          "id": "stockpiles-of-nuclear-weapons",
+          "text": "Stockpiles of nuclear weapons"
+        },
+        {
+          "id": "chemicals-that-deplete-the-ozone-layer",
+          "text": "Chemicals that deplete the ozone layer"
+        },
+        {
+          "id": "emissions-of-gases-that-contribute-to-gl",
+          "text": "Emissions of gases that contribute to global warming"
+        },
+        {
+          "id": "plastic-waste-in-the-oceans",
+          "text": "Plastic waste in the oceans"
+        }
+      ],
+      "correctOptionId": "emissions-of-gases-that-contribute-to-gl",
+      "explanation": "The Kyoto Protocol, adopted in 1997 and in force from February 16, 2005, aimed to reduce emissions of gases that contribute to global warming.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Kyoto Protocol",
+          "url": "https://www.britannica.com/event/Kyoto-Protocol"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "kyoto-protocol-in-force-2005"
+      ]
+    },
+    {
+      "id": "nylon-company",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Wallace Carothers patented nylon in 1937 while working for which company?",
+      "options": [
+        {
+          "id": "dupont",
+          "text": "DuPont"
+        },
+        {
+          "id": "3m",
+          "text": "3M"
+        },
+        {
+          "id": "dow",
+          "text": "Dow"
+        },
+        {
+          "id": "bayer",
+          "text": "Bayer"
+        }
+      ],
+      "correctOptionId": "dupont",
+      "explanation": "DuPont chemist Wallace Hume Carothers patented nylon on February 16, 1937.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 16",
+          "url": "https://www.britannica.com/on-this-day/February-16"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "nylon-patented-1937"
+      ]
+    },
+    {
+      "id": "grace-bedell-suggestion",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What had 12-year-old Grace Bedell suggested to Abraham Lincoln in a letter?",
+      "options": [
+        {
+          "id": "wear-a-taller-hat",
+          "text": "Wear a taller hat"
+        },
+        {
+          "id": "grow-a-beard",
+          "text": "Grow a beard"
+        },
+        {
+          "id": "run-for-president",
+          "text": "Run for president"
+        },
+        {
+          "id": "move-to-new-york",
+          "text": "Move to New York"
+        }
+      ],
+      "correctOptionId": "grow-a-beard",
+      "explanation": "Lincoln met Grace Bedell at Westfield, New York, on February 16, 1861. She had suggested he grow a beard.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 16",
+          "url": "https://www.britannica.com/on-this-day/February-16"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lincoln-meets-grace-bedell-1861"
+      ]
+    },
+    {
+      "id": "deep-blue-maker",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which company built the Deep Blue chess computer that Garry Kasparov beat in 1996?",
+      "options": [
+        {
+          "id": "apple",
+          "text": "Apple"
+        },
+        {
+          "id": "microsoft",
+          "text": "Microsoft"
+        },
+        {
+          "id": "intel",
+          "text": "Intel"
+        },
+        {
+          "id": "ibm",
+          "text": "IBM"
+        }
+      ],
+      "correctOptionId": "ibm",
+      "explanation": "On February 17, 1996, world champion Garry Kasparov triumphed over IBM's Deep Blue.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 17",
+          "url": "https://www.britannica.com/on-this-day/February-17"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "kasparov-defeats-deep-blue-1996"
+      ]
+    },
+    {
+      "id": "kosovo-independence-from",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which country did Kosovo declare independence in 2008?",
+      "options": [
+        {
+          "id": "albania",
+          "text": "Albania"
+        },
+        {
+          "id": "montenegro",
+          "text": "Montenegro"
+        },
+        {
+          "id": "north-macedonia",
+          "text": "North Macedonia"
+        },
+        {
+          "id": "serbia",
+          "text": "Serbia"
+        }
+      ],
+      "correctOptionId": "serbia",
+      "explanation": "Kosovo declared independence from Serbia on February 17, 2008, though some countries refused to recognize it.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 17",
+          "url": "https://www.britannica.com/on-this-day/February-17"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "kosovo-declares-independence-2008"
+      ]
+    },
+    {
+      "id": "first-submarine-sinking-world-war-i",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The first sinking of an enemy ship by a submarine took place during World War I.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "It happened during the American Civil War: on February 17, 1864, the Confederate submarine Hunley sank the USS Housatonic off Charleston, South Carolina.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 17",
+          "url": "https://www.britannica.com/on-this-day/February-17"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "hunley-sinks-housatonic-1864"
+      ]
+    },
+    {
+      "id": "madama-butterfly-opera-house",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Puccini's Madama Butterfly premiered in 1904 at which opera house?",
+      "options": [
+        {
+          "id": "la-fenice",
+          "text": "La Fenice"
+        },
+        {
+          "id": "teatro-regio",
+          "text": "Teatro Regio"
+        },
+        {
+          "id": "la-scala",
+          "text": "La Scala"
+        },
+        {
+          "id": "vienna-state-opera",
+          "text": "Vienna State Opera"
+        }
+      ],
+      "correctOptionId": "la-scala",
+      "explanation": "Madama Butterfly premiered at La Scala in Milan on February 17, 1904.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 17",
+          "url": "https://www.britannica.com/on-this-day/February-17"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "madama-butterfly-premieres-1904"
+      ]
+    },
+    {
+      "id": "pluto-discoverer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who discovered Pluto in 1930?",
+      "options": [
+        {
+          "id": "percival-lowell",
+          "text": "Percival Lowell"
+        },
+        {
+          "id": "clyde-tombaugh",
+          "text": "Clyde Tombaugh"
+        },
+        {
+          "id": "edwin-hubble",
+          "text": "Edwin Hubble"
+        },
+        {
+          "id": "william-herschel",
+          "text": "William Herschel"
+        }
+      ],
+      "correctOptionId": "clyde-tombaugh",
+      "explanation": "Clyde Tombaugh, a 24-year-old with no formal training in astronomy, discovered Pluto on February 18, 1930.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 18",
+          "url": "https://www.britannica.com/on-this-day/February-18"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "pluto-discovered-1930"
+      ]
+    },
+    {
+      "id": "luther-movement",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Martin Luther, who died in 1546, led which religious movement?",
+      "options": [
+        {
+          "id": "the-counter-reformation",
+          "text": "The Counter-Reformation"
+        },
+        {
+          "id": "the-great-schism",
+          "text": "The Great Schism"
+        },
+        {
+          "id": "the-methodist-revival",
+          "text": "The Methodist revival"
+        },
+        {
+          "id": "the-protestant-reformation",
+          "text": "The Protestant Reformation"
+        }
+      ],
+      "correctOptionId": "the-protestant-reformation",
+      "explanation": "Luther, leader of the Protestant Reformation, died in Eisleben on February 18, 1546.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 18",
+          "url": "https://www.britannica.com/on-this-day/February-18"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "martin-luther-dies-1546"
+      ]
+    },
+    {
+      "id": "shani-davis-sport",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Shani Davis won his 2006 Olympic gold medal in which sport?",
+      "options": [
+        {
+          "id": "speed-skating",
+          "text": "Speed skating"
+        },
+        {
+          "id": "bobsled",
+          "text": "Bobsled"
+        },
+        {
+          "id": "ski-jumping",
+          "text": "Ski jumping"
+        },
+        {
+          "id": "figure-skating",
+          "text": "Figure skating"
+        }
+      ],
+      "correctOptionId": "speed-skating",
+      "explanation": "On February 18, 2006, Davis won the men's 1,000-meter long-track speed skating final.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 18",
+          "url": "https://www.britannica.com/on-this-day/February-18"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "shani-davis-olympic-gold-2006"
+      ]
+    },
+    {
+      "id": "copernicus-book-year-of-death",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Copernicus's book De revolutionibus, which set out his Sun-centered system, was published in the year he died.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Copernicus, born on February 19, 1473, died in 1543, the year De revolutionibus was published.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Nicolaus Copernicus",
+          "url": "https://www.britannica.com/biography/Nicolaus-Copernicus"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "nicolaus-copernicus-born-1473"
+      ]
+    },
+    {
+      "id": "phonograph-patent-inventor",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who patented the phonograph in 1878?",
+      "options": [
+        {
+          "id": "alexander-graham-bell",
+          "text": "Alexander Graham Bell"
+        },
+        {
+          "id": "thomas-edison",
+          "text": "Thomas Edison"
+        },
+        {
+          "id": "emile-berliner",
+          "text": "Emile Berliner"
+        },
+        {
+          "id": "nikola-tesla",
+          "text": "Nikola Tesla"
+        }
+      ],
+      "correctOptionId": "thomas-edison",
+      "explanation": "Thomas Edison patented the phonograph, which reproduced sound through a needle's vibration, on February 19, 1878.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 19",
+          "url": "https://www.britannica.com/on-this-day/February-19"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "edison-patents-phonograph-1878"
+      ]
+    },
+    {
+      "id": "executive-order-9066-president",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which US president signed Executive Order 9066, which forced Japanese Americans into detention camps?",
+      "options": [
+        {
+          "id": "herbert-hoover",
+          "text": "Herbert Hoover"
+        },
+        {
+          "id": "franklin-d-roosevelt",
+          "text": "Franklin D. Roosevelt"
+        },
+        {
+          "id": "harry-s-truman",
+          "text": "Harry S. Truman"
+        },
+        {
+          "id": "woodrow-wilson",
+          "text": "Woodrow Wilson"
+        }
+      ],
+      "correctOptionId": "franklin-d-roosevelt",
+      "explanation": "Roosevelt signed Executive Order 9066 on February 19, 1942, during World War II.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 19",
+          "url": "https://www.britannica.com/on-this-day/February-19"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "executive-order-9066-signed-1942"
+      ]
+    },
+    {
+      "id": "glenn-orbit-count",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many times did John Glenn orbit Earth on his 1962 flight?",
+      "options": [
+        {
+          "id": "one",
+          "text": "One"
+        },
+        {
+          "id": "three",
+          "text": "Three"
+        },
+        {
+          "id": "seven",
+          "text": "Seven"
+        },
+        {
+          "id": "sixteen",
+          "text": "Sixteen"
+        }
+      ],
+      "correctOptionId": "three",
+      "explanation": "On February 20, 1962, Glenn became the first American to orbit Earth, circling it three times.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 20",
+          "url": "https://www.britannica.com/on-this-day/February-20"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "john-glenn-orbits-earth-1962"
+      ]
+    },
+    {
+      "id": "paricutin-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The volcano Paricutin, which began erupting in 1943, is in which country?",
+      "options": [
+        {
+          "id": "mexico",
+          "text": "Mexico"
+        },
+        {
+          "id": "guatemala",
+          "text": "Guatemala"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "iceland",
+          "text": "Iceland"
+        }
+      ],
+      "correctOptionId": "mexico",
+      "explanation": "Paricutin, in Michoacan state, Mexico, began erupting on February 20, 1943.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 20",
+          "url": "https://www.britannica.com/on-this-day/February-20"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "paricutin-begins-erupting-1943"
+      ]
+    },
+    {
+      "id": "futurism-newspaper",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "In which newspaper did Filippo Tommaso Marinetti coin the term Futurism in 1909?",
+      "options": [
+        {
+          "id": "le-figaro",
+          "text": "Le Figaro"
+        },
+        {
+          "id": "corriere-della-sera",
+          "text": "Corriere della Sera"
+        },
+        {
+          "id": "the-times",
+          "text": "The Times"
+        },
+        {
+          "id": "le-petit-journal",
+          "text": "Le Petit Journal"
+        }
+      ],
+      "correctOptionId": "le-figaro",
+      "explanation": "Marinetti coined the term Futurism in the Paris newspaper Le Figaro on February 20, 1909.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 20",
+          "url": "https://www.britannica.com/on-this-day/February-20"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "futurism-named-in-le-figaro-1909"
+      ]
+    },
+    {
+      "id": "nixon-china-after-office",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Richard Nixon made his famous 1972 visit to China after he had left the presidency.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Nixon visited while in office: on February 21, 1972, he became the first sitting US president to visit China.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 21",
+          "url": "https://www.britannica.com/on-this-day/February-21"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "nixon-visits-china-1972"
+      ]
+    },
+    {
+      "id": "verdun-war",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Battle of Verdun, which began in 1916, was fought during which war?",
+      "options": [
+        {
+          "id": "the-franco-prussian-war",
+          "text": "The Franco-Prussian War"
+        },
+        {
+          "id": "world-war-ii",
+          "text": "World War II"
+        },
+        {
+          "id": "the-crimean-war",
+          "text": "The Crimean War"
+        },
+        {
+          "id": "world-war-i",
+          "text": "World War I"
+        }
+      ],
+      "correctOptionId": "world-war-i",
+      "explanation": "The Battle of Verdun, one of the most devastating engagements of World War I, began on February 21, 1916.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 21",
+          "url": "https://www.britannica.com/on-this-day/February-21"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "battle-of-verdun-begins-1916"
+      ]
+    },
+    {
+      "id": "dhaka-1952-language",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Protesters in Dhaka on February 21, 1952, were demanding recognition of which language?",
+      "options": [
+        {
+          "id": "urdu",
+          "text": "Urdu"
+        },
+        {
+          "id": "hindi",
+          "text": "Hindi"
+        },
+        {
+          "id": "bangla-bengali",
+          "text": "Bangla (Bengali)"
+        },
+        {
+          "id": "punjabi",
+          "text": "Punjabi"
+        }
+      ],
+      "correctOptionId": "bangla-bengali",
+      "explanation": "Students and activists protested at the University of Dhaka to protect Bangla (Bengali). The date is now International Mother Language Day.",
+      "sources": [
+        {
+          "displayName": "University of Cambridge - Celebrating language diversity",
+          "url": "https://www.cam.ac.uk/stories/celebrating-language-diversity"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "bengali-language-movement-1952"
+      ]
+    },
+    {
+      "id": "miracle-on-ice-opponent",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In the Miracle on Ice game of February 22, 1980, the US hockey team beat which team?",
+      "options": [
+        {
+          "id": "canada",
+          "text": "Canada"
+        },
+        {
+          "id": "the-soviet-union",
+          "text": "The Soviet Union"
+        },
+        {
+          "id": "finland",
+          "text": "Finland"
+        },
+        {
+          "id": "west-germany",
+          "text": "West Germany"
+        }
+      ],
+      "correctOptionId": "the-soviet-union",
+      "explanation": "The US beat the Soviet Union 4-3 at Lake Placid, then beat Finland two days later to win gold.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Miracle on Ice",
+          "url": "https://www.britannica.com/event/Miracle-on-Ice"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "miracle-on-ice-1980"
+      ]
+    },
+    {
+      "id": "white-rose-university",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The White Rose, an anti-Nazi resistance group, was founded by students at which university?",
+      "options": [
+        {
+          "id": "heidelberg",
+          "text": "Heidelberg"
+        },
+        {
+          "id": "berlin",
+          "text": "Berlin"
+        },
+        {
+          "id": "hamburg",
+          "text": "Hamburg"
+        },
+        {
+          "id": "munich",
+          "text": "Munich"
+        }
+      ],
+      "correctOptionId": "munich",
+      "explanation": "The White Rose began among students at the University of Munich. Three members were beheaded on February 22, 1943.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - White Rose",
+          "url": "https://www.britannica.com/topic/White-Rose"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "white-rose-members-executed-1943"
+      ]
+    },
+    {
+      "id": "first-daytona-500-winner",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Who won the first Daytona 500, in 1959?",
+      "options": [
+        {
+          "id": "richard-petty",
+          "text": "Richard Petty"
+        },
+        {
+          "id": "junior-johnson",
+          "text": "Junior Johnson"
+        },
+        {
+          "id": "fireball-roberts",
+          "text": "Fireball Roberts"
+        },
+        {
+          "id": "lee-petty",
+          "text": "Lee Petty"
+        }
+      ],
+      "correctOptionId": "lee-petty",
+      "explanation": "NASCAR's first Daytona 500, on February 22, 1959, was won by Lee Petty.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 22",
+          "url": "https://www.britannica.com/on-this-day/February-22"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-daytona-500-1959"
+      ]
+    },
+    {
+      "id": "iwo-jima-flag-mountain",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "On which mountain did US servicemen raise the American flag on Iwo Jima in 1945?",
+      "options": [
+        {
+          "id": "mount-suribachi",
+          "text": "Mount Suribachi"
+        },
+        {
+          "id": "mount-fuji",
+          "text": "Mount Fuji"
+        },
+        {
+          "id": "mount-tapochau",
+          "text": "Mount Tapochau"
+        },
+        {
+          "id": "mount-austen",
+          "text": "Mount Austen"
+        }
+      ],
+      "correctOptionId": "mount-suribachi",
+      "explanation": "Six US servicemen raised the flag over Mount Suribachi on February 23, 1945.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "iwo-jima-flag-raising-1945"
+      ]
+    },
+    {
+      "id": "messiah-premiere-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city was Handel's Messiah first performed, in 1742?",
+      "options": [
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "dublin",
+          "text": "Dublin"
+        },
+        {
+          "id": "halle",
+          "text": "Halle"
+        },
+        {
+          "id": "hamburg",
+          "text": "Hamburg"
+        }
+      ],
+      "correctOptionId": "dublin",
+      "explanation": "Handel, born in Halle on February 23, 1685, settled in England. Messiah was first performed in Dublin on April 13, 1742.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - George Frideric Handel",
+          "url": "https://www.britannica.com/biography/George-Frideric-Handel"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "george-frideric-handel-born-1685"
+      ]
+    },
+    {
+      "id": "du-bois-the-crisis",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "W.E.B. Du Bois edited The Crisis from 1910 to 1934. It was the magazine of which organization?",
+      "options": [
+        {
+          "id": "the-naacp",
+          "text": "The NAACP"
+        },
+        {
+          "id": "the-national-urban-league",
+          "text": "The National Urban League"
+        },
+        {
+          "id": "sncc",
+          "text": "SNCC"
+        },
+        {
+          "id": "the-southern-christian-leadership-confer",
+          "text": "The Southern Christian Leadership Conference"
+        }
+      ],
+      "correctOptionId": "the-naacp",
+      "explanation": "Du Bois, born on February 23, 1868, helped create the NAACP in 1909 and edited its magazine, The Crisis.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - W.E.B. Du Bois",
+          "url": "https://www.britannica.com/biography/W-E-B-Du-Bois"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "web-du-bois-born-1868"
+      ]
+    },
+    {
+      "id": "gregorian-reform-days-dropped",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "How many days did Pope Gregory XIII's calendar reform remove from 1582?",
+      "options": [
+        {
+          "id": "three",
+          "text": "Three"
+        },
+        {
+          "id": "seven",
+          "text": "Seven"
+        },
+        {
+          "id": "ten",
+          "text": "Ten"
+        },
+        {
+          "id": "fourteen",
+          "text": "Fourteen"
+        }
+      ],
+      "correctOptionId": "ten",
+      "explanation": "The bull of February 24, 1582, ordered that Thursday, October 4, be followed by Friday, October 15, erasing ten days.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "gregorian-calendar-papal-bull-1582"
+      ]
+    },
+    {
+      "id": "marbury-act-unconstitutional",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In Marbury v. Madison (1803), the US Supreme Court declared an act of Congress unconstitutional.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Marbury v. Madison, decided on February 24, 1803, struck down an act of Congress.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "marbury-v-madison-1803"
+      ]
+    },
+    {
+      "id": "johnson-impeachment-chamber",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which body voted 126 to 47 in 1868 to impeach President Andrew Johnson?",
+      "options": [
+        {
+          "id": "the-senate",
+          "text": "The Senate"
+        },
+        {
+          "id": "the-house-of-representatives",
+          "text": "The House of Representatives"
+        },
+        {
+          "id": "the-supreme-court",
+          "text": "The Supreme Court"
+        },
+        {
+          "id": "the-electoral-college",
+          "text": "The Electoral College"
+        }
+      ],
+      "correctOptionId": "the-house-of-representatives",
+      "explanation": "The House of Representatives voted 126 to 47 to impeach Johnson on February 24, 1868.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "andrew-johnson-impeached-1868"
+      ]
+    },
+    {
+      "id": "ali-name-in-1964",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Under what name did Muhammad Ali fight when he beat Sonny Liston in 1964?",
+      "options": [
+        {
+          "id": "joe-frazier",
+          "text": "Joe Frazier"
+        },
+        {
+          "id": "floyd-patterson",
+          "text": "Floyd Patterson"
+        },
+        {
+          "id": "archie-moore",
+          "text": "Archie Moore"
+        },
+        {
+          "id": "cassius-clay",
+          "text": "Cassius Clay"
+        }
+      ],
+      "correctOptionId": "cassius-clay",
+      "explanation": "Ali, known at the time as Cassius Clay, defeated Liston on February 25, 1964.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "cassius-clay-defeats-liston-1964"
+      ]
+    },
+    {
+      "id": "khrushchev-secret-speech-target",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In his 1956 secret speech, Nikita Khrushchev denounced which late Soviet leader?",
+      "options": [
+        {
+          "id": "vladimir-lenin",
+          "text": "Vladimir Lenin"
+        },
+        {
+          "id": "joseph-stalin",
+          "text": "Joseph Stalin"
+        },
+        {
+          "id": "leon-trotsky",
+          "text": "Leon Trotsky"
+        },
+        {
+          "id": "georgy-malenkov",
+          "text": "Georgy Malenkov"
+        }
+      ],
+      "correctOptionId": "joseph-stalin",
+      "explanation": "Khrushchev's speech, delivered as the Twentieth Party Congress closed on February 25, 1956, denounced Joseph Stalin.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "khrushchev-secret-speech-1956"
+      ]
+    },
+    {
+      "id": "first-african-american-congress-20th-century",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The first African American to serve in the US Congress took his seat in the 20th century.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Hiram Revels became the first African American in Congress when he was sworn in to the US Senate on February 25, 1870.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "hiram-revels-sworn-in-1870"
+      ]
+    },
+    {
+      "id": "marcos-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Ferdinand Marcos fled which country in 1986?",
+      "options": [
+        {
+          "id": "indonesia",
+          "text": "Indonesia"
+        },
+        {
+          "id": "thailand",
+          "text": "Thailand"
+        },
+        {
+          "id": "the-philippines",
+          "text": "The Philippines"
+        },
+        {
+          "id": "malaysia",
+          "text": "Malaysia"
+        }
+      ],
+      "correctOptionId": "the-philippines",
+      "explanation": "Under US pressure, President Ferdinand Marcos fled the Philippines for Hawaii on February 25, 1986.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "marcos-flees-philippines-1986"
+      ]
+    },
+    {
+      "id": "napoleon-escape-island",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which island did Napoleon escape in 1815?",
+      "options": [
+        {
+          "id": "corsica",
+          "text": "Corsica"
+        },
+        {
+          "id": "elba",
+          "text": "Elba"
+        },
+        {
+          "id": "saint-helena",
+          "text": "Saint Helena"
+        },
+        {
+          "id": "sardinia",
+          "text": "Sardinia"
+        }
+      ],
+      "correctOptionId": "elba",
+      "explanation": "Napoleon escaped exile on Elba on February 26, 1815.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "napoleon-escapes-elba-1815"
+      ]
+    },
+    {
+      "id": "hunchback-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What is the name of the hunchback in Victor Hugo's Notre-Dame de Paris?",
+      "options": [
+        {
+          "id": "quasimodo",
+          "text": "Quasimodo"
+        },
+        {
+          "id": "jean-valjean",
+          "text": "Jean Valjean"
+        },
+        {
+          "id": "javert",
+          "text": "Javert"
+        },
+        {
+          "id": "cyrano",
+          "text": "Cyrano"
+        }
+      ],
+      "correctOptionId": "quasimodo",
+      "explanation": "Hugo, born in Besancon on February 26, 1802, published Notre-Dame de Paris (The Hunchback of Notre-Dame) in 1831.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Victor Hugo",
+          "url": "https://www.britannica.com/biography/Victor-Hugo"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "victor-hugo-born-1802"
+      ]
+    },
+    {
+      "id": "johnny-cash-nickname",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "By which nickname was Johnny Cash known to his fans?",
+      "options": [
+        {
+          "id": "the-king",
+          "text": "The King"
+        },
+        {
+          "id": "the-boss",
+          "text": "The Boss"
+        },
+        {
+          "id": "the-man-in-black",
+          "text": "The Man in Black"
+        },
+        {
+          "id": "the-gambler",
+          "text": "The Gambler"
+        }
+      ],
+      "correctOptionId": "the-man-in-black",
+      "explanation": "Cash, born on February 26, 1932, was known as the Man in Black.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "johnny-cash-born-1932"
+      ]
+    },
+    {
+      "id": "hey-radio-source",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1942, James Stanley Hey traced strange interference on British radar to radio waves coming from what?",
+      "options": [
+        {
+          "id": "enemy-jamming-transmitters",
+          "text": "Enemy jamming transmitters"
+        },
+        {
+          "id": "the-moon",
+          "text": "The Moon"
+        },
+        {
+          "id": "the-sun",
+          "text": "The Sun"
+        },
+        {
+          "id": "jupiter",
+          "text": "Jupiter"
+        }
+      ],
+      "correctOptionId": "the-sun",
+      "explanation": "Hey's discovery on February 27, 1942, showed that the Sun emits radio waves.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "hey-detects-solar-radio-waves-1942"
+      ]
+    },
+    {
+      "id": "reichstag-function",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Reichstag building in Berlin, which caught fire in 1933, housed what?",
+      "options": [
+        {
+          "id": "germany-s-parliament",
+          "text": "Germany's parliament"
+        },
+        {
+          "id": "the-chancellor-s-residence",
+          "text": "The chancellor's residence"
+        },
+        {
+          "id": "germany-s-supreme-court",
+          "text": "Germany's supreme court"
+        },
+        {
+          "id": "the-national-bank",
+          "text": "The national bank"
+        }
+      ],
+      "correctOptionId": "germany-s-parliament",
+      "explanation": "The Reichstag, the parliament building in Berlin, caught fire on February 27, 1933.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "reichstag-fire-1933"
+      ]
+    },
+    {
+      "id": "grapes-of-wrath-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote The Grapes of Wrath (1939)?",
+      "options": [
+        {
+          "id": "william-faulkner",
+          "text": "William Faulkner"
+        },
+        {
+          "id": "ernest-hemingway",
+          "text": "Ernest Hemingway"
+        },
+        {
+          "id": "john-steinbeck",
+          "text": "John Steinbeck"
+        },
+        {
+          "id": "f-scott-fitzgerald",
+          "text": "F. Scott Fitzgerald"
+        }
+      ],
+      "correctOptionId": "john-steinbeck",
+      "explanation": "Steinbeck, born in Salinas, California, on February 27, 1902, won a Pulitzer Prize for The Grapes of Wrath.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - John Steinbeck",
+          "url": "https://www.britannica.com/biography/John-Steinbeck"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "john-steinbeck-born-1902"
+      ]
+    },
+    {
+      "id": "mash-setting-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which country was the TV series M*A*S*H set?",
+      "options": [
+        {
+          "id": "vietnam",
+          "text": "Vietnam"
+        },
+        {
+          "id": "south-korea",
+          "text": "South Korea"
+        },
+        {
+          "id": "japan",
+          "text": "Japan"
+        },
+        {
+          "id": "the-philippines",
+          "text": "The Philippines"
+        }
+      ],
+      "correctOptionId": "south-korea",
+      "explanation": "M*A*S*H was set in South Korea. Its finale on February 28, 1983, drew more than 106 million viewers.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Today in History: M*A*S*H Series Finale",
+          "url": "https://www.britannica.com/today-in-history/February-28-MASH-Series-Finale"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "mash-finale-1983"
+      ]
+    },
+    {
+      "id": "last-pope-to-resign-before-benedict",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "When Benedict XVI resigned in 2013, who had been the last pope before him to resign?",
+      "options": [
+        {
+          "id": "gregory-xii",
+          "text": "Gregory XII"
+        },
+        {
+          "id": "celestine-v",
+          "text": "Celestine V"
+        },
+        {
+          "id": "pius-vii",
+          "text": "Pius VII"
+        },
+        {
+          "id": "john-paul-i",
+          "text": "John Paul I"
+        }
+      ],
+      "correctOptionId": "gregory-xii",
+      "explanation": "Benedict XVI, who resigned on February 28, 2013, was the first pope to resign since Gregory XII in 1415.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "benedict-xvi-resigns-2013"
+      ]
+    },
+    {
+      "id": "egypt-protectorate-power",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1922, which country unilaterally declared Egypt independent, ending its protectorate there?",
+      "options": [
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "the-ottoman-empire",
+          "text": "The Ottoman Empire"
+        },
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        }
+      ],
+      "correctOptionId": "britain",
+      "explanation": "On February 28, 1922, Britain declared Egypt independent, ending its protectorate while reserving certain powers.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Egypt: The Wafd and independence",
+          "url": "https://www.britannica.com/place/Egypt/The-Wafd-and-independence"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "egypt-declared-independent-1922"
+      ]
+    },
+    {
+      "id": "palme-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Olof Palme, assassinated in 1986, was prime minister of which country?",
+      "options": [
+        {
+          "id": "sweden",
+          "text": "Sweden"
+        },
+        {
+          "id": "norway",
+          "text": "Norway"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        },
+        {
+          "id": "finland",
+          "text": "Finland"
+        }
+      ],
+      "correctOptionId": "sweden",
+      "explanation": "Olof Palme, prime minister of Sweden, was assassinated on February 28, 1986.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "olof-palme-assassinated-1986"
+      ]
+    },
+    {
+      "id": "mcdaniel-oscar-film",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Hattie McDaniel won her 1940 Academy Award for which film?",
+      "options": [
+        {
+          "id": "gone-with-the-wind",
+          "text": "Gone with the Wind"
+        },
+        {
+          "id": "the-wizard-of-oz",
+          "text": "The Wizard of Oz"
+        },
+        {
+          "id": "imitation-of-life",
+          "text": "Imitation of Life"
+        },
+        {
+          "id": "casablanca",
+          "text": "Casablanca"
+        }
+      ],
+      "correctOptionId": "gone-with-the-wind",
+      "explanation": "McDaniel won best supporting actress for Gone with the Wind (1939) on February 29, 1940.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "hattie-mcdaniel-wins-oscar-1940"
+      ]
+    },
+    {
+      "id": "rossini-comic-opera",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which comic opera did Gioachino Rossini compose?",
+      "options": [
+        {
+          "id": "the-marriage-of-figaro",
+          "text": "The Marriage of Figaro"
+        },
+        {
+          "id": "the-barber-of-seville",
+          "text": "The Barber of Seville"
+        },
+        {
+          "id": "carmen",
+          "text": "Carmen"
+        },
+        {
+          "id": "la-boheme",
+          "text": "La Boheme"
+        }
+      ],
+      "correctOptionId": "the-barber-of-seville",
+      "explanation": "Rossini, born in Pesaro on February 29, 1792, wrote The Barber of Seville (1816).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gioachino Rossini",
+          "url": "https://www.britannica.com/biography/Gioachino-Rossini"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "gioachino-rossini-born-1792"
+      ]
+    },
+    {
+      "id": "return-of-the-king-oscar-count",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many Academy Awards did The Return of the King win in 2004?",
+      "options": [
+        {
+          "id": "7",
+          "text": "7"
+        },
+        {
+          "id": "9",
+          "text": "9"
+        },
+        {
+          "id": "11",
+          "text": "11"
+        },
+        {
+          "id": "14",
+          "text": "14"
+        }
+      ],
+      "correctOptionId": "11",
+      "explanation": "The last film of The Lord of the Rings trilogy received 11 Academy Awards on February 29, 2004.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "return-of-the-king-wins-11-oscars-2004"
+      ]
+    },
+    {
+      "id": "howe-800th-goal-age",
+      "type": "true_false",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Gordie Howe was in his fifties when he became the first to score 800 NHL goals.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Howe scored his 800th goal on February 29, 1980, at the age of 51.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "gordie-howe-800th-goal-1980"
+      ]
+    },
+    {
+      "id": "yellowstone-president",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which US president signed the act establishing Yellowstone National Park in 1872?",
+      "options": [
+        {
+          "id": "abraham-lincoln",
+          "text": "Abraham Lincoln"
+        },
+        {
+          "id": "ulysses-s-grant",
+          "text": "Ulysses S. Grant"
+        },
+        {
+          "id": "theodore-roosevelt",
+          "text": "Theodore Roosevelt"
+        },
+        {
+          "id": "rutherford-b-hayes",
+          "text": "Rutherford B. Hayes"
+        }
+      ],
+      "correctOptionId": "ulysses-s-grant",
+      "explanation": "Grant signed the act on March 1, 1872, creating the first US national park.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Yellowstone National Park",
+          "url": "https://www.britannica.com/place/Yellowstone-National-Park"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "yellowstone-established-1872"
+      ]
+    },
+    {
+      "id": "march-first-movement-ruler",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The March First Movement of 1919 demanded Korea's independence from which country?",
+      "options": [
+        {
+          "id": "china",
+          "text": "China"
+        },
+        {
+          "id": "russia",
+          "text": "Russia"
+        },
+        {
+          "id": "japan",
+          "text": "Japan"
+        },
+        {
+          "id": "the-united-states",
+          "text": "The United States"
+        }
+      ],
+      "correctOptionId": "japan",
+      "explanation": "On March 1, 1919, protesters in Seoul launched demonstrations for Korean independence from Japan.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "march-first-movement-1919"
+      ]
+    },
+    {
+      "id": "peace-corps-first-director",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Who was the first director of the Peace Corps?",
+      "options": [
+        {
+          "id": "robert-f-kennedy",
+          "text": "Robert F. Kennedy"
+        },
+        {
+          "id": "hubert-humphrey",
+          "text": "Hubert Humphrey"
+        },
+        {
+          "id": "r-sargent-shriver",
+          "text": "R. Sargent Shriver"
+        },
+        {
+          "id": "adlai-stevenson",
+          "text": "Adlai Stevenson"
+        }
+      ],
+      "correctOptionId": "r-sargent-shriver",
+      "explanation": "The Peace Corps, established by executive order on March 1, 1961, was first led by Kennedy's brother-in-law, R. Sargent Shriver.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Peace Corps",
+          "url": "https://www.britannica.com/topic/Peace-Corps"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "peace-corps-established-1961"
+      ]
+    },
+    {
+      "id": "hoover-dam-river",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Hoover Dam, completed in 1936, stands on which river?",
+      "options": [
+        {
+          "id": "colorado",
+          "text": "Colorado"
+        },
+        {
+          "id": "columbia",
+          "text": "Columbia"
+        },
+        {
+          "id": "missouri",
+          "text": "Missouri"
+        },
+        {
+          "id": "rio-grande",
+          "text": "Rio Grande"
+        }
+      ],
+      "correctOptionId": "colorado",
+      "explanation": "The Hoover Dam on the Colorado River, at the Arizona-Nevada border, was completed on March 1, 1936.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "hoover-dam-completed-1936"
+      ]
+    },
+    {
+      "id": "concorde-builders",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which two countries built the supersonic airliner Concorde?",
+      "options": [
+        {
+          "id": "france-and-germany",
+          "text": "France and Germany"
+        },
+        {
+          "id": "britain-and-france",
+          "text": "Britain and France"
+        },
+        {
+          "id": "britain-and-the-united-states",
+          "text": "Britain and the United States"
+        },
+        {
+          "id": "the-soviet-union-and-france",
+          "text": "The Soviet Union and France"
+        }
+      ],
+      "correctOptionId": "britain-and-france",
+      "explanation": "Concorde, which first flew on March 2, 1969, was built by Britain and France and cruised at more than twice the speed of sound.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Concorde",
+          "url": "https://www.britannica.com/technology/Concorde"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "concorde-first-flight-1969"
+      ]
+    },
+    {
+      "id": "wilt-points-record",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "How many points did Wilt Chamberlain score in a single NBA game in 1962?",
+      "options": [
+        {
+          "id": "72",
+          "text": "72"
+        },
+        {
+          "id": "81",
+          "text": "81"
+        },
+        {
+          "id": "100",
+          "text": "100"
+        },
+        {
+          "id": "120",
+          "text": "120"
+        }
+      ],
+      "correctOptionId": "100",
+      "explanation": "Chamberlain scored 100 points on March 2, 1962, a record still unsurpassed.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "wilt-chamberlain-scores-100-1962"
+      ]
+    },
+    {
+      "id": "morocco-independence-from",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which country did Morocco proclaim independence in 1956?",
+      "options": [
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        }
+      ],
+      "correctOptionId": "france",
+      "explanation": "Morocco proclaimed independence from France on March 2, 1956.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "morocco-independence-1956"
+      ]
+    },
+    {
+      "id": "serfs-emancipation-emperor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which Russian emperor issued the 1861 manifesto freeing the serfs?",
+      "options": [
+        {
+          "id": "peter-the-great",
+          "text": "Peter the Great"
+        },
+        {
+          "id": "alexander-ii",
+          "text": "Alexander II"
+        },
+        {
+          "id": "nicholas-ii",
+          "text": "Nicholas II"
+        },
+        {
+          "id": "catherine-the-great",
+          "text": "Catherine the Great"
+        }
+      ],
+      "correctOptionId": "alexander-ii",
+      "explanation": "Alexander II issued the Emancipation Manifesto on March 3, 1861 (February 19 in Russia's calendar).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "russia-emancipates-serfs-1861"
+      ]
+    },
+    {
+      "id": "star-spangled-banner-anthem-1812",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Star-Spangled Banner has been the official US national anthem since the War of 1812.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "The Star-Spangled Banner was officially adopted as the national anthem on March 3, 1931.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "star-spangled-banner-anthem-1931"
+      ]
+    },
+    {
+      "id": "bell-birthplace",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city was Alexander Graham Bell born?",
+      "options": [
+        {
+          "id": "boston",
+          "text": "Boston"
+        },
+        {
+          "id": "edinburgh",
+          "text": "Edinburgh"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "toronto",
+          "text": "Toronto"
+        }
+      ],
+      "correctOptionId": "edinburgh",
+      "explanation": "Bell was born in Edinburgh on March 3, 1847.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "alexander-graham-bell-born-1847"
+      ]
+    },
+    {
+      "id": "fdr-last-march-4-inauguration",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Franklin D. Roosevelt was the last US president to be inaugurated on March 4.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Roosevelt's first inauguration, on March 4, 1933, was the last held on that date.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "fdr-first-inauguration-1933"
+      ]
+    },
+    {
+      "id": "perkins-cabinet-post",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Frances Perkins, the first woman appointed to a US cabinet post, served as secretary of what?",
+      "options": [
+        {
+          "id": "labor",
+          "text": "Labor"
+        },
+        {
+          "id": "education",
+          "text": "Education"
+        },
+        {
+          "id": "state",
+          "text": "State"
+        },
+        {
+          "id": "health",
+          "text": "Health"
+        }
+      ],
+      "correctOptionId": "labor",
+      "explanation": "Perkins was sworn in as secretary of labor on March 4, 1933, and served until 1945.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "frances-perkins-sworn-in-1933"
+      ]
+    },
+    {
+      "id": "four-seasons-composer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which composer wrote the violin concertos known as The Four Seasons?",
+      "options": [
+        {
+          "id": "johann-sebastian-bach",
+          "text": "Johann Sebastian Bach"
+        },
+        {
+          "id": "george-frideric-handel",
+          "text": "George Frideric Handel"
+        },
+        {
+          "id": "wolfgang-amadeus-mozart",
+          "text": "Wolfgang Amadeus Mozart"
+        },
+        {
+          "id": "antonio-vivaldi",
+          "text": "Antonio Vivaldi"
+        }
+      ],
+      "correctOptionId": "antonio-vivaldi",
+      "explanation": "Vivaldi, born in Venice on March 4, 1678, is best known for The Four Seasons.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Antonio Vivaldi",
+          "url": "https://www.britannica.com/biography/Antonio-Vivaldi"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "antonio-vivaldi-born-1678"
+      ]
+    },
+    {
+      "id": "castle-hill-rising-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Castle Hill Rising of 1804, in which Irish convicts rebelled, took place in which present-day country?",
+      "options": [
+        {
+          "id": "ireland",
+          "text": "Ireland"
+        },
+        {
+          "id": "new-zealand",
+          "text": "New Zealand"
+        },
+        {
+          "id": "canada",
+          "text": "Canada"
+        },
+        {
+          "id": "australia",
+          "text": "Australia"
+        }
+      ],
+      "correctOptionId": "australia",
+      "explanation": "The Castle Hill Rising of March 4, 1804, was Australia's first rebellion.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "castle-hill-rising-1804"
+      ]
+    },
+    {
+      "id": "iron-curtain-speech-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which US state did Winston Churchill give his 1946 Iron Curtain speech?",
+      "options": [
+        {
+          "id": "missouri",
+          "text": "Missouri"
+        },
+        {
+          "id": "virginia",
+          "text": "Virginia"
+        },
+        {
+          "id": "massachusetts",
+          "text": "Massachusetts"
+        },
+        {
+          "id": "illinois",
+          "text": "Illinois"
+        }
+      ],
+      "correctOptionId": "missouri",
+      "explanation": "Churchill popularized the term Iron Curtain in a speech at Fulton, Missouri, on March 5, 1946.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "iron-curtain-speech-1946"
+      ]
+    },
+    {
+      "id": "boston-massacre-victim",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these men was killed in the Boston Massacre of 1770?",
+      "options": [
+        {
+          "id": "paul-revere",
+          "text": "Paul Revere"
+        },
+        {
+          "id": "samuel-adams",
+          "text": "Samuel Adams"
+        },
+        {
+          "id": "crispus-attucks",
+          "text": "Crispus Attucks"
+        },
+        {
+          "id": "john-hancock",
+          "text": "John Hancock"
+        }
+      ],
+      "correctOptionId": "crispus-attucks",
+      "explanation": "British troops killed Crispus Attucks and four others in Boston on March 5, 1770.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "boston-massacre-1770"
+      ]
+    },
+    {
+      "id": "stalin-successor-1953",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Who succeeded Joseph Stalin as Soviet premier when Stalin died in 1953?",
+      "options": [
+        {
+          "id": "nikita-khrushchev",
+          "text": "Nikita Khrushchev"
+        },
+        {
+          "id": "georgy-malenkov",
+          "text": "Georgy Malenkov"
+        },
+        {
+          "id": "leonid-brezhnev",
+          "text": "Leonid Brezhnev"
+        },
+        {
+          "id": "lavrenty-beria",
+          "text": "Lavrenty Beria"
+        }
+      ],
+      "correctOptionId": "georgy-malenkov",
+      "explanation": "Stalin died on March 5, 1953, and was succeeded by Georgy Malenkov.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "joseph-stalin-dies-1953"
+      ]
+    },
+    {
+      "id": "voyager-1-jupiter-moon",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which spacecraft made its closest approach to Jupiter on March 5, 1979?",
+      "options": [
+        {
+          "id": "pioneer-10",
+          "text": "Pioneer 10"
+        },
+        {
+          "id": "voyager-1",
+          "text": "Voyager 1"
+        },
+        {
+          "id": "galileo",
+          "text": "Galileo"
+        },
+        {
+          "id": "juno",
+          "text": "Juno"
+        }
+      ],
+      "correctOptionId": "voyager-1",
+      "explanation": "Voyager 1, launched in 1977, made its closest approach to Jupiter on March 5, 1979.",
+      "sources": [
+        {
+          "displayName": "NASA Science - Voyager 1",
+          "url": "https://science.nasa.gov/mission/voyager/voyager-1/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "voyager-1-jupiter-flyby-1979"
+      ]
+    },
+    {
+      "id": "sistine-ceiling-artist",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which artist painted the ceiling of the Sistine Chapel, from 1508 to 1512?",
+      "options": [
+        {
+          "id": "raphael",
+          "text": "Raphael"
+        },
+        {
+          "id": "michelangelo",
+          "text": "Michelangelo"
+        },
+        {
+          "id": "leonardo-da-vinci",
+          "text": "Leonardo da Vinci"
+        },
+        {
+          "id": "sandro-botticelli",
+          "text": "Sandro Botticelli"
+        }
+      ],
+      "correctOptionId": "michelangelo",
+      "explanation": "Michelangelo, born on March 6, 1475, painted the Sistine Chapel ceiling between 1508 and 1512.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Michelangelo",
+          "url": "https://www.britannica.com/biography/Michelangelo"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "michelangelo-born-1475"
+      ]
+    },
+    {
+      "id": "macondo-novel",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The fictional town of Macondo is the setting of which novel?",
+      "options": [
+        {
+          "id": "one-hundred-years-of-solitude",
+          "text": "One Hundred Years of Solitude"
+        },
+        {
+          "id": "pedro-paramo",
+          "text": "Pedro Paramo"
+        },
+        {
+          "id": "don-quixote",
+          "text": "Don Quixote"
+        },
+        {
+          "id": "the-house-of-the-spirits",
+          "text": "The House of the Spirits"
+        }
+      ],
+      "correctOptionId": "one-hundred-years-of-solitude",
+      "explanation": "Gabriel Garcia Marquez, born on March 6, 1927, set One Hundred Years of Solitude (1967) in Macondo.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gabriel Garcia Marquez",
+          "url": "https://www.britannica.com/biography/Gabriel-Garcia-Marquez"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "gabriel-garcia-marquez-born-1927"
+      ]
+    },
+    {
+      "id": "alamo-siege-length",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How long did the siege of the Alamo last before the mission fell in 1836?",
+      "options": [
+        {
+          "id": "3-days",
+          "text": "3 days"
+        },
+        {
+          "id": "13-days",
+          "text": "13 days"
+        },
+        {
+          "id": "30-days",
+          "text": "30 days"
+        },
+        {
+          "id": "3-months",
+          "text": "3 months"
+        }
+      ],
+      "correctOptionId": "13-days",
+      "explanation": "Santa Anna began the siege on February 23, 1836, and the Alamo fell on March 6, after 13 days.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "fall-of-the-alamo-1836",
+        "siege-of-the-alamo-begins-1836"
+      ]
+    },
+    {
+      "id": "la-traviata-composer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who composed La Traviata, which premiered in Venice in 1853?",
+      "options": [
+        {
+          "id": "giacomo-puccini",
+          "text": "Giacomo Puccini"
+        },
+        {
+          "id": "gioachino-rossini",
+          "text": "Gioachino Rossini"
+        },
+        {
+          "id": "giuseppe-verdi",
+          "text": "Giuseppe Verdi"
+        },
+        {
+          "id": "gaetano-donizetti",
+          "text": "Gaetano Donizetti"
+        }
+      ],
+      "correctOptionId": "giuseppe-verdi",
+      "explanation": "Verdi's La Traviata premiered at La Fenice on March 6, 1853.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "la-traviata-premieres-1853"
+      ]
+    },
+    {
+      "id": "selma-march-destination",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The civil rights marchers attacked at Selma, Alabama, in March 1965 were trying to reach which city?",
+      "options": [
+        {
+          "id": "birmingham",
+          "text": "Birmingham"
+        },
+        {
+          "id": "montgomery",
+          "text": "Montgomery"
+        },
+        {
+          "id": "atlanta",
+          "text": "Atlanta"
+        },
+        {
+          "id": "memphis",
+          "text": "Memphis"
+        }
+      ],
+      "correctOptionId": "montgomery",
+      "explanation": "On March 7, 1965, troopers attacked marchers in Selma heading for the state capitol in Montgomery.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "selma-bloody-sunday-1965"
+      ]
+    },
+    {
+      "id": "marcus-aurelius-co-emperor",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "In 161 CE, Marcus Aurelius made which man his co-emperor?",
+      "options": [
+        {
+          "id": "commodus",
+          "text": "Commodus"
+        },
+        {
+          "id": "lucius-verus",
+          "text": "Lucius Verus"
+        },
+        {
+          "id": "antoninus-pius",
+          "text": "Antoninus Pius"
+        },
+        {
+          "id": "hadrian",
+          "text": "Hadrian"
+        }
+      ],
+      "correctOptionId": "lucius-verus",
+      "explanation": "On March 7, 161, Marcus Aurelius declared himself and his adoptive brother Lucius Verus emperors, the first time two ruled Rome together.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "collectionIds": [
+        "ancient-rome",
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "marcus-aurelius-and-lucius-verus-emperors-161"
+      ]
+    },
+    {
+      "id": "bigelow-oscar-film",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Kathryn Bigelow became the first woman to win the best director Oscar for which film?",
+      "options": [
+        {
+          "id": "the-hurt-locker",
+          "text": "The Hurt Locker"
+        },
+        {
+          "id": "zero-dark-thirty",
+          "text": "Zero Dark Thirty"
+        },
+        {
+          "id": "lost-in-translation",
+          "text": "Lost in Translation"
+        },
+        {
+          "id": "the-piano",
+          "text": "The Piano"
+        }
+      ],
+      "correctOptionId": "the-hurt-locker",
+      "explanation": "Bigelow won on March 7, 2010, for The Hurt Locker.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "kathryn-bigelow-best-director-2010"
+      ]
+    },
+    {
+      "id": "bolero-composer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which French composer wrote Bolero (1928)?",
+      "options": [
+        {
+          "id": "claude-debussy",
+          "text": "Claude Debussy"
+        },
+        {
+          "id": "erik-satie",
+          "text": "Erik Satie"
+        },
+        {
+          "id": "camille-saint-saens",
+          "text": "Camille Saint-Saens"
+        },
+        {
+          "id": "maurice-ravel",
+          "text": "Maurice Ravel"
+        }
+      ],
+      "correctOptionId": "maurice-ravel",
+      "explanation": "Ravel, born in Ciboure on March 7, 1875, wrote Bolero, a piece that begins softly and ends as loudly as possible.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Maurice Ravel",
+          "url": "https://www.britannica.com/biography/Maurice-Ravel"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "maurice-ravel-born-1875"
+      ]
+    },
+    {
+      "id": "order-crewed-spaceflight-feb-mar",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these spaceflight milestones in order from earliest to latest.",
+      "items": [
+        {
+          "id": "skylab-4",
+          "text": "Skylab 4 crew returns after 84 days"
+        },
+        {
+          "id": "glenn",
+          "text": "John Glenn orbits Earth"
+        },
+        {
+          "id": "falcon-heavy",
+          "text": "Falcon Heavy's first test flight"
+        },
+        {
+          "id": "apollo-14",
+          "text": "Apollo 14 lands on the Moon"
+        }
+      ],
+      "correctOrderItemIds": [
+        "glenn",
+        "apollo-14",
+        "skylab-4",
+        "falcon-heavy"
+      ],
+      "explanation": "Glenn orbited Earth in 1962, Apollo 14 landed in 1971, Skylab 4 returned in 1974, and Falcon Heavy first flew in 2018.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 20",
+          "url": "https://www.britannica.com/on-this-day/February-20"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Apollo 14",
+          "url": "https://www.britannica.com/topic/Apollo-14"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "john-glenn-orbits-earth-1962",
+        "apollo-14-lands-on-moon-1971",
+        "skylab-4-splashdown-1974",
+        "falcon-heavy-first-flight-2018"
+      ]
+    },
+    {
+      "id": "order-independence-feb-mar",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these declarations or grants of independence in order from earliest to latest.",
+      "items": [
+        {
+          "id": "ghana",
+          "text": "Ghana"
+        },
+        {
+          "id": "grenada",
+          "text": "Grenada"
+        },
+        {
+          "id": "chile",
+          "text": "Chile"
+        },
+        {
+          "id": "ceylon",
+          "text": "Ceylon (Sri Lanka)"
+        }
+      ],
+      "correctOrderItemIds": [
+        "chile",
+        "ceylon",
+        "ghana",
+        "grenada"
+      ],
+      "explanation": "Chile declared independence in 1818, Ceylon gained it in 1948, Ghana in 1957 and Grenada in 1974.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "chile-declares-independence-1818",
+        "ceylon-independence-1948",
+        "ghana-becomes-independent-1957",
+        "grenada-independence-1974"
+      ]
+    },
+    {
+      "id": "order-composer-births-feb-mar",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put the births of these composers in order from earliest to latest.",
+      "items": [
+        {
+          "id": "rossini",
+          "text": "Gioachino Rossini"
+        },
+        {
+          "id": "vivaldi",
+          "text": "Antonio Vivaldi"
+        },
+        {
+          "id": "mendelssohn",
+          "text": "Felix Mendelssohn"
+        },
+        {
+          "id": "handel",
+          "text": "George Frideric Handel"
+        }
+      ],
+      "correctOrderItemIds": [
+        "vivaldi",
+        "handel",
+        "rossini",
+        "mendelssohn"
+      ],
+      "explanation": "Vivaldi was born in 1678, Handel in 1685, Rossini in 1792 and Mendelssohn in 1809.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Antonio Vivaldi",
+          "url": "https://www.britannica.com/biography/Antonio-Vivaldi"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - George Frideric Handel",
+          "url": "https://www.britannica.com/biography/George-Frideric-Handel"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Gioachino Rossini",
+          "url": "https://www.britannica.com/biography/Gioachino-Rossini"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "antonio-vivaldi-born-1678",
+        "george-frideric-handel-born-1685",
+        "gioachino-rossini-born-1792",
+        "felix-mendelssohn-born-1809"
+      ]
+    }
+  ]
+}

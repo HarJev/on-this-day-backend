@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "month": 2,
+      "day": 8,
+      "featuredEventId": "jules-verne-born-1828",
+      "additionalEventIds": [
+        "skylab-4-splashdown-1974",
+        "mary-queen-of-scots-executed-1587",
+        "dawes-act-1887",
+        "james-dean-born-1931"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 9,
+      "featuredEventId": "element-112-synthesized-1996",
+      "additionalEventIds": [
+        "treaty-of-alinagar-1757",
+        "jm-coetzee-born-1940",
+        "alice-walker-born-1944",
+        "yury-andropov-dies-1984"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 10,
+      "featuredEventId": "powers-abel-spy-exchange-1962",
+      "additionalEventIds": [
+        "treaty-of-paris-1763",
+        "queen-victoria-marries-albert-1840",
+        "bertolt-brecht-born-1898",
+        "mark-spitz-born-1950"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 11,
+      "featuredEventId": "nelson-mandela-released-1990",
+      "additionalEventIds": [
+        "lateran-treaty-signed-1929",
+        "hosni-mubarak-steps-down-2011",
+        "thomas-edison-born-1847",
+        "thatcher-elected-conservative-leader-1975"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 12,
+      "featuredEventId": "charles-darwin-born-1809",
+      "additionalEventIds": [
+        "abraham-lincoln-born-1809",
+        "puyi-abdicates-1912",
+        "chile-declares-independence-1818",
+        "the-scream-stolen-1994"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 13,
+      "featuredEventId": "last-peanuts-strip-2000",
+      "additionalEventIds": [
+        "kevin-rudd-apology-2008",
+        "france-first-atomic-bomb-1960",
+        "richard-wagner-dies-1883",
+        "georges-simenon-born-1903"
+      ]
+    },
+    {
+      "month": 2,
+      "day": 14,
+      "featuredEventId": "eniac-announced-1946",
+      "additionalEventIds": [
+        "james-cook-killed-1779",
+        "arizona-statehood-1912",
+        "youtube-registered-2005",
+        "jacob-zuma-resigns-2018"
+      ]
+    }
+  ]
+}

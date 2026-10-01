@@ -1,0 +1,1023 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-22-29-historical-events",
+  "entries": [
+    {
+      "candidateId": "feb-22-miracle-on-ice",
+      "canonicalId": "miracle-on-ice-1980",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 22): 1980: 'U.S. men's hockey team defeats Soviet Union team in 'Miracle on Ice''."
+        },
+        {
+          "url": "https://www.britannica.com/event/Miracle-on-Ice",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: February 22, 1980, at the Winter Olympics in Lake Placid, New York; United States 4, Soviet Union 3; coach Herb Brooks, a roster mostly of college players; the US beat Finland on February 24 to win gold."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-22-washington-born",
+      "canonicalId": "george-washington-born-1732",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 22): 1732: George Washington born; 'general and commander in chief of the colonial armies in the American Revolution (1775-83) and first president'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/George-Washington",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 22 [February 11, Old Style], 1732', Westmoreland county, Virginia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "02-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-22-white-rose",
+      "canonicalId": "white-rose-members-executed-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/White-Rose",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Hans Scholl, Sophie Scholl and Christoph Probst 'were beheaded on February 22, 1943'; the group was founded by students at the University of Munich and distributed anti-Nazi leaflets. (The Feb 22 day page dates this to 1942, which conflicts with the article; the article's 1943 is used.)"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-22-daytona-500",
+      "canonicalId": "first-daytona-500-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 22): 1959: 'NASCAR held the first Daytona 500, which was won by Lee Petty.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-22-christchurch-earthquake",
+      "canonicalId": "christchurch-earthquake-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 22): 2011: 'Christchurch, New Zealand, and its surrounding area were struck by a massively destructive 6.3 magnitude aftershock.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-23-iwo-jima-flag",
+      "canonicalId": "iwo-jima-flag-raising-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 23): 1945: 'Six U.S. servicemen raised the American flag over Mount Suribachi on the island of Iwo Jima during World War II.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-23-alamo-siege",
+      "canonicalId": "siege-of-the-alamo-begins-1836",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 23): 1836: 'During the Texas Revolution, Mexican General Antonio Lopez de Santa Anna began a siege of the Alamo, which was captured after 13 days.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-23-handel-born",
+      "canonicalId": "george-frideric-handel-born-1685",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 23): 1685: 'Composer George Frideric Handel, a leading figure of late Baroque music, was born in Germany.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/George-Frideric-Handel",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 23, 1685, Halle, Brandenburg [Germany]'; died April 14, 1759, London; Messiah first performed in Dublin on April 13, 1742; Water Music (1717)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "02-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-23-du-bois-born",
+      "canonicalId": "web-du-bois-born-1868",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 23): 1868: 'Born this day in 1868, W.E.B. Du Bois was one of the most important African American protest leaders during the first half of the 20th century.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/W-E-B-Du-Bois",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 23, 1868, Great Barrington, Massachusetts'; The Souls of Black Folk (1903); helped create the NAACP in 1909 and edited The Crisis (1910-34); Harvard Ph.D. in 1895."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-23-boston-charter",
+      "canonicalId": "boston-granted-city-charter-1822",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 23): 1822: 'Boston ... was granted a charter to become a city.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-24-gregorian-bull",
+      "canonicalId": "gregorian-calendar-papal-bull-1582",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 24): 1582: 'Pope Gregory XIII issued a papal bull that would erase ten days of the year - Thursday, October 4, would be followed by Friday, October 15.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "02-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-24-marbury",
+      "canonicalId": "marbury-v-madison-1803",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 24): 1803: 'In Marbury v. Madison, the U.S. Supreme Court declared an act of Congress unconstitutional.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "02-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-24-ukraine-invasion",
+      "canonicalId": "russia-invades-ukraine-2022",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 24): 2022: 'Russia launched a full-scale invasion of Ukraine.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-24-johnson-impeached",
+      "canonicalId": "andrew-johnson-impeached-1868",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 24): 1868: 'The U.S. House of Representatives voted 126-47 to impeach President Andrew Johnson.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-24-louis-philippe",
+      "canonicalId": "louis-philippe-abdicates-1848",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 24): 1848: 'The anti-monarchical Revolutions of 1848 reached France ... led to the abdication of King Louis-Philippe.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-25-clay-liston",
+      "canonicalId": "cassius-clay-defeats-liston-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 25): 1964: 'Muhammad Ali (known at the time as Cassius Clay) defeated reigning world champion Sonny Liston in the boxing ring.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-25-secret-speech",
+      "canonicalId": "khrushchev-secret-speech-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 25): 1956: 'The Twentieth Congress of the Communist Party of the Soviet Union came to a close after First Secretary Nikita S. Khrushchev delivered a secret speech denouncing the late Soviet leader Joseph Stalin.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-25-revels",
+      "canonicalId": "hiram-revels-sworn-in-1870",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 25): 1870: 'Hiram Rhodes Revels was sworn in to the U.S. Senate, becoming the first African American to serve in Congress.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-25-marcos-flees",
+      "canonicalId": "marcos-flees-philippines-1986",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 25): 1986: 'Philippine President Ferdinand Marcos, under pressure from the United States, fled the country for Hawaii.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-25-harrison-born",
+      "canonicalId": "george-harrison-born-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 25): 1943: 'British musician George Harrison - lead guitarist of the Beatles, one of the most influential bands in rock and roll - was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-26-napoleon-elba",
+      "canonicalId": "napoleon-escapes-elba-1815",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 26): 1815: 'Napoleon, who had been banished to the island of Elba by a coalition of European powers the previous year, escaped exile.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-26-hugo-born",
+      "canonicalId": "victor-hugo-born-1802",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Victor-Hugo",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 26, 1802, Besancon, France'; died May 22, 1885, Paris; Notre-Dame de Paris (1831; The Hunchback of Notre-Dame), hunchback Quasimodo; Les Miserables (1862)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-26-grand-teton",
+      "canonicalId": "grand-teton-national-park-1929",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 26): 1929: 'Grand Teton National Park was established in Wyoming; in 1950 it was expanded to include most of Jackson Hole National Monument.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-26-johnny-cash-born",
+      "canonicalId": "johnny-cash-born-1932",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 26): 1932: 'Born this day in 1932, singer-songwriter Johnny Cash, known to his fans as the 'Man in Black' ... broadened the scope of American country and western music.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-26-wtc-bombing",
+      "canonicalId": "world-trade-center-bombing-1993",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 26): 1993: 'A truck bomb exploded in the garage of the World Trade Center in New York City, killing six people and injuring more than 1,000.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-27-solar-radio",
+      "canonicalId": "hey-detects-solar-radio-waves-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 27): 1942 (featured): 'British physicist discovers solar radio waves' - 'physicist James Stanley Hey noticed strange interference while operating British radar equipment during World War II.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-27-reichstag-fire",
+      "canonicalId": "reichstag-fire-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 27): 1933: 'In Berlin the Reichstag (parliament) building caught fire.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-27-chile-earthquake",
+      "canonicalId": "chile-earthquake-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 27): 2010: 'A magnitude-8.8 earthquake struck Chile, causing widespread damage and triggering a tsunami that devastated coastal areas; it was the most powerful earthquake to strike the region since 1960 and caused more than 500 deaths.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-27-wounded-knee",
+      "canonicalId": "wounded-knee-occupation-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 27): 1973: 'Two hundred members of the American Indian Movement (AIM) ... occupied the reservation hamlet of Wounded Knee, South Dakota.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-27-steinbeck-born",
+      "canonicalId": "john-steinbeck-born-1902",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 27): 1902: 'Writer John Steinbeck was born.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/John-Steinbeck",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 27, 1902, Salinas, California'; Of Mice and Men (1937); The Grapes of Wrath (1939; Pulitzer Prize 1940); East of Eden (1952); Nobel Prize for Literature 1962."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-28-mash-finale",
+      "canonicalId": "mash-finale-1983",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'."
+        },
+        {
+          "url": "https://www.britannica.com/today-in-history/February-28-MASH-Series-Finale",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: set in South Korea; ran 1972-83, 'more than three times longer than the war it depicted'; finale 'Goodbye, Farewell and Amen'; 'More than 106 million people watched'; 'remains the most-watched episode of scripted television in history'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-28-benedict-resigns",
+      "canonicalId": "benedict-xvi-resigns-2013",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-28-egypt-independence",
+      "canonicalId": "egypt-declared-independent-1922",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.)"
+        },
+        {
+          "url": "https://www.britannica.com/place/Egypt/The-Wafd-and-independence",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The British declared Egypt independent in 1922, albeit reserving certain powers, and Fu'ad I became king.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-28-taiwan-228",
+      "canonicalId": "taiwan-228-incident-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-28-palme",
+      "canonicalId": "olof-palme-assassinated-1986",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-29-hattie-mcdaniel",
+      "canonicalId": "hattie-mcdaniel-wins-oscar-1940",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 29): 1940: 'For her performance in Gone with the Wind (1939), Hattie McDaniel became the first African American to win an Academy Award, for best supporting actress.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-29-rossini-born",
+      "canonicalId": "gioachino-rossini-born-1792",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 29): 1792: 'Italian composer Gioachino Rossini, born this day in 1792, wrote numerous works but was perhaps best known for his comic operas.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Gioachino-Rossini",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 29, 1792, Pesaro, Papal States'; died November 13, 1868; The Barber of Seville (1816); William Tell (1829)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "02-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-29-desai-born",
+      "canonicalId": "morarji-desai-born-1896",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 29): 1896: 'Indian politician Morarji Desai - who, as prime minister of India (1977-79), was the first leader of sovereign India not to represent the long-ruling Indian National Congress party - was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-29-howe-800",
+      "canonicalId": "gordie-howe-800th-goal-1980",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 29): 1980: 'At the age of 51, Canadian hockey player Gordie Howe becomes the first to score 800 goals in the NHL.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-29-return-of-the-king",
+      "canonicalId": "return-of-the-king-wins-11-oscars-2004",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 29): 2004: 'The Return of the King - the last installment in the film adaptation of J.R.R. Tolkien's epic fantasy The Lord of the Rings - received 11 Academy Awards.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

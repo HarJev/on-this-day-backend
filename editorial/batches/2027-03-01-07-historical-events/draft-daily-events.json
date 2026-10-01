@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "month": 3,
+      "day": 1,
+      "featuredEventId": "yellowstone-established-1872",
+      "additionalEventIds": [
+        "march-first-movement-1919",
+        "peace-corps-established-1961",
+        "hoover-dam-completed-1936",
+        "native-son-published-1940"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 2,
+      "featuredEventId": "concorde-first-flight-1969",
+      "additionalEventIds": [
+        "wilt-chamberlain-scores-100-1962",
+        "morocco-independence-1956",
+        "mikhail-gorbachev-born-1931",
+        "dr-seuss-born-1904"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 3,
+      "featuredEventId": "russia-emancipates-serfs-1861",
+      "additionalEventIds": [
+        "star-spangled-banner-anthem-1931",
+        "treaty-of-brest-litovsk-1918",
+        "alexander-graham-bell-born-1847",
+        "time-magazine-first-issue-1923"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 4,
+      "featuredEventId": "fdr-first-inauguration-1933",
+      "additionalEventIds": [
+        "us-constitution-takes-effect-1789",
+        "frances-perkins-sworn-in-1933",
+        "antonio-vivaldi-born-1678",
+        "castle-hill-rising-1804"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 5,
+      "featuredEventId": "iron-curtain-speech-1946",
+      "additionalEventIds": [
+        "boston-massacre-1770",
+        "joseph-stalin-dies-1953",
+        "voyager-1-jupiter-flyby-1979",
+        "heitor-villa-lobos-born-1887"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 6,
+      "featuredEventId": "ghana-becomes-independent-1957",
+      "additionalEventIds": [
+        "michelangelo-born-1475",
+        "fall-of-the-alamo-1836",
+        "gabriel-garcia-marquez-born-1927",
+        "la-traviata-premieres-1853"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 7,
+      "featuredEventId": "bell-telephone-patent-1876",
+      "additionalEventIds": [
+        "selma-bloody-sunday-1965",
+        "marcus-aurelius-and-lucius-verus-emperors-161",
+        "kathryn-bigelow-best-director-2010",
+        "maurice-ravel-born-1875"
+      ]
+    }
+  ]
+}

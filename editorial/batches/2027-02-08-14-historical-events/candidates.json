@@ -1,0 +1,326 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-08-14-historical-events",
+  "candidates": [
+    {
+      "candidateId": "feb-08-verne-born",
+      "kind": "event",
+      "proposedCanonicalId": "jules-verne-born-1828",
+      "workingClaim": "February 8, 1828: On February 8, 1828, the French writer Jules Verne was born in Nantes. His Extraordinary Journeys included Journey to the Centre of the Earth and Around the World in Eighty Days.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Jules-Verne"
+      ]
+    },
+    {
+      "candidateId": "feb-08-skylab-4",
+      "kind": "event",
+      "proposedCanonicalId": "skylab-4-splashdown-1974",
+      "workingClaim": "February 8, 1974: On February 8, 1974, the Skylab 4 crew splashed down in the Pacific Ocean after 84 days in space, a new record for space endurance.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "feb-08-mary-queen-of-scots",
+      "kind": "event",
+      "proposedCanonicalId": "mary-queen-of-scots-executed-1587",
+      "workingClaim": "February 8, 1587: On February 8, 1587, Mary, Queen of Scots, the rival of Queen Elizabeth I of England, was beheaded at Fotheringhay Castle.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "feb-08-dawes-act",
+      "kind": "event",
+      "proposedCanonicalId": "dawes-act-1887",
+      "workingClaim": "February 8, 1887: On February 8, 1887, the United States passed the Dawes General Allotment Act, providing for the distribution of Native American reservation land.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "feb-08-james-dean-born",
+      "kind": "event",
+      "proposedCanonicalId": "james-dean-born-1931",
+      "workingClaim": "February 8, 1931: On February 8, 1931, the American actor James Dean was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "feb-09-copernicium",
+      "kind": "event",
+      "proposedCanonicalId": "element-112-synthesized-1996",
+      "workingClaim": "February 9, 1996: On February 9, 1996, the German physicist Peter Armbruster and his team synthesized chemical element 112, a heavy element later named copernicium in honor of the astronomer Nicolaus Copernicus.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9",
+        "https://www.britannica.com/science/copernicium"
+      ]
+    },
+    {
+      "candidateId": "feb-09-alinagar",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-alinagar-1757",
+      "workingClaim": "February 9, 1757: On February 9, 1757, the Treaty of Alinagar placed what is today Kolkata under British control, a prelude to the British seizure of Bengal.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "feb-09-coetzee-born",
+      "kind": "event",
+      "proposedCanonicalId": "jm-coetzee-born-1940",
+      "workingClaim": "February 9, 1940: On February 9, 1940, the South African novelist, critic and translator J.M. Coetzee was born. He won the 2003 Nobel Prize for Literature.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "feb-09-alice-walker-born",
+      "kind": "event",
+      "proposedCanonicalId": "alice-walker-born-1944",
+      "workingClaim": "February 9, 1944: On February 9, 1944, the American writer Alice Walker was born. She is perhaps best known for her Pulitzer Prize-winning novel The Color Purple (1982).",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "feb-09-andropov-dies",
+      "kind": "event",
+      "proposedCanonicalId": "yury-andropov-dies-1984",
+      "workingClaim": "February 9, 1984: On February 9, 1984, the Soviet leader Yury Andropov died, 15 months after succeeding Leonid Brezhnev. He was replaced by Konstantin Chernenko.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "feb-10-powers-abel",
+      "kind": "event",
+      "proposedCanonicalId": "powers-abel-spy-exchange-1962",
+      "workingClaim": "February 10, 1962: On February 10, 1962, Francis Gary Powers, the American U-2 pilot shot down over the Soviet Union in 1960, was exchanged for the jailed Soviet spy Rudolf Abel.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10",
+        "https://www.britannica.com/event/U-2-Incident"
+      ]
+    },
+    {
+      "candidateId": "feb-10-treaty-of-paris-1763",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-paris-1763",
+      "workingClaim": "February 10, 1763: On February 10, 1763, the Treaty of Paris was signed, ending the territorial conflicts between France and Britain that had caused the Seven Years' War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "feb-10-victoria-albert",
+      "kind": "event",
+      "proposedCanonicalId": "queen-victoria-marries-albert-1840",
+      "workingClaim": "February 10, 1840: On February 10, 1840, Queen Victoria of Great Britain married Prince Albert.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "feb-10-brecht-born",
+      "kind": "event",
+      "proposedCanonicalId": "bertolt-brecht-born-1898",
+      "workingClaim": "February 10, 1898: On February 10, 1898, the poet and playwright Bertolt Brecht was born in Augsburg, Germany.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "feb-10-mark-spitz-born",
+      "kind": "event",
+      "proposedCanonicalId": "mark-spitz-born-1950",
+      "workingClaim": "February 10, 1950: On February 10, 1950, the American swimmer Mark Spitz was born. He became the first athlete to win seven gold medals at a single Olympic Games.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "feb-11-mandela-released",
+      "kind": "event",
+      "proposedCanonicalId": "nelson-mandela-released-1990",
+      "workingClaim": "February 11, 1990: On February 11, 1990, Nelson Mandela was released after 27 years in prison. He went on to negotiate with President F.W. de Klerk the end of apartheid in South Africa.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "feb-11-lateran-treaty",
+      "kind": "event",
+      "proposedCanonicalId": "lateran-treaty-signed-1929",
+      "workingClaim": "February 11, 1929: On February 11, 1929, Benito Mussolini of Italy and Pietro Gasparri of the Vatican signed the Lateran Treaty, recognizing papal sovereignty over Vatican City, an enclave in Rome.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "feb-11-mubarak-resigns",
+      "kind": "event",
+      "proposedCanonicalId": "hosni-mubarak-steps-down-2011",
+      "workingClaim": "February 11, 2011: On February 11, 2011, Egyptian President Hosni Mubarak stepped down after nearly 30 years in power, following the pro-democracy uprisings known as the Arab Spring.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "feb-11-edison-born",
+      "kind": "event",
+      "proposedCanonicalId": "thomas-edison-born-1847",
+      "workingClaim": "February 11, 1847: On February 11, 1847, the inventor Thomas Edison was born in Ohio.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "feb-11-thatcher-leader",
+      "kind": "event",
+      "proposedCanonicalId": "thatcher-elected-conservative-leader-1975",
+      "workingClaim": "February 11, 1975: On February 11, 1975, Margaret Thatcher was elected leader of Britain's Conservative Party, replacing Edward Heath.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "feb-12-darwin-born",
+      "kind": "event",
+      "proposedCanonicalId": "charles-darwin-born-1809",
+      "workingClaim": "February 12, 1809: On February 12, 1809, Charles Darwin, who developed the theory of evolution by natural selection, was born in England. Abraham Lincoln was born on the same day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "feb-12-lincoln-born",
+      "kind": "event",
+      "proposedCanonicalId": "abraham-lincoln-born-1809",
+      "workingClaim": "February 12, 1809: On February 12, 1809, Abraham Lincoln was born. As the 16th president of the United States (1861-65), he preserved the Union during the American Civil War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "feb-12-puyi-abdicates",
+      "kind": "event",
+      "proposedCanonicalId": "puyi-abdicates-1912",
+      "workingClaim": "February 12, 1912: On February 12, 1912, Puyi, the last emperor of China, abdicated at the end of the Chinese Revolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "feb-12-chile-independence",
+      "kind": "event",
+      "proposedCanonicalId": "chile-declares-independence-1818",
+      "workingClaim": "February 12, 1818: On February 12, 1818, Chile formally declared its independence, exactly one year after revolutionary forces led by Jose de San Martin won a victory.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "feb-12-scream-stolen",
+      "kind": "event",
+      "proposedCanonicalId": "the-scream-stolen-1994",
+      "workingClaim": "February 12, 1994: On February 12, 1994, thieves broke into the National Gallery in Oslo and stole a version of Edvard Munch's The Scream. The painting was recovered several months later.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12",
+        "https://www.britannica.com/topic/The-Scream-by-Munch"
+      ]
+    },
+    {
+      "candidateId": "feb-13-last-peanuts",
+      "kind": "event",
+      "proposedCanonicalId": "last-peanuts-strip-2000",
+      "workingClaim": "February 13, 2000: On February 13, 2000, the last Peanuts comic strip was published, just hours after the death of its creator, Charles Schulz.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "feb-13-rudd-apology",
+      "kind": "event",
+      "proposedCanonicalId": "kevin-rudd-apology-2008",
+      "workingClaim": "February 13, 2008: On February 13, 2008, Australian Prime Minister Kevin Rudd apologized to Australia's Aboriginal peoples for abuses they had suffered under earlier administrations.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "feb-13-france-atomic-test",
+      "kind": "event",
+      "proposedCanonicalId": "france-first-atomic-bomb-1960",
+      "workingClaim": "February 13, 1960: On February 13, 1960, France detonated its first atomic bomb, in the Sahara desert.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "feb-13-wagner-dies",
+      "kind": "event",
+      "proposedCanonicalId": "richard-wagner-dies-1883",
+      "workingClaim": "February 13, 1883: On February 13, 1883, the German composer Richard Wagner died in Venice at age 69.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "feb-13-simenon-born",
+      "kind": "event",
+      "proposedCanonicalId": "georges-simenon-born-1903",
+      "workingClaim": "February 13, 1903: On February 13, 1903, the Belgian-French novelist Georges Simenon, creator of the Parisian police inspector Jules Maigret, was born in Liege, Belgium.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13",
+        "https://www.britannica.com/biography/Georges-Simenon"
+      ]
+    },
+    {
+      "candidateId": "feb-14-eniac",
+      "kind": "event",
+      "proposedCanonicalId": "eniac-announced-1946",
+      "workingClaim": "February 14, 1946: On February 14, 1946, the ENIAC (Electronic Numerical Integrator and Computer), the first general-purpose electronic computer, was announced to the public. Built at the University of Pennsylvania, it used about 18,000 vacuum tubes and weighed 30 tons.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-14",
+        "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+      ]
+    },
+    {
+      "candidateId": "feb-14-cook-killed",
+      "kind": "event",
+      "proposedCanonicalId": "james-cook-killed-1779",
+      "workingClaim": "February 14, 1779: On February 14, 1779, the British explorer Captain James Cook was killed by Hawaiians at Kealakekua Bay.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-14"
+      ]
+    },
+    {
+      "candidateId": "feb-14-arizona-statehood",
+      "kind": "event",
+      "proposedCanonicalId": "arizona-statehood-1912",
+      "workingClaim": "February 14, 1912: On February 14, 1912, Arizona became a US state, the last of the 48 contiguous states to be admitted to the Union.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Arizona-state"
+      ]
+    },
+    {
+      "candidateId": "feb-14-youtube",
+      "kind": "event",
+      "proposedCanonicalId": "youtube-registered-2005",
+      "workingClaim": "February 14, 2005: On February 14, 2005, Steve Chen, Chad Hurley and Jawed Karim registered YouTube, a website for sharing videos.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-14"
+      ]
+    },
+    {
+      "candidateId": "feb-14-zuma-resigns",
+      "kind": "event",
+      "proposedCanonicalId": "jacob-zuma-resigns-2018",
+      "workingClaim": "February 14, 2018: On February 14, 2018, South African President Jacob Zuma resigned amid scandals and corruption allegations.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-14"
+      ]
+    }
+  ]
+}

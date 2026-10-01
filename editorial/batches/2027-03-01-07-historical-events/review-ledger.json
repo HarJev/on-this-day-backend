@@ -1,0 +1,892 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-01-07-historical-events",
+  "entries": [
+    {
+      "candidateId": "mar-01-yellowstone",
+      "canonicalId": "yellowstone-established-1872",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 1): 1872: 'U.S. Pres. Ulysses S. Grant signed the act that established Yellowstone National Park.'"
+        },
+        {
+          "url": "https://www.britannica.com/place/Yellowstone-National-Park",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'established by the U.S. Congress on March 1, 1872, as the country's first national park. It is also generally considered to have been the first national park in the world'; mainly in northwestern Wyoming, partly in Montana and Idaho; Old Faithful geyser."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-01-march-first",
+      "canonicalId": "march-first-movement-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 1): 1919: 'Protesters in Seoul launched the March First Movement, a series of demonstrations for Korean national independence from Japan.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-01-peace-corps",
+      "canonicalId": "peace-corps-established-1961",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 1): 1961: 'The Peace Corps was established by U.S. Pres. John F. Kennedy by means of the Peace Corps Act.' (The article below gives the March 1 executive order and the September 22, 1961, act.)"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Peace-Corps",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'established by executive order by Pres. John F. Kennedy on March 1, 1961, and authorized by the U.S. Congress through the Peace Corps Act of September 22, 1961'; first director R. Sargent Shriver; volunteers serve abroad for two years."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-01-hoover-dam",
+      "canonicalId": "hoover-dam-completed-1936",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 1): 1936: 'the Hoover Dam on the Colorado River at the Arizona-Nevada border was completed'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-01-native-son",
+      "canonicalId": "native-son-published-1940",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 1): 1940: 'Richard Wright published Native Son, a groundbreaking novel that explored systemic racism in the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-02-concorde-first-flight",
+      "canonicalId": "concorde-first-flight-1969",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/Concorde",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: first flight 'March 2, 1969'; cruising speed 'Mach 2.04 (more than twice the speed of sound)'; commercial service January 21, 1976; retired 2003; airframe by British Aerospace and Aerospatiale, engines by Rolls-Royce and SNECMA."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-02-wilt-100",
+      "canonicalId": "wilt-chamberlain-scores-100-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 2): 1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-02-morocco-independence",
+      "canonicalId": "morocco-independence-1956",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 2): 1956: 'Morocco proclaimed independence from France.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "03-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-02-gorbachev-born",
+      "canonicalId": "mikhail-gorbachev-born-1931",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 2): Famous Birthdays: 1931, Mikhail Gorbachev was born."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-02-dr-seuss-born",
+      "canonicalId": "dr-seuss-born-1904",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 2): 1904: Dr. Seuss was 'born in Springfield, Massachusetts'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-03-serfs-freed",
+      "canonicalId": "russia-emancipates-serfs-1861",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 3): 1861: 'The Russian emperor Alexander II issued the Emancipation Manifesto, which declared the freeing of the serfs.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-03-anthem",
+      "canonicalId": "star-spangled-banner-anthem-1931",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 3): 1931: 'The Star-Spangled Banner ... was officially adopted as the national anthem of the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-03-brest-litovsk",
+      "canonicalId": "treaty-of-brest-litovsk-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 3): 1918: 'The second of two treaties of Brest-Litovsk concluded hostilities between the Central Powers and Soviet Russia.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-03-bell-born",
+      "canonicalId": "alexander-graham-bell-born-1847",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 3): 1847: 'Alexander Graham Bell ... was born in Edinburgh.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-03-time-magazine",
+      "canonicalId": "time-magazine-first-issue-1923",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 3): 1923: 'The first issue of the American weekly magazine Time was published.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-04-fdr-inaugurated",
+      "canonicalId": "fdr-first-inauguration-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 4): 1933: 'On this day in 1933, in the midst of the Great Depression, Franklin D. Roosevelt became the last U.S. president to be inaugurated on March 4.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-04-constitution-in-effect",
+      "canonicalId": "us-constitution-takes-effect-1789",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 4): 1789: 'The U.S. Constitution went into effect as the governing law of the United States, the date having been established by Congress.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "03-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-04-frances-perkins",
+      "canonicalId": "frances-perkins-sworn-in-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 4): 1933: 'Frances Perkins was sworn in as U.S. secretary of labor in the administration of President Franklin D. Roosevelt. She was the first woman appointed to a cabinet post and served one of the longest terms of any Roosevelt appointee (1933-45).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-04-vivaldi-born",
+      "canonicalId": "antonio-vivaldi-born-1678",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 4): Famous Birthdays: 1678, Antonio Vivaldi."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Antonio-Vivaldi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 4, 1678, Venice'; died July 28, 1741, Vienna; nicknamed 'Il Prete Rosso' ('The Red Priest') for his red hair; best known for The Four Seasons, 'a group of four violin concerti'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "03-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-04-castle-hill",
+      "canonicalId": "castle-hill-rising-1804",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 4): 1804: 'Irish convicts rose up in the Castle Hill Rising, Australia's first rebellion. The uprising was suppressed by the troops of the New South Wales Corps and Loyal Associations, leaving 15 dead and many wounded.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-05-iron-curtain",
+      "canonicalId": "iron-curtain-speech-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 5): 1946: 'British prime minister Winston Churchill popularized the term 'Iron Curtain'' in a speech at Fulton, Missouri."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-05-boston-massacre",
+      "canonicalId": "boston-massacre-1770",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 5): 1770: 'British troops on this day in 1770 opened fire, killing Crispus Attucks and four others in the Boston Massacre.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "03-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-05-stalin-dies",
+      "canonicalId": "joseph-stalin-dies-1953",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 5): 1953: 'Soviet premier Joseph Stalin died at age 74 and was succeeded by Georgy Malenkov.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-05-voyager-jupiter",
+      "canonicalId": "voyager-1-jupiter-flyby-1979",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/voyager/voyager-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: launched Sept. 5, 1977; 'March 5, 1979: Jupiter flyby - closest approach'; encountered Amalthea, Io, Europa, Ganymede and Callisto; 'Spectacular close-up photos of the moons opened up completely new worlds for planetary scientists'; first to exit the heliosphere, Aug. 25, 2012. (Not used: the Mar 5 day page's claim that nine Io volcanoes were observed that day.)"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-05-villa-lobos-born",
+      "canonicalId": "heitor-villa-lobos-born-1887",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 5): 1887: 'Brazilian musician and composer Heitor Villa-Lobos was born in Rio de Janeiro.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-06-ghana-independence",
+      "canonicalId": "ghana-becomes-independent-1957",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 6): 1957: 'Ghana became an independent nation, led by Prime Minister Kwame Nkrumah.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "03-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-06-michelangelo-born",
+      "canonicalId": "michelangelo-born-1475",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 6): 1475: 'Renaissance artist Michelangelo ... was born in the Republic of Florence.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Michelangelo",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 6, 1475, Caprese, Republic of Florence'; died February 18, 1564, Rome; Pieta (1499); David (1501-04); Sistine Chapel ceiling (1508-12)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "03-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-06-alamo-falls",
+      "canonicalId": "fall-of-the-alamo-1836",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 6): 1836: 'The Alamo ... fell to Mexican General Antonio Lopez de Santa Anna after a 13-day siege.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-06-garcia-marquez-born",
+      "canonicalId": "gabriel-garcia-marquez-born-1927",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 6): 1927: 'Gabriel Garcia Marquez ... was born in Aracataca, Colombia.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Gabriel-Garcia-Marquez",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 6, 1927, Aracataca, Colombia'; One Hundred Years of Solitude (1967), set in the town of Macondo; Nobel Prize 1982; known for magic realism."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-06-la-traviata",
+      "canonicalId": "la-traviata-premieres-1853",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 6): 1853: 'Giuseppe Verdi's opera La traviata premiered at La Fenice opera house in Venice.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-07-bell-patent",
+      "canonicalId": "bell-telephone-patent-1876",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 7): 1876: 'Alexander Graham Bell received a patent for the telephone.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-07-selma",
+      "canonicalId": "selma-bloody-sunday-1965",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 7): 1965: 'State troopers used nightsticks and tear gas to attack civil rights activists as they crossed a bridge in Selma, Alabama, during their attempted march to the state capitol in Montgomery.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "03-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-07-marcus-aurelius",
+      "canonicalId": "marcus-aurelius-and-lucius-verus-emperors-161",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 7): 161 CE (featured): 'Marcus Aurelius declared himself and his adoptive brother Lucius Verus emperors of Rome, marking the first time two emperors would rule the Roman Empire simultaneously.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "03-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-07-bigelow",
+      "canonicalId": "kathryn-bigelow-best-director-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 7): 2010: 'Kathryn Bigelow became the first woman to win an Academy Award for best director, for The Hurt Locker (2008).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "03-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "mar-07-ravel-born",
+      "canonicalId": "maurice-ravel-born-1875",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 7): Famous Births: 1875, Maurice Ravel (composer)."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Maurice-Ravel",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 7, 1875, Ciboure, France'; died December 28, 1937, Paris; Bolero (1928), 'a one-movement orchestral work known for beginning softly and ending as loudly as possible'; Daphnis et Chloe for the Ballets Russes (1912)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "03-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

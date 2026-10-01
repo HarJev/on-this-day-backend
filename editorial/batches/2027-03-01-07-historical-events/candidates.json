@@ -1,0 +1,327 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-01-07-historical-events",
+  "candidates": [
+    {
+      "candidateId": "mar-01-yellowstone",
+      "kind": "event",
+      "proposedCanonicalId": "yellowstone-established-1872",
+      "workingClaim": "March 1, 1872: On March 1, 1872, US President Ulysses S. Grant signed the act that established Yellowstone National Park, the country's first national park and generally considered the first in the world.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1",
+        "https://www.britannica.com/place/Yellowstone-National-Park"
+      ]
+    },
+    {
+      "candidateId": "mar-01-march-first",
+      "kind": "event",
+      "proposedCanonicalId": "march-first-movement-1919",
+      "workingClaim": "March 1, 1919: On March 1, 1919, protesters in Seoul launched the March First Movement, a series of demonstrations for Korean independence from Japan.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1"
+      ]
+    },
+    {
+      "candidateId": "mar-01-peace-corps",
+      "kind": "event",
+      "proposedCanonicalId": "peace-corps-established-1961",
+      "workingClaim": "March 1, 1961: On March 1, 1961, US President John F. Kennedy established the Peace Corps by executive order. Congress authorized it through the Peace Corps Act that September.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1",
+        "https://www.britannica.com/topic/Peace-Corps"
+      ]
+    },
+    {
+      "candidateId": "mar-01-hoover-dam",
+      "kind": "event",
+      "proposedCanonicalId": "hoover-dam-completed-1936",
+      "workingClaim": "March 1, 1936: On March 1, 1936, the Hoover Dam on the Colorado River, at the Arizona-Nevada border, was completed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1"
+      ]
+    },
+    {
+      "candidateId": "mar-01-native-son",
+      "kind": "event",
+      "proposedCanonicalId": "native-son-published-1940",
+      "workingClaim": "March 1, 1940: On March 1, 1940, Richard Wright published Native Son, a groundbreaking novel that explored systemic racism in the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1"
+      ]
+    },
+    {
+      "candidateId": "mar-02-concorde-first-flight",
+      "kind": "event",
+      "proposedCanonicalId": "concorde-first-flight-1969",
+      "workingClaim": "March 2, 1969: On March 2, 1969, Concorde, the supersonic airliner built by Britain and France, made its first flight. It would cruise at more than twice the speed of sound.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Concorde"
+      ]
+    },
+    {
+      "candidateId": "mar-02-wilt-100",
+      "kind": "event",
+      "proposedCanonicalId": "wilt-chamberlain-scores-100-1962",
+      "workingClaim": "March 2, 1962: On March 2, 1962, Wilt Chamberlain scored 100 points in a single NBA game, a record that has never been surpassed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "mar-02-morocco-independence",
+      "kind": "event",
+      "proposedCanonicalId": "morocco-independence-1956",
+      "workingClaim": "March 2, 1956: On March 2, 1956, Morocco proclaimed its independence from France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "mar-02-gorbachev-born",
+      "kind": "event",
+      "proposedCanonicalId": "mikhail-gorbachev-born-1931",
+      "workingClaim": "March 2, 1931: On March 2, 1931, Mikhail Gorbachev, who would become the last leader of the Soviet Union, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "mar-02-dr-seuss-born",
+      "kind": "event",
+      "proposedCanonicalId": "dr-seuss-born-1904",
+      "workingClaim": "March 2, 1904: On March 2, 1904, Theodor Seuss Geisel, the children's author known as Dr. Seuss, was born in Springfield, Massachusetts.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "mar-03-serfs-freed",
+      "kind": "event",
+      "proposedCanonicalId": "russia-emancipates-serfs-1861",
+      "workingClaim": "March 3, 1861: On March 3, 1861, the Russian emperor Alexander II issued the Emancipation Manifesto, which declared the freeing of the serfs.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "mar-03-anthem",
+      "kind": "event",
+      "proposedCanonicalId": "star-spangled-banner-anthem-1931",
+      "workingClaim": "March 3, 1931: On March 3, 1931, The Star-Spangled Banner was officially adopted as the national anthem of the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "mar-03-brest-litovsk",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-brest-litovsk-1918",
+      "workingClaim": "March 3, 1918: On March 3, 1918, the second of two treaties of Brest-Litovsk ended hostilities between the Central Powers and Soviet Russia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "mar-03-bell-born",
+      "kind": "event",
+      "proposedCanonicalId": "alexander-graham-bell-born-1847",
+      "workingClaim": "March 3, 1847: On March 3, 1847, Alexander Graham Bell, who would patent the telephone, was born in Edinburgh, Scotland.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "mar-03-time-magazine",
+      "kind": "event",
+      "proposedCanonicalId": "time-magazine-first-issue-1923",
+      "workingClaim": "March 3, 1923: On March 3, 1923, the first issue of the American weekly magazine Time was published.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "mar-04-fdr-inaugurated",
+      "kind": "event",
+      "proposedCanonicalId": "fdr-first-inauguration-1933",
+      "workingClaim": "March 4, 1933: On March 4, 1933, in the midst of the Great Depression, Franklin D. Roosevelt was inaugurated president of the United States. He was the last president to take office on March 4.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "mar-04-constitution-in-effect",
+      "kind": "event",
+      "proposedCanonicalId": "us-constitution-takes-effect-1789",
+      "workingClaim": "March 4, 1789: On March 4, 1789, the US Constitution went into effect as the governing law of the United States, on a date set by Congress.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "mar-04-frances-perkins",
+      "kind": "event",
+      "proposedCanonicalId": "frances-perkins-sworn-in-1933",
+      "workingClaim": "March 4, 1933: On March 4, 1933, Frances Perkins was sworn in as US secretary of labor under Franklin D. Roosevelt, the first woman appointed to a cabinet post. She served until 1945.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "mar-04-vivaldi-born",
+      "kind": "event",
+      "proposedCanonicalId": "antonio-vivaldi-born-1678",
+      "workingClaim": "March 4, 1678: On March 4, 1678, the composer Antonio Vivaldi, best known for the violin concertos The Four Seasons, was born in Venice.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4",
+        "https://www.britannica.com/biography/Antonio-Vivaldi"
+      ]
+    },
+    {
+      "candidateId": "mar-04-castle-hill",
+      "kind": "event",
+      "proposedCanonicalId": "castle-hill-rising-1804",
+      "workingClaim": "March 4, 1804: On March 4, 1804, Irish convicts rose up in the Castle Hill Rising, Australia's first rebellion. Troops of the New South Wales Corps suppressed it, leaving 15 dead.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "mar-05-iron-curtain",
+      "kind": "event",
+      "proposedCanonicalId": "iron-curtain-speech-1946",
+      "workingClaim": "March 5, 1946: On March 5, 1946, Winston Churchill popularized the term Iron Curtain in a speech at Fulton, Missouri.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "mar-05-boston-massacre",
+      "kind": "event",
+      "proposedCanonicalId": "boston-massacre-1770",
+      "workingClaim": "March 5, 1770: On March 5, 1770, British troops opened fire on a crowd in Boston, killing Crispus Attucks and four others in what became known as the Boston Massacre.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "mar-05-stalin-dies",
+      "kind": "event",
+      "proposedCanonicalId": "joseph-stalin-dies-1953",
+      "workingClaim": "March 5, 1953: On March 5, 1953, the Soviet leader Joseph Stalin died at age 74 and was succeeded by Georgy Malenkov.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "mar-05-voyager-jupiter",
+      "kind": "event",
+      "proposedCanonicalId": "voyager-1-jupiter-flyby-1979",
+      "workingClaim": "March 5, 1979: On March 5, 1979, NASA's Voyager 1 made its closest approach to Jupiter. Its close-up photographs of moons such as Io, Europa, Ganymede and Callisto opened new worlds to planetary scientists.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/voyager/voyager-1/"
+      ]
+    },
+    {
+      "candidateId": "mar-05-villa-lobos-born",
+      "kind": "event",
+      "proposedCanonicalId": "heitor-villa-lobos-born-1887",
+      "workingClaim": "March 5, 1887: On March 5, 1887, the Brazilian musician and composer Heitor Villa-Lobos was born in Rio de Janeiro.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "mar-06-ghana-independence",
+      "kind": "event",
+      "proposedCanonicalId": "ghana-becomes-independent-1957",
+      "workingClaim": "March 6, 1957: On March 6, 1957, Ghana became an independent nation, led by Prime Minister Kwame Nkrumah.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6"
+      ]
+    },
+    {
+      "candidateId": "mar-06-michelangelo-born",
+      "kind": "event",
+      "proposedCanonicalId": "michelangelo-born-1475",
+      "workingClaim": "March 6, 1475: On March 6, 1475, the Renaissance artist Michelangelo was born in Caprese, in the Republic of Florence. He later painted the ceiling of the Sistine Chapel.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6",
+        "https://www.britannica.com/biography/Michelangelo"
+      ]
+    },
+    {
+      "candidateId": "mar-06-alamo-falls",
+      "kind": "event",
+      "proposedCanonicalId": "fall-of-the-alamo-1836",
+      "workingClaim": "March 6, 1836: On March 6, 1836, the Alamo fell to Mexican General Antonio Lopez de Santa Anna after a 13-day siege.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6"
+      ]
+    },
+    {
+      "candidateId": "mar-06-garcia-marquez-born",
+      "kind": "event",
+      "proposedCanonicalId": "gabriel-garcia-marquez-born-1927",
+      "workingClaim": "March 6, 1927: On March 6, 1927, the novelist Gabriel Garcia Marquez, author of One Hundred Years of Solitude and winner of the 1982 Nobel Prize for Literature, was born in Aracataca, Colombia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6",
+        "https://www.britannica.com/biography/Gabriel-Garcia-Marquez"
+      ]
+    },
+    {
+      "candidateId": "mar-06-la-traviata",
+      "kind": "event",
+      "proposedCanonicalId": "la-traviata-premieres-1853",
+      "workingClaim": "March 6, 1853: On March 6, 1853, Giuseppe Verdi's opera La Traviata premiered at La Fenice opera house in Venice.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6"
+      ]
+    },
+    {
+      "candidateId": "mar-07-bell-patent",
+      "kind": "event",
+      "proposedCanonicalId": "bell-telephone-patent-1876",
+      "workingClaim": "March 7, 1876: On March 7, 1876, Alexander Graham Bell received a US patent for the telephone.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "mar-07-selma",
+      "kind": "event",
+      "proposedCanonicalId": "selma-bloody-sunday-1965",
+      "workingClaim": "March 7, 1965: On March 7, 1965, state troopers used nightsticks and tear gas to attack civil rights activists crossing a bridge in Selma, Alabama, at the start of their attempted march to the state capitol in Montgomery.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "mar-07-marcus-aurelius",
+      "kind": "event",
+      "proposedCanonicalId": "marcus-aurelius-and-lucius-verus-emperors-161",
+      "workingClaim": "March 7, 161: On March 7, 161, Marcus Aurelius declared himself and his adoptive brother Lucius Verus emperors of Rome, the first time two emperors ruled the empire together.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "mar-07-bigelow",
+      "kind": "event",
+      "proposedCanonicalId": "kathryn-bigelow-best-director-2010",
+      "workingClaim": "March 7, 2010: On March 7, 2010, Kathryn Bigelow became the first woman to win the Academy Award for best director, for The Hurt Locker.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "mar-07-ravel-born",
+      "kind": "event",
+      "proposedCanonicalId": "maurice-ravel-born-1875",
+      "workingClaim": "March 7, 1875: On March 7, 1875, the French composer Maurice Ravel, best known for Bolero, was born in Ciboure, France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7",
+        "https://www.britannica.com/biography/Maurice-Ravel"
+      ]
+    }
+  ]
+}
