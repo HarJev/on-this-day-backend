@@ -44,7 +44,7 @@ rerunnable and rewrite their batch directories.
 | S3: draft events | COMPLETED | `b1226.py`: 178 events, 37 days. 30 days have 5 events; Jan 2, 9, 13, 19, 23, 24 and 29 have 4. Every featured event has notification copy. |
 | S4: draft quiz questions and links | COMPLETED | `build_dec_jan_cycle.py`: 85 new draft questions (74 multiple choice, 8 true/false, 3 ordering; 36 easy, 44 medium, 5 hard) and 19 relation proposals for unchanged published questions (7 image questions with inherited rights). Every day has at least one quiz hook. |
 | S5: validation | COMPLETED | Canonical validators on canonical + drafts merged (`merge.py`, `ValidateMerged.java`, drafts marked published so publish-time checks run): events valid, quiz valid, only pre-existing warnings. `EditorialReviewCheckCommand` passes for all six batches. Structural script: dates match days, IDs unique against canonical, descriptions start with the date, no Wikipedia, featured copy within 60/90 characters. `mvn -B test`: 266 tests, 0 failures (drafts are outside `content/`, so unit counts are unchanged). |
-| S6: pull request | IN PROGRESS | Reviewed and merged by a separate review thread, not the author. |
+| S6: pull request | COMPLETED | PR #29 opened; awaiting a separate review thread (the author does not merge). Next after merge: owner review and promotion, then local DB import. |
 
 ## Counts
 
