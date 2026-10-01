@@ -9113,7 +9113,19 @@
           "url": "https://www.britannica.com/on-this-day/January-1"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/euro-introduced-1999/dc8e0020d2023ba75afd4bad7ceadb373c3525915a1dbbfdd1e86823f3adac86.jpg",
+          "altText": "A row of euro coins of different values",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Euro_coins_line.jpg",
+          "creator": "Vander",
+          "attribution": "Vander, via Wikimedia Commons (CC0 1.0)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "haiti-declares-independence-1804",
@@ -9203,7 +9215,19 @@
           "url": "https://www.britannica.com/on-this-day/December-26"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/frisbee-patent-issued-1967/800ac3064a69f1c2f8bb206d4d4f8b005846793abd204f4a39a6be6460650e5d.jpg",
+          "altText": "A red Wham-O Frisbee flying disc from 1966",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wham-O_Frisbee.jpg",
+          "creator": "UnifiedFunctionality",
+          "attribution": "UnifiedFunctionality, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "mao-zedong-born-1893",
@@ -9293,7 +9317,19 @@
           "url": "https://www.britannica.com/on-this-day/December-27"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/hagia-sophia-consecrated-537/d89ea6f0757c30b14f68cdef64e35e9fc8ca5d182b5a55648fd6f15446d0951f.jpg",
+          "altText": "Hagia Sophia in Istanbul, with its great central dome and four minarets",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg",
+          "creator": "Arild Vågen",
+          "attribution": "Arild Vågen, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "darwin-sails-on-beagle-1831",
@@ -9383,7 +9419,19 @@
           "url": "https://www.britannica.com/on-this-day/December-28"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/lumiere-first-public-film-screening-1895/0b7e4bc4aac23b7c39b2a9967b618b8ec45f2e55c10d41b0551aaf4fe4e57b96.jpg",
+          "altText": "Portrait photograph of the brothers Auguste and Louis Lumiere, around 1895",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auguste_and_Louis_Lumi%C3%A8re.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "westminster-abbey-consecrated-1065",
@@ -9455,7 +9503,19 @@
           "url": "https://www.britannica.com/on-this-day/December-29"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/irish-constitution-in-force-1937/9c6fd4011970653097fff769ac2e53b319b076e093f5eac84f6bac923ecae5cb.jpg",
+          "altText": "Irish postage stamp issued on December 29, 1937, to mark the new Constitution of Ireland",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stamp-Ireland_3d_1937_Constitution.jpg",
+          "creator": "Richard J. King for the Department of Posts and Telegraphs",
+          "attribution": "Richard J. King for the Department of Posts and Telegraphs, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "texas-statehood-1845",
@@ -9549,7 +9609,19 @@
           "url": "https://www.britannica.com/on-this-day/December-30"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/soviet-union-established-1922/78a9dfda96718797de9b6e85e9aaaab022ace9747d97314da2780bb9fdd343bd.jpg",
+          "altText": "First page of the 1922 Declaration and Treaty on the Creation of the USSR",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Declaration_and_Treaty_on_the_Creation_of_the_USSR-1922-page1.jpg",
+          "creator": "Government of the Soviet Union",
+          "attribution": "Government of the Soviet Union, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "jose-rizal-executed-1896",
@@ -9729,7 +9801,19 @@
           "url": "https://www.britannica.com/on-this-day/January-2"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/granada-surrenders-1492/ba5dc64f3a51b8fb105a1fb80a9b813d8a4886c62366a4452c005832d6ebe8a0.jpg",
+          "altText": "Francisco Pradilla painting of Muhammad XII surrendering Granada to Ferdinand and Isabella",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:La_Rendici%C3%B3n_de_Granada_(Francisco_Pradilla).jpg",
+          "creator": "Francisco Pradilla y Ortiz",
+          "attribution": "Francisco Pradilla y Ortiz, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "port-arthur-surrenders-1905",
@@ -9805,7 +9889,19 @@
           "url": "https://www.britannica.com/biography/J-R-R-Tolkien"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/jrr-tolkien-born-1892/e48e1c59f32e98a5940e23da6d25b42cb3140aabdbfc269d71dc986260077836.jpg",
+          "altText": "J.R.R. Tolkien, aged 24, in army uniform in 1916",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tolkien_in_Uniform.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "alaska-becomes-49th-state-1959",
@@ -9895,7 +9991,19 @@
           "url": "https://www.britannica.com/on-this-day/January-4"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/louis-braille-born-1809/6600f6c2a0d38f8fdc2ce2ab9eed770fd438c91e98ae8359a4624b76c3857798.jpg",
+          "altText": "Engraved portrait of Louis Braille",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Engraving_of_Louis_Braille_by_Henri_Thiriat.jpg",
+          "creator": "Henri Thiriat",
+          "attribution": "Henri Thiriat, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "burma-gains-independence-1948",
@@ -10057,7 +10165,19 @@
           "url": "https://www.britannica.com/on-this-day/January-6"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/four-freedoms-speech-1941/35aba0664d5fc6f21186d71f5c48d958dfef54c7a9b063bc26b1fdba825ef160.jpg",
+          "altText": "Inscription of Franklin D. Roosevelt's Four Freedoms carved in stone at his memorial in Washington, D.C.",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Four_freedoms_human_rights.jpg",
+          "creator": "dbking",
+          "attribution": "dbking, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "henry-viii-marries-anne-of-cleves-1540",
@@ -10151,7 +10271,19 @@
           "url": "https://www.britannica.com/biography/Marian-Anderson"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/marian-anderson-met-debut-1955/89921c4ad6b452951120b6f7e28e8db3d3e6251bbe90000910ef679042e141a2.jpg",
+          "altText": "Colour portrait photograph of the contralto Marian Anderson by Carl Van Vechten, 1940",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marian_Anderson_by_Carl_Van_Vechten_(cropped).jpg",
+          "creator": "Carl Van Vechten",
+          "attribution": "Carl Van Vechten, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "vietnamese-forces-take-phnom-penh-1979",
@@ -10241,7 +10373,19 @@
           "url": "https://www.britannica.com/on-this-day/January-8"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/african-national-congress-founded-1912/80e4fdaeb01a28eea2fe005a44276b672b18a3a07425626d65ace9ee4c269029.jpg",
+          "altText": "The South African Native National Congress delegation to England in 1914, two years after the party's founding",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ANC1914.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "wilson-fourteen-points-1918",
@@ -10335,7 +10479,19 @@
           "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/joan-of-arc-trial-begins-1431/df6dba5ef66ed1e4e4c7705be2c3b0f6b85df57cb4275186e73bbaffd8540897.jpg",
+          "altText": "Paul Delaroche painting of Joan of Arc being questioned in her prison cell by the Cardinal of Winchester",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joan_of_arc_interrogation.jpg",
+          "creator": "Paul Delaroche",
+          "attribution": "Paul Delaroche, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "simone-de-beauvoir-born-1908",
@@ -10407,7 +10563,19 @@
           "url": "https://www.britannica.com/on-this-day/January-10"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/caesar-crosses-rubicon-49bce/387baee19a8693668790e49f0fcc3caabf0047edc0e09d8b714198a41077d5e7.jpg",
+          "altText": "1849 engraving of Julius Caesar and his army crossing the Rubicon",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crossing_the_Rubicon_(cropped).jpg",
+          "creator": "Jacob Abbott",
+          "attribution": "Jacob Abbott, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "common-sense-published-1776",
@@ -10497,7 +10665,19 @@
           "url": "https://www.britannica.com/on-this-day/January-11"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/ozymandias-published-1818/0505a1d6239552cc6488a6ed9ff3e45e2ae2896d5cd90ee587a8ac9a126b50c6.jpg",
+          "altText": "Portrait of the poet Percy Bysshe Shelley, after Amelia Curran's 1819 painting",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Percy_Bysshe_Shelley_by_Curran,_1819.jpg",
+          "creator": "After Amelia Curran",
+          "attribution": "After Amelia Curran, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "surgeon-general-smoking-report-1964",
@@ -10595,7 +10775,19 @@
           "url": "https://www.britannica.com/topic/Motown"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/berry-gordy-launches-tamla-records-1959/8586543ce92bb5e098664e32d1e48ad0706f7e4bb567cffd2c3ba1c074e6b6e3.jpg",
+          "altText": "The Hitsville U.S.A. house in Detroit, the first headquarters of Berry Gordy's record company",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hitsville_USA.jpg",
+          "creator": "Chris Butcher",
+          "attribution": "Chris Butcher, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "haiti-earthquake-2010",
@@ -10685,7 +10877,19 @@
           "url": "https://www.britannica.com/on-this-day/January-13"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/zola-publishes-jaccuse-1898/2504d65b88a0205b9efeabfd68dacbf22b00e11f2b0de91dedc6fe4c01bb3936.jpg",
+          "altText": "Front page of L'Aurore of January 13, 1898, with Emile Zola's open letter headlined J'accuse",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:J%E2%80%99accuse.jpg",
+          "creator": "L'Aurore",
+          "attribution": "L'Aurore, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "johnny-cash-at-folsom-prison-1968",
@@ -10761,7 +10965,19 @@
           "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/huygens-lands-on-titan-2005/aef6109bb4558781d0e2b4fe4c3b6d8e84fab50a8e0e84c373b9bdf746af32b2.jpg",
+          "altText": "Artist's conception of the Huygens probe separating from the Cassini orbiter above Titan",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cassini_Huygens_Titan.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "tosca-premieres-1900",
@@ -10851,7 +11067,19 @@
           "url": "https://www.britannica.com/on-this-day/January-15"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/british-museum-opens-1759/71723d811dffd7eec847109465627655529a0804f8a5a364d4c5677f402c8ff3.jpg",
+          "altText": "Engraving of the courtyard of Montagu House, the British Museum's first home in London",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_British_Museum_at_Montague_House;_the_courtyard._Engravi_Wellcome_V0013502.jpg",
+          "creator": "Wellcome Collection",
+          "attribution": "Wellcome Collection, via Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "wikipedia-launches-2001",
@@ -10941,7 +11169,19 @@
           "url": "https://www.britannica.com/on-this-day/January-16"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/ellen-johnson-sirleaf-sworn-in-2006/d26531328bd21bf205e2b42b0f2018e6babd729250431bb0c493b07ddf36fd90.jpg",
+          "altText": "The inauguration ceremony of Liberian President Ellen Johnson Sirleaf in Monrovia, January 2006",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Inauguration_Ceremony_of_Liberian_President_Ellen_Johnson_Sirleaf_-_DPLA_-_b23ac987cbce5568d24812d42529d5f6.JPG",
+          "creator": "Executive Office of the President of the United States",
+          "attribution": "Executive Office of the President of the United States, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "el-salvador-peace-accords-1992",
@@ -11031,7 +11271,19 @@
           "url": "https://www.britannica.com/on-this-day/January-17"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/popeye-debuts-1929/d038cd2b1ac1216e86e94d72b5d92ab04864f4378e14e503a08d7bb275c3057e.jpg",
+          "altText": "Early Thimble Theatre comic panel of Popeye the Sailor at a ship's wheel, 1929",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Popeye_at_the_Wheel.png",
+          "creator": "E. C. Segar",
+          "attribution": "E. C. Segar, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "benjamin-franklin-born-1706",
@@ -11125,7 +11377,19 @@
           "url": "https://www.britannica.com/on-this-day/January-18"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/german-empire-proclaimed-1871/522f1ea1e74479fbe1bb3db6071c19a62e3f11930abb8033a495e5b24ef2261a.jpg",
+          "altText": "Anton von Werner painting of William I proclaimed German emperor in the Hall of Mirrors at Versailles, with Bismarck in white",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anton_von_Werner_-_Kaiserproklamation_am_18._Januar_1871_(3._Fassung_1885).jpg",
+          "creator": "Anton von Werner",
+          "attribution": "Anton von Werner, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "eugene-ely-first-ship-landing-1911",
@@ -11215,7 +11479,19 @@
           "url": "https://www.britannica.com/on-this-day/January-19"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/il-trovatore-premieres-1853/48acf0bf589aa55840081fcd0d4e7ab54dbe9eac4868b714236176b5a79e013d.jpg",
+          "altText": "Nineteenth-century colour poster for Verdi's opera Il trovatore by Luigi Morgari",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Il_trovatore_by_Luigi_Morgari_-_Original.jpg",
+          "creator": "Luigi Morgari",
+          "attribution": "Luigi Morgari, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "edgar-allan-poe-born-1809",
@@ -11287,7 +11563,19 @@
           "url": "https://www.britannica.com/on-this-day/January-20"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/obama-inaugurated-2009/c194cbb876f683923318a41c0ed0426b1990a0019e00ea27f18e770cb3bc8db2.jpg",
+          "altText": "Barack Obama taking the presidential oath of office at the US Capitol on January 20, 2009",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:US_President_Barack_Obama_taking_his_Oath_of_Office_-_2009Jan20.jpg",
+          "creator": "Master Sgt. Cecilio Ricardo, U.S. Air Force",
+          "attribution": "Master Sgt. Cecilio Ricardo, U.S. Air Force, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "iran-hostage-crisis-ends-1981",
@@ -11377,7 +11665,19 @@
           "url": "https://www.britannica.com/on-this-day/January-21"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/concorde-begins-service-1976/b23f0c72940230540ba28d4fb5b7ae49d4f8ebd4827b1c71fc52ba6082ebb9a4.jpg",
+          "altText": "A Concorde airliner on display at the Farnborough Airshow in 1976",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concorde_at_the_1976_Farnborough_Airshow_-_geograph.org.uk_-_2594818.jpg",
+          "creator": "Peter Shimmon",
+          "attribution": "Peter Shimmon, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "louis-xvi-executed-1793",
@@ -11467,7 +11767,19 @@
           "url": "https://www.britannica.com/on-this-day/January-22"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/queen-victoria-dies-1901/f16bfd48364ed05b1511cee9ec638da2f46225a675f77f902ab827e4c09dd21d.jpg",
+          "altText": "Portrait photograph of Queen Victoria by Alexander Bassano",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano_(cropped).jpg",
+          "creator": "Alexander Bassano",
+          "attribution": "Alexander Bassano, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "bloody-sunday-st-petersburg-1905",
@@ -11557,7 +11869,19 @@
           "url": "https://www.britannica.com/on-this-day/January-23"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/elizabeth-blackwell-md-1849/8a4d29237e04a0c811d258baa6318b2df21f148c22652e121a4a7c83eb1e3074.jpg",
+          "altText": "1974 US postage stamp honouring Elizabeth Blackwell, the first woman to earn a medical degree in the United States",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elizabeth_Blackwell,_18c_stamp.jpg",
+          "creator": "U.S. Printing Office",
+          "attribution": "U.S. Printing Office, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "shaanxi-earthquake-1556",
@@ -11633,7 +11957,19 @@
           "url": "https://www.britannica.com/topic/California-Gold-Rush"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gold-discovered-california-1848/a011185881ff0d2089497b63d2c528383d24df40b380fbfbe241ec37a6f0bf5d.jpg",
+          "altText": "Daguerreotype of Sutter's Mill at Coloma, California, where gold was found in 1848",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sutters_Mill.jpg",
+          "creator": "R. H. Vance",
+          "attribution": "R. H. Vance, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "apple-introduces-macintosh-1984",
@@ -11705,7 +12041,19 @@
           "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-winter-olympics-open-1924/484fbd0ed7f9680dd392fdc3ac08f9ba628b68dd62e5b6dd3c44f8c5553f2139.jpg",
+          "altText": "Official poster for the 1924 Winter Olympic Games at Chamonix, with snowy mountains and a skier",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:1924WOlympicPoster.jpg",
+          "creator": "Auguste Matisse",
+          "attribution": "Auguste Matisse, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "sao-paulo-founded-1554",
@@ -11795,7 +12143,19 @@
           "url": "https://www.britannica.com/on-this-day/January-26"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cullinan-diamond-found-1905/56706354763e8f09f42bf0d6aa207ddd952f63cdbdbb95823fcf4810511537c5.jpg",
+          "altText": "The rough Cullinan diamond before it was cut",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rough_cullinan_diamond.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "india-becomes-republic-1950",
@@ -11889,7 +12249,19 @@
           "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mozart-born-1756/da82d4be9ae29d85c8b6d562e5e32c1043e6706db675622c263fa8ddf7505418.jpg",
+          "altText": "Barbara Krafft's 1819 portrait of Wolfgang Amadeus Mozart",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barbara_Krafft_-_Portr%C3%A4t_Wolfgang_Amadeus_Mozart_(1819).jpg",
+          "creator": "Barbara Krafft",
+          "attribution": "Barbara Krafft, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "auschwitz-liberated-1945",
@@ -11979,7 +12351,19 @@
           "url": "https://www.britannica.com/on-this-day/January-28"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/lego-brick-patent-1958/548ebf3137a41bf1d483e6f4010af9f1a3077e47530311ff929f0e20acdbc651.jpg",
+          "altText": "A single black two-by-four LEGO brick",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lego_2x4_brick.jpg",
+          "creator": "Ziongarage",
+          "attribution": "Ziongarage, via Wikimedia Commons (CC0 1.0)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "challenger-disaster-1986",
@@ -12069,7 +12453,19 @@
           "url": "https://www.britannica.com/on-this-day/January-29"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/benz-patents-automobile-1886/c771476bffbb7aa740baf9845a75eb77fcdbbe0e30b04a8155fd61baf65fcd34.jpg",
+          "altText": "Karl Benz's three-wheeled Patent-Motorwagen of 1886",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patent-Motorwagen_Nr.1_Benz_2.jpg",
+          "creator": "DaimlerChrysler AG",
+          "attribution": "DaimlerChrysler AG, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "the-raven-published-1845",
@@ -12235,7 +12631,19 @@
           "url": "https://www.britannica.com/on-this-day/January-31"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/uk-leaves-european-union-2020/7290bed8a0a663e15e1b2096a611ea86cf7fa41b020fc2e63e4b73548ba2159e.jpg",
+          "altText": "Crowds gathered in Parliament Square, London, on the evening the United Kingdom left the European Union",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brexit_crowds_in_Parliament_Square.jpg",
+          "creator": "Andrew Davidson",
+          "attribution": "Andrew Davidson, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "franz-schubert-born-1797",
@@ -12329,7 +12737,19 @@
           "url": "https://www.britannica.com/on-this-day/February-1"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/greensboro-sit-in-begins-1960/abfd034737f70eb0d31ca43cf8588b8d226f61914bb7dbc5bc1b51faf454f196.jpg",
+          "altText": "A section of the Woolworth's lunch counter where the 1960 Greensboro sit-in began, now in a museum",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greensboro_sit-in_lunch_counter.jpg",
+          "creator": "RadioFan (talk)",
+          "attribution": "RadioFan (talk), via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "la-boheme-premieres-1896",
@@ -12423,7 +12843,19 @@
           "url": "https://www.britannica.com/on-this-day/February-2"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-punxsutawney-groundhog-day-1887/c567fcae92784ae1b1259bdc5538a4038f52e3077a1f7c1a6775e87e48387508.jpg",
+          "altText": "Punxsutawney Phil the groundhog held up on Groundhog Day, 2018",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Punxsutawney_Phil_2018_(cropped).jpg",
+          "creator": "Chris Flook",
+          "attribution": "Chris Flook, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "treaty-of-guadalupe-hidalgo-1848",
@@ -12521,7 +12953,19 @@
           "url": "https://www.britannica.com/on-this-day/February-3"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/eileen-collins-first-woman-shuttle-pilot-1995/23e4d9f958da2c6504f42e75b24862ec1f02f7bd61ac1a2cb92e4eed0883487d.jpg",
+          "altText": "Eileen Collins at the pilot's station of the space shuttle Discovery, February 1995",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Astronaut_Eileen_Collins_at_the_Pilot%27s_Station_on_Shuttle_Discovery.jpg",
+          "creator": "NASA astronaut",
+          "attribution": "NASA astronaut, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "fifteenth-amendment-ratified-1870",
@@ -12701,7 +13145,19 @@
           "url": "https://www.britannica.com/on-this-day/February-5"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mexican-constitution-adopted-1917/6a5a0ecb7caa6d945fc03735734f795cb9cd94dd5a09ebb9059e72cdaf97109f.jpg",
+          "altText": "Portrait photograph of Venustiano Carranza, who convened the congress that adopted Mexico's 1917 constitution",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Venustiano_Carranza_(cropped).jpg",
+          "creator": "Harris & Ewing",
+          "attribution": "Harris & Ewing, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-hay-pauncefote-treaty-1900",
@@ -12799,7 +13255,19 @@
           "url": "https://www.britannica.com/on-this-day/February-6"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/treaty-of-waitangi-signed-1840/19a440789ad7ce8db5a7abf305cff244346ddab2ce723bc3a2ff4a781c0201e1.jpg",
+          "altText": "The Waitangi Sheet of the Treaty of Waitangi, written in Maori and signed in 1840",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waitangi_Sheet,_Te_Tiriti_o_Waitangi_(15858996150).jpg",
+          "creator": "Archives New Zealand",
+          "attribution": "Archives New Zealand, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "elizabeth-ii-accession-1952",
@@ -12889,7 +13357,19 @@
           "url": "https://www.britannica.com/on-this-day/February-7"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/beatles-land-in-new-york-1964/b8a894d1a165028aa508ff55409894d714a36a6f09699f73893930bfb78b50f3.jpg",
+          "altText": "The Beatles waving to fans after arriving at New York's airport on February 7, 1964",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_arrive_at_JFK_Airport_(cropped)_(b).jpg",
+          "creator": "United Press International, photographer unknown",
+          "attribution": "United Press International, photographer unknown, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "chaplin-little-tramp-debut-1914",
@@ -12983,7 +13463,19 @@
           "url": "https://www.britannica.com/biography/Jules-Verne"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/jules-verne-born-1828/3eb996c7254ad9c0e1f270ff512e281f7a7784e924fc5289828a767d710f2191.jpg",
+          "altText": "Portrait photograph of Jules Verne by Nadar, around 1878",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:F%C3%A9lix_Nadar_1820-1910_portraits_Jules_Verne_(restoration).jpg",
+          "creator": "Nadar",
+          "attribution": "Nadar, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "skylab-4-splashdown-1974",
@@ -13171,7 +13663,19 @@
           "url": "https://www.britannica.com/event/U-2-Incident"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/powers-abel-spy-exchange-1962/2fe28bfc08935b364c6cb4ee0e1f0b8a2944f342cff2537e455f37d25423b0a9.jpg",
+          "altText": "The U-2 pilot Francis Gary Powers in 1966",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:KellyJohnsonandGaryPowers_(crop).jpg",
+          "creator": "U.S. Air Force photo",
+          "attribution": "U.S. Air Force photo, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "treaty-of-paris-1763",
@@ -13351,7 +13855,19 @@
           "url": "https://www.britannica.com/on-this-day/February-12"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/charles-darwin-born-1809/fa0936df114ee59c4bc1ecdfb56048f73f4d2ea4a3898f503040e0bb06a61799.jpg",
+          "altText": "Portrait photograph of Charles Darwin, 1855",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Darwin_by_Maull_and_Polyblank,_1855-1.jpg",
+          "creator": "Maull and Polyblank",
+          "attribution": "Maull and Polyblank, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "abraham-lincoln-born-1809",
@@ -13521,7 +14037,19 @@
           "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/eniac-announced-1946/8e91805afa0f2bb3172eb8d7964c40f34291b653cc6eae5abf9c5b293e6dff5b.jpg",
+          "altText": "Glen Beck and Betty Snyder programming the room-sized ENIAC computer",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glen_Beck_and_Betty_Snyder_program_the_ENIAC_in_building_328_at_the_Ballistic_Research_Laboratory.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "james-cook-killed-1779",
@@ -13611,7 +14139,19 @@
           "url": "https://www.britannica.com/on-this-day/February-15"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/canada-adopts-maple-leaf-flag-1965/6589453d6b54f5279c37b2d5c32dbca7cb7616c5df95dd0ee64d831f251dd8b7.jpg",
+          "altText": "The Maple Leaf Flag flying above the Peace Tower on Parliament Hill in Ottawa",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Peace_Tower_and_flag_-_2003_(DSC00595).jpg",
+          "creator": "Sikander Iqbal",
+          "attribution": "Sikander Iqbal, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "uss-maine-sinks-1898",
@@ -13795,7 +14335,19 @@
           "url": "https://www.britannica.com/on-this-day/February-17"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/kasparov-defeats-deep-blue-1996/b6dae9f912163fb44582d983c786ea0880b1c2e581a379845b70e9c055d2a872.jpg",
+          "altText": "An IBM computer cabinet like the Deep Blue machine that played Garry Kasparov",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Deep_Blue.jpg",
+          "creator": "James the photographer",
+          "attribution": "James the photographer, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "kosovo-declares-independence-2008",
@@ -13885,7 +14437,19 @@
           "url": "https://www.britannica.com/on-this-day/February-18"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/pluto-discovered-1930/024509d4e507221e957833cef94272169b071a342da70d65cd5e7c5d86771aae.jpg",
+          "altText": "Clyde Tombaugh standing beside his homemade telescope, around 1930",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clyde_W._Tombaugh.jpeg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "martin-luther-dies-1546",
@@ -13979,7 +14543,19 @@
           "url": "https://www.britannica.com/biography/Nicolaus-Copernicus"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nicolaus-copernicus-born-1473/a9b14a2368caca1338f190637f287b5f43d0631b1316dfcaaf8579929128c0f2.jpg",
+          "altText": "Sixteenth-century portrait of Nicolaus Copernicus from the town hall in Torun",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nikolaus_Kopernikus_MOT.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "edison-patents-phonograph-1878",
@@ -14069,7 +14645,19 @@
           "url": "https://www.britannica.com/on-this-day/February-20"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/john-glenn-orbits-earth-1962/ea714c80eae8e63b5d40292f8999b7fb35143e68ef8ba7d1633818afe27d0859.jpg",
+          "altText": "The Atlas rocket carrying John Glenn in Friendship 7 lifting off, February 20, 1962",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Friendship_7_launch_with_John_Glenn_aboard.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "paricutin-begins-erupting-1943",
@@ -14159,7 +14747,19 @@
           "url": "https://www.britannica.com/on-this-day/February-21"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nixon-visits-china-1972/1ea7886dc81c6474d68504ef9bf6ace8ff65f78578a6fe39120ad3bd7558efd1.jpg",
+          "altText": "Richard and Pat Nixon stepping off Air Force One in Beijing on February 21, 1972",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nixons_exit_AFO_in_China_1972.jpg",
+          "creator": "Ollie Atkins, White House Photographer",
+          "attribution": "Ollie Atkins, White House Photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battle-of-verdun-begins-1916",
@@ -14351,7 +14951,19 @@
           "url": "https://www.britannica.com/on-this-day/February-23"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/iwo-jima-flag-raising-1945/a505d45e4736e966319aeb4d829bf89ae90abbb31126a8d4ea0d595b5d1efe2a.jpg",
+          "altText": "Joe Rosenthal's photograph of six US servicemen raising the flag on Mount Suribachi, Iwo Jima",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Raising_the_Flag_on_Iwo_Jima,_larger_-_edit1.jpg",
+          "creator": "Joe Rosenthal",
+          "attribution": "Joe Rosenthal, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "siege-of-the-alamo-begins-1836",
@@ -14449,7 +15061,19 @@
           "url": "https://www.britannica.com/on-this-day/February-24"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gregorian-calendar-papal-bull-1582/e7e7b0d1935e8c8fa0d8a5d22c868a9257b961ff7908ce78cd1d8014410f278a.jpg",
+          "altText": "Portrait of Pope Gregory XIII by Scipione Pulzone",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Pope_Gregory_XIII,_bust-length_(by_Scipione_Pulzone).jpg",
+          "creator": "Scipione Pulzone",
+          "attribution": "Scipione Pulzone, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "marbury-v-madison-1803",
@@ -14539,7 +15163,19 @@
           "url": "https://www.britannica.com/on-this-day/February-25"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cassius-clay-defeats-liston-1964/7b0b8d28dea41d833e169dbd59b32213d1733fb342003c81adad4ddfb02367c6.jpg",
+          "altText": "Cassius Clay throwing a right at Sonny Liston during their title fight on February 25, 1964",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_vs._Sonny_Liston_I_AP.jpg",
+          "creator": "Associated Press",
+          "attribution": "Associated Press, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "khrushchev-secret-speech-1956",
@@ -14629,7 +15265,19 @@
           "url": "https://www.britannica.com/on-this-day/February-26"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/napoleon-escapes-elba-1815/11ebef7126edf340cd9a288842886fdef3b2e13e1967f21c95d8f1f1230d018b.jpg",
+          "altText": "Joseph Beaume painting of Napoleon leaving the island of Elba in 1815",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beaume_-_Napol%C3%A9on_Ier_quittant_l%27%C3%AEle_d%27Elbe_-_1836.jpg",
+          "creator": "Joseph Beaume",
+          "attribution": "Joseph Beaume, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "victor-hugo-born-1802",
@@ -14719,7 +15367,19 @@
           "url": "https://www.britannica.com/on-this-day/February-27"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/reichstag-fire-1933/94f85aaf00b71ed6fd989ce3fe14e0eafa2d99b8756c27de66bdd4701fbbc550.jpg",
+          "altText": "Firefighters at the burning Reichstag building in Berlin on February 27, 1933",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reichstagsbrand.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "chile-earthquake-2010",
@@ -14893,7 +15553,19 @@
           "url": "https://www.britannica.com/on-this-day/February-29"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/hattie-mcdaniel-wins-oscar-1940/b6bd72feb1e74930f59370a274035e034f7e07d06178afb23dfd5839697981ce.jpg",
+          "altText": "Studio publicity photograph of the actress Hattie McDaniel",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Studio_publicity_Hattie_McDaniel.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "gioachino-rossini-born-1792",
