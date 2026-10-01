@@ -15663,7 +15663,19 @@
           "url": "https://www.britannica.com/place/Yellowstone-National-Park"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/yellowstone-established-1872/a60ceb7e326007d62e191e5d07f37564bb1a2b91f173c3099cea9a4c8dd8dce9.jpg",
+          "altText": "Thomas Moran's 1872 painting of the Grand Canyon of the Yellowstone",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thomas_Moran_-_Grand_Canyon_of_the_Yellowstone.jpg",
+          "creator": "Thomas Moran",
+          "attribution": "Thomas Moran, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "march-first-movement-1919",
@@ -15757,7 +15769,19 @@
           "url": "https://www.britannica.com/technology/Concorde"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/concorde-first-flight-1969/793973211982d19c3760490405a0373e30b098425f407718fb2d373125d062ad.jpg",
+          "altText": "Concorde 001, the prototype that made the first Concorde flight in 1969, at the Paris Air and Space Museum",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Concorde_001_F-WTSS_(11735520035).jpg",
+          "creator": "Clemens Vasters from Viersen, Germany, Germany",
+          "attribution": "Clemens Vasters from Viersen, Germany, Germany, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "wilt-chamberlain-scores-100-1962",
@@ -15847,7 +15871,19 @@
           "url": "https://www.britannica.com/on-this-day/March-3"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/russia-emancipates-serfs-1861/408e9e3a9fa58160db51f711574e2a555399bfa10458802f38b9d67e1a8b7b8e.jpg",
+          "altText": "Portrait of Emperor Alexander II of Russia",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_II_of_Russia_(Nikolay_Lavrov_01).jpg",
+          "creator": "Nikolay Lavrov",
+          "attribution": "Nikolay Lavrov, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "star-spangled-banner-anthem-1931",
@@ -15937,7 +15973,19 @@
           "url": "https://www.britannica.com/on-this-day/March-4"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/fdr-first-inauguration-1933/8a2cfd70fce88207531af4175155eb8bab21097427568ebe0615c8bdc49dfd8f.jpg",
+          "altText": "Franklin D. Roosevelt and Herbert Hoover riding to the US Capitol for the inauguration on March 4, 1933",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Franklin_D._Roosevelt_and_Herbert_Hoover_on_the_way_to_U.S._Capitol_for_Roosevelt%27s_inauguration,_March_4,_1933.jpg",
+          "creator": "Architect of the Capitol",
+          "attribution": "Architect of the Capitol, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "us-constitution-takes-effect-1789",
@@ -16121,7 +16169,19 @@
           "url": "https://www.britannica.com/on-this-day/March-6"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/ghana-becomes-independent-1957/7635a5612e763f3e743b401144104e1878e8e4b2031a66a1582b66f4e4723789.jpg",
+          "altText": "Portrait photograph of Kwame Nkrumah, who led Ghana to independence",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kwame_Nkrumah_Portrait,_The_National_Archives_UK.jpg",
+          "creator": "The National Archives UK",
+          "attribution": "The National Archives UK, via Wikimedia Commons (OGL v1.0)",
+          "license": "OGL v1.0",
+          "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "michelangelo-born-1475",
@@ -16219,7 +16279,19 @@
           "url": "https://www.britannica.com/on-this-day/March-7"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/bell-telephone-patent-1876/4136753c8fa50f96ad68a1ace0f08ab29ebcee872d6e4d95f523c48b3f5d4608.jpg",
+          "altText": "Drawing from Alexander Graham Bell's 1876 telephone patent application",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alexander_Graham_Bell%27s_Telephone_Patent_Drawing_and_Oath_-_NARA_-_302052_(page_2).jpg",
+          "creator": "Alexander Graham Bell",
+          "attribution": "Alexander Graham Bell, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "selma-bloody-sunday-1965",
@@ -16313,7 +16385,19 @@
           "url": "https://www.britannica.com/on-this-day/March-8"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/frazier-defeats-ali-1971/21072fdd161bcd2310029dc639614e251e128390d6c50eb8eba9907579f07ebc.jpg",
+          "altText": "Muhammad Ali leaning away from a punch by Joe Frazier during their fight on March 8, 1971",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muhammad_Ali_avoids_punch_from_Joe_Frazier_(Lighter_scan).jpg",
+          "creator": "United Press International",
+          "attribution": "United Press International, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "february-revolution-begins-1917",
@@ -16517,7 +16601,19 @@
           "url": "https://www.britannica.com/biography/Alexander-Graham-Bell"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/bell-first-telephone-speech-1876/11008afb5e6e15d753b9151635071ccddd1e03694fa84da552ce40b0678b0c40.jpg",
+          "altText": "Illustration of the liquid transmitter Bell used for his first intelligible telephone call in 1876",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bell_liquid_telephone_transmitter_1876.png",
+          "creator": "Floyd L. Darrow",
+          "attribution": "Floyd L. Darrow, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "park-geun-hye-removed-2017",
@@ -16611,7 +16707,19 @@
           "url": "https://www.britannica.com/biography/Lorraine-Hansberry"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/a-raisin-in-the-sun-opens-1959/ac0f9d95c586152314deb8ea12901c156821c82285c7ed911f5daf7706656157.jpg",
+          "altText": "The playwright Lorraine Hansberry speaking to an audience, around 1959",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lorraine_Hansberry_speaking_to_an_audience.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "japan-earthquake-and-tsunami-2011",
@@ -16705,7 +16813,19 @@
           "url": "https://www.britannica.com/event/Salt-March"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gandhi-salt-march-begins-1930/c68c62f2871e4bf9132b240aed3f9509ff10f5365863dd6809e62e79031804e4.jpg",
+          "altText": "Gandhi leading marchers on the Salt March, March 1930",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marche_sel.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-american-girl-guides-troop-1912",
@@ -16803,7 +16923,19 @@
           "url": "https://www.britannica.com/place/Uranus-planet"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/herschel-discovers-uranus-1781/2e6278831f86dd6e3eed48ef1df5dd6f588a3d6811b32c2044061e01f510d3a7.jpg",
+          "altText": "Lemuel Francis Abbott's 1785 portrait of the astronomer William Herschel",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Herschel01.jpg",
+          "creator": "Lemuel Francis Abbott",
+          "attribution": "Lemuel Francis Abbott, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "pope-francis-elected-2013",
@@ -16893,7 +17025,19 @@
           "url": "https://www.britannica.com/on-this-day/March-14"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/albert-einstein-born-1879/5ccfe5e9e9dbca7a26744993c1e5f3fd6ecc79234245ef69b1d347b2d1104dbc.jpg",
+          "altText": "Albert Einstein at his desk in the Swiss patent office in Bern, around 1904",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_patentoffice_full.jpg",
+          "creator": "Lucien Chavan",
+          "attribution": "Lucien Chavan, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cotton-gin-patent-1794",
@@ -16983,7 +17127,19 @@
           "url": "https://www.britannica.com/on-this-day/March-15"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/julius-caesar-assassinated-44bce/094202488629094eaea5865bf6bcabf42947cc703e38123d090c79e464fc2110.jpg",
+          "altText": "Jean-Leon Gerome painting of the conspirators leaving Julius Caesar's body in the Senate",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jean-L%C3%A9on_G%C3%A9r%C3%B4me_-_The_Death_of_Caesar_-_Walters_37884.jpg",
+          "creator": "Jean-Léon Gérôme",
+          "attribution": "Jean-Léon Gérôme, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "nicholas-ii-abdicates-1917",
@@ -17077,7 +17233,19 @@
           "url": "https://www.britannica.com/biography/Robert-Goddard"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/goddard-liquid-fuel-rocket-1926/232c98e0fe4c3c8758ad4ec844810432e6b66b5fc45f0819b3a7a824c2044dcf.jpg",
+          "altText": "Robert Goddard standing beside his liquid-fueled rocket in its launch frame at Auburn, Massachusetts, 1926",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Robert_H_Goddard_and_a_liquid_oxygen-gasoline_rocket_in_the_frame_from_which_it_was_fired_on_March_16,_1926.jpg",
+          "creator": "Esther Goddard",
+          "attribution": "Esther Goddard, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "west-point-founded-1802",
@@ -17171,7 +17339,19 @@
           "url": "https://www.britannica.com/on-this-day/March-17"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/kingdom-of-italy-proclaimed-1861/f46fe3bb0b70c0c61d646714632869d74a25842ec9783c92f60fe61954261e0f.jpg",
+          "altText": "Portrait photograph of Victor Emmanuel II, first king of united Italy, around 1861",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:VictorEmmanuel2_(3).jpg",
+          "creator": "Eugène Disdéri",
+          "attribution": "Eugène Disdéri, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "british-evacuate-boston-1776",
@@ -17261,7 +17441,19 @@
           "url": "https://www.britannica.com/on-this-day/March-18"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/leonov-first-spacewalk-1965/a2f83ded5d13552c2503556f8ac2d57324f974481c24b75780716ca3d52c73b3.jpg",
+          "altText": "1965 Soviet postage stamp showing Aleksei Leonov floating outside Voskhod 2 on the first spacewalk",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soviet_Union-1965-Stamp-0.10._Voskhod-2._First_Spacewalk.jpg",
+          "creator": "Post of the Soviet Union",
+          "attribution": "Post of the Soviet Union, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "pascal-paris-carriage-service-1662",
@@ -17355,7 +17547,19 @@
           "url": "https://www.britannica.com/topic/Sagrada-Familia"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/sagrada-familia-cornerstone-1882/cc87bbb8a250974f18a3dd480bf961fd839fc103fd4ed4f143efe69b6fa671d7.jpg",
+          "altText": "The Sagrada Familia under construction in Barcelona, photographed in 1905",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baldomer_Gili_Roig._La_Sagrada_Fam%C3%ADlia,_1905_Copia_moderna_del_negatiu_original_de_vidre.jpg",
+          "creator": "Baldomer Gili i Roig",
+          "attribution": "Baldomer Gili i Roig, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "standard-time-act-signed-1918",
@@ -17445,7 +17649,19 @@
           "url": "https://www.britannica.com/on-this-day/March-20"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/uncle-toms-cabin-published-1852/565b3da5659a9f1ec79a482ef20b138a14557d8982891f7b3269bdf03e6fd0ef.jpg",
+          "altText": "Cover of an 1852 edition of Uncle Tom's Cabin by Harriet Beecher Stowe",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uncle_Tom%27s_Cabin,_-_Cover.jpg",
+          "creator": "Harriet Beecher Stowe",
+          "attribution": "Harriet Beecher Stowe, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "tokyo-subway-sarin-attack-1995",
@@ -17535,7 +17751,19 @@
           "url": "https://www.britannica.com/on-this-day/March-21"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/alcatraz-closes-1963/e9791cd2e77dc4c9ddb36024c84eb7efc220ec0ef5e09f749c93974a34f036ae.jpg",
+          "altText": "Alcatraz Island and its former prison buildings in San Francisco Bay",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alcatraz_Island_as_seen_from_the_East.jpg",
+          "creator": "Frank Schulenburg",
+          "attribution": "Frank Schulenburg, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-public-tweet-2006",
@@ -17715,7 +17943,19 @@
           "url": "https://www.britannica.com/on-this-day/March-23"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/patrick-henry-liberty-or-death-1775/60bae5aeb1a34581943fdc103d71efc2749d6228e55338eacaa8eb872a7df524.jpg",
+          "altText": "Portrait of Patrick Henry, after Thomas Sully",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Patrick_henry.JPG",
+          "creator": "George Bagby Matthews, after Thomas Sully",
+          "attribution": "George Bagby Matthews, after Thomas Sully, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "enabling-act-passed-1933",
@@ -17813,7 +18053,19 @@
           "url": "https://www.britannica.com/biography/Robert-Koch"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/koch-announces-tuberculosis-bacterium-1882/aa6872a4405a92b573472778fc392681c2b6d14914fcf2df43fde80c44417531.jpg",
+          "altText": "Portrait of the bacteriologist Robert Koch",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_of_Robert_Herman_Koch_(1843_-_1910)_Wellcome_M0000111.jpg",
+          "creator": "Wellcome Collection",
+          "attribution": "Wellcome Collection, via Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "exxon-valdez-oil-spill-1989",
@@ -17993,7 +18245,19 @@
           "url": "https://www.britannica.com/on-this-day/March-26"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/egypt-israel-peace-treaty-1979/cca485a47abe06224b2aa580dab3e4e4ba69081f16b9155b84be685eca03a8b8.jpg",
+          "altText": "Anwar Sadat, Jimmy Carter and Menachem Begin clasping hands at the treaty signing on March 26, 1979",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sadat_Carter_Begin_handshake_(cropped)_-_USNWR.jpg",
+          "creator": "Warren K. Leffler",
+          "attribution": "Warren K. Leffler, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "beethoven-dies-1827",
@@ -18087,7 +18351,19 @@
           "url": "https://www.britannica.com/on-this-day/March-27"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/great-alaska-earthquake-1964/47e17ab4c282cf04dedc18da18359fbdbcd7fdb048aabd950e23eb7d6cdefcd7.jpg",
+          "altText": "Collapsed buildings and a sunken street on Fourth Avenue in Anchorage after the 1964 earthquake",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Earthquake_damage,_4-64._Anchorage_-_Fourth_Ave._Graben._See_photos_527,882,301A,_621_(looking_east)_(24822219172)_(cropped).jpg",
+          "creator": "The U.S. National Archives",
+          "attribution": "The U.S. National Archives, via Wikimedia Commons (No known copyright restrictions)",
+          "license": "No known copyright restrictions",
+          "licenseUrl": "https://www.flickr.com/commons/usage/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "khrushchev-becomes-premier-1958",
@@ -18181,7 +18457,19 @@
           "url": "https://www.britannica.com/event/Three-Mile-Island-accident"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/three-mile-island-accident-1979/cabb444e544e0a1a4fb590b8d048df4c09e131d82aebc3e0a2cdc5ac529ce816.jpg",
+          "altText": "Crowds and cars near the Three Mile Island plant's cooling towers during President Carter's visit on April 1, 1979",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Carter_leaves_Three_Mile_Island_-_April_1,_1979_(14492226660).jpg",
+          "creator": "US Nuclear Regulatory Commission",
+          "attribution": "US Nuclear Regulatory Commission, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "virginia-woolf-dies-1941",
@@ -18271,7 +18559,19 @@
           "url": "https://www.britannica.com/on-this-day/March-29"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/terra-cotta-army-found-1974/1113832e042c53d84a4b4ac9fdddb70c29697aac29de7cfca44bf8c459112a96.jpg",
+          "altText": "A terra-cotta warrior among the figures in Pit 1 of Qin Shi Huang's tomb near Xi'an",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_Terracotta_Army,_Pit_1_01.jpg",
+          "creator": "Gary Lee Todd, Ph.D.",
+          "attribution": "Gary Lee Todd, Ph.D., via Wikimedia Commons (CC0 1.0)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "olbers-discovers-vesta-1807",
@@ -18361,7 +18661,19 @@
           "url": "https://www.britannica.com/on-this-day/March-30"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/alaska-purchase-treaty-signed-1867/a43323728d68a46f29cdf2f18b55e355c5d4d55d3b61bddd3fc4fca2844d529e.jpg",
+          "altText": "The $7.2 million Treasury warrant the United States used to pay Russia for Alaska",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alaska_Purchase_(hi-res).jpg",
+          "creator": "United States Treasury",
+          "attribution": "United States Treasury, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "reagan-shot-1981",
@@ -18455,7 +18767,19 @@
           "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/eiffel-tower-inaugurated-1889/4d31fc4ec3e9bf3b771ae930d47b9d2e562d3ba136e526f21a90b83de5457e90.jpg",
+          "altText": "The new Eiffel Tower above the grounds of the 1889 Exposition Universelle in Paris",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eiffel_tower_at_Exposition_Universelle,_Paris,_1889.jpg",
+          "creator": "Neurdein",
+          "attribution": "Neurdein, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "treaty-of-kanagawa-1854",
@@ -18733,7 +19057,19 @@
           "url": "https://www.britannica.com/topic/Pony-Express"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/pony-express-begins-1860/bc646dd93a59fa8042fde1ea914eb1409328b13369a0e5bdccd7fb3ce88a03c2.jpg",
+          "altText": "Pony Express rider Frank E. Webner on horseback, around 1861",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Frank_E._Webner,_pony_express_rider,%22_ca._1861_-_NARA_-_513351.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-handheld-mobile-call-1973",
@@ -18823,7 +19159,19 @@
           "url": "https://www.britannica.com/on-this-day/April-4"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/martin-luther-king-jr-assassinated-1968/fd70b6a0bc10805f1cd40af43f530b346ef3b3bf326c56ab16bcd9c6c316f91f.jpg",
+          "altText": "Martin Luther King, Jr., at the March on Washington, August 28, 1963",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._Martin_Luther_King_Jr._at_a_civil_rights_march_on_Washington_D.C._in_1963.jpg",
+          "creator": "Rowland Scherman",
+          "attribution": "Rowland Scherman, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "north-atlantic-treaty-signed-1949",
@@ -18913,7 +19261,19 @@
           "url": "https://www.britannica.com/on-this-day/April-5"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/washington-first-veto-1792/119b2407a8bee038ce408e1cd951d6b891503e9f8386043e8499e59e3404d741.jpg",
+          "altText": "Gilbert Stuart's unfinished Athenaeum portrait of George Washington",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_-_George_Washington_(The_Athenaeum_Portrait)_-_Google_Art_Project.jpg",
+          "creator": "Gilbert Stuart",
+          "attribution": "Gilbert Stuart, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battle-of-maipu-1818",
@@ -19007,7 +19367,19 @@
           "url": "https://www.britannica.com/event/Athens-1896-Olympic-Games"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-modern-olympics-open-1896/3898acd0f2837f93ee22185d1304e4c8e36c63ac535f659c4bdf6505141b60ab.jpg",
+          "altText": "Crowds filling the Panathenaic Stadium in Athens on the first day of the 1896 Olympic Games",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Panathenaic_Stadium_1896_oppening.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "abba-wins-eurovision-1974",
@@ -19101,7 +19473,19 @@
           "url": "https://www.britannica.com/topic/World-Health-Organization"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/world-health-organization-established-1948/35c23be759309edabbb4afb7b18e080956bdcb123dec1fab3b8f9fc3a716981a.jpg",
+          "altText": "The World Health Organization's headquarters building in Geneva",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:World_Health_Organisation_headquarters,_Geneva,_north_and_west_sides_2007.jpg",
+          "creator": "Yann Forget",
+          "attribution": "Yann Forget, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "rwanda-genocide-begins-1994",
@@ -19289,7 +19673,19 @@
           "url": "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/lee-surrenders-at-appomattox-1865/f341661dbdc1dd2039d62fd02dbda11e2fb5e8c3e76932b33d6e046ad8113ab8.jpg",
+          "altText": "Thomas Nast's painting of Robert E. Lee surrendering to Ulysses S. Grant at Appomattox Court House",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_Robert_E._Lee_surrenders_at_Appomattox_Court_House_1865_(cropped).jpg",
+          "creator": "Thomas Nast",
+          "attribution": "Thomas Nast, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "marian-anderson-lincoln-memorial-1939",
@@ -19477,7 +19873,19 @@
           "url": "https://www.nasa.gov/mission/apollo-13/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/apollo-13-launched-1970/c9dba753a3c689ed2ce8cf0ef861ca382dc5761822b732fd426ed795d911c4c6.jpg",
+          "altText": "The Saturn V rocket carrying Apollo 13 lifting off on April 11, 1970",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_13_launch_(S70-34852).jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "truman-relieves-macarthur-1951",
@@ -19571,7 +19979,19 @@
           "url": "https://www.britannica.com/biography/Yuri-Gagarin"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gagarin-first-human-in-space-1961/c10f51d0b8fc0db9257b21213c29858734e2efcc159a1e62f18ae8f6dde063d7.jpg",
+          "altText": "Portrait photograph of the cosmonaut Yuri Gagarin in 1961",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuri_Gagarin_(1961)_-_Restoration.jpg",
+          "creator": "Arto Jousi",
+          "attribution": "Arto Jousi, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "fort-sumter-bombarded-1861",
