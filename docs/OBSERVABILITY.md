@@ -19,7 +19,9 @@ CloudWatch Logs.
 | Content gap | `today_content_unavailable`, `recent_days_unavailable`, `event_detail_unavailable` (WARN) | `reason`, plus `eventId` for event detail |
 | Quiz unavailable | `quiz_catalog_unavailable`, `quick_play_quiz_unavailable`, `daily_quiz_unavailable` (WARN) | `reason` |
 | Database failure | `db_query_failed` (ERROR) | `operation` and non-personal parameters such as a date or collection ID |
-| Notification batch | `daily_notification_send_complete` (INFO) | attempted count and success, permanent, transient, and configuration failure counts |
+| Scheduled notification run | `scheduled_notification_run_summary` (INFO), one line on **every** run including runs with nobody due | `dryRun`, `eligible`, `invalidTimezones`, `notDue`, `due`, `noContent`, `alreadyHandled`, `wouldSend`, `sent`, `permanentTokenFailures`, `retryableFailures`, `configurationFailures`, `deferred`, `pruned`, `durationMs` |
+| Notification date with no content | `scheduled_notification_no_content` (WARN) | `month`, `day`, `devices` |
+| Manual notification batch | `daily_notification_send_complete` (INFO) | attempted count and success, permanent, transient, and configuration failure counts |
 | Cold start | `lambda_handler_init_start` / `lambda_handler_init_end` (INFO) | `durationMs` |
 
 `route` is the registered route pattern, such as `/v1/devices/{token}` or
@@ -77,4 +79,5 @@ The project targets $0 infrastructure spend. When deployment is approved:
   queries, metric filters, and custom metrics can each add charges, so leave
   them out unless the owner approves a cost.
 - Decide on alarms separately, once it is clear they can run on free
-  allowances.
+  allowances. The notification function's one error alarm and the account
+  budget are described in `docs/NOTIFICATIONS.md`.

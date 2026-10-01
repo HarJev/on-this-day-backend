@@ -1,8 +1,5 @@
 package com.onthisday.notifications;
 
-import java.time.DateTimeException;
-import java.time.ZoneId;
-
 public final class DeviceRegistrationService {
 
   private final DeviceRegistrationRepository repository;
@@ -24,10 +21,8 @@ public final class DeviceRegistrationService {
   }
 
   private void validateTimezone(String timezone) {
-    try {
-      ZoneId.of(timezone);
-    } catch (DateTimeException exception) {
-      throw new InvalidDeviceRegistrationException("Invalid timezone.", exception);
+    if (!IanaTimezones.isValid(timezone)) {
+      throw new InvalidDeviceRegistrationException("Invalid timezone.");
     }
   }
 }

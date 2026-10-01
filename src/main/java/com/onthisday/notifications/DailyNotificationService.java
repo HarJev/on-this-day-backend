@@ -28,7 +28,13 @@ public final class DailyNotificationService {
   public NotificationPlan createPlan() {
     var registrations = deviceRegistrationRepository.findEligibleForNotifications();
     var tokensByTimezone = new LinkedHashMap<String, List<String>>();
+    var invalidTimezoneCount = 0;
     for (var registration : registrations) {
+      if (!IanaTimezones.isValid(registration.timezone())) {
+        // A bad stored row is skipped so it cannot stop everyone else's notification.
+        invalidTimezoneCount++;
+        continue;
+      }
       tokensByTimezone
           .computeIfAbsent(registration.timezone(), ignored -> new ArrayList<>())
           .add(registration.token());
@@ -46,9 +52,10 @@ public final class DailyNotificationService {
 
     var plan = new NotificationPlan(batches);
     LOG.info(
-        "daily_notification_plan_created recipientCount={} batchCount={}",
+        "daily_notification_plan_created recipientCount={} batchCount={} invalidTimezoneCount={}",
         plan.recipientCount(),
-        plan.batches().size());
+        plan.batches().size(),
+        invalidTimezoneCount);
     return plan;
   }
 

@@ -86,7 +86,7 @@ alone is not enough evidence to change a working stack.
   Preserve source, creator, attribution, and license metadata. The proposed
   on-device image cache needs no cloud resource. No image-proxy Lambda.
 - A notification Lambda and EventBridge schedule are separate from the HTTP
-  Lambda. They are **not yet implemented/deployed**. Decide whether scheduled
+  Lambda. They are implemented (`docs/NOTIFICATIONS.md`) but **not deployed**. Decide whether scheduled
   notifications are a release requirement before calling this a full launch.
 
 ## Database Connection And Security
@@ -377,6 +377,12 @@ passed merely because the app's disk cache works on later requests.
 current-date content, image, or native integration check remains pending.
 
 ### 6. DP6 - Scheduled Notifications (If In Release Scope)
+
+**Status 2026-10-01:** in release scope. Handler, delivery table, SSM key
+loader, tests and Terraform (`infra/prod/notifications.tf`, schedule disabled)
+are implemented; see `docs/NOTIFICATIONS.md` for the delivery rules and launch
+steps. The Firebase key uses a free Standard SSM SecureString rather than
+Secrets Manager.
 
 1. Implement and test the EventBridge-triggered notification handler separately
    from the API. Confirm timezone/date semantics, retry and duplicate-send

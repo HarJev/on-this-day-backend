@@ -50,3 +50,25 @@ plan provides; Terraform ignores `web_acl_id` so later applies keep it.
 
 Terraform state lives in the HCP Terraform workspace `on-this-day-prod`
 (see `infra/README.md`).
+
+## Scheduled Notifications
+
+`notifications.tf` and `alerts.tf` add the daily notification resources. With
+default variables they create nothing:
+
+- `firebase_credentials_version >= 1` creates only the free Standard-tier SSM
+  SecureString for the Firebase key, written through a write-only argument so
+  the key never enters state. Pass the key with
+  `TF_VAR_firebase_service_account_json` on that apply only.
+- `notifications_lambda_zip_path` deploys the function, its roles, log group,
+  error alarm, and a **disabled**, dry-run 15-minute schedule.
+- `alert_email` adds the email topic and the monthly budget.
+
+Offline checks with a mocked provider (no credentials, no state):
+
+```sh
+terraform -chdir=infra/prod init -backend=false
+terraform -chdir=infra/prod test
+```
+
+Launch order and cost notes: `docs/NOTIFICATIONS.md`.

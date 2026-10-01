@@ -103,6 +103,23 @@ data "aws_iam_policy_document" "deployer" {
     resources = ["arn:aws:secretsmanager:*:${local.account_id}:secret:${local.prefix}/*"]
   }
 
+  # SSM parameters under /on-this-day/ only (added by hand 2026-10 for the
+  # notification key; see docs/NOTIFICATIONS.md). infra/prod pins
+  # tier = "Standard"; the Advanced tier is billed per parameter.
+  statement {
+    sid       = "ProjectParameters"
+    effect    = "Allow"
+    actions   = ["ssm:PutParameter", "ssm:DeleteParameter", "ssm:GetParameter", "ssm:GetParameters", "ssm:AddTagsToResource", "ssm:RemoveTagsFromResource", "ssm:ListTagsForResource"]
+    resources = ["arn:aws:ssm:*:${local.account_id}:parameter/${local.prefix}/*"]
+  }
+
+  statement {
+    sid       = "DescribeParameters"
+    effect    = "Allow"
+    actions   = ["ssm:DescribeParameters"]
+    resources = ["*"]
+  }
+
   statement {
     sid       = "ProjectPolicies"
     effect    = "Allow"
@@ -221,6 +238,8 @@ data "aws_iam_policy_document" "workload_boundary" {
       "cloudwatch:PutMetricData",
       "xray:PutTraceSegments", "xray:PutTelemetryRecords",
       "secretsmanager:GetSecretValue",
+      "ssm:GetParameter",
+      "kms:Decrypt",
       "s3:GetObject", "s3:PutObject", "s3:ListBucket", "s3:AbortMultipartUpload",
       "lambda:InvokeFunction",
     ]
@@ -232,6 +251,27 @@ data "aws_iam_policy_document" "workload_boundary" {
     effect        = "Deny"
     actions       = ["secretsmanager:GetSecretValue"]
     not_resources = ["arn:aws:secretsmanager:*:${local.account_id}:secret:${local.prefix}/*"]
+  }
+
+  statement {
+    sid           = "ProjectParametersOnly"
+    effect        = "Deny"
+    actions       = ["ssm:GetParameter"]
+    not_resources = ["arn:aws:ssm:*:${local.account_id}:parameter/${local.prefix}/*"]
+  }
+
+  # Decrypt only on behalf of SSM (SecureString parameters), never directly.
+  statement {
+    sid       = "DecryptOnlyViaSsm"
+    effect    = "Deny"
+    actions   = ["kms:Decrypt"]
+    resources = ["*"]
+
+    condition {
+      test     = "StringNotLike"
+      variable = "kms:ViaService"
+      values   = ["ssm.*.amazonaws.com"]
+    }
   }
 
   statement {

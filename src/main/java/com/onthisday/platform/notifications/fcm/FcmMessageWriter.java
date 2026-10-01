@@ -3,6 +3,7 @@ package com.onthisday.platform.notifications.fcm;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.onthisday.notifications.NotificationMessage;
+import java.util.LinkedHashMap;
 import java.util.Map;
 import java.util.Objects;
 
@@ -22,16 +23,18 @@ public final class FcmMessageWriter {
     }
     Objects.requireNonNull(message, "message must not be null");
 
-    var payload =
-        Map.of(
-            "message",
-            Map.of(
-                "token",
-                recipientToken,
-                "notification",
-                Map.of("title", message.title(), "body", message.body()),
-                "data",
-                Map.of("eventId", message.eventId())));
+    var fcmMessage = new LinkedHashMap<String, Object>();
+    fcmMessage.put("token", recipientToken);
+    fcmMessage.put("notification", Map.of("title", message.title(), "body", message.body()));
+    fcmMessage.put("data", Map.of("eventId", message.eventId()));
+    if (message.collapseKey() != null) {
+      // A retried send after an unconfirmed attempt replaces the earlier notification on the
+      // device rather than showing a duplicate.
+      fcmMessage.put("android", Map.of("collapse_key", message.collapseKey()));
+      fcmMessage.put(
+          "apns", Map.of("headers", Map.of("apns-collapse-id", message.collapseKey())));
+    }
+    var payload = Map.of("message", fcmMessage);
     try {
       return objectMapper.writeValueAsString(payload);
     } catch (JsonProcessingException exception) {

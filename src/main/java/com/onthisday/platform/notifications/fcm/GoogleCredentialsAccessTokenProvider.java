@@ -1,6 +1,7 @@
 package com.onthisday.platform.notifications.fcm;
 
 import com.google.auth.oauth2.GoogleCredentials;
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -24,6 +25,13 @@ public final class GoogleCredentialsAccessTokenProvider implements FcmAccessToke
   public static GoogleCredentialsAccessTokenProvider fromFile(Path credentialFile)
       throws IOException {
     try (var input = Files.newInputStream(credentialFile)) {
+      return new GoogleCredentialsAccessTokenProvider(GoogleCredentials.fromStream(input));
+    }
+  }
+
+  public static GoogleCredentialsAccessTokenProvider fromJson(byte[] credentialJson)
+      throws IOException {
+    try (var input = new ByteArrayInputStream(credentialJson)) {
       return new GoogleCredentialsAccessTokenProvider(GoogleCredentials.fromStream(input));
     }
   }

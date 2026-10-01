@@ -69,3 +69,23 @@ Resources:
           Properties:
             Path: /v1/quizzes/daily
             Method: GET
+
+  # Scheduled daily notification. Locally it is invoked by hand (see
+  # docs/NOTIFICATIONS.md); in AWS, Terraform owns the function and its
+  # EventBridge schedule (infra/prod/notifications.tf).
+  ScheduledNotificationFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: .
+      Handler: com.onthisday.platform.notifications.scheduled.ScheduledNotificationHandler::handleRequest
+      Timeout: 300
+      Environment:
+        Variables:
+          DB_JDBC_URL: ""
+          DB_USER: ""
+          DB_PASSWORD: ""
+          DB_CONNECT_TIMEOUT_SECONDS: "5"
+          DB_SOCKET_TIMEOUT_SECONDS: "10"
+          FIREBASE_PROJECT_ID: ""
+          FIREBASE_CREDENTIALS_FILE: ""
+          NOTIFICATIONS_DRY_RUN: "true"

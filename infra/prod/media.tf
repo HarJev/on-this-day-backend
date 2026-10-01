@@ -138,7 +138,7 @@ data "aws_iam_policy_document" "media_bucket" {
       identifiers = ["cloudfront.amazonaws.com"]
     }
 
-    actions   = ["s3:GetObject"]
+    actions = ["s3:GetObject"]
     resources = [
       "${aws_s3_bucket.media.arn}/quiz-images/*",
       "${aws_s3_bucket.media.arn}/event-images/*",
@@ -172,9 +172,9 @@ data "aws_iam_policy_document" "media_publisher" {
   }
 
   statement {
-    sid       = "PublishOnlyEncryptedImmutableImageObjects"
-    effect    = "Allow"
-    actions   = ["s3:PutObject", "s3:AbortMultipartUpload"]
+    sid     = "PublishOnlyEncryptedImmutableImageObjects"
+    effect  = "Allow"
+    actions = ["s3:PutObject", "s3:AbortMultipartUpload"]
     resources = [
       "${aws_s3_bucket.media.arn}/quiz-images/*",
       "${aws_s3_bucket.media.arn}/event-images/*",
