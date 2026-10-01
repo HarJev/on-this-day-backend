@@ -35,9 +35,9 @@ Harris)` with `reviewedOn` 2026-10-01.
 | R7: local DB import | COMPLETED | From main `6b832bf`, local Docker Postgres only (migrations already current): historical import, then quiz import, both successful. Before: 454 events, 109 days, 230 questions (229 published), 89 relations, 71 event images. After: 988 events, 218 days, 598 questions (597 published), 535 relations, 71 event images. Daily challenges unchanged: 11 challenges, 220 assigned questions. |
 | R8: verification | COMPLETED | `ContentStatusCommand` against the DB: `inSync: true`, no stale, missing or extra events, days or questions. SAM local was not running, so no API check this time (PENDING). |
 | I1: pick images | COMPLETED | Featured events first: 180 featured events from Oct 16 to Apr 12 lacked an image, plus 8 known gaps. Licences and descriptions read from Commons file metadata. Three batches: `2026-10-16-12-25` (64, including the gaps), `2026-12-26-02-29` (58), `2027-03-01-04-12` (37). |
-| I2: prepare and review | IN_PROGRESS | Batch 1: `prepare` + `validate` pass, every rendition checked by eye (contact sheets); four swaps made (see Image Notes). Batches 2 and 3: preparing. |
-| I3: upload to S3 | BLOCKED | The `on-this-day` AWS session expired; the owner needs to run `aws login --profile on-this-day`. Then `publish --execute` per batch to `on-this-day-media-764574955085`. |
-| I4: attach and PR | NOT_STARTED | Attach to `content/events.json` without reformatting it, one PR per batch, review handoff to the channel session. |
+| I2: prepare and review | COMPLETED | All three batches: `prepare` + `validate` pass and every rendition was checked by eye on contact sheets. Swaps and drops at review are in Image Notes. Final counts: 64, 56 and 35 images (155). |
+| I3: upload to S3 | COMPLETED | 2026-10-01 as `on-this-day-terraform` after the owner renewed the sign-in: dry runs listed only `event-images/<event-id>/<sha256>.jpg` keys, then `--execute` uploaded 155 objects to `on-this-day-media-764574955085`. All 155 CloudFront URLs return 200 `image/jpeg` with bytes matching the manifest sha256. No other objects or resources touched. |
+| I4: attach and PR | IN_PROGRESS | Batch 1 (`claude/event-images-oct16-dec25`): 64 images attached to `content/events.json` without reformatting it (the pipeline's `attach` proposal, then a text-preserving copy checked to parse identically), manifest copied to `editorial/event-images/manifests/`, `imageRightsStatus: verified` on the 64 ledger entries across 13 batches. Review checks for those batches pass; `mvn -B test` 266 tests, 0 failures. Batches 2 and 3 follow as separate PRs. |
 | I5: re-import | NOT_STARTED | After each merge: pull main, historical import, `ContentStatusCommand` against the DB. |
 
 ## Result (after R4)
@@ -113,6 +113,11 @@ the new packs are text questions, so no question needs an image.
   drawing pixelated).
 - Rosa Parks (Dec 1, 1955) uses the AP photo of her being fingerprinted after
   her February 1956 arrest; the alt text says so.
+- Dropped at review in batches 2 and 3: Times Square (a night shot of
+  billboards, not the ball), Hank Aaron (a 1974 team photo whose public domain
+  claim is doubtful) and the Iron Curtain speech (a Leiden ceremony where
+  Churchill is hard to see). The German Empire image was swapped for Anton von
+  Werner's well-known 1885 version.
 - Kept with a note: the Luna 17 image is a drawing taken from a Soviet stamp;
   Tasman's New Zealand sighting uses Gilsemans's drawing of Murderers' Bay from
   five days later; Deep Blue uses a cabinet like the one Kasparov played.
@@ -126,7 +131,8 @@ Anglo-Irish Treaty, Waiting for Godot (the 1953 production photos' public
 domain claim is doubtful), the Beatles' rooftop concert, TheFacebook, element
 112, the Kyoto Protocol, M*A*S*H, the Miracle on Ice, Mandela's release, the
 Treaty of Rome, Please Please Me, Barbie, the Falklands invasion, Nunavut and
-the Good Friday Agreement. Known gaps still open: the Outer Space Treaty,
+the Good Friday Agreement, the Times Square ball drop, Hank Aaron's 715th
+home run and the Iron Curtain speech. Known gaps still open: the Outer Space Treaty,
 Voskhod 1, the first Oktoberfest and Monty Python. These days use the
 supported image-free layout.
 

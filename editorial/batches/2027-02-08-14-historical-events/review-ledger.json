@@ -688,7 +688,7 @@
           "note": "Britannica On This Day (Feb 13): 2000: 'the last Peanuts comic strip was published, just hours after the death of its creator, Charles Schulz.'"
         }
       ],
-      "imageRightsStatus": "not_applicable",
+      "imageRightsStatus": "verified",
       "regions": [
         "americas"
       ],
@@ -698,7 +698,7 @@
       "calendarDays": [
         "02-13"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json.",
       "reviewer": "Claude (owner review delegated by Jevaun Harris)",
       "reviewedOn": "2026-10-01"
     },

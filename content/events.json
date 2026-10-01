@@ -2445,7 +2445,19 @@
           "url": "https://schulzmuseum.org/about-schulz/schulz-biography/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/peanuts-debuts-1950/00a261970fa677c6aa043dbbe43915830377db9c93a6020fc819370b5e7029f4.jpg",
+          "altText": "The cartoonist Charles Schulz, creator of Peanuts, at his drawing board in 1956",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Schulz_NYWTS_drawing_disguised.jpg",
+          "creator": "Roger Higgins, World Telegram staff photographer",
+          "attribution": "Roger Higgins, World Telegram staff photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "beagle-returns-to-england-1836",
@@ -2909,7 +2921,19 @@
           "url": "https://www.britannica.com/event/Yom-Kippur-War"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/yom-kippur-war-begins-1973/c1db614dedc483add7f1e0c8fa0867043fc132ad8a9bfb9ca5d1e0c338ec8e4c.jpg",
+          "altText": "Egyptian forces crossing the Suez Canal in October 1973",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptians_Crossing_Suez_Canal_-_Flickr_-_The_Central_Intelligence_Agency.jpg",
+          "creator": "The Central Intelligence Agency",
+          "attribution": "The Central Intelligence Agency, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "anwar-sadat-assassinated-1981",
@@ -3081,7 +3105,19 @@
           "url": "https://www.britannica.com/biography/Don-Larsen"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/don-larsen-perfect-game-1956/d15b1461e51cead9d147f6e4e2d6e3ba573fa0e3886e995e95c9cd5783efedee.jpg",
+          "altText": "New York Yankees pitcher Don Larsen in 1956",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Don_Larsen_1956.png",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "great-chicago-fire-1871",
@@ -3193,7 +3229,19 @@
           "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/universal-postal-union-founded-1874/e33f7adfa3e19364aa2c0dfcbcd941752259f2425fb9b37e972bb02e2bb88073.jpg",
+          "altText": "The Universal Postal Union monument in Bern, with figures passing letters around a globe",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weltpostdenkmal_Bern.jpg",
+          "creator": "Baikonur",
+          "attribution": "Baikonur, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "keplers-supernova-first-sighted-1604",
@@ -4083,7 +4131,19 @@
           "url": "https://libguides.massgeneral.org/mghhistory/ether"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/ether-anesthesia-demonstrated-1846/cb9788a1f5667c8629c644cb0658aebc05c5e922c0d82acefc3fc3fa129b2b6a.jpg",
+          "altText": "Early photograph of surgeons operating on a patient under ether anesthesia at Massachusetts General Hospital, 1847",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Southworth_%26_Hawes_-_First_etherized_operation_(re-enactment).jpg",
+          "creator": "Southworth & Hawes",
+          "attribution": "Southworth & Hawes, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "john-paul-ii-elected-pope-1978",
@@ -4159,7 +4219,19 @@
           "url": "https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/calder-hall-nuclear-power-station"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/calder-hall-opens-1956/0c21771fc47dedef96497f0c6b36f99073a30244b1e53fb1dadab896bcdabd64.jpg",
+          "altText": "Calder Hall nuclear power station in Cumberland, England, with its cooling towers, soon after opening",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Calder_Hall_nuclear_power_station,_after_opening.jpg",
+          "creator": "UK government agencies",
+          "attribution": "UK government agencies, via Wikimedia Commons (OGL 3)",
+          "license": "OGL 3",
+          "licenseUrl": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-open-championship-1860",
@@ -4231,7 +4303,19 @@
           "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/persons-case-decided-1929/935df9c4fe383b58c2ae3a8396b6f44aba1039577ca96176c761c0454dbae126.jpg",
+          "altText": "Statue of Nellie McClung holding a newspaper headline about the Persons Case, part of the Famous Five monument in Ottawa",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Famous_Five-Headline.jpg",
+          "creator": "D. Gordon E. Robertson",
+          "attribution": "D. Gordon E. Robertson, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "the-whale-published-in-london-1851",
@@ -4307,7 +4391,19 @@
           "url": "https://www.nps.gov/york/index.htm"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cornwallis-surrenders-at-yorktown-1781/3416a0118c642233377b60a31def76f9e2ba5a3d6cf08a3de42e375d0b89c8e1.jpg",
+          "altText": "John Trumbull painting of British officers surrendering at Yorktown between lines of American and French troops",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surrender_of_Lord_Cornwallis.jpg",
+          "creator": "John Trumbull",
+          "attribution": "John Trumbull, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "napoleon-retreats-from-moscow-1812",
@@ -4379,7 +4475,19 @@
           "url": "https://mhnsw.au/stories/on-this-day/20-october-1973/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/sydney-opera-house-opens-1973/c320ecb4721d2c5d10e0c9f3afe4d78c662a7da43d67231fc83a062c74c22e3f.jpg",
+          "altText": "The sail-shaped roofs of the Sydney Opera House beside Sydney Harbour",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
+          "creator": "Diliff",
+          "attribution": "Diliff, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "leyte-landings-1944",
@@ -4527,7 +4635,19 @@
           "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/chandrayaan-1-launches-2008/b2e21f102092bd4e759bd5f63ab00cb8c295c46f8d1922753f56b91b1d9b5a44.jpg",
+          "altText": "India's PSLV rocket lifting off with the Chandrayaan-1 spacecraft from Sriharikota, October 2008",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:PSLV-C11_launch2.jpg",
+          "creator": "Indian Space Research Organisation",
+          "attribution": "Indian Space Research Organisation, via Wikimedia Commons (GODL-India)",
+          "license": "GODL-India",
+          "licenseUrl": "https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "metropolitan-opera-house-opens-1883",
@@ -4603,7 +4723,19 @@
           "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/apple-introduces-ipod-2001/5b38a5429d3f89545be5188218880a5aa634595566a78a957bf88ad670da355d.jpg",
+          "altText": "An original 5 GB iPod with its scroll wheel and black-and-white screen, the model Apple released in 2001",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Original_iPod_5G_(52066067732).jpg",
+          "creator": "Blake Patterson from Alexandria, VA, USA",
+          "attribution": "Blake Patterson from Alexandria, VA, USA, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "hungarian-revolution-begins-1956",
@@ -4747,7 +4879,19 @@
           "url": "https://www.britannica.com/event/Battle-of-Agincourt"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/battle-of-agincourt-1415/1aebf0680c3f682472fe8509f60c19e752f573e7f50e907f29c4e6eed7374dfc.jpg",
+          "altText": "Fifteenth-century manuscript miniature of armoured knights fighting at the Battle of Agincourt",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Agincourt,_St._Alban%27s_Chronicle_by_Thomas_Walsingham.jpg",
+          "creator": "Unknown artist",
+          "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battle-of-balaklava-1854",
@@ -4895,7 +5039,19 @@
           "url": "https://www.tenement.org/blog/on-this-day-1904-first-underground-subway/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/new-york-subway-opens-1904/021e21902aef99a56e66ed24c2a072a3aff29a8b7d0c0c51f3cbcedc66ac28c2.jpg",
+          "altText": "Officials and guests gathered in a station on the opening day of New York's subway, October 27, 1904",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opening_van_de_ondergrondse_spoorweg_te_New_York_De_eerste_rit_vervoerde_gemeentelijke,_SFA002001357.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "saint-vincent-grenadines-independence-1979",
@@ -4971,7 +5127,19 @@
           "url": "https://www.britannica.com/topic/Statue-of-Liberty"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/statue-of-liberty-dedicated-1886/f608640073227e0e2a306da05b5687b0e6f196dee9f1326159eed8a1b210bfdd.jpg",
+          "altText": "Edward Moran painting of ships crowding New York Harbor at the unveiling of the Statue of Liberty, 1886",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:EdwardMoran-UnveilingTheStatueofLiberty1886Large.jpg",
+          "creator": "Edward Moran",
+          "attribution": "Edward Moran, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "czechoslovakia-independence-1918",
@@ -5043,7 +5211,19 @@
           "url": "https://www.britannica.com/biography/Kemal-Ataturk"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/turkish-republic-proclaimed-1923/9aa5aff0fefd7352a83c840440677c148ce1c90a3c03eecf3ef966b7e4263c51.jpg",
+          "altText": "Portrait photograph of Mustafa Kemal (Ataturk), the Turkish Republic's first president, in 1923",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%BC%C5%9Fir_Gazi_Mustafa_Kemal_Pa%C5%9Fa,_Bal%C4%B1kesir,_1923.png",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-arpanet-message-1969",
@@ -5115,7 +5295,19 @@
           "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/war-of-the-worlds-broadcast-1938/742c57d8c29c6721ed4655492d8fe2cec48649056734666aca0b9ef44796ea43.jpg",
+          "altText": "Orson Welles speaking with reporters the day after his War of the Worlds radio broadcast, 1938",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orson_Welles_War_of_the_Worlds_1938.jpg",
+          "creator": "Acme News Photos",
+          "attribution": "Acme News Photos, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "rumble-in-the-jungle-1974",
@@ -5187,7 +5379,19 @@
           "url": "https://www.britannica.com/event/Ninety-five-Theses"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/luther-ninety-five-theses-1517/670c06b6c6a3d76cc64db43adb3ef0ec0eac66213ccbad9ef06341c738efa8f8.jpg",
+          "altText": "Ferdinand Pauwels painting of Martin Luther posting his Ninety-five Theses on a church door in Wittenberg",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luther95theses.jpg",
+          "creator": "Ferdinand Pauwels",
+          "attribution": "Ferdinand Pauwels, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "nevada-statehood-1864",
@@ -5335,7 +5539,19 @@
           "url": "https://www.nasa.gov/mission/expedition-1/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-iss-crew-arrives-2000/1281e1ffaae5a6f4c42fb73e2eb009833e28058af7a575f4946d3ace1abbc886.jpg",
+          "altText": "The three Expedition 1 crew members aboard the International Space Station, December 2000",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS_Expedition_1_crew_portrait.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "balfour-declaration-1917",
@@ -5407,7 +5623,19 @@
           "url": "https://www.ndl.go.jp/constitution/e/etc/c01.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/constitution-of-japan-promulgated-1946/7b01da4c8ca2eccdbf26e2c62eaa58c4ab819e3e3af82b505b1d687d40014e8f.jpg",
+          "altText": "Emperor Hirohito signing the Constitution of Japan on November 3, 1946",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hirohito_Signing.JPG",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "sputnik-2-laika-1957",
@@ -5479,7 +5707,19 @@
           "url": "https://www.britannica.com/biography/Howard-Carter"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/tutankhamun-tomb-found-1922/e39cd6b51b663d60af25d400412e4ed88c07189e4229f9a4ca21d2644e8c88b7.jpg",
+          "altText": "Howard Carter examining Tutankhamun's coffin inside the tomb, photographed by Harry Burton",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Howard_Carter_in_the_King_Tutankhamen%27s_tomb.jpg",
+          "creator": "Harry Burton",
+          "attribution": "Harry Burton, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "nature-journal-first-issue-1869",
@@ -5551,7 +5791,19 @@
           "url": "https://www.britannica.com/event/Gunpowder-Plot"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gunpowder-plot-foiled-1605/125821383b7be9a1882b6b65eaa10d68e10830db685e407f501a9e22f3ea5204.jpg",
+          "altText": "Contemporary engraving of eight of the Gunpowder Plot conspirators, including Guy Fawkes",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Gunpowder_Plot_Conspirators,_1605_from_NPG.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-transcontinental-flight-1911",
@@ -5627,7 +5879,19 @@
           "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/lincoln-elected-president-1860/220f5b28a296cc98c91fd46404d4332e155d47bc34667285c168783eb4a096e2.jpg",
+          "altText": "Portrait photograph of a beardless Abraham Lincoln, taken in June 1860",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_by_Alexander_Hesler,_1860-restored.png",
+          "creator": "Alexander Hesler",
+          "attribution": "Alexander Hesler, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-college-football-game-1869",
@@ -5703,7 +5967,19 @@
           "url": "https://www.britannica.com/biography/Marie-Curie"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/marie-curie-born-1867/76f8d0041382c023921996e2216dd1d31a3ab9f923e63bf1f558985fceaca5f5.jpg",
+          "altText": "Portrait photograph of Marie Curie",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg",
+          "creator": "Henri Manuel",
+          "attribution": "Henri Manuel, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cpr-last-spike-1885",
@@ -5775,7 +6051,19 @@
           "url": "https://www.britannica.com/biography/Wilhelm-Rontgen"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/rontgen-discovers-x-rays-1895/b305a544b5ef5c3aba1a5f6a06983b4da625679bd57c1d4d61e04c0cc6432042.jpg",
+          "altText": "Early X-ray image of a hand wearing a ring, made by Wilhelm Rontgen in December 1895",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:First_medical_X-ray_by_Wilhelm_R%C3%B6ntgen_of_his_wife_Anna_Bertha_Ludwig%27s_hand_-_18951222.jpg",
+          "creator": "Wilhelm Röntgen",
+          "attribution": "Wilhelm Röntgen, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cortes-enters-tenochtitlan-1519",
@@ -5851,7 +6139,19 @@
           "url": "https://www.britannica.com/topic/Berlin-Wall"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/berlin-wall-opens-1989/e361c2b5647019198eef75d84520a5895cdf0c9a6ccd19aa576cfc8f4410aa57.jpg",
+          "altText": "Crowds standing on top of the Berlin Wall near the Brandenburg Gate on the night of November 9, 1989",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:BerlinWall-BrandenburgGate.jpg",
+          "creator": "Sue Ream, photographer (San Francisco, California)",
+          "attribution": "Sue Ream, photographer (San Francisco, California), via Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "coup-of-18-brumaire-1799",
@@ -5923,7 +6223,19 @@
           "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/luna-17-lunokhod-launch-1970/e480509dfec4196b032bda85fcbf6dc27c2e72d10e314a6e7b7c28b421b7e5a4.jpg",
+          "altText": "Drawing from a Soviet postage stamp of the Luna 17 lander carrying the Lunokhod 1 rover",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luna_and_Lunokhod.png",
+          "creator": "Post of the Soviet Union",
+          "attribution": "Post of the Soviet Union, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "martin-luther-born-1483",
@@ -5977,7 +6289,19 @@
           "url": "https://www.iwm.org.uk/history/first-world-war/armistice"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/armistice-ends-ww1-fighting-1918/f03b01d06a78a7b1bc54d6a9111ccb3a6ed3a8cac48b85bce0a09b7f5ac58f39.jpg",
+          "altText": "Allied officers outside the railway carriage in the forest of Compiegne where the 1918 armistice was signed",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Armisticetrain.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "angola-independence-1975",
@@ -6049,7 +6373,19 @@
           "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/philae-lands-on-comet-2014/71ec024ad32d5cea1fd98f38d52852fe2852274e86fbe77c248700bb79c80a8c.jpg",
+          "altText": "Artist's rendering of the Philae lander descending toward the surface of a comet",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philae_over_a_comet_(crop).jpg",
+          "creator": "DLR",
+          "attribution": "DLR, via Wikimedia Commons (CC BY 3.0 de)",
+          "license": "CC BY 3.0 de",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/de/deed.en",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "voyager-1-saturn-flyby-1980",
@@ -6337,7 +6673,19 @@
           "url": "https://www.britannica.com/on-this-day/November-16"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/benazir-bhutto-elected-1988/9f1416c8429ea1ca405b460ef3808ab7c3454a94849a76a74397113bd30ab99e.jpg",
+          "altText": "Benazir Bhutto, prime minister of Pakistan, speaking to the press in 1989",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benazir_bhutto_1989_cropped.jpg",
+          "creator": "SRA Gerald B. Johnson, United States Department of Defense",
+          "attribution": "SRA Gerald B. Johnson, United States Department of Defense, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "livingstone-sees-victoria-falls-1855",
@@ -6409,7 +6757,19 @@
           "url": "https://www.britannica.com/on-this-day/November-17"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/suez-canal-opens-1869/1f22ac24efbf5e5f7e470b85001dfe8d68138b0f48522f2099ad46069a7d8741.jpg",
+          "altText": "Steamships and sailing vessels gathered at Port Said for the opening of the Suez Canal, November 1869",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Opening_of_the_Suez_Canal,_Port_Said,_1869.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "velvet-revolution-begins-1989",
@@ -6463,7 +6823,19 @@
           "url": "https://www.britannica.com/on-this-day/November-18"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/steamboat-willie-released-1928/fe750be7700f60ae092e8d5565f4de00b90dcdd88bb422142d562754240de191.jpg",
+          "altText": "Black-and-white frame of Mickey Mouse at a ship's wheel in Steamboat Willie, 1928",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mickey_Mouse_-_Steamboat_Willie_(1928).jpg",
+          "creator": "Walt Disney / Ub Iwerks",
+          "attribution": "Walt Disney / Ub Iwerks, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "latvia-independence-1918",
@@ -6535,7 +6907,19 @@
           "url": "https://www.britannica.com/on-this-day/November-19"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gettysburg-address-1863/890eebdbb4d6ce5513624ac1bd2b059bc0e90432ae6be6385dd656d77a027095.jpg",
+          "altText": "Crowd at the dedication of the Gettysburg national cemetery on November 19, 1863, where Lincoln spoke",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Crowd_of_citizens,_soldiers,_and_etc._with_Lincoln_at_Gettysburg._-_NARA_-_529085_-crop.jpg",
+          "creator": "Mathew Benjamin Brady",
+          "attribution": "Mathew Benjamin Brady, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "sadat-visits-israel-1977",
@@ -6607,7 +6991,19 @@
           "url": "https://www.britannica.com/on-this-day/November-20"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mexican-revolution-begins-1910/42cf217cfc17c33add8bf11dca35ff6dd721244c7557e72d38e799d065c809d3.jpg",
+          "altText": "Portrait photograph of Francisco I. Madero",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Francisco_I_Madero.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "qatar-world-cup-begins-2022",
@@ -6679,7 +7075,19 @@
           "url": "https://www.britannica.com/on-this-day/November-21"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-crewed-balloon-flight-1783/5f13dc6ed8177d3ebcd00dcf0b11096251f696c4d3f4873ca89776b6de8b21df.jpg",
+          "altText": "Eighteenth-century print of the Montgolfier balloon rising from the Chateau de la Muette, November 21, 1783",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exp%C3%A9rience_du_21_9bre_1783_-_Au_Chateau_de_la_Muette._Pl..._-_estampe_-_btv1b550014351.jpg",
+          "creator": null,
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "dayton-accords-1995",
@@ -6895,7 +7303,19 @@
           "url": "https://www.britannica.com/on-this-day/November-24"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/tasman-reaches-tasmania-1642/a0f2c8c67f843e3b3f8c776da5d45063a590b2c82f0a45a58ffa0200b9cfcfbe.jpg",
+          "altText": "Seventeenth-century painted portrait of the Dutch explorer Abel Tasman",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abel_Tasman_-_Cuyp_(cropped).jpg",
+          "creator": "Jacob Gerritsz. Cuyp",
+          "attribution": "Jacob Gerritsz. Cuyp, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "black-beauty-published-1877",
@@ -6949,7 +7369,19 @@
           "url": "https://www.britannica.com/on-this-day/November-25"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/the-mousetrap-opens-1952/508a2795ed0c0672bfc8410359fc5502753e97f0fd8be932b75fd6d3731b835d.jpg",
+          "altText": "St Martin's Theatre in London with signs advertising Agatha Christie's The Mousetrap",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Mousetrap,_St_Martin%27s_Theatre_-_geograph.org.uk_-_2175378.jpg",
+          "creator": "Philip Halling",
+          "attribution": "Philip Halling, via Wikimedia Commons (CC BY-SA 2.0)",
+          "license": "CC BY-SA 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "suriname-independence-1975",
@@ -7021,7 +7453,19 @@
           "url": "https://www.britannica.com/on-this-day/November-26"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/casablanca-premieres-1942/8bbe0ea0d27e3157036f3cdc085145d5919c7283fbaadc27c06372a86f74f2e2.jpg",
+          "altText": "Original 1942 theatrical poster for Casablanca, showing Humphrey Bogart and Ingrid Bergman",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:CasablancaPoster-Gold.jpg",
+          "creator": "Bill Gold",
+          "attribution": "Bill Gold, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "mongolian-peoples-republic-1924",
@@ -7093,7 +7537,19 @@
           "url": "https://www.britannica.com/on-this-day/November-27"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nobel-prizes-established-1895/9ad2e45c77526fbd0af50cb4c07b59cd559266a732b7fa2f5973295dff99be04.jpg",
+          "altText": "Portrait photograph of Alfred Nobel",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AlfredNobel2.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-macys-parade-1924",
@@ -7165,7 +7621,19 @@
           "url": "https://www.britannica.com/on-this-day/November-28"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/albania-independence-1912/1924f16d6a874ff7dd1ef9fa6141b92f1ad8ce13eccc3f0e3fb458de88e03bd0.jpg",
+          "altText": "Ismail Qemali addressing a crowd in Vlore, Albania, in 1912",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ismail_Kemal_bey_Vlora_speaking_in_Vlora_1912.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "mauritania-independence-1960",
@@ -7219,7 +7687,19 @@
           "url": "https://www.britannica.com/on-this-day/November-29"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/byrd-flies-over-south-pole-1929/556af5672918316749a66be4f7f13ee64047c84567316ea37cb6e677428e70d8.jpg",
+          "altText": "The Ford Trimotor Floyd Bennett, the plane of Byrd's South Pole flight, on the ice in Antarctica",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Floyd_Bennett_plane.jpg",
+          "creator": "Government employee",
+          "attribution": "Government employee, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "november-insurrection-1830",
@@ -7291,7 +7771,19 @@
           "url": "https://www.britannica.com/on-this-day/November-30"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/barbados-independence-1966/2bc279d7cd4812988d4fb277c61d3753be2af68e497d25e88affea2f7c53a3ed.jpg",
+          "altText": "Errol Barrow, Barbados's first prime minister, in 1968",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Errol_Barrow_1968.png",
+          "creator": "White House Naval Photographic Unit.",
+          "attribution": "White House Naval Photographic Unit., via Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "treaty-of-paris-preliminary-1782",
@@ -7363,7 +7855,19 @@
           "url": "https://www.britannica.com/on-this-day/December-1"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/rosa-parks-arrested-1955/e028db878554a12975e4f3d83a44a7ac8f248fafa35a52176e1c7a77dfe4ca10.jpg",
+          "altText": "Rosa Parks being fingerprinted by a deputy sheriff after her February 1956 arrest during the Montgomery bus boycott",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rosa_Parks_being_fingerprinted_by_Deputy_Sheriff_D.H._Lackey_after_being_arrested_on_February_22,_1956,_during_the_Montgomery_bus_boycott_-_Original.jpg",
+          "creator": "Gene Herrick (Associated Press)",
+          "attribution": "Gene Herrick (Associated Press), via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "ford-moving-assembly-line-1913",
@@ -7435,7 +7939,19 @@
           "url": "https://www.britannica.com/on-this-day/December-2"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-nuclear-chain-reaction-1942/adf2050b0f3bd45f604985f6e37b683e91635a6a6565a5f4254cb24ca8c3a880.jpg",
+          "altText": "Painting of scientists gathered around Chicago Pile-1 under the stands of Stagg Field, December 2, 1942",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Time,_3-22_p.m,_December_2,_1942._Place,_Racquets_Court_under_West_Stands_of_Stagg_Field,_University_of_Chicago...._-_NARA_-_542144.tif",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "uae-formed-1971",
@@ -7507,7 +8023,19 @@
           "url": "https://www.britannica.com/on-this-day/December-3"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-heart-transplant-1967/ce906afe12f2e56bc7f803c7242a36436c0b78ef8dd05440da0f6a61de3ce046.jpg",
+          "altText": "The South African heart surgeon Christiaan Barnard smiling on a hotel balcony in 1968",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christiaan_Barnard_1968.jpg",
+          "creator": "Mondadori Publishers",
+          "attribution": "Mondadori Publishers, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "eureka-stockade-1854",
@@ -7579,7 +8107,19 @@
           "url": "https://www.britannica.com/on-this-day/December-4"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mars-pathfinder-launched-1996/e78aafbac29d8f5a0b75c79a447cf56101abbe4af31fc0df3e452562911a5aa5.jpg",
+          "altText": "The Mars Pathfinder spacecraft being readied for launch at Kennedy Space Center, November 1996",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mars_Pathfinder.jpg",
+          "creator": "NASA Kennedy Space Center",
+          "attribution": "NASA Kennedy Space Center, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "ivan-the-terrible-proclaimed-1533",
@@ -7651,7 +8191,19 @@
           "url": "https://www.britannica.com/on-this-day/December-5"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nelson-mandela-dies-2013/2eda69f792dfcffa7ad1908ff8f5154a9b4fc8c7a2aa20ceb6845ef58558c106.jpg",
+          "altText": "Nelson Mandela smiling in Johannesburg in 2008",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nelson_Mandela-2008_(edit).jpg",
+          "creator": "South Africa The Good News",
+          "attribution": "South Africa The Good News, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "walt-disney-born-1901",
@@ -7781,7 +8333,19 @@
           "url": "https://www.britannica.com/on-this-day/December-7"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/apollo-17-launches-1972/2c3cd34e9dfe252620ec8076328eb7b8427fbbb3d26d6e5fa2bf88e99d0660ad.jpg",
+          "altText": "The Saturn V rocket carrying Apollo 17 lifting off at night, December 7, 1972",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_17_Night_Launch_-_GPN-2000-001150.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "pearl-harbor-attack-1941",
@@ -7853,7 +8417,19 @@
           "url": "https://www.britannica.com/on-this-day/December-8"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/notre-dame-reopens-2024/be555ae6ae4ade7431a0a7699e76a3b81b9111d0901729a715bfd278ece904af.jpg",
+          "altText": "The restored chancel of Notre-Dame Cathedral in Paris after its reopening in December 2024",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chancel_of_Notre-Dame_de_Paris,_2024_(2).jpg",
+          "creator": "Ibex73",
+          "attribution": "Ibex73, via Wikimedia Commons (CC BY 4.0)",
+          "license": "CC BY 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "spacex-dragon-orbit-return-2010",
@@ -7925,7 +8501,19 @@
           "url": "https://www.britannica.com/on-this-day/December-9"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/smallpox-declared-eradicated-1979/a8503e9bd23186dcaca2b7a2c7a8878ee0e6315b1c1d2ef70fe1dd2232768e3d.jpg",
+          "altText": "Three former directors of the Global Smallpox Eradication Program reading news of its success, 1980",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Directors_of_Global_Smallpox_Eradication_Program.jpg",
+          "creator": "CDC",
+          "attribution": "CDC, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "tanganyika-independence-1961",
@@ -7997,7 +8585,19 @@
           "url": "https://www.britannica.com/on-this-day/December-10"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/universal-declaration-of-human-rights-1948/0f7aca080fa2c284314b4d578cbffca41b625a4195df8a090df0c33a3fcb4581.jpg",
+          "altText": "Eleanor Roosevelt holding a poster of the Universal Declaration of Human Rights",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eleanor_Roosevelt_and_United_Nations_Universal_Declaration_of_Human_Rights,_Lake_Success,_New_York_-_DPLA_-_88c8658b95a92d79f8450045936d5683.jpg",
+          "creator": "US National Archives",
+          "attribution": "US National Archives, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-nobel-prizes-awarded-1901",
@@ -8231,7 +8831,19 @@
           "url": "https://www.britannica.com/on-this-day/December-13"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/tasman-sights-new-zealand-1642/fed493d176b3a212d2cf8b4b5b746f14ed34192e2263f4826de5a6c37a093ce7.jpg",
+          "altText": "Isaack Gilsemans's 1642 drawing of Tasman's ships and Maori canoes in Golden Bay, New Zealand",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gilsemans_1642.jpg",
+          "creator": "Isaack Gilsemans",
+          "attribution": "Isaack Gilsemans, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "council-of-trent-opens-1545",
@@ -8303,7 +8915,19 @@
           "url": "https://www.britannica.com/on-this-day/December-14"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/amundsen-reaches-south-pole-1911/1ae6dca93268a632d76a2853c14fca9fa04192e9a90ac9eac8d08480daa99f4b.jpg",
+          "altText": "Roald Amundsen and three companions with the Norwegian flag at the South Pole, December 14, 1911",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oscar_Wisting,_Olav_Bjaaland,_Sverre_Hassel_og_Roald_Amundsen_p%C3%A5_Sydpolen_14.12.1911_(7635391194).jpg",
+          "creator": "Nasjonalbiblioteket from Norway",
+          "attribution": "Nasjonalbiblioteket from Norway, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "oecd-convention-signed-1960",
@@ -8375,7 +8999,19 @@
           "url": "https://www.britannica.com/on-this-day/December-15"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/bill-of-rights-adopted-1791/33c87aeea6c618c9bc2abbc2eb073e182d1562e31a847fa9c5f81af49095ba3b.jpg",
+          "altText": "The handwritten US Bill of Rights document as proposed by Congress in 1789",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bill_of_Rights_WDL2704.png",
+          "creator": "United States",
+          "attribution": "United States, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "leaning-tower-reopens-2001",
@@ -8447,7 +9083,19 @@
           "url": "https://www.britannica.com/on-this-day/December-16"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/boston-tea-party-1773/f85fbd3edda0ad792920ab06835395d787f1df33d261f50fc486f6bb9d49446f.jpg",
+          "altText": "1846 lithograph of colonists throwing chests of tea from ships into Boston Harbor",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boston_tea_party.jpg",
+          "creator": "Sarony & Major",
+          "attribution": "Sarony & Major, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "jane-austen-born-1775",
@@ -8501,7 +9149,19 @@
           "url": "https://www.britannica.com/on-this-day/December-17"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/wright-brothers-first-flight-1903/41500a5052afb247787e28b36140095103245ff0281f9d46ba9419f7dc904c86.jpg",
+          "altText": "The Wright Flyer just after takeoff at Kitty Hawk, North Carolina, on December 17, 1903",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Wright_Brothers;_first_powered_flight_HU98267.jpg",
+          "creator": "John T. Daniels",
+          "attribution": "John T. Daniels, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "queen-nzinga-dies-1663",
@@ -8555,7 +9215,19 @@
           "url": "https://www.britannica.com/on-this-day/December-18"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/nutcracker-premieres-1892/8f76d8439a821b62f5da3cc5905ca9cd3930449eec9fdb1f0c52e18bdac3e3f3.jpg",
+          "altText": "Photograph of Stanislava Belinskaya as Clara in the original 1892 production of The Nutcracker",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nutcracker_-1890.JPG",
+          "creator": "Unknown photographer, Imperial Mariinsky Theatre",
+          "attribution": "Unknown photographer, Imperial Mariinsky Theatre, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "thirteenth-amendment-in-force-1865",
@@ -8627,7 +9299,19 @@
           "url": "https://www.britannica.com/on-this-day/December-19"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/a-christmas-carol-published-1843/7e02f6146b49cfc9ed0b04dba9aec4bbb73861d991de198eaee193ec01ec2d50.jpg",
+          "altText": "John Leech's colour frontispiece of Mr Fezziwig's Ball from the first edition of A Christmas Carol",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mr_Fezziwig%27s_Ball_-_A_Christmas_Carol_(1843),_frontispiece_-_BL.jpg",
+          "creator": "John Leech",
+          "attribution": "John Leech, via Wikimedia Commons (CC0 1.0)",
+          "license": "CC0 1.0",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "washington-at-valley-forge-1777",
@@ -8699,7 +9383,19 @@
           "url": "https://www.britannica.com/on-this-day/December-20"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/grimms-fairy-tales-published-1812/de0c8256b4f3311f64c3f32bfd20d16ea101d456bb7fffe2d0327c717afab35e.jpg",
+          "altText": "1855 double portrait of the brothers Jacob and Wilhelm Grimm",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grimm.jpg",
+          "creator": "Elisabeth Baumann",
+          "attribution": "Elisabeth Baumann, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "macau-handover-1999",
@@ -8771,7 +9467,19 @@
           "url": "https://www.britannica.com/on-this-day/December-21"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-basketball-game-1891/791b1a62c0a4f4b341da86ad9478489abfc080e177c491b6a996c4cc4e212789.jpg",
+          "altText": "James Naismith, inventor of basketball, holding a ball and a peach basket",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr._James_Naismith.jpg",
+          "creator": "Unknown author",
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "apollo-8-launched-1968",
@@ -8825,7 +9533,19 @@
           "url": "https://www.britannica.com/on-this-day/December-22"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/brandenburg-gate-reopens-1989/14ee761f466cb5ad4c7b795e67852a385e7d4cb92848299eab048cd229f7657a.jpg",
+          "altText": "German politicians at the official opening of the Brandenburg Gate crossing on December 22, 1989",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Politicians_at_Brandenburg_Gate_opening_1989.JPEG",
+          "creator": "SSgt. F. Lee Corkran",
+          "attribution": "SSgt. F. Lee Corkran, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "srinivasa-ramanujan-born-1887",
@@ -8897,7 +9617,19 @@
           "url": "https://www.britannica.com/on-this-day/December-23"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/washington-resigns-commission-1783/9b03b531b3ae179dc4cc87a1c478017511da75903464af8dbfe15594130e58dc.jpg",
+          "altText": "John Trumbull painting of George Washington resigning his commission before Congress in 1783",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:General_George_Washington_Resigning_his_Commission.jpg",
+          "creator": "John Trumbull",
+          "attribution": "John Trumbull, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "ottoman-constitution-1876",
@@ -8969,7 +9701,19 @@
           "url": "https://www.britannica.com/on-this-day/December-24"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/edison-phonograph-patent-application-1877/e0dc2d327b8b17c5bc841f7f0bbc89a96988ba53e7dc6336fbad15ee01d2a828.jpg",
+          "altText": "Thomas Edison's 1877 tinfoil cylinder phonograph with its hand crank",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edison%27s_1877_Cylinder_Tinfoil_Phonograph_(photo_1_of_2)_(5cc2641d-1dd8-b71b-0b6c-0871a45fb59a).jpg",
+          "creator": "National Park Service",
+          "attribution": "National Park Service, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "treaty-of-ghent-1814",
@@ -9023,7 +9767,19 @@
           "url": "https://www.britannica.com/on-this-day/December-25"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/james-webb-telescope-launched-2021/50c4578c38db1a3016c4956ecba7488a628f72f20d9877c6dfe162e748b82b93.jpg",
+          "altText": "An Ariane 5 rocket lifting off with the James Webb Space Telescope on December 25, 2021",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:James_Webb_Space_Telescope_Launch_(NHQ202112250022).jpg",
+          "creator": "Chris Gunn",
+          "attribution": "Chris Gunn, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "charlemagne-crowned-emperor-800",
@@ -13445,7 +14201,19 @@
           "url": "https://www.britannica.com/on-this-day/February-13"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/last-peanuts-strip-2000/00a261970fa677c6aa043dbbe43915830377db9c93a6020fc819370b5e7029f4.jpg",
+          "altText": "The cartoonist Charles Schulz, creator of Peanuts, at his drawing board in 1956",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Schulz_NYWTS_drawing_disguised.jpg",
+          "creator": "Roger Higgins, World Telegram staff photographer",
+          "attribution": "Roger Higgins, World Telegram staff photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "kevin-rudd-apology-2008",
