@@ -50,11 +50,14 @@ database load on the Supabase free plan, and junk device rows.
   `web_acl_id`, as for images).
 - **Edge caching for content reads.** The function adds
   `Cache-Control: public, max-age=60` to successful GETs of today, recent days,
-  event detail, quiz catalog and Daily Challenge. The cache key holds only the
-  query parameters the API reads (`timezone`, `days`, `questionCount`), so
-  junk parameters cannot bypass it. Writes, Quick Play, health and errors are
-  never given a max-age. Today and Daily may be up to a minute stale after
-  local midnight.
+  event detail, quiz catalog and Daily Challenge, using the managed
+  `Managed-UseOriginCacheControlHeaders-QueryStrings` policy (the Free plan
+  does not allow custom cache policies). Writes, Quick Play and health are
+  never given a max-age. CloudFront still caches GET error responses
+  (4xx/5xx) for its default 10 seconds, which also absorbs repeated bad
+  requests. The cache key includes every query string, so junk parameters
+  can bypass the cache; the WAF per-IP rate rule bounds that. Today and Daily
+  may be up to a minute stale after local midnight.
 - **Input limits in the function.** Request bodies over 16 KB get 413 before
   parsing. Push tokens over 1,024 characters are rejected (real tokens are
   64 to about 200). Existing validation covers timezones, `days` (max 14) and
@@ -82,6 +85,10 @@ Local SAM keeps working without the header, so the change is safe to ship
 before the cloud API exists.
 
 ## Owner Steps At Deploy
+
+No new deployer IAM is needed: the `on-this-day-terraform` policy already
+allows `cloudfront:*` and `lambda:*` on `on-this-day-*` functions, which covers
+the function URL, its permissions, the OAC and the distribution.
 
 1. Apply `infra/prod` with `api_lambda_zip_path`, `db_jdbc_url` and `db_user`
    set (see `infra/prod/README.md`).

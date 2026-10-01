@@ -9,8 +9,8 @@
 #   without running, or billing, the function.
 # - Abuse limits live at the edge: the Free plan's AWS WAF web ACL takes a
 #   per-IP rate-based rule (added by the owner in the console), and content
-#   GETs are cached for 60 seconds, so repeated reads rarely reach Lambda or
-#   the database. Handlers validate every input and cap list sizes.
+#   GETs are cached for 60 seconds, so repeated identical reads rarely reach
+#   Lambda or the database. Handlers validate every input and cap list sizes.
 # - api_reserved_concurrency caps simultaneous executions once the account's
 #   Lambda quota allows reserving (new accounts start at 10 and cannot).
 #
@@ -36,11 +36,6 @@
 locals {
   api_function_name = "on-this-day-api"
   deploy_api        = var.api_lambda_zip_path != null
-
-  # Every query parameter a handler reads (TodayContentHandler,
-  # RecentDaysHandler, DailyQuizHandler). Others are dropped at the edge, so
-  # add new ones here as well as in the handler.
-  api_query_parameters = ["timezone", "days", "questionCount"]
 }
 
 resource "aws_cloudwatch_log_group" "api" {
@@ -195,38 +190,14 @@ resource "aws_cloudfront_origin_access_control" "api" {
 }
 
 # The origin decides what is cacheable: the function sends Cache-Control only
-# on successful content GETs, and everything else (device writes, Quick Play,
-# health, errors) has no max-age and is not cached. Only the query parameters
-# the API reads are in the cache key, so junk parameters cannot bust the cache.
-resource "aws_cloudfront_cache_policy" "api" {
-  count = local.deploy_api ? 1 : 0
-
-  name        = "${local.api_function_name}-origin-controlled"
-  comment     = "Honour the API's Cache-Control; key on the API's query parameters only"
-  min_ttl     = 0
-  default_ttl = 0
-  max_ttl     = 300
-
-  parameters_in_cache_key_and_forwarded_to_origin {
-    enable_accept_encoding_gzip   = true
-    enable_accept_encoding_brotli = true
-
-    cookies_config {
-      cookie_behavior = "none"
-    }
-
-    headers_config {
-      header_behavior = "none"
-    }
-
-    query_strings_config {
-      query_string_behavior = "whitelist"
-
-      query_strings {
-        items = local.api_query_parameters
-      }
-    }
-  }
+# on successful content GETs, and writes, Quick Play and health carry no
+# max-age. CloudFront still caches GET error responses (4xx/5xx) for its
+# default 10 seconds, which also absorbs repeated bad requests. A managed
+# policy, because the flat-rate Free plan does not allow custom cache
+# policies. It keys on every query string, so junk parameters can bypass the
+# cache; the WAF per-IP rate rule bounds that.
+data "aws_cloudfront_cache_policy" "use_origin_cache_control_query_strings" {
+  name = "Managed-UseOriginCacheControlHeaders-QueryStrings"
 }
 
 # Forwards the viewer's headers (Content-Type and the body hash OAC needs on
@@ -266,7 +237,7 @@ resource "aws_cloudfront_distribution" "api" {
     target_origin_id         = "api-function-url"
     allowed_methods          = ["GET", "HEAD", "OPTIONS", "PUT", "POST", "PATCH", "DELETE"]
     cached_methods           = ["GET", "HEAD"]
-    cache_policy_id          = aws_cloudfront_cache_policy.api[0].id
+    cache_policy_id          = data.aws_cloudfront_cache_policy.use_origin_cache_control_query_strings.id
     origin_request_policy_id = data.aws_cloudfront_origin_request_policy.all_viewer_except_host.id
     viewer_protocol_policy   = "https-only"
     compress                 = true

@@ -71,8 +71,8 @@ run "full_api_deploy" {
   }
 
   assert {
-    condition     = aws_cloudfront_cache_policy.api[0].default_ttl == 0 && aws_cloudfront_cache_policy.api[0].max_ttl <= 300 && toset(one(one(one(aws_cloudfront_cache_policy.api[0].parameters_in_cache_key_and_forwarded_to_origin).query_strings_config).query_strings).items) == toset(["timezone", "days", "questionCount"])
-    error_message = "nothing is cached unless the API says so, keyed on the API's own query parameters"
+    condition     = data.aws_cloudfront_cache_policy.use_origin_cache_control_query_strings.name == "Managed-UseOriginCacheControlHeaders-QueryStrings"
+    error_message = "a managed policy (Free plan allows no custom ones) that caches only what the API marks cacheable"
   }
 
   assert {
