@@ -28,7 +28,7 @@ Harris)` with `reviewedOn` 2026-10-01, so the delegation stays visible.
 | R3: review quiz content | COMPLETED | 19 Oct 9-15 questions, 7 Oct 1-8 supplement questions and 12 reuse links all approved as drafted. |
 | R4: promote to canonical | COMPLETED | `editorial/tools/runway/promote_oct09_dec25.py`: 308 events and 78 days appended; Packs 150 and 160 published; 12 `relatedEventIds` added after re-checking snapshot hashes. Draft files removed. |
 | R5: checks | COMPLETED | `EditorialReviewCheckCommand` passes for all 16 Oct-Dec batches; `mvn -B test` 198 tests, 0 failures; `ContentStatusCommand` (no DB): 0 drafts outside `content/`, no new event without an approved entry. |
-| R6: pull request | IN_PROGRESS | Open the PR and send the number to the coordinator. A separate review thread reviews and merges it. Do not merge it from this thread. |
+| R6: pull request | IN_PROGRESS | PR #24 open (https://github.com/HarJev/on-this-day-backend/pull/24); number sent to the coordinator. A separate review thread reviews and merges it. Do not merge it from this thread. |
 | R7: local DB import | NOT_STARTED | After the merge is confirmed: from main, run the historical importer, then the quiz importer, against local Docker Postgres only. |
 | R8: verification | NOT_STARTED | Counts, `ContentStatusCommand` with DB (`inSync: true`), and SAM local checks of today, event detail, catalog and Quick Play. |
 
