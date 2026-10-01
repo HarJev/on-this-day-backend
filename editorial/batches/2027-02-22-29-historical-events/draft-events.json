@@ -1,0 +1,752 @@
+{
+  "events": [
+    {
+      "id": "miracle-on-ice-1980",
+      "title": "The US hockey team beats the Soviet Union in the Miracle on Ice",
+      "year": "1980",
+      "historicalDate": "February 22, 1980",
+      "dateNote": null,
+      "summary": "An Olympic upset becomes one of sport's most famous games.",
+      "description": "On February 22, 1980, the US men's ice hockey team defeated the Soviet Union's team at the Winter Olympics in Lake Placid, New York, in the game known as the Miracle on Ice.",
+      "notificationTitle": "The Miracle on Ice",
+      "notificationBody": "In 1980, the US men's hockey team stunned the Soviet Union in the Miracle on Ice.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 22",
+          "url": "https://www.britannica.com/on-this-day/February-22"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Miracle on Ice",
+          "url": "https://www.britannica.com/event/Miracle-on-Ice"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "george-washington-born-1732",
+      "title": "George Washington is born in Virginia",
+      "year": "1732",
+      "historicalDate": "February 22, 1732",
+      "dateNote": "Gregorian date. Under the Julian (Old Style) calendar then used in the British colonies, he was born on February 11, 1731.",
+      "summary": "The future first US president is born in Westmoreland County.",
+      "description": "On February 22, 1732, George Washington, commander of the colonial armies in the American Revolution and the first US president, was born in Westmoreland County, Virginia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 22",
+          "url": "https://www.britannica.com/on-this-day/February-22"
+        },
+        {
+          "name": "Encyclopaedia Britannica - George Washington",
+          "url": "https://www.britannica.com/biography/George-Washington"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "white-rose-members-executed-1943",
+      "title": "White Rose resisters are executed in Munich",
+      "year": "1943",
+      "historicalDate": "February 22, 1943",
+      "dateNote": null,
+      "summary": "Hans and Sophie Scholl and Christoph Probst are put to death for opposing the Nazis.",
+      "description": "On February 22, 1943, three members of the White Rose, an anti-Nazi student group at the University of Munich, were beheaded in Munich for distributing leaflets against the regime.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - White Rose",
+          "url": "https://www.britannica.com/topic/White-Rose"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-daytona-500-1959",
+      "title": "The first Daytona 500 is run",
+      "year": "1959",
+      "historicalDate": "February 22, 1959",
+      "dateNote": null,
+      "summary": "Lee Petty wins NASCAR's new race.",
+      "description": "On February 22, 1959, NASCAR held the first Daytona 500, which was won by Lee Petty.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 22",
+          "url": "https://www.britannica.com/on-this-day/February-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "christchurch-earthquake-2011",
+      "title": "An earthquake devastates Christchurch, New Zealand",
+      "year": "2011",
+      "historicalDate": "February 22, 2011",
+      "dateNote": null,
+      "summary": "A magnitude 6.3 aftershock strikes the city.",
+      "description": "On February 22, 2011, Christchurch, New Zealand, and its surrounding area were struck by a massively destructive magnitude 6.3 aftershock.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 22",
+          "url": "https://www.britannica.com/on-this-day/February-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "iwo-jima-flag-raising-1945",
+      "title": "US servicemen raise the flag on Iwo Jima",
+      "year": "1945",
+      "historicalDate": "February 23, 1945",
+      "dateNote": null,
+      "summary": "Six men raise the American flag on Mount Suribachi.",
+      "description": "On February 23, 1945, during World War II, six US servicemen raised the American flag over Mount Suribachi on the island of Iwo Jima.",
+      "notificationTitle": "The flag over Suribachi",
+      "notificationBody": "In 1945, six US servicemen raised the American flag on Mount Suribachi, Iwo Jima.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "siege-of-the-alamo-begins-1836",
+      "title": "The siege of the Alamo begins",
+      "year": "1836",
+      "historicalDate": "February 23, 1836",
+      "dateNote": null,
+      "summary": "Santa Anna's army surrounds the Texan defenders.",
+      "description": "On February 23, 1836, during the Texas Revolution, Mexican General Antonio Lopez de Santa Anna began a siege of the Alamo, which was captured after 13 days.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "george-frideric-handel-born-1685",
+      "title": "George Frideric Handel is born in Halle",
+      "year": "1685",
+      "historicalDate": "February 23, 1685",
+      "dateNote": "Julian calendar date.",
+      "summary": "The composer of Messiah is born.",
+      "description": "On February 23, 1685, the composer George Frideric Handel, a leading figure of late Baroque music, was born in Halle, Germany.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        },
+        {
+          "name": "Encyclopaedia Britannica - George Frideric Handel",
+          "url": "https://www.britannica.com/biography/George-Frideric-Handel"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "web-du-bois-born-1868",
+      "title": "W.E.B. Du Bois is born",
+      "year": "1868",
+      "historicalDate": "February 23, 1868",
+      "dateNote": null,
+      "summary": "The scholar and civil rights leader is born in Massachusetts.",
+      "description": "On February 23, 1868, W.E.B. Du Bois, one of the most important African American protest leaders of the early 20th century, was born in Great Barrington, Massachusetts.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        },
+        {
+          "name": "Encyclopaedia Britannica - W.E.B. Du Bois",
+          "url": "https://www.britannica.com/biography/W-E-B-Du-Bois"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "boston-granted-city-charter-1822",
+      "title": "Boston is granted a city charter",
+      "year": "1822",
+      "historicalDate": "February 23, 1822",
+      "dateNote": null,
+      "summary": "The Massachusetts town officially becomes a city.",
+      "description": "On February 23, 1822, Boston was granted a charter to become a city.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 23",
+          "url": "https://www.britannica.com/on-this-day/February-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gregorian-calendar-papal-bull-1582",
+      "title": "Pope Gregory XIII decrees the Gregorian calendar",
+      "year": "1582",
+      "historicalDate": "February 24, 1582",
+      "dateNote": "Julian calendar date; the bull introduced the Gregorian calendar later that year.",
+      "summary": "A papal bull orders ten days dropped from the year.",
+      "description": "On February 24, 1582, Pope Gregory XIII issued a papal bull reforming the calendar: Thursday, October 4, 1582, would be followed by Friday, October 15.",
+      "notificationTitle": "Ten days vanish from the calendar",
+      "notificationBody": "In 1582, Pope Gregory XIII decreed that October 4 would be followed by October 15.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "marbury-v-madison-1803",
+      "title": "The Supreme Court decides Marbury v. Madison",
+      "year": "1803",
+      "historicalDate": "February 24, 1803",
+      "dateNote": null,
+      "summary": "The court strikes down an act of Congress as unconstitutional.",
+      "description": "On February 24, 1803, in Marbury v. Madison, the US Supreme Court declared an act of Congress unconstitutional, establishing the principle of judicial review.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "russia-invades-ukraine-2022",
+      "title": "Russia launches a full-scale invasion of Ukraine",
+      "year": "2022",
+      "historicalDate": "February 24, 2022",
+      "dateNote": null,
+      "summary": "The largest war in Europe in decades begins.",
+      "description": "On February 24, 2022, Russia launched a full-scale invasion of Ukraine.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "andrew-johnson-impeached-1868",
+      "title": "The House impeaches President Andrew Johnson",
+      "year": "1868",
+      "historicalDate": "February 24, 1868",
+      "dateNote": null,
+      "summary": "The vote is 126 to 47.",
+      "description": "On February 24, 1868, the US House of Representatives voted 126 to 47 to impeach President Andrew Johnson.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "louis-philippe-abdicates-1848",
+      "title": "King Louis-Philippe abdicates as revolution reaches France",
+      "year": "1848",
+      "historicalDate": "February 24, 1848",
+      "dateNote": null,
+      "summary": "The Revolutions of 1848 topple the French monarchy.",
+      "description": "On February 24, 1848, the anti-monarchical Revolutions of 1848 reached France and led to the abdication of King Louis-Philippe.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 24",
+          "url": "https://www.britannica.com/on-this-day/February-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cassius-clay-defeats-liston-1964",
+      "title": "Cassius Clay defeats Sonny Liston for the heavyweight title",
+      "year": "1964",
+      "historicalDate": "February 25, 1964",
+      "dateNote": null,
+      "summary": "The young boxer, soon to be Muhammad Ali, becomes world champion.",
+      "description": "On February 25, 1964, Cassius Clay, later known as Muhammad Ali, defeated reigning world heavyweight champion Sonny Liston.",
+      "notificationTitle": "The upset that made a legend",
+      "notificationBody": "In 1964, Cassius Clay, later Muhammad Ali, beat Sonny Liston for the heavyweight title.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "khrushchev-secret-speech-1956",
+      "title": "Khrushchev denounces Stalin in a secret speech",
+      "year": "1956",
+      "historicalDate": "February 25, 1956",
+      "dateNote": null,
+      "summary": "The Soviet leader attacks his late predecessor.",
+      "description": "On February 25, 1956, the Twentieth Congress of the Communist Party of the Soviet Union closed after First Secretary Nikita Khrushchev delivered a secret speech denouncing the late Joseph Stalin.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hiram-revels-sworn-in-1870",
+      "title": "Hiram Revels becomes the first African American in Congress",
+      "year": "1870",
+      "historicalDate": "February 25, 1870",
+      "dateNote": null,
+      "summary": "He is sworn in to the US Senate.",
+      "description": "On February 25, 1870, Hiram Rhodes Revels was sworn in to the US Senate, becoming the first African American to serve in Congress.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "marcos-flees-philippines-1986",
+      "title": "Ferdinand Marcos flees the Philippines",
+      "year": "1986",
+      "historicalDate": "February 25, 1986",
+      "dateNote": null,
+      "summary": "The president leaves for Hawaii under US pressure.",
+      "description": "On February 25, 1986, Philippine President Ferdinand Marcos, under pressure from the United States, fled the country for Hawaii.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "george-harrison-born-1943",
+      "title": "George Harrison is born",
+      "year": "1943",
+      "historicalDate": "February 25, 1943",
+      "dateNote": null,
+      "summary": "The Beatles' lead guitarist is born.",
+      "description": "On February 25, 1943, the British musician George Harrison, lead guitarist of the Beatles, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 25",
+          "url": "https://www.britannica.com/on-this-day/February-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "napoleon-escapes-elba-1815",
+      "title": "Napoleon escapes from exile on Elba",
+      "year": "1815",
+      "historicalDate": "February 26, 1815",
+      "dateNote": null,
+      "summary": "The deposed emperor slips away to begin the Hundred Days.",
+      "description": "On February 26, 1815, Napoleon, banished to the island of Elba by a coalition of European powers the year before, escaped from exile.",
+      "notificationTitle": "An emperor slips out of exile",
+      "notificationBody": "In 1815, Napoleon escaped from exile on the island of Elba.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "victor-hugo-born-1802",
+      "title": "Victor Hugo is born in Besancon",
+      "year": "1802",
+      "historicalDate": "February 26, 1802",
+      "dateNote": null,
+      "summary": "The author of Les Miserables is born.",
+      "description": "On February 26, 1802, the French writer Victor Hugo, author of The Hunchback of Notre-Dame and Les Miserables, was born in Besancon, France.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Victor Hugo",
+          "url": "https://www.britannica.com/biography/Victor-Hugo"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "grand-teton-national-park-1929",
+      "title": "Grand Teton National Park is established",
+      "year": "1929",
+      "historicalDate": "February 26, 1929",
+      "dateNote": null,
+      "summary": "Wyoming's mountain park joins the national park system.",
+      "description": "On February 26, 1929, Grand Teton National Park was established in Wyoming. In 1950 it was expanded to include most of Jackson Hole National Monument.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "johnny-cash-born-1932",
+      "title": "Johnny Cash is born",
+      "year": "1932",
+      "historicalDate": "February 26, 1932",
+      "dateNote": null,
+      "summary": "The 'Man in Black' of country music is born.",
+      "description": "On February 26, 1932, the singer-songwriter Johnny Cash, known to fans as the Man in Black, was born. He broadened the scope of American country music.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "world-trade-center-bombing-1993",
+      "title": "A truck bomb explodes beneath the World Trade Center",
+      "year": "1993",
+      "historicalDate": "February 26, 1993",
+      "dateNote": null,
+      "summary": "The attack in New York kills six people.",
+      "description": "On February 26, 1993, a truck bomb exploded in the garage of the World Trade Center in New York City, killing six people and injuring more than 1,000.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 26",
+          "url": "https://www.britannica.com/on-this-day/February-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hey-detects-solar-radio-waves-1942",
+      "title": "Radar operators pick up radio waves from the Sun",
+      "year": "1942",
+      "historicalDate": "February 27, 1942",
+      "dateNote": null,
+      "summary": "Physicist James Stanley Hey traces wartime radar jamming to the Sun.",
+      "description": "On February 27, 1942, the British physicist James Stanley Hey noticed strange interference on British radar equipment, which he traced to radio waves from the Sun, a founding discovery of radio astronomy.",
+      "notificationTitle": "Radar hears the Sun",
+      "notificationBody": "In 1942, James Stanley Hey discovered that the Sun gives off radio waves.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "reichstag-fire-1933",
+      "title": "The Reichstag building burns in Berlin",
+      "year": "1933",
+      "historicalDate": "February 27, 1933",
+      "dateNote": null,
+      "summary": "Fire guts the home of Germany's parliament.",
+      "description": "On February 27, 1933, the Reichstag, the building of Germany's parliament in Berlin, caught fire.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "chile-earthquake-2010",
+      "title": "A magnitude 8.8 earthquake strikes Chile",
+      "year": "2010",
+      "historicalDate": "February 27, 2010",
+      "dateNote": null,
+      "summary": "The quake and tsunami kill more than 500 people.",
+      "description": "On February 27, 2010, a magnitude 8.8 earthquake struck Chile, triggering a tsunami that devastated coastal areas. It was the region's most powerful earthquake since 1960 and caused more than 500 deaths.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "wounded-knee-occupation-1973",
+      "title": "The American Indian Movement occupies Wounded Knee",
+      "year": "1973",
+      "historicalDate": "February 27, 1973",
+      "dateNote": null,
+      "summary": "About 200 activists take over the South Dakota hamlet.",
+      "description": "On February 27, 1973, about 200 members of the American Indian Movement occupied Wounded Knee, a hamlet on a reservation in South Dakota.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "john-steinbeck-born-1902",
+      "title": "John Steinbeck is born in Salinas",
+      "year": "1902",
+      "historicalDate": "February 27, 1902",
+      "dateNote": null,
+      "summary": "The author of The Grapes of Wrath is born in California.",
+      "description": "On February 27, 1902, the writer John Steinbeck, author of The Grapes of Wrath and winner of the 1962 Nobel Prize for Literature, was born in Salinas, California.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 27",
+          "url": "https://www.britannica.com/on-this-day/February-27"
+        },
+        {
+          "name": "Encyclopaedia Britannica - John Steinbeck",
+          "url": "https://www.britannica.com/biography/John-Steinbeck"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mash-finale-1983",
+      "title": "M*A*S*H ends with a record-setting finale",
+      "year": "1983",
+      "historicalDate": "February 28, 1983",
+      "dateNote": null,
+      "summary": "More than 106 million viewers watch the last episode.",
+      "description": "On February 28, 1983, more than 106 million people watched 'Goodbye, Farewell and Amen', the final episode of the television series M*A*S*H. It remains the most-watched episode of scripted television.",
+      "notificationTitle": "Goodbye, Farewell and Amen",
+      "notificationBody": "In 1983, more than 106 million people watched the final episode of M*A*S*H.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Today in History: M*A*S*H Series Finale",
+          "url": "https://www.britannica.com/today-in-history/February-28-MASH-Series-Finale"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "benedict-xvi-resigns-2013",
+      "title": "Pope Benedict XVI resigns",
+      "year": "2013",
+      "historicalDate": "February 28, 2013",
+      "dateNote": null,
+      "summary": "He is the first pope to step down since 1415.",
+      "description": "On February 28, 2013, Benedict XVI became the first pope to resign since Gregory XII in 1415.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "egypt-declared-independent-1922",
+      "title": "Egypt is declared independent",
+      "year": "1922",
+      "historicalDate": "February 28, 1922",
+      "dateNote": null,
+      "summary": "The British protectorate over Egypt ends.",
+      "description": "On February 28, 1922, Egypt declared its independence, ending the British protectorate.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "taiwan-228-incident-1947",
+      "title": "The 228 Incident spreads across Taiwan",
+      "year": "1947",
+      "historicalDate": "February 28, 1947",
+      "dateNote": null,
+      "summary": "Protests against the ruling Kuomintang sweep the island.",
+      "description": "On February 28, 1947, protests against the ruling Kuomintang (KMT) spread across Taiwan, in what became known as the 228 Incident.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "olof-palme-assassinated-1986",
+      "title": "Swedish Prime Minister Olof Palme is assassinated",
+      "year": "1986",
+      "historicalDate": "February 28, 1986",
+      "dateNote": null,
+      "summary": "The internationally prominent leader is shot in Stockholm.",
+      "description": "On February 28, 1986, Olof Palme, the internationally prominent prime minister of Sweden, was assassinated.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 28",
+          "url": "https://www.britannica.com/on-this-day/February-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hattie-mcdaniel-wins-oscar-1940",
+      "title": "Hattie McDaniel becomes the first African American to win an Oscar",
+      "year": "1940",
+      "historicalDate": "February 29, 1940",
+      "dateNote": null,
+      "summary": "She is honored for her role in Gone with the Wind.",
+      "description": "On February 29, 1940, Hattie McDaniel became the first African American to win an Academy Award, for best supporting actress in Gone with the Wind (1939).",
+      "notificationTitle": "A leap-day first at the Oscars",
+      "notificationBody": "In 1940, Hattie McDaniel became the first African American to win an Academy Award.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gioachino-rossini-born-1792",
+      "title": "Gioachino Rossini is born in Pesaro",
+      "year": "1792",
+      "historicalDate": "February 29, 1792",
+      "dateNote": null,
+      "summary": "The composer of The Barber of Seville is born on a leap day.",
+      "description": "On February 29, 1792, the Italian composer Gioachino Rossini, best known for comic operas such as The Barber of Seville, was born in Pesaro.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Gioachino Rossini",
+          "url": "https://www.britannica.com/biography/Gioachino-Rossini"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "morarji-desai-born-1896",
+      "title": "Morarji Desai is born",
+      "year": "1896",
+      "historicalDate": "February 29, 1896",
+      "dateNote": null,
+      "summary": "India's first prime minister from outside the Congress party is born.",
+      "description": "On February 29, 1896, Morarji Desai was born. As prime minister of India (1977-79), he was the first leader of independent India not to represent the Indian National Congress party.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gordie-howe-800th-goal-1980",
+      "title": "Gordie Howe scores his 800th NHL goal",
+      "year": "1980",
+      "historicalDate": "February 29, 1980",
+      "dateNote": null,
+      "summary": "At 51, he is the first player to reach the mark.",
+      "description": "On February 29, 1980, at the age of 51, the Canadian hockey player Gordie Howe became the first to score 800 goals in the National Hockey League.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "return-of-the-king-wins-11-oscars-2004",
+      "title": "The Return of the King wins 11 Academy Awards",
+      "year": "2004",
+      "historicalDate": "February 29, 2004",
+      "dateNote": null,
+      "summary": "The final Lord of the Rings film sweeps the Oscars.",
+      "description": "On February 29, 2004, The Return of the King, the last film in the adaptation of J.R.R. Tolkien's The Lord of the Rings, received 11 Academy Awards.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 29",
+          "url": "https://www.britannica.com/on-this-day/February-29"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

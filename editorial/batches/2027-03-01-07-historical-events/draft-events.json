@@ -1,0 +1,658 @@
+{
+  "events": [
+    {
+      "id": "yellowstone-established-1872",
+      "title": "Yellowstone becomes the first US national park",
+      "year": "1872",
+      "historicalDate": "March 1, 1872",
+      "dateNote": null,
+      "summary": "Ulysses S. Grant signs the act creating the park.",
+      "description": "On March 1, 1872, US President Ulysses S. Grant signed the act that established Yellowstone National Park, the country's first national park and generally considered the first in the world.",
+      "notificationTitle": "The first national park",
+      "notificationBody": "In 1872, Ulysses S. Grant signed the act creating Yellowstone, the first US national park.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Yellowstone National Park",
+          "url": "https://www.britannica.com/place/Yellowstone-National-Park"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "march-first-movement-1919",
+      "title": "The March First Movement begins in Korea",
+      "year": "1919",
+      "historicalDate": "March 1, 1919",
+      "dateNote": null,
+      "summary": "Protesters in Seoul demand independence from Japan.",
+      "description": "On March 1, 1919, protesters in Seoul launched the March First Movement, a series of demonstrations for Korean independence from Japan.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "peace-corps-established-1961",
+      "title": "John F. Kennedy establishes the Peace Corps",
+      "year": "1961",
+      "historicalDate": "March 1, 1961",
+      "dateNote": null,
+      "summary": "An executive order creates the volunteer program.",
+      "description": "On March 1, 1961, US President John F. Kennedy established the Peace Corps by executive order. Congress authorized it through the Peace Corps Act that September.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Peace Corps",
+          "url": "https://www.britannica.com/topic/Peace-Corps"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hoover-dam-completed-1936",
+      "title": "The Hoover Dam is completed",
+      "year": "1936",
+      "historicalDate": "March 1, 1936",
+      "dateNote": null,
+      "summary": "The dam on the Colorado River is finished at the Arizona-Nevada border.",
+      "description": "On March 1, 1936, the Hoover Dam on the Colorado River, at the Arizona-Nevada border, was completed.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "native-son-published-1940",
+      "title": "Richard Wright publishes Native Son",
+      "year": "1940",
+      "historicalDate": "March 1, 1940",
+      "dateNote": null,
+      "summary": "The novel confronts systemic racism in the United States.",
+      "description": "On March 1, 1940, Richard Wright published Native Son, a groundbreaking novel that explored systemic racism in the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 1",
+          "url": "https://www.britannica.com/on-this-day/March-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "concorde-first-flight-1969",
+      "title": "Concorde makes its first flight",
+      "year": "1969",
+      "historicalDate": "March 2, 1969",
+      "dateNote": null,
+      "summary": "The Anglo-French supersonic airliner takes to the air.",
+      "description": "On March 2, 1969, Concorde, the supersonic airliner built by Britain and France, made its first flight. It would cruise at more than twice the speed of sound.",
+      "notificationTitle": "Concorde takes to the sky",
+      "notificationBody": "In 1969, the supersonic airliner Concorde made its first flight.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Concorde",
+          "url": "https://www.britannica.com/technology/Concorde"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "wilt-chamberlain-scores-100-1962",
+      "title": "Wilt Chamberlain scores 100 points in an NBA game",
+      "year": "1962",
+      "historicalDate": "March 2, 1962",
+      "dateNote": null,
+      "summary": "His single-game record still stands.",
+      "description": "On March 2, 1962, Wilt Chamberlain scored 100 points in a single NBA game, a record that has never been surpassed.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "morocco-independence-1956",
+      "title": "Morocco proclaims independence from France",
+      "year": "1956",
+      "historicalDate": "March 2, 1956",
+      "dateNote": null,
+      "summary": "Sultan Muhammad V forms the first government.",
+      "description": "On March 2, 1956, Morocco proclaimed its independence from France, and the sultan Muhammad V formed its first government.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mikhail-gorbachev-born-1931",
+      "title": "Mikhail Gorbachev is born",
+      "year": "1931",
+      "historicalDate": "March 2, 1931",
+      "dateNote": null,
+      "summary": "The last leader of the Soviet Union is born.",
+      "description": "On March 2, 1931, Mikhail Gorbachev, who would become the last leader of the Soviet Union, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "dr-seuss-born-1904",
+      "title": "Dr. Seuss is born",
+      "year": "1904",
+      "historicalDate": "March 2, 1904",
+      "dateNote": null,
+      "summary": "The beloved children's author is born in Springfield, Massachusetts.",
+      "description": "On March 2, 1904, Theodor Seuss Geisel, the children's author known as Dr. Seuss, was born in Springfield, Massachusetts.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 2",
+          "url": "https://www.britannica.com/on-this-day/March-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "russia-emancipates-serfs-1861",
+      "title": "Alexander II issues the manifesto freeing Russia's serfs",
+      "year": "1861",
+      "historicalDate": "March 3, 1861",
+      "dateNote": "Gregorian date. In the Julian calendar then used in Russia, the manifesto is dated February 19.",
+      "summary": "The emperor's Emancipation Manifesto ends serfdom.",
+      "description": "On March 3, 1861, the Russian emperor Alexander II issued the Emancipation Manifesto, which declared the freeing of the serfs.",
+      "notificationTitle": "Millions of serfs declared free",
+      "notificationBody": "In 1861, Russia's Alexander II issued the manifesto that freed the serfs.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "star-spangled-banner-anthem-1931",
+      "title": "The Star-Spangled Banner becomes the US national anthem",
+      "year": "1931",
+      "historicalDate": "March 3, 1931",
+      "dateNote": null,
+      "summary": "Congress makes the song official.",
+      "description": "On March 3, 1931, The Star-Spangled Banner was officially adopted as the national anthem of the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-brest-litovsk-1918",
+      "title": "The Treaty of Brest-Litovsk takes Soviet Russia out of World War I",
+      "year": "1918",
+      "historicalDate": "March 3, 1918",
+      "dateNote": null,
+      "summary": "Soviet Russia makes peace with the Central Powers.",
+      "description": "On March 3, 1918, the second of two treaties of Brest-Litovsk ended hostilities between the Central Powers and Soviet Russia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "alexander-graham-bell-born-1847",
+      "title": "Alexander Graham Bell is born in Edinburgh",
+      "year": "1847",
+      "historicalDate": "March 3, 1847",
+      "dateNote": null,
+      "summary": "The future inventor of the telephone is born.",
+      "description": "On March 3, 1847, Alexander Graham Bell, who would patent the telephone, was born in Edinburgh, Scotland.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "time-magazine-first-issue-1923",
+      "title": "Time magazine publishes its first issue",
+      "year": "1923",
+      "historicalDate": "March 3, 1923",
+      "dateNote": null,
+      "summary": "The American weekly newsmagazine debuts.",
+      "description": "On March 3, 1923, the first issue of the American weekly magazine Time was published.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 3",
+          "url": "https://www.britannica.com/on-this-day/March-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "fdr-first-inauguration-1933",
+      "title": "Franklin D. Roosevelt is inaugurated",
+      "year": "1933",
+      "historicalDate": "March 4, 1933",
+      "dateNote": null,
+      "summary": "He is the last president sworn in on March 4.",
+      "description": "On March 4, 1933, in the midst of the Great Depression, Franklin D. Roosevelt was inaugurated president of the United States. He was the last president to take office on March 4.",
+      "notificationTitle": "The last March inauguration",
+      "notificationBody": "In 1933, Franklin D. Roosevelt became the last US president inaugurated on March 4.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "us-constitution-takes-effect-1789",
+      "title": "The US Constitution goes into effect",
+      "year": "1789",
+      "historicalDate": "March 4, 1789",
+      "dateNote": null,
+      "summary": "The new framework of government begins operating.",
+      "description": "On March 4, 1789, the US Constitution went into effect as the governing law of the United States, on a date set by Congress.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "frances-perkins-sworn-in-1933",
+      "title": "Frances Perkins becomes the first woman in a US cabinet",
+      "year": "1933",
+      "historicalDate": "March 4, 1933",
+      "dateNote": null,
+      "summary": "She is sworn in as secretary of labor.",
+      "description": "On March 4, 1933, Frances Perkins was sworn in as US secretary of labor under Franklin D. Roosevelt, the first woman appointed to a cabinet post. She served until 1945.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "antonio-vivaldi-born-1678",
+      "title": "Antonio Vivaldi is born in Venice",
+      "year": "1678",
+      "historicalDate": "March 4, 1678",
+      "dateNote": null,
+      "summary": "The composer of The Four Seasons is born.",
+      "description": "On March 4, 1678, the composer Antonio Vivaldi, best known for the violin concertos The Four Seasons, was born in Venice.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Antonio Vivaldi",
+          "url": "https://www.britannica.com/biography/Antonio-Vivaldi"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "castle-hill-rising-1804",
+      "title": "Irish convicts rise in Australia's Castle Hill Rising",
+      "year": "1804",
+      "historicalDate": "March 4, 1804",
+      "dateNote": null,
+      "summary": "Australia's first rebellion is crushed.",
+      "description": "On March 4, 1804, Irish convicts rose up in the Castle Hill Rising, Australia's first rebellion. Troops of the New South Wales Corps suppressed it, leaving 15 dead.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 4",
+          "url": "https://www.britannica.com/on-this-day/March-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "iron-curtain-speech-1946",
+      "title": "Churchill's Iron Curtain speech",
+      "year": "1946",
+      "historicalDate": "March 5, 1946",
+      "dateNote": null,
+      "summary": "Speaking in Missouri, he popularizes a phrase for Europe's Cold War divide.",
+      "description": "On March 5, 1946, Winston Churchill popularized the term Iron Curtain in a speech at Fulton, Missouri.",
+      "notificationTitle": "Churchill names the Iron Curtain",
+      "notificationBody": "In 1946, Winston Churchill popularized the phrase Iron Curtain in a speech in Missouri.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "boston-massacre-1770",
+      "title": "British troops fire on a crowd in the Boston Massacre",
+      "year": "1770",
+      "historicalDate": "March 5, 1770",
+      "dateNote": null,
+      "summary": "Crispus Attucks and four others are killed.",
+      "description": "On March 5, 1770, British troops opened fire on a crowd in Boston, killing Crispus Attucks and four others in what became known as the Boston Massacre.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "joseph-stalin-dies-1953",
+      "title": "Joseph Stalin dies",
+      "year": "1953",
+      "historicalDate": "March 5, 1953",
+      "dateNote": null,
+      "summary": "The Soviet leader is succeeded by Georgy Malenkov.",
+      "description": "On March 5, 1953, the Soviet leader Joseph Stalin died at age 74 and was succeeded by Georgy Malenkov.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "voyager-1-jupiter-flyby-1979",
+      "title": "Voyager 1 makes its closest approach to Jupiter",
+      "year": "1979",
+      "historicalDate": "March 5, 1979",
+      "dateNote": null,
+      "summary": "The probe's flyby reveals close-up views of Jupiter's moons.",
+      "description": "On March 5, 1979, NASA's Voyager 1 made its closest approach to Jupiter. Its close-up photographs of moons such as Io, Europa, Ganymede and Callisto opened new worlds to planetary scientists.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "NASA Science - Voyager 1",
+          "url": "https://science.nasa.gov/mission/voyager/voyager-1/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "heitor-villa-lobos-born-1887",
+      "title": "Heitor Villa-Lobos is born in Rio de Janeiro",
+      "year": "1887",
+      "historicalDate": "March 5, 1887",
+      "dateNote": null,
+      "summary": "Brazil's best-known composer is born.",
+      "description": "On March 5, 1887, the Brazilian musician and composer Heitor Villa-Lobos was born in Rio de Janeiro.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 5",
+          "url": "https://www.britannica.com/on-this-day/March-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ghana-independence-1957",
+      "title": "Ghana becomes independent",
+      "year": "1957",
+      "historicalDate": "March 6, 1957",
+      "dateNote": null,
+      "summary": "Led by Kwame Nkrumah, the former Gold Coast becomes a nation.",
+      "description": "On March 6, 1957, Ghana became an independent nation, led by Prime Minister Kwame Nkrumah.",
+      "notificationTitle": "A new nation in West Africa",
+      "notificationBody": "In 1957, Ghana became independent, led by Prime Minister Kwame Nkrumah.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "michelangelo-born-1475",
+      "title": "Michelangelo is born",
+      "year": "1475",
+      "historicalDate": "March 6, 1475",
+      "dateNote": "Julian calendar date.",
+      "summary": "The Renaissance artist of the Sistine Chapel ceiling is born.",
+      "description": "On March 6, 1475, the Renaissance artist Michelangelo was born in Caprese, in the Republic of Florence. He later painted the ceiling of the Sistine Chapel.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Michelangelo",
+          "url": "https://www.britannica.com/biography/Michelangelo"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "fall-of-the-alamo-1836",
+      "title": "The Alamo falls to Santa Anna",
+      "year": "1836",
+      "historicalDate": "March 6, 1836",
+      "dateNote": null,
+      "summary": "The 13-day siege ends in San Antonio.",
+      "description": "On March 6, 1836, the Alamo fell to Mexican General Antonio Lopez de Santa Anna after a 13-day siege.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gabriel-garcia-marquez-born-1927",
+      "title": "Gabriel Garcia Marquez is born in Colombia",
+      "year": "1927",
+      "historicalDate": "March 6, 1927",
+      "dateNote": null,
+      "summary": "The author of One Hundred Years of Solitude is born in Aracataca.",
+      "description": "On March 6, 1927, the novelist Gabriel Garcia Marquez, author of One Hundred Years of Solitude and winner of the 1982 Nobel Prize for Literature, was born in Aracataca, Colombia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Gabriel Garcia Marquez",
+          "url": "https://www.britannica.com/biography/Gabriel-Garcia-Marquez"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "la-traviata-premieres-1853",
+      "title": "Verdi's La Traviata premieres in Venice",
+      "year": "1853",
+      "historicalDate": "March 6, 1853",
+      "dateNote": null,
+      "summary": "The opera opens at La Fenice.",
+      "description": "On March 6, 1853, Giuseppe Verdi's opera La Traviata premiered at La Fenice opera house in Venice.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 6",
+          "url": "https://www.britannica.com/on-this-day/March-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bell-telephone-patent-1876",
+      "title": "Alexander Graham Bell receives a patent for the telephone",
+      "year": "1876",
+      "historicalDate": "March 7, 1876",
+      "dateNote": null,
+      "summary": "The patent that launches the telephone age is granted.",
+      "description": "On March 7, 1876, Alexander Graham Bell received a US patent for the telephone.",
+      "notificationTitle": "A patent that rang in a new era",
+      "notificationBody": "In 1876, Alexander Graham Bell received a patent for the telephone.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "selma-bloody-sunday-1965",
+      "title": "Marchers are attacked at Selma's Edmund Pettus Bridge",
+      "year": "1965",
+      "historicalDate": "March 7, 1965",
+      "dateNote": null,
+      "summary": "State troopers beat civil rights marchers on what became known as Bloody Sunday.",
+      "description": "On March 7, 1965, state troopers used nightsticks and tear gas to attack civil rights activists crossing a bridge in Selma, Alabama, at the start of their attempted march to the state capitol in Montgomery.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "marcus-aurelius-and-lucius-verus-emperors-161",
+      "title": "Marcus Aurelius and Lucius Verus become joint Roman emperors",
+      "year": "161",
+      "historicalDate": "March 7, 161",
+      "dateNote": "Julian calendar date.",
+      "summary": "For the first time, two emperors rule Rome together.",
+      "description": "On March 7, 161, Marcus Aurelius declared himself and his adoptive brother Lucius Verus emperors of Rome, the first time two emperors ruled the empire together.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kathryn-bigelow-best-director-2010",
+      "title": "Kathryn Bigelow becomes the first woman to win the best director Oscar",
+      "year": "2010",
+      "historicalDate": "March 7, 2010",
+      "dateNote": null,
+      "summary": "She is honored for The Hurt Locker.",
+      "description": "On March 7, 2010, Kathryn Bigelow became the first woman to win the Academy Award for best director, for The Hurt Locker.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "maurice-ravel-born-1875",
+      "title": "Maurice Ravel is born",
+      "year": "1875",
+      "historicalDate": "March 7, 1875",
+      "dateNote": null,
+      "summary": "The French composer of Bolero is born.",
+      "description": "On March 7, 1875, the French composer Maurice Ravel, best known for Bolero, was born in Ciboure, France.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 7",
+          "url": "https://www.britannica.com/on-this-day/March-7"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Maurice Ravel",
+          "url": "https://www.britannica.com/biography/Maurice-Ravel"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "events": [
+    {
+      "id": "greensboro-sit-in-begins-1960",
+      "title": "The Greensboro lunch counter sit-in begins",
+      "year": "1960",
+      "historicalDate": "February 1, 1960",
+      "dateNote": null,
+      "summary": "Four African Americans sit down at a segregated Woolworth's counter and refuse to leave.",
+      "description": "On February 1, 1960, four African Americans began a sit-in at a segregated Woolworth's lunch counter in Greensboro, North Carolina, a protest that helped spark sit-ins across the American South.",
+      "notificationTitle": "Four people, one lunch counter",
+      "notificationBody": "In 1960, four African Americans sat in at a segregated Woolworth's counter in Greensboro.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "la-boheme-premieres-1896",
+      "title": "Puccini's La Boheme premieres in Turin",
+      "year": "1896",
+      "historicalDate": "February 1, 1896",
+      "dateNote": null,
+      "summary": "Giacomo Puccini's opera opens at the Teatro Regio.",
+      "description": "On February 1, 1896, Giacomo Puccini's opera La Boheme had its premiere at the Teatro Regio in Turin, Italy.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "trygve-lie-first-un-secretary-general-1946",
+      "title": "Trygve Lie is elected the first UN secretary-general",
+      "year": "1946",
+      "historicalDate": "February 1, 1946",
+      "dateNote": null,
+      "summary": "A Norwegian statesman becomes the United Nations' first chief.",
+      "description": "On February 1, 1946, the Norwegian politician and diplomat Trygve Lie was elected the first secretary-general of the United Nations.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Trygve Lie",
+          "url": "https://www.britannica.com/biography/Trygve-Lie"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "columbia-disaster-2003",
+      "title": "Space shuttle Columbia breaks up over Texas",
+      "year": "2003",
+      "historicalDate": "February 1, 2003",
+      "dateNote": null,
+      "summary": "All seven astronauts are lost as the shuttle returns to Earth.",
+      "description": "On February 1, 2003, the US space shuttle Columbia broke up at an altitude of about 40 miles (60 km) over Texas while returning to Earth, killing all seven crew members.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "johanna-sigurdardottir-iceland-prime-minister-2009",
+      "title": "Johanna Sigurdardottir becomes Iceland's first woman prime minister",
+      "year": "2009",
+      "historicalDate": "February 1, 2009",
+      "dateNote": null,
+      "summary": "Iceland swears in its first female head of government.",
+      "description": "On February 1, 2009, Johanna Sigurdardottir was sworn in as prime minister of Iceland, the first woman to hold the post.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 1",
+          "url": "https://www.britannica.com/on-this-day/February-1"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-punxsutawney-groundhog-day-1887",
+      "title": "Punxsutawney turns to a groundhog for a forecast",
+      "year": "1887",
+      "historicalDate": "February 2, 1887",
+      "dateNote": null,
+      "summary": "A Pennsylvania town begins its famous Groundhog Day tradition.",
+      "description": "On February 2, 1887, a group in Punxsutawney, Pennsylvania, went looking for a groundhog to predict the weather, beginning the town's Groundhog Day tradition.",
+      "notificationTitle": "A rodent weather forecaster",
+      "notificationBody": "In 1887, a group in Punxsutawney, Pennsylvania, sought a groundhog to predict the weather.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-guadalupe-hidalgo-1848",
+      "title": "The Treaty of Guadalupe Hidalgo is signed",
+      "year": "1848",
+      "historicalDate": "February 2, 1848",
+      "dateNote": null,
+      "summary": "The treaty ends the Mexican-American War.",
+      "description": "On February 2, 1848, the United States and Mexico signed the Treaty of Guadalupe Hidalgo, ending the Mexican-American War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "de-klerk-lifts-anc-ban-1990",
+      "title": "F.W. de Klerk lifts the ban on the African National Congress",
+      "year": "1990",
+      "historicalDate": "February 2, 1990",
+      "dateNote": null,
+      "summary": "South Africa's president opens the way to Mandela's release.",
+      "description": "On February 2, 1990, South African President F.W. de Klerk lifted the 30-year ban on the African National Congress, leading to Nelson Mandela's release from prison and marking the beginning of the end of apartheid.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-stalingrad-ends-1943",
+      "title": "The Battle of Stalingrad ends",
+      "year": "1943",
+      "historicalDate": "February 2, 1943",
+      "dateNote": null,
+      "summary": "The last German troops in the city surrender to the Soviets.",
+      "description": "On February 2, 1943, the Battle of Stalingrad ended with the surrender of German troops to the Soviet army, a turning point of World War II.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 2",
+          "url": "https://www.britannica.com/on-this-day/February-2"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Battle of Stalingrad",
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "james-joyce-born-1882",
+      "title": "James Joyce is born in Dublin",
+      "year": "1882",
+      "historicalDate": "February 2, 1882",
+      "dateNote": null,
+      "summary": "The author of Ulysses is born.",
+      "description": "On February 2, 1882, the Irish writer James Joyce, author of Ulysses, was born in Dublin.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - James Joyce",
+          "url": "https://www.britannica.com/biography/James-Joyce"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Ulysses",
+          "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "eileen-collins-first-woman-shuttle-pilot-1995",
+      "title": "Eileen Collins becomes the first woman to pilot a space shuttle",
+      "year": "1995",
+      "historicalDate": "February 3, 1995",
+      "dateNote": null,
+      "summary": "She takes the pilot's seat aboard Discovery.",
+      "description": "On February 3, 1995, the American astronaut Eileen Collins became the first woman to pilot a space shuttle, flying aboard Discovery.",
+      "notificationTitle": "A first in the shuttle's front seat",
+      "notificationBody": "In 1995, Eileen Collins became the first woman to pilot a space shuttle.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "fifteenth-amendment-ratified-1870",
+      "title": "The Fifteenth Amendment is ratified",
+      "year": "1870",
+      "historicalDate": "February 3, 1870",
+      "dateNote": null,
+      "summary": "The US Constitution bars denying the vote on the basis of race.",
+      "description": "On February 3, 1870, the Fifteenth Amendment to the US Constitution was ratified, guaranteeing Americans the right to vote regardless of race.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "felix-mendelssohn-born-1809",
+      "title": "Felix Mendelssohn is born",
+      "year": "1809",
+      "historicalDate": "February 3, 1809",
+      "dateNote": null,
+      "summary": "The German composer who bridged Classical and Romantic music is born.",
+      "description": "On February 3, 1809, the German composer Felix Mendelssohn was born. He largely followed Classical models while helping to shape Romanticism.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "umm-kulthum-dies-1975",
+      "title": "Umm Kulthum dies in Cairo",
+      "year": "1975",
+      "historicalDate": "February 3, 1975",
+      "dateNote": null,
+      "summary": "One of the most famous Arab singers of the 20th century dies.",
+      "description": "On February 3, 1975, the Egyptian singer Umm Kulthum, one of the most famous Arab singers and public figures of the 20th century, died in Cairo.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "buddy-holly-dies-1959",
+      "title": "Buddy Holly is killed in a plane crash",
+      "year": "1959",
+      "historicalDate": "February 3, 1959",
+      "dateNote": null,
+      "summary": "The rock 'n' roll singer dies at age 22.",
+      "description": "On February 3, 1959, the American rock 'n' roll singer Buddy Holly was killed in a plane crash at age 22.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 3",
+          "url": "https://www.britannica.com/on-this-day/February-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "thefacebook-launched-2004",
+      "title": "TheFacebook.com is launched at Harvard",
+      "year": "2004",
+      "historicalDate": "February 4, 2004",
+      "dateNote": null,
+      "summary": "Four Harvard students launch the social network that becomes Facebook.",
+      "description": "On February 4, 2004, Harvard students Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz and Chris Hughes founded and launched the website TheFacebook.com, which became Facebook.",
+      "notificationTitle": "The dorm-room site that went global",
+      "notificationBody": "In 2004, Harvard students launched TheFacebook.com, the site that became Facebook.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ceylon-independence-1948",
+      "title": "Ceylon gains independence from Britain",
+      "year": "1948",
+      "historicalDate": "February 4, 1948",
+      "dateNote": null,
+      "summary": "The island now called Sri Lanka ends more than 150 years of British control.",
+      "description": "On February 4, 1948, Ceylon, now Sri Lanka, gained independence from Great Britain, which had controlled the island since 1796.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "yalta-conference-opens-1945",
+      "title": "The Yalta Conference opens",
+      "year": "1945",
+      "historicalDate": "February 4, 1945",
+      "dateNote": null,
+      "summary": "Roosevelt, Churchill and Stalin meet as World War II nears its end.",
+      "description": "On February 4, 1945, in the final stages of World War II, the Yalta Conference opened with Franklin D. Roosevelt, Winston Churchill and Joseph Stalin.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "washington-elected-first-president-1789",
+      "title": "George Washington is elected the first US president",
+      "year": "1789",
+      "historicalDate": "February 4, 1789",
+      "dateNote": null,
+      "summary": "The first electoral college votes for him unanimously.",
+      "description": "On February 4, 1789, George Washington was elected the first president of the United States by a unanimous vote of the first electoral college.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lake-placid-winter-olympics-open-1932",
+      "title": "Lake Placid hosts the first Winter Olympics in the United States",
+      "year": "1932",
+      "historicalDate": "February 4, 1932",
+      "dateNote": null,
+      "summary": "The Winter Games come to New York state.",
+      "description": "On February 4, 1932, the United States hosted its first Winter Olympic Games, in Lake Placid, New York.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 4",
+          "url": "https://www.britannica.com/on-this-day/February-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mexican-constitution-adopted-1917",
+      "title": "Mexico adopts its present constitution",
+      "year": "1917",
+      "historicalDate": "February 5, 1917",
+      "dateNote": null,
+      "summary": "The constitution that still governs Mexico is adopted.",
+      "description": "On February 5, 1917, Mexico adopted its present constitution, which holds that the government should take an active role in the country's day-to-day affairs.",
+      "notificationTitle": "A constitution still in force",
+      "notificationBody": "In 1917, Mexico adopted the constitution that still governs the country today.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 5",
+          "url": "https://www.britannica.com/on-this-day/February-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-hay-pauncefote-treaty-1900",
+      "title": "The first Hay-Pauncefote Treaty is signed",
+      "year": "1900",
+      "historicalDate": "February 5, 1900",
+      "dateNote": null,
+      "summary": "The United States and Britain negotiate over a future canal across Panama.",
+      "description": "On February 5, 1900, the United States and Great Britain signed the first of two Hay-Pauncefote treaties over control of the proposed Panama Canal.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 5",
+          "url": "https://www.britannica.com/on-this-day/February-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "apollo-14-lands-on-moon-1971",
+      "title": "Apollo 14 lands on the Moon",
+      "year": "1971",
+      "historicalDate": "February 5, 1971",
+      "dateNote": null,
+      "summary": "Alan Shepard and Edgar Mitchell touch down in the Fra Mauro highlands.",
+      "description": "On February 5, 1971, Apollo 14's lunar module landed in the Fra Mauro highlands of the Moon. Commander Alan Shepard later swung at two golf balls with a makeshift club.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Apollo 14",
+          "url": "https://www.britannica.com/topic/Apollo-14"
+        },
+        {
+          "name": "NASA - Apollo 14",
+          "url": "https://www.nasa.gov/mission/apollo-14/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cristiano-ronaldo-born-1985",
+      "title": "Cristiano Ronaldo is born in Funchal",
+      "year": "1985",
+      "historicalDate": "February 5, 1985",
+      "dateNote": null,
+      "summary": "The Portuguese soccer star is born.",
+      "description": "On February 5, 1985, the soccer player Cristiano Ronaldo was born in Funchal, Portugal.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 5",
+          "url": "https://www.britannica.com/on-this-day/February-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "powell-un-iraq-presentation-2003",
+      "title": "Colin Powell presents the case against Iraq at the UN",
+      "year": "2003",
+      "historicalDate": "February 5, 2003",
+      "dateNote": null,
+      "summary": "The US secretary of state argues that Iraq holds weapons of mass destruction.",
+      "description": "On February 5, 2003, US Secretary of State Colin Powell appeared before the United Nations Security Council to present evidence that Iraq possessed weapons of mass destruction.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 5",
+          "url": "https://www.britannica.com/on-this-day/February-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-waitangi-signed-1840",
+      "title": "The Treaty of Waitangi is signed",
+      "year": "1840",
+      "historicalDate": "February 6, 1840",
+      "dateNote": null,
+      "summary": "The British Crown and Maori chiefs sign New Zealand's founding document.",
+      "description": "On February 6, 1840, the British and Maori chiefs of the North Island signed the Treaty of Waitangi (Te Tiriti o Waitangi).",
+      "notificationTitle": "The treaty at the heart of New Zealand",
+      "notificationBody": "In 1840, the British Crown and Maori chiefs signed the Treaty of Waitangi.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "elizabeth-ii-accession-1952",
+      "title": "Elizabeth II becomes queen",
+      "year": "1952",
+      "historicalDate": "February 6, 1952",
+      "dateNote": null,
+      "summary": "She succeeds her father, King George VI.",
+      "description": "On February 6, 1952, Elizabeth II ascended the throne of the United Kingdom following the death of her father, King George VI.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bob-marley-born-1945",
+      "title": "Bob Marley is born",
+      "year": "1945",
+      "historicalDate": "February 6, 1945",
+      "dateNote": null,
+      "summary": "The Jamaican singer-songwriter who took reggae worldwide is born.",
+      "description": "On February 6, 1945, the singer-songwriter Bob Marley was born. He found stardom blending ska, rock steady and reggae.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "babe-ruth-born-1895",
+      "title": "Babe Ruth is born",
+      "year": "1895",
+      "historicalDate": "February 6, 1895",
+      "dateNote": null,
+      "summary": "The home-run hitter becomes one of America's most celebrated athletes.",
+      "description": "On February 6, 1895, the baseball player Babe Ruth was born. His home-run hitting made him one of the most celebrated athletes in American sports.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "falcon-heavy-first-flight-2018",
+      "title": "SpaceX's Falcon Heavy makes its first test flight",
+      "year": "2018",
+      "historicalDate": "February 6, 2018",
+      "dateNote": null,
+      "summary": "A new heavy-lift rocket launches for the first time.",
+      "description": "On February 6, 2018, SpaceX's Falcon Heavy launch vehicle made its first test flight.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 6",
+          "url": "https://www.britannica.com/on-this-day/February-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "beatles-land-in-new-york-1964",
+      "title": "The Beatles land in New York City",
+      "year": "1964",
+      "historicalDate": "February 7, 1964",
+      "dateNote": null,
+      "summary": "Beatlemania crosses the Atlantic.",
+      "description": "On February 7, 1964, the Beatles landed in New York City.",
+      "notificationTitle": "Beatlemania touches down",
+      "notificationBody": "In 1964, the Beatles landed in New York City.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "chaplin-little-tramp-debut-1914",
+      "title": "Charlie Chaplin's Little Tramp debuts",
+      "year": "1914",
+      "historicalDate": "February 7, 1914",
+      "dateNote": null,
+      "summary": "Chaplin's most famous character first appears on screen.",
+      "description": "On February 7, 1914, Charlie Chaplin debuted his most famous screen character, the Little Tramp, in the film Kid Auto Races at Venice.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "charles-dickens-born-1812",
+      "title": "Charles Dickens is born in Portsmouth",
+      "year": "1812",
+      "historicalDate": "February 7, 1812",
+      "dateNote": null,
+      "summary": "The author of Oliver Twist and A Christmas Carol is born.",
+      "description": "On February 7, 1812, the novelist Charles Dickens was born in Portsmouth, England.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Charles Dickens",
+          "url": "https://www.britannica.com/biography/Charles-Dickens-British-novelist"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "grenada-independence-1974",
+      "title": "Grenada gains independence from Britain",
+      "year": "1974",
+      "historicalDate": "February 7, 1974",
+      "dateNote": null,
+      "summary": "The Caribbean island becomes an independent nation.",
+      "description": "On February 7, 1974, Grenada gained independence from the United Kingdom.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "abdullah-ii-becomes-king-of-jordan-1999",
+      "title": "Abdullah II becomes king of Jordan",
+      "year": "1999",
+      "historicalDate": "February 7, 1999",
+      "dateNote": null,
+      "summary": "He succeeds his father, King Hussein, hours after his death.",
+      "description": "On February 7, 1999, Abdullah II became king of Jordan, hours after the death of his father, King Hussein.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 7",
+          "url": "https://www.britannica.com/on-this-day/February-7"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

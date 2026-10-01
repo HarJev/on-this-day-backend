@@ -1,0 +1,654 @@
+{
+  "events": [
+    {
+      "id": "jules-verne-born-1828",
+      "title": "Jules Verne is born in Nantes",
+      "year": "1828",
+      "historicalDate": "February 8, 1828",
+      "dateNote": null,
+      "summary": "The author of Twenty Thousand Leagues Under the Sea is born.",
+      "description": "On February 8, 1828, the French writer Jules Verne was born in Nantes. His Extraordinary Journeys included Journey to the Centre of the Earth and Around the World in Eighty Days.",
+      "notificationTitle": "The writer who imagined the future",
+      "notificationBody": "In 1828, Jules Verne, author of Twenty Thousand Leagues Under the Sea, was born in Nantes.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Jules Verne",
+          "url": "https://www.britannica.com/biography/Jules-Verne"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "skylab-4-splashdown-1974",
+      "title": "Skylab 4 returns after a record 84 days in space",
+      "year": "1974",
+      "historicalDate": "February 8, 1974",
+      "dateNote": null,
+      "summary": "The crew of the last Skylab mission splashes down in the Pacific.",
+      "description": "On February 8, 1974, the Skylab 4 crew splashed down in the Pacific Ocean after 84 days in space, a new record for space endurance.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mary-queen-of-scots-executed-1587",
+      "title": "Mary, Queen of Scots, is beheaded",
+      "year": "1587",
+      "historicalDate": "February 8, 1587",
+      "dateNote": "Julian calendar date.",
+      "summary": "Elizabeth I's rival is executed at Fotheringhay Castle.",
+      "description": "On February 8, 1587, Mary, Queen of Scots, the rival of Queen Elizabeth I of England, was beheaded at Fotheringhay Castle.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "dawes-act-1887",
+      "title": "The Dawes General Allotment Act becomes law",
+      "year": "1887",
+      "historicalDate": "February 8, 1887",
+      "dateNote": null,
+      "summary": "The US law breaks up Native American reservation land into allotments.",
+      "description": "On February 8, 1887, the United States passed the Dawes General Allotment Act, providing for the distribution of Native American reservation land.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "james-dean-born-1931",
+      "title": "James Dean is born",
+      "year": "1931",
+      "historicalDate": "February 8, 1931",
+      "dateNote": null,
+      "summary": "The actor who came to symbolize restless youth is born.",
+      "description": "On February 8, 1931, the American actor James Dean was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 8",
+          "url": "https://www.britannica.com/on-this-day/February-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "element-112-synthesized-1996",
+      "title": "Element 112 is created in Germany",
+      "year": "1996",
+      "historicalDate": "February 9, 1996",
+      "dateNote": null,
+      "summary": "Physicists make the heavy element later named copernicium.",
+      "description": "On February 9, 1996, the German physicist Peter Armbruster and his team synthesized chemical element 112, a heavy element later named copernicium in honor of the astronomer Nicolaus Copernicus.",
+      "notificationTitle": "A new element joins the table",
+      "notificationBody": "In 1996, scientists in Germany made element 112, later named copernicium after Copernicus.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Copernicium",
+          "url": "https://www.britannica.com/science/copernicium"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-alinagar-1757",
+      "title": "The Treaty of Alinagar puts Calcutta under British control",
+      "year": "1757",
+      "historicalDate": "February 9, 1757",
+      "dateNote": null,
+      "summary": "The agreement is a prelude to the British seizure of Bengal.",
+      "description": "On February 9, 1757, the Treaty of Alinagar placed what is today Kolkata under British control, a prelude to the British seizure of Bengal.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "jm-coetzee-born-1940",
+      "title": "J.M. Coetzee is born",
+      "year": "1940",
+      "historicalDate": "February 9, 1940",
+      "dateNote": null,
+      "summary": "The South African novelist and future Nobel laureate is born.",
+      "description": "On February 9, 1940, the South African novelist, critic and translator J.M. Coetzee was born. He won the 2003 Nobel Prize for Literature.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "alice-walker-born-1944",
+      "title": "Alice Walker is born",
+      "year": "1944",
+      "historicalDate": "February 9, 1944",
+      "dateNote": null,
+      "summary": "The author of The Color Purple is born.",
+      "description": "On February 9, 1944, the American writer Alice Walker was born. She is perhaps best known for her Pulitzer Prize-winning novel The Color Purple (1982).",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "yury-andropov-dies-1984",
+      "title": "Soviet leader Yury Andropov dies",
+      "year": "1984",
+      "historicalDate": "February 9, 1984",
+      "dateNote": null,
+      "summary": "He is replaced by Konstantin Chernenko after 15 months in power.",
+      "description": "On February 9, 1984, the Soviet leader Yury Andropov died, 15 months after succeeding Leonid Brezhnev. He was replaced by Konstantin Chernenko.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 9",
+          "url": "https://www.britannica.com/on-this-day/February-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "powers-abel-spy-exchange-1962",
+      "title": "U-2 pilot Francis Gary Powers is exchanged for a Soviet spy",
+      "year": "1962",
+      "historicalDate": "February 10, 1962",
+      "dateNote": null,
+      "summary": "The Cold War foes swap Powers for Rudolf Abel.",
+      "description": "On February 10, 1962, Francis Gary Powers, the American U-2 pilot shot down over the Soviet Union in 1960, was exchanged for the jailed Soviet spy Rudolf Abel.",
+      "notificationTitle": "A Cold War spy swap",
+      "notificationBody": "In 1962, U-2 pilot Francis Gary Powers was traded for the Soviet spy Rudolf Abel.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        },
+        {
+          "name": "Encyclopaedia Britannica - U-2 Incident",
+          "url": "https://www.britannica.com/event/U-2-Incident"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-paris-1763",
+      "title": "The Treaty of Paris ends the Seven Years' War",
+      "year": "1763",
+      "historicalDate": "February 10, 1763",
+      "dateNote": null,
+      "summary": "France and Britain settle the conflicts behind the war.",
+      "description": "On February 10, 1763, the Treaty of Paris was signed, ending the territorial conflicts between France and Britain that had caused the Seven Years' War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "queen-victoria-marries-albert-1840",
+      "title": "Queen Victoria marries Prince Albert",
+      "year": "1840",
+      "historicalDate": "February 10, 1840",
+      "dateNote": null,
+      "summary": "The young queen weds her German cousin.",
+      "description": "On February 10, 1840, Queen Victoria of Great Britain married Prince Albert.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bertolt-brecht-born-1898",
+      "title": "Bertolt Brecht is born in Augsburg",
+      "year": "1898",
+      "historicalDate": "February 10, 1898",
+      "dateNote": null,
+      "summary": "The German poet and playwright is born.",
+      "description": "On February 10, 1898, the poet and playwright Bertolt Brecht was born in Augsburg, Germany.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mark-spitz-born-1950",
+      "title": "Mark Spitz is born",
+      "year": "1950",
+      "historicalDate": "February 10, 1950",
+      "dateNote": null,
+      "summary": "The swimmer who will win seven gold medals at one Olympics is born.",
+      "description": "On February 10, 1950, the American swimmer Mark Spitz was born. He became the first athlete to win seven gold medals at a single Olympic Games.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 10",
+          "url": "https://www.britannica.com/on-this-day/February-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nelson-mandela-released-1990",
+      "title": "Nelson Mandela is released from prison",
+      "year": "1990",
+      "historicalDate": "February 11, 1990",
+      "dateNote": null,
+      "summary": "He walks free after 27 years and begins talks to end apartheid.",
+      "description": "On February 11, 1990, Nelson Mandela was released after 27 years in prison. He went on to negotiate with President F.W. de Klerk the end of apartheid in South Africa.",
+      "notificationTitle": "Free after 27 years",
+      "notificationBody": "In 1990, Nelson Mandela walked out of prison after 27 years.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lateran-treaty-signed-1929",
+      "title": "The Lateran Treaty creates Vatican City",
+      "year": "1929",
+      "historicalDate": "February 11, 1929",
+      "dateNote": null,
+      "summary": "Italy recognizes papal sovereignty over an enclave in Rome.",
+      "description": "On February 11, 1929, Benito Mussolini of Italy and Pietro Gasparri of the Vatican signed the Lateran Treaty, recognizing papal sovereignty over Vatican City, an enclave in Rome.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "hosni-mubarak-steps-down-2011",
+      "title": "Hosni Mubarak steps down in Egypt",
+      "year": "2011",
+      "historicalDate": "February 11, 2011",
+      "dateNote": null,
+      "summary": "Pro-democracy protests end nearly 30 years of rule.",
+      "description": "On February 11, 2011, Egyptian President Hosni Mubarak stepped down after nearly 30 years in power, following the pro-democracy uprisings known as the Arab Spring.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "thomas-edison-born-1847",
+      "title": "Thomas Edison is born in Ohio",
+      "year": "1847",
+      "historicalDate": "February 11, 1847",
+      "dateNote": null,
+      "summary": "The inventor of the phonograph is born.",
+      "description": "On February 11, 1847, the inventor Thomas Edison was born in Ohio.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "thatcher-elected-conservative-leader-1975",
+      "title": "Margaret Thatcher becomes leader of Britain's Conservative Party",
+      "year": "1975",
+      "historicalDate": "February 11, 1975",
+      "dateNote": null,
+      "summary": "She replaces Edward Heath at the head of the party.",
+      "description": "On February 11, 1975, Margaret Thatcher was elected leader of Britain's Conservative Party, replacing Edward Heath.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 11",
+          "url": "https://www.britannica.com/on-this-day/February-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "charles-darwin-born-1809",
+      "title": "Charles Darwin is born",
+      "year": "1809",
+      "historicalDate": "February 12, 1809",
+      "dateNote": null,
+      "summary": "The naturalist behind the theory of evolution by natural selection is born.",
+      "description": "On February 12, 1809, Charles Darwin, who developed the theory of evolution by natural selection, was born in England. Abraham Lincoln was born on the same day.",
+      "notificationTitle": "Born the same day as Lincoln",
+      "notificationBody": "In 1809, Charles Darwin was born in England, on the very same day as Abraham Lincoln.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "abraham-lincoln-born-1809",
+      "title": "Abraham Lincoln is born",
+      "year": "1809",
+      "historicalDate": "February 12, 1809",
+      "dateNote": null,
+      "summary": "The 16th US president, who preserved the Union, is born.",
+      "description": "On February 12, 1809, Abraham Lincoln was born. As the 16th president of the United States (1861-65), he preserved the Union during the American Civil War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "puyi-abdicates-1912",
+      "title": "Puyi, China's last emperor, abdicates",
+      "year": "1912",
+      "historicalDate": "February 12, 1912",
+      "dateNote": null,
+      "summary": "The abdication ends imperial rule in China.",
+      "description": "On February 12, 1912, Puyi, the last emperor of China, abdicated at the end of the Chinese Revolution.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "chile-declares-independence-1818",
+      "title": "Chile formally declares independence",
+      "year": "1818",
+      "historicalDate": "February 12, 1818",
+      "dateNote": null,
+      "summary": "The declaration comes a year after San Martin's revolutionary forces won a key victory.",
+      "description": "On February 12, 1818, Chile formally declared its independence, exactly one year after revolutionary forces led by Jose de San Martin won a victory.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "the-scream-stolen-1994",
+      "title": "Thieves steal The Scream from Oslo's National Gallery",
+      "year": "1994",
+      "historicalDate": "February 12, 1994",
+      "dateNote": null,
+      "summary": "Edvard Munch's painting is taken in a break-in.",
+      "description": "On February 12, 1994, thieves broke into the National Gallery in Oslo and stole a version of Edvard Munch's The Scream. The painting was recovered several months later.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 12",
+          "url": "https://www.britannica.com/on-this-day/February-12"
+        },
+        {
+          "name": "Encyclopaedia Britannica - The Scream",
+          "url": "https://www.britannica.com/topic/The-Scream-by-Munch"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "last-peanuts-strip-2000",
+      "title": "The last Peanuts comic strip is published",
+      "year": "2000",
+      "historicalDate": "February 13, 2000",
+      "dateNote": null,
+      "summary": "It appears hours after the death of creator Charles Schulz.",
+      "description": "On February 13, 2000, the last Peanuts comic strip was published, just hours after the death of its creator, Charles Schulz.",
+      "notificationTitle": "Good grief: the final strip",
+      "notificationBody": "In 2000, the last Peanuts strip ran, just hours after its creator, Charles Schulz, died.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kevin-rudd-apology-2008",
+      "title": "Australia's prime minister apologizes to Aboriginal peoples",
+      "year": "2008",
+      "historicalDate": "February 13, 2008",
+      "dateNote": null,
+      "summary": "Kevin Rudd apologizes for abuses under earlier governments.",
+      "description": "On February 13, 2008, Australian Prime Minister Kevin Rudd apologized to Australia's Aboriginal peoples for abuses they had suffered under earlier administrations.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "france-first-atomic-bomb-1960",
+      "title": "France tests its first atomic bomb in the Sahara",
+      "year": "1960",
+      "historicalDate": "February 13, 1960",
+      "dateNote": null,
+      "summary": "France becomes a nuclear power.",
+      "description": "On February 13, 1960, France detonated its first atomic bomb, in the Sahara desert.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "richard-wagner-dies-1883",
+      "title": "Richard Wagner dies in Venice",
+      "year": "1883",
+      "historicalDate": "February 13, 1883",
+      "dateNote": null,
+      "summary": "The German composer dies at 69.",
+      "description": "On February 13, 1883, the German composer Richard Wagner died in Venice at age 69.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "georges-simenon-born-1903",
+      "title": "Georges Simenon is born in Liege",
+      "year": "1903",
+      "historicalDate": "February 13, 1903",
+      "dateNote": null,
+      "summary": "The creator of Inspector Maigret is born.",
+      "description": "On February 13, 1903, the Belgian-French novelist Georges Simenon, creator of the Parisian police inspector Jules Maigret, was born in Liege, Belgium.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 13",
+          "url": "https://www.britannica.com/on-this-day/February-13"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Georges Simenon",
+          "url": "https://www.britannica.com/biography/Georges-Simenon"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "eniac-announced-1946",
+      "title": "The ENIAC computer is announced to the public",
+      "year": "1946",
+      "historicalDate": "February 14, 1946",
+      "dateNote": null,
+      "summary": "A 30-ton machine is unveiled as the first general-purpose electronic computer.",
+      "description": "On February 14, 1946, the ENIAC (Electronic Numerical Integrator and Computer), the first general-purpose electronic computer, was announced to the public. Built at the University of Pennsylvania, it used about 18,000 vacuum tubes and weighed 30 tons.",
+      "notificationTitle": "The 30-ton computer",
+      "notificationBody": "In 1946, the ENIAC, a 30-ton machine with 18,000 vacuum tubes, was announced to the world.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 14",
+          "url": "https://www.britannica.com/on-this-day/February-14"
+        },
+        {
+          "name": "Penn Engineering - ENIAC",
+          "url": "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "james-cook-killed-1779",
+      "title": "Captain James Cook is killed in Hawaii",
+      "year": "1779",
+      "historicalDate": "February 14, 1779",
+      "dateNote": null,
+      "summary": "The British explorer dies at Kealakekua Bay.",
+      "description": "On February 14, 1779, the British explorer Captain James Cook was killed by Hawaiians at Kealakekua Bay.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 14",
+          "url": "https://www.britannica.com/on-this-day/February-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "arizona-statehood-1912",
+      "title": "Arizona becomes the 48th US state",
+      "year": "1912",
+      "historicalDate": "February 14, 1912",
+      "dateNote": null,
+      "summary": "It is the last of the contiguous states to join the Union.",
+      "description": "On February 14, 1912, Arizona became a US state, the last of the 48 contiguous states to be admitted to the Union.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Arizona",
+          "url": "https://www.britannica.com/place/Arizona-state"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "youtube-registered-2005",
+      "title": "YouTube is registered",
+      "year": "2005",
+      "historicalDate": "February 14, 2005",
+      "dateNote": null,
+      "summary": "Three founders register a website for sharing videos.",
+      "description": "On February 14, 2005, Steve Chen, Chad Hurley and Jawed Karim registered YouTube, a website for sharing videos.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 14",
+          "url": "https://www.britannica.com/on-this-day/February-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "jacob-zuma-resigns-2018",
+      "title": "South African President Jacob Zuma resigns",
+      "year": "2018",
+      "historicalDate": "February 14, 2018",
+      "dateNote": null,
+      "summary": "He steps down amid scandals and corruption allegations.",
+      "description": "On February 14, 2018, South African President Jacob Zuma resigned amid scandals and corruption allegations.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: February 14",
+          "url": "https://www.britannica.com/on-this-day/February-14"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

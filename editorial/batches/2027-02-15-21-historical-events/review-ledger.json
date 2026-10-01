@@ -1,0 +1,870 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-15-21-historical-events",
+  "entries": [
+    {
+      "candidateId": "feb-15-maple-leaf-flag",
+      "canonicalId": "canada-adopts-maple-leaf-flag-1965",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 15): 1965: 'Canada officially adopted the Maple Leaf Flag following a royal proclamation.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-15-uss-maine",
+      "canonicalId": "uss-maine-sinks-1898",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 15): 1898: 'On this day in 1898, an explosion sank the USS Maine while it lay at anchor in Havana Harbor.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-15-afghanistan-withdrawal",
+      "canonicalId": "soviet-withdrawal-from-afghanistan-1989",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 15): 1989: 'The Soviet Union withdrew its last troops from Afghanistan after occupying the country since 1979.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-15-susan-b-anthony",
+      "canonicalId": "susan-b-anthony-born-1820",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 15): 1820: Susan B. Anthony, a pioneer for women's suffrage, was born in Adams, Massachusetts."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-15-galileo-born",
+      "canonicalId": "galileo-galilei-born-1564",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Galileo-Galilei",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 15, 1564, Pisa'; died January 8, 1642, Arcetri; discovered 'the four biggest moons of Jupiter (now called the Galilean moons)'; Dialogue Concerning the Two Chief World Systems; sentenced in 1633."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "02-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-16-kyoto-protocol",
+      "canonicalId": "kyoto-protocol-in-force-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 16): 2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.'"
+        },
+        {
+          "url": "https://www.britannica.com/event/Kyoto-Protocol",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: to reduce 'the emission of gases that contribute to global warming'; adopted December 1997 in Kyoto, Japan; in force February 2005; the first addition to the UN Framework Convention on Climate Change."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global",
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-16-lithuania-independence",
+      "canonicalId": "lithuania-declares-independence-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 16): 1918: 'The 20-member Taryba ... proclaimed their country an independent state' (Lithuania)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-16-nylon-patent",
+      "canonicalId": "nylon-patented-1937",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 16): 1937: 'DuPont chemist Wallace Hume Carothers patented nylon.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-16-castro-premier",
+      "canonicalId": "fidel-castro-becomes-premier-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 16): 1959: Fidel Castro became premier of Cuba."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-16-grace-bedell",
+      "canonicalId": "lincoln-meets-grace-bedell-1861",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 16): 1861: 'Abraham Lincoln stopped at Westfield, New York' where he met 12-year-old Grace Bedell, who had suggested he grow a beard."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-17-kasparov-deep-blue",
+      "canonicalId": "kasparov-defeats-deep-blue-1996",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 17): 1996: 'World chess champion Garry Kasparov triumphed over IBM's Deep Blue computer.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-17-kosovo-independence",
+      "canonicalId": "kosovo-declares-independence-2008",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 17): 2008: 'Kosovo declared its independence from Serbia, though a number of countries refused to recognize the new republic.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-17-hunley",
+      "canonicalId": "hunley-sinks-housatonic-1864",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 17): 1864: 'The Confederate Hunley became the first submarine to sink an enemy ship when it successfully attacked the USS Housatonic in the waters off Charleston, South Carolina.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-17-madama-butterfly",
+      "canonicalId": "madama-butterfly-premieres-1904",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 17): 1904: 'Giacomo Puccini's Madama Butterfly premiered at La Scala in Milan, and it became one the most frequently performed operas.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-17-jefferson-house",
+      "canonicalId": "house-elects-jefferson-1801",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 17): 1801: 'Following a tie in the electoral college, the U.S. House of Representatives elected Thomas Jefferson president.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "02-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-18-pluto-discovered",
+      "canonicalId": "pluto-discovered-1930",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 18): 1930: 'Clyde Tombaugh, a 24-year-old American with no formal training in astronomy, discovered the dwarf planet Pluto.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-18-luther-dies",
+      "canonicalId": "martin-luther-dies-1546",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 18): 1546: 'Martin Luther, leader of the Protestant Reformation, died at age 62 in Eisleben, Saxony.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "02-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-18-shani-davis",
+      "canonicalId": "shani-davis-olympic-gold-2006",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 18): 2006: 'American speed skater Shani Davis became the first Black athlete to win an individual Winter Olympics gold medal when he placed first in the men's 1,000-meter long-track final.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-18-yoko-ono-born",
+      "canonicalId": "yoko-ono-born-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 18): 1933: 'Artist and musician Yoko Ono ... was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-18-ramakrishna-born",
+      "canonicalId": "ramakrishna-born-1836",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 18): 1836: 'Hindu mystic and priest Ramakrishna was born in Hoogly (now Hugli), Bengal state, India.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-19-copernicus-born",
+      "canonicalId": "nicolaus-copernicus-born-1473",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 19): 1473: 'Astronomer Nicolaus Copernicus, born this day in 1473, reintroduced the heliocentric system.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Nicolaus-Copernicus",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 19, 1473, Torun, Royal Prussia, Poland'; died May 24, 1543; De revolutionibus orbium coelestium (1543); Earth 'is a planet which, besides orbiting the Sun annually, also turns once daily on its own axis'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "02-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-19-phonograph-patent",
+      "canonicalId": "edison-patents-phonograph-1878",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 19): 1878: 'American inventor Thomas Edison patented the phonograph, a device used to reproduce sound through a needle's vibration.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-19-executive-order-9066",
+      "canonicalId": "executive-order-9066-signed-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 19): 1942: 'U.S. President Franklin D. Roosevelt signed Executive Order 9066, which forced Japanese Americans into detention camps during World War II.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-19-deng-dies",
+      "canonicalId": "deng-xiaoping-dies-1997",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 19): 1997: 'Deng Xiaoping died at age 92.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-19-castro-resigns",
+      "canonicalId": "fidel-castro-resigns-2008",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 19): 2008: 'Fidel Castro, after being out of the public eye for 19 months, formally resigned as president of Cuba.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-20-glenn-orbits",
+      "canonicalId": "john-glenn-orbits-earth-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 20): 1962: 'John H. Glenn, Jr. became the first American to orbit Earth, doing so three times.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-20-paricutin",
+      "canonicalId": "paricutin-begins-erupting-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 20): 1943: 'The volcano Paricutin in Michoacan state, Mexico, began erupting.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-20-futurism",
+      "canonicalId": "futurism-named-in-le-figaro-1909",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 20): 1909: 'Italian author Filippo Tommaso Marinetti coined the term Futurism in the Parisian newspaper Le Figaro.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-20-ansel-adams-born",
+      "canonicalId": "ansel-adams-born-1902",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 20): Births: 1902, Ansel Adams."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-20-boltzmann-born",
+      "canonicalId": "ludwig-boltzmann-born-1844",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 20): Births: 1844, Ludwig Boltzmann."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-21-nixon-china",
+      "canonicalId": "nixon-visits-china-1972",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 21): 1972: 'U.S. Pres. Richard Nixon became the first sitting U.S. president to visit China.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-21-verdun",
+      "canonicalId": "battle-of-verdun-begins-1916",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 21): 1916: 'The Battle of Verdun, one of the most devastating engagements of World War I, began.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-21-malcolm-x",
+      "canonicalId": "malcolm-x-assassinated-1965",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 21): 1965: 'Black revolutionary leader Malcolm X was assassinated while giving a speech in Manhattan.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-21-new-yorker",
+      "canonicalId": "new-yorker-first-issue-1925",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 21): 1925: 'The American weekly magazine The New Yorker began publication under Harold W. Ross.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-21-language-movement",
+      "canonicalId": "bengali-language-movement-1952",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.cam.ac.uk/stories/celebrating-language-diversity",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Cambridge: 'On the 21st of February, 1952, a group of students and political activists staged a protest at the University of Dhaka to protect their native language, Bangla (or Bengali)'; 'Police opened fire, killing 7 people in total, including 4 of the students'; Pakistan recognized Bangla in 1956."
+        },
+        {
+          "url": "https://www.unesco.org/en/days/mother-language",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "UNESCO: International Mother Language Day was Bangladesh's initiative, approved at the 1999 UNESCO General Conference, and observed since 2000. (The page does not give the 1952 background.)"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "02-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

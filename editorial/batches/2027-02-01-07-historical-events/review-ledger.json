@@ -1,0 +1,889 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-01-07-historical-events",
+  "entries": [
+    {
+      "candidateId": "feb-01-greensboro-sit-in",
+      "canonicalId": "greensboro-sit-in-begins-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 1): 1960: 'Protesting a segregated lunch counter at a Woolworth's in Greensboro, North Carolina, four African Americans began a sit-in.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-01-la-boheme",
+      "canonicalId": "la-boheme-premieres-1896",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 1): 1896: 'Giacomo Puccini premiered his opera La Boheme at the Teatro Regio in Turin, Italy.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-01-trygve-lie",
+      "canonicalId": "trygve-lie-first-un-secretary-general-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 1): 1946: 'Politician and diplomat Trygve Lie was elected the first secretary-general of the United Nations.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Trygve-Lie",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Norwegian statesman'; 'On Feb. 1, 1946, Lie was elected UN secretary-general'; resigned November 10, 1952."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-01-columbia-disaster",
+      "canonicalId": "columbia-disaster-2003",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 1): 2003: 'The U.S. space shuttle Columbia broke up catastrophically at an altitude of about 40 miles (60 km) over Texas, killing all seven crew members.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "02-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-01-johanna-sigurdardottir",
+      "canonicalId": "johanna-sigurdardottir-iceland-prime-minister-2009",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 1): 2009: 'Politician Johanna Sigurdardottir was sworn in as Iceland's prime minister, becoming the first woman to hold the post.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-01"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-02-groundhog-day",
+      "canonicalId": "first-punxsutawney-groundhog-day-1887",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 2): 1887: 'On this day in 1887, a group in Punxsutawney, Pennsylvania, searched for a rodent to predict the weather.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-02-guadalupe-hidalgo",
+      "canonicalId": "treaty-of-guadalupe-hidalgo-1848",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 2): 1848: 'The United States and Mexico signed the Treaty of Guadalupe Hidalgo, which ended the Mexican-American War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-02-anc-ban-lifted",
+      "canonicalId": "de-klerk-lifts-anc-ban-1990",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 2): 1990: 'South African President F.W. de Klerk lifted the 30-year ban on the African National Congress, resulting in Nelson Mandela's release from prison and marking the beginning of the end of apartheid.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-02-stalingrad-ends",
+      "canonicalId": "battle-of-stalingrad-ends-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 2): 1943: 'The Battle of Stalingrad in World War II ended with the surrender of German troops to the Soviets.'"
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: battle August 22, 1942 - February 2, 1943; 'Stalingrad (now Volgograd, Russia)'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-02-joyce-born",
+      "canonicalId": "james-joyce-born-1882",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/James-Joyce",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 2, 1882, Dublin, Ireland'; Ulysses published 1922."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Ulysses-novel-by-Joyce",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'first published in book form in Paris in 1922' by Sylvia Beach (Shakespeare and Company); set in 'Dublin on a single day (June 16, 1904)'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-03-eileen-collins",
+      "canonicalId": "eileen-collins-first-woman-shuttle-pilot-1995",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 3): 1995: 'American astronaut Eileen Collins became the first woman to pilot a space shuttle, the Discovery.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "02-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-03-fifteenth-amendment",
+      "canonicalId": "fifteenth-amendment-ratified-1870",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 3): 1870: 'The Fifteenth Amendment to the Constitution of the United States was ratified, guaranteeing Americans the right to vote regardless of race.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-03-mendelssohn-born",
+      "canonicalId": "felix-mendelssohn-born-1809",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 3): 1809: German composer born this day in 1809, who 'largely observed Classical models and practices while initiating key aspects of Romanticism.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-03-umm-kulthum",
+      "canonicalId": "umm-kulthum-dies-1975",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 3): 1975: 'Egyptian singer Umm Kulthum, who was one of the most famous Arab singers and public personalities of the 20th century, died in Cairo.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-03-buddy-holly",
+      "canonicalId": "buddy-holly-dies-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 3): 1959: 'American rock 'n' roll singer Buddy Holly was killed in a plane crash at age 22.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-04-facebook",
+      "canonicalId": "thefacebook-launched-2004",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 4): 2004: 'The website Facebook was founded and launched by Harvard students Mark Zuckerberg, Eduardo Saverin, Dustin Moskovitz, and Chris Hughes as TheFacebook.com.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-04-ceylon-independence",
+      "canonicalId": "ceylon-independence-1948",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 4): 1948: 'Ceylon (now Sri Lanka) gained independence from Great Britain, which had controlled the island since 1796.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "02-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-04-yalta-opens",
+      "canonicalId": "yalta-conference-opens-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 4): 1945: 'During the final stages of World War II, the Yalta Conference opened with Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-04-washington-elected",
+      "canonicalId": "washington-elected-first-president-1789",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 4): 1789: 'George Washington was elected to serve as the first U.S. president by a unanimous vote in the first electoral college.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "02-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-04-lake-placid-1932",
+      "canonicalId": "lake-placid-winter-olympics-open-1932",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 4): 1932: 'The United States hosted its first Winter Olympic Games in Lake Placid, New York.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-05-mexico-constitution",
+      "canonicalId": "mexican-constitution-adopted-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 5): 1917: 'Mexico adopted its present constitution, which posits that the Mexican government should take an active, rather than passive, role in day-to-day affairs.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-05-hay-pauncefote",
+      "canonicalId": "first-hay-pauncefote-treaty-1900",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain over control of the proposed Panama Canal.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-05-apollo-14",
+      "canonicalId": "apollo-14-lands-on-moon-1971",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Apollo-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: mission January 31 to February 9, 1971; photo caption dates the landing February 5, 1971; 'The first landing in the lunar Fra Mauro highlands'; crew Alan Shepard, Jr., Stuart A. Roosa and Edgar Mitchell; Shepard 'swung at two golf balls with a makeshift six-iron club'."
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-14/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: launched Jan. 31, 1971; entered lunar orbit Feb. 4, 1971; landing site Fra Mauro; Shepard commander, Mitchell lunar module pilot, Roosa command module pilot."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-05-ronaldo-born",
+      "canonicalId": "cristiano-ronaldo-born-1985",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 5): 1985: 'Soccer player Cristiano Ronaldo ... was born in Funchal, Portugal.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-05-powell-un",
+      "canonicalId": "powell-un-iraq-presentation-2003",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 5): 2003: 'U.S. Secretary of State Colin Powell appeared before the United Nations Security Council to present evidence ... that Iraq possessed weapons of mass destruction.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-06-waitangi",
+      "canonicalId": "treaty-of-waitangi-signed-1840",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 6): 1840: 'the British and the Maori tribes of North Island signed Te Tiriti o Waitangi (the Treaty of Waitangi).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-06-elizabeth-ii-accession",
+      "canonicalId": "elizabeth-ii-accession-1952",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 6): 1952: 'Elizabeth II ascended the throne of the United Kingdom ... following the death of her father, King George VI.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-06-marley-born",
+      "canonicalId": "bob-marley-born-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 6): 1945: 'Singer-songwriter Bob Marley ... achieved stardom by blending early ska, rock steady, and reggae.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-06-babe-ruth-born",
+      "canonicalId": "babe-ruth-born-1895",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 6): 1895: 'Baseball player Babe Ruth, whose home-run hitting helped make him one of the most celebrated athletes in American sports, was born.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-06-falcon-heavy",
+      "canonicalId": "falcon-heavy-first-flight-2018",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 6): 2018: 'SpaceX's Falcon Heavy launch vehicle had its first test flight.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "02-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-07-beatles-new-york",
+      "canonicalId": "beatles-land-in-new-york-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 7): 1964: 'The Beatles landed in New York City.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "02-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-07-little-tramp",
+      "canonicalId": "chaplin-little-tramp-debut-1914",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 7): 1914: 'Charlie Chaplin debuted his most famous screen character - the Little Tramp' in the film Kid Auto Races at Venice."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-07-dickens-born",
+      "canonicalId": "charles-dickens-born-1812",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 7): 1812: 'Charles Dickens ... was born in England on this day in 1812.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Charles-Dickens-British-novelist",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'February 7, 1812, Portsmouth, Hampshire, England'; Oliver Twist (1837-39), A Christmas Carol (1843), David Copperfield (1850), Great Expectations (1861)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "02-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-07-grenada-independence",
+      "canonicalId": "grenada-independence-1974",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 7): 1974: 'Grenada gained independence from the United Kingdom.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "02-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "feb-07-abdullah-ii",
+      "canonicalId": "abdullah-ii-becomes-king-of-jordan-1999",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Feb 7): 1999: 'Abdullah II became king of Jordan hours after the death of his father, Hussein.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "02-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}
