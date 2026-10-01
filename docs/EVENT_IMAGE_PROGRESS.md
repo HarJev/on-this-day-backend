@@ -20,14 +20,17 @@ content approval: the October 9-15 events are still `source_verified` drafts.
 
 | Stage | Status | Evidence / next action |
 | --- | --- | --- |
-| I1: pick candidates | COMPLETED | 28 of 31 events. All 7 featured events covered. Licences read from Commons file metadata. |
-| I2: prepare and review renditions | NOT_STARTED | Run `prepare` for both candidate files on the Mac, open `review.html`, check crops at phone size. |
-| I3: publish to S3 | NOT_STARTED | Dry run, then `--execute` with bucket `on-this-day-media-764574955085`, origin `https://d2v6di8uk52rif.cloudfront.net`. Check each URL returns 200 `image/jpeg`. |
-| I4: attach to drafts | NOT_STARTED | `attach` into each batch's `draft-events.json` (not `content/events.json`); commit the publish manifests and set `imageRightsStatus: verified` for attached events. |
+| I1: pick candidates | COMPLETED | 28 of 31 events picked (27 after I2 review dropped UPU). All 7 featured events covered. Licences read from Commons file metadata. |
+| I2: prepare and review renditions | COMPLETED | 2026-10-01 on the owner's Mac: `prepare` + `validate` pass for both files (26 main + 1 supplementary JPEGs). Every rendition checked by eye. Dropped the UPU image (see Skipped Events); corrected alt text for Fiji, South African War, Yeager and Washington Monument to match what the photo shows. |
+| I3: publish to S3 | COMPLETED | 2026-10-01 as `on-this-day-terraform`: dry run listed only 27 `event-images/<event-id>/<sha256>.jpg` keys, then `--execute` uploaded 27 objects (26 main + 1 supplementary) to `on-this-day-media-764574955085`. All 27 CloudFront URLs return 200 `image/jpeg`. No other objects or resources touched. |
+| I4: attach to drafts | COMPLETED | 2026-10-01: `attach` wrote 26 images into `2026-10-09-15-historical-events/draft-events.json` and 1 into `2026-10-09-15-supplementary-events/draft-events.json`. Publish manifests copied to `editorial/event-images/manifests/`. `imageRightsStatus: verified` set for those 27 ledger entries only; `reviewStatus` stays `source_verified`. `ClosedBetaRunwayDraftTest`, `mvn -B test` (198 tests) and `EditorialReviewCheckCommand` on both batches pass. |
 | I5: PR review | NOT_STARTED | Separate review thread reviews and merges. |
 
 ## Skipped Events
 
+- `universal-postal-union-founded-1874`: dropped at I2 review. The Commons
+  file is Georges Morin's prize-winning competition model (caption printed in
+  the image), not the monument actually built in Bern.
 - `outer-space-treaty-enters-force-1967`: the only licensed signing photo has
   unclear provenance (ITU Flickr, no event detail).
 - `voskhod-1-launches-1964`: the crew portrait's CC BY-SA claim comes from a

@@ -12,7 +12,14 @@
       "attribution": "NASA/ESA/JHU/R. Sankrit & W. Blair, via Wikimedia Commons (Public domain)",
       "creator": "NASA/ESA/JHU/R. Sankrit & W. Blair",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/keplers-supernova-first-sighted-1604-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 750,
+      "height": 750,
+      "byteSize": 39347,
+      "sha256": "e0360b622287faefcba4c6d762760dfa366517f2fe9b6145e0de47baae1758ec",
+      "objectKey": "event-images/keplers-supernova-first-sighted-1604/e0360b622287faefcba4c6d762760dfa366517f2fe9b6145e0de47baae1758ec.jpg"
     },
     {
       "id": "washington-monument-opens-to-public-1888-primary",
@@ -25,7 +32,14 @@
       "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
       "creator": "Unknown photographer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/washington-monument-opens-to-public-1888-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 728,
+      "byteSize": 100345,
+      "sha256": "674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca",
+      "objectKey": "event-images/washington-monument-opens-to-public-1888/674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca.jpg"
     },
     {
       "id": "uganda-independence-1962-primary",
@@ -38,7 +52,14 @@
       "attribution": "Warren K. Leffler, via Wikimedia Commons (Public domain)",
       "creator": "Warren K. Leffler",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/uganda-independence-1962-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 682,
+      "height": 960,
+      "byteSize": 99492,
+      "sha256": "6f553a1c7013769f2d92ee8c9877cbdd5df31c83b72aa8106a0590dfa6008771",
+      "objectKey": "event-images/uganda-independence-1962/6f553a1c7013769f2d92ee8c9877cbdd5df31c83b72aa8106a0590dfa6008771.jpg"
     },
     {
       "id": "che-guevara-executed-1967-primary",
@@ -51,7 +72,14 @@
       "attribution": "Alberto Korda, via Wikimedia Commons (Public domain)",
       "creator": "Alberto Korda",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/che-guevara-executed-1967-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 721,
+      "height": 960,
+      "byteSize": 94501,
+      "sha256": "4527fd4e37c9ef2c8bba75a2b8aacba7ca4ecd7c14a262b4a8744118c1bb36ea",
+      "objectKey": "event-images/che-guevara-executed-1967/4527fd4e37c9ef2c8bba75a2b8aacba7ca4ecd7c14a262b4a8744118c1bb36ea.jpg"
     },
     {
       "id": "wuchang-uprising-1911-primary",
@@ -64,7 +92,14 @@
       "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
       "creator": "Unknown photographer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/wuchang-uprising-1911-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 893,
+      "height": 514,
+      "byteSize": 104055,
+      "sha256": "dd504b10b11b33d63d2ccf79b38a9c83873682568aea018742189a27187a1c9d",
+      "objectKey": "event-images/wuchang-uprising-1911/dd504b10b11b33d63d2ccf79b38a9c83873682568aea018742189a27187a1c9d.jpg"
     },
     {
       "id": "fiji-independence-1970-primary",
@@ -77,7 +112,14 @@
       "attribution": "National Archives of Fiji, via Wikimedia Commons (Public domain)",
       "creator": "National Archives of Fiji",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/fiji-independence-1970-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 776,
+      "height": 960,
+      "byteSize": 136844,
+      "sha256": "8a093ea215c38e95c4d3fee52492fe3a713253cceddab12e6c09104348a582a8",
+      "objectKey": "event-images/fiji-independence-1970/8a093ea215c38e95c4d3fee52492fe3a713253cceddab12e6c09104348a582a8.jpg"
     },
     {
       "id": "cry-of-yara-1868-primary",
@@ -90,7 +132,14 @@
       "attribution": "Christian Pirkl, via Wikimedia Commons (CC BY-SA 4.0)",
       "creator": "Christian Pirkl",
       "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "relativePath": "prepared/cry-of-yara-1868-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 640,
+      "height": 960,
+      "byteSize": 128475,
+      "sha256": "a9d96a3839245b7077f79b03eab6389cfab89c0ed8e11f614c1e05b0ba5f8c37",
+      "objectKey": "event-images/cry-of-yara-1868/a9d96a3839245b7077f79b03eab6389cfab89c0ed8e11f614c1e05b0ba5f8c37.jpg"
     },
     {
       "id": "us-naval-academy-founded-1845-primary",
@@ -103,7 +152,14 @@
       "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
       "creator": "Unknown artist",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/us-naval-academy-founded-1845-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 638,
+      "byteSize": 112530,
+      "sha256": "64b3f566339fc852167b43a44a9c94cbc7917a6abc1fa47b60a1b8c0e6a6b17d",
+      "objectKey": "event-images/us-naval-academy-founded-1845/64b3f566339fc852167b43a44a9c94cbc7917a6abc1fa47b60a1b8c0e6a6b17d.jpg"
     },
     {
       "id": "apollo-7-launches-1968-primary",
@@ -116,7 +172,14 @@
       "attribution": "NASA, via Wikimedia Commons (Public domain)",
       "creator": "NASA",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/apollo-7-launches-1968-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 709,
+      "height": 960,
+      "byteSize": 96065,
+      "sha256": "836c70c5e20e5e28c9bf2040310a82844965d25be1254e7fe266cbc570329476",
+      "objectKey": "event-images/apollo-7-launches-1968/836c70c5e20e5e28c9bf2040310a82844965d25be1254e7fe266cbc570329476.jpg"
     },
     {
       "id": "second-vatican-council-opens-1962-primary",
@@ -129,7 +192,14 @@
       "attribution": "Peter Geymayer, via Wikimedia Commons (Public domain)",
       "creator": "Peter Geymayer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/second-vatican-council-opens-1962-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 640,
+      "byteSize": 135582,
+      "sha256": "0b37f465222d30a41b9f3244b40c345b8ccd56079393556aa7bcb38a65cb2450",
+      "objectKey": "event-images/second-vatican-council-opens-1962/0b37f465222d30a41b9f3244b40c345b8ccd56079393556aa7bcb38a65cb2450.jpg"
     },
     {
       "id": "south-african-war-begins-1899-primary",
@@ -142,7 +212,14 @@
       "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
       "creator": "Unknown photographer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/south-african-war-begins-1899-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 800,
+      "height": 498,
+      "byteSize": 88958,
+      "sha256": "bd5f9de03b4d3825cf46adc43735c8832a793364be6c70e6e09537433564d73d",
+      "objectKey": "event-images/south-african-war-begins-1899/bd5f9de03b4d3825cf46adc43735c8832a793364be6c70e6e09537433564d73d.jpg"
     },
     {
       "id": "mary-rose-raised-1982-primary",
@@ -155,7 +232,14 @@
       "attribution": "Anthony Anthony, via Wikimedia Commons (Public domain)",
       "creator": "Anthony Anthony",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/mary-rose-raised-1982-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 613,
+      "byteSize": 160088,
+      "sha256": "ddc1144dab4261e96995c17ce5d256241097f6a6c9e0c8b11cbfc55c802d9552",
+      "objectKey": "event-images/mary-rose-raised-1982/ddc1144dab4261e96995c17ce5d256241097f6a6c9e0c8b11cbfc55c802d9552.jpg"
     },
     {
       "id": "equatorial-guinea-independence-1968-primary",
@@ -168,7 +252,14 @@
       "attribution": "Unknown designer, via Wikimedia Commons (Public domain)",
       "creator": "Unknown designer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/equatorial-guinea-independence-1968-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 640,
+      "byteSize": 19443,
+      "sha256": "bfe0a75c18fd97978050839a6ba766066cc4b1e0d7c02368d7246261c7bf2fc4",
+      "objectKey": "event-images/equatorial-guinea-independence-1968/bfe0a75c18fd97978050839a6ba766066cc4b1e0d7c02368d7246261c7bf2fc4.jpg"
     },
     {
       "id": "columbus-sights-land-1492-primary",
@@ -181,7 +272,14 @@
       "attribution": "John Vanderlyn, via Wikimedia Commons (Public domain)",
       "creator": "John Vanderlyn",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/columbus-sights-land-1492-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 631,
+      "byteSize": 111689,
+      "sha256": "1bd59cc0babb8bb6894be5d0ec2be95540326143dea1487fd70987059860de88",
+      "objectKey": "event-images/columbus-sights-land-1492/1bd59cc0babb8bb6894be5d0ec2be95540326143dea1487fd70987059860de88.jpg"
     },
     {
       "id": "chilean-miners-rescued-2010-primary",
@@ -190,11 +288,18 @@
       "sourceRenditionUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Mina_San_Jos%C3%A9_-_Mario_G%C3%B3mez_Rescue_-_Gobierno_de_Chile.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mina_San_Jos%C3%A9_-_Mario_G%C3%B3mez_Rescue_-_Gobierno_de_Chile.jpg",
-      "altText": "Rescuers and officials around the rescue capsule as miner Mario Gómez reaches the surface",
+      "altText": "Rescuers and officials around the rescue capsule as miner Mario G\u00f3mez reaches the surface",
       "attribution": "Gobierno de Chile, via Wikimedia Commons (CC BY 2.0)",
       "creator": "Gobierno de Chile",
       "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "relativePath": "prepared/chilean-miners-rescued-2010-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 640,
+      "byteSize": 100424,
+      "sha256": "f6a59c8f0f4015b15ece0d4892fa2f6a2460b73a20133a65af0568d4daef0e1c",
+      "objectKey": "event-images/chilean-miners-rescued-2010/f6a59c8f0f4015b15ece0d4892fa2f6a2460b73a20133a65af0568d4daef0e1c.jpg"
     },
     {
       "id": "templars-arrested-in-france-1307-primary",
@@ -207,7 +312,14 @@
       "attribution": "Workshop of the Boucicaut Master, via Wikimedia Commons (Public domain)",
       "creator": "Workshop of the Boucicaut Master",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/templars-arrested-in-france-1307-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 952,
+      "height": 956,
+      "byteSize": 259727,
+      "sha256": "a9906935deb2697c93593cd7135d564289b5057c2a828082b19521344604a4fa",
+      "objectKey": "event-images/templars-arrested-in-france-1307/a9906935deb2697c93593cd7135d564289b5057c2a828082b19521344604a4fa.jpg"
     },
     {
       "id": "white-house-cornerstone-laid-1792-primary",
@@ -220,7 +332,14 @@
       "attribution": "John Plumbe, via Wikimedia Commons (Public domain)",
       "creator": "John Plumbe",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/white-house-cornerstone-laid-1792-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 735,
+      "byteSize": 156298,
+      "sha256": "ddc345c264313b9f842bced7b1914fecc51de00d3f86be0bed3e32f49cef9ee2",
+      "objectKey": "event-images/white-house-cornerstone-laid-1792/ddc345c264313b9f842bced7b1914fecc51de00d3f86be0bed3e32f49cef9ee2.jpg"
     },
     {
       "id": "italy-declares-war-on-germany-1943-primary",
@@ -233,7 +352,14 @@
       "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
       "creator": "Unknown photographer",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/italy-declares-war-on-germany-1943-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 567,
+      "height": 960,
+      "byteSize": 54152,
+      "sha256": "9df15a60717cd774e33c26856d96739a3e4d4832b9a36aa445c4c938e39022de",
+      "objectKey": "event-images/italy-declares-war-on-germany-1943/9df15a60717cd774e33c26856d96739a3e4d4832b9a36aa445c4c938e39022de.jpg"
     },
     {
       "id": "battle-of-hastings-1066-primary",
@@ -246,7 +372,14 @@
       "attribution": "Unknown embroiderers, via Wikimedia Commons (Public domain)",
       "creator": "Unknown embroiderers",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/battle-of-hastings-1066-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 836,
+      "byteSize": 260397,
+      "sha256": "b46a9e6031633d228dd338317eb873ea6b58811ca73be7e0520068058cafbba5",
+      "objectKey": "event-images/battle-of-hastings-1066/b46a9e6031633d228dd338317eb873ea6b58811ca73be7e0520068058cafbba5.jpg"
     },
     {
       "id": "yeager-breaks-sound-barrier-1947-primary",
@@ -259,7 +392,14 @@
       "attribution": "U.S. Air Force, via Wikimedia Commons (Public domain)",
       "creator": "U.S. Air Force",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/yeager-breaks-sound-barrier-1947-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 600,
+      "byteSize": 55101,
+      "sha256": "94b6e268bf2e8ba39db1a246a8572339b33293a89877f4f6b2fce92705cb0e46",
+      "objectKey": "event-images/yeager-breaks-sound-barrier-1947/94b6e268bf2e8ba39db1a246a8572339b33293a89877f4f6b2fce92705cb0e46.jpg"
     },
     {
       "id": "battles-of-jena-auerstedt-1806-primary",
@@ -272,7 +412,14 @@
       "attribution": "Horace Vernet, via Wikimedia Commons (Public domain)",
       "creator": "Horace Vernet",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/battles-of-jena-auerstedt-1806-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 813,
+      "byteSize": 123253,
+      "sha256": "9fba258c833feb1d92ee275010fbcb18f542a938def21ff04ce68e8e4dd9b472",
+      "objectKey": "event-images/battles-of-jena-auerstedt-1806/9fba258c833feb1d92ee275010fbcb18f542a938def21ff04ce68e8e4dd9b472.jpg"
     },
     {
       "id": "u2-photographs-missiles-in-cuba-1962-primary",
@@ -285,7 +432,14 @@
       "attribution": "U.S. Department of Defense, via Wikimedia Commons (Public domain)",
       "creator": "U.S. Department of Defense",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/u2-photographs-missiles-in-cuba-1962-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 700,
+      "height": 578,
+      "byteSize": 117229,
+      "sha256": "34607a7d73a54cbc96bdca35aa419dedbc76bfd3925b16ccc84f3f1a949dc843",
+      "objectKey": "event-images/u2-photographs-missiles-in-cuba-1962/34607a7d73a54cbc96bdca35aa419dedbc76bfd3925b16ccc84f3f1a949dc843.jpg"
     },
     {
       "id": "shenzhou-5-yang-liwei-2003-primary",
@@ -298,7 +452,14 @@
       "attribution": "China News Service, via Wikimedia Commons (CC BY 3.0)",
       "creator": "China News Service",
       "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "relativePath": "prepared/shenzhou-5-yang-liwei-2003-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 540,
+      "byteSize": 66018,
+      "sha256": "b23904256cc36e1a06af41144d3e758b2871369abe9d21428ed3b46fd2a17e86",
+      "objectKey": "event-images/shenzhou-5-yang-liwei-2003/b23904256cc36e1a06af41144d3e758b2871369abe9d21428ed3b46fd2a17e86.jpg"
     },
     {
       "id": "cassini-launches-to-saturn-1997-primary",
@@ -311,7 +472,14 @@
       "attribution": "NASA, via Wikimedia Commons (Public domain)",
       "creator": "NASA",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/cassini-launches-to-saturn-1997-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 758,
+      "height": 960,
+      "byteSize": 69254,
+      "sha256": "0c076af335d40e950293542b61f3ec2ba4f551f874aebe26526eaa954ed0c20a",
+      "objectKey": "event-images/cassini-launches-to-saturn-1997/0c076af335d40e950293542b61f3ec2ba4f551f874aebe26526eaa954ed0c20a.jpg"
     },
     {
       "id": "gregorian-calendar-takes-effect-1582-primary",
@@ -324,7 +492,14 @@
       "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
       "creator": "Unknown artist",
       "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/gregorian-calendar-takes-effect-1582-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 677,
+      "byteSize": 184735,
+      "sha256": "8e0dede7fdce322d2b2d06d650dc0dffc3c0ca41d4576066d72da4c8acaac56f",
+      "objectKey": "event-images/gregorian-calendar-takes-effect-1582/8e0dede7fdce322d2b2d06d650dc0dffc3c0ca41d4576066d72da4c8acaac56f.jpg"
     },
     {
       "id": "thrustssc-land-speed-record-1997-primary",
@@ -337,7 +512,14 @@
       "attribution": "Cmglee, via Wikimedia Commons (CC BY-SA 3.0)",
       "creator": "Cmglee",
       "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "relativePath": "prepared/thrustssc-land-speed-record-1997-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 960,
+      "height": 640,
+      "byteSize": 130153,
+      "sha256": "e12bfe4f19044f8b6816f854767eb2024c9a4f9a6eec6343ab95ebb678a57b84",
+      "objectKey": "event-images/thrustssc-land-speed-record-1997/e12bfe4f19044f8b6816f854767eb2024c9a4f9a6eec6343ab95ebb678a57b84.jpg"
     }
   ]
 }

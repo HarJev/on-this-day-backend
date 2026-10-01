@@ -38,7 +38,19 @@
           "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/keplers-supernova-first-sighted-1604/e0360b622287faefcba4c6d762760dfa366517f2fe9b6145e0de47baae1758ec.jpg",
+          "altText": "Colourful glowing shell of gas and dust left by Kepler's Supernova, seen in X-ray, optical and infrared light",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keplers_supernova.jpg",
+          "creator": "NASA/ESA/JHU/R. Sankrit & W. Blair",
+          "attribution": "NASA/ESA/JHU/R. Sankrit & W. Blair, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "washington-monument-opens-to-public-1888",
@@ -56,7 +68,19 @@
           "url": "https://www.britannica.com/topic/Washington-Monument-Washington-DC"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/washington-monument-opens-to-public-1888/674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca.jpg",
+          "altText": "Crowds in the snow around the base of the Washington Monument at its dedication ceremony, 1885",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_Monument,_Dedication_Ceremony,_1885.jpg",
+          "creator": "Unknown photographer",
+          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "uganda-independence-1962",
@@ -78,7 +102,19 @@
           "url": "https://www.ebsco.com/research-starters/history/uganda-gains-independence"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/uganda-independence-1962/6f553a1c7013769f2d92ee8c9877cbdd5df31c83b72aa8106a0590dfa6008771.jpg",
+          "altText": "President John F. Kennedy meeting Milton Obote, the first prime minister of independent Uganda",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_John_F._Kennedy_with_Prime_Minister_Milton_Obote.jpg",
+          "creator": "Warren K. Leffler",
+          "attribution": "Warren K. Leffler, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "che-guevara-executed-1967",
@@ -96,7 +132,19 @@
           "url": "https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/che-guevara-executed-1967/4527fd4e37c9ef2c8bba75a2b8aacba7ca4ecd7c14a262b4a8744118c1bb36ea.jpg",
+          "altText": "Black-and-white portrait of Che Guevara wearing a beret with a star",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda_(3x4_cropped).jpg",
+          "creator": "Alberto Korda",
+          "attribution": "Alberto Korda, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "wuchang-uprising-1911",
@@ -118,7 +166,19 @@
           "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/wuchang-uprising-1911/dd504b10b11b33d63d2ccf79b38a9c83873682568aea018742189a27187a1c9d.jpg",
+          "altText": "Revolutionary soldiers gathered at Wuchang in 1911",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Revolutionary_soldiers_at_Wuchang.jpg",
+          "creator": "Unknown photographer",
+          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "fiji-independence-1970",
@@ -136,7 +196,19 @@
           "url": "https://www.parliament.gov.fj/our-story/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/fiji-independence-1970/8a093ea215c38e95c4d3fee52492fe3a713253cceddab12e6c09104348a582a8.jpg",
+          "altText": "Prince Charles, in white uniform, at the 1970 ceremony handing over Fiji's instruments of independence",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Instruments_of_Independence_1970.jpg",
+          "creator": "National Archives of Fiji",
+          "attribution": "National Archives of Fiji, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cry-of-yara-1868",
@@ -154,7 +226,19 @@
           "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/grito-de-yara"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cry-of-yara-1868/a9d96a3839245b7077f79b03eab6389cfab89c0ed8e11f614c1e05b0ba5f8c37.jpg",
+          "altText": "The bell of La Demajagua, set into a stone wall at the former sugar estate",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Demajagua_2.jpg",
+          "creator": "Christian Pirkl",
+          "attribution": "Christian Pirkl, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "outer-space-treaty-enters-force-1967",
@@ -190,7 +274,19 @@
           "url": "https://www.usna.edu/USNAHistory/index.php"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/us-naval-academy-founded-1845/64b3f566339fc852167b43a44a9c94cbc7917a6abc1fa47b60a1b8c0e6a6b17d.jpg",
+          "altText": "Drawing of the U.S. Naval Academy at Annapolis seen from the river, 1853",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Md._-_Annapolis_-_U.S._Naval_Academy,_1853-_view_of_the_Battery_from_river_LCCN2006683647.jpg",
+          "creator": "Unknown artist",
+          "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "apollo-7-launches-1968",
@@ -208,7 +304,19 @@
           "url": "https://www.nasa.gov/mission/apollo-7/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/apollo-7-launches-1968/836c70c5e20e5e28c9bf2040310a82844965d25be1254e7fe266cbc570329476.jpg",
+          "altText": "A Saturn IB rocket lifting off with the Apollo 7 crew",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_7_Launch_-_GPN-2000-001171.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "second-vatican-council-opens-1962",
@@ -226,7 +334,19 @@
           "url": "https://www.britannica.com/event/Second-Vatican-Council"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/second-vatican-council-opens-1962/0b37f465222d30a41b9f3244b40c345b8ccd56079393556aa7bcb38a65cb2450.jpg",
+          "altText": "Procession of bishops in white mitres in St. Peter's Square at the opening of the Second Vatican Council",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konzilseroeffnung_1.jpg",
+          "creator": "Peter Geymayer",
+          "attribution": "Peter Geymayer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "south-african-war-begins-1899",
@@ -244,7 +364,19 @@
           "url": "https://www.britannica.com/event/South-African-War"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/south-african-war-begins-1899/bd5f9de03b4d3825cf46adc43735c8832a793364be6c70e6e09537433564d73d.jpg",
+          "altText": "A large group of Boer commando fighters posed on a rocky hillside near Ladysmith, Natal, in 1900",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Boer_War;_Veldkornet_Thring%27s_Commandos_Q68470.jpg",
+          "creator": "Unknown photographer",
+          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "mary-rose-raised-1982",
@@ -262,7 +394,19 @@
           "url": "https://maryrose.org/discover/history/recovering-the-mary-rose/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mary-rose-raised-1982/ddc1144dab4261e96995c17ce5d256241097f6a6c9e0c8b11cbfc55c802d9552.jpg",
+          "altText": "Tudor illustration of the warship Mary Rose under sail, from the Anthony Roll",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:AnthonyRoll-2_Mary_Rose_cropped.jpg",
+          "creator": "Anthony Anthony",
+          "attribution": "Anthony Anthony, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "equatorial-guinea-independence-1968",
@@ -280,7 +424,19 @@
           "url": "https://history.state.gov/countries/equatorial-guinea"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/equatorial-guinea-independence-1968/bfe0a75c18fd97978050839a6ba766066cc4b1e0d7c02368d7246261c7bf2fc4.jpg",
+          "altText": "Flag of Equatorial Guinea, with green, white and red stripes, a blue triangle and the national coat of arms",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flag_of_Equatorial_Guinea.svg",
+          "creator": "Unknown designer",
+          "attribution": "Unknown designer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "chilean-miners-rescued-2010",
@@ -298,7 +454,19 @@
           "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/chilean-miners-rescued-2010/f6a59c8f0f4015b15ece0d4892fa2f6a2460b73a20133a65af0568d4daef0e1c.jpg",
+          "altText": "Rescuers and officials around the rescue capsule as miner Mario G\u00f3mez reaches the surface",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mina_San_Jos%C3%A9_-_Mario_G%C3%B3mez_Rescue_-_Gobierno_de_Chile.jpg",
+          "creator": "Gobierno de Chile",
+          "attribution": "Gobierno de Chile, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battle-of-hastings-1066",
@@ -316,7 +484,19 @@
           "url": "https://www.britannica.com/event/Battle-of-Hastings"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/battle-of-hastings-1066/b46a9e6031633d228dd338317eb873ea6b58811ca73be7e0520068058cafbba5.jpg",
+          "altText": "Bayeux Tapestry scene showing the death of King Harold at the Battle of Hastings",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg",
+          "creator": "Unknown embroiderers",
+          "attribution": "Unknown embroiderers, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "yeager-breaks-sound-barrier-1947",
@@ -334,7 +514,19 @@
           "url": "https://www.britannica.com/biography/Chuck-Yeager"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/yeager-breaks-sound-barrier-1947/94b6e268bf2e8ba39db1a246a8572339b33293a89877f4f6b2fce92705cb0e46.jpg",
+          "altText": "Chuck Yeager standing beside the Bell X-1 rocket plane, named Glamorous Glennis",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chuck_Yeager.jpg",
+          "creator": "U.S. Air Force",
+          "attribution": "U.S. Air Force, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battles-of-jena-auerstedt-1806",
@@ -352,7 +544,19 @@
           "url": "https://www.britannica.com/event/Battle-of-Jena"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/battles-of-jena-auerstedt-1806/9fba258c833feb1d92ee275010fbcb18f542a938def21ff04ce68e8e4dd9b472.jpg",
+          "altText": "Horace Vernet's painting of Napoleon reviewing his Imperial Guard at the Battle of Jena",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iena.jpg",
+          "creator": "Horace Vernet",
+          "attribution": "Horace Vernet, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "shenzhou-5-yang-liwei-2003",
@@ -370,7 +574,19 @@
           "url": "https://www.britannica.com/topic/Shenzhou"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/shenzhou-5-yang-liwei-2003/b23904256cc36e1a06af41144d3e758b2871369abe9d21428ed3b46fd2a17e86.jpg",
+          "altText": "Astronaut Yang Liwei aboard Shenzhou 5 holding the flags of China and the United Nations",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shenzhou_5_in_space_Yang_Liwei.png",
+          "creator": "China News Service",
+          "attribution": "China News Service, via Wikimedia Commons (CC BY 3.0)",
+          "license": "CC BY 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "cassini-launches-to-saturn-1997",
@@ -388,7 +604,19 @@
           "url": "https://science.nasa.gov/mission/cassini/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/cassini-launches-to-saturn-1997/0c076af335d40e950293542b61f3ec2ba4f551f874aebe26526eaa954ed0c20a.jpg",
+          "altText": "A Titan IVB rocket lifting off at night carrying the Cassini spacecraft",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Titan_IVB_launch_with_Cassini-Huygens_on_Board.jpg",
+          "creator": "NASA",
+          "attribution": "NASA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-oktoberfest-1810",
@@ -424,7 +652,19 @@
           "url": "https://www.britannica.com/biography/Christopher-Columbus"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/columbus-sights-land-1492/1bd59cc0babb8bb6894be5d0ec2be95540326143dea1487fd70987059860de88.jpg",
+          "altText": "John Vanderlyn's painting of Columbus and his crew coming ashore in the Caribbean",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_USCapitol_-_Landing_of_Columbus_(1).jpg",
+          "creator": "John Vanderlyn",
+          "attribution": "John Vanderlyn, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "voskhod-1-launches-1964",
@@ -460,7 +700,19 @@
           "url": "https://www.britannica.com/topic/Templars"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/templars-arrested-in-france-1307/a9906935deb2697c93593cd7135d564289b5057c2a828082b19521344604a4fa.jpg",
+          "altText": "Medieval manuscript miniature showing two Templar leaders being burned at the stake",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Templars_Burning.jpg",
+          "creator": "Workshop of the Boucicaut Master",
+          "attribution": "Workshop of the Boucicaut Master, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "white-house-cornerstone-laid-1792",
@@ -478,7 +730,19 @@
           "url": "https://www.whitehousehistory.org/building-the-white-house"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/white-house-cornerstone-laid-1792/ddc345c264313b9f842bced7b1914fecc51de00d3f86be0bed3e32f49cef9ee2.jpg",
+          "altText": "Early photograph of the south front of the White House, 1846",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_House_1846.jpg",
+          "creator": "John Plumbe",
+          "attribution": "John Plumbe, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "italy-declares-war-on-germany-1943",
@@ -500,7 +764,19 @@
           "url": "https://www.iwm.org.uk/collections/item/object/205195632"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/italy-declares-war-on-germany-1943/9df15a60717cd774e33c26856d96739a3e4d4832b9a36aa445c4c938e39022de.jpg",
+          "altText": "Portrait of Marshal Pietro Badoglio in uniform",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pietro_Badoglio.jpg",
+          "creator": "Unknown photographer",
+          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "u2-photographs-missiles-in-cuba-1962",
@@ -518,7 +794,19 @@
           "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/u2-photographs-missiles-in-cuba-1962/34607a7d73a54cbc96bdca35aa419dedbc76bfd3925b16ccc84f3f1a949dc843.jpg",
+          "altText": "Annotated aerial reconnaissance photo of a missile launch site at San Cristobal, Cuba, October 14, 1962",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kubkrise1962MRBMSite1.jpg",
+          "creator": "U.S. Department of Defense",
+          "attribution": "U.S. Department of Defense, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "gregorian-calendar-takes-effect-1582",
@@ -536,7 +824,19 @@
           "url": "https://www.britannica.com/topic/Gregorian-calendar"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/gregorian-calendar-takes-effect-1582/8e0dede7fdce322d2b2d06d650dc0dffc3c0ca41d4576066d72da4c8acaac56f.jpg",
+          "altText": "Painted Sienese tablet showing Pope Gregory XIII presiding over the commission that reformed the calendar",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biccherna_Tablet_-_Commission_for_the_Reform_of_the_Calendar_(Pope_Gregory_XIII_Presiding).jpg",
+          "creator": "Unknown artist",
+          "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "thrustssc-land-speed-record-1997",
@@ -554,7 +854,19 @@
           "url": "https://www.transport-museum.com/visiting/thrustssc.aspx"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/thrustssc-land-speed-record-1997/e12bfe4f19044f8b6816f854767eb2024c9a4f9a6eec6343ab95ebb678a57b84.jpg",
+          "altText": "Front view of the jet-powered ThrustSSC car on display in a museum",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:ThrustSSC_front.jpg",
+          "creator": "Cmglee",
+          "attribution": "Cmglee, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "primary": true
+        }
+      ]
     }
   ]
 }
