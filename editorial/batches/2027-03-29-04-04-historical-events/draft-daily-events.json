@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "month": 3,
+      "day": 29,
+      "featuredEventId": "terra-cotta-army-found-1974",
+      "additionalEventIds": [
+        "olbers-discovers-vesta-1807",
+        "the-king-and-i-opens-1951",
+        "twenty-third-amendment-1961",
+        "john-tyler-born-1790"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 30,
+      "featuredEventId": "alaska-purchase-treaty-signed-1867",
+      "additionalEventIds": [
+        "reagan-shot-1981",
+        "treaty-of-paris-ends-crimean-war-1856",
+        "vincent-van-gogh-born-1853",
+        "queen-mother-dies-2002"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 31,
+      "featuredEventId": "eiffel-tower-inaugurated-1889",
+      "additionalEventIds": [
+        "treaty-of-kanagawa-1854",
+        "johnson-will-not-seek-reelection-1968",
+        "oklahoma-opens-on-broadway-1943",
+        "rene-descartes-born-1596"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 1,
+      "featuredEventId": "nunavut-created-1999",
+      "additionalEventIds": [
+        "apple-computer-founded-1976",
+        "royal-air-force-formed-1918",
+        "netherlands-same-sex-marriage-2001",
+        "battle-of-okinawa-begins-1945"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 2,
+      "featuredEventId": "argentina-seizes-falklands-1982",
+      "additionalEventIds": [
+        "pope-john-paul-ii-dies-2005",
+        "wilson-asks-for-war-1917",
+        "2001-a-space-odyssey-premieres-1968",
+        "confederates-evacuate-richmond-1865"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 3,
+      "featuredEventId": "pony-express-begins-1860",
+      "additionalEventIds": [
+        "first-handheld-mobile-call-1973",
+        "mlk-mountaintop-speech-1968",
+        "marshall-plan-signed-1948",
+        "jesse-james-killed-1882"
+      ]
+    },
+    {
+      "month": 4,
+      "day": 4,
+      "featuredEventId": "martin-luther-king-jr-assassinated-1968",
+      "additionalEventIds": [
+        "north-atlantic-treaty-signed-1949",
+        "microsoft-founded-1975",
+        "william-henry-harrison-dies-1841",
+        "maya-angelou-born-1928"
+      ]
+    }
+  ]
+}

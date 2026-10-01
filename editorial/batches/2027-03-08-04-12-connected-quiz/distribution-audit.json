@@ -1,0 +1,107 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-08-04-12-connected-quiz",
+  "auditedOn": "2026-10-01",
+  "state": "editorial_only_awaiting_owner_content_approval",
+  "newQuestionCount": 162,
+  "reusedQuestionCount": 11,
+  "proposedNewRelationCount": 184,
+  "newQuestionTypes": {
+    "multiple_choice": 151,
+    "true_false": 8,
+    "chronological_ordering": 3
+  },
+  "newQuestionDifficulties": {
+    "easy": 62,
+    "medium": 98,
+    "hard": 2
+  },
+  "hookTypes": {
+    "multiple_choice": 154,
+    "true_false": 9,
+    "chronological_ordering": 4,
+    "image_identification": 6
+  },
+  "hookDifficulties": {
+    "easy": 67,
+    "medium": 103,
+    "hard": 3
+  },
+  "newMultipleChoiceCorrectPositions": {
+    "1": 35,
+    "2": 38,
+    "3": 40,
+    "4": 38
+  },
+  "newTrueFalseAnswers": {
+    "true": 4,
+    "false": 4
+  },
+  "hookCollectionMemberships": {
+    "society-culture-and-ideas": 47,
+    "revolutions": 17,
+    "leaders-and-power": 41,
+    "wars-and-conflicts": 18,
+    "science-and-innovation": 45,
+    "world-wars": 4,
+    "ancient-rome": 1,
+    "ancient-history": 6,
+    "exploration-and-exchange": 10
+  },
+  "regionTagMemberships": {
+    "americas": 100,
+    "europe": 66,
+    "asia": 10,
+    "global": 14,
+    "middle-east": 6,
+    "africa": 5
+  },
+  "eraTagMemberships": {
+    "cold-war": 67,
+    "1800-1945": 75,
+    "contemporary": 17,
+    "space-age": 12,
+    "decolonization": 4,
+    "early-modern": 7,
+    "revolutionary": 8,
+    "ancient": 6
+  },
+  "calendarDayHookCounts": {
+    "03-08": 4,
+    "03-09": 5,
+    "03-10": 5,
+    "03-11": 5,
+    "03-12": 5,
+    "03-13": 5,
+    "03-14": 5,
+    "03-15": 4,
+    "03-16": 4,
+    "03-17": 5,
+    "03-18": 4,
+    "03-19": 5,
+    "03-20": 4,
+    "03-21": 4,
+    "03-22": 5,
+    "03-23": 3,
+    "03-24": 5,
+    "03-25": 6,
+    "03-26": 6,
+    "03-27": 4,
+    "03-28": 5,
+    "03-29": 6,
+    "03-30": 4,
+    "03-31": 4,
+    "04-01": 4,
+    "04-02": 5,
+    "04-03": 4,
+    "04-04": 7,
+    "04-05": 4,
+    "04-06": 5,
+    "04-07": 4,
+    "04-08": 5,
+    "04-09": 6,
+    "04-10": 5,
+    "04-11": 6,
+    "04-12": 6
+  }
+}

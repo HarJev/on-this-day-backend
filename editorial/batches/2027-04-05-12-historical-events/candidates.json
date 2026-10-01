@@ -1,0 +1,375 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-04-05-12-historical-events",
+  "candidates": [
+    {
+      "candidateId": "apr-05-first-veto",
+      "kind": "event",
+      "proposedCanonicalId": "washington-first-veto-1792",
+      "workingClaim": "April 5, 1792: On April 5, 1792, George Washington issued the first presidential veto in US history.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "apr-05-maipu",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-maipu-1818",
+      "workingClaim": "April 5, 1818: On April 5, 1818, Chile's independence movement won a decisive victory over Spain at the Battle of Maipu.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "apr-05-war-of-the-pacific",
+      "kind": "event",
+      "proposedCanonicalId": "war-of-the-pacific-begins-1879",
+      "workingClaim": "April 5, 1879: On April 5, 1879, Chile declared war on Peru and Bolivia, beginning the War of the Pacific.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "apr-05-kareem-record",
+      "kind": "event",
+      "proposedCanonicalId": "kareem-abdul-jabbar-scoring-record-1984",
+      "workingClaim": "April 5, 1984: On April 5, 1984, Kareem Abdul-Jabbar surpassed Wilt Chamberlain as the all-time leading scorer in the National Basketball Association.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "apr-05-bette-davis-born",
+      "kind": "event",
+      "proposedCanonicalId": "bette-davis-born-1908",
+      "workingClaim": "April 5, 1908: On April 5, 1908, the American film actress Bette Davis was born in Lowell, Massachusetts.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "apr-06-athens-olympics",
+      "kind": "event",
+      "proposedCanonicalId": "first-modern-olympics-open-1896",
+      "workingClaim": "April 6, 1896: On April 6, 1896, the first modern Olympic Games opened in Athens, with as many as 280 athletes, all men, from 12 countries.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6",
+        "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+      ]
+    },
+    {
+      "candidateId": "apr-06-abba-waterloo",
+      "kind": "event",
+      "proposedCanonicalId": "abba-wins-eurovision-1974",
+      "workingClaim": "April 6, 1974: On April 6, 1974, the Swedish group ABBA won the Eurovision Song Contest with the song 'Waterloo.'",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "apr-06-us-enters-wwi",
+      "kind": "event",
+      "proposedCanonicalId": "us-declares-war-on-germany-1917",
+      "workingClaim": "April 6, 1917: On April 6, 1917, the United States declared war on Germany, entering World War I.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "apr-06-shiloh",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-shiloh-1862",
+      "workingClaim": "April 6, 1862: On April 6, 1862, Union troops clashed with Confederates at the Battle of Shiloh in southwestern Tennessee.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "apr-06-tony-awards",
+      "kind": "event",
+      "proposedCanonicalId": "first-tony-awards-1947",
+      "workingClaim": "April 6, 1947: On April 6, 1947, the Tony Awards were presented for the first time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "apr-07-who-founded",
+      "kind": "event",
+      "proposedCanonicalId": "world-health-organization-established-1948",
+      "workingClaim": "April 7, 1948: On April 7, 1948, the World Health Organization, a specialized agency of the United Nations based in Geneva, was formally established. The date is marked each year as World Health Day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7",
+        "https://www.britannica.com/topic/World-Health-Organization"
+      ]
+    },
+    {
+      "candidateId": "apr-07-rwanda",
+      "kind": "event",
+      "proposedCanonicalId": "rwanda-genocide-begins-1994",
+      "workingClaim": "April 7, 1994: On April 7, 1994, Rwandan Prime Minister Agathe Uwilingiyimana was assassinated by Hutu soldiers, marking the beginning of the Rwandan genocide.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "apr-07-henry-ford-dies",
+      "kind": "event",
+      "proposedCanonicalId": "henry-ford-dies-1947",
+      "workingClaim": "April 7, 1947: On April 7, 1947, Henry Ford, who pioneered assembly-line methods at the Ford Motor Company, died at age 83.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "apr-07-billie-holiday-born",
+      "kind": "event",
+      "proposedCanonicalId": "billie-holiday-born-1915",
+      "workingClaim": "April 7, 1915: On April 7, 1915, Billie Holiday, one of the greatest American jazz singers, was born in Philadelphia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "apr-07-mars-odyssey",
+      "kind": "event",
+      "proposedCanonicalId": "mars-odyssey-launched-2001",
+      "workingClaim": "April 7, 2001: On April 7, 2001, NASA launched the 2001 Mars Odyssey spacecraft, which reached Mars in October and sent back photos and data.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "apr-08-aaron-715",
+      "kind": "event",
+      "proposedCanonicalId": "hank-aaron-715th-home-run-1974",
+      "workingClaim": "April 8, 1974: On April 8, 1974, Hank Aaron hit his 715th career home run, breaking Babe Ruth's record, which had stood since 1935.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "apr-08-venus-de-milo",
+      "kind": "event",
+      "proposedCanonicalId": "venus-de-milo-found-1820",
+      "workingClaim": "April 8, 1820: On April 8, 1820, the Venus de Milo, an ancient marble statue thought to represent the goddess Aphrodite, was found in pieces on the Aegean island of Melos. It is now in the Louvre.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8",
+        "https://www.britannica.com/topic/Venus-de-Milo"
+      ]
+    },
+    {
+      "candidateId": "apr-08-picasso-dies",
+      "kind": "event",
+      "proposedCanonicalId": "pablo-picasso-dies-1973",
+      "workingClaim": "April 8, 1973: On April 8, 1973, Pablo Picasso, one of the most influential artists of the 20th century, died in France at age 91.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "apr-08-seventeenth-amendment",
+      "kind": "event",
+      "proposedCanonicalId": "seventeenth-amendment-ratified-1913",
+      "workingClaim": "April 8, 1913: On April 8, 1913, the Seventeenth Amendment to the US Constitution, providing for the direct election of senators by the voters of each state, was ratified.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "apr-08-kofi-annan-born",
+      "kind": "event",
+      "proposedCanonicalId": "kofi-annan-born-1938",
+      "workingClaim": "April 8, 1938: On April 8, 1938, Kofi Annan, who became the seventh secretary-general of the United Nations, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "apr-09-appomattox",
+      "kind": "event",
+      "proposedCanonicalId": "lee-surrenders-at-appomattox-1865",
+      "workingClaim": "April 9, 1865: On April 9, 1865, Confederate General Robert E. Lee surrendered the Army of Northern Virginia to Union General Ulysses S. Grant at Appomattox Court House, Virginia, effectively ending the American Civil War in Virginia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9",
+        "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
+      ]
+    },
+    {
+      "candidateId": "apr-09-marian-anderson",
+      "kind": "event",
+      "proposedCanonicalId": "marian-anderson-lincoln-memorial-1939",
+      "workingClaim": "April 9, 1939: On April 9, 1939, the contralto Marian Anderson gave a concert to an Easter Sunday crowd of 75,000 at the Lincoln Memorial in Washington, D.C.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "apr-09-churchill-citizen",
+      "kind": "event",
+      "proposedCanonicalId": "churchill-honorary-us-citizen-1963",
+      "workingClaim": "April 9, 1963: On April 9, 1963, an act of the US Congress conferred honorary US citizenship on Sir Winston Churchill.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "apr-09-robeson-born",
+      "kind": "event",
+      "proposedCanonicalId": "paul-robeson-born-1898",
+      "workingClaim": "April 9, 1898: On April 9, 1898, Paul Robeson, the singer, actor and political activist, was born in Princeton, New Jersey.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "apr-09-la-salle-louisiana",
+      "kind": "event",
+      "proposedCanonicalId": "la-salle-claims-louisiana-1682",
+      "workingClaim": "April 9, 1682: On April 9, 1682, the French explorer Rene-Robert Cavelier, sieur de La Salle, claimed the Mississippi River basin for France and named it Louisiana.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "apr-10-good-friday-agreement",
+      "kind": "event",
+      "proposedCanonicalId": "good-friday-agreement-1998",
+      "workingClaim": "April 10, 1998: On April 10, 1998, the Good Friday Agreement (also called the Belfast Agreement), a peace accord for Northern Ireland, was signed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10",
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "apr-10-great-gatsby",
+      "kind": "event",
+      "proposedCanonicalId": "the-great-gatsby-published-1925",
+      "workingClaim": "April 10, 1925: On April 10, 1925, F. Scott Fitzgerald published his novel The Great Gatsby.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "apr-10-zapata",
+      "kind": "event",
+      "proposedCanonicalId": "emiliano-zapata-killed-1919",
+      "workingClaim": "April 10, 1919: On April 10, 1919, the Mexican revolutionary leader Emiliano Zapata was ambushed and shot dead.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "apr-10-black-hole-image",
+      "kind": "event",
+      "proposedCanonicalId": "first-black-hole-image-2019",
+      "workingClaim": "April 10, 2019: On April 10, 2019, astronomers released the first image of a black hole.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "apr-10-safety-pin",
+      "kind": "event",
+      "proposedCanonicalId": "safety-pin-patented-1849",
+      "workingClaim": "April 10, 1849: On April 10, 1849, Walter Hunt patented the safety pin in the United States. He later sold his rights to it for $400.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "apr-11-apollo-13",
+      "kind": "event",
+      "proposedCanonicalId": "apollo-13-launched-1970",
+      "workingClaim": "April 11, 1970: On April 11, 1970, Apollo 13 was launched from Cape Kennedy, Florida, with James Lovell, John Swigert and Fred Haise. An oxygen tank failure forced them to abandon the Moon landing, and they returned safely on April 17.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11",
+        "https://www.nasa.gov/mission/apollo-13/"
+      ]
+    },
+    {
+      "candidateId": "apr-11-macarthur-relieved",
+      "kind": "event",
+      "proposedCanonicalId": "truman-relieves-macarthur-1951",
+      "workingClaim": "April 11, 1951: On April 11, 1951, US President Harry S. Truman relieved General Douglas MacArthur of his command of United Nations and US forces during the Korean War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "apr-11-eichmann-trial",
+      "kind": "event",
+      "proposedCanonicalId": "eichmann-trial-begins-1961",
+      "workingClaim": "April 11, 1961: On April 11, 1961, the trial of the Nazi official Adolf Eichmann began in Jerusalem. It ended eight months later with a death sentence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "apr-11-vonnegut-dies",
+      "kind": "event",
+      "proposedCanonicalId": "kurt-vonnegut-dies-2007",
+      "workingClaim": "April 11, 2007: On April 11, 2007, Kurt Vonnegut, the author of satirical novels such as Slaughterhouse-Five (1969), died at age 84.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "apr-11-wiles-born",
+      "kind": "event",
+      "proposedCanonicalId": "andrew-wiles-born-1953",
+      "workingClaim": "April 11, 1953: On April 11, 1953, the English mathematician Andrew Wiles, who devised a proof of Fermat's last theorem, was born in Cambridge.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "apr-12-gagarin-flight",
+      "kind": "event",
+      "proposedCanonicalId": "gagarin-first-human-in-space-1961",
+      "workingClaim": "April 12, 1961: On April 12, 1961, the Soviet cosmonaut Yuri Gagarin became the first human in space, making one orbit of Earth in 1 hour 29 minutes aboard Vostok 1.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12",
+        "https://www.britannica.com/biography/Yuri-Gagarin"
+      ]
+    },
+    {
+      "candidateId": "apr-12-fort-sumter",
+      "kind": "event",
+      "proposedCanonicalId": "fort-sumter-bombarded-1861",
+      "workingClaim": "April 12, 1861: On April 12, 1861, Confederate guns opened fire on Fort Sumter in Charleston Harbor, South Carolina, beginning the American Civil War. The Union garrison under Major Robert Anderson surrendered after a 34-hour bombardment.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12",
+        "https://www.britannica.com/topic/Fort-Sumter"
+      ]
+    },
+    {
+      "candidateId": "apr-12-polio-vaccine",
+      "kind": "event",
+      "proposedCanonicalId": "salk-polio-vaccine-announced-1955",
+      "workingClaim": "April 12, 1955: On April 12, 1955, the results of a two-year field trial involving nearly two million children were announced, showing Jonas Salk's inactivated polio vaccine to be safe and effective. It was released for use in the United States that day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12",
+        "https://www.britannica.com/biography/Jonas-Salk"
+      ]
+    },
+    {
+      "candidateId": "apr-12-shuttle-columbia",
+      "kind": "event",
+      "proposedCanonicalId": "first-space-shuttle-launch-1981",
+      "workingClaim": "April 12, 1981: On April 12, 1981, NASA launched the first space shuttle, Columbia, designed to orbit Earth and carry people and cargo.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12"
+      ]
+    },
+    {
+      "candidateId": "apr-12-fdr-dies",
+      "kind": "event",
+      "proposedCanonicalId": "franklin-roosevelt-dies-1945",
+      "workingClaim": "April 12, 1945: On April 12, 1945, US President Franklin D. Roosevelt died at age 63.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12"
+      ]
+    }
+  ]
+}

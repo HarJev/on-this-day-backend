@@ -1,0 +1,646 @@
+{
+  "events": [
+    {
+      "id": "julius-caesar-assassinated-44bce",
+      "title": "Julius Caesar is assassinated on the Ides of March",
+      "year": "44 BCE",
+      "historicalDate": "March 15, 44 BCE",
+      "dateNote": "Julian calendar date.",
+      "summary": "The Roman dictator is killed in the midst of his reforms.",
+      "description": "On March 15, 44 BCE, the Roman dictator Julius Caesar was assassinated on the Ides of March while launching a series of political and social reforms.",
+      "notificationTitle": "Beware the Ides of March",
+      "notificationBody": "In 44 BCE, the Roman dictator Julius Caesar was assassinated on the Ides of March.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nicholas-ii-abdicates-1917",
+      "title": "Tsar Nicholas II abdicates",
+      "year": "1917",
+      "historicalDate": "March 15, 1917",
+      "dateNote": "Gregorian date. Russia then used the Julian calendar, 13 days behind.",
+      "summary": "The rule of the Romanov dynasty ends.",
+      "description": "On March 15, 1917, Tsar Nicholas II was forced to abdicate, ending the rule of the Romanov dynasty in Russia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "johnson-we-shall-overcome-speech-1965",
+      "title": "Lyndon B. Johnson gives his We Shall Overcome speech",
+      "year": "1965",
+      "historicalDate": "March 15, 1965",
+      "dateNote": null,
+      "summary": "The president introduces voting rights legislation to Congress.",
+      "description": "On March 15, 1965, US President Lyndon B. Johnson delivered his We Shall Overcome speech, introducing voting rights legislation.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ruth-bader-ginsburg-born-1933",
+      "title": "Ruth Bader Ginsburg is born",
+      "year": "1933",
+      "historicalDate": "March 15, 1933",
+      "dateNote": null,
+      "summary": "The future Supreme Court justice is born.",
+      "description": "On March 15, 1933, Ruth Bader Ginsburg, who became a justice of the US Supreme Court, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "andrew-jackson-born-1767",
+      "title": "Andrew Jackson is born",
+      "year": "1767",
+      "historicalDate": "March 15, 1767",
+      "dateNote": null,
+      "summary": "The future seventh US president is born.",
+      "description": "On March 15, 1767, Andrew Jackson, who became the seventh president of the United States, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Andrew Jackson",
+          "url": "https://www.britannica.com/biography/Andrew-Jackson"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "goddard-liquid-fuel-rocket-1926",
+      "title": "Robert Goddard launches the first liquid-fueled rocket",
+      "year": "1926",
+      "historicalDate": "March 16, 1926",
+      "dateNote": null,
+      "summary": "The rocket flies for 2.5 seconds over a Massachusetts farm.",
+      "description": "On March 16, 1926, Robert Goddard launched the world's first liquid-propelled rocket on his aunt's farm in Auburn, Massachusetts. It flew for 2.5 seconds and reached an altitude of 12.5 meters (41 feet).",
+      "notificationTitle": "Two and a half seconds of liftoff",
+      "notificationBody": "In 1926, Robert Goddard launched the first liquid-fueled rocket from a Massachusetts farm.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Robert Goddard",
+          "url": "https://www.britannica.com/biography/Robert-Goddard"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "west-point-founded-1802",
+      "title": "The US Military Academy at West Point is founded",
+      "year": "1802",
+      "historicalDate": "March 16, 1802",
+      "dateNote": null,
+      "summary": "It begins as a training center for the Corps of Engineers.",
+      "description": "On March 16, 1802, the United States Military Academy at West Point, New York, was founded, originally as a training center for the US Corps of Engineers.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 16",
+          "url": "https://www.britannica.com/on-this-day/March-16"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "james-madison-born-1751",
+      "title": "James Madison is born",
+      "year": "1751",
+      "historicalDate": "March 16, 1751",
+      "dateNote": "Gregorian date. Under the Julian (Old Style) calendar then used in the British colonies, he was born on March 5, 1751.",
+      "summary": "The Father of the Constitution is born in Virginia.",
+      "description": "On March 16, 1751, James Madison, the fourth US president, known as the Father of the Constitution, was born at Port Conway, Virginia.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 16",
+          "url": "https://www.britannica.com/on-this-day/March-16"
+        },
+        {
+          "name": "Encyclopaedia Britannica - James Madison",
+          "url": "https://www.britannica.com/biography/James-Madison"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "amoco-cadiz-oil-spill-1978",
+      "title": "The Amoco Cadiz runs aground off Brittany",
+      "year": "1978",
+      "historicalDate": "March 16, 1978",
+      "dateNote": null,
+      "summary": "The tanker breaks in two and spills crude oil along the French coast.",
+      "description": "On March 16, 1978, the tanker Amoco Cadiz ran aground and broke in two off the coast of Brittany, France, releasing nearly 69 million gallons of light crude oil.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 16",
+          "url": "https://www.britannica.com/on-this-day/March-16"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "grand-ole-opry-house-opens-1974",
+      "title": "The Grand Ole Opry moves into the new Opry House",
+      "year": "1974",
+      "historicalDate": "March 16, 1974",
+      "dateNote": null,
+      "summary": "The country music radio show broadcasts from its new Nashville home.",
+      "description": "On March 16, 1974, the Grand Ole Opry radio show was broadcast for the first time from the new Grand Ole Opry House in Nashville, Tennessee.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 16",
+          "url": "https://www.britannica.com/on-this-day/March-16"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kingdom-of-italy-proclaimed-1861",
+      "title": "The Kingdom of Italy is proclaimed",
+      "year": "1861",
+      "historicalDate": "March 17, 1861",
+      "dateNote": null,
+      "summary": "A parliament in Turin declares a unified Italy.",
+      "description": "On March 17, 1861, after more than ten years of revolution led by figures such as Giuseppe Garibaldi, a parliament assembled in Turin officially proclaimed the unified Kingdom of Italy.",
+      "notificationTitle": "Italy becomes one kingdom",
+      "notificationBody": "In 1861, a parliament in Turin proclaimed the unified Kingdom of Italy.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "british-evacuate-boston-1776",
+      "title": "The British evacuate Boston",
+      "year": "1776",
+      "historicalDate": "March 17, 1776",
+      "dateNote": null,
+      "summary": "A siege by Washington's army forces General Howe out.",
+      "description": "On March 17, 1776, British General William Howe evacuated Boston after a successful siege by American revolutionaries led by General George Washington.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "vanguard-1-launched-1958",
+      "title": "Vanguard 1, the first solar-powered satellite, is launched",
+      "year": "1958",
+      "historicalDate": "March 17, 1958",
+      "dateNote": null,
+      "summary": "The US satellite lifts off from Cape Canaveral.",
+      "description": "On March 17, 1958, Vanguard 1, the first solar-powered satellite, was launched from Cape Canaveral, Florida.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "golda-meir-prime-minister-1969",
+      "title": "Golda Meir becomes prime minister of Israel",
+      "year": "1969",
+      "historicalDate": "March 17, 1969",
+      "dateNote": null,
+      "summary": "She is the country's fourth prime minister.",
+      "description": "On March 17, 1969, Golda Meir became the fourth prime minister of Israel.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "south-africa-reform-referendum-1992",
+      "title": "White South African voters back an end to apartheid",
+      "year": "1992",
+      "historicalDate": "March 17, 1992",
+      "dateNote": null,
+      "summary": "Nearly 69 percent support F.W. de Klerk's reforms.",
+      "description": "On March 17, 1992, nearly 69 percent of white South African voters backed President F.W. de Klerk's reforms, including the repeal of racially discriminatory laws, effectively endorsing the dismantling of apartheid.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "leonov-first-spacewalk-1965",
+      "title": "Aleksei Leonov makes the first spacewalk",
+      "year": "1965",
+      "historicalDate": "March 18, 1965",
+      "dateNote": null,
+      "summary": "The Soviet cosmonaut leaves Voskhod 2 through an air lock.",
+      "description": "On March 18, 1965, the Soviet cosmonaut Aleksei Leonov passed through an air lock on the spacecraft Voskhod 2 and became the first person to walk in space.",
+      "notificationTitle": "The first walk in space",
+      "notificationBody": "In 1965, Aleksei Leonov left Voskhod 2 to become the first person to walk in space.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "pascal-paris-carriage-service-1662",
+      "title": "Blaise Pascal's public carriage service begins in Paris",
+      "year": "1662",
+      "historicalDate": "March 18, 1662",
+      "dateNote": null,
+      "summary": "Shared coaches start running on fixed routes.",
+      "description": "On March 18, 1662, a public transit system of shared carriages devised by the mathematician and philosopher Blaise Pascal began operating in Paris.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stamp-act-repealed-1766",
+      "title": "Parliament repeals the Stamp Act",
+      "year": "1766",
+      "historicalDate": "March 18, 1766",
+      "dateNote": null,
+      "summary": "Protests in the American colonies force the tax's repeal.",
+      "description": "On March 18, 1766, the British Parliament repealed the Stamp Act of 1765 after violent protests from American colonists, including the group known as the Sons of Liberty.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "paris-commune-begins-1871",
+      "title": "The Paris Commune begins",
+      "year": "1871",
+      "historicalDate": "March 18, 1871",
+      "dateNote": null,
+      "summary": "Parisians rise against the French government.",
+      "description": "On March 18, 1871, the Commune of Paris, an insurrection of Parisians against the French government, began. It lasted until May 28.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gardner-museum-theft-1990",
+      "title": "Thieves steal 13 works from Boston's Gardner Museum",
+      "year": "1990",
+      "historicalDate": "March 18, 1990",
+      "dateNote": null,
+      "summary": "Paintings by Rembrandt and Vermeer are taken and never recovered.",
+      "description": "On March 18, 1990, two men posing as police officers stole 13 works, including paintings by Rembrandt and Johannes Vermeer, from the Isabella Stewart Gardner Museum in Boston. The art was never recovered.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sagrada-familia-cornerstone-1882",
+      "title": "The cornerstone of the Sagrada Familia is laid in Barcelona",
+      "year": "1882",
+      "historicalDate": "March 19, 1882",
+      "dateNote": null,
+      "summary": "Work begins on the basilica Antoni Gaudi would transform.",
+      "description": "On March 19, 1882, the bishop of Barcelona laid the cornerstone of the Basilica de la Sagrada Familia. Antoni Gaudi took over as chief architect the next year.",
+      "notificationTitle": "A basilica's first stone",
+      "notificationBody": "In 1882, the cornerstone of Barcelona's Sagrada Familia was laid.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Sagrada Familia",
+          "url": "https://www.britannica.com/topic/Sagrada-Familia"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "standard-time-act-signed-1918",
+      "title": "Woodrow Wilson signs the Standard Time Act",
+      "year": "1918",
+      "historicalDate": "March 19, 1918",
+      "dateNote": null,
+      "summary": "The law brings daylight saving time to the United States.",
+      "description": "On March 19, 1918, US President Woodrow Wilson signed the Standard Time Act, which established daylight saving time in the United States and gave the federal government oversight of the country's time zones.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nevada-legalizes-gambling-1931",
+      "title": "Nevada legalizes gambling",
+      "year": "1931",
+      "historicalDate": "March 19, 1931",
+      "dateNote": null,
+      "summary": "The law paves the way for casinos in Las Vegas.",
+      "description": "On March 19, 1931, Nevada legalized gambling, paving the way for casinos in the state, most notably in Las Vegas.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bob-dylan-debut-album-1962",
+      "title": "Bob Dylan releases his debut album",
+      "year": "1962",
+      "historicalDate": "March 19, 1962",
+      "dateNote": null,
+      "summary": "The eponymous record gets mixed reviews.",
+      "description": "On March 19, 1962, Bob Dylan released his eponymous debut album, to mixed reviews.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "arthur-c-clarke-dies-2008",
+      "title": "Arthur C. Clarke dies",
+      "year": "2008",
+      "historicalDate": "March 19, 2008",
+      "dateNote": null,
+      "summary": "The science-fiction writer behind 2001: A Space Odyssey dies at 90.",
+      "description": "On March 19, 2008, the English writer Arthur C. Clarke, known for his science-fiction novels and his work on the film 2001: A Space Odyssey (1968), died at age 90.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "uncle-toms-cabin-published-1852",
+      "title": "Uncle Tom's Cabin is published as a book",
+      "year": "1852",
+      "historicalDate": "March 20, 1852",
+      "dateNote": null,
+      "summary": "Harriet Beecher Stowe's antislavery novel appears in book form.",
+      "description": "On March 20, 1852, Harriet Beecher Stowe's antislavery novel Uncle Tom's Cabin was published as a book, after running as a serial.",
+      "notificationTitle": "A novel that stirred a nation",
+      "notificationBody": "In 1852, Harriet Beecher Stowe's Uncle Tom's Cabin was published as a book.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tokyo-subway-sarin-attack-1995",
+      "title": "AUM Shinrikyo releases nerve gas in the Tokyo subway",
+      "year": "1995",
+      "historicalDate": "March 20, 1995",
+      "dateNote": null,
+      "summary": "The sarin attack kills and injures commuters.",
+      "description": "On March 20, 1995, members of the AUM Shinrikyo sect released nerve gas in the Tokyo subway, killing at least 12 people and injuring thousands.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lennon-marries-yoko-ono-1969",
+      "title": "John Lennon marries Yoko Ono in Gibraltar",
+      "year": "1969",
+      "historicalDate": "March 20, 1969",
+      "dateNote": null,
+      "summary": "The Beatle weds the Japanese artist and musician.",
+      "description": "On March 20, 1969, John Lennon of the Beatles married the Japanese artist and musician Yoko Ono in Gibraltar.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ripon-republican-party-meeting-1854",
+      "title": "A meeting in Ripon, Wisconsin, proposes a new party",
+      "year": "1854",
+      "historicalDate": "March 20, 1854",
+      "dateNote": null,
+      "summary": "Opponents of slavery's expansion call for what became the Republican Party.",
+      "description": "On March 20, 1854, a meeting of Whigs, anti-Nebraska Democrats and Free-Soilers in Ripon, Wisconsin, proposed forming a new party, which became the Republican Party.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "henrik-ibsen-born-1828",
+      "title": "Henrik Ibsen is born",
+      "year": "1828",
+      "historicalDate": "March 20, 1828",
+      "dateNote": null,
+      "summary": "The Norwegian playwright is born.",
+      "description": "On March 20, 1828, the Norwegian playwright Henrik Ibsen was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "alcatraz-closes-1963",
+      "title": "Alcatraz prison closes",
+      "year": "1963",
+      "historicalDate": "March 21, 1963",
+      "dateNote": null,
+      "summary": "The federal prison on San Francisco Bay is shut down.",
+      "description": "On March 21, 1963, the federal prison on Alcatraz Island in San Francisco Bay was formally shut down.",
+      "notificationTitle": "The Rock shuts its doors",
+      "notificationBody": "In 1963, the federal prison on Alcatraz Island in San Francisco Bay closed.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-public-tweet-2006",
+      "title": "Jack Dorsey sends the first public tweet",
+      "year": "2006",
+      "historicalDate": "March 21, 2006",
+      "dateNote": null,
+      "summary": "It reads 'just setting up my twttr'.",
+      "description": "On March 21, 2006, Twitter cofounder Jack Dorsey sent the first public tweet, which read 'just setting up my twttr.'",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "namibia-independence-1990",
+      "title": "Namibia becomes independent",
+      "year": "1990",
+      "historicalDate": "March 21, 1990",
+      "dateNote": null,
+      "summary": "German and then South African rule ends after 106 years.",
+      "description": "On March 21, 1990, after 106 years of German and South African rule, Namibia became independent.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "sharpeville-massacre-1960",
+      "title": "Police kill protesters at Sharpeville",
+      "year": "1960",
+      "historicalDate": "March 21, 1960",
+      "dateNote": null,
+      "summary": "About 70 demonstrators against South Africa's pass laws are killed.",
+      "description": "On March 21, 1960, police killed about 70 Black African demonstrators in Sharpeville, South Africa, during a protest against the pass laws.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "johann-sebastian-bach-born-1685",
+      "title": "Johann Sebastian Bach is born",
+      "year": "1685",
+      "historicalDate": "March 21, 1685",
+      "dateNote": "Julian calendar date.",
+      "summary": "The German composer is born.",
+      "description": "On March 21, 1685, the German composer Johann Sebastian Bach was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

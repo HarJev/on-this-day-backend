@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "month": 3,
+      "day": 8,
+      "featuredEventId": "frazier-defeats-ali-1971",
+      "additionalEventIds": [
+        "february-revolution-begins-1917",
+        "senate-adopts-cloture-1917",
+        "new-york-stock-exchange-constituted-1817",
+        "oliver-wendell-holmes-jr-born-1841"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 9,
+      "featuredEventId": "barbie-debuts-1959",
+      "additionalEventIds": [
+        "monitor-and-virginia-battle-1862",
+        "yuri-gagarin-born-1934",
+        "napoleon-marries-josephine-1796",
+        "bobby-fischer-born-1943"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 10,
+      "featuredEventId": "bell-first-telephone-speech-1876",
+      "additionalEventIds": [
+        "park-geun-hye-removed-2017",
+        "mars-reconnaissance-orbiter-arrives-2006",
+        "james-earl-ray-pleads-guilty-1969",
+        "buffy-the-vampire-slayer-premieres-1997"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 11,
+      "featuredEventId": "a-raisin-in-the-sun-opens-1959",
+      "additionalEventIds": [
+        "japan-earthquake-and-tsunami-2011",
+        "lithuania-declares-independence-1990",
+        "lend-lease-act-1941",
+        "gorbachev-becomes-soviet-leader-1985"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 12,
+      "featuredEventId": "gandhi-salt-march-begins-1930",
+      "additionalEventIds": [
+        "first-american-girl-guides-troop-1912",
+        "truman-doctrine-1947",
+        "first-fireside-chat-1933",
+        "poland-hungary-czechia-join-nato-1999"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 13,
+      "featuredEventId": "herschel-discovers-uranus-1781",
+      "additionalEventIds": [
+        "pope-francis-elected-2013",
+        "alexander-ii-assassinated-1881",
+        "anschluss-announced-1938",
+        "britannica-ends-print-edition-2012"
+      ]
+    },
+    {
+      "month": 3,
+      "day": 14,
+      "featuredEventId": "albert-einstein-born-1879",
+      "additionalEventIds": [
+        "cotton-gin-patent-1794",
+        "karl-marx-dies-1883",
+        "stephen-hawking-dies-2018",
+        "fbi-ten-most-wanted-list-1950"
+      ]
+    }
+  ]
+}
