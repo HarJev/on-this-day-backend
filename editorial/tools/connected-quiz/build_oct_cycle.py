@@ -42,15 +42,15 @@ SRC = {
     "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/": (
         "NASA - 420 years ago, Johannes Kepler observes a supernova",
         "NASA: first observed on Oct. 9, 1604; 'the last known supernova to occur in the Milky Way Galaxy' and the last visible to the naked eye until 1987 (SN 1987A, in the Large Magellanic Cloud)."),
+    "https://www.britannica.com/on-this-day/October-9": (
+        BR + "On This Day, October 9",
+        "Britannica, 1888 entry: the Washington Monument, a marble-faced granite obelisk honouring George Washington, built 1848-84 and dedicated in 1885, opened to the public."),
+    "https://www.britannica.com/place/Uganda": (
+        BR + "Uganda",
+        "Britannica: the capital Kampala is built near the shores of Lake Victoria, Africa's largest freshwater lake, which forms part of the frontier with Kenya and Tanzania."),
     "https://www.britannica.com/biography/Che-Guevara": (
         BR + "Che Guevara",
         "Britannica: 'born June 14, 1928, Rosario, Argentina - died October 9, 1967, La Higuera, Bolivia'; Argentine-Cuban revolutionary."),
-    "https://www.korea.net/NewsFocus/Culture/view?articleId=145583": (
-        "Korea.net - The story of Hangeul",
-        "Korea.net: Sejong's scholars created the alphabet in 1443; the Hunminjeongeum was published and officially proclaimed in 1446; Hanja (Chinese characters) were hard for people who did not speak Chinese; Hangeul Day is celebrated annually on Oct. 9."),
-    "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript": (
-        "UNESCO Memory of the World - Hunminjeongum manuscript",
-        "UNESCO: the manuscript, published in the ninth lunar month of 1446, contains Sejong the Great's promulgation of the Korean alphabet; the alphabet was completed in 1443."),
     "https://2009-2017.state.gov/t/isn/5181.htm": (
         "U.S. Department of State (archive) - Outer Space Treaty",
         "State Department text: entered into force October 10, 1967; Art. I outer space incl. the Moon free for exploration and scientific investigation by all States; Art. II not subject to national appropriation by claim of sovereignty; Art. IV no nuclear weapons in orbit."),
@@ -102,12 +102,6 @@ SRC = {
     "https://www.britannica.com/on-this-day/October-13": (
         BR + "On This Day, October 13",
         "Britannica: the White House cornerstone was laid in 1792; it has been home to every U.S. president since 1800, when John and Abigail Adams moved in."),
-    "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm": (
-        "Project Gutenberg - Protocols of the International Meridian Conference (1884)",
-        "Official protocols, session of October 13, 1884: the resolution proposing the meridian through the transit instrument at the Observatory of Greenwich as the initial meridian for longitude passed, ayes 21, noes 1 (San Domingo), abstaining 2 (Brazil, France)."),
-    "https://www.britannica.com/topic/International-Prime-Meridian-Conference": (
-        BR + "International Prime Meridian Conference",
-        "Britannica: the 1884 conference designated the meridian through the Royal Observatory in Greenwich as the prime meridian (0 degrees longitude); it became the basis of the world's time zone system."),
     "https://www.britannica.com/event/Battle-of-Hastings": (
         BR + "Battle of Hastings",
         "Britannica: battle on October 14, 1066, in which William of Normandy defeated Harold II; illustrated with Bayeux Tapestry scenes of the battle."),
@@ -207,6 +201,24 @@ OCT_09_15 = [
         ["exploration-and-exchange"], ["universal-postal-union-founded-1874"]),
      "10-09", "featured", ["europe", "global"], ["1800-1945"],
      "Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor."),
+    (mc("washington-monument-shape", "easy",
+        "The Washington Monument in Washington, D.C., takes the form of what kind of structure?",
+        [("pyramid", "A pyramid"), ("domed-rotunda", "A domed rotunda"), ("obelisk", "An obelisk"),
+         ("triumphal-arch", "A triumphal arch")], "obelisk",
+        "The monument to George Washington is a marble-faced granite obelisk. Built between 1848 and 1884, it opened to the public on October 9, 1888.",
+        ["https://www.britannica.com/on-this-day/October-9"],
+        ["society-culture-and-ideas"], ["washington-monument-opens-to-public-1888"]),
+     "10-09", "additional", ["americas"], ["1800-1945"],
+     "Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere."),
+    (mc("uganda-capital-lake", "easy",
+        "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake?",
+        [("victoria", "Lake Victoria"), ("tanganyika", "Lake Tanganyika"), ("malawi", "Lake Malawi"),
+         ("chad", "Lake Chad")], "victoria",
+        "Kampala sits near Lake Victoria, which Uganda shares with Kenya and Tanzania. Uganda became independent from Britain on October 9, 1962.",
+        ["https://www.britannica.com/place/Uganda"],
+        ["exploration-and-exchange"], ["uganda-independence-1962"]),
+     "10-09", "additional", ["africa"], ["decolonization", "1945-present"],
+     "Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes."),
     (tf("kepler-supernova-last-naked-eye", "medium",
         "Kepler's Supernova, first seen in 1604, is the most recent supernova in our own galaxy to be seen with the naked eye.",
         True,
@@ -223,15 +235,6 @@ OCT_09_15 = [
         ["revolutions"], ["che-guevara-executed-1967"]),
      "10-09", "additional", ["americas"], ["cold-war"],
      "Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career."),
-    (mc("hangeul-earlier-writing", "medium",
-        "Before King Sejong introduced the Hangeul alphabet, Koreans mainly wrote using what?",
-        [("chinese-characters", "Chinese characters"), ("japanese-kana", "Japanese kana"),
-         ("mongolian-script", "Mongolian script"), ("sanskrit-script", "Sanskrit script")], "chinese-characters",
-        "Korean was written mainly with Chinese characters (Hanja), which were hard to learn for people who spoke Korean rather than Chinese. Sejong's alphabet, completed in 1443 and proclaimed in 1446, gave Korean its own script.",
-        ["https://www.korea.net/NewsFocus/Culture/view?articleId=145583"],
-        ["society-culture-and-ideas"], ["hangeul-proclaimed-1446"]),
-     "10-09", "additional", ["asia"], ["medieval"],
-     "Explains why the new alphabet mattered; depends on the proposed supplementary event hangeul-proclaimed-1446."),
     (mc("outer-space-treaty-prohibition", "medium",
         "Under the 1967 Outer Space Treaty, which of these may a country NOT do?",
         [("send-astronauts", "Send astronauts to the Moon"), ("claim-moon", "Claim the Moon as its own territory"),
@@ -303,15 +306,6 @@ OCT_09_15 = [
         ["leaders-and-power"], ["white-house-cornerstone-laid-1792"]),
      "10-13", "additional", ["americas"], ["early-modern"],
      "Classic misconception: Washington oversaw construction but the house was first occupied in 1800."),
-    (mc("prime-meridian-greenwich", "easy",
-        "In 1884, an international conference chose the meridian through an observatory in which place as the standard for longitude?",
-        [("paris", "Paris"), ("washington", "Washington, D.C."), ("rome", "Rome"), ("greenwich", "Greenwich")], "greenwich",
-        "On October 13, 1884, the International Meridian Conference in Washington voted to propose the Greenwich meridian as the initial meridian for longitude. France abstained and kept the Paris meridian for some years.",
-        ["https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
-         "https://www.britannica.com/topic/International-Prime-Meridian-Conference"],
-        ["science-and-innovation"], ["prime-meridian-greenwich-1884"]),
-     "10-13", "additional", ["europe", "global"], ["1800-1945"],
-     "Depends on the proposed supplementary event prime-meridian-greenwich-1884. Washington (the host city) and Paris (France's rival meridian) are deliberate near-misses."),
     (mc("bayeux-tapestry-hastings", "easy",
         "Which famous work of medieval textile art shows the Norman Conquest and the Battle of Hastings?",
         [("bayeux", "The Bayeux Tapestry"), ("apocalypse", "The Apocalypse Tapestry"),
@@ -401,35 +395,9 @@ LINKS_09_15 = [
      ["https://www.nobelprize.org/prizes/peace/1964/king/facts/"],
      "The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event.",
      "editorial/batches/2026-09-l7-image-identification/review-ledger.json"),
-    ("order-korean-cultural-printing-milestones", "hangeul-proclaimed-1446", "10-09", "additional", ["asia"], ["medieval"],
-     ["https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"],
-     "The ordering ends with 'Hunminjeongeum is published' (1446), the event itself. Depends on the proposed supplementary event.", None),
 ]
 
 SUPP_EVENTS = [
-    ("10-09", {
-        "id": "hangeul-proclaimed-1446", "title": "King Sejong proclaims the Korean alphabet", "year": "1446",
-        "historicalDate": "October 9, 1446",
-        "dateNote": "The Hunminjeongeum was published in the ninth lunar month of 1446; South Korea marks the anniversary as Hangeul Day on October 9.",
-        "summary": "The Hunminjeongeum introduces Hangeul, a new alphabet for writing Korean.",
-        "description": "On October 9, 1446, as South Korea reckons the date, King Sejong the Great proclaimed the Korean alphabet in the Hunminjeongeum, 'the proper sounds for instructing the people.' His scholars had completed the script in 1443 so that ordinary people could read and write more easily than with Chinese characters.",
-        "notificationTitle": None, "notificationBody": None,
-        "sources": [
-            {"name": "Korea.net - The story of Hangeul", "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583"},
-            {"name": "UNESCO Memory of the World - Hunminjeongum manuscript", "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"}],
-        "images": []}, ["asia"], ["medieval"],
-     "Adds the Korean alphabet's proclamation, an accessible Asian cultural milestone the slate lacks, and lets the published Korean printing ordering question link to the day."),
-    ("10-13", {
-        "id": "prime-meridian-greenwich-1884", "title": "Greenwich is chosen as the prime meridian", "year": "1884",
-        "historicalDate": "October 13, 1884", "dateNote": None,
-        "summary": "An international conference votes for the meridian through Greenwich as the world's zero of longitude.",
-        "description": "On October 13, 1884, the International Meridian Conference in Washington, D.C., voted 21 to 1, with two abstentions, to propose the meridian through the Royal Observatory at Greenwich as the standard for longitude. It became the basis of the world's time zones.",
-        "notificationTitle": None, "notificationBody": None,
-        "sources": [
-            {"name": "Project Gutenberg - Protocols of the International Meridian Conference (1884)", "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm"},
-            {"name": BR + "International Prime Meridian Conference", "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference"}],
-        "images": []}, ["europe", "global"], ["1800-1945"],
-     "A globally relevant science and standards milestone with a clean quiz hook; the day currently has no science event."),
     ("10-14", {
         "id": "mlk-awarded-nobel-peace-prize-1964", "title": "Martin Luther King Jr. is named winner of the Nobel Peace Prize", "year": "1964",
         "historicalDate": "October 14, 1964", "dateNote": None,

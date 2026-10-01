@@ -34,6 +34,55 @@
       "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
     },
     {
+      "candidateId": "washington-monument-shape",
+      "canonicalId": "washington-monument-shape",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/October-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica, 1888 entry: the Washington Monument, a marble-faced granite obelisk honouring George Washington, built 1848-84 and dedicated in 1885, opened to the public."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "uganda-capital-lake",
+      "canonicalId": "uganda-capital-lake",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Uganda",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the capital Kampala is built near the shores of Lake Victoria, Africa's largest freshwater lake, which forms part of the frontier with Kenya and Tanzania."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
       "candidateId": "kepler-supernova-last-naked-eye",
       "canonicalId": "kepler-supernova-last-naked-eye",
       "reviewStatus": "source_verified",
@@ -80,30 +129,6 @@
         "10-09"
       ],
       "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
-    },
-    {
-      "candidateId": "hangeul-earlier-writing",
-      "canonicalId": "hangeul-earlier-writing",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Korea.net: Sejong's scholars created the alphabet in 1443; the Hunminjeongeum was published and officially proclaimed in 1446; Hanja (Chinese characters) were hard for people who did not speak Chinese; Hangeul Day is celebrated annually on Oct. 9."
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "asia"
-      ],
-      "eras": [
-        "medieval"
-      ],
-      "calendarDays": [
-        "10-09"
-      ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the new alphabet mattered; depends on the proposed supplementary event hangeul-proclaimed-1446. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
     },
     {
       "candidateId": "outer-space-treaty-prohibition",
@@ -313,37 +338,6 @@
         "10-13"
       ],
       "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Classic misconception: Washington oversaw construction but the house was first occupied in 1800. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
-    },
-    {
-      "candidateId": "prime-meridian-greenwich",
-      "canonicalId": "prime-meridian-greenwich",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Official protocols, session of October 13, 1884: the resolution proposing the meridian through the transit instrument at the Observatory of Greenwich as the initial meridian for longitude passed, ayes 21, noes 1 (San Domingo), abstaining 2 (Brazil, France)."
-        },
-        {
-          "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Britannica: the 1884 conference designated the meridian through the Royal Observatory in Greenwich as the prime meridian (0 degrees longitude); it became the basis of the world's time zone system."
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "europe",
-        "global"
-      ],
-      "eras": [
-        "1800-1945"
-      ],
-      "calendarDays": [
-        "10-13"
-      ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Depends on the proposed supplementary event prime-meridian-greenwich-1884. Washington (the host city) and Paris (France's rival meridian) are deliberate near-misses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
     },
     {
       "candidateId": "bayeux-tapestry-hastings",
@@ -753,30 +747,6 @@
         "10-14"
       ],
       "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
-    },
-    {
-      "candidateId": "link-order-korean-cultural-printing-milestones",
-      "canonicalId": "order-korean-cultural-printing-milestones",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "UNESCO: the manuscript, published in the ninth lunar month of 1446, contains Sejong the Great's promulgation of the Korean alphabet; the alphabet was completed in 1443."
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "asia"
-      ],
-      "eras": [
-        "medieval"
-      ],
-      "calendarDays": [
-        "10-09"
-      ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
     }
   ]
 }

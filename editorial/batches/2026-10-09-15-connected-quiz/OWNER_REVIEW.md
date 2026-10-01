@@ -16,56 +16,53 @@ does not imply approval of an earlier one.
    event worker). Audited, not edited: every day has 4-5 events, each with a
    featured notification and authoritative sources (no Wikipedia). Featured
    choices look right; see "Event Audit" for the one judgement call.
-2. **Three supplementary events** (`2026-10-09-15-supplementary-events`):
-   Hangeul proclaimed (10-09), Greenwich chosen as prime meridian (10-13),
-   Martin Luther King Jr. named Nobel Peace Prize winner (10-14). Each would be
-   added as an additional event on its day (`proposed-day-additions.json`).
-3. **Eleven reuse links** on published questions (table below). Questions,
+2. **One supplementary event** (`2026-10-09-15-supplementary-events`):
+   Martin Luther King Jr. named Nobel Peace Prize winner (10-14), added as an
+   additional event on its day (`proposed-day-additions.json`).
+3. **Ten reuse links** on published questions (table below). Questions,
    answers and images stay unchanged; only `relatedEventIds` would gain an ID.
 4. **Nineteen new questions** for prospective Pack 150 (below): 16 multiple
-   choice and 3 true/false; 7 easy and 12 medium.
-5. **Owner calls flagged below**: Hangeul date reckoning, the 1884 vote count,
-   and the Chile reuse link's answer appearing in the event summary.
+   choice and 3 true/false; 8 easy and 11 medium.
 
-Promotion order after approval: events (including any approved supplementary
-events and day additions), then Pack 150, then the link edits to existing packs
+Promotion order after approval: events (including the supplementary event
+and its day addition, if approved), then Pack 150, then the link edits to existing packs
 after re-checking each snapshot hash in `proposed-links.json`.
 
 ## Per-Day Coverage
 
 | Date | Featured (event batch) | Hooks | New questions | Reuse links |
 | --- | --- | --- | --- | --- |
-| 10-09 | `universal-postal-union-founded-1874` | 5 | UPU city, Kepler supernova, Che Guevara, Hangeul | Korean printing ordering (to new Hangeul event) |
+| 10-09 | `universal-postal-union-founded-1874` | 5 | UPU city, Washington Monument, Uganda, Kepler supernova, Che Guevara | none |
 | 10-10 | `wuchang-uprising-1911` | 4 | Outer Space Treaty | Xinhai/Qing, Sun Yat-sen portrait (featured), Pacific independence ordering (Fiji) |
 | 10-11 | `apollo-7-launches-1968` | 3 | Apollo 7 orbit (featured), Vatican II Latin, Mary Rose | none |
 | 10-12 | `equatorial-guinea-independence-1968` | 6 | Equatorial Guinea (featured), Oktoberfest | African independence ordering (featured), Americas ordering, Columbian exchange, Voskhod 1 |
-| 10-13 | `chilean-miners-rescued-2010` | 4 | Templars, White House, Greenwich | Chile miners (featured) |
+| 10-13 | `chilean-miners-rescued-2010` | 3 | Templars, White House | Chile miners (featured) |
 | 10-14 | `battle-of-hastings-1066` | 5 | Bayeux Tapestry (featured), Yeager X-1, Cuban Missile Crisis | Napoleon portrait (Jena), King portrait (new Nobel event) |
 | 10-15 | `shenzhou-5-yang-liwei-2003` | 3 | Shenzhou 5 (featured), Huygens/Titan, Gregorian leap year | none |
 
-Every featured story has at least one linked hook. Thirty hooks in total; this
+Every featured story has at least one linked hook. Twenty-nine hooks in total; this
 is supply for the existing selector (one featured-linked slot in Daily-5, at
 most one more same-date slot in Daily-10/20), not a promise that every Daily
 will show them.
 
-## Owner Calls
+## Owner Decisions Applied (2026-10-01)
 
-- **Hangeul date.** The Hunminjeongeum was published in the ninth lunar month
-  of 1446 (UNESCO). October 9 is the date South Korea commemorates as Hangeul
-  Day (Korea.net). The event carries a `dateNote` saying so. Reject the event if
-  a commemorative conversion is not acceptable for an On This Day entry.
-- **1884 vote.** The official protocols record 21 ayes, 1 no (San Domingo) and
-  2 abstentions (Brazil, France) on October 13. Popular accounts often say 22;
-  the draft uses the protocol figure. The protocols are cited through their
-  Project Gutenberg transcription, alongside Britannica.
-- **Chile reuse link.** The existing question asks how long the miners were
-  trapped; the event summary says 69 days. Reading the story first reveals the
-  answer. This was treated as learning, as in the Oct 2-8 review, but you may
-  prefer to drop the link.
-- **Space weighting.** Five of 30 hooks are spaceflight (Apollo 7, Voskhod,
+- Events must have an exact or widely accepted date. The Hangeul proclamation
+  (only a lunar month is recorded) and the Greenwich meridian event (owner
+  preferred to leave it out) were dropped with their question and link. The
+  base event batch already meets the four-event floor on both days, so no
+  replacement events were needed.
+- An event summary that gives away a linked answer is fine; the Chile link
+  stays, and this applies to future cycles.
+- To keep supply up, the two reserve hooks were drafted: the Washington
+  Monument obelisk and Kampala's lake.
+
+## Notes
+
+- **Space weighting.** Five of 29 hooks are spaceflight (Apollo 7, Voskhod,
   Outer Space Treaty, Shenzhou, Huygens), following the event slate.
-- **Regions.** Europe and the Americas dominate; Asia gets six hooks,
-  Africa two, Oceania one. No unrelated regions were shoehorned in.
+- **Regions.** Europe and the Americas dominate; Asia, Africa and Oceania
+  get eight hooks between them. No unrelated regions were shoehorned in.
 
 ## Event Audit
 
@@ -76,10 +73,10 @@ will show them.
 - 10-12 features Equatorial Guinea rather than Columbus's landfall. That is a
   defensible calm choice (Columbus remains an additional event with a Julian
   `dateNote`); swap it only if you want the more recognizable story.
-- Strong events missing from the slate, now drafted as supplementary events:
-  Hangeul (10-09, Asian culture), the Greenwich meridian (10-13, global
-  science/standards), King's Nobel Peace Prize (10-14, civil rights). Considered
-  and not added: John Lennon's birth (10-09; repeats the Oct 5 Beatles hook).
+- Strong event missing from the slate, drafted as a supplementary event:
+  King's Nobel Peace Prize (10-14, civil rights). Considered and not added:
+  Hangeul (lunar-month date only), the Greenwich meridian (owner preference)
+  and John Lennon's birth (10-09; repeats the Oct 5 Beatles hook).
 
 ## New Questions
 
@@ -102,7 +99,45 @@ D. Basel
 
 Sources: [Universal Postal Union - History](https://www.upu.int/en/universal-postal-union/about-upu/history); [Swiss National Museum - The story of the Universal Postal Union](https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/).
 
-### 2. kepler-supernova-last-naked-eye
+### 2. washington-monument-shape
+
+The Washington Monument in Washington, D.C., takes the form of what kind of structure?
+
+A. A pyramid
+
+B. A domed rotunda
+
+C. An obelisk **(correct)**
+
+D. A triumphal arch
+
+**Explanation:** The monument to George Washington is a marble-faced granite obelisk. Built between 1848 and 1884, it opened to the public on October 9, 1888.
+
+**Type:** multiple choice. **Difficulty:** easy. **Date:** 10-09.
+**Related event:** `washington-monument-opens-to-public-1888`.
+
+Sources: [Encyclopaedia Britannica - On This Day, October 9](https://www.britannica.com/on-this-day/October-9).
+
+### 3. uganda-capital-lake
+
+Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake?
+
+A. Lake Victoria **(correct)**
+
+B. Lake Tanganyika
+
+C. Lake Malawi
+
+D. Lake Chad
+
+**Explanation:** Kampala sits near Lake Victoria, which Uganda shares with Kenya and Tanzania. Uganda became independent from Britain on October 9, 1962.
+
+**Type:** multiple choice. **Difficulty:** easy. **Date:** 10-09.
+**Related event:** `uganda-independence-1962`.
+
+Sources: [Encyclopaedia Britannica - Uganda](https://www.britannica.com/place/Uganda).
+
+### 4. kepler-supernova-last-naked-eye
 
 Kepler's Supernova, first seen in 1604, is the most recent supernova in our own galaxy to be seen with the naked eye.
 
@@ -117,7 +152,7 @@ B. False
 
 Sources: [NASA - 420 years ago, Johannes Kepler observes a supernova](https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/).
 
-### 3. che-guevara-birth-country
+### 5. che-guevara-birth-country
 
 In which country was the revolutionary Che Guevara born?
 
@@ -136,26 +171,7 @@ D. Argentina **(correct)**
 
 Sources: [Encyclopaedia Britannica - Che Guevara](https://www.britannica.com/biography/Che-Guevara).
 
-### 4. hangeul-earlier-writing
-
-Before King Sejong introduced the Hangeul alphabet, Koreans mainly wrote using what?
-
-A. Chinese characters **(correct)**
-
-B. Japanese kana
-
-C. Mongolian script
-
-D. Sanskrit script
-
-**Explanation:** Korean was written mainly with Chinese characters (Hanja), which were hard to learn for people who spoke Korean rather than Chinese. Sejong's alphabet, completed in 1443 and proclaimed in 1446, gave Korean its own script.
-
-**Type:** multiple choice. **Difficulty:** medium. **Date:** 10-09.
-**Related event:** `hangeul-proclaimed-1446`.
-
-Sources: [Korea.net - The story of Hangeul](https://www.korea.net/NewsFocus/Culture/view?articleId=145583).
-
-### 5. outer-space-treaty-prohibition
+### 6. outer-space-treaty-prohibition
 
 Under the 1967 Outer Space Treaty, which of these may a country NOT do?
 
@@ -174,7 +190,7 @@ D. Launch satellites into Earth orbit
 
 Sources: [U.S. Department of State (archive) - Outer Space Treaty](https://2009-2017.state.gov/t/isn/5181.htm).
 
-### 6. apollo-7-flew-around-moon
+### 7. apollo-7-flew-around-moon
 
 Apollo 7, the first crewed Apollo mission, flew around the Moon.
 
@@ -189,7 +205,7 @@ B. False **(correct)**
 
 Sources: [NASA - Apollo 7](https://www.nasa.gov/mission/apollo-7/); [NASA - Apollo 8](https://www.nasa.gov/mission/apollo-8/).
 
-### 7. vatican-ii-mass-language
+### 8. vatican-ii-mass-language
 
 The Second Vatican Council allowed Mass to be celebrated in local languages instead of only in which language?
 
@@ -208,7 +224,7 @@ D. Italian
 
 Sources: [Encyclopaedia Britannica - Second Vatican Council](https://www.britannica.com/event/Second-Vatican-Council).
 
-### 8. mary-rose-monarch
+### 9. mary-rose-monarch
 
 The Mary Rose, raised from the seabed in 1982, was the warship of which English monarch?
 
@@ -227,7 +243,7 @@ D. Charles I
 
 Sources: [Mary Rose Trust - Raising the Mary Rose](https://maryrose.org/discover/history/recovering-the-mary-rose/).
 
-### 9. equatorial-guinea-colonial-power
+### 10. equatorial-guinea-colonial-power
 
 Equatorial Guinea became independent in 1968 from which European country?
 
@@ -246,7 +262,7 @@ D. Spain **(correct)**
 
 Sources: [U.S. Office of the Historian - Equatorial Guinea](https://history.state.gov/countries/equatorial-guinea).
 
-### 10. oktoberfest-original-celebration
+### 11. oktoberfest-original-celebration
 
 Munich's first Oktoberfest, in 1810, celebrated what?
 
@@ -265,7 +281,7 @@ D. A king's coronation
 
 Sources: [Encyclopaedia Britannica - Oktoberfest](https://www.britannica.com/topic/Oktoberfest).
 
-### 11. templars-original-purpose
+### 12. templars-original-purpose
 
 The Knights Templar were originally founded to do what?
 
@@ -284,7 +300,7 @@ D. Escort merchants on the Silk Roads
 
 Sources: [Encyclopaedia Britannica - Templar](https://www.britannica.com/topic/Templars).
 
-### 12. white-house-first-president
+### 13. white-house-first-president
 
 Which U.S. president was the first to live in the White House?
 
@@ -302,25 +318,6 @@ D. James Madison
 **Related event:** `white-house-cornerstone-laid-1792`.
 
 Sources: [White House Historical Association - Building the White House](https://www.whitehousehistory.org/building-the-white-house); [Encyclopaedia Britannica - On This Day, October 13](https://www.britannica.com/on-this-day/October-13).
-
-### 13. prime-meridian-greenwich
-
-In 1884, an international conference chose the meridian through an observatory in which place as the standard for longitude?
-
-A. Paris
-
-B. Washington, D.C.
-
-C. Rome
-
-D. Greenwich **(correct)**
-
-**Explanation:** On October 13, 1884, the International Meridian Conference in Washington voted to propose the Greenwich meridian as the initial meridian for longitude. France abstained and kept the Paris meridian for some years.
-
-**Type:** multiple choice. **Difficulty:** easy. **Date:** 10-13.
-**Related event:** `prime-meridian-greenwich-1884`.
-
-Sources: [Project Gutenberg - Protocols of the International Meridian Conference (1884)](https://www.gutenberg.org/files/17759/17759-h/17759-h.htm); [Encyclopaedia Britannica - International Prime Meridian Conference](https://www.britannica.com/topic/International-Prime-Meridian-Conference).
 
 ### 14. bayeux-tapestry-hastings
 
@@ -446,7 +443,6 @@ Sources: [Encyclopaedia Britannica - Gregorian calendar](https://www.britannica.
 | 10-13 | `chile-miners-days-underground` | `chilean-miners-rescued-2010` (featured) | Exact match on the rescue. The event summary states 69 days, so reading the story first reveals the answer; that is learning, not leakage in the quiz itself. |
 | 10-14 | `identify-napoleon-bonaparte` | `battles-of-jena-auerstedt-1806` (additional) | Britannica names Napoleon as the victor at Jena-Auerstedt. The 1812 portrait identifies him without depending on the battle. |
 | 10-14 | `identify-martin-luther-king-jr` | `mlk-awarded-nobel-peace-prize-1964` (additional) | The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event. |
-| 10-09 | `order-korean-cultural-printing-milestones` | `hangeul-proclaimed-1446` (additional) | The ordering ends with 'Hunminjeongeum is published' (1446), the event itself. Depends on the proposed supplementary event. |
 
 Image questions (Sun Yat-sen, Napoleon, King) keep their approved owned
 renditions; rights evidence is inherited from the ledgers named in
@@ -458,20 +454,18 @@ renditions; rights evidence is inherited from the ledgers named in
   `south-african-war-begins-1899`, `italy-declares-war-on-germany-1943`,
   `thrustssc-land-speed-record-1997`: only name, date or belligerent recall was
   available. No-link events are legitimate.
-- Reserve, not drafted: Uganda (Lake Victoria geography, sourced by Britannica
-  but only loosely tied to independence) and the Washington Monument obelisk
-  (the week already leans American; `identify-george-washington` is linked to
-  10-03 and was not reused six days later).
+- `identify-george-washington` was not linked to the Washington Monument: it
+  is already linked to 10-03, six days earlier.
 - No new image-identification questions: any new image needs rights,
   phone-size fairness and an owned upload, which this cycle does not do.
 
 ## Checks Run
 
 - Strict canonical event and quiz validators on a scratch merge of canonical
-  content, all runway event drafts, the three supplementary events and day
-  additions, both draft packs (as published) and all link edits:
+  content, all runway event drafts, the supplementary event and day
+  addition, both draft packs (as published) and all link edits:
   `events valid=true quiz valid=true`. Only pre-existing warnings (featured
   days without images, two small collections).
-- All 90 question-event relations in that merge resolve to an event.
-- `EditorialReviewCheckCommand` passes for all three new batches.
+- All 89 question-event relations in that merge resolve to an event.
+- `EditorialReviewCheckCommand` passes for both Oct 9-15 batches.
 - Not run: imports, database checks, Daily selection, link liveness sweep.

@@ -4,62 +4,62 @@
   "auditedOn": "2026-10-01",
   "state": "editorial_only_awaiting_owner_content_approval",
   "newQuestionCount": 19,
-  "reusedQuestionCount": 11,
-  "proposedNewRelationCount": 30,
+  "reusedQuestionCount": 10,
+  "proposedNewRelationCount": 29,
   "newQuestionTypes": {
     "multiple_choice": 16,
     "true_false": 3
   },
   "newQuestionDifficulties": {
-    "medium": 12,
-    "easy": 7
+    "medium": 11,
+    "easy": 8
   },
   "hookTypes": {
     "multiple_choice": 20,
     "true_false": 3,
     "image_identification": 3,
-    "chronological_ordering": 4
+    "chronological_ordering": 3
   },
   "hookDifficulties": {
-    "medium": 17,
-    "easy": 9,
+    "medium": 15,
+    "easy": 10,
     "hard": 4
   },
   "newMultipleChoiceCorrectPositions": {
     "1": 5,
     "2": 5,
-    "3": 3,
-    "4": 3
+    "3": 4,
+    "4": 2
   },
   "newTrueFalseAnswers": {
     "true": 1,
     "false": 2
   },
   "hookCollectionMemberships": {
-    "exploration-and-exchange": 4,
-    "science-and-innovation": 11,
+    "exploration-and-exchange": 5,
+    "society-culture-and-ideas": 4,
+    "science-and-innovation": 9,
     "revolutions": 4,
-    "society-culture-and-ideas": 5,
     "wars-and-conflicts": 3,
     "leaders-and-power": 7
   },
   "regionTagMemberships": {
-    "europe": 13,
-    "global": 6,
-    "americas": 9,
-    "asia": 6,
-    "africa": 2,
+    "europe": 12,
+    "global": 5,
+    "americas": 10,
+    "africa": 3,
     "middle-east": 1,
+    "asia": 4,
     "oceania": 1
   },
   "eraTagMemberships": {
     "1800-1945": 6,
+    "decolonization": 3,
+    "1945-present": 5,
     "early-modern": 6,
     "cold-war": 7,
-    "medieval": 4,
     "space-age": 3,
-    "1945-present": 4,
-    "decolonization": 2,
+    "medieval": 2,
     "contemporary": 3,
     "revolutionary": 1
   },
@@ -68,7 +68,7 @@
     "10-10": 4,
     "10-11": 3,
     "10-12": 6,
-    "10-13": 4,
+    "10-13": 3,
     "10-14": 5,
     "10-15": 3
   }

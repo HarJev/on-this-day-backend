@@ -45,6 +45,84 @@
       ]
     },
     {
+      "id": "washington-monument-shape",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Washington Monument in Washington, D.C., takes the form of what kind of structure?",
+      "options": [
+        {
+          "id": "pyramid",
+          "text": "A pyramid"
+        },
+        {
+          "id": "domed-rotunda",
+          "text": "A domed rotunda"
+        },
+        {
+          "id": "obelisk",
+          "text": "An obelisk"
+        },
+        {
+          "id": "triumphal-arch",
+          "text": "A triumphal arch"
+        }
+      ],
+      "correctOptionId": "obelisk",
+      "explanation": "The monument to George Washington is a marble-faced granite obelisk. Built between 1848 and 1884, it opened to the public on October 9, 1888.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day, October 9",
+          "url": "https://www.britannica.com/on-this-day/October-9"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "washington-monument-opens-to-public-1888"
+      ]
+    },
+    {
+      "id": "uganda-capital-lake",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake?",
+      "options": [
+        {
+          "id": "victoria",
+          "text": "Lake Victoria"
+        },
+        {
+          "id": "tanganyika",
+          "text": "Lake Tanganyika"
+        },
+        {
+          "id": "malawi",
+          "text": "Lake Malawi"
+        },
+        {
+          "id": "chad",
+          "text": "Lake Chad"
+        }
+      ],
+      "correctOptionId": "victoria",
+      "explanation": "Kampala sits near Lake Victoria, which Uganda shares with Kenya and Tanzania. Uganda became independent from Britain on October 9, 1962.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Uganda",
+          "url": "https://www.britannica.com/place/Uganda"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "uganda-independence-1962"
+      ]
+    },
+    {
       "id": "kepler-supernova-last-naked-eye",
       "type": "true_false",
       "difficulty": "medium",
@@ -112,45 +190,6 @@
       ],
       "relatedEventIds": [
         "che-guevara-executed-1967"
-      ]
-    },
-    {
-      "id": "hangeul-earlier-writing",
-      "type": "multiple_choice",
-      "difficulty": "medium",
-      "publicationState": "draft",
-      "prompt": "Before King Sejong introduced the Hangeul alphabet, Koreans mainly wrote using what?",
-      "options": [
-        {
-          "id": "chinese-characters",
-          "text": "Chinese characters"
-        },
-        {
-          "id": "japanese-kana",
-          "text": "Japanese kana"
-        },
-        {
-          "id": "mongolian-script",
-          "text": "Mongolian script"
-        },
-        {
-          "id": "sanskrit-script",
-          "text": "Sanskrit script"
-        }
-      ],
-      "correctOptionId": "chinese-characters",
-      "explanation": "Korean was written mainly with Chinese characters (Hanja), which were hard to learn for people who spoke Korean rather than Chinese. Sejong's alphabet, completed in 1443 and proclaimed in 1446, gave Korean its own script.",
-      "sources": [
-        {
-          "displayName": "Korea.net - The story of Hangeul",
-          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583"
-        }
-      ],
-      "collectionIds": [
-        "society-culture-and-ideas"
-      ],
-      "relatedEventIds": [
-        "hangeul-proclaimed-1446"
       ]
     },
     {
@@ -463,49 +502,6 @@
       ],
       "relatedEventIds": [
         "white-house-cornerstone-laid-1792"
-      ]
-    },
-    {
-      "id": "prime-meridian-greenwich",
-      "type": "multiple_choice",
-      "difficulty": "easy",
-      "publicationState": "draft",
-      "prompt": "In 1884, an international conference chose the meridian through an observatory in which place as the standard for longitude?",
-      "options": [
-        {
-          "id": "paris",
-          "text": "Paris"
-        },
-        {
-          "id": "washington",
-          "text": "Washington, D.C."
-        },
-        {
-          "id": "rome",
-          "text": "Rome"
-        },
-        {
-          "id": "greenwich",
-          "text": "Greenwich"
-        }
-      ],
-      "correctOptionId": "greenwich",
-      "explanation": "On October 13, 1884, the International Meridian Conference in Washington voted to propose the Greenwich meridian as the initial meridian for longitude. France abstained and kept the Paris meridian for some years.",
-      "sources": [
-        {
-          "displayName": "Project Gutenberg - Protocols of the International Meridian Conference (1884)",
-          "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm"
-        },
-        {
-          "displayName": "Encyclopaedia Britannica - International Prime Meridian Conference",
-          "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference"
-        }
-      ],
-      "collectionIds": [
-        "science-and-innovation"
-      ],
-      "relatedEventIds": [
-        "prime-meridian-greenwich-1884"
       ]
     },
     {

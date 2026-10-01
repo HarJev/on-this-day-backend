@@ -3,67 +3,6 @@
   "batchId": "2026-10-09-15-supplementary-events",
   "entries": [
     {
-      "candidateId": "oct-09-hangeul-proclaimed",
-      "canonicalId": "hangeul-proclaimed-1446",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Korea.net: Sejong's scholars created the alphabet in 1443; the Hunminjeongeum was published and officially proclaimed in 1446; Hanja (Chinese characters) were hard for people who did not speak Chinese; Hangeul Day is celebrated annually on Oct. 9."
-        },
-        {
-          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "UNESCO: the manuscript, published in the ninth lunar month of 1446, contains Sejong the Great's promulgation of the Korean alphabet; the alphabet was completed in 1443."
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "asia"
-      ],
-      "eras": [
-        "medieval"
-      ],
-      "calendarDays": [
-        "10-09"
-      ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Supplements the 2026-10-09-15-historical-events batch without editing it."
-    },
-    {
-      "candidateId": "oct-13-prime-meridian-greenwich",
-      "canonicalId": "prime-meridian-greenwich-1884",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Official protocols, session of October 13, 1884: the resolution proposing the meridian through the transit instrument at the Observatory of Greenwich as the initial meridian for longitude passed, ayes 21, noes 1 (San Domingo), abstaining 2 (Brazil, France)."
-        },
-        {
-          "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Britannica: the 1884 conference designated the meridian through the Royal Observatory in Greenwich as the prime meridian (0 degrees longitude); it became the basis of the world's time zone system."
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "europe",
-        "global"
-      ],
-      "eras": [
-        "1800-1945"
-      ],
-      "calendarDays": [
-        "10-13"
-      ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Supplements the 2026-10-09-15-historical-events batch without editing it."
-    },
-    {
       "candidateId": "oct-14-mlk-awarded-nobel-peace-prize",
       "canonicalId": "mlk-awarded-nobel-peace-prize-1964",
       "reviewStatus": "source_verified",

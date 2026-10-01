@@ -13,6 +13,24 @@
       ]
     },
     {
+      "candidateId": "washington-monument-shape",
+      "kind": "quiz",
+      "proposedCanonicalId": "washington-monument-shape",
+      "workingClaim": "The Washington Monument in Washington, D.C., takes the form of what kind of structure? Answer: An obelisk. Proposed additional link on 10-09: washington-monument-opens-to-public-1888. Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/October-9"
+      ]
+    },
+    {
+      "candidateId": "uganda-capital-lake",
+      "kind": "quiz",
+      "proposedCanonicalId": "uganda-capital-lake",
+      "workingClaim": "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake? Answer: Lake Victoria. Proposed additional link on 10-09: uganda-independence-1962. Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Uganda"
+      ]
+    },
+    {
       "candidateId": "kepler-supernova-last-naked-eye",
       "kind": "quiz",
       "proposedCanonicalId": "kepler-supernova-last-naked-eye",
@@ -28,15 +46,6 @@
       "workingClaim": "In which country was the revolutionary Che Guevara born? Answer: Argentina. Proposed additional link on 10-09: che-guevara-executed-1967. Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career.",
       "sourceUrls": [
         "https://www.britannica.com/biography/Che-Guevara"
-      ]
-    },
-    {
-      "candidateId": "hangeul-earlier-writing",
-      "kind": "quiz",
-      "proposedCanonicalId": "hangeul-earlier-writing",
-      "workingClaim": "Before King Sejong introduced the Hangeul alphabet, Koreans mainly wrote using what? Answer: Chinese characters. Proposed additional link on 10-09: hangeul-proclaimed-1446. Explains why the new alphabet mattered; depends on the proposed supplementary event hangeul-proclaimed-1446.",
-      "sourceUrls": [
-        "https://www.korea.net/NewsFocus/Culture/view?articleId=145583"
       ]
     },
     {
@@ -111,16 +120,6 @@
       "sourceUrls": [
         "https://www.whitehousehistory.org/building-the-white-house",
         "https://www.britannica.com/on-this-day/October-13"
-      ]
-    },
-    {
-      "candidateId": "prime-meridian-greenwich",
-      "kind": "quiz",
-      "proposedCanonicalId": "prime-meridian-greenwich",
-      "workingClaim": "In 1884, an international conference chose the meridian through an observatory in which place as the standard for longitude? Answer: Greenwich. Proposed additional link on 10-13: prime-meridian-greenwich-1884. Depends on the proposed supplementary event prime-meridian-greenwich-1884. Washington (the host city) and Paris (France's rival meridian) are deliberate near-misses.",
-      "sourceUrls": [
-        "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
-        "https://www.britannica.com/topic/International-Prime-Meridian-Conference"
       ]
     },
     {
@@ -268,15 +267,6 @@
       "workingClaim": "Propose additional relation on 10-14 from unchanged published identify-martin-luther-king-jr to mlk-awarded-nobel-peace-prize-1964. The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event.",
       "sourceUrls": [
         "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
-      ]
-    },
-    {
-      "candidateId": "link-order-korean-cultural-printing-milestones",
-      "kind": "quiz",
-      "proposedCanonicalId": "order-korean-cultural-printing-milestones",
-      "workingClaim": "Propose additional relation on 10-09 from unchanged published order-korean-cultural-printing-milestones to hangeul-proclaimed-1446. The ordering ends with 'Hunminjeongeum is published' (1446), the event itself. Depends on the proposed supplementary event.",
-      "sourceUrls": [
-        "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"
       ]
     }
   ]

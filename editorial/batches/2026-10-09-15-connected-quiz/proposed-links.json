@@ -133,19 +133,6 @@
       "eventRole": "additional",
       "relationshipRationale": "The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event.",
       "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
-    },
-    {
-      "questionId": "order-korean-cultural-printing-milestones",
-      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
-      "canonicalSnapshotSha256": "b47fc95a941288044b794dcb474d26f0cdf97a9e1c6cfad34d21d43a2f8baf8b",
-      "currentRelatedEventIds": [],
-      "addRelatedEventIds": [
-        "hangeul-proclaimed-1446"
-      ],
-      "calendarDay": "10-09",
-      "eventRole": "additional",
-      "relationshipRationale": "The ordering ends with 'Hunminjeongeum is published' (1446), the event itself. Depends on the proposed supplementary event.",
-      "existingImageRightsEvidence": null
     }
   ]
 }

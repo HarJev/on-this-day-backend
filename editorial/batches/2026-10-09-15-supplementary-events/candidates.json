@@ -3,26 +3,6 @@
   "batchId": "2026-10-09-15-supplementary-events",
   "candidates": [
     {
-      "candidateId": "oct-09-hangeul-proclaimed",
-      "kind": "event",
-      "proposedCanonicalId": "hangeul-proclaimed-1446",
-      "workingClaim": "October 9, 1446: The Hunminjeongeum introduces Hangeul, a new alphabet for writing Korean. Adds the Korean alphabet's proclamation, an accessible Asian cultural milestone the slate lacks, and lets the published Korean printing ordering question link to the day.",
-      "sourceUrls": [
-        "https://www.korea.net/NewsFocus/Culture/view?articleId=145583",
-        "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"
-      ]
-    },
-    {
-      "candidateId": "oct-13-prime-meridian-greenwich",
-      "kind": "event",
-      "proposedCanonicalId": "prime-meridian-greenwich-1884",
-      "workingClaim": "October 13, 1884: An international conference votes for the meridian through Greenwich as the world's zero of longitude. A globally relevant science and standards milestone with a clean quiz hook; the day currently has no science event.",
-      "sourceUrls": [
-        "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
-        "https://www.britannica.com/topic/International-Prime-Meridian-Conference"
-      ]
-    },
-    {
       "candidateId": "oct-14-mlk-awarded-nobel-peace-prize",
       "kind": "event",
       "proposedCanonicalId": "mlk-awarded-nobel-peace-prize-1964",

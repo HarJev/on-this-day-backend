@@ -4,16 +4,6 @@
   "targetBatch": "2026-10-09-15-historical-events",
   "additions": [
     {
-      "monthDay": "10-09",
-      "addAdditionalEventId": "hangeul-proclaimed-1446",
-      "rationale": "Adds the Korean alphabet's proclamation, an accessible Asian cultural milestone the slate lacks, and lets the published Korean printing ordering question link to the day."
-    },
-    {
-      "monthDay": "10-13",
-      "addAdditionalEventId": "prime-meridian-greenwich-1884",
-      "rationale": "A globally relevant science and standards milestone with a clean quiz hook; the day currently has no science event."
-    },
-    {
       "monthDay": "10-14",
       "addAdditionalEventId": "mlk-awarded-nobel-peace-prize-1964",
       "rationale": "A widely resonant social-change milestone; lets the published King portrait link to the day."
