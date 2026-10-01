@@ -67,7 +67,8 @@
       "correctOptionId": "maori",
       "explanation": "More than 500 Maori chiefs signed versions of the Treaty of Waitangi with the British Crown in 1840, although the texts differed in important ways.",
       "sources": [{"displayName": "New Zealand History - The Treaty in brief", "url": "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief"}],
-      "collectionIds": ["wars-and-conflicts", "exploration-and-exchange"]
+      "collectionIds": ["wars-and-conflicts", "exploration-and-exchange"],
+      "relatedEventIds": ["treaty-of-waitangi-signed-1840"]
     },
     {
       "id": "meiji-restoration-government",
@@ -125,7 +126,8 @@
       "correctOptionId": "true",
       "explanation": "The Indian Independence Act took effect in August 1947, creating the independent dominions of India and Pakistan amid a traumatic partition.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Indian Independence Act", "url": "https://www.britannica.com/topic/Indian-Independence-Act-1947"}],
-      "collectionIds": ["society-culture-and-ideas"]
+      "collectionIds": ["society-culture-and-ideas"],
+      "relatedEventIds": ["india-becomes-republic-1950"]
     },
     {
       "id": "identify-terracotta-army",
@@ -152,7 +154,8 @@
       "correctOptionId": "terracotta-army",
       "explanation": "The photograph shows the Terracotta Army placed near the tomb of Qin Shihuangdi, the first emperor of unified China.",
       "sources": [{"displayName": "The Metropolitan Museum of Art - Qin Dynasty", "url": "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c"}],
-      "collectionIds": ["ancient-history", "leaders-and-power", "science-and-innovation"]
+      "collectionIds": ["ancient-history", "leaders-and-power", "science-and-innovation"],
+      "relatedEventIds": ["terra-cotta-army-found-1974"]
     },
     {
       "id": "order-asian-pacific-milestones",

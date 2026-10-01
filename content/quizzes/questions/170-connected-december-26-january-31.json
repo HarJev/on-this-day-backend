@@ -5,7 +5,7 @@
       "id": "frisbee-patent-company",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which toy company was granted a 1967 US patent for the flying disc best known as the Frisbee?",
       "options": [
         {
@@ -44,7 +44,7 @@
       "id": "babbage-analytical-engine",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Charles Babbage's Analytical Engine, designed in the 1830s, is seen as the forerunner of what?",
       "options": [
         {
@@ -83,7 +83,7 @@
       "id": "hagia-sophia-modern-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Hagia Sophia was built in Constantinople. What is that city called today?",
       "options": [
         {
@@ -122,7 +122,7 @@
       "id": "beagle-voyage-length",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Roughly how long did Charles Darwin's voyage on HMS Beagle last?",
       "options": [
         {
@@ -162,7 +162,7 @@
       "id": "kepler-elliptical-orbits",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Johannes Kepler's first law states that planets move in circular orbits with the Sun at the center.",
       "options": [
         {
@@ -193,7 +193,7 @@
       "id": "indonesia-colonial-power",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which European country did Indonesia win its independence?",
       "options": [
         {
@@ -232,7 +232,7 @@
       "id": "lumiere-first-screening-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did the Lumiere brothers first demonstrate their Cinematographe to the public in 1895?",
       "options": [
         {
@@ -272,7 +272,7 @@
       "id": "westminster-abbey-founder-king",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which English king built the abbey church at Westminster that was consecrated in 1065, shortly before his death?",
       "options": [
         {
@@ -308,42 +308,10 @@
       ]
     },
     {
-      "id": "markievicz-took-seat",
-      "type": "true_false",
-      "difficulty": "medium",
-      "publicationState": "draft",
-      "prompt": "Constance Markievicz, the first woman elected to the British House of Commons, took her seat at Westminster.",
-      "options": [
-        {
-          "id": "true",
-          "text": "True"
-        },
-        {
-          "id": "false",
-          "text": "False"
-        }
-      ],
-      "correctOptionId": "false",
-      "explanation": "Like the other Sinn Fein members elected in 1918, she refused the oath of allegiance and never took her seat. She served instead as minister of labour in the first Dail Eireann.",
-      "sources": [
-        {
-          "displayName": "Encyclopaedia Britannica - Constance Markievicz",
-          "url": "https://www.britannica.com/biography/Constance-Markievicz"
-        }
-      ],
-      "collectionIds": [
-        "leaders-and-power",
-        "revolutions"
-      ],
-      "relatedEventIds": [
-        "constance-markievicz-elected-1918"
-      ]
-    },
-    {
       "id": "ireland-irish-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the official Irish-language name of the state of Ireland?",
       "options": [
         {
@@ -386,7 +354,7 @@
       "id": "texas-before-annexation",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What was Texas immediately before the United States annexed it in 1845?",
       "options": [
         {
@@ -429,7 +397,7 @@
       "id": "gladstone-terms-as-pm",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many times did William Gladstone serve as British prime minister?",
       "options": [
         {
@@ -468,7 +436,7 @@
       "id": "ussr-capital",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which city was the capital of the Soviet Union when it was established in 1922?",
       "options": [
         {
@@ -507,7 +475,7 @@
       "id": "rizal-noli-me-tangere-target",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Jose Rizal's novel Noli Me Tangere exposed the abuses of which colonial power in the Philippines?",
       "options": [
         {
@@ -546,7 +514,7 @@
       "id": "gadsden-purchase-seller",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which country did the United States buy land in the 1853 Gadsden Purchase?",
       "options": [
         {
@@ -585,7 +553,7 @@
       "id": "times-square-named-for",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Times Square in New York City takes its name from what?",
       "options": [
         {
@@ -624,7 +592,7 @@
       "id": "tallest-building-after-taipei-101",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which building, opened in Dubai in 2010, took the title of world's tallest from Taipei 101?",
       "options": [
         {
@@ -668,7 +636,7 @@
       "id": "ottawa-chosen-by",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who chose Ottawa as the national capital of Canada in 1857?",
       "options": [
         {
@@ -707,7 +675,7 @@
       "id": "euro-founding-members",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many European Union countries adopted the euro when it was introduced in 1999?",
       "options": [
         {
@@ -746,7 +714,7 @@
       "id": "wto-predecessor",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The World Trade Organization, established in 1995, succeeded which earlier arrangement?",
       "options": [
         {
@@ -785,7 +753,7 @@
       "id": "batista-toppled-by",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whose rebel forces toppled the Cuban dictator Fulgencio Batista in 1959?",
       "options": [
         {
@@ -824,7 +792,7 @@
       "id": "emancipation-proclamation-scope",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Emancipation Proclamation of January 1, 1863, declared freedom for enslaved people in the states then in rebellion against the Union.",
       "options": [
         {
@@ -856,7 +824,7 @@
       "id": "order-january-first-milestones",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these New Year's Day milestones in order from earliest to latest.",
       "items": [
         {
@@ -904,7 +872,7 @@
       "id": "granada-conquerors",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which monarchs captured Granada in 1492, completing the Christian conquest of Spain?",
       "options": [
         {
@@ -944,7 +912,7 @@
       "id": "port-arthur-war-enemy",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Russia surrendered Port Arthur in 1905 during a war against which country?",
       "options": [
         {
@@ -983,7 +951,7 @@
       "id": "stardust-sample",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did NASA's Stardust spacecraft collect in January 2004?",
       "options": [
         {
@@ -1022,7 +990,7 @@
       "id": "tolkien-birth-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which country was J.R.R. Tolkien born?",
       "options": [
         {
@@ -1061,7 +1029,7 @@
       "id": "fiftieth-state-1959",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Alaska became the 49th US state in January 1959. Which became the 50th later that year?",
       "options": [
         {
@@ -1104,7 +1072,7 @@
       "id": "braille-made-of",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Each braille character is formed from what?",
       "options": [
         {
@@ -1144,7 +1112,7 @@
       "id": "burma-modern-name",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Burma, which gained independence from Britain in 1948, is now officially known as what?",
       "options": [
         {
@@ -1183,7 +1151,7 @@
       "id": "waiting-for-godot-author",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote the play Waiting for Godot?",
       "options": [
         {
@@ -1226,7 +1194,7 @@
       "id": "eris-pluto-reclassified",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The discovery of the dwarf planet Eris helped lead astronomers to reclassify Pluto as a dwarf planet.",
       "options": [
         {
@@ -1257,7 +1225,7 @@
       "id": "golden-gate-connects",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Golden Gate Bridge connects San Francisco with which county?",
       "options": [
         {
@@ -1293,49 +1261,10 @@
       ]
     },
     {
-      "id": "ford-five-dollar-day",
-      "type": "multiple_choice",
-      "difficulty": "easy",
-      "publicationState": "draft",
-      "prompt": "In January 1914, Henry Ford raised his workers' basic pay to how much a day?",
-      "options": [
-        {
-          "id": "one-dollar",
-          "text": "$1.00"
-        },
-        {
-          "id": "two-forty",
-          "text": "$2.40"
-        },
-        {
-          "id": "five-dollars",
-          "text": "$5.00"
-        },
-        {
-          "id": "ten-dollars",
-          "text": "$10.00"
-        }
-      ],
-      "correctOptionId": "five-dollars",
-      "explanation": "On January 5, 1914, Ford raised pay from $2.40 to $5.00 a day, roughly doubling it.",
-      "sources": [
-        {
-          "displayName": "Encyclopaedia Britannica - On This Day: January 5",
-          "url": "https://www.britannica.com/on-this-day/January-5"
-        }
-      ],
-      "collectionIds": [
-        "society-culture-and-ideas"
-      ],
-      "relatedEventIds": [
-        "ford-five-dollar-day-1914"
-      ]
-    },
-    {
       "id": "four-freedoms-not-included",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these was NOT one of Franklin D. Roosevelt's Four Freedoms?",
       "options": [
         {
@@ -1375,7 +1304,7 @@
       "id": "henry-viii-wives-count",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Anne of Cleves was one of Henry VIII's wives. How many times did Henry marry?",
       "options": [
         {
@@ -1414,7 +1343,7 @@
       "id": "marian-anderson-1939-concert",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Barred from Constitution Hall in 1939, Marian Anderson sang instead before 75,000 people at which landmark?",
       "options": [
         {
@@ -1453,7 +1382,7 @@
       "id": "phnom-penh-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Phnom Penh, taken by Vietnamese forces in January 1979, is the capital of which country?",
       "options": [
         {
@@ -1492,7 +1421,7 @@
       "id": "fourteen-points-association",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Woodrow Wilson's fourteenth point called for a general association of nations. What did it become?",
       "options": [
         {
@@ -1537,7 +1466,7 @@
       "id": "hawking-best-seller",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What was the title of Stephen Hawking's best-selling 1988 book?",
       "options": [
         {
@@ -1576,7 +1505,7 @@
       "id": "elvis-memphis-home",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the name of Elvis Presley's Memphis estate, now a major tourist attraction?",
       "options": [
         {
@@ -1615,7 +1544,7 @@
       "id": "joan-of-arc-byname",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Joan of Arc became known as the Maid of which city, after the victory she led there in 1429?",
       "options": [
         {
@@ -1654,7 +1583,7 @@
       "id": "rubicon-boundary",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In Julius Caesar's time, the Rubicon marked the boundary between Italy and which province?",
       "options": [
         {
@@ -1694,7 +1623,7 @@
       "id": "common-sense-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote Common Sense, the 1776 pamphlet urging American independence?",
       "options": [
         {
@@ -1733,7 +1662,7 @@
       "id": "first-un-general-assembly-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did the first United Nations General Assembly meet in January 1946?",
       "options": [
         {
@@ -1773,7 +1702,7 @@
       "id": "hillary-everest-partner",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Edmund Hillary first reached the summit of Mount Everest in 1953 with which climber?",
       "options": [
         {
@@ -1812,7 +1741,7 @@
       "id": "earhart-atlantic-before-pacific",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Before her 1935 solo flight from Hawaii to California, Amelia Earhart had already flown solo across the Atlantic.",
       "options": [
         {
@@ -1843,7 +1772,7 @@
       "id": "gordy-label-name",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Berry Gordy's Detroit record business, founded in January 1959, became famous under which name?",
       "options": [
         {
@@ -1886,7 +1815,7 @@
       "id": "jaccuse-defended-officer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Emile Zola's open letter J'accuse defended which wrongly convicted army officer?",
       "options": [
         {
@@ -1925,7 +1854,7 @@
       "id": "huygens-built-by-nasa",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Huygens probe that landed on Saturn's moon Titan in 2005 was built by NASA.",
       "options": [
         {
@@ -1956,7 +1885,7 @@
       "id": "tosca-composer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who composed the opera Tosca, first performed in Rome in 1900?",
       "options": [
         {
@@ -1995,7 +1924,7 @@
       "id": "jasmine-revolution-wave",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Tunisia's 2011 uprising, which drove President Ben Ali from power, inspired which wave of protests?",
       "options": [
         {
@@ -2034,7 +1963,7 @@
       "id": "british-museum-first-home",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "When the British Museum opened in 1759, its collections were displayed in which London mansion?",
       "options": [
         {
@@ -2073,7 +2002,7 @@
       "id": "first-american-woman-in-space",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which member of NASA's 1978 astronaut class became the first American woman in space?",
       "options": [
         {
@@ -2112,7 +2041,7 @@
       "id": "popeye-strength-food",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Popeye the Sailor famously gets his strength from eating what?",
       "options": [
         {
@@ -2151,7 +2080,7 @@
       "id": "franklin-birth-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Benjamin Franklin born?",
       "options": [
         {
@@ -2190,7 +2119,7 @@
       "id": "german-empire-proclaimed-where",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In January 1871, William I was acclaimed German emperor in which French town, then occupied by Prussian forces?",
       "options": [
         {
@@ -2230,7 +2159,7 @@
       "id": "poe-genre-pioneered",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Edgar Allan Poe's 'The Murders in the Rue Morgue' (1841) is credited with pioneering which genre?",
       "options": [
         {
@@ -2269,7 +2198,7 @@
       "id": "obama-senate-state",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Before becoming president, Barack Obama served as a US senator from which state?",
       "options": [
         {
@@ -2308,7 +2237,7 @@
       "id": "concorde-partner-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Concorde was built with funding from the British government and the government of which other country?",
       "options": [
         {
@@ -2347,7 +2276,7 @@
       "id": "louis-xvi-queen",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Louis XVI was executed in January 1793. Which queen, his wife, was guillotined later that year?",
       "options": [
         {
@@ -2390,7 +2319,7 @@
       "id": "petrograd-renamed-1924",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "After Lenin's death in January 1924, the city of Petrograd was renamed what?",
       "options": [
         {
@@ -2431,7 +2360,7 @@
       "id": "victoria-successor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who succeeded Queen Victoria on the British throne when she died in 1901?",
       "options": [
         {
@@ -2470,7 +2399,7 @@
       "id": "blackwell-birth-country",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Elizabeth Blackwell, the first woman to graduate from medical school in the United States, was born in which country?",
       "options": [
         {
@@ -2510,7 +2439,7 @@
       "id": "gold-rush-mill-owner",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "California's gold was first found in 1848 at a sawmill belonging to which settler?",
       "options": [
         {
@@ -2549,7 +2478,7 @@
       "id": "macintosh-ad-novel",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Apple's Super Bowl advertisement for the Macintosh in January 1984 was inspired by which novel?",
       "options": [
         {
@@ -2592,7 +2521,7 @@
       "id": "first-winter-olympics-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first Winter Olympic Games were held in 1924 in which country?",
       "options": [
         {
@@ -2631,7 +2560,7 @@
       "id": "sonja-henie-chamonix",
       "type": "true_false",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Sonja Henie, later a three-time Olympic figure skating champion, won a medal at the first Winter Olympics in 1924.",
       "options": [
         {
@@ -2662,7 +2591,7 @@
       "id": "burns-new-year-song",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which song, sung at New Year around the world, is associated with Robert Burns?",
       "options": [
         {
@@ -2701,7 +2630,7 @@
       "id": "woolf-literary-circle",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Virginia Woolf was at the center of which circle of London writers and thinkers?",
       "options": [
         {
@@ -2740,7 +2669,7 @@
       "id": "cullinan-presented-to",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "To which British monarch was the Cullinan diamond presented in 1907?",
       "options": [
         {
@@ -2783,7 +2712,7 @@
       "id": "mozart-opera",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these operas did Wolfgang Amadeus Mozart compose?",
       "options": [
         {
@@ -2822,7 +2751,7 @@
       "id": "auschwitz-location",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Auschwitz camp, liberated by Soviet troops in January 1945, was located in what is now Poland.",
       "options": [
         {
@@ -2853,7 +2782,7 @@
       "id": "lego-home-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The LEGO company, which patented its interlocking brick in 1958, is based in which country?",
       "options": [
         {
@@ -2893,7 +2822,7 @@
       "id": "challenger-teacher",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which teacher was among the seven crew members lost aboard Challenger in 1986?",
       "options": [
         {
@@ -2932,7 +2861,7 @@
       "id": "pride-prejudice-heroine",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who is the heroine of Jane Austen's Pride and Prejudice?",
       "options": [
         {
@@ -2971,7 +2900,7 @@
       "id": "benz-motorwagen-wheels",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many wheels did Karl Benz's patented Motorwagen of 1886 have?",
       "options": [
         {
@@ -3010,7 +2939,7 @@
       "id": "chekhov-play",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these plays did Anton Chekhov write?",
       "options": [
         {
@@ -3049,7 +2978,7 @@
       "id": "gandhi-1930-march-tax",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Gandhi's 1930 march to the sea at Dandi protested a British tax on what?",
       "options": [
         {
@@ -3088,7 +3017,7 @@
       "id": "brexit-referendum-year",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The United Kingdom left the European Union on January 31, 2020. In which year did it vote to leave?",
       "options": [
         {
@@ -3127,7 +3056,7 @@
       "id": "schubert-unfinished",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Franz Schubert's Symphony in B minor is known by what nickname?",
       "options": [
         {
@@ -3166,7 +3095,7 @@
       "id": "jackie-robinson-team",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "With which team did Jackie Robinson break Major League Baseball's color line in 1947?",
       "options": [
         {
@@ -3205,7 +3134,7 @@
       "id": "stalingrad-modern-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The city of Stalingrad, where Friedrich Paulus surrendered in January 1943, is now called what?",
       "options": [
         {
@@ -3244,7 +3173,7 @@
       "id": "order-space-milestones-dec-jan",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these space milestones in order from earliest to latest.",
       "items": [
         {
@@ -3303,7 +3232,7 @@
       "id": "order-writer-births-january",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put the births of these writers in order from earliest to latest.",
       "items": [
         {

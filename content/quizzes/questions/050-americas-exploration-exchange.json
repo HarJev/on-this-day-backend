@@ -102,7 +102,8 @@
       "correctOptionId": "1999",
       "explanation": "The 1977 Torrijos-Carter Treaties provided for a gradual transfer, completed at noon on 31 December 1999.",
       "sources": [{"displayName": "Panama Canal Authority - History of the Panama Canal", "url": "https://pancanal.com/en/history-of-the-panama-canal/"}],
-      "collectionIds": ["science-and-innovation", "exploration-and-exchange"]
+      "collectionIds": ["science-and-innovation", "exploration-and-exchange"],
+      "relatedEventIds": ["panama-canal-handed-to-panama-1999"]
     },
     {
       "id": "maya-writing-system",

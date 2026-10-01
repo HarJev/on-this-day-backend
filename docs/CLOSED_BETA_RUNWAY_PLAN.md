@@ -6,9 +6,11 @@ ahead for closed beta" from `PRODUCTION_LAUNCH_WORKPLAN.md`.
 ## Window
 
 The 90 upcoming dates from 2026-09-27 run from **September 27 to December 25**.
-Canonical content covers September 15 to December 25. October 2-8 was promoted
-on 2026-09-29 and October 9 to December 25 on 2026-10-01 after the delegated
-owner review (`OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`).
+Canonical content covers September 15 to April 12. October 2-8 was promoted
+on 2026-09-29, October 9 to December 25 on 2026-10-01 after the delegated
+owner review (`OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`), and December 26 to
+April 12 on 2026-10-01 after a second delegated review
+(`OWNER_REVIEW_DEC26_APR12_PROGRESS.md`).
 
 September 16 and 17 are outside this window but still sit below the
 four-event floor. They should get a follow-up batch.
@@ -80,7 +82,8 @@ closed-beta volume checkpoint, but count alone does not provide connected Daily 
 For the remaining runway, follow `CONNECTED_QUIZ_CONTENT_PLAN.md`: first reuse
 suitable questions through reviewed links, then research accessible new hooks
 from upcoming featured/additional stories. Do not force every event into a quiz.
-The 240 target is a checkpoint, not a ceiling. Packs 150 and 160 bring the bank to 229 published.
+The 240 target is a checkpoint, not a ceiling. Packs 150 and 160 bring the bank to 229 published,
+and packs 170, 180 and 190 (December 26 to April 12) bring it to 597 published.
 
 ## Promotion Steps (Per Batch)
 

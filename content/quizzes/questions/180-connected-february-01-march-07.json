@@ -5,7 +5,7 @@
       "id": "greensboro-sit-in-store",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Greensboro sit-in of 1960 began at a segregated lunch counter in which store?",
       "options": [
         {
@@ -45,7 +45,7 @@
       "id": "la-boheme-premiere-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which Italian city did Puccini's opera La Boheme premiere in 1896?",
       "options": [
         {
@@ -84,7 +84,7 @@
       "id": "trygve-lie-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Trygve Lie, elected the first secretary-general of the United Nations in 1946, came from which country?",
       "options": [
         {
@@ -123,7 +123,7 @@
       "id": "groundhog-day-town",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1887, a group in which Pennsylvania town went looking for a groundhog to predict the weather?",
       "options": [
         {
@@ -162,7 +162,7 @@
       "id": "guadalupe-hidalgo-war",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Treaty of Guadalupe Hidalgo, signed in 1848, ended which war?",
       "options": [
         {
@@ -201,7 +201,7 @@
       "id": "ulysses-single-day-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "James Joyce's novel Ulysses follows its characters through a single day in which city?",
       "options": [
         {
@@ -244,7 +244,7 @@
       "id": "collins-first-shuttle-piloted",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1995 Eileen Collins became the first woman to pilot a space shuttle. Which shuttle did she fly?",
       "options": [
         {
@@ -283,7 +283,7 @@
       "id": "fifteenth-amendment-women-vote",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Fifteenth Amendment to the US Constitution, ratified in 1870, gave women the right to vote.",
       "options": [
         {
@@ -315,7 +315,7 @@
       "id": "umm-kulthum-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The singer Umm Kulthum, one of the most famous Arab performers of the 20th century, came from which country?",
       "options": [
         {
@@ -354,7 +354,7 @@
       "id": "facebook-founding-university",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "TheFacebook.com was launched in 2004 by students at which university?",
       "options": [
         {
@@ -393,7 +393,7 @@
       "id": "ceylon-modern-name",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which country was called Ceylon when it gained independence from Britain in 1948?",
       "options": [
         {
@@ -432,7 +432,7 @@
       "id": "yalta-not-present",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these leaders did NOT take part in the Yalta Conference of 1945?",
       "options": [
         {
@@ -471,7 +471,7 @@
       "id": "washington-narrow-election",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "George Washington won the first US presidential election by a narrow margin in the electoral college.",
       "options": [
         {
@@ -502,7 +502,7 @@
       "id": "apollo-14-golf",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did Apollo 14 commander Alan Shepard swing at with a makeshift club on the Moon?",
       "options": [
         {
@@ -541,7 +541,7 @@
       "id": "mexico-1917-constitution-in-force",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The constitution Mexico adopted in 1917 is still the country's constitution.",
       "options": [
         {
@@ -573,7 +573,7 @@
       "id": "elizabeth-ii-father",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Elizabeth II became queen in 1952 on the death of her father. Who was he?",
       "options": [
         {
@@ -612,7 +612,7 @@
       "id": "marley-music-style",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Bob Marley, born in 1945, found stardom by blending ska and rock steady with which kind of music?",
       "options": [
         {
@@ -651,7 +651,7 @@
       "id": "falcon-heavy-company",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which company flew its Falcon Heavy rocket for the first time in 2018?",
       "options": [
         {
@@ -690,7 +690,7 @@
       "id": "chaplin-screen-character",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which famous screen character did Charlie Chaplin introduce in 1914?",
       "options": [
         {
@@ -729,7 +729,7 @@
       "id": "dickens-novel",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these novels did Charles Dickens write?",
       "options": [
         {
@@ -768,7 +768,7 @@
       "id": "grenada-independence-from",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which country did Grenada gain independence in 1974?",
       "options": [
         {
@@ -807,7 +807,7 @@
       "id": "abdullah-ii-father",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Abdullah II became king of Jordan in 1999, succeeding his father. Who was his father?",
       "options": [
         {
@@ -846,7 +846,7 @@
       "id": "verne-submarine-name",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the name of the submarine in Jules Verne's Twenty Thousand Leagues Under the Sea?",
       "options": [
         {
@@ -886,7 +886,7 @@
       "id": "skylab-4-days",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How long did the Skylab 4 crew spend in space, a record when they splashed down in 1974?",
       "options": [
         {
@@ -925,7 +925,7 @@
       "id": "mary-queen-of-scots-rival",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Mary, Queen of Scots, executed in 1587, was the rival of which English monarch?",
       "options": [
         {
@@ -964,7 +964,7 @@
       "id": "element-112-named-after",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Element 112, first made in Germany in 1996, is named after which astronomer?",
       "options": [
         {
@@ -1007,7 +1007,7 @@
       "id": "color-purple-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote the Pulitzer Prize-winning novel The Color Purple (1982)?",
       "options": [
         {
@@ -1046,7 +1046,7 @@
       "id": "alinagar-modern-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Treaty of Alinagar of 1757 put which present-day Indian city under British control?",
       "options": [
         {
@@ -1085,7 +1085,7 @@
       "id": "powers-aircraft-type",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Francis Gary Powers, swapped for a Soviet spy in 1962, had been shot down flying which kind of plane?",
       "options": [
         {
@@ -1124,7 +1124,7 @@
       "id": "treaty-of-paris-1763-war",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Treaty of Paris of 1763 ended which war?",
       "options": [
         {
@@ -1163,7 +1163,7 @@
       "id": "spitz-seven-golds-first",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Mark Spitz was the first athlete to win seven gold medals at a single Olympic Games.",
       "options": [
         {
@@ -1194,7 +1194,7 @@
       "id": "mandela-years-in-prison",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many years had Nelson Mandela spent in prison when he was released in 1990?",
       "options": [
         {
@@ -1233,7 +1233,7 @@
       "id": "lateran-treaty-territory",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Lateran Treaty of 1929 recognized papal sovereignty over which territory?",
       "options": [
         {
@@ -1272,7 +1272,7 @@
       "id": "mubarak-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Hosni Mubarak stepped down in 2011 after nearly 30 years as president of which country?",
       "options": [
         {
@@ -1311,7 +1311,7 @@
       "id": "thatcher-predecessor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1975 Margaret Thatcher replaced whom as leader of Britain's Conservative Party?",
       "options": [
         {
@@ -1350,7 +1350,7 @@
       "id": "darwin-lincoln-same-birthday",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Charles Darwin and Abraham Lincoln were born on the same day.",
       "options": [
         {
@@ -1382,7 +1382,7 @@
       "id": "puyi-last-emperor-of",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Puyi, who abdicated in 1912, was the last emperor of which country?",
       "options": [
         {
@@ -1421,7 +1421,7 @@
       "id": "scream-painter",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who painted The Scream, a version of which was stolen from Oslo's National Gallery in 1994?",
       "options": [
         {
@@ -1464,7 +1464,7 @@
       "id": "chile-independence-general",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Chile formally declared independence in 1818, one year after revolutionary forces led by whom won a key victory?",
       "options": [
         {
@@ -1503,7 +1503,7 @@
       "id": "peanuts-creator",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who created the comic strip Peanuts?",
       "options": [
         {
@@ -1542,7 +1542,7 @@
       "id": "rudd-apology-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Kevin Rudd apologized to Aboriginal peoples in 2008 as prime minister of which country?",
       "options": [
         {
@@ -1581,7 +1581,7 @@
       "id": "france-first-atomic-test-site",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Where did France detonate its first atomic bomb in 1960?",
       "options": [
         {
@@ -1618,49 +1618,10 @@
       ]
     },
     {
-      "id": "simenon-detective",
-      "type": "multiple_choice",
-      "difficulty": "medium",
-      "publicationState": "draft",
-      "prompt": "Which fictional detective did Georges Simenon create?",
-      "options": [
-        {
-          "id": "hercule-poirot",
-          "text": "Hercule Poirot"
-        },
-        {
-          "id": "arsene-lupin",
-          "text": "Arsene Lupin"
-        },
-        {
-          "id": "auguste-dupin",
-          "text": "Auguste Dupin"
-        },
-        {
-          "id": "jules-maigret",
-          "text": "Jules Maigret"
-        }
-      ],
-      "correctOptionId": "jules-maigret",
-      "explanation": "Simenon, born in Liege on February 13, 1903, created the Parisian police inspector Jules Maigret.",
-      "sources": [
-        {
-          "displayName": "Encyclopaedia Britannica - Georges Simenon",
-          "url": "https://www.britannica.com/biography/Georges-Simenon"
-        }
-      ],
-      "collectionIds": [
-        "society-culture-and-ideas"
-      ],
-      "relatedEventIds": [
-        "georges-simenon-born-1903"
-      ]
-    },
-    {
       "id": "eniac-vacuum-tubes",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Roughly how many vacuum tubes did the ENIAC computer use?",
       "options": [
         {
@@ -1699,7 +1660,7 @@
       "id": "cook-killed-islands",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Captain James Cook was killed in 1779 at Kealakekua Bay, in which island group?",
       "options": [
         {
@@ -1738,7 +1699,7 @@
       "id": "arizona-last-contiguous-state",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Arizona, admitted in 1912, was the last of the 48 contiguous US states to join the Union.",
       "options": [
         {
@@ -1769,7 +1730,7 @@
       "id": "maple-leaf-flag-year",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which year did Canada officially adopt its Maple Leaf Flag?",
       "options": [
         {
@@ -1808,7 +1769,7 @@
       "id": "uss-maine-harbor",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The battleship USS Maine exploded and sank in 1898 in the harbor of which city?",
       "options": [
         {
@@ -1847,7 +1808,7 @@
       "id": "galilean-moons-planet",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Galilean moons, discovered by Galileo, orbit which planet?",
       "options": [
         {
@@ -1886,7 +1847,7 @@
       "id": "soviet-afghanistan-start-year",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The last Soviet troops left Afghanistan in 1989. In which year had the occupation begun?",
       "options": [
         {
@@ -1925,7 +1886,7 @@
       "id": "kyoto-protocol-aim",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Kyoto Protocol, which took effect in 2005, was meant to reduce what?",
       "options": [
         {
@@ -1964,7 +1925,7 @@
       "id": "nylon-company",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Wallace Carothers patented nylon in 1937 while working for which company?",
       "options": [
         {
@@ -2003,7 +1964,7 @@
       "id": "grace-bedell-suggestion",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What had 12-year-old Grace Bedell suggested to Abraham Lincoln in a letter?",
       "options": [
         {
@@ -2042,7 +2003,7 @@
       "id": "deep-blue-maker",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which company built the Deep Blue chess computer that Garry Kasparov beat in 1996?",
       "options": [
         {
@@ -2081,7 +2042,7 @@
       "id": "kosovo-independence-from",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which country did Kosovo declare independence in 2008?",
       "options": [
         {
@@ -2120,7 +2081,7 @@
       "id": "first-submarine-sinking-world-war-i",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first sinking of an enemy ship by a submarine took place during World War I.",
       "options": [
         {
@@ -2151,7 +2112,7 @@
       "id": "madama-butterfly-opera-house",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Puccini's Madama Butterfly premiered in 1904 at which opera house?",
       "options": [
         {
@@ -2190,7 +2151,7 @@
       "id": "pluto-discoverer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who discovered Pluto in 1930?",
       "options": [
         {
@@ -2229,7 +2190,7 @@
       "id": "luther-movement",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Martin Luther, who died in 1546, led which religious movement?",
       "options": [
         {
@@ -2268,7 +2229,7 @@
       "id": "shani-davis-sport",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Shani Davis won his 2006 Olympic gold medal in which sport?",
       "options": [
         {
@@ -2307,7 +2268,7 @@
       "id": "copernicus-book-year-of-death",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Copernicus's book De revolutionibus, which set out his Sun-centered system, was published in the year he died.",
       "options": [
         {
@@ -2338,7 +2299,7 @@
       "id": "phonograph-patent-inventor",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who patented the phonograph in 1878?",
       "options": [
         {
@@ -2377,7 +2338,7 @@
       "id": "executive-order-9066-president",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US president signed Executive Order 9066, which forced Japanese Americans into detention camps?",
       "options": [
         {
@@ -2416,7 +2377,7 @@
       "id": "glenn-orbit-count",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many times did John Glenn orbit Earth on his 1962 flight?",
       "options": [
         {
@@ -2455,7 +2416,7 @@
       "id": "paricutin-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The volcano Paricutin, which began erupting in 1943, is in which country?",
       "options": [
         {
@@ -2494,7 +2455,7 @@
       "id": "futurism-newspaper",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which newspaper did Filippo Tommaso Marinetti coin the term Futurism in 1909?",
       "options": [
         {
@@ -2533,7 +2494,7 @@
       "id": "nixon-china-after-office",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Richard Nixon made his famous 1972 visit to China after he had left the presidency.",
       "options": [
         {
@@ -2564,7 +2525,7 @@
       "id": "verdun-war",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Battle of Verdun, which began in 1916, was fought during which war?",
       "options": [
         {
@@ -2603,7 +2564,7 @@
       "id": "dhaka-1952-language",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Protesters in Dhaka on February 21, 1952, were demanding recognition of which language?",
       "options": [
         {
@@ -2642,7 +2603,7 @@
       "id": "miracle-on-ice-opponent",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In the Miracle on Ice game of February 22, 1980, the US hockey team beat which team?",
       "options": [
         {
@@ -2681,7 +2642,7 @@
       "id": "white-rose-university",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The White Rose, an anti-Nazi resistance group, was founded by students at which university?",
       "options": [
         {
@@ -2720,7 +2681,7 @@
       "id": "first-daytona-500-winner",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who won the first Daytona 500, in 1959?",
       "options": [
         {
@@ -2759,7 +2720,7 @@
       "id": "iwo-jima-flag-mountain",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "On which mountain did US servicemen raise the American flag on Iwo Jima in 1945?",
       "options": [
         {
@@ -2798,7 +2759,7 @@
       "id": "messiah-premiere-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Handel's Messiah first performed, in 1742?",
       "options": [
         {
@@ -2837,7 +2798,7 @@
       "id": "du-bois-the-crisis",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "W.E.B. Du Bois edited The Crisis from 1910 to 1934. It was the magazine of which organization?",
       "options": [
         {
@@ -2877,7 +2838,7 @@
       "id": "gregorian-reform-days-dropped",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many days did Pope Gregory XIII's calendar reform remove from 1582?",
       "options": [
         {
@@ -2917,7 +2878,7 @@
       "id": "marbury-act-unconstitutional",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In Marbury v. Madison (1803), the US Supreme Court declared an act of Congress unconstitutional.",
       "options": [
         {
@@ -2948,7 +2909,7 @@
       "id": "johnson-impeachment-chamber",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which body voted 126 to 47 in 1868 to impeach President Andrew Johnson?",
       "options": [
         {
@@ -2987,7 +2948,7 @@
       "id": "ali-name-in-1964",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Under what name did Muhammad Ali fight when he beat Sonny Liston in 1964?",
       "options": [
         {
@@ -3026,7 +2987,7 @@
       "id": "khrushchev-secret-speech-target",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In his 1956 secret speech, Nikita Khrushchev denounced which late Soviet leader?",
       "options": [
         {
@@ -3065,7 +3026,7 @@
       "id": "first-african-american-congress-20th-century",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first African American to serve in the US Congress took his seat in the 20th century.",
       "options": [
         {
@@ -3096,7 +3057,7 @@
       "id": "marcos-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Ferdinand Marcos fled which country in 1986?",
       "options": [
         {
@@ -3135,7 +3096,7 @@
       "id": "napoleon-escape-island",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which island did Napoleon escape in 1815?",
       "options": [
         {
@@ -3174,7 +3135,7 @@
       "id": "hunchback-name",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the name of the hunchback in Victor Hugo's Notre-Dame de Paris?",
       "options": [
         {
@@ -3213,7 +3174,7 @@
       "id": "johnny-cash-nickname",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "By which nickname was Johnny Cash known to his fans?",
       "options": [
         {
@@ -3249,49 +3210,10 @@
       ]
     },
     {
-      "id": "hey-radio-source",
-      "type": "multiple_choice",
-      "difficulty": "medium",
-      "publicationState": "draft",
-      "prompt": "In 1942, James Stanley Hey traced strange interference on British radar to radio waves coming from what?",
-      "options": [
-        {
-          "id": "enemy-jamming-transmitters",
-          "text": "Enemy jamming transmitters"
-        },
-        {
-          "id": "the-moon",
-          "text": "The Moon"
-        },
-        {
-          "id": "the-sun",
-          "text": "The Sun"
-        },
-        {
-          "id": "jupiter",
-          "text": "Jupiter"
-        }
-      ],
-      "correctOptionId": "the-sun",
-      "explanation": "Hey's discovery on February 27, 1942, showed that the Sun emits radio waves.",
-      "sources": [
-        {
-          "displayName": "Encyclopaedia Britannica - On This Day: February 27",
-          "url": "https://www.britannica.com/on-this-day/February-27"
-        }
-      ],
-      "collectionIds": [
-        "science-and-innovation"
-      ],
-      "relatedEventIds": [
-        "hey-detects-solar-radio-waves-1942"
-      ]
-    },
-    {
       "id": "reichstag-function",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Reichstag building in Berlin, which caught fire in 1933, housed what?",
       "options": [
         {
@@ -3330,7 +3252,7 @@
       "id": "grapes-of-wrath-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote The Grapes of Wrath (1939)?",
       "options": [
         {
@@ -3369,7 +3291,7 @@
       "id": "mash-setting-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which country was the TV series M*A*S*H set?",
       "options": [
         {
@@ -3408,7 +3330,7 @@
       "id": "last-pope-to-resign-before-benedict",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "When Benedict XVI resigned in 2013, who had been the last pope before him to resign?",
       "options": [
         {
@@ -3447,7 +3369,7 @@
       "id": "egypt-protectorate-power",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1922, which country unilaterally declared Egypt independent, ending its protectorate there?",
       "options": [
         {
@@ -3490,7 +3412,7 @@
       "id": "palme-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Olof Palme, assassinated in 1986, was prime minister of which country?",
       "options": [
         {
@@ -3529,7 +3451,7 @@
       "id": "mcdaniel-oscar-film",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Hattie McDaniel won her 1940 Academy Award for which film?",
       "options": [
         {
@@ -3568,7 +3490,7 @@
       "id": "rossini-comic-opera",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which comic opera did Gioachino Rossini compose?",
       "options": [
         {
@@ -3607,7 +3529,7 @@
       "id": "return-of-the-king-oscar-count",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many Academy Awards did The Return of the King win in 2004?",
       "options": [
         {
@@ -3646,7 +3568,7 @@
       "id": "howe-800th-goal-age",
       "type": "true_false",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Gordie Howe was in his fifties when he became the first to score 800 NHL goals.",
       "options": [
         {
@@ -3677,7 +3599,7 @@
       "id": "yellowstone-president",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US president signed the act establishing Yellowstone National Park in 1872?",
       "options": [
         {
@@ -3720,7 +3642,7 @@
       "id": "march-first-movement-ruler",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The March First Movement of 1919 demanded Korea's independence from which country?",
       "options": [
         {
@@ -3759,7 +3681,7 @@
       "id": "peace-corps-first-director",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who was the first director of the Peace Corps?",
       "options": [
         {
@@ -3798,7 +3720,7 @@
       "id": "hoover-dam-river",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Hoover Dam, completed in 1936, stands on which river?",
       "options": [
         {
@@ -3837,7 +3759,7 @@
       "id": "concorde-builders",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which two countries built the supersonic airliner Concorde?",
       "options": [
         {
@@ -3876,7 +3798,7 @@
       "id": "wilt-points-record",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many points did Wilt Chamberlain score in a single NBA game in 1962?",
       "options": [
         {
@@ -3915,7 +3837,7 @@
       "id": "morocco-independence-from",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which country did Morocco proclaim independence in 1956?",
       "options": [
         {
@@ -3954,7 +3876,7 @@
       "id": "serfs-emancipation-emperor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which Russian emperor issued the 1861 manifesto freeing the serfs?",
       "options": [
         {
@@ -3993,7 +3915,7 @@
       "id": "star-spangled-banner-anthem-1812",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Star-Spangled Banner has been the official US national anthem since the War of 1812.",
       "options": [
         {
@@ -4024,7 +3946,7 @@
       "id": "bell-birthplace",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Alexander Graham Bell born?",
       "options": [
         {
@@ -4063,7 +3985,7 @@
       "id": "fdr-last-march-4-inauguration",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Franklin D. Roosevelt was the last US president to be inaugurated on March 4.",
       "options": [
         {
@@ -4094,7 +4016,7 @@
       "id": "perkins-cabinet-post",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Frances Perkins, the first woman appointed to a US cabinet post, served as secretary of what?",
       "options": [
         {
@@ -4133,7 +4055,7 @@
       "id": "four-seasons-composer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which composer wrote the violin concertos known as The Four Seasons?",
       "options": [
         {
@@ -4172,7 +4094,7 @@
       "id": "castle-hill-rising-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Castle Hill Rising of 1804, in which Irish convicts rebelled, took place in which present-day country?",
       "options": [
         {
@@ -4211,7 +4133,7 @@
       "id": "iron-curtain-speech-state",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which US state did Winston Churchill give his 1946 Iron Curtain speech?",
       "options": [
         {
@@ -4250,7 +4172,7 @@
       "id": "boston-massacre-victim",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these men was killed in the Boston Massacre of 1770?",
       "options": [
         {
@@ -4289,7 +4211,7 @@
       "id": "stalin-successor-1953",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who succeeded Joseph Stalin as Soviet premier when Stalin died in 1953?",
       "options": [
         {
@@ -4328,7 +4250,7 @@
       "id": "voyager-1-jupiter-moon",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which spacecraft made its closest approach to Jupiter on March 5, 1979?",
       "options": [
         {
@@ -4367,7 +4289,7 @@
       "id": "sistine-ceiling-artist",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which artist painted the ceiling of the Sistine Chapel, from 1508 to 1512?",
       "options": [
         {
@@ -4406,7 +4328,7 @@
       "id": "macondo-novel",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The fictional town of Macondo is the setting of which novel?",
       "options": [
         {
@@ -4445,7 +4367,7 @@
       "id": "alamo-siege-length",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How long did the siege of the Alamo last before the mission fell in 1836?",
       "options": [
         {
@@ -4489,7 +4411,7 @@
       "id": "la-traviata-composer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who composed La Traviata, which premiered in Venice in 1853?",
       "options": [
         {
@@ -4528,7 +4450,7 @@
       "id": "selma-march-destination",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The civil rights marchers attacked at Selma, Alabama, in March 1965 were trying to reach which city?",
       "options": [
         {
@@ -4567,7 +4489,7 @@
       "id": "marcus-aurelius-co-emperor",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 161 CE, Marcus Aurelius made which man his co-emperor?",
       "options": [
         {
@@ -4607,7 +4529,7 @@
       "id": "bigelow-oscar-film",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Kathryn Bigelow became the first woman to win the best director Oscar for which film?",
       "options": [
         {
@@ -4646,7 +4568,7 @@
       "id": "bolero-composer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which French composer wrote Bolero (1928)?",
       "options": [
         {
@@ -4685,7 +4607,7 @@
       "id": "order-crewed-spaceflight-feb-mar",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these spaceflight milestones in order from earliest to latest.",
       "items": [
         {
@@ -4744,7 +4666,7 @@
       "id": "order-independence-feb-mar",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these declarations or grants of independence in order from earliest to latest.",
       "items": [
         {
@@ -4803,7 +4725,7 @@
       "id": "order-composer-births-feb-mar",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put the births of these composers in order from earliest to latest.",
       "items": [
         {

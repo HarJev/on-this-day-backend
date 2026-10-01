@@ -146,7 +146,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["granada-surrenders-1492"]
     },
     {
       "id": "kilwa-indian-ocean-trade",
@@ -294,7 +295,8 @@
       "collectionIds": [
         "science-and-innovation",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["nicolaus-copernicus-born-1473"]
     },
     {
       "id": "british-slavery-abolition-act-1833",
@@ -477,7 +479,8 @@
       "collectionIds": [
         "revolutions",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["ghana-becomes-independent-1957"]
     },
     {
       "id": "civil-rights-act-title-vii-employment",
@@ -846,7 +849,8 @@
       "collectionIds": [
         "science-and-innovation",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["bell-telephone-patent-1876"]
     },
     {
       "id": "order-cold-war-milestones",
@@ -899,7 +903,8 @@
       ],
       "collectionIds": [
         "wars-and-conflicts"
-      ]
+      ],
+      "relatedEventIds": ["north-atlantic-treaty-signed-1949"]
     },
     {
       "id": "identify-abraham-lincoln",
@@ -946,7 +951,8 @@
       "collectionIds": [
         "leaders-and-power",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["abraham-lincoln-born-1809"]
     },
     {
       "id": "identify-frederick-douglass",
@@ -1043,7 +1049,7 @@
       "collectionIds": [
         "science-and-innovation"
       ],
-      "relatedEventIds": ["beagle-returns-to-england-1836"]
+      "relatedEventIds": ["beagle-returns-to-england-1836", "darwin-sails-on-beagle-1831", "charles-darwin-born-1809"]
     },
     {
       "id": "identify-sun-yat-sen",
@@ -1138,7 +1144,8 @@
       "collectionIds": [
         "leaders-and-power",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["jose-rizal-executed-1896"]
     },
     {
       "id": "identify-statue-of-liberty",
