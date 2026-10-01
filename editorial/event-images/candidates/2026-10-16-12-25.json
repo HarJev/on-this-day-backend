@@ -386,8 +386,8 @@
       "source": "Wikimedia Commons",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exp%C3%A9rience_du_21_9bre_1783_-_Au_Chateau_de_la_Muette._Pl..._-_estampe_-_btv1b550014351.jpg",
       "altText": "Eighteenth-century print of the Montgolfier balloon rising from the Chateau de la Muette, November 21, 1783",
-      "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
-      "creator": null,
+      "attribution": "Unknown artist, via Wikimedia Commons (Public domain)",
+      "creator": "Unknown artist",
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
     },
@@ -559,19 +559,6 @@
       "creator": "NASA",
       "license": "Public domain",
       "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
-    },
-    {
-      "id": "notre-dame-reopens-2024-primary",
-      "eventId": "notre-dame-reopens-2024",
-      "primary": true,
-      "sourceRenditionUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Chancel_of_Notre-Dame_de_Paris%2C_2024_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "source": "Wikimedia Commons",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chancel_of_Notre-Dame_de_Paris,_2024_(2).jpg",
-      "altText": "The restored chancel of Notre-Dame Cathedral in Paris after its reopening in December 2024",
-      "attribution": "Ibex73, via Wikimedia Commons (CC BY 4.0)",
-      "creator": "Ibex73",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
     },
     {
       "id": "smallpox-declared-eradicated-1979-primary",

@@ -111,6 +111,11 @@ the new packs are text questions, so no question needs an image.
   where Barnard was not identifiable), and both Peanuts events (Schulz drawing
   Charlie Brown, a copyrighted character, for Commons' version with the
   drawing pixelated).
+- Notre-Dame (Dec 8): the first image centred on the 2024 bronze high altar by
+  Guillaume Bardet, a living artist; France has no freedom of panorama, so PR #33
+  review replaced it with a CC0 photo of the rebuilt spire
+  (`2026-12-08-notre-dame-replacement`, new S3 key; the old object stays
+  unreferenced in the bucket).
 - Rosa Parks (Dec 1, 1955) uses the AP photo of her being fingerprinted after
   her February 1956 arrest; the alt text says so.
 - Dropped at review in batches 2 and 3: Times Square (a night shot of

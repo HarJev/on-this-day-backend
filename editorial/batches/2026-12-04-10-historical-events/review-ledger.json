@@ -456,7 +456,7 @@
       "calendarDays": [
         "12-08"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json.",
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json. Image replaced at PR #33 review: the first choice centred on the 2024 high altar by Guillaume Bardet (no freedom of panorama in France); now the rebuilt spire, CC0, see editorial/event-images/manifests/2026-12-08-notre-dame-replacement.publish-manifest.json.",
       "reviewer": "Claude (owner review delegated by Jevaun Harris)",
       "reviewedOn": "2026-10-01"
     },
