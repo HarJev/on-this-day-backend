@@ -68,19 +68,7 @@
           "url": "https://www.britannica.com/topic/Washington-Monument-Washington-DC"
         }
       ],
-      "images": [
-        {
-          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/washington-monument-opens-to-public-1888/674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca.jpg",
-          "altText": "Crowds in the snow around the base of the Washington Monument at its dedication ceremony, 1885",
-          "source": "Wikimedia Commons",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_Monument,_Dedication_Ceremony,_1885.jpg",
-          "creator": "Unknown photographer",
-          "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
-          "license": "Public domain",
-          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-          "primary": true
-        }
-      ]
+      "images": []
     },
     {
       "id": "uganda-independence-1962",

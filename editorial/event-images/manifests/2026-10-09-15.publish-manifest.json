@@ -22,26 +22,6 @@
       "objectKey": "event-images/keplers-supernova-first-sighted-1604/e0360b622287faefcba4c6d762760dfa366517f2fe9b6145e0de47baae1758ec.jpg"
     },
     {
-      "id": "washington-monument-opens-to-public-1888-primary",
-      "eventId": "washington-monument-opens-to-public-1888",
-      "primary": true,
-      "sourceRenditionUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Washington_Monument%2C_Dedication_Ceremony%2C_1885.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-      "source": "Wikimedia Commons",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington_Monument,_Dedication_Ceremony,_1885.jpg",
-      "altText": "Crowds in the snow around the base of the Washington Monument at its dedication ceremony, 1885",
-      "attribution": "Unknown photographer, via Wikimedia Commons (Public domain)",
-      "creator": "Unknown photographer",
-      "license": "Public domain",
-      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
-      "relativePath": "prepared/washington-monument-opens-to-public-1888-primary.jpg",
-      "contentType": "image/jpeg",
-      "width": 960,
-      "height": 728,
-      "byteSize": 100345,
-      "sha256": "674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca",
-      "objectKey": "event-images/washington-monument-opens-to-public-1888/674be651e4b37a1965cb88256da9ab2d7046a7e564d1487ffdcb48039ae007ca.jpg"
-    },
-    {
       "id": "uganda-independence-1962-primary",
       "eventId": "uganda-independence-1962",
       "primary": true,

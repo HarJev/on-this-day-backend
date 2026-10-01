@@ -24,9 +24,16 @@ content approval: the October 9-15 events are still `source_verified` drafts.
 | I2: prepare and review renditions | COMPLETED | 2026-10-01 on the owner's Mac: `prepare` + `validate` pass for both files (26 main + 1 supplementary JPEGs). Every rendition checked by eye. Dropped the UPU image (see Skipped Events); corrected alt text for Fiji, South African War, Yeager and Washington Monument to match what the photo shows. |
 | I3: publish to S3 | COMPLETED | 2026-10-01 as `on-this-day-terraform`: dry run listed only 27 `event-images/<event-id>/<sha256>.jpg` keys, then `--execute` uploaded 27 objects (26 main + 1 supplementary) to `on-this-day-media-764574955085`. All 27 CloudFront URLs return 200 `image/jpeg`. No other objects or resources touched. |
 | I4: attach to drafts | COMPLETED | 2026-10-01: `attach` wrote 26 images into `2026-10-09-15-historical-events/draft-events.json` and 1 into `2026-10-09-15-supplementary-events/draft-events.json`. Publish manifests copied to `editorial/event-images/manifests/`. `imageRightsStatus: verified` set for those 27 ledger entries only; `reviewStatus` stays `source_verified`. `ClosedBetaRunwayDraftTest`, `mvn -B test` (198 tests) and `EditorialReviewCheckCommand` on both batches pass. |
-| I5: PR review | NOT_STARTED | Separate review thread reviews and merges. |
+| I5: PR review | COMPLETED | 2026-10-01 review thread: licences and alt text checked against Commons for the CC and less obvious PD files; all CloudFront objects match their manifest sha256. Dropped the Washington Monument image (see Skipped Events), leaving 26 attached images (25 main + 1 supplementary). Its S3 object stays in the bucket, unreferenced. |
 
 ## Skipped Events
+
+- `washington-monument-opens-to-public-1888`: dropped at I5 review. The 1885
+  dedication photo is low resolution, the monument's top is cut off by the
+  frame and the print is scratched, so it does not read at phone size. Its
+  uploaded object
+  (`event-images/washington-monument-opens-to-public-1888/674be651….jpg`) is left in S3
+  and referenced nowhere; reuse or remove it in a later owner-approved step.
 
 - `universal-postal-union-founded-1874`: dropped at I2 review. The Commons
   file is Georges Morin's prize-winning competition model (caption printed in
