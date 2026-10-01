@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "mlk-awarded-nobel-peace-prize-1964-primary",
+      "eventId": "mlk-awarded-nobel-peace-prize-1964",
+      "primary": true,
+      "sourceRenditionUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Martin_Luther_King_Jr._winner_of_the_Nobel_Peace_Prize_being_congratulated_by_King_Olav_V_and_Crown_Prince_Harald_of_Norway_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_Jr._winner_of_the_Nobel_Peace_Prize_being_congratulated_by_King_Olav_V_and_Crown_Prince_Harald_of_Norway_(cropped).jpg",
+      "altText": "Martin Luther King Jr. being congratulated by King Olav V of Norway after receiving the Nobel Peace Prize",
+      "attribution": "U.S. Information Agency, via Wikimedia Commons (Public domain)",
+      "creator": "U.S. Information Agency",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "relativePath": "prepared/mlk-awarded-nobel-peace-prize-1964-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 939,
+      "height": 523,
+      "byteSize": 76329,
+      "sha256": "b96154de59e3b0ebad8ab920d53576c9b97309d7e1087d45871b37e3661744c5",
+      "objectKey": "event-images/mlk-awarded-nobel-peace-prize-1964/b96154de59e3b0ebad8ab920d53576c9b97309d7e1087d45871b37e3661744c5.jpg"
+    }
+  ]
+}

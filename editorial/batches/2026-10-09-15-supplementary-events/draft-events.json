@@ -20,7 +20,19 @@
           "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/mlk-awarded-nobel-peace-prize-1964/b96154de59e3b0ebad8ab920d53576c9b97309d7e1087d45871b37e3661744c5.jpg",
+          "altText": "Martin Luther King Jr. being congratulated by King Olav V of Norway after receiving the Nobel Peace Prize",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martin_Luther_King_Jr._winner_of_the_Nobel_Peace_Prize_being_congratulated_by_King_Olav_V_and_Crown_Prince_Harald_of_Norway_(cropped).jpg",
+          "creator": "U.S. Information Agency",
+          "attribution": "U.S. Information Agency, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     }
   ]
 }
