@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "notre-dame-reopens-2024-primary",
+      "eventId": "notre-dame-reopens-2024",
+      "primary": true,
+      "sourceRenditionUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Paris_4e_-_Cath%C3%A9drale_Notre-Dame_de_Paris_-_Nouvelle_f%C3%A8che.jpg/1920px-Paris_4e_-_Cath%C3%A9drale_Notre-Dame_de_Paris_-_Nouvelle_f%C3%A8che.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_4e_-_Cath%C3%A9drale_Notre-Dame_de_Paris_-_Nouvelle_f%C3%A8che.jpg",
+      "altText": "The rebuilt spire of Notre-Dame Cathedral in Paris against a blue sky in March 2024, near the end of the restoration",
+      "attribution": "Romainbehar, via Wikimedia Commons (CC0 1.0)",
+      "creator": "Romainbehar",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "relativePath": "prepared/notre-dame-reopens-2024-primary.jpg",
+      "contentType": "image/jpeg",
+      "width": 639,
+      "height": 960,
+      "byteSize": 40157,
+      "sha256": "fe15b1dd888cf873036020be0c241a9db59a86c84e6041e8d430e25e7d3f1bed",
+      "objectKey": "event-images/notre-dame-reopens-2024/fe15b1dd888cf873036020be0c241a9db59a86c84e6041e8d430e25e7d3f1bed.jpg"
+    }
+  ]
+}

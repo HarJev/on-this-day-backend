@@ -20,7 +20,7 @@
           "note": "Swiss National Museum states: 'On 9 October 1874, the Universal Postal Union was established in Bern'; founding members came from 22 countries."
         }
       ],
-      "imageRightsStatus": "not_applicable",
+      "imageRightsStatus": "verified",
       "regions": [
         "europe",
         "global"
@@ -31,7 +31,7 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json.",
       "reviewer": "Claude (owner review delegated by Jevaun Harris)",
       "reviewedOn": "2026-10-01"
     },
