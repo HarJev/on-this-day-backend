@@ -1,0 +1,3358 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "frisbee-patent-company",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which toy company was granted a 1967 US patent for the flying disc best known as the Frisbee?",
+      "options": [
+        {
+          "id": "wham-o",
+          "text": "Wham-O"
+        },
+        {
+          "id": "mattel",
+          "text": "Mattel"
+        },
+        {
+          "id": "hasbro",
+          "text": "Hasbro"
+        },
+        {
+          "id": "parker-brothers",
+          "text": "Parker Brothers"
+        }
+      ],
+      "correctOptionId": "wham-o",
+      "explanation": "Wham-O received the patent on December 26, 1967, for what it described as a saucer-shaped throwing implement.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 26",
+          "url": "https://www.britannica.com/on-this-day/December-26"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "frisbee-patent-issued-1967"
+      ]
+    },
+    {
+      "id": "babbage-analytical-engine",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Charles Babbage's Analytical Engine, designed in the 1830s, is seen as the forerunner of what?",
+      "options": [
+        {
+          "id": "steam-locomotive",
+          "text": "The steam locomotive"
+        },
+        {
+          "id": "telegraph",
+          "text": "The electric telegraph"
+        },
+        {
+          "id": "digital-computer",
+          "text": "The modern digital computer"
+        },
+        {
+          "id": "typewriter",
+          "text": "The typewriter"
+        }
+      ],
+      "correctOptionId": "digital-computer",
+      "explanation": "Babbage, born December 26, 1791, designed the Difference Engine and then the Analytical Engine, which Britannica calls the forerunner of the modern digital computer.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Charles Babbage",
+          "url": "https://www.britannica.com/biography/Charles-Babbage"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "charles-babbage-born-1791"
+      ]
+    },
+    {
+      "id": "hagia-sophia-modern-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Hagia Sophia was built in Constantinople. What is that city called today?",
+      "options": [
+        {
+          "id": "ankara",
+          "text": "Ankara"
+        },
+        {
+          "id": "istanbul",
+          "text": "Istanbul"
+        },
+        {
+          "id": "athens",
+          "text": "Athens"
+        },
+        {
+          "id": "izmir",
+          "text": "Izmir"
+        }
+      ],
+      "correctOptionId": "istanbul",
+      "explanation": "Hagia Sophia, completed in 537 under Justinian I, stands in Istanbul. It became a mosque after 1453, a museum in 1935 and a mosque again in 2020.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Hagia Sophia",
+          "url": "https://www.britannica.com/topic/Hagia-Sophia"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "hagia-sophia-consecrated-537"
+      ]
+    },
+    {
+      "id": "beagle-voyage-length",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Roughly how long did Charles Darwin's voyage on HMS Beagle last?",
+      "options": [
+        {
+          "id": "one-year",
+          "text": "About one year"
+        },
+        {
+          "id": "two-years",
+          "text": "About two years"
+        },
+        {
+          "id": "five-years",
+          "text": "About five years"
+        },
+        {
+          "id": "ten-years",
+          "text": "About ten years"
+        }
+      ],
+      "correctOptionId": "five-years",
+      "explanation": "The Beagle sailed from England on December 27, 1831, and the voyage lasted until 1836.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Charles Darwin",
+          "url": "https://www.britannica.com/biography/Charles-Darwin"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange",
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "darwin-sails-on-beagle-1831"
+      ]
+    },
+    {
+      "id": "kepler-elliptical-orbits",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Johannes Kepler's first law states that planets move in circular orbits with the Sun at the center.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Kepler's first law says planets move in elliptical orbits, with the Sun at one focus of the ellipse.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Johannes Kepler",
+          "url": "https://www.britannica.com/biography/Johannes-Kepler"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "johannes-kepler-born-1571"
+      ]
+    },
+    {
+      "id": "indonesia-colonial-power",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which European country did Indonesia win its independence?",
+      "options": [
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "netherlands",
+          "text": "The Netherlands"
+        }
+      ],
+      "correctOptionId": "netherlands",
+      "explanation": "Indonesia declared independence in 1945, and the Dutch formally relinquished control on December 27, 1949.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 27",
+          "url": "https://www.britannica.com/on-this-day/December-27"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "dutch-transfer-sovereignty-indonesia-1949"
+      ]
+    },
+    {
+      "id": "lumiere-first-screening-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city did the Lumiere brothers first demonstrate their Cinematographe to the public in 1895?",
+      "options": [
+        {
+          "id": "lyon",
+          "text": "Lyon"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "brussels",
+          "text": "Brussels"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        }
+      ],
+      "correctOptionId": "paris",
+      "explanation": "The first public demonstration of the Cinematographe took place at the Grand Cafe in Paris on December 28, 1895.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 28",
+          "url": "https://www.britannica.com/on-this-day/December-28"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lumiere-first-public-film-screening-1895"
+      ]
+    },
+    {
+      "id": "westminster-abbey-founder-king",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which English king opened Westminster Abbey in 1065, shortly before his death?",
+      "options": [
+        {
+          "id": "william-conqueror",
+          "text": "William the Conqueror"
+        },
+        {
+          "id": "harold-ii",
+          "text": "Harold II"
+        },
+        {
+          "id": "edward-confessor",
+          "text": "Edward the Confessor"
+        },
+        {
+          "id": "alfred",
+          "text": "Alfred the Great"
+        }
+      ],
+      "correctOptionId": "edward-confessor",
+      "explanation": "Westminster Abbey was consecrated and opened by Edward the Confessor on December 28, 1065.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 28",
+          "url": "https://www.britannica.com/on-this-day/December-28"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "westminster-abbey-consecrated-1065"
+      ]
+    },
+    {
+      "id": "markievicz-took-seat",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Constance Markievicz, the first woman elected to the British House of Commons, took her seat at Westminster.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Like the other Sinn Fein members elected in 1918, she refused the oath of allegiance and never took her seat. She served instead as minister of labour in the first Dail Eireann.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Constance Markievicz",
+          "url": "https://www.britannica.com/biography/Constance-Markievicz"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "constance-markievicz-elected-1918"
+      ]
+    },
+    {
+      "id": "ireland-irish-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What is the official Irish-language name of the state of Ireland?",
+      "options": [
+        {
+          "id": "alba",
+          "text": "Alba"
+        },
+        {
+          "id": "cymru",
+          "text": "Cymru"
+        },
+        {
+          "id": "kernow",
+          "text": "Kernow"
+        },
+        {
+          "id": "eire",
+          "text": "Eire"
+        }
+      ],
+      "correctOptionId": "eire",
+      "explanation": "Britannica gives the official name as Eire in Irish and Ireland in English. The constitution that took effect on December 29, 1937, renamed the Irish Free State.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ireland",
+          "url": "https://www.britannica.com/place/Ireland"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 29",
+          "url": "https://www.britannica.com/on-this-day/December-29"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "irish-constitution-in-force-1937"
+      ]
+    },
+    {
+      "id": "texas-before-annexation",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What was Texas immediately before the United States annexed it in 1845?",
+      "options": [
+        {
+          "id": "spanish-colony",
+          "text": "A Spanish colony"
+        },
+        {
+          "id": "british-dominion",
+          "text": "A British dominion"
+        },
+        {
+          "id": "independent-republic",
+          "text": "An independent republic"
+        },
+        {
+          "id": "french-territory",
+          "text": "A French territory"
+        }
+      ],
+      "correctOptionId": "independent-republic",
+      "explanation": "Congress approved the annexation of the independent Republic of Texas on December 29, 1845.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 29",
+          "url": "https://www.britannica.com/on-this-day/December-29"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "texas-annexed-1845"
+      ]
+    },
+    {
+      "id": "gladstone-terms-as-pm",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many times did William Gladstone serve as British prime minister?",
+      "options": [
+        {
+          "id": "two",
+          "text": "Two"
+        },
+        {
+          "id": "three",
+          "text": "Three"
+        },
+        {
+          "id": "four",
+          "text": "Four"
+        },
+        {
+          "id": "five",
+          "text": "Five"
+        }
+      ],
+      "correctOptionId": "four",
+      "explanation": "Gladstone, born in Liverpool on December 29, 1809, led governments in 1868-74, 1880-85, 1886 and 1892-94.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 29",
+          "url": "https://www.britannica.com/on-this-day/December-29"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "william-gladstone-born-1809"
+      ]
+    },
+    {
+      "id": "ussr-capital",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which city was the capital of the Soviet Union when it was established in 1922?",
+      "options": [
+        {
+          "id": "st-petersburg",
+          "text": "St. Petersburg"
+        },
+        {
+          "id": "kyiv",
+          "text": "Kyiv"
+        },
+        {
+          "id": "minsk",
+          "text": "Minsk"
+        },
+        {
+          "id": "moscow",
+          "text": "Moscow"
+        }
+      ],
+      "correctOptionId": "moscow",
+      "explanation": "The Union of Soviet Socialist Republics was established on December 30, 1922, with its capital in Moscow.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 30",
+          "url": "https://www.britannica.com/on-this-day/December-30"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "soviet-union-established-1922"
+      ]
+    },
+    {
+      "id": "rizal-noli-me-tangere-target",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Jose Rizal's novel Noli Me Tangere exposed the abuses of which colonial power in the Philippines?",
+      "options": [
+        {
+          "id": "spain",
+          "text": "Spain"
+        },
+        {
+          "id": "united-states",
+          "text": "The United States"
+        },
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "netherlands",
+          "text": "The Netherlands"
+        }
+      ],
+      "correctOptionId": "spain",
+      "explanation": "Britannica calls Noli Me Tangere a passionate exposure of the evils of Spanish rule. Spanish authorities executed Rizal in Manila on December 30, 1896.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Jose Rizal",
+          "url": "https://www.britannica.com/biography/Jose-Rizal"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "jose-rizal-executed-1896"
+      ]
+    },
+    {
+      "id": "gadsden-purchase-seller",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which country did the United States buy land in the 1853 Gadsden Purchase?",
+      "options": [
+        {
+          "id": "spain",
+          "text": "Spain"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "mexico",
+          "text": "Mexico"
+        }
+      ],
+      "correctOptionId": "mexico",
+      "explanation": "The Gadsden Purchase, signed December 30, 1853, gave the United States nearly 30,000 square miles of northern Mexican territory.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 30",
+          "url": "https://www.britannica.com/on-this-day/December-30"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "gadsden-purchase-signed-1853"
+      ]
+    },
+    {
+      "id": "times-square-named-for",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Times Square in New York City takes its name from what?",
+      "options": [
+        {
+          "id": "clock-tower",
+          "text": "A clock tower in the square"
+        },
+        {
+          "id": "newspaper",
+          "text": "The New York Times newspaper"
+        },
+        {
+          "id": "theater",
+          "text": "A theater called the Times"
+        },
+        {
+          "id": "time-zone",
+          "text": "The adoption of standard time zones"
+        }
+      ],
+      "correctOptionId": "newspaper",
+      "explanation": "Longacre Square was renamed in 1904 for The New York Times, which opened offices there. The Times began its New Year's Eve ball drop in 1907.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Times Square",
+          "url": "https://www.britannica.com/place/Times-Square"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "times-square-ball-drop-1907"
+      ]
+    },
+    {
+      "id": "tallest-building-after-taipei-101",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which building, opened in Dubai in 2010, took the title of world's tallest from Taipei 101?",
+      "options": [
+        {
+          "id": "petronas",
+          "text": "Petronas Towers"
+        },
+        {
+          "id": "shanghai-tower",
+          "text": "Shanghai Tower"
+        },
+        {
+          "id": "burj-khalifa",
+          "text": "Burj Khalifa"
+        },
+        {
+          "id": "one-wtc",
+          "text": "One World Trade Center"
+        }
+      ],
+      "correctOptionId": "burj-khalifa",
+      "explanation": "Taipei 101 opened on December 31, 2004, as the world's tallest building at 508 metres. The Burj Khalifa officially opened in Dubai on January 4, 2010.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 31",
+          "url": "https://www.britannica.com/on-this-day/December-31"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "taipei-101-opens-2004",
+        "burj-khalifa-opens-2010"
+      ]
+    },
+    {
+      "id": "ottawa-chosen-by",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who chose Ottawa as the national capital of Canada in 1857?",
+      "options": [
+        {
+          "id": "john-a-macdonald",
+          "text": "John A. Macdonald"
+        },
+        {
+          "id": "queen-victoria",
+          "text": "Queen Victoria"
+        },
+        {
+          "id": "lord-durham",
+          "text": "Lord Durham"
+        },
+        {
+          "id": "samuel-de-champlain",
+          "text": "Samuel de Champlain"
+        }
+      ],
+      "correctOptionId": "queen-victoria",
+      "explanation": "Queen Victoria named Ottawa the national capital on December 31, 1857.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 31",
+          "url": "https://www.britannica.com/on-this-day/December-31"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "ottawa-named-capital-of-canada-1857"
+      ]
+    },
+    {
+      "id": "euro-founding-members",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many European Union countries adopted the euro when it was introduced in 1999?",
+      "options": [
+        {
+          "id": "six",
+          "text": "6"
+        },
+        {
+          "id": "eleven",
+          "text": "11"
+        },
+        {
+          "id": "fifteen",
+          "text": "15"
+        },
+        {
+          "id": "twenty-seven",
+          "text": "27"
+        }
+      ],
+      "correctOptionId": "eleven",
+      "explanation": "Eleven EU countries changed to the euro on January 1, 1999. Others, including Bulgaria in 2026, joined later.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 1",
+          "url": "https://www.britannica.com/on-this-day/January-1"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "euro-introduced-1999"
+      ]
+    },
+    {
+      "id": "wto-predecessor",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "The World Trade Organization, established in 1995, succeeded which earlier arrangement?",
+      "options": [
+        {
+          "id": "bretton-woods",
+          "text": "Bretton Woods system"
+        },
+        {
+          "id": "oecd",
+          "text": "Organisation for Economic Co-operation and Development"
+        },
+        {
+          "id": "unctad",
+          "text": "UN Conference on Trade and Development"
+        },
+        {
+          "id": "gatt",
+          "text": "General Agreement on Tariffs and Trade"
+        }
+      ],
+      "correctOptionId": "gatt",
+      "explanation": "The WTO began operations on January 1, 1995, as successor to the General Agreement on Tariffs and Trade, created in 1947.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - World Trade Organization",
+          "url": "https://www.britannica.com/topic/World-Trade-Organization"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "world-trade-organization-established-1995"
+      ]
+    },
+    {
+      "id": "batista-toppled-by",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Whose rebel forces toppled the Cuban dictator Fulgencio Batista in 1959?",
+      "options": [
+        {
+          "id": "peron",
+          "text": "Juan Peron"
+        },
+        {
+          "id": "pinochet",
+          "text": "Augusto Pinochet"
+        },
+        {
+          "id": "somoza",
+          "text": "Anastasio Somoza"
+        },
+        {
+          "id": "castro",
+          "text": "Fidel Castro"
+        }
+      ],
+      "correctOptionId": "castro",
+      "explanation": "Batista fled Cuba on January 1, 1959, after his regime was toppled by rebel forces led by Fidel Castro.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 1",
+          "url": "https://www.britannica.com/on-this-day/January-1"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "batista-flees-cuba-1959"
+      ]
+    },
+    {
+      "id": "emancipation-proclamation-scope",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Emancipation Proclamation of January 1, 1863, declared freedom for enslaved people in the states then in rebellion against the Union.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Lincoln's proclamation applied to enslaved people in the Confederacy, the states in rebellion.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 1",
+          "url": "https://www.britannica.com/on-this-day/January-1"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "emancipation-proclamation-issued-1863"
+      ]
+    },
+    {
+      "id": "order-january-first-milestones",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these New Year's Day milestones in order from earliest to latest.",
+      "items": [
+        {
+          "id": "euro",
+          "text": "Eleven countries adopt the euro"
+        },
+        {
+          "id": "emancipation",
+          "text": "Lincoln issues the Emancipation Proclamation"
+        },
+        {
+          "id": "batista",
+          "text": "Batista flees Cuba"
+        },
+        {
+          "id": "haiti",
+          "text": "Haiti declares independence"
+        }
+      ],
+      "correctOrderItemIds": [
+        "haiti",
+        "emancipation",
+        "batista",
+        "euro"
+      ],
+      "explanation": "All four happened on January 1: Haiti's independence in 1804, the Emancipation Proclamation in 1863, Batista's flight in 1959, and the euro in 1999.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 1",
+          "url": "https://www.britannica.com/on-this-day/January-1"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "haiti-declares-independence-1804",
+        "emancipation-proclamation-issued-1863",
+        "batista-flees-cuba-1959",
+        "euro-introduced-1999"
+      ]
+    },
+    {
+      "id": "granada-conquerors",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which monarchs captured Granada in 1492, completing the Christian conquest of Spain?",
+      "options": [
+        {
+          "id": "henry-catherine",
+          "text": "Henry VIII and Catherine of Aragon"
+        },
+        {
+          "id": "ferdinand-isabella",
+          "text": "Ferdinand II and Isabella I"
+        },
+        {
+          "id": "philip-mary",
+          "text": "Philip II and Mary I"
+        },
+        {
+          "id": "charles-isabella",
+          "text": "Charles V and Isabella of Portugal"
+        }
+      ],
+      "correctOptionId": "ferdinand-isabella",
+      "explanation": "Ferdinand II and Isabella I, the first monarchs of a unified Spain, captured Granada on January 2, 1492.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "granada-surrenders-1492"
+      ]
+    },
+    {
+      "id": "port-arthur-war-enemy",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Russia surrendered Port Arthur in 1905 during a war against which country?",
+      "options": [
+        {
+          "id": "china",
+          "text": "China"
+        },
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "japan",
+          "text": "Japan"
+        },
+        {
+          "id": "ottoman-empire",
+          "text": "The Ottoman Empire"
+        }
+      ],
+      "correctOptionId": "japan",
+      "explanation": "Russian forces surrendered Port Arthur, later Lushun in China, to the Japanese on January 2, 1905, in the Russo-Japanese War.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "port-arthur-surrenders-1905"
+      ]
+    },
+    {
+      "id": "stardust-sample",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did NASA's Stardust spacecraft collect in January 2004?",
+      "options": [
+        {
+          "id": "solar-wind",
+          "text": "Particles of the solar wind"
+        },
+        {
+          "id": "mars-soil",
+          "text": "Soil from Mars"
+        },
+        {
+          "id": "moon-rock",
+          "text": "Rock from the Moon"
+        },
+        {
+          "id": "comet-dust",
+          "text": "Dust from a comet"
+        }
+      ],
+      "correctOptionId": "comet-dust",
+      "explanation": "On January 2, 2004, Stardust collected dust grains from the comet Wild 2.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "stardust-collects-comet-dust-2004"
+      ]
+    },
+    {
+      "id": "tolkien-birth-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which country was J.R.R. Tolkien born?",
+      "options": [
+        {
+          "id": "england",
+          "text": "England"
+        },
+        {
+          "id": "ireland",
+          "text": "Ireland"
+        },
+        {
+          "id": "south-africa",
+          "text": "South Africa"
+        },
+        {
+          "id": "new-zealand",
+          "text": "New Zealand"
+        }
+      ],
+      "correctOptionId": "south-africa",
+      "explanation": "Tolkien was born on January 3, 1892, in Bloemfontein, South Africa, and grew up in England.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - J.R.R. Tolkien",
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "jrr-tolkien-born-1892"
+      ]
+    },
+    {
+      "id": "fiftieth-state-1959",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Alaska became the 49th US state in January 1959. Which became the 50th later that year?",
+      "options": [
+        {
+          "id": "puerto-rico",
+          "text": "Puerto Rico"
+        },
+        {
+          "id": "hawaii",
+          "text": "Hawaii"
+        },
+        {
+          "id": "guam",
+          "text": "Guam"
+        },
+        {
+          "id": "arizona",
+          "text": "Arizona"
+        }
+      ],
+      "correctOptionId": "hawaii",
+      "explanation": "Alaska joined on January 3, 1959, and Hawaii became the 50th state on August 21, 1959.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Hawaii",
+          "url": "https://www.britannica.com/place/Hawaii-state"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "alaska-becomes-49th-state-1959"
+      ]
+    },
+    {
+      "id": "braille-made-of",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Each braille character is formed from what?",
+      "options": [
+        {
+          "id": "raised-dots",
+          "text": "Raised dots"
+        },
+        {
+          "id": "raised-lines",
+          "text": "Raised lines"
+        },
+        {
+          "id": "notches",
+          "text": "Notches cut in the page edge"
+        },
+        {
+          "id": "textured-squares",
+          "text": "Textured squares"
+        }
+      ],
+      "correctOptionId": "raised-dots",
+      "explanation": "Braille characters use one to six raised dots arranged in a six-position cell. Louis Braille, born January 4, 1809, devised the system in 1824.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Braille",
+          "url": "https://www.britannica.com/topic/braille-writing-system"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "louis-braille-born-1809"
+      ]
+    },
+    {
+      "id": "burma-modern-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Burma, which gained independence from Britain in 1948, is now officially known as what?",
+      "options": [
+        {
+          "id": "thailand",
+          "text": "Thailand"
+        },
+        {
+          "id": "myanmar",
+          "text": "Myanmar"
+        },
+        {
+          "id": "cambodia",
+          "text": "Cambodia"
+        },
+        {
+          "id": "sri-lanka",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctOptionId": "myanmar",
+      "explanation": "Burma, today called Myanmar, became independent from Great Britain on January 4, 1948.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "burma-gains-independence-1948"
+      ]
+    },
+    {
+      "id": "waiting-for-godot-author",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who wrote the play Waiting for Godot?",
+      "options": [
+        {
+          "id": "ionesco",
+          "text": "Eugene Ionesco"
+        },
+        {
+          "id": "sartre",
+          "text": "Jean-Paul Sartre"
+        },
+        {
+          "id": "beckett",
+          "text": "Samuel Beckett"
+        },
+        {
+          "id": "pinter",
+          "text": "Harold Pinter"
+        }
+      ],
+      "correctOptionId": "beckett",
+      "explanation": "The Irish writer Samuel Beckett first published the play in French in 1952; it was first staged in Paris on January 5, 1953.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Waiting for Godot",
+          "url": "https://www.britannica.com/topic/Waiting-for-Godot"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "waiting-for-godot-premieres-1953"
+      ]
+    },
+    {
+      "id": "eris-pluto-reclassified",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The discovery of the dwarf planet Eris helped lead astronomers to reclassify Pluto as a dwarf planet.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Eris was discovered on January 5, 2005. The debate it set off led the International Astronomical Union in 2006 to define planets so that Pluto became a dwarf planet.",
+      "sources": [
+        {
+          "displayName": "NASA Science - Eris",
+          "url": "https://science.nasa.gov/dwarf-planets/eris/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "eris-discovered-2005"
+      ]
+    },
+    {
+      "id": "golden-gate-connects",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Golden Gate Bridge connects San Francisco with which county?",
+      "options": [
+        {
+          "id": "alameda",
+          "text": "Alameda"
+        },
+        {
+          "id": "san-mateo",
+          "text": "San Mateo"
+        },
+        {
+          "id": "sonoma",
+          "text": "Sonoma"
+        },
+        {
+          "id": "marin",
+          "text": "Marin"
+        }
+      ],
+      "correctOptionId": "marin",
+      "explanation": "Construction began on January 5, 1933, on the bridge connecting San Francisco with Marin county.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "golden-gate-bridge-construction-begins-1933"
+      ]
+    },
+    {
+      "id": "ford-five-dollar-day",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In January 1914, Henry Ford raised his workers' basic pay to how much a day?",
+      "options": [
+        {
+          "id": "one-dollar",
+          "text": "$1.00"
+        },
+        {
+          "id": "two-forty",
+          "text": "$2.40"
+        },
+        {
+          "id": "five-dollars",
+          "text": "$5.00"
+        },
+        {
+          "id": "ten-dollars",
+          "text": "$10.00"
+        }
+      ],
+      "correctOptionId": "five-dollars",
+      "explanation": "On January 5, 1914, Ford raised pay from $2.40 to $5.00 a day, roughly doubling it.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "ford-five-dollar-day-1914"
+      ]
+    },
+    {
+      "id": "four-freedoms-not-included",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these was NOT one of Franklin D. Roosevelt's Four Freedoms?",
+      "options": [
+        {
+          "id": "speech",
+          "text": "Freedom of speech and expression"
+        },
+        {
+          "id": "worship",
+          "text": "Freedom of worship"
+        },
+        {
+          "id": "assembly",
+          "text": "Freedom of assembly"
+        },
+        {
+          "id": "want",
+          "text": "Freedom from want"
+        }
+      ],
+      "correctOptionId": "assembly",
+      "explanation": "In his State of the Union message of January 6, 1941, Roosevelt named freedom of speech and expression, freedom of worship, freedom from want, and freedom from fear.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Four Freedoms",
+          "url": "https://www.britannica.com/topic/Four-Freedoms"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "four-freedoms-speech-1941"
+      ]
+    },
+    {
+      "id": "henry-viii-wives-count",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Anne of Cleves was one of Henry VIII's wives. How many times did Henry marry?",
+      "options": [
+        {
+          "id": "four",
+          "text": "Four"
+        },
+        {
+          "id": "five",
+          "text": "Five"
+        },
+        {
+          "id": "six",
+          "text": "Six"
+        },
+        {
+          "id": "seven",
+          "text": "Seven"
+        }
+      ],
+      "correctOptionId": "six",
+      "explanation": "Henry married Anne of Cleves, the fourth of his six wives, on January 6, 1540.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "henry-viii-marries-anne-of-cleves-1540"
+      ]
+    },
+    {
+      "id": "marian-anderson-1939-concert",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Barred from Constitution Hall in 1939, Marian Anderson sang instead before 75,000 people at which landmark?",
+      "options": [
+        {
+          "id": "capitol-steps",
+          "text": "The steps of the US Capitol"
+        },
+        {
+          "id": "lincoln-memorial",
+          "text": "The Lincoln Memorial"
+        },
+        {
+          "id": "washington-monument",
+          "text": "The Washington Monument"
+        },
+        {
+          "id": "carnegie-hall",
+          "text": "Carnegie Hall"
+        }
+      ],
+      "correctOptionId": "lincoln-memorial",
+      "explanation": "Anderson sang at the Lincoln Memorial on Easter Sunday, April 9, 1939. On January 7, 1955, she became the first Black singer to perform as a member of the Metropolitan Opera.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Marian Anderson",
+          "url": "https://www.britannica.com/biography/Marian-Anderson"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "marian-anderson-met-debut-1955"
+      ]
+    },
+    {
+      "id": "phnom-penh-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Phnom Penh, taken by Vietnamese forces in January 1979, is the capital of which country?",
+      "options": [
+        {
+          "id": "laos",
+          "text": "Laos"
+        },
+        {
+          "id": "thailand",
+          "text": "Thailand"
+        },
+        {
+          "id": "vietnam",
+          "text": "Vietnam"
+        },
+        {
+          "id": "cambodia",
+          "text": "Cambodia"
+        }
+      ],
+      "correctOptionId": "cambodia",
+      "explanation": "Vietnamese forces took Phnom Penh, Cambodia, on January 7, 1979, removing the Khmer Rouge and Pol Pot from power.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "vietnamese-forces-take-phnom-penh-1979"
+      ]
+    },
+    {
+      "id": "fourteen-points-association",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Woodrow Wilson's fourteenth point called for a general association of nations. What did it become?",
+      "options": [
+        {
+          "id": "league",
+          "text": "The League of Nations"
+        },
+        {
+          "id": "un",
+          "text": "The United Nations"
+        },
+        {
+          "id": "nato",
+          "text": "NATO"
+        },
+        {
+          "id": "hague-court",
+          "text": "The Permanent Court of Arbitration"
+        }
+      ],
+      "correctOptionId": "league",
+      "explanation": "Wilson set out the Fourteen Points on January 8, 1918. The call for a general association of nations became the basis of the League of Nations, established on January 10, 1920.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Fourteen Points",
+          "url": "https://www.britannica.com/event/Fourteen-Points"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 10",
+          "url": "https://www.britannica.com/on-this-day/January-10"
+        }
+      ],
+      "collectionIds": [
+        "world-wars",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "wilson-fourteen-points-1918",
+        "league-of-nations-established-1920"
+      ]
+    },
+    {
+      "id": "hawking-best-seller",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What was the title of Stephen Hawking's best-selling 1988 book?",
+      "options": [
+        {
+          "id": "cosmos",
+          "text": "Cosmos"
+        },
+        {
+          "id": "brief-history",
+          "text": "A Brief History of Time"
+        },
+        {
+          "id": "selfish-gene",
+          "text": "The Selfish Gene"
+        },
+        {
+          "id": "elegant-universe",
+          "text": "The Elegant Universe"
+        }
+      ],
+      "correctOptionId": "brief-history",
+      "explanation": "Hawking, born in Oxford on January 8, 1942, published A Brief History of Time: From the Big Bang to Black Holes in 1988.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Stephen Hawking",
+          "url": "https://www.britannica.com/biography/Stephen-Hawking"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "stephen-hawking-born-1942"
+      ]
+    },
+    {
+      "id": "elvis-memphis-home",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What is the name of Elvis Presley's Memphis estate, now a major tourist attraction?",
+      "options": [
+        {
+          "id": "graceland",
+          "text": "Graceland"
+        },
+        {
+          "id": "neverland",
+          "text": "Neverland"
+        },
+        {
+          "id": "monticello",
+          "text": "Monticello"
+        },
+        {
+          "id": "dollywood",
+          "text": "Dollywood"
+        }
+      ],
+      "correctOptionId": "graceland",
+      "explanation": "Elvis Presley was born in Tupelo, Mississippi, on January 8, 1935. His Memphis home, Graceland, opened to the public in 1982.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Elvis Presley",
+          "url": "https://www.britannica.com/biography/Elvis-Presley"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "elvis-presley-born-1935"
+      ]
+    },
+    {
+      "id": "joan-of-arc-byname",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Joan of Arc became known as the Maid of which city, after the victory she led there in 1429?",
+      "options": [
+        {
+          "id": "orleans",
+          "text": "Orleans"
+        },
+        {
+          "id": "reims",
+          "text": "Reims"
+        },
+        {
+          "id": "rouen",
+          "text": "Rouen"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        }
+      ],
+      "correctOptionId": "orleans",
+      "explanation": "Joan's byname comes from the 1429 relief of Orleans. Her trial began in Rouen on January 9, 1431.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Saint Joan of Arc",
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "joan-of-arc-trial-begins-1431"
+      ]
+    },
+    {
+      "id": "rubicon-boundary",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "In Julius Caesar's time, the Rubicon marked the boundary between Italy and which province?",
+      "options": [
+        {
+          "id": "sicily",
+          "text": "Sicily"
+        },
+        {
+          "id": "hispania",
+          "text": "Hispania"
+        },
+        {
+          "id": "cisalpine-gaul",
+          "text": "Cisalpine Gaul"
+        },
+        {
+          "id": "macedonia",
+          "text": "Macedonia"
+        }
+      ],
+      "correctOptionId": "cisalpine-gaul",
+      "explanation": "The Rubicon was a small stream separating Cisalpine Gaul from Italy. Caesar crossed it in 49 BCE, beginning a civil war.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Rubicon",
+          "url": "https://www.britannica.com/place/Rubicon"
+        }
+      ],
+      "collectionIds": [
+        "ancient-rome",
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "caesar-crosses-rubicon-49bce"
+      ]
+    },
+    {
+      "id": "common-sense-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote Common Sense, the 1776 pamphlet urging American independence?",
+      "options": [
+        {
+          "id": "jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "franklin",
+          "text": "Benjamin Franklin"
+        },
+        {
+          "id": "samuel-adams",
+          "text": "Samuel Adams"
+        },
+        {
+          "id": "paine",
+          "text": "Thomas Paine"
+        }
+      ],
+      "correctOptionId": "paine",
+      "explanation": "Thomas Paine published Common Sense on January 10, 1776; it sold more than 500,000 copies within a few months.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 10",
+          "url": "https://www.britannica.com/on-this-day/January-10"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "common-sense-published-1776"
+      ]
+    },
+    {
+      "id": "first-un-general-assembly-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city did the first United Nations General Assembly meet in January 1946?",
+      "options": [
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "san-francisco",
+          "text": "San Francisco"
+        }
+      ],
+      "correctOptionId": "london",
+      "explanation": "The first UN General Assembly met in London on January 10, 1946, before the UN settled in New York.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 10",
+          "url": "https://www.britannica.com/on-this-day/January-10"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "first-un-general-assembly-1946"
+      ]
+    },
+    {
+      "id": "hillary-everest-partner",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Edmund Hillary first reached the summit of Mount Everest in 1953 with which climber?",
+      "options": [
+        {
+          "id": "mallory",
+          "text": "George Mallory"
+        },
+        {
+          "id": "messner",
+          "text": "Reinhold Messner"
+        },
+        {
+          "id": "hunt",
+          "text": "John Hunt"
+        },
+        {
+          "id": "tenzing",
+          "text": "Tenzing Norgay"
+        }
+      ],
+      "correctOptionId": "tenzing",
+      "explanation": "Hillary, a New Zealander, and Tenzing Norgay reached the summit on May 29, 1953. Hillary died on January 11, 2008.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Edmund Hillary",
+          "url": "https://www.britannica.com/biography/Edmund-Hillary"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "edmund-hillary-dies-2008"
+      ]
+    },
+    {
+      "id": "earhart-atlantic-before-pacific",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Before her 1935 solo flight from Hawaii to California, Amelia Earhart had already flown solo across the Atlantic.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Earhart crossed the Atlantic alone on May 20-21, 1932. She left Honolulu on January 11, 1935, and landed in Oakland the next day.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Amelia Earhart",
+          "url": "https://www.britannica.com/biography/Amelia-Earhart"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "earhart-hawaii-to-california-1935"
+      ]
+    },
+    {
+      "id": "gordy-label-name",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Berry Gordy's Detroit record business, founded in January 1959, became famous under which name?",
+      "options": [
+        {
+          "id": "stax",
+          "text": "Stax"
+        },
+        {
+          "id": "motown",
+          "text": "Motown"
+        },
+        {
+          "id": "chess",
+          "text": "Chess"
+        },
+        {
+          "id": "atlantic",
+          "text": "Atlantic"
+        }
+      ],
+      "correctOptionId": "motown",
+      "explanation": "Gordy launched Tamla Records on January 12, 1959; Britannica dates the founding of Motown in Detroit to January 1959.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Motown",
+          "url": "https://www.britannica.com/topic/Motown"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 12",
+          "url": "https://www.britannica.com/on-this-day/January-12"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "berry-gordy-launches-tamla-records-1959"
+      ]
+    },
+    {
+      "id": "jaccuse-defended-officer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Emile Zola's open letter J'accuse defended which wrongly convicted army officer?",
+      "options": [
+        {
+          "id": "dreyfus",
+          "text": "Alfred Dreyfus"
+        },
+        {
+          "id": "boulanger",
+          "text": "Georges Boulanger"
+        },
+        {
+          "id": "petain",
+          "text": "Philippe Petain"
+        },
+        {
+          "id": "bazaine",
+          "text": "Francois Bazaine"
+        }
+      ],
+      "correctOptionId": "dreyfus",
+      "explanation": "Zola's letter of January 13, 1898, denounced the general staff over the 1894 treason court-martial of Alfred Dreyfus.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 13",
+          "url": "https://www.britannica.com/on-this-day/January-13"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "zola-publishes-jaccuse-1898"
+      ]
+    },
+    {
+      "id": "huygens-built-by-nasa",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Huygens probe that landed on Saturn's moon Titan in 2005 was built by NASA.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Huygens was the European Space Agency's probe. It rode to Saturn aboard NASA's Cassini spacecraft and landed on Titan on January 14, 2005.",
+      "sources": [
+        {
+          "displayName": "NASA Science - Huygens probe",
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "huygens-lands-on-titan-2005"
+      ]
+    },
+    {
+      "id": "tosca-composer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who composed the opera Tosca, first performed in Rome in 1900?",
+      "options": [
+        {
+          "id": "verdi",
+          "text": "Giuseppe Verdi"
+        },
+        {
+          "id": "rossini",
+          "text": "Gioachino Rossini"
+        },
+        {
+          "id": "puccini",
+          "text": "Giacomo Puccini"
+        },
+        {
+          "id": "bizet",
+          "text": "Georges Bizet"
+        }
+      ],
+      "correctOptionId": "puccini",
+      "explanation": "Puccini's Tosca premiered at Rome's Costanzi Theatre on January 14, 1900.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 14",
+          "url": "https://www.britannica.com/on-this-day/January-14"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "tosca-premieres-1900"
+      ]
+    },
+    {
+      "id": "jasmine-revolution-wave",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Tunisia's 2011 uprising, which drove President Ben Ali from power, inspired which wave of protests?",
+      "options": [
+        {
+          "id": "color-revolutions",
+          "text": "The Color Revolutions"
+        },
+        {
+          "id": "velvet",
+          "text": "The Velvet Revolution"
+        },
+        {
+          "id": "cedar",
+          "text": "The Cedar Revolution"
+        },
+        {
+          "id": "arab-spring",
+          "text": "The Arab Spring"
+        }
+      ],
+      "correctOptionId": "arab-spring",
+      "explanation": "Ben Ali stepped down and left Tunisia on January 14, 2011. The uprising inspired the protests across the Middle East and North Africa known as the Arab Spring.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Jasmine Revolution",
+          "url": "https://www.britannica.com/event/Jasmine-Revolution"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "ben-ali-steps-down-2011"
+      ]
+    },
+    {
+      "id": "british-museum-first-home",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "When the British Museum opened in 1759, its collections were displayed in which London mansion?",
+      "options": [
+        {
+          "id": "somerset-house",
+          "text": "Somerset House"
+        },
+        {
+          "id": "montagu-house",
+          "text": "Montagu House"
+        },
+        {
+          "id": "burlington-house",
+          "text": "Burlington House"
+        },
+        {
+          "id": "marlborough-house",
+          "text": "Marlborough House"
+        }
+      ],
+      "correctOptionId": "montagu-house",
+      "explanation": "Founded by act of Parliament in 1753 and opened on January 15, 1759, the museum housed its collections in Montagu House on Great Russell Street.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - British Museum",
+          "url": "https://www.britannica.com/topic/British-Museum"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "british-museum-opens-1759"
+      ]
+    },
+    {
+      "id": "first-american-woman-in-space",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which member of NASA's 1978 astronaut class became the first American woman in space?",
+      "options": [
+        {
+          "id": "sally-ride",
+          "text": "Sally Ride"
+        },
+        {
+          "id": "mae-jemison",
+          "text": "Mae Jemison"
+        },
+        {
+          "id": "eileen-collins",
+          "text": "Eileen Collins"
+        },
+        {
+          "id": "christa-mcauliffe",
+          "text": "Christa McAuliffe"
+        }
+      ],
+      "correctOptionId": "sally-ride",
+      "explanation": "Ride was one of six women in the class announced on January 16, 1978. She flew on Challenger on June 18, 1983.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Sally Ride",
+          "url": "https://www.britannica.com/biography/Sally-Ride"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "nasa-selects-first-women-astronauts-1978"
+      ]
+    },
+    {
+      "id": "popeye-strength-food",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Popeye the Sailor famously gets his strength from eating what?",
+      "options": [
+        {
+          "id": "carrots",
+          "text": "Carrots"
+        },
+        {
+          "id": "spinach",
+          "text": "Spinach"
+        },
+        {
+          "id": "broccoli",
+          "text": "Broccoli"
+        },
+        {
+          "id": "sardines",
+          "text": "Sardines"
+        }
+      ],
+      "correctOptionId": "spinach",
+      "explanation": "Popeye, known for his love of spinach, first appeared in the comic strip Thimble Theatre on January 17, 1929.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 17",
+          "url": "https://www.britannica.com/on-this-day/January-17"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "popeye-debuts-1929"
+      ]
+    },
+    {
+      "id": "franklin-birth-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city was Benjamin Franklin born?",
+      "options": [
+        {
+          "id": "philadelphia",
+          "text": "Philadelphia"
+        },
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "baltimore",
+          "text": "Baltimore"
+        },
+        {
+          "id": "boston",
+          "text": "Boston"
+        }
+      ],
+      "correctOptionId": "boston",
+      "explanation": "Franklin was born in Boston on January 17, 1706 (January 6 in the Old Style calendar). He later made his name in Philadelphia.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Benjamin Franklin",
+          "url": "https://www.britannica.com/biography/Benjamin-Franklin"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "benjamin-franklin-born-1706"
+      ]
+    },
+    {
+      "id": "german-empire-proclaimed-where",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In January 1871, William I was acclaimed German emperor in which French town, then occupied by Prussian forces?",
+      "options": [
+        {
+          "id": "versailles",
+          "text": "Versailles"
+        },
+        {
+          "id": "sedan",
+          "text": "Sedan"
+        },
+        {
+          "id": "strasbourg",
+          "text": "Strasbourg"
+        },
+        {
+          "id": "fontainebleau",
+          "text": "Fontainebleau"
+        }
+      ],
+      "correctOptionId": "versailles",
+      "explanation": "William I was acclaimed German emperor at Versailles, in conquered France, on January 18, 1871.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - William I (emperor of Germany)",
+          "url": "https://www.britannica.com/biography/William-I-emperor-of-Germany"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "german-empire-proclaimed-1871"
+      ]
+    },
+    {
+      "id": "poe-genre-pioneered",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Edgar Allan Poe's 'The Murders in the Rue Morgue' (1841) is credited with pioneering which genre?",
+      "options": [
+        {
+          "id": "western",
+          "text": "The Western"
+        },
+        {
+          "id": "detective",
+          "text": "The detective story"
+        },
+        {
+          "id": "historical",
+          "text": "The historical novel"
+        },
+        {
+          "id": "epistolary",
+          "text": "The epistolary novel"
+        }
+      ],
+      "correctOptionId": "detective",
+      "explanation": "Poe, born in Boston on January 19, 1809, pioneered the modern detective story with 'The Murders in the Rue Morgue'.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Edgar Allan Poe",
+          "url": "https://www.britannica.com/biography/Edgar-Allan-Poe"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "edgar-allan-poe-born-1809"
+      ]
+    },
+    {
+      "id": "obama-senate-state",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Before becoming president, Barack Obama served as a US senator from which state?",
+      "options": [
+        {
+          "id": "hawaii",
+          "text": "Hawaii"
+        },
+        {
+          "id": "illinois",
+          "text": "Illinois"
+        },
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "massachusetts",
+          "text": "Massachusetts"
+        }
+      ],
+      "correctOptionId": "illinois",
+      "explanation": "Obama represented Illinois in the Senate from 2005 to 2008 and was inaugurated president on January 20, 2009.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Barack Obama",
+          "url": "https://www.britannica.com/biography/Barack-Obama"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "obama-inaugurated-2009"
+      ]
+    },
+    {
+      "id": "concorde-partner-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Concorde was built with funding from the British government and the government of which other country?",
+      "options": [
+        {
+          "id": "germany",
+          "text": "West Germany"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "united-states",
+          "text": "The United States"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        }
+      ],
+      "correctOptionId": "france",
+      "explanation": "Concorde, funded by the British and French governments, began regular commercial service on January 21, 1976.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 21",
+          "url": "https://www.britannica.com/on-this-day/January-21"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "concorde-begins-service-1976"
+      ]
+    },
+    {
+      "id": "louis-xvi-queen",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Louis XVI was executed in January 1793. Which queen, his wife, was guillotined later that year?",
+      "options": [
+        {
+          "id": "marie-antoinette",
+          "text": "Marie-Antoinette"
+        },
+        {
+          "id": "josephine",
+          "text": "Josephine"
+        },
+        {
+          "id": "catherine-de-medici",
+          "text": "Catherine de Medici"
+        },
+        {
+          "id": "marie-louise",
+          "text": "Marie-Louise"
+        }
+      ],
+      "correctOptionId": "marie-antoinette",
+      "explanation": "Louis XVI was guillotined on January 21, 1793. Marie-Antoinette, his queen consort, was guillotined on October 16, 1793.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Marie-Antoinette",
+          "url": "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 21",
+          "url": "https://www.britannica.com/on-this-day/January-21"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "louis-xvi-executed-1793"
+      ]
+    },
+    {
+      "id": "petrograd-renamed-1924",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "After Lenin's death in January 1924, the city of Petrograd was renamed what?",
+      "options": [
+        {
+          "id": "stalingrad",
+          "text": "Stalingrad"
+        },
+        {
+          "id": "leningrad",
+          "text": "Leningrad"
+        },
+        {
+          "id": "kaliningrad",
+          "text": "Kaliningrad"
+        },
+        {
+          "id": "volgograd",
+          "text": "Volgograd"
+        }
+      ],
+      "correctOptionId": "leningrad",
+      "explanation": "Petrograd was called Leningrad from 1924 to 1991, when it became St. Petersburg again.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Saint Petersburg",
+          "url": "https://www.britannica.com/place/Saint-Petersburg-Russia"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "lenin-dies-1924",
+        "siege-of-leningrad-ends-1944"
+      ]
+    },
+    {
+      "id": "victoria-successor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who succeeded Queen Victoria on the British throne when she died in 1901?",
+      "options": [
+        {
+          "id": "george-v",
+          "text": "George V"
+        },
+        {
+          "id": "edward-vii",
+          "text": "Edward VII"
+        },
+        {
+          "id": "albert",
+          "text": "Prince Albert"
+        },
+        {
+          "id": "william-iv",
+          "text": "William IV"
+        }
+      ],
+      "correctOptionId": "edward-vii",
+      "explanation": "Victoria died on January 22, 1901, after reigning from 1837, and was succeeded by her son Edward VII.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Victoria",
+          "url": "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "queen-victoria-dies-1901"
+      ]
+    },
+    {
+      "id": "blackwell-birth-country",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Elizabeth Blackwell, the first woman to graduate from medical school in the United States, was born in which country?",
+      "options": [
+        {
+          "id": "united-states",
+          "text": "The United States"
+        },
+        {
+          "id": "ireland",
+          "text": "Ireland"
+        },
+        {
+          "id": "england",
+          "text": "England"
+        },
+        {
+          "id": "canada",
+          "text": "Canada"
+        }
+      ],
+      "correctOptionId": "england",
+      "explanation": "Blackwell was born in Bristol, England, in 1821 and graduated from Geneva Medical College, New York, in January 1849.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Elizabeth Blackwell",
+          "url": "https://www.britannica.com/biography/Elizabeth-Blackwell"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "elizabeth-blackwell-md-1849"
+      ]
+    },
+    {
+      "id": "gold-rush-mill-owner",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "California's gold was first found in 1848 at a sawmill belonging to which settler?",
+      "options": [
+        {
+          "id": "john-sutter",
+          "text": "John Sutter"
+        },
+        {
+          "id": "levi-strauss",
+          "text": "Levi Strauss"
+        },
+        {
+          "id": "john-fremont",
+          "text": "John C. Fremont"
+        },
+        {
+          "id": "kit-carson",
+          "text": "Kit Carson"
+        }
+      ],
+      "correctOptionId": "john-sutter",
+      "explanation": "On January 24, 1848, James Marshall found gold at Sutter's Mill on the American River at Coloma.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - California Gold Rush",
+          "url": "https://www.britannica.com/topic/California-Gold-Rush"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "gold-discovered-california-1848"
+      ]
+    },
+    {
+      "id": "macintosh-ad-novel",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Apple's Super Bowl advertisement for the Macintosh in January 1984 was inspired by which novel?",
+      "options": [
+        {
+          "id": "brave-new-world",
+          "text": "Brave New World"
+        },
+        {
+          "id": "fahrenheit-451",
+          "text": "Fahrenheit 451"
+        },
+        {
+          "id": "nineteen-eighty-four",
+          "text": "Nineteen Eighty-Four"
+        },
+        {
+          "id": "animal-farm",
+          "text": "Animal Farm"
+        }
+      ],
+      "correctOptionId": "nineteen-eighty-four",
+      "explanation": "The commercial aired on January 22, 1984, two days before Steve Jobs introduced the Macintosh on January 24.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 22",
+          "url": "https://www.britannica.com/on-this-day/January-22"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 24",
+          "url": "https://www.britannica.com/on-this-day/January-24"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apple-introduces-macintosh-1984"
+      ]
+    },
+    {
+      "id": "first-winter-olympics-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The first Winter Olympic Games were held in 1924 in which country?",
+      "options": [
+        {
+          "id": "switzerland",
+          "text": "Switzerland"
+        },
+        {
+          "id": "norway",
+          "text": "Norway"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "austria",
+          "text": "Austria"
+        }
+      ],
+      "correctOptionId": "france",
+      "explanation": "The first Winter Olympics were held at Chamonix, France, from January 25 to February 5, 1924.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Chamonix 1924 Olympic Winter Games",
+          "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-winter-olympics-open-1924"
+      ]
+    },
+    {
+      "id": "sonja-henie-chamonix",
+      "type": "true_false",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Sonja Henie, later a three-time Olympic figure skating champion, won a medal at the first Winter Olympics in 1924.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Henie made her Olympic debut at Chamonix at age 11 and finished last in the standings.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Chamonix 1924 Olympic Winter Games",
+          "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-winter-olympics-open-1924"
+      ]
+    },
+    {
+      "id": "burns-new-year-song",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which song, sung at New Year around the world, is associated with Robert Burns?",
+      "options": [
+        {
+          "id": "greensleeves",
+          "text": "Greensleeves"
+        },
+        {
+          "id": "danny-boy",
+          "text": "Danny Boy"
+        },
+        {
+          "id": "scotland-the-brave",
+          "text": "Scotland the Brave"
+        },
+        {
+          "id": "auld-lang-syne",
+          "text": "Auld Lang Syne"
+        }
+      ],
+      "correctOptionId": "auld-lang-syne",
+      "explanation": "Burns, born on January 25, 1759, in Alloway, Scotland, contributed to more than 300 songs, among them 'Auld Lang Syne'.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Burns",
+          "url": "https://www.britannica.com/biography/Robert-Burns"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "robert-burns-born-1759"
+      ]
+    },
+    {
+      "id": "woolf-literary-circle",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Virginia Woolf was at the center of which circle of London writers and thinkers?",
+      "options": [
+        {
+          "id": "inklings",
+          "text": "The Inklings"
+        },
+        {
+          "id": "bloomsbury",
+          "text": "The Bloomsbury group"
+        },
+        {
+          "id": "lost-generation",
+          "text": "The Lost Generation"
+        },
+        {
+          "id": "algonquin",
+          "text": "The Algonquin Round Table"
+        }
+      ],
+      "correctOptionId": "bloomsbury",
+      "explanation": "Woolf, born in London on January 25, 1882, hosted gatherings that became known as the Bloomsbury group.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Virginia Woolf",
+          "url": "https://www.britannica.com/biography/Virginia-Woolf"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "virginia-woolf-born-1882"
+      ]
+    },
+    {
+      "id": "cullinan-presented-to",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "To which British monarch was the Cullinan diamond presented in 1907?",
+      "options": [
+        {
+          "id": "victoria",
+          "text": "Queen Victoria"
+        },
+        {
+          "id": "george-v",
+          "text": "George V"
+        },
+        {
+          "id": "edward-vii",
+          "text": "Edward VII"
+        },
+        {
+          "id": "george-vi",
+          "text": "George VI"
+        }
+      ],
+      "correctOptionId": "edward-vii",
+      "explanation": "Found on January 26, 1905, the diamond was presented to Edward VII. Its largest cut stones are set in the Sovereign's Sceptre and the Imperial Crown.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Cullinan diamond",
+          "url": "https://www.britannica.com/topic/Cullinan-diamond"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 26",
+          "url": "https://www.britannica.com/on-this-day/January-26"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "cullinan-diamond-found-1905"
+      ]
+    },
+    {
+      "id": "mozart-opera",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which of these operas did Wolfgang Amadeus Mozart compose?",
+      "options": [
+        {
+          "id": "carmen",
+          "text": "Carmen"
+        },
+        {
+          "id": "la-traviata",
+          "text": "La Traviata"
+        },
+        {
+          "id": "fidelio",
+          "text": "Fidelio"
+        },
+        {
+          "id": "magic-flute",
+          "text": "The Magic Flute"
+        }
+      ],
+      "correctOptionId": "magic-flute",
+      "explanation": "Mozart, born in Salzburg on January 27, 1756, wrote The Marriage of Figaro, Don Giovanni and The Magic Flute.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Wolfgang Amadeus Mozart",
+          "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "mozart-born-1756"
+      ]
+    },
+    {
+      "id": "auschwitz-location",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Auschwitz camp, liberated by Soviet troops in January 1945, was located in what is now Poland.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Auschwitz lay near Oswiecim in southern Poland, in territory Germany had annexed. Soviet troops arrived on January 27, 1945.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Auschwitz",
+          "url": "https://www.britannica.com/place/Auschwitz"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "auschwitz-liberated-1945"
+      ]
+    },
+    {
+      "id": "lego-home-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The LEGO company, which patented its interlocking brick in 1958, is based in which country?",
+      "options": [
+        {
+          "id": "sweden",
+          "text": "Sweden"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        },
+        {
+          "id": "germany",
+          "text": "Germany"
+        },
+        {
+          "id": "netherlands",
+          "text": "The Netherlands"
+        }
+      ],
+      "correctOptionId": "denmark",
+      "explanation": "LEGO is based in Billund, Denmark; its name comes from the Danish leg godt, 'play well'. The brick patent was filed on January 28, 1958.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - LEGO",
+          "url": "https://www.britannica.com/topic/LEGO"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lego-brick-patent-1958"
+      ]
+    },
+    {
+      "id": "challenger-teacher",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which teacher was among the seven crew members lost aboard Challenger in 1986?",
+      "options": [
+        {
+          "id": "sally-ride",
+          "text": "Sally Ride"
+        },
+        {
+          "id": "christa-mcauliffe",
+          "text": "Christa McAuliffe"
+        },
+        {
+          "id": "barbara-morgan",
+          "text": "Barbara Morgan"
+        },
+        {
+          "id": "judith-resnik",
+          "text": "Judith Resnik"
+        }
+      ],
+      "correctOptionId": "christa-mcauliffe",
+      "explanation": "Christa McAuliffe was to teach lessons from orbit. Challenger broke apart 73 seconds after liftoff on January 28, 1986.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Challenger disaster",
+          "url": "https://www.britannica.com/event/Challenger-disaster"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "challenger-disaster-1986"
+      ]
+    },
+    {
+      "id": "pride-prejudice-heroine",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who is the heroine of Jane Austen's Pride and Prejudice?",
+      "options": [
+        {
+          "id": "emma-woodhouse",
+          "text": "Emma Woodhouse"
+        },
+        {
+          "id": "anne-elliot",
+          "text": "Anne Elliot"
+        },
+        {
+          "id": "elizabeth-bennet",
+          "text": "Elizabeth Bennet"
+        },
+        {
+          "id": "elinor-dashwood",
+          "text": "Elinor Dashwood"
+        }
+      ],
+      "correctOptionId": "elizabeth-bennet",
+      "explanation": "Pride and Prejudice, published on January 28, 1813, follows Elizabeth Bennet and Fitzwilliam Darcy.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Pride and Prejudice",
+          "url": "https://www.britannica.com/topic/Pride-and-Prejudice"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "pride-and-prejudice-published-1813"
+      ]
+    },
+    {
+      "id": "benz-motorwagen-wheels",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many wheels did Karl Benz's patented Motorwagen of 1886 have?",
+      "options": [
+        {
+          "id": "two",
+          "text": "Two"
+        },
+        {
+          "id": "three",
+          "text": "Three"
+        },
+        {
+          "id": "four",
+          "text": "Four"
+        },
+        {
+          "id": "six",
+          "text": "Six"
+        }
+      ],
+      "correctOptionId": "three",
+      "explanation": "Benz's Motorwagen was a three-wheeled, internal-combustion vehicle, patented on January 29, 1886.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Karl Benz",
+          "url": "https://www.britannica.com/biography/Karl-Benz"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "benz-patents-automobile-1886"
+      ]
+    },
+    {
+      "id": "chekhov-play",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these plays did Anton Chekhov write?",
+      "options": [
+        {
+          "id": "dolls-house",
+          "text": "A Doll's House"
+        },
+        {
+          "id": "cherry-orchard",
+          "text": "The Cherry Orchard"
+        },
+        {
+          "id": "miss-julie",
+          "text": "Miss Julie"
+        },
+        {
+          "id": "lower-depths",
+          "text": "The Lower Depths"
+        }
+      ],
+      "correctOptionId": "cherry-orchard",
+      "explanation": "Chekhov, born in Taganrog on January 29, 1860, wrote The Seagull, Uncle Vanya, Three Sisters and The Cherry Orchard.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Anton Chekhov",
+          "url": "https://www.britannica.com/biography/Anton-Chekhov"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "anton-chekhov-born-1860"
+      ]
+    },
+    {
+      "id": "gandhi-1930-march-tax",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Gandhi's 1930 march to the sea at Dandi protested a British tax on what?",
+      "options": [
+        {
+          "id": "tea",
+          "text": "Tea"
+        },
+        {
+          "id": "cotton",
+          "text": "Cotton"
+        },
+        {
+          "id": "salt",
+          "text": "Salt"
+        },
+        {
+          "id": "land",
+          "text": "Land"
+        }
+      ],
+      "correctOptionId": "salt",
+      "explanation": "The 1930 march from Sabarmati Ashram to Dandi challenged the British salt tax. Gandhi was assassinated on January 30, 1948.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Salt March",
+          "url": "https://www.britannica.com/event/Salt-March"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "gandhi-assassinated-1948"
+      ]
+    },
+    {
+      "id": "brexit-referendum-year",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The United Kingdom left the European Union on January 31, 2020. In which year did it vote to leave?",
+      "options": [
+        {
+          "id": "2014",
+          "text": "2014"
+        },
+        {
+          "id": "2016",
+          "text": "2016"
+        },
+        {
+          "id": "2018",
+          "text": "2018"
+        },
+        {
+          "id": "2019",
+          "text": "2019"
+        }
+      ],
+      "correctOptionId": "2016",
+      "explanation": "About 52 percent of voters chose to leave in the referendum of June 23, 2016.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Brexit",
+          "url": "https://www.britannica.com/topic/Brexit"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "uk-leaves-european-union-2020"
+      ]
+    },
+    {
+      "id": "schubert-unfinished",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Franz Schubert's Symphony in B minor is known by what nickname?",
+      "options": [
+        {
+          "id": "unfinished",
+          "text": "Unfinished"
+        },
+        {
+          "id": "pastoral",
+          "text": "Pastoral"
+        },
+        {
+          "id": "surprise",
+          "text": "Surprise"
+        },
+        {
+          "id": "jupiter",
+          "text": "Jupiter"
+        }
+      ],
+      "correctOptionId": "unfinished",
+      "explanation": "Schubert, born near Vienna on January 31, 1797, wrote the Unfinished Symphony in 1822.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Franz Schubert",
+          "url": "https://www.britannica.com/biography/Franz-Schubert"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "franz-schubert-born-1797"
+      ]
+    },
+    {
+      "id": "jackie-robinson-team",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "With which team did Jackie Robinson break Major League Baseball's color line in 1947?",
+      "options": [
+        {
+          "id": "yankees",
+          "text": "New York Yankees"
+        },
+        {
+          "id": "giants",
+          "text": "New York Giants"
+        },
+        {
+          "id": "red-sox",
+          "text": "Boston Red Sox"
+        },
+        {
+          "id": "dodgers",
+          "text": "Brooklyn Dodgers"
+        }
+      ],
+      "correctOptionId": "dodgers",
+      "explanation": "Robinson, born in Cairo, Georgia, on January 31, 1919, debuted with the Brooklyn Dodgers on April 15, 1947.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Jackie Robinson",
+          "url": "https://www.britannica.com/biography/Jackie-Robinson"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "jackie-robinson-born-1919"
+      ]
+    },
+    {
+      "id": "stalingrad-modern-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The city of Stalingrad, where Friedrich Paulus surrendered in January 1943, is now called what?",
+      "options": [
+        {
+          "id": "volgograd",
+          "text": "Volgograd"
+        },
+        {
+          "id": "leningrad",
+          "text": "Leningrad"
+        },
+        {
+          "id": "kaliningrad",
+          "text": "Kaliningrad"
+        },
+        {
+          "id": "donetsk",
+          "text": "Donetsk"
+        }
+      ],
+      "correctOptionId": "volgograd",
+      "explanation": "Paulus agreed to give himself up on January 31, 1943, in Stalingrad, now Volgograd, on the Volga.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Stalingrad",
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "paulus-surrenders-at-stalingrad-1943"
+      ]
+    },
+    {
+      "id": "order-space-milestones-dec-jan",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these space milestones in order from earliest to latest.",
+      "items": [
+        {
+          "id": "huygens",
+          "text": "Huygens lands on Titan"
+        },
+        {
+          "id": "change-4",
+          "text": "Chang'e 4 lands on the Moon's far side"
+        },
+        {
+          "id": "surveyor-7",
+          "text": "Surveyor 7 launches toward the Moon"
+        },
+        {
+          "id": "challenger",
+          "text": "Space shuttle Challenger is lost"
+        }
+      ],
+      "correctOrderItemIds": [
+        "surveyor-7",
+        "challenger",
+        "huygens",
+        "change-4"
+      ],
+      "explanation": "Surveyor 7 launched in 1968, Challenger was lost in 1986, Huygens landed on Titan in 2005, and Chang'e 4 reached the lunar far side in 2019.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 28",
+          "url": "https://www.britannica.com/on-this-day/January-28"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 14",
+          "url": "https://www.britannica.com/on-this-day/January-14"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "surveyor-7-launched-1968",
+        "challenger-disaster-1986",
+        "huygens-lands-on-titan-2005",
+        "change-4-lands-far-side-moon-2019"
+      ]
+    },
+    {
+      "id": "order-writer-births-january",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put the births of these writers in order from earliest to latest.",
+      "items": [
+        {
+          "id": "tolkien",
+          "text": "J.R.R. Tolkien"
+        },
+        {
+          "id": "poe",
+          "text": "Edgar Allan Poe"
+        },
+        {
+          "id": "byron",
+          "text": "Lord Byron"
+        },
+        {
+          "id": "chekhov",
+          "text": "Anton Chekhov"
+        }
+      ],
+      "correctOrderItemIds": [
+        "byron",
+        "poe",
+        "chekhov",
+        "tolkien"
+      ],
+      "explanation": "Byron was born in 1788, Poe in 1809, Chekhov in 1860 and Tolkien in 1892, all in January.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 22",
+          "url": "https://www.britannica.com/on-this-day/January-22"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 19",
+          "url": "https://www.britannica.com/on-this-day/January-19"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 29",
+          "url": "https://www.britannica.com/on-this-day/January-29"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lord-byron-born-1788",
+        "edgar-allan-poe-born-1809",
+        "anton-chekhov-born-1860",
+        "jrr-tolkien-born-1892"
+      ]
+    }
+  ]
+}

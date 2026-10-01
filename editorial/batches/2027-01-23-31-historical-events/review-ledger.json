@@ -108,6 +108,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 24): 1848: 'Gold discovered in California' - James Marshall spotted gold nuggets while constructing a sawmill, triggering the California Gold Rush."
+        },
+        {
+          "url": "https://www.britannica.com/topic/California-Gold-Rush",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on January 24, 1848, James W. Marshall, John Sutter's carpenter, found gold at Sutter's Mill on the American River at Coloma; the 1849 arrivals were called forty-niners."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -744,6 +750,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 29): 1860: 'Anton Chekhov ... was born.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anton-Chekhov",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 29 [January 17, Old Style], 1860, Taganrog, Russia'; plays The Seagull, Uncle Vanya, Three Sisters, The Cherry Orchard."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -960,6 +972,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 31): 1943: Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad."
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: battle August 22, 1942 - February 2, 1943, on the Volga; 'On January 31 Paulus disobeyed Hitler and agreed to give himself up'; Stalingrad is now Volgograd."
         }
       ],
       "imageRightsStatus": "not_applicable",

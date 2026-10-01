@@ -1,0 +1,2716 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-26-01-31-connected-quiz",
+  "entries": [
+    {
+      "candidateId": "frisbee-patent-company",
+      "canonicalId": "frisbee-patent-company",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 26): 1967: Wham-O issued a U.S. patent for 'a saucer-shaped throwing implement'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-26"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match on the featured patent; the distractors are other large US toy makers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "babbage-analytical-engine",
+      "canonicalId": "babbage-analytical-engine",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Charles-Babbage",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born December 26, 1791, London; designed the Difference Engine (from 1823) and, in the mid-1830s, the Analytical Engine, 'the forerunner of the modern digital computer'; Ada Lovelace's 1843 notes on it."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-26"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why Babbage's birth is worth marking; all distractors are 19th-century inventions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "hagia-sophia-modern-city",
+      "canonicalId": "hagia-sophia-modern-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Hagia-Sophia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: in 'Constantinople (now Istanbul)'; built under Justinian I, completed in 537; a mosque after 1453, a museum from 1935, a mosque again from 2020."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Locates the featured monument; Ankara is the tempting capital-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "beagle-voyage-length",
+      "canonicalId": "beagle-voyage-length",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Charles-Darwin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The Beagle sailed from England on December 27, 1831'; map caption covers the voyage of 1831-36."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Scale of the voyage that began on this day; the options are spaced so only one fits 1831-36. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "kepler-elliptical-orbits",
+      "canonicalId": "kepler-elliptical-orbits",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Johannes-Kepler",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born December 27, 1571, Weil der Stadt; first law: 'the planets move in elliptical orbits with the Sun at one focus'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Targets the common circular-orbit misconception that Kepler overturned. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "indonesia-colonial-power",
+      "canonicalId": "indonesia-colonial-power",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 27): 1949: 'The Dutch formally relinquished control over Indonesia' after its declaration of independence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Accessible decolonization hook; Portugal and Britain also held territory in the region. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lumiere-first-screening-city",
+      "canonicalId": "lumiere-first-screening-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 28): 1895: first public demonstration of the Cinematographe at the Grand Cafe in Paris; 1065: Westminster Abbey consecrated and opened by Edward the Confessor."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match; Lyon, the brothers' home city, is the deliberate near-miss. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "westminster-abbey-founder-king",
+      "canonicalId": "westminster-abbey-founder-king",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 28): 1895: first public demonstration of the Cinematographe at the Grand Cafe in Paris; 1065: Westminster Abbey consecrated and opened by Edward the Confessor."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William and Harold are the kings of 1066, the natural confusions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "markievicz-took-seat",
+      "canonicalId": "markievicz-took-seat",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Constance-Markievicz",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: elected to the House of Commons in December 1918; with the other Sinn Fein members she refused the oath of allegiance 'and, thus, did not take her seat'; minister of labour in the first Dail (1919-22)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The surprising twist behind the milestone. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ireland-irish-name",
+      "canonicalId": "ireland-irish-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Ireland",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica Quick Facts: 'Official Name: Eire (Irish); Ireland (English)'; new constitution in 1937; left the Commonwealth as the Republic of Ireland in 1949."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 29): 1845: Congress approved the annexation of 'the independent Republic of Texas'; 1809: Gladstone, prime minister four times (1868-74, 1880-85, 1886, 1892-94), born in Liverpool."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are the Celtic names of Scotland, Wales and Cornwall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "texas-before-annexation",
+      "canonicalId": "texas-before-annexation",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 29): 1845: Congress approved the annexation of 'the independent Republic of Texas'; 1809: Gladstone, prime minister four times (1868-74, 1880-85, 1886, 1892-94), born in Liverpool."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks about status, not the date; Spain is the earlier ruler and a tempting trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gladstone-terms-as-pm",
+      "canonicalId": "gladstone-terms-as-pm",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 29): 1845: Congress approved the annexation of 'the independent Republic of Texas'; 1809: Gladstone, prime minister four times (1868-74, 1880-85, 1886, 1892-94), born in Liverpool."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable record; adjacent numbers make it a real recall question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ussr-capital",
+      "canonicalId": "ussr-capital",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 30): 1922: USSR established 'with its capital in Moscow'; 1853: the US acquired nearly 30,000 square miles of northern Mexican territory with the Gadsden Purchase; 1902: Robert Falcon Scott set a new record for reaching the farthest point south."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: St. Petersburg, the imperial capital, is the trap; Kyiv and Minsk were capitals of founding republics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "rizal-noli-me-tangere-target",
+      "canonicalId": "rizal-noli-me-tangere-target",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Jose-Rizal",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: executed by firing squad in Manila on December 30, 1896; Noli Me Tangere 'a passionate exposure of the evils of Spanish rule in the Philippines'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The United States, the later colonial power, is the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gadsden-purchase-seller",
+      "canonicalId": "gadsden-purchase-seller",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 30): 1922: USSR established 'with its capital in Moscow'; 1853: the US acquired nearly 30,000 square miles of northern Mexican territory with the Gadsden Purchase; 1902: Robert Falcon Scott set a new record for reaching the farthest point south."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other powers that sold or ceded North American land are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "times-square-named-for",
+      "canonicalId": "times-square-named-for",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Times-Square",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: formerly Long Acre (Longacre) Square; 'renamed in 1904 for The New York Times, which opened its new offices in the Times Tower'; the Times began lowering a ball at midnight on New Year's Eve in 1907."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links the ball drop to the newspaper that started it; the distractors are plausible folk etymologies. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "tallest-building-after-taipei-101",
+      "canonicalId": "tallest-building-after-taipei-101",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 31): 2004: 'Taipei 101 opened in Taipei, Taiwan. At 1,667 feet (508 metres), it was the tallest building in the world'; 1857: Queen Victoria named Ottawa the national capital of Canada; 1999: the United States officially handed over control of the Panama Canal to Panama."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 2010: 'Burj Khalifa, the world's tallest building, officially opened in Dubai'; 1948: Burma, 'today called Myanmar', gained independence from Great Britain."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects two record-setting openings in this batch; the prompt names Dubai so only one option fits. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ottawa-chosen-by",
+      "canonicalId": "ottawa-chosen-by",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 31): 2004: 'Taipei 101 opened in Taipei, Taiwan. At 1,667 feet (508 metres), it was the tallest building in the world'; 1857: Queen Victoria named Ottawa the national capital of Canada; 1999: the United States officially handed over control of the Panama Canal to Panama."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Macdonald and Durham are prominent figures of the period; Champlain is a well-known earlier name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "euro-founding-members",
+      "canonicalId": "euro-founding-members",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 1): 1999: eleven EU countries changed to the euro; 2026: Bulgaria adopted the euro; 1804: Haiti declared independence from France; 1863: Emancipation Proclamation, freeing enslaved people in the Confederacy; 1959: Batista fled Cuba, toppled by rebel forces led by Fidel Castro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Six echoes the original EEC founders; 15 and 27 are later EU sizes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "wto-predecessor",
+      "canonicalId": "wto-predecessor",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/World-Trade-Organization",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The WTO began operations on January 1, 1995'; 'successor to the General Agreement on Tariffs and Trade (GATT), which was created in 1947'; headquartered in Geneva."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are postwar economic institutions; only GATT was replaced by the WTO. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "batista-toppled-by",
+      "canonicalId": "batista-toppled-by",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 1): 1999: eleven EU countries changed to the euro; 2026: Bulgaria adopted the euro; 1804: Haiti declared independence from France; 1863: Emancipation Proclamation, freeing enslaved people in the Confederacy; 1959: Batista fled Cuba, toppled by rebel forces led by Fidel Castro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other Latin American strongmen, none of them Cuban revolutionaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "emancipation-proclamation-scope",
+      "canonicalId": "emancipation-proclamation-scope",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 1): 1999: eleven EU countries changed to the euro; 2026: Bulgaria adopted the euro; 1804: Haiti declared independence from France; 1863: Emancipation Proclamation, freeing enslaved people in the Confederacy; 1959: Batista fled Cuba, toppled by rebel forces led by Fidel Castro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Pairs with the published preliminary-proclamation question; this one states the proclamation's actual scope. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "order-january-first-milestones",
+      "canonicalId": "order-january-first-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 1): 1999: eleven EU countries changed to the euro; 2026: Bulgaria adopted the euro; 1804: Haiti declared independence from France; 1863: Emancipation Proclamation, freeing enslaved people in the Confederacy; 1959: Batista fled Cuba, toppled by rebel forces led by Fidel Castro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is one of the day's events, all cited on Britannica's January 1 page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "granada-conquerors",
+      "canonicalId": "granada-conquerors",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1492: Ferdinand II and Isabella I captured Granada; 1905: Russian forces surrendered Port Arthur to the Japanese; 2004: NASA's Stardust collected dust grains from comet Wild 2."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every distractor is a real royal couple with Spanish ties from the following century. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "port-arthur-war-enemy",
+      "canonicalId": "port-arthur-war-enemy",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1492: Ferdinand II and Isabella I captured Granada; 1905: Russian forces surrendered Port Arthur to the Japanese; 2004: NASA's Stardust collected dust grains from comet Wild 2."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: China is the trap because the port lies in China. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "stardust-sample",
+      "canonicalId": "stardust-sample",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1492: Ferdinand II and Isabella I captured Granada; 1905: Russian forces surrendered Port Arthur to the Japanese; 2004: NASA's Stardust collected dust grains from comet Wild 2."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Solar-wind particles (NASA's Genesis mission) are the close distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "tolkien-birth-country",
+      "canonicalId": "tolkien-birth-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 3, 1892, Bloemfontein, South Africa'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Surprising origin; New Zealand is the film-location trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "fiftieth-state-1959",
+      "canonicalId": "fiftieth-state-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born; 2019: 'Chang'e 4, carrying the Yutu-2 rover, landed on the Moon's far side.'"
+        },
+        {
+          "url": "https://www.britannica.com/place/Hawaii-state",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Hawaii became the 50th U.S. state on August 21, 1959.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "oceania"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Puerto Rico and Guam are territories that never became states; Arizona joined in 1912. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "braille-made-of",
+      "canonicalId": "braille-made-of",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/braille-writing-system",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: characters 'made up of one to six raised dots arranged in a six-position matrix or cell'; invented by Louis Braille in 1824."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Basic mechanism of the featured inventor's system. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "burma-modern-name",
+      "canonicalId": "burma-modern-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 2010: 'Burj Khalifa, the world's tallest building, officially opened in Dubai'; 1948: Burma, 'today called Myanmar', gained independence from Great Britain."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sri Lanka (formerly Ceylon) also won independence from Britain in 1948, a strong distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "waiting-for-godot-author",
+      "canonicalId": "waiting-for-godot-author",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Waiting-for-Godot",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: by the Irish writer Samuel Beckett; published in French in 1952 as En attendant Godot; first produced in 1953; Vladimir and Estragon wait for Godot."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1933: construction began on the Golden Gate Bridge, 'which connects San Francisco with Marin county'; 1914: Henry Ford raised his workers' pay from $2.40 to $5.00 a day."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are contemporaries in the theater of the absurd and existentialism. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "eris-pluto-reclassified",
+      "canonicalId": "eris-pluto-reclassified",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/dwarf-planets/eris/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: Eris discovered Jan. 5, 2005, from 2003 Palomar data; its discovery helped trigger the debate leading to the IAU's 2006 definition of a planet, which reclassified Pluto as a dwarf planet."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Why an obscure discovery mattered. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "golden-gate-connects",
+      "canonicalId": "golden-gate-connects",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1933: construction began on the Golden Gate Bridge, 'which connects San Francisco with Marin county'; 1914: Henry Ford raised his workers' pay from $2.40 to $5.00 a day."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are Bay Area counties; Alameda is across the Bay Bridge instead. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ford-five-dollar-day",
+      "canonicalId": "ford-five-dollar-day",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1933: construction began on the Golden Gate Bridge, 'which connects San Francisco with Marin county'; 1914: Henry Ford raised his workers' pay from $2.40 to $5.00 a day."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Includes the previous $2.40 wage as the before-and-after trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "four-freedoms-not-included",
+      "canonicalId": "four-freedoms-not-included",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Four-Freedoms",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: January 6, 1941; 'the freedom of speech and expression, the freedom of worship, the freedom from want, and the freedom from fear.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Freedom of assembly sounds like it belongs, which makes the list memorable. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "henry-viii-wives-count",
+      "canonicalId": "henry-viii-wives-count",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1540: 'Henry VIII of England married Anne of Cleves, the fourth of his six wives.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Well-known fact that anchors the lesser-known wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "marian-anderson-1939-concert",
+      "canonicalId": "marian-anderson-1939-concert",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Marian-Anderson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: barred from Constitution Hall by the DAR, she sang at the Lincoln Memorial on April 9, 1939, to 75,000 people; on January 7, 1955, first Black singer to perform as a member of the Metropolitan Opera."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Her most famous concert, giving context for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "phnom-penh-country",
+      "canonicalId": "phnom-penh-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 1968: Surveyor 7 launched; it soft-landed on the Moon; 1979: Vietnamese forces took Phnom Penh, Cambodia, removing the Khmer Rouge."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Neighboring countries as distractors; Vietnam is the invading power. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "fourteen-points-association",
+      "canonicalId": "fourteen-points-association",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Fourteen-Points",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: January 8, 1918; point 14: 'A general association of nations must be formed', the basis of the League of Nations."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: Thomas Paine published Common Sense; 1920: 'The League of Nations was established in Geneva'; 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links two events in this batch; the UN is the later successor and the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "hawking-best-seller",
+      "canonicalId": "hawking-best-seller",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Stephen-Hawking",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 8, 1942, Oxford; A Brief History of Time: From the Big Bang to Black Holes (1988)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other famous popular-science books by different authors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "elvis-memphis-home",
+      "canonicalId": "elvis-memphis-home",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Elvis-Presley",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 8, 1935, Tupelo, Mississippi; his Memphis estate Graceland remains one of the country's top tourist attractions."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous American estates as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "joan-of-arc-byname",
+      "canonicalId": "joan-of-arc-byname",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: byname the Maid of Orleans, from the 1429 victory at Orleans; trial began January 9, 1431, in Rouen."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Rouen (her trial) and Reims (the coronation she secured) are the near-misses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "rubicon-boundary",
+      "canonicalId": "rubicon-boundary",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Rubicon",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: a 'small stream that separated Cisalpine Gaul from Italy in the era of the Roman Republic'; Caesar crossed it in 49 BCE."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the crossing was decisive; all options were Roman provinces. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "common-sense-author",
+      "canonicalId": "common-sense-author",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: Thomas Paine published Common Sense; 1920: 'The League of Nations was established in Geneva'; 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other revolutionary writers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-un-general-assembly-city",
+      "canonicalId": "first-un-general-assembly-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: Thomas Paine published Common Sense; 1920: 'The League of Nations was established in Geneva'; 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: New York, Geneva and San Francisco are each tied to the UN or League, so recall matters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "hillary-everest-partner",
+      "canonicalId": "hillary-everest-partner",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Edmund-Hillary",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: New Zealand mountain climber; reached Everest's summit May 29, 1953; died January 11, 2008, Auckland."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "asia"
+      ],
+      "eras": [
+        "cold-war",
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hunt led the 1953 expedition; Mallory and Messner are other famous Everest names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "earhart-atlantic-before-pacific",
+      "canonicalId": "earhart-atlantic-before-pacific",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Amelia-Earhart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: crossed the Atlantic alone May 20-21, 1932; left Honolulu January 11, 1935, landing in Oakland the next day."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "oceania"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places the Pacific flight in her career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gordy-label-name",
+      "canonicalId": "gordy-label-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Motown",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'founded by Berry Gordy, Jr., in Detroit in January 1959'."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 1959: 'Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other landmark American soul and R&B labels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "jaccuse-defended-officer",
+      "canonicalId": "jaccuse-defended-officer",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 13): 1898: Zola's open letter 'J'accuse' denounced the general staff over the 1894 treason court-martial of Alfred Dreyfus."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other French generals and officers of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "huygens-built-by-nasa",
+      "canonicalId": "huygens-built-by-nasa",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: the European Space Agency's Huygens probe landed on Titan on January 14, 2005, the first landing in the outer solar system."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a common assumption about the landing; complements the published Titan question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "tosca-composer",
+      "canonicalId": "tosca-composer",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 2005: the Huygens probe landed on Saturn's largest moon, Titan; 1900: Tosca premiered in Rome's Costanzi Theatre."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other great opera composers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "jasmine-revolution-wave",
+      "canonicalId": "jasmine-revolution-wave",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Jasmine-Revolution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Ben Ali stepped down and left the country on January 14, 2011; the uprising 'inspired a wave of similar protests throughout the Middle East and North Africa known as the Arab Spring.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other named protest movements, including Lebanon's earlier Cedar Revolution. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "british-museum-first-home",
+      "canonicalId": "british-museum-first-home",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/British-Museum",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: established by act of Parliament in 1753 from the Sloane, Harley and Cotton collections; opened in 1759; collections housed in Montagu House, Great Russell Street."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hard: all four are historic London mansions with institutional uses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-american-woman-in-space",
+      "canonicalId": "first-american-woman-in-space",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Sally-Ride",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: one of six women in the 1978 astronaut group; first American woman in space on June 18, 1983, aboard Challenger (STS-7)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other notable American women in spaceflight history as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "popeye-strength-food",
+      "canonicalId": "popeye-strength-food",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1893: Queen Liliuokalani deposed by a provisional government led by Sanford Ballard Dole."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A light, accessible hook for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "franklin-birth-city",
+      "canonicalId": "franklin-birth-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Benjamin-Franklin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 17 [January 6, Old Style], 1706, Boston, Massachusetts'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Philadelphia, his adopted home, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "german-empire-proclaimed-where",
+      "canonicalId": "german-empire-proclaimed-where",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/William-I-emperor-of-Germany",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'William was acclaimed German emperor ... at Versailles, in conquered France, on Jan. 18, 1871.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sedan (the decisive 1870 battle) and Strasbourg (annexed in 1871) are the close distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "poe-genre-pioneered",
+      "canonicalId": "poe-genre-pioneered",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Edgar-Allan-Poe",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 19, 1809, Boston; pioneered the modern detective story with 'The Murders in the Rue Morgue' (1841); 'The Raven' in the New York Mirror of January 29, 1845."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are established genres Poe did not originate. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "obama-senate-state",
+      "canonicalId": "obama-senate-state",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Barack-Obama",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: inaugurated January 20, 2009; U.S. senator from Illinois (2005-08); born in Honolulu."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hawaii, his birthplace, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "concorde-partner-country",
+      "canonicalId": "concorde-partner-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1976: Concorde, 'built with funding from the British and French governments, began regular service'; 1793: Louis XVI executed by guillotine in Paris."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other aerospace nations of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "louis-xvi-queen",
+      "canonicalId": "louis-xvi-queen",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: queen consort of Louis XVI (1774-93); guillotined in Paris on October 16, 1793."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1976: Concorde, 'built with funding from the British and French governments, began regular service'; 1793: Louis XVI executed by guillotine in Paris."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Napoleon's two empresses and an earlier queen as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "petrograd-renamed-1924",
+      "canonicalId": "petrograd-renamed-1924",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Saint-Petersburg-Russia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Formerly (1914-24): Petrograd and (1924-91): Leningrad'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links Lenin's death to the Leningrad siege event; the other Soviet-era city names are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "victoria-successor",
+      "canonicalId": "victoria-successor",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: died January 22, 1901, at Osborne, Isle of Wight; queen 1837-1901; succeeded by her son Edward VII."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William IV was her predecessor, Albert her late husband, George V her grandson. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "blackwell-birth-country",
+      "canonicalId": "blackwell-birth-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Elizabeth-Blackwell",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born February 3, 1821, Counterslip, Bristol, England; graduated from Geneva Medical College, New York, in January 1849."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-23"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising origin for an American first. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gold-rush-mill-owner",
+      "canonicalId": "gold-rush-mill-owner",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/California-Gold-Rush",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: gold found January 24, 1848, by James W. Marshall at John Sutter's mill on the American River, Coloma; 1849 arrivals called forty-niners."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous figures of the Gold Rush era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "macintosh-ad-novel",
+      "canonicalId": "macintosh-ad-novel",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1984: Apple aired a commercial during Super Bowl XVIII directed by Ridley Scott and inspired by Orwell's Nineteen Eighty-four; 1788: Lord Byron born."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 24): 1984: 'Steve Jobs introduced Apple's revolutionary computer Macintosh.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other dystopian classics as distractors, including Orwell's own Animal Farm. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-winter-olympics-country",
+      "canonicalId": "first-winter-olympics-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: January 25-February 5, 1924, the first Winter Olympics; 11-year-old Sonja Henie made her Olympic debut and 'finished last in the standings'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other Alpine and Nordic winter-sport nations as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "sonja-henie-chamonix",
+      "canonicalId": "sonja-henie-chamonix",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: January 25-February 5, 1924, the first Winter Olympics; 11-year-old Sonja Henie made her Olympic debut and 'finished last in the standings'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable detail from the featured Games. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "burns-new-year-song",
+      "canonicalId": "burns-new-year-song",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Robert-Burns",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 25, 1759, Alloway, Ayrshire; known for songs 'such as \"Auld Lang Syne.\"'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other well-known British Isles songs as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "woolf-literary-circle",
+      "canonicalId": "woolf-literary-circle",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Virginia-Woolf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 25, 1882, London; weekly gatherings in Bloomsbury with Clive Bell, Lytton Strachey and John Maynard Keynes became 'what came to be known as the Bloomsbury group'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous literary circles from Oxford, Paris and New York. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "cullinan-presented-to",
+      "canonicalId": "cullinan-presented-to",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Cullinan-diamond",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: found 1905 at the Premier mine, Transvaal; about 3,106 carats rough; presented (1907) to King Edward VII; Cullinan I set in the Sovereign's Sceptre with Cross, Cullinan II in the Imperial Crown."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1905: world's largest diamond, over a pound, found at the Premier Mine in South Africa; 1950: 'India became a republic, achieving full independence from Great Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Victoria had died in 1901; George V and VI reigned later. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "mozart-opera",
+      "canonicalId": "mozart-opera",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 27, 1756, Salzburg; operas include The Marriage of Figaro (1786), Don Giovanni (1787) and The Magic Flute (1791)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Famous operas by Bizet, Verdi and Beethoven as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "auschwitz-location",
+      "canonicalId": "auschwitz-location",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Auschwitz",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: near the town of Oswiecim in southern Poland, in territory annexed by Germany; Soviet troops arrived January 27, 1945, finding 7,650 prisoners; 1.1 to 1.5 million people died there."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Factual and restrained; corrects the assumption that the camp was in Germany. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lego-home-country",
+      "canonicalId": "lego-home-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/LEGO",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: based in Billund, Denmark; founded by Ole Kirk Christiansen in 1932; name from Danish leg godt, 'play well'; interlocking brick patented January 1958."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sweden is the Scandinavian trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "challenger-teacher",
+      "canonicalId": "challenger-teacher",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Challenger-disaster",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: January 28, 1986, 73 seconds after liftoff; seven astronauts died, including the teacher Christa McAuliffe; failed O-rings in the right solid rocket booster."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Judith Resnik was a mission specialist on the same flight, so the question asks specifically for the teacher; Morgan was McAuliffe's backup. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "pride-prejudice-heroine",
+      "canonicalId": "pride-prejudice-heroine",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Pride-and-Prejudice",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: published anonymously in 1813 by Jane Austen; heroine Elizabeth Bennet, hero Fitzwilliam Darcy."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Heroines of other Austen novels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "benz-motorwagen-wheels",
+      "canonicalId": "benz-motorwagen-wheels",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Karl-Benz",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'a three-wheeled vehicle, the Motorwagen', internal-combustion powered, first ran in 1885, patented January 29, 1886."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Most people assume four; a vivid fact about the first car. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "chekhov-play",
+      "canonicalId": "chekhov-play",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Anton-Chekhov",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 29 [January 17, Old Style], 1860, Taganrog; plays The Seagull, Uncle Vanya, Three Sisters, The Cherry Orchard."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays by Ibsen, Strindberg and Gorky, his contemporaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gandhi-1930-march-tax",
+      "canonicalId": "gandhi-1930-march-tax",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Salt-March",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: March-April 1930, Sabarmati Ashram to Dandi on the Arabian Sea, against the British salt tax."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Remembers Gandhi through his most famous campaign rather than his death. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "brexit-referendum-year",
+      "canonicalId": "brexit-referendum-year",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Brexit",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: referendum June 23, 2016, some 52 percent voted to leave; the UK formally withdrew at 11:00 pm London time on January 31, 2020."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Close neighboring years as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "schubert-unfinished",
+      "canonicalId": "schubert-unfinished",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Franz-Schubert",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 31, 1797, near Vienna; Symphony in B Minor (Unfinished; 1822)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Nicknames of symphonies by Beethoven, Haydn and Mozart. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "jackie-robinson-team",
+      "canonicalId": "jackie-robinson-team",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Jackie-Robinson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 31, 1919, Cairo, Georgia; debuted with the Brooklyn Dodgers on April 15, 1947, breaking the color line."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other storied teams of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "stalingrad-modern-name",
+      "canonicalId": "stalingrad-modern-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Stalingrad (now Volgograd, Russia)', on the Volga; Paulus agreed to give himself up on January 31, 1943."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Donetsk was also once named Stalino; Leningrad and Kaliningrad are other Soviet-era names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "order-space-milestones-dec-jan",
+      "canonicalId": "order-space-milestones-dec-jan",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 1968: Surveyor 7 launched; it soft-landed on the Moon; 1979: Vietnamese forces took Phnom Penh, Cambodia, removing the Khmer Rouge."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1986: Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 2005: the Huygens probe landed on Saturn's largest moon, Titan; 1900: Tosca premiered in Rome's Costanzi Theatre."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born; 2019: 'Chang'e 4, carrying the Yutu-2 rover, landed on the Moon's far side.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is an event in this batch, each dated on its Britannica day page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "order-writer-births-january",
+      "canonicalId": "order-writer-births-january",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1984: Apple aired a commercial during Super Bowl XVIII directed by Ridley Scott and inspired by Orwell's Nineteen Eighty-four; 1788: Lord Byron born."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 19): 1809: Edgar Allan Poe born in Boston; 1853: Verdi's Il trovatore premiered in Rome."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 29): 1860: Anton Chekhov born; 1845: 'The Raven' first published; 1886: Karl Benz patented the first practical automobile powered by an internal-combustion engine."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born; 2019: 'Chang'e 4, carrying the Yutu-2 rover, landed on the Moon's far side.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is a birth in this batch. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "link-identify-ada-lovelace",
+      "canonicalId": "identify-ada-lovelace",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ada-Lovelace",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of identify-ada-lovelace: notes on Babbage's Analytical Engine. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Charles-Babbage",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born December 26, 1791, London; designed the Difference Engine (from 1823) and, in the mid-1830s, the Analytical Engine, 'the forerunner of the modern digital computer'; Ada Lovelace's 1843 notes on it."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-26"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-hagia-sophia",
+      "canonicalId": "identify-hagia-sophia",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Hagia-Sophia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: in 'Constantinople (now Istanbul)'; built under Justinian I, completed in 537; a mosque after 1453, a museum from 1935, a mosque again from 2020."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-charles-darwin",
+      "canonicalId": "identify-charles-darwin",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Charles-Darwin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The Beagle sailed from England on December 27, 1831'; map caption covers the voyage of 1831-36."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-27"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-jose-rizal",
+      "canonicalId": "identify-jose-rizal",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nhcp.gov.ph/jose-rizal/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of identify-jose-rizal. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Jose-Rizal",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: executed by firing squad in Manila on December 30, 1896; Noli Me Tangere 'a passionate exposure of the evils of Spanish rule in the Philippines'."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-30"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-amundsen-first-south-pole",
+      "canonicalId": "amundsen-first-south-pole",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of amundsen-first-south-pole; Amundsen reached the South Pole on December 14, 1911. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 30): 1922: USSR established 'with its capital in Moscow'; 1853: the US acquired nearly 30,000 square miles of northern Mexican territory with the Gadsden Purchase; 1902: Robert Falcon Scott set a new record for reaching the farthest point south."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "antarctica",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-30"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-panama-canal-transfer-year",
+      "canonicalId": "panama-canal-transfer-year",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://pancanal.com/en/history-of-the-panama-canal/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of panama-canal-transfer-year: transfer completed at noon on 31 December 1999. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 31): 2004: 'Taipei 101 opened in Taipei, Taiwan. At 1,667 feet (508 metres), it was the tallest building in the world'; 1857: Queen Victoria named Ottawa the national capital of Canada; 1999: the United States officially handed over control of the Panama Canal to Panama."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-31"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-haitian-revolution-outcome",
+      "canonicalId": "haitian-revolution-outcome",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Haitian-Revolution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of haitian-revolution-outcome: Haiti declared independence in 1804. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 1): 1999: eleven EU countries changed to the euro; 2026: Bulgaria adopted the euro; 1804: Haiti declared independence from France; 1863: Emancipation Proclamation, freeing enslaved people in the Confederacy; 1959: Batista fled Cuba, toppled by rebel forces led by Fidel Castro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-01"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-alhambra-nasrid-palace",
+      "canonicalId": "alhambra-nasrid-palace",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://whc.unesco.org/en/list/314",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of alhambra-nasrid-palace (Nasrid palaces in Granada). Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1492: Ferdinand II and Isabella I captured Granada; 1905: Russian forces surrendered Port Arthur to the Japanese; 2004: NASA's Stardust collected dust grains from comet Wild 2."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-south-africa-1994-president",
+      "canonicalId": "south-africa-1994-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nelsonmandela.org/biography",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of south-africa-1994-president: the ANC won the April 1994 election. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1912: 'The African National Congress was founded.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-versailles-league-created",
+      "canonicalId": "versailles-league-created",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of versailles-league-created. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: Thomas Paine published Common Sense; 1920: 'The League of Nations was established in Geneva'; 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-united-states-league-member",
+      "canonicalId": "united-states-league-member",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1914-1920/league",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of united-states-league-member. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: Thomas Paine published Common Sense; 1920: 'The League of Nations was established in Geneva'; 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-huygens-titan-landing",
+      "canonicalId": "huygens-titan-landing",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: the European Space Agency's Huygens probe landed on Titan on January 14, 2005, the first landing in the outer solar system."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-identify-queen-liliuokalani",
+      "canonicalId": "identify-queen-liliuokalani",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/pictures/item/2016651074/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of identify-queen-liliuokalani: last reigning monarch of the Hawaiian Kingdom. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1893: Queen Liliuokalani deposed by a provisional government led by Sanford Ballard Dole."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "oceania",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-winston-churchill",
+      "canonicalId": "identify-winston-churchill",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Winston-Churchill",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: died January 24, 1965, London (aged 90); British prime minister for most of World War II."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-india-independence-1947",
+      "canonicalId": "india-independence-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Indian-Independence-Act-1947",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of india-independence-1947. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1905: world's largest diamond, over a pound, found at the Premier Mine in South Africa; 1950: 'India became a republic, achieving full independence from Great Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-mozart-death-age",
+      "canonicalId": "mozart-death-age",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Dec 5): Existing source of mozart-death-age: Mozart died in Vienna on December 5, 1791. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born January 27, 1756, Salzburg; operas include The Marriage of Figaro (1786), Don Giovanni (1787) and The Magic Flute (1791)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-discovery-sts26-return-to-flight",
+      "canonicalId": "discovery-sts26-return-to-flight",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of discovery-sts26-return-to-flight. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1986: Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-identify-mahatma-gandhi",
+      "canonicalId": "identify-mahatma-gandhi",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of identify-mahatma-gandhi. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-beatles-home-city",
+      "canonicalId": "beatles-home-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.thebeatles.com/please-please-me",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of beatles-home-city. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1969: the Beatles performed together for the last time; 1948: Gandhi assassinated."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    }
+  ]
+}

@@ -3,21 +3,13 @@
   "batchId": "2027-01-09-15-historical-events",
   "candidates": [
     {
-      "candidateId": "jan-09-aswan-high-dam",
-      "kind": "event",
-      "proposedCanonicalId": "aswan-high-dam-construction-begins-1960",
-      "workingClaim": "January 9, 1960: On January 9, 1960, construction began on the Aswan High Dam across the Nile in Egypt.",
-      "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-9"
-      ]
-    },
-    {
       "candidateId": "jan-09-joan-trial",
       "kind": "event",
       "proposedCanonicalId": "joan-of-arc-trial-begins-1431",
-      "workingClaim": "January 9, 1431: On January 9, 1431, Joan of Arc, then 19 years old, was put on trial in France, facing more than 70 accusations.",
+      "workingClaim": "January 9, 1431: On January 9, 1431, Joan of Arc, then 19 years old, was put on trial in Rouen, France, facing more than 70 accusations. Two years earlier she had led the French to victory at Orleans.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-9"
+        "https://www.britannica.com/on-this-day/January-9",
+        "https://www.britannica.com/biography/Saint-Joan-of-Arc"
       ]
     },
     {
@@ -116,7 +108,8 @@
       "proposedCanonicalId": "earhart-hawaii-to-california-1935",
       "workingClaim": "January 11, 1935: On January 11, 1935, Amelia Earhart set off on the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-11"
+        "https://www.britannica.com/on-this-day/January-11",
+        "https://www.britannica.com/biography/Amelia-Earhart"
       ]
     },
     {
@@ -143,7 +136,8 @@
       "proposedCanonicalId": "berry-gordy-launches-tamla-records-1959",
       "workingClaim": "January 12, 1959: On January 12, 1959, Berry Gordy launched Tamla Records, a major step toward transforming American music.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-12"
+        "https://www.britannica.com/on-this-day/January-12",
+        "https://www.britannica.com/topic/Motown"
       ]
     },
     {

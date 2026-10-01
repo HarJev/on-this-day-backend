@@ -109,7 +109,13 @@
           "url": "https://www.britannica.com/on-this-day/January-3",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien was born."
+          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born."
+        },
+        {
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 3, 1892, Bloemfontein, South Africa'; died September 2, 1973, Bournemouth, England."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -595,6 +601,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 7): 1955: 'American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Marian-Anderson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'On January 7, 1955, Anderson became the first Black singer to perform as a member of the Metropolitan Opera'; role of Ulrica in Verdi's Un ballo in maschera; 1939 Lincoln Memorial concert for 75,000 after the DAR barred her from Constitution Hall."
         }
       ],
       "imageRightsStatus": "not_applicable",

@@ -78,14 +78,18 @@
       "year": "1848",
       "historicalDate": "January 24, 1848",
       "dateNote": null,
-      "summary": "James Marshall's find at Sutter's Mill sets off the Gold Rush.",
-      "description": "On January 24, 1848, James Marshall spotted gold while building a sawmill in California, a discovery that set off the California Gold Rush.",
+      "summary": "A find at Sutter's Mill sets off the Gold Rush.",
+      "description": "On January 24, 1848, James Marshall spotted gold while building a sawmill for John Sutter at Coloma, California. The discovery set off the California Gold Rush.",
       "notificationTitle": "Gold in the millrace",
       "notificationBody": "In 1848, gold was found in California, setting off the Gold Rush.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 24",
           "url": "https://www.britannica.com/on-this-day/January-24"
+        },
+        {
+          "name": "Encyclopaedia Britannica - California Gold Rush",
+          "url": "https://www.britannica.com/topic/California-Gold-Rush"
         }
       ],
       "images": []
@@ -551,13 +555,17 @@
       "historicalDate": "January 29, 1860",
       "dateNote": "January 17 in the Julian calendar then used in Russia.",
       "summary": "The Russian playwright and short-story master is born.",
-      "description": "On January 29, 1860, the Russian playwright and short-story writer Anton Chekhov was born.",
+      "description": "On January 29, 1860, the Russian playwright and short-story writer Anton Chekhov was born in Taganrog.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 29",
           "url": "https://www.britannica.com/on-this-day/January-29"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Anton Chekhov",
+          "url": "https://www.britannica.com/biography/Anton-Chekhov"
         }
       ],
       "images": []
@@ -720,6 +728,10 @@
         {
           "name": "Encyclopaedia Britannica - On This Day: January 31",
           "url": "https://www.britannica.com/on-this-day/January-31"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Battle of Stalingrad",
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad"
         }
       ],
       "images": []

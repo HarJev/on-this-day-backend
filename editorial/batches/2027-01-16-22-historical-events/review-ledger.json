@@ -157,6 +157,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 17): 1706: Benjamin Franklin born; Founding Father who helped draft the Declaration of Independence."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Benjamin-Franklin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 17 [January 6, Old Style], 1706, Boston, Massachusetts'."
         }
       ],
       "imageRightsStatus": "not_applicable",

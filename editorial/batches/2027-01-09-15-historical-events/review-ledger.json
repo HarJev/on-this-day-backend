@@ -3,31 +3,6 @@
   "batchId": "2027-01-09-15-historical-events",
   "entries": [
     {
-      "candidateId": "jan-09-aswan-high-dam",
-      "canonicalId": "aswan-high-dam-construction-begins-1960",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.britannica.com/on-this-day/January-9",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Jan 9): 1960: 'Construction began on the Aswan High Dam in Egypt.'"
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "africa",
-        "middle-east"
-      ],
-      "eras": [
-        "cold-war"
-      ],
-      "calendarDays": [
-        "01-09"
-      ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
-    },
-    {
       "candidateId": "jan-09-joan-trial",
       "canonicalId": "joan-of-arc-trial-begins-1431",
       "reviewStatus": "source_verified",
@@ -37,6 +12,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 9): 1431: 'Joan the Maid,' age 19, 'was put on trial in France on this day in 1431. She faced more than 70 accusations.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: byname the Maid of Orleans, after the 1429 relief of Orleans; 'a prolonged ecclesiastical trial that began on January 9, 1431, in Rouen'; executed May 30, 1431."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -304,6 +285,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 11): 1935: 'Amelia Earhart made the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Amelia-Earhart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'She departed from Honolulu on January 11 and, after 17 hours and 7 minutes, landed in Oakland the following day'; earlier crossed the Atlantic alone on May 20-21, 1932."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -378,6 +365,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Jan 12): 1959: 'Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records.'"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Motown",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Motown was 'founded by Berry Gordy, Jr., in Detroit in January 1959'."
         }
       ],
       "imageRightsStatus": "not_applicable",

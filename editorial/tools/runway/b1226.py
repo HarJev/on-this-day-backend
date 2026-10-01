@@ -259,10 +259,14 @@ ev(1, 2, "palmer-raids", "palmer-raids-1920", "The Palmer Raids sweep US cities"
 # ---------------------------------------------------------------- Jan 3
 ev(1, 3, "tolkien-born", "jrr-tolkien-born-1892", "J.R.R. Tolkien is born", "1892",
    "The author of The Hobbit and The Lord of the Rings is born.",
-   "On {hd}, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born.",
+   "On {hd}, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born in Bloemfontein, South Africa.",
    "1892: J.R.R. Tolkien was born.",
    ["europe", "africa"], ["1800-1945"], "Where Middle-earth began",
-   "In 1892, J.R.R. Tolkien, author of The Lord of the Rings, was born.")
+   "In 1892, J.R.R. Tolkien, author of The Lord of the Rings, was born.",
+   extra=[(f"{BR}On This Day: January 3", "https://www.britannica.com/on-this-day/January-3",
+           "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born."),
+          (f"{BR}J.R.R. Tolkien", "https://www.britannica.com/biography/J-R-R-Tolkien",
+           "Britannica: 'born January 3, 1892, Bloemfontein, South Africa'; died September 2, 1973, Bournemouth, England.")])
 ev(1, 3, "alaska-statehood", "alaska-becomes-49th-state-1959", "Alaska becomes the 49th US state", "1959",
    "The former territory joins the Union.",
    "On {hd}, Alaska became the 49th state of the United States.",
@@ -371,10 +375,14 @@ ev(1, 6, "richard-ii-born", "richard-ii-born-1367", "Richard II of England is bo
 # ---------------------------------------------------------------- Jan 7
 ev(1, 7, "marian-anderson", "marian-anderson-met-debut-1955", "Marian Anderson sings at the Metropolitan Opera", "1955",
    "The contralto performs with the Met for the first time.",
-   "On {hd}, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.",
+   "On {hd}, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City, becoming the first Black singer to perform as a member of the company. She sang Ulrica in Verdi's Un ballo in maschera.",
    "1955: 'American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.'",
    ["americas"], ["cold-war"], "A voice that opened the Met",
-   "In 1955, Marian Anderson made her Metropolitan Opera debut.")
+   "In 1955, Marian Anderson made her Metropolitan Opera debut.",
+   extra=[(f"{BR}On This Day: January 7", "https://www.britannica.com/on-this-day/January-7",
+           "Britannica On This Day (Jan 7): 1955: 'American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.'"),
+          (f"{BR}Marian Anderson", "https://www.britannica.com/biography/Marian-Anderson",
+           "Britannica: 'On January 7, 1955, Anderson became the first Black singer to perform as a member of the Metropolitan Opera'; role of Ulrica in Verdi's Un ballo in maschera; 1939 Lincoln Memorial concert for 75,000 after the DAR barred her from Constitution Hall.")])
 ev(1, 7, "phnom-penh", "vietnamese-forces-take-phnom-penh-1979", "Vietnamese forces take Phnom Penh", "1979",
    "The Khmer Rouge regime of Pol Pot is driven from power.",
    "On {hd}, Vietnamese forces took control of Phnom Penh, Cambodia, removing the Khmer Rouge and Pol Pot from power.",
@@ -425,17 +433,16 @@ ev(1, 8, "elvis-born", "elvis-presley-born-1935", "Elvis Presley is born", "1935
    ["americas"], ["1800-1945"])
 
 # ---------------------------------------------------------------- Jan 9
-ev(1, 9, "aswan-high-dam", "aswan-high-dam-construction-begins-1960", "Construction begins on the Aswan High Dam", "1960",
-   "Egypt starts building a giant dam across the Nile.",
-   "On {hd}, construction began on the Aswan High Dam across the Nile in Egypt.",
-   "1960: 'Construction began on the Aswan High Dam in Egypt.'",
-   ["africa", "middle-east"], ["cold-war"], "Taming the Nile",
-   "In 1960, construction began on Egypt's Aswan High Dam.")
 ev(1, 9, "joan-trial", "joan-of-arc-trial-begins-1431", "The trial of Joan of Arc begins", "1431",
    "The 19-year-old faces more than 70 accusations.",
-   "On {hd}, Joan of Arc, then 19 years old, was put on trial in France, facing more than 70 accusations.",
+   "On {hd}, Joan of Arc, then 19 years old, was put on trial in Rouen, France, facing more than 70 accusations. Two years earlier she had led the French to victory at Orleans.",
    "1431: 'Joan the Maid,' age 19, 'was put on trial in France on this day in 1431. She faced more than 70 accusations.'",
-   ["europe"], ["medieval"], note=J)
+   ["europe"], ["medieval"], "Joan of Arc goes on trial",
+   "In 1431, the trial of Joan of Arc began in Rouen.", note=J,
+   extra=[(f"{BR}On This Day: January 9", "https://www.britannica.com/on-this-day/January-9",
+           "Britannica On This Day (Jan 9): 1431: 'Joan the Maid,' age 19, 'was put on trial in France on this day in 1431. She faced more than 70 accusations.'"),
+          (f"{BR}Saint Joan of Arc", "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+           "Britannica: byname the Maid of Orleans, after the 1429 relief of Orleans; 'a prolonged ecclesiastical trial that began on January 9, 1431, in Rouen'; executed May 30, 1431.")])
 ev(1, 9, "beauvoir-born", "simone-de-beauvoir-born-1908", "Simone de Beauvoir is born in Paris", "1908",
    "The writer and feminist thinker is born.",
    "On {hd}, Simone de Beauvoir, a writer and feminist who gave literary form to the themes of existentialism, was born in Paris.",
@@ -497,7 +504,11 @@ ev(1, 11, "earhart-pacific", "earhart-hawaii-to-california-1935", "Amelia Earhar
    "She completes the first successful solo flight of about 2,400 miles.",
    "On {hd}, Amelia Earhart set off on the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.",
    "1935: 'Amelia Earhart made the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.'",
-   ["americas", "oceania"], ["1800-1945"], note="She left Honolulu on January 11 and landed in Oakland the next day.")
+   ["americas", "oceania"], ["1800-1945"], note="She left Honolulu on January 11 and landed in Oakland the next day.",
+   extra=[(f"{BR}On This Day: January 11", "https://www.britannica.com/on-this-day/January-11",
+           "Britannica On This Day (Jan 11): 1935: 'Amelia Earhart made the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.'"),
+          (f"{BR}Amelia Earhart", "https://www.britannica.com/biography/Amelia-Earhart",
+           "Britannica: 'She departed from Honolulu on January 11 and, after 17 hours and 7 minutes, landed in Oakland the following day'; earlier crossed the Atlantic alone on May 20-21, 1932.")])
 ev(1, 11, "hillary-dies", "edmund-hillary-dies-2008", "Sir Edmund Hillary dies", "2008",
    "The New Zealand mountaineer dies at 88.",
    "On {hd}, Sir Edmund Hillary, the New Zealand mountaineer, died at age 88.",
@@ -511,11 +522,15 @@ ev(1, 11, "chretien-born", "jean-chretien-born-1934", "Jean Chretien is born", "
 
 # ---------------------------------------------------------------- Jan 12
 ev(1, 12, "tamla-records", "berry-gordy-launches-tamla-records-1959", "Berry Gordy launches Tamla Records", "1959",
-   "The label that will grow into Motown is founded in Detroit.",
+   "Gordy starts the Detroit record business that becomes Motown.",
    "On {hd}, Berry Gordy launched Tamla Records, a major step toward transforming American music.",
    "1959: 'Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records.'",
    ["americas"], ["cold-war"], "The start of the Motown sound",
-   "In 1959, Berry Gordy launched Tamla Records.")
+   "In 1959, Berry Gordy launched Tamla Records.",
+   extra=[(f"{BR}On This Day: January 12", "https://www.britannica.com/on-this-day/January-12",
+           "Britannica On This Day (Jan 12): 1959: 'Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records.'"),
+          (f"{BR}Motown", "https://www.britannica.com/topic/Motown",
+           "Britannica: Motown was 'founded by Berry Gordy, Jr., in Detroit in January 1959'.")])
 ev(1, 12, "haiti-earthquake", "haiti-earthquake-2010", "A magnitude-7.0 earthquake strikes Haiti", "2010",
    "The quake devastates Port-au-Prince and the surrounding region.",
    "On {hd}, a magnitude-7.0 earthquake devastated Haiti, killing more than 300,000 people.",
@@ -657,9 +672,13 @@ ev(1, 17, "popeye", "popeye-debuts-1929", "Popeye makes his debut", "1929",
    "In 1929, Popeye the Sailor first appeared in a comic strip.")
 ev(1, 17, "franklin-born", "benjamin-franklin-born-1706", "Benjamin Franklin is born", "1706",
    "The future scientist, writer and founding father is born in Boston.",
-   "On {hd}, Benjamin Franklin was born. He later helped draft the US Declaration of Independence.",
+   "On {hd}, Benjamin Franklin was born in Boston. He later helped draft the US Declaration of Independence.",
    "1706: Benjamin Franklin born; Founding Father who helped draft the Declaration of Independence.",
-   ["americas"], ["early-modern"], note="New Style date; the Julian calendar then used in Britain's colonies gave January 6, 1705.")
+   ["americas"], ["early-modern"], note="New Style date; January 6 in the Old Style calendar then used in Britain's colonies.",
+   extra=[(f"{BR}On This Day: January 17", "https://www.britannica.com/on-this-day/January-17",
+           "Britannica On This Day (Jan 17): 1706: Benjamin Franklin born; Founding Father who helped draft the Declaration of Independence."),
+          (f"{BR}Benjamin Franklin", "https://www.britannica.com/biography/Benjamin-Franklin",
+           "Britannica: 'born January 17 [January 6, Old Style], 1706, Boston, Massachusetts'.")])
 ev(1, 17, "liliuokalani-deposed", "liliuokalani-deposed-1893", "Queen Liliuokalani of Hawaii is deposed", "1893",
    "A provisional government ends the Hawaiian monarchy.",
    "On {hd}, Hawaii's Queen Liliuokalani was deposed by a provisional government led by Sanford Ballard Dole.",
@@ -836,11 +855,15 @@ ev(1, 23, "twenty-fourth-amendment", "twenty-fourth-amendment-ratified-1964", "T
 
 # ---------------------------------------------------------------- Jan 24
 ev(1, 24, "california-gold", "gold-discovered-california-1848", "Gold is discovered in California", "1848",
-   "James Marshall's find at Sutter's Mill sets off the Gold Rush.",
-   "On {hd}, James Marshall spotted gold while building a sawmill in California, a discovery that set off the California Gold Rush.",
+   "A find at Sutter's Mill sets off the Gold Rush.",
+   "On {hd}, James Marshall spotted gold while building a sawmill for John Sutter at Coloma, California. The discovery set off the California Gold Rush.",
    "1848: 'Gold discovered in California' - James Marshall spotted gold nuggets while constructing a sawmill, triggering the California Gold Rush.",
    ["americas"], ["1800-1945"], "Gold in the millrace",
-   "In 1848, gold was found in California, setting off the Gold Rush.")
+   "In 1848, gold was found in California, setting off the Gold Rush.",
+   extra=[(f"{BR}On This Day: January 24", "https://www.britannica.com/on-this-day/January-24",
+           "Britannica On This Day (Jan 24): 1848: 'Gold discovered in California' - James Marshall spotted gold nuggets while constructing a sawmill, triggering the California Gold Rush."),
+          (f"{BR}California Gold Rush", "https://www.britannica.com/topic/California-Gold-Rush",
+           "Britannica: on January 24, 1848, James W. Marshall, John Sutter's carpenter, found gold at Sutter's Mill on the American River at Coloma; the 1849 arrivals were called forty-niners.")])
 ev(1, 24, "macintosh", "apple-introduces-macintosh-1984", "Apple introduces the Macintosh", "1984",
    "Steve Jobs unveils Apple's new personal computer.",
    "On {hd}, Steve Jobs introduced Apple's Macintosh computer.",
@@ -990,9 +1013,13 @@ ev(1, 29, "the-raven", "the-raven-published-1845", "Poe's 'The Raven' is first p
    ["americas"], ["1800-1945"])
 ev(1, 29, "chekhov-born", "anton-chekhov-born-1860", "Anton Chekhov is born", "1860",
    "The Russian playwright and short-story master is born.",
-   "On {hd}, the Russian playwright and short-story writer Anton Chekhov was born.",
+   "On {hd}, the Russian playwright and short-story writer Anton Chekhov was born in Taganrog.",
    "1860: 'Anton Chekhov ... was born.'",
-   ["europe"], ["1800-1945"], note="January 17 in the Julian calendar then used in Russia.")
+   ["europe"], ["1800-1945"], note="January 17 in the Julian calendar then used in Russia.",
+   extra=[(f"{BR}On This Day: January 29", "https://www.britannica.com/on-this-day/January-29",
+           "Britannica On This Day (Jan 29): 1860: 'Anton Chekhov ... was born.'"),
+          (f"{BR}Anton Chekhov", "https://www.britannica.com/biography/Anton-Chekhov",
+           "Britannica: 'born January 29 [January 17, Old Style], 1860, Taganrog, Russia'; plays The Seagull, Uncle Vanya, Three Sisters, The Cherry Orchard.")])
 ev(1, 29, "baseball-hof", "baseball-hall-of-fame-first-class-1936", "Baseball's Hall of Fame elects its first players", "1936",
    "Babe Ruth and Ty Cobb are among the first inductees chosen.",
    "On {hd}, Babe Ruth and Ty Cobb were among the first players elected to the Baseball Hall of Fame.",
@@ -1042,8 +1069,12 @@ ev(1, 31, "schubert-born", "franz-schubert-born-1797", "Franz Schubert is born n
 ev(1, 31, "paulus-surrenders", "paulus-surrenders-at-stalingrad-1943", "Friedrich Paulus surrenders at Stalingrad", "1943",
    "The German field marshal surrenders to the Red Army.",
    "On {hd}, German Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad.",
-   "1943: Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad.",
-   ["europe"], ["1800-1945"])
+   "",
+   ["europe"], ["1800-1945"],
+   extra=[(f"{BR}On This Day: January 31", "https://www.britannica.com/on-this-day/January-31",
+           "Britannica On This Day (Jan 31): 1943: Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad."),
+          (f"{BR}Battle of Stalingrad", "https://www.britannica.com/event/Battle-of-Stalingrad",
+           "Britannica: battle August 22, 1942 - February 2, 1943, on the Volga; 'On January 31 Paulus disobeyed Hitler and agreed to give himself up'; Stalingrad is now Volgograd.")])
 ev(1, 31, "jackie-robinson-born", "jackie-robinson-born-1919", "Jackie Robinson is born", "1919",
    "The player who will break baseball's color line is born.",
    "On {hd}, Jackie Robinson was born. He became the first African American to play in baseball's major leagues in the 20th century.",

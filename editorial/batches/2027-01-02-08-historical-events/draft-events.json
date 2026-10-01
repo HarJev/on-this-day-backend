@@ -79,13 +79,17 @@
       "historicalDate": "January 3, 1892",
       "dateNote": null,
       "summary": "The author of The Hobbit and The Lord of the Rings is born.",
-      "description": "On January 3, 1892, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born.",
+      "description": "On January 3, 1892, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born in Bloemfontein, South Africa.",
       "notificationTitle": "Where Middle-earth began",
       "notificationBody": "In 1892, J.R.R. Tolkien, author of The Lord of the Rings, was born.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 3",
           "url": "https://www.britannica.com/on-this-day/January-3"
+        },
+        {
+          "name": "Encyclopaedia Britannica - J.R.R. Tolkien",
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien"
         }
       ],
       "images": []
@@ -439,13 +443,17 @@
       "historicalDate": "January 7, 1955",
       "dateNote": null,
       "summary": "The contralto performs with the Met for the first time.",
-      "description": "On January 7, 1955, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.",
+      "description": "On January 7, 1955, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City, becoming the first Black singer to perform as a member of the company. She sang Ulrica in Verdi's Un ballo in maschera.",
       "notificationTitle": "A voice that opened the Met",
       "notificationBody": "In 1955, Marian Anderson made her Metropolitan Opera debut.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 7",
           "url": "https://www.britannica.com/on-this-day/January-7"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Marian Anderson",
+          "url": "https://www.britannica.com/biography/Marian-Anderson"
         }
       ],
       "images": []

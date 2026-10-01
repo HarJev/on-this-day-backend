@@ -60,9 +60,10 @@
       "candidateId": "jan-17-franklin-born",
       "kind": "event",
       "proposedCanonicalId": "benjamin-franklin-born-1706",
-      "workingClaim": "January 17, 1706: On January 17, 1706, Benjamin Franklin was born. He later helped draft the US Declaration of Independence.",
+      "workingClaim": "January 17, 1706: On January 17, 1706, Benjamin Franklin was born in Boston. He later helped draft the US Declaration of Independence.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-17"
+        "https://www.britannica.com/on-this-day/January-17",
+        "https://www.britannica.com/biography/Benjamin-Franklin"
       ]
     },
     {

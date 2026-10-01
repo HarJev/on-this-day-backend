@@ -42,9 +42,10 @@
       "candidateId": "jan-24-california-gold",
       "kind": "event",
       "proposedCanonicalId": "gold-discovered-california-1848",
-      "workingClaim": "January 24, 1848: On January 24, 1848, James Marshall spotted gold while building a sawmill in California, a discovery that set off the California Gold Rush.",
+      "workingClaim": "January 24, 1848: On January 24, 1848, James Marshall spotted gold while building a sawmill for John Sutter at Coloma, California. The discovery set off the California Gold Rush.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-24"
+        "https://www.britannica.com/on-this-day/January-24",
+        "https://www.britannica.com/topic/California-Gold-Rush"
       ]
     },
     {
@@ -277,9 +278,10 @@
       "candidateId": "jan-29-chekhov-born",
       "kind": "event",
       "proposedCanonicalId": "anton-chekhov-born-1860",
-      "workingClaim": "January 29, 1860: On January 29, 1860, the Russian playwright and short-story writer Anton Chekhov was born.",
+      "workingClaim": "January 29, 1860: On January 29, 1860, the Russian playwright and short-story writer Anton Chekhov was born in Taganrog.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-29"
+        "https://www.britannica.com/on-this-day/January-29",
+        "https://www.britannica.com/biography/Anton-Chekhov"
       ]
     },
     {
@@ -360,7 +362,8 @@
       "proposedCanonicalId": "paulus-surrenders-at-stalingrad-1943",
       "workingClaim": "January 31, 1943: On January 31, 1943, German Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/January-31"
+        "https://www.britannica.com/on-this-day/January-31",
+        "https://www.britannica.com/event/Battle-of-Stalingrad"
       ]
     },
     {

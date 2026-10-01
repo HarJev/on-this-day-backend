@@ -113,15 +113,19 @@
       "title": "Benjamin Franklin is born",
       "year": "1706",
       "historicalDate": "January 17, 1706",
-      "dateNote": "New Style date; the Julian calendar then used in Britain's colonies gave January 6, 1705.",
+      "dateNote": "New Style date; January 6 in the Old Style calendar then used in Britain's colonies.",
       "summary": "The future scientist, writer and founding father is born in Boston.",
-      "description": "On January 17, 1706, Benjamin Franklin was born. He later helped draft the US Declaration of Independence.",
+      "description": "On January 17, 1706, Benjamin Franklin was born in Boston. He later helped draft the US Declaration of Independence.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 17",
           "url": "https://www.britannica.com/on-this-day/January-17"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Benjamin Franklin",
+          "url": "https://www.britannica.com/biography/Benjamin-Franklin"
         }
       ],
       "images": []

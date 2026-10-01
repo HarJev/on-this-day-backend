@@ -1,37 +1,23 @@
 {
   "events": [
     {
-      "id": "aswan-high-dam-construction-begins-1960",
-      "title": "Construction begins on the Aswan High Dam",
-      "year": "1960",
-      "historicalDate": "January 9, 1960",
-      "dateNote": null,
-      "summary": "Egypt starts building a giant dam across the Nile.",
-      "description": "On January 9, 1960, construction began on the Aswan High Dam across the Nile in Egypt.",
-      "notificationTitle": "Taming the Nile",
-      "notificationBody": "In 1960, construction began on Egypt's Aswan High Dam.",
-      "sources": [
-        {
-          "name": "Encyclopaedia Britannica - On This Day: January 9",
-          "url": "https://www.britannica.com/on-this-day/January-9"
-        }
-      ],
-      "images": []
-    },
-    {
       "id": "joan-of-arc-trial-begins-1431",
       "title": "The trial of Joan of Arc begins",
       "year": "1431",
       "historicalDate": "January 9, 1431",
       "dateNote": "Julian calendar date.",
       "summary": "The 19-year-old faces more than 70 accusations.",
-      "description": "On January 9, 1431, Joan of Arc, then 19 years old, was put on trial in France, facing more than 70 accusations.",
-      "notificationTitle": null,
-      "notificationBody": null,
+      "description": "On January 9, 1431, Joan of Arc, then 19 years old, was put on trial in Rouen, France, facing more than 70 accusations. Two years earlier she had led the French to victory at Orleans.",
+      "notificationTitle": "Joan of Arc goes on trial",
+      "notificationBody": "In 1431, the trial of Joan of Arc began in Rouen.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: January 9",
           "url": "https://www.britannica.com/on-this-day/January-9"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Saint Joan of Arc",
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc"
         }
       ],
       "images": []
@@ -230,6 +216,10 @@
         {
           "name": "Encyclopaedia Britannica - On This Day: January 11",
           "url": "https://www.britannica.com/on-this-day/January-11"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Amelia Earhart",
+          "url": "https://www.britannica.com/biography/Amelia-Earhart"
         }
       ],
       "images": []
@@ -276,7 +266,7 @@
       "year": "1959",
       "historicalDate": "January 12, 1959",
       "dateNote": null,
-      "summary": "The label that will grow into Motown is founded in Detroit.",
+      "summary": "Gordy starts the Detroit record business that becomes Motown.",
       "description": "On January 12, 1959, Berry Gordy launched Tamla Records, a major step toward transforming American music.",
       "notificationTitle": "The start of the Motown sound",
       "notificationBody": "In 1959, Berry Gordy launched Tamla Records.",
@@ -284,6 +274,10 @@
         {
           "name": "Encyclopaedia Britannica - On This Day: January 12",
           "url": "https://www.britannica.com/on-this-day/January-12"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Motown",
+          "url": "https://www.britannica.com/topic/Motown"
         }
       ],
       "images": []

@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-26-01-31-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "identify-ada-lovelace",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "6ff8d630b8881c5cef6f71a5fb7d706b46ed345b601d07ab3a396294479835ef",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "charles-babbage-born-1791"
+      ],
+      "calendarDay": "12-26",
+      "eventRole": "additional",
+      "relationshipRationale": "The explanation describes Lovelace's 1843 notes on Babbage's Analytical Engine; Britannica's Babbage article covers the same notes.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "identify-hagia-sophia",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "a1ec1dc03372de2b4366ad33deb5fa7179822af40f89e4c81ad8b08886ef7936",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "hagia-sophia-consecrated-537"
+      ],
+      "calendarDay": "12-27",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the image question identifies the monument completed in 537, the year of the featured consecration.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "identify-charles-darwin",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "f2e5cbea6f284b88f1059d38ee64c5597af32763fbb92c04dfeb0d8ac6a4807a",
+      "currentRelatedEventIds": [
+        "beagle-returns-to-england-1836"
+      ],
+      "addRelatedEventIds": [
+        "darwin-sails-on-beagle-1831"
+      ],
+      "calendarDay": "12-27",
+      "eventRole": "additional",
+      "relationshipRationale": "Already related to the Beagle's return (1836); the departure is the start of the same voyage.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "identify-jose-rizal",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "69b5f3bf0caad769fd19aabab498d32d0d6a47486407111d0f4610ef518e9c7d",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "jose-rizal-executed-1896"
+      ],
+      "calendarDay": "12-30",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies the reformer whose execution the event describes.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "amundsen-first-south-pole",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "3ba9e9f11ac1dc2172194b54c917ff9364faa47e4d62b7fe0191643f7aecfcce",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "scott-sets-farthest-south-record-1902"
+      ],
+      "calendarDay": "12-30",
+      "eventRole": "additional",
+      "relationshipRationale": "Scott's 1902 farthest-south record was a step in the race for the pole that Amundsen won in 1911.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "panama-canal-transfer-year",
+      "canonicalPack": "content/quizzes/questions/050-americas-exploration-exchange.json",
+      "canonicalSnapshotSha256": "ad45a7e8e7356a212c6a6467700e8bb7cc79a6b3575879fa7108c287d2eaacab",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "panama-canal-handed-to-panama-1999"
+      ],
+      "calendarDay": "12-31",
+      "eventRole": "additional",
+      "relationshipRationale": "Exact match. The event names the year, so reading the story first reveals the answer; that is learning, not leakage in the quiz itself.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "haitian-revolution-outcome",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "6acaea6fc94f855b249c2d19ca25a3954ebb09a7ea64099b0e4ba55ec45a3db4",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "haiti-declares-independence-1804"
+      ],
+      "calendarDay": "01-01",
+      "eventRole": "additional",
+      "relationshipRationale": "Exact match: the question asks which country declared independence after the revolution in Saint-Domingue.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "alhambra-nasrid-palace",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "3c4e96c78f8fdffede28c37af91f39029c5ca90549bd3b0ae13f9b97e53fcf49",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "granada-surrenders-1492"
+      ],
+      "calendarDay": "01-02",
+      "eventRole": "featured",
+      "relationshipRationale": "The Nasrid dynasty that built the Alhambra ruled the kingdom of Granada that Ferdinand and Isabella captured.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "south-africa-1994-president",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "2db05dce87499f8ee82e6048548f4407f8f7be04b6bb7eb0999a4a2d2a5556a9",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "african-national-congress-founded-1912"
+      ],
+      "calendarDay": "01-08",
+      "eventRole": "featured",
+      "relationshipRationale": "The explanation names the ANC's 1994 election victory, the outcome of the movement founded in 1912.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "versailles-league-created",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "45ded6b90ec168b832a06bfaf97d3f3546cac520ad18a4588eb4eead97a38d2b",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "league-of-nations-established-1920"
+      ],
+      "calendarDay": "01-10",
+      "eventRole": "additional",
+      "relationshipRationale": "Exact match: the question asks which body emerged from the peace conference; the event is its establishment.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "united-states-league-member",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "9ba6d7da818ceb58790f87de4043b0ccec93e7002bb427e3a2b4119c5cf168de",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "league-of-nations-established-1920"
+      ],
+      "calendarDay": "01-10",
+      "eventRole": "additional",
+      "relationshipRationale": "A well-known misconception about the League founded on this day.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "huygens-titan-landing",
+      "canonicalPack": "content/quizzes/questions/150-connected-october-09-15.json",
+      "canonicalSnapshotSha256": "7948762be51ded0be73ae111f9973a00d98cde0469570d64763559d5ce52af4b",
+      "currentRelatedEventIds": [
+        "cassini-launches-to-saturn-1997"
+      ],
+      "addRelatedEventIds": [
+        "huygens-lands-on-titan-2005"
+      ],
+      "calendarDay": "01-14",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the explanation states the January 14, 2005 landing. Already related to Cassini's launch.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-queen-liliuokalani",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "6a451397a7044684816047cc3ca66cef385ffa1590f54080a04bf0a19ebe08f5",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "liliuokalani-deposed-1893"
+      ],
+      "calendarDay": "01-17",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies the last reigning Hawaiian monarch, deposed on this day.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "identify-winston-churchill",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "cb28264f3ffda629729afb31f989a1e32d6313de5742e1ad14dc36cebf02fed1",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "winston-churchill-dies-1965"
+      ],
+      "calendarDay": "01-24",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies the wartime prime minister whose death the event marks.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "india-independence-1947",
+      "canonicalPack": "content/quizzes/questions/030-asia-oceania.json",
+      "canonicalSnapshotSha256": "77d95e4cd80e2d7615ef368a5ed16ae508847282b5e76d338ad3b861c73e3056",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "india-becomes-republic-1950"
+      ],
+      "calendarDay": "01-26",
+      "eventRole": "additional",
+      "relationshipRationale": "Independence in 1947 preceded the 1950 republic; together they mark the end of British rule.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "mozart-death-age",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "0001f692018244363800e4a2ed596e0d2e5c8cb076c8f8fbacc49987746c3900",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "mozart-born-1756"
+      ],
+      "calendarDay": "01-27",
+      "eventRole": "featured",
+      "relationshipRationale": "Mozart's age at death (35) follows from his birth on this day in 1756.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "discovery-sts26-return-to-flight",
+      "canonicalPack": "content/quizzes/questions/090-q8-statehood-science-and-society.json",
+      "canonicalSnapshotSha256": "1c3bf9dc1b6738a29a3ff5514b6c78baf3c4af973a9b10e5eeb8c9bc4018f7cf",
+      "currentRelatedEventIds": [
+        "discovery-return-to-flight-1988"
+      ],
+      "addRelatedEventIds": [
+        "challenger-disaster-1986"
+      ],
+      "calendarDay": "01-28",
+      "eventRole": "additional",
+      "relationshipRationale": "The question is about the return to flight after the Challenger loss; already related to that 1988 flight.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-mahatma-gandhi",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "1f97a0ce1e580884dc10eae70eb74a93e9d8bf58a392489b47f0f791d680535d",
+      "currentRelatedEventIds": [
+        "gandhi-born-1869"
+      ],
+      "addRelatedEventIds": [
+        "gandhi-assassinated-1948"
+      ],
+      "calendarDay": "01-30",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies Gandhi; already related to his birth.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "beatles-home-city",
+      "canonicalPack": "content/quizzes/questions/140-connected-october-02-08.json",
+      "canonicalSnapshotSha256": "c03c00b41f00ff7557124b21cebc62c0bcdb7636183e5a4d78b93204c554c8f1",
+      "currentRelatedEventIds": [
+        "beatles-love-me-do-1962"
+      ],
+      "addRelatedEventIds": [
+        "beatles-rooftop-concert-1969"
+      ],
+      "calendarDay": "01-30",
+      "eventRole": "featured",
+      "relationshipRationale": "Accessible Beatles hook for their last live performance; already related to Love Me Do.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}
