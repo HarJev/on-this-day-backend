@@ -18,13 +18,27 @@ workflow before continuing. This document is not content approval.
 
 | Stage | Status | Evidence / next action |
 | --- | --- | --- |
-| C1: Oct 9-15 event and bank audit | IN_PROGRESS | Started 2026-10-01. |
-| C1b: missing strong events | NOT_STARTED | Research only where a genuinely strong event is missing. |
-| C2/C3a: reuse links | NOT_STARTED | Verify each relation against a directly opened source. |
-| C3b: new question drafts | NOT_STARTED | Draft, source-check and validate. |
-| C3c: Oct 1-8 supplement | NOT_STARTED | Extra hooks for published days; drafts only. |
-| C3d: validation and owner checklist | NOT_STARTED | Strict validators, OWNER_REVIEW.md, draft PR. |
+| C1: Oct 9-15 event and bank audit | COMPLETED | 30 drafts, 4-5 per day, sources and featured choices audited; event batch not edited. 203-question bank searched for reuse. |
+| C1b: missing strong events | COMPLETED | Three `source_verified` supplementary events in `2026-10-09-15-supplementary-events/` (Hangeul 10-09, Greenwich meridian 10-13, King's Nobel 10-14), with `proposed-day-additions.json`. |
+| C2/C3a: reuse links | COMPLETED | Eleven links in `proposed-links.json`, each with a re-read source and snapshot hash. |
+| C3b: new question drafts | COMPLETED | Nineteen drafts in `draft-questions.json` (16 MC, 3 T/F; 7 easy, 12 medium). Every featured story has a hook; 30 hooks total. |
+| C3c: Oct 1-8 supplement | COMPLETED | `2026-10-01-08-connected-quiz-supplement/`: seven drafts and two reuse links for events that had none. |
+| C3d: validation and owner checklist | COMPLETED | Strict validators pass on a scratch merge; review checks pass; checklists in each batch's OWNER_REVIEW.md. |
+| C4: owner review and promotion | NOT_STARTED | Waiting on owner review. Do not promote or import without it. |
 
+Generator: `editorial/tools/connected-quiz/build_oct_cycle.py` rewrites all
+three batches from its records; edit it rather than the JSON by hand.
+
+Evidence (2026-10-01): scratch merge of canonical content, every runway event
+draft, the supplementary events and day additions, both packs as published,
+and all 13 link edits gives `events valid=true quiz valid=true` from
+`editorial/tools/runway/ValidateMerged.java`, with only pre-existing warnings.
+All 90 relations in the merge resolve. `EditorialReviewCheckCommand` passes
+for the three batches. No canonical content, imports, Daily assignments,
+deployments, uploads or cloud resources changed.
+
+Owner review files: `editorial/batches/2026-10-09-15-connected-quiz/OWNER_REVIEW.md`
+and `editorial/batches/2026-10-01-08-connected-quiz-supplement/OWNER_REVIEW.md`.
 If this cycle is interrupted, the next worker resumes at the first stage not
 marked COMPLETED and rechecks main for concurrent content changes first.
 

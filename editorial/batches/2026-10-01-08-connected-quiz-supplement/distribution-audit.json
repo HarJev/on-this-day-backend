@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-08-connected-quiz-supplement",
+  "auditedOn": "2026-10-01",
+  "state": "editorial_only_awaiting_owner_content_approval",
+  "newQuestionCount": 7,
+  "reusedQuestionCount": 2,
+  "proposedNewRelationCount": 9,
+  "newQuestionTypes": {
+    "multiple_choice": 7
+  },
+  "newQuestionDifficulties": {
+    "medium": 5,
+    "easy": 2
+  },
+  "hookTypes": {
+    "multiple_choice": 9
+  },
+  "hookDifficulties": {
+    "medium": 6,
+    "easy": 2,
+    "hard": 1
+  },
+  "newMultipleChoiceCorrectPositions": {
+    "1": 1,
+    "2": 2,
+    "3": 1,
+    "4": 3
+  },
+  "newTrueFalseAnswers": {},
+  "hookCollectionMemberships": {
+    "leaders-and-power": 4,
+    "revolutions": 1,
+    "society-culture-and-ideas": 2,
+    "wars-and-conflicts": 2
+  },
+  "regionTagMemberships": {
+    "africa": 2,
+    "asia": 2,
+    "americas": 2,
+    "europe": 4,
+    "middle-east": 2
+  },
+  "eraTagMemberships": {
+    "decolonization": 1,
+    "1945-present": 3,
+    "1800-1945": 3,
+    "early-modern": 2,
+    "cold-war": 1
+  },
+  "calendarDayHookCounts": {
+    "10-01": 2,
+    "10-02": 1,
+    "10-04": 2,
+    "10-05": 1,
+    "10-06": 1,
+    "10-07": 1,
+    "10-08": 1
+  }
+}

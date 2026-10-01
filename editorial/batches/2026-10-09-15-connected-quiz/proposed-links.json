@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "xinhai-revolution-qing-dynasty",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "a561ca7f96af27d0730f6294eb1df917ea941f129b2bdd31250092f6cae60571",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "wuchang-uprising-1911"
+      ],
+      "calendarDay": "10-10",
+      "eventRole": "featured",
+      "relationshipRationale": "Britannica regards the October 10 Wuchang mutiny as the formal beginning of the revolution that overthrew the Qing. The question asks which dynasty that revolution ended.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-sun-yat-sen",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "b6c86848c7260e12d1f74155752ef431f0c9c691a98081b7633c4ab721a7ec40",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "wuchang-uprising-1911"
+      ],
+      "calendarDay": "10-10",
+      "eventRole": "featured",
+      "relationshipRationale": "Britannica: after the Wuchang rising Sun returned from abroad and was elected provisional president. The portrait identifies the revolution's best-known leader.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "order-pacific-independence-milestones",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "330d4fb865fdf59ea0032f734f4bae87eca65e9409264c673b76a84fe5bcae3c",
+      "currentRelatedEventIds": [
+        "papua-new-guinea-independence-1975"
+      ],
+      "addRelatedEventIds": [
+        "fiji-independence-1970"
+      ],
+      "calendarDay": "10-10",
+      "eventRole": "additional",
+      "relationshipRationale": "The ordering includes 'Fiji becomes independent' (1970), the event itself.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-americas-milestones",
+      "canonicalPack": "content/quizzes/questions/050-americas-exploration-exchange.json",
+      "canonicalSnapshotSha256": "0aad40d62db52b483f206629fad1ccb9f6107cdb0ac013531271e641e1a87ced",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "columbus-sights-land-1492"
+      ],
+      "calendarDay": "10-12",
+      "eventRole": "additional",
+      "relationshipRationale": "The ordering includes 'Columbus reaches the Caribbean' (1492), the landfall itself.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "columbian-exchange-meaning",
+      "canonicalPack": "content/quizzes/questions/050-americas-exploration-exchange.json",
+      "canonicalSnapshotSha256": "2947c90c2406dda179ab69361b97e07ced966a67697b589b948be5dd18e03835",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "columbus-sights-land-1492"
+      ],
+      "calendarDay": "10-12",
+      "eventRole": "additional",
+      "relationshipRationale": "The exchange named after Columbus began with the 1492 crossing; the question explains its consequences rather than the landfall.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "voskhod-1-multiperson-crew",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "5c11af29a1071efa8c3100f5056a0da243bb0fccd136c2234390281eba498cac",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "voskhod-1-launches-1964"
+      ],
+      "calendarDay": "10-12",
+      "eventRole": "additional",
+      "relationshipRationale": "Exact match: the question asks which spacecraft first carried a multi-person crew. Hard; kept as published.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-african-independence-1960s",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "1031935a0b0751909f2c6365ff8714df194164d5e84508e59975f7243998ecd8",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "equatorial-guinea-independence-1968"
+      ],
+      "calendarDay": "10-12",
+      "eventRole": "featured",
+      "relationshipRationale": "The ordering includes 'Equatorial Guinea becomes independent' (October 12, 1968), the featured event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "chile-miners-days-underground",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "8b78cd548e0339627c3645c27560f807f4a7c1375494ec751d0525a47f609910",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "chilean-miners-rescued-2010"
+      ],
+      "calendarDay": "10-13",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match on the rescue. The event summary states 69 days, so reading the story first reveals the answer; that is learning, not leakage in the quiz itself.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-napoleon-bonaparte",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "6285c9cdeffbc75bd0f8a6a7b43f65f042765c4af77f79e0afce02d6f758d0e5",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "battles-of-jena-auerstedt-1806"
+      ],
+      "calendarDay": "10-14",
+      "eventRole": "additional",
+      "relationshipRationale": "Britannica names Napoleon as the victor at Jena-Auerstedt. The 1812 portrait identifies him without depending on the battle.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "identify-martin-luther-king-jr",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "add756d5c3fb556ed182c9ffd24e0638ceba72324f6685c5f1ee7891e41e86a6",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "mlk-awarded-nobel-peace-prize-1964"
+      ],
+      "calendarDay": "10-14",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "order-korean-cultural-printing-milestones",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "b47fc95a941288044b794dcb474d26f0cdf97a9e1c6cfad34d21d43a2f8baf8b",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "hangeul-proclaimed-1446"
+      ],
+      "calendarDay": "10-09",
+      "eventRole": "additional",
+      "relationshipRationale": "The ordering ends with 'Hunminjeongeum is published' (1446), the event itself. Depends on the proposed supplementary event.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}

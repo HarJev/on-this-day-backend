@@ -1,0 +1,70 @@
+{
+  "events": [
+    {
+      "id": "hangeul-proclaimed-1446",
+      "title": "King Sejong proclaims the Korean alphabet",
+      "year": "1446",
+      "historicalDate": "October 9, 1446",
+      "dateNote": "The Hunminjeongeum was published in the ninth lunar month of 1446; South Korea marks the anniversary as Hangeul Day on October 9.",
+      "summary": "The Hunminjeongeum introduces Hangeul, a new alphabet for writing Korean.",
+      "description": "On October 9, 1446, as South Korea reckons the date, King Sejong the Great proclaimed the Korean alphabet in the Hunminjeongeum, 'the proper sounds for instructing the people.' His scholars had completed the script in 1443 so that ordinary people could read and write more easily than with Chinese characters.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Korea.net - The story of Hangeul",
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583"
+        },
+        {
+          "name": "UNESCO Memory of the World - Hunminjeongum manuscript",
+          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "prime-meridian-greenwich-1884",
+      "title": "Greenwich is chosen as the prime meridian",
+      "year": "1884",
+      "historicalDate": "October 13, 1884",
+      "dateNote": null,
+      "summary": "An international conference votes for the meridian through Greenwich as the world's zero of longitude.",
+      "description": "On October 13, 1884, the International Meridian Conference in Washington, D.C., voted 21 to 1, with two abstentions, to propose the meridian through the Royal Observatory at Greenwich as the standard for longitude. It became the basis of the world's time zones.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Project Gutenberg - Protocols of the International Meridian Conference (1884)",
+          "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm"
+        },
+        {
+          "name": "Encyclopaedia Britannica - International Prime Meridian Conference",
+          "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mlk-awarded-nobel-peace-prize-1964",
+      "title": "Martin Luther King Jr. is named winner of the Nobel Peace Prize",
+      "year": "1964",
+      "historicalDate": "October 14, 1964",
+      "dateNote": null,
+      "summary": "The civil rights leader is honored for his nonviolent struggle against racial discrimination.",
+      "description": "On October 14, 1964, Martin Luther King Jr. was named the winner of the Nobel Peace Prize. The prize recognized his nonviolent struggle for civil rights for Black Americans.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day, October 14",
+          "url": "https://www.britannica.com/on-this-day/October-14"
+        },
+        {
+          "name": "NobelPrize.org - Martin Luther King Jr., Facts",
+          "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-08-connected-quiz-supplement",
+  "entries": [
+    {
+      "candidateId": "nigeria-capital-at-independence",
+      "canonicalId": "nigeria-capital-at-independence",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Lagos-Nigeria",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'In 1960 Lagos became the capital of independent Nigeria'; Abuja replaced it as federal capital in December 1991."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Abuja, today's capital, is the deliberate trap; the question rewards knowing the country's history rather than the independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "prc-proclamation-tiananmen",
+      "canonicalId": "prc-proclamation-tiananmen",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "PRC Foreign Ministry: at 3 pm on October 1, 1949, Mao Zedong proclaimed the founding of the Central People's Government on the Tian'anmen Gate Tower."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A recognizable landmark tied to the proclamation; all four options are historic Beijing sites. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "snoopy-comic-strip",
+      "canonicalId": "snoopy-comic-strip",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://schulzmuseum.org/about-schulz/schulz-biography/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Schulz Museum: the first Peanuts strip appeared on October 2, 1950; describes Snoopy's evolution and rising popularity within the strip."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Light, widely recognized hook for an imageless event; all four are long-running newspaper strips. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "mount-rushmore-not-carved",
+      "canonicalId": "mount-rushmore-not-carved",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/moru/index.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NPS: the memorial's figures are George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln."
+        },
+        {
+          "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NPS: carving ran from October 4, 1927 to October 31, 1941."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays on the familiar Theodore/Franklin Roosevelt mix-up without listing Theodore. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "night-watch-painter",
+      "canonicalId": "night-watch-painter",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Rembrandt died October 4, 1669; the Night Watch (1640/42), a commissioned militia group portrait, was a turning point in his work."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Identifies his most famous work instead of his death; all four options are Dutch painters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lepanto-wounded-writer",
+      "canonicalId": "lepanto-wounded-writer",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Lepanto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: October 7, 1571, Holy League against the Ottoman Turks; the allies had about 8,000 wounded, 'among them Miguel de Cervantes.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Miguel-de-Cervantes",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Spanish novelist, creator of Don Quixote; sailed with Don Juan de Austria's fleet that engaged the enemy on October 7 [1571] in the Gulf of Lepanto."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable human link to a remote battle; distractors are contemporary European writers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "opium-war-ceded-island",
+      "canonicalId": "opium-war-ceded-island",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Opium-Wars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the Treaty of Nanjing (1842) required China to cede Hong Kong Island to the British; the supplementary Treaty of the Bogue was signed October 8, 1843."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Gives the treaty's lasting consequence rather than clause recall; Macau is the nearby Portuguese-held trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "link-camp-david-egyptian-president",
+      "canonicalId": "camp-david-egyptian-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Anwar-Sadat",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Sadat died October 6, 1981, assassinated in Cairo; Carter mediated the Sadat-Begin negotiations that produced the Camp David Accords (1978)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-ferdinand-bulgarian-independence",
+      "canonicalId": "ferdinand-bulgarian-independence",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 5, 1908, Ferdinand proclaimed Bulgaria's full independence from the Ottoman Empire and assumed the title of king, or tsar."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    }
+  ]
+}

@@ -1,0 +1,782 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-connected-quiz",
+  "entries": [
+    {
+      "candidateId": "upu-founding-city-bern",
+      "canonicalId": "upu-founding-city-bern",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "UPU history: on 9 October 1874 the Treaty of Bern establishing the General Postal Union was signed; the day is now celebrated as World Post Day."
+        },
+        {
+          "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Swiss National Museum: delegates of the International Postal Congress, from 22 countries, convened in Bern's former guild hall for the last meeting on 9 October 1874."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "kepler-supernova-last-naked-eye",
+      "canonicalId": "kepler-supernova-last-naked-eye",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: first observed on Oct. 9, 1604; 'the last known supernova to occur in the Milky Way Galaxy' and the last visible to the naked eye until 1987 (SN 1987A, in the Large Magellanic Cloud)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the 1604 sighting still matters; the 1987 supernova is the natural misconception. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "che-guevara-birth-country",
+      "canonicalId": "che-guevara-birth-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Che-Guevara",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born June 14, 1928, Rosario, Argentina - died October 9, 1967, La Higuera, Bolivia'; Argentine-Cuban revolutionary."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "hangeul-earlier-writing",
+      "canonicalId": "hangeul-earlier-writing",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=145583",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Korea.net: Sejong's scholars created the alphabet in 1443; the Hunminjeongeum was published and officially proclaimed in 1446; Hanja (Chinese characters) were hard for people who did not speak Chinese; Hangeul Day is celebrated annually on Oct. 9."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the new alphabet mattered; depends on the proposed supplementary event hangeul-proclaimed-1446. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "outer-space-treaty-prohibition",
+      "canonicalId": "outer-space-treaty-prohibition",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://2009-2017.state.gov/t/isn/5181.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "State Department text: entered into force October 10, 1967; Art. I outer space incl. the Moon free for exploration and scientific investigation by all States; Art. II not subject to national appropriation by claim of sovereignty; Art. IV no nuclear weapons in orbit."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the treaty's best-known principle rather than its date; the three permitted activities are explicitly free under Article I. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "apollo-7-flew-around-moon",
+      "canonicalId": "apollo-7-flew-around-moon",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/apollo-7/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: the first crewed flight of the Apollo program, a crewed orbital flight, Oct. 11-22, 1968, with Schirra, Eisele and Cunningham."
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-8/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: launched Dec. 21, 1968; Borman, Lovell and Anders were the first humans to orbit the Moon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a natural assumption about the first crewed Apollo flight without asking for crew names or dates. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "vatican-ii-mass-language",
+      "canonicalId": "vatican-ii-mass-language",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Second-Vatican-Council",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the Constitution on the Sacred Liturgy 'authorized the use of vernacular languages instead of Latin in the celebration of mass.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The council's most widely felt change; Italian is a tempting distractor because of the Vatican's location. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "mary-rose-monarch",
+      "canonicalId": "mary-rose-monarch",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://maryrose.org/discover/history/recovering-the-mary-rose/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Mary Rose Trust: Henry VIII's ship returned to Portsmouth; she served for 34 years before sinking; raised on 11 October 1982."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects the 1982 recovery to the Tudor king, a recognizable anchor. All four options are English monarchs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "equatorial-guinea-colonial-power",
+      "canonicalId": "equatorial-guinea-colonial-power",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/equatorial-guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Office of the Historian: 'On October 12, 1968, Equatorial Guinea gained independence from Spain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Same accessible pattern as the published Malta question; all four were colonial powers in Africa. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "oktoberfest-original-celebration",
+      "canonicalId": "oktoberfest-original-celebration",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Oktoberfest",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the festival originated on October 12, 1810, in celebration of the marriage of the Bavarian crown prince (later King Louis I) to Princess Therese."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A fun origin story; the harvest is the common assumption. The coronation distractor is separate from the wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "templars-original-purpose",
+      "canonicalId": "templars-original-purpose",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Templars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Originally founded to protect Christian pilgrims to the Holy Land'; Philip IV ordered the arrest of every Templar in France on October 13, 1307."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks why the order existed instead of the arrest details; the French-king distractor echoes the event without being correct. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "white-house-first-president",
+      "canonicalId": "white-house-first-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.whitehousehistory.org/building-the-white-house",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "WHHA: construction began with a cornerstone on October 13, 1792; President John Adams moved into the residence on November 1, 1800."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/October-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the White House cornerstone was laid in 1792; it has been home to every U.S. president since 1800, when John and Abigail Adams moved in."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Classic misconception: Washington oversaw construction but the house was first occupied in 1800. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "prime-meridian-greenwich",
+      "canonicalId": "prime-meridian-greenwich",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.gutenberg.org/files/17759/17759-h/17759-h.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Official protocols, session of October 13, 1884: the resolution proposing the meridian through the transit instrument at the Observatory of Greenwich as the initial meridian for longitude passed, ayes 21, noes 1 (San Domingo), abstaining 2 (Brazil, France)."
+        },
+        {
+          "url": "https://www.britannica.com/topic/International-Prime-Meridian-Conference",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: the 1884 conference designated the meridian through the Royal Observatory in Greenwich as the prime meridian (0 degrees longitude); it became the basis of the world's time zone system."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Depends on the proposed supplementary event prime-meridian-greenwich-1884. Washington (the host city) and Paris (France's rival meridian) are deliberate near-misses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "bayeux-tapestry-hastings",
+      "canonicalId": "bayeux-tapestry-hastings",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Bayeux-Tapestry",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: a band of embroidered linen from the Middle Ages depicting more than 70 scenes of the Norman Conquest of England in 1066, including the Battle of Hastings."
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Hastings",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: battle on October 14, 1066, in which William of Normandy defeated Harold II; illustrated with Bayeux Tapestry scenes of the battle."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The best-known artwork tied to the battle; text-only, so no new image rights or delivery are needed. Distractors are other famous medieval tapestries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "yeager-x1-runway-takeoff",
+      "canonicalId": "yeager-x1-runway-takeoff",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Chuck-Yeager",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 14, 1947, Yeager rode the X-1, attached to a B-29 mother ship, to 25,000 feet; the X-1 then rocketed separately to 40,000 feet and broke the sound barrier."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising detail of how the record flight worked, rather than the speed figure. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "cuban-missile-crisis-president",
+      "canonicalId": "cuban-missile-crisis-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "National Archives: the October 14, 1962 U-2 flight photographed Soviet missile installations in Cuba; in a televised address on October 22, 1962, President Kennedy informed Americans of the missile sites."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Anchors the reconnaissance flight in the crisis most players know; options are the four consecutive Cold War presidents. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "shenzhou-5-earlier-nations",
+      "canonicalId": "shenzhou-5-earlier-nations",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Shenzhou",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 15, 2003, Shenzhou 5 carried Yang Liwei; China became the third country, after the Soviet Union and the United States, to achieve human spaceflight."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places China's milestone in the global space race; each distractor pairs a real space power with a country that had not launched a person. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "huygens-titan-landing",
+      "canonicalId": "huygens-titan-landing",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: the Huygens probe successfully landed on Saturn's largest moon Titan on January 14, 2005."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The mission's headline achievement; all four options are moons of Saturn. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gregorian-century-leap-year",
+      "canonicalId": "gregorian-century-leap-year",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Gregorian-calendar",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: proclaimed in 1582 as a reform of the Julian calendar; 'no century year is a leap year unless it is exactly divisible by 400 (e.g., 1600 and 2000).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the reform's lasting rule rather than the 1582 date or the pope's name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "link-xinhai-revolution-qing-dynasty",
+      "canonicalId": "xinhai-revolution-qing-dynasty",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 10 a mutiny broke out among the troops in Wuchang, 'regarded as the formal beginning of the revolution' that overthrew the Qing dynasty in 1912; Sun Yat-sen returned from abroad and was elected provisional president."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-identify-sun-yat-sen",
+      "canonicalId": "identify-sun-yat-sen",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 10 a mutiny broke out among the troops in Wuchang, 'regarded as the formal beginning of the revolution' that overthrew the Qing dynasty in 1912; Sun Yat-sen returned from abroad and was elected provisional president."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Sun-Yat-sen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: influential in overthrowing the Qing dynasty (1911/12); first provisional president of the Republic of China (1911-12)."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-order-pacific-independence-milestones",
+      "canonicalId": "order-pacific-independence-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://thecommonwealth.org/our-member-countries/fiji",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Commonwealth: Fiji joined the Commonwealth in 1970 following independence from Britain, matching the 1970 item in the ordering question."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-order-americas-milestones",
+      "canonicalId": "order-americas-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Christopher-Columbus",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 12 [1492] land was sighted from the Pinta; the first Caribbean landfall, Guanahani, is usually identified with San Salvador in the Bahamas."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-columbian-exchange-meaning",
+      "canonicalId": "columbian-exchange-meaning",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Essay: the wave of biological exchange did not begin until 1492, when Europeans initiated contacts across the Atlantic that never ceased."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-voskhod-1-multiperson-crew",
+      "canonicalId": "voskhod-1-multiperson-crew",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/Voskhod-spacecraft",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on October 12, 1964, Voskhod 1 carried three cosmonauts into Earth orbit; chronology lists it as the first multiperson spacecraft."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-order-african-independence-1960s",
+      "canonicalId": "order-african-independence-1960s",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/equatorial-guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Office of the Historian: 'On October 12, 1968, Equatorial Guinea gained independence from Spain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-chile-miners-days-underground",
+      "canonicalId": "chile-miners-days-underground",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: rescue of 33 workers on October 13, 2010, 69 days after the mine's collapse on August 5; 17 days without contact."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    },
+    {
+      "candidateId": "link-identify-napoleon-bonaparte",
+      "canonicalId": "identify-napoleon-bonaparte",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Jena",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: October 14, 1806, at Jena and Auerstadt; 'Napoleon smashed the outdated Prussian army'; he completed his conquest of Prussia within six weeks."
+        },
+        {
+          "url": "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing approved source of the portrait question; identifies the sitter as Napoleon. Not re-fetched; inherited from the image ledger."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-martin-luther-king-jr",
+      "canonicalId": "identify-martin-luther-king-jr",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NobelPrize.org: Nobel Peace Prize 1964; prize motivation 'for his non-violent struggle for civil rights for the Afro-American population'."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-order-korean-cultural-printing-milestones",
+      "canonicalId": "order-korean-cultural-printing-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.unesco.org/en/memory-world/hunminjeongum-manuscript",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "UNESCO: the manuscript, published in the ninth lunar month of 1446, contains Sejong the Great's promulgation of the Korean alphabet; the alphabet was completed in 1443."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+    }
+  ]
+}

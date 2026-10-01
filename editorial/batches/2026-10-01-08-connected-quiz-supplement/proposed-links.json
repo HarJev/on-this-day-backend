@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-08-connected-quiz-supplement",
+  "existingQuestionLinks": [
+    {
+      "questionId": "camp-david-egyptian-president",
+      "canonicalPack": "content/quizzes/questions/090-q8-statehood-science-and-society.json",
+      "canonicalSnapshotSha256": "0efd938bb047c4c1660f453e2d8c59e3d7b57934bf4853bbda60d5cb09c4592f",
+      "currentRelatedEventIds": [
+        "camp-david-accords-signed-1978"
+      ],
+      "addRelatedEventIds": [
+        "anwar-sadat-assassinated-1981"
+      ],
+      "calendarDay": "10-06",
+      "eventRole": "additional",
+      "relationshipRationale": "Britannica covers both the 1978 Camp David Accords and Sadat's 1981 assassination. The question names the peace-making president the event describes.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "ferdinand-bulgarian-independence",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "48d4763d344e71de7ac713aa11e6347b661c611687aa038038a77ad5fc81a342",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "bulgaria-declares-independence-1908"
+      ],
+      "calendarDay": "10-05",
+      "eventRole": "additional",
+      "relationshipRationale": "Exact match. The October 2-8 slate reserved it because it is hard and name-heavy; proposed now as supplementary supply, not as the day's accessible hook.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}
