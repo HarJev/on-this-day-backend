@@ -26,7 +26,7 @@
         }
       ],
       "correctOptionId": "lagos",
-      "explanation": "Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's leading commercial city.",
+      "explanation": "Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's largest city.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - Lagos",
@@ -57,7 +57,7 @@
         },
         {
           "id": "tiananmen",
-          "text": "Tiananmen, the Gate of Heavenly Peace"
+          "text": "Tiananmen Gate"
         },
         {
           "id": "drum-tower",

@@ -54,6 +54,9 @@ SRC = {
     "https://2009-2017.state.gov/t/isn/5181.htm": (
         "U.S. Department of State (archive) - Outer Space Treaty",
         "State Department text: entered into force October 10, 1967; Art. I outer space incl. the Moon free for exploration and scientific investigation by all States; Art. II not subject to national appropriation by claim of sovereignty; Art. IV no nuclear weapons in orbit."),
+    "https://www.britannica.com/event/Outer-Space-Treaty": (
+        BR + "Outer Space Treaty",
+        "Britannica: 'Nations cannot claim sovereignty over the Moon or other celestial bodies'; the treaty came into force on October 10, 1967."),
     "https://www.britannica.com/event/Chinese-Revolution-1911-1912": (
         BR + "Chinese Revolution (1911-12)",
         "Britannica: on October 10 a mutiny broke out among the troops in Wuchang, 'regarded as the formal beginning of the revolution' that overthrew the Qing dynasty in 1912; Sun Yat-sen returned from abroad and was elected provisional president."),
@@ -81,8 +84,8 @@ SRC = {
     "https://www.britannica.com/topic/Oktoberfest": (
         BR + "Oktoberfest",
         "Britannica: the festival originated on October 12, 1810, in celebration of the marriage of the Bavarian crown prince (later King Louis I) to Princess Therese."),
-    "https://www.britannica.com/biography/Christopher-Columbus": (
-        BR + "Christopher Columbus",
+    "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage": (
+        BR + "Christopher Columbus: The first voyage",
         "Britannica: on October 12 [1492] land was sighted from the Pinta; the first Caribbean landfall, Guanahani, is usually identified with San Salvador in the Bahamas."),
     "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm": (
         "National Humanities Center - The Columbian Exchange",
@@ -128,7 +131,7 @@ SRC = {
         "Britannica, 1964 entry: Martin Luther King, Jr., was named the winner of the Nobel Prize for Peace, cited for his work involving civil rights and social justice."),
     "https://www.britannica.com/topic/Shenzhou": (
         BR + "Shenzhou",
-        "Britannica: on October 15, 2003, Shenzhou 5 carried Yang Liwei; China became the third country, after the Soviet Union and the United States, to achieve human spaceflight."),
+        "Britannica: on October 15, 2003, Shenzhou 5 carried Yang Liwei; 'China thus became the third country after Russia and the United States to launch a crewed spacecraft' (Russia here meaning the Soviet program, which flew first in 1961)."),
     "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/": (
         "NASA Science - Huygens probe",
         "NASA: the Huygens probe successfully landed on Saturn's largest moon Titan on January 14, 2005."),
@@ -141,7 +144,7 @@ SRC = {
     # October 1-8 supplement
     "https://www.britannica.com/place/Lagos-Nigeria": (
         BR + "Lagos",
-        "Britannica: 'In 1960 Lagos became the capital of independent Nigeria'; Abuja replaced it as federal capital in December 1991."),
+        "Britannica: 'In 1960 Lagos became the capital of independent Nigeria'; Abuja replaced it as federal capital in December 1991; Lagos is Nigeria's largest city."),
     "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html": (
         "Ministry of Foreign Affairs of the PRC - Founding of New China",
         "PRC Foreign Ministry: at 3 pm on October 1, 1949, Mao Zedong proclaimed the founding of the Central People's Government on the Tian'anmen Gate Tower."),
@@ -241,7 +244,7 @@ OCT_09_15 = [
          ("research-moon", "Carry out scientific research on the Moon"),
          ("launch-satellites", "Launch satellites into Earth orbit")], "claim-moon",
         "The treaty says outer space, including the Moon, is not subject to national appropriation by claim of sovereignty. Exploration and scientific investigation remain free for all states.",
-        ["https://2009-2017.state.gov/t/isn/5181.htm"],
+        ["https://2009-2017.state.gov/t/isn/5181.htm", "https://www.britannica.com/event/Outer-Space-Treaty"],
         ["science-and-innovation"], ["outer-space-treaty-enters-force-1967"]),
      "10-10", "additional", ["global"], ["space-age", "cold-war"],
      "Tests the treaty's best-known principle rather than its date; the three permitted activities are explicitly free under Article I."),
@@ -373,7 +376,7 @@ LINKS_09_15 = [
      ["https://thecommonwealth.org/our-member-countries/fiji"],
      "The ordering includes 'Fiji becomes independent' (1970), the event itself.", None),
     ("order-americas-milestones", "columbus-sights-land-1492", "10-12", "additional", ["americas", "europe"], ["early-modern"],
-     ["https://www.britannica.com/biography/Christopher-Columbus"],
+     ["https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage"],
      "The ordering includes 'Columbus reaches the Caribbean' (1492), the landfall itself.", None),
     ("columbian-exchange-meaning", "columbus-sights-land-1492", "10-12", "additional", ["americas", "europe"], ["early-modern"],
      ["https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm"],
@@ -415,7 +418,7 @@ OCT_01_08 = [
     (mc("nigeria-capital-at-independence", "medium",
         "Which city was Nigeria's capital when the country became independent in 1960?",
         [("abuja", "Abuja"), ("lagos", "Lagos"), ("kano", "Kano"), ("ibadan", "Ibadan")], "lagos",
-        "Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's leading commercial city.",
+        "Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's largest city.",
         ["https://www.britannica.com/place/Lagos-Nigeria"],
         ["leaders-and-power"], ["nigeria-independence-1960"]),
      "10-01", "additional", ["africa"], ["decolonization", "1945-present"],
@@ -423,7 +426,7 @@ OCT_01_08 = [
     (mc("prc-proclamation-tiananmen", "medium",
         "From which Beijing landmark did Mao Zedong proclaim the People's Republic of China in 1949?",
         [("temple-of-heaven", "The Temple of Heaven"), ("summer-palace", "The Summer Palace"),
-         ("tiananmen", "Tiananmen, the Gate of Heavenly Peace"), ("drum-tower", "The Drum Tower")], "tiananmen",
+         ("tiananmen", "Tiananmen Gate"), ("drum-tower", "The Drum Tower")], "tiananmen",
         "On October 1, 1949, Mao proclaimed the founding of the new government from the Tiananmen Gate Tower in Beijing.",
         ["https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"],
         ["revolutions"], ["peoples-republic-china-proclaimed-1949"]),

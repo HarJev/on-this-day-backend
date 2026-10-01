@@ -47,7 +47,7 @@ C. Kano
 
 D. Ibadan
 
-**Explanation:** Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's leading commercial city.
+**Explanation:** Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's largest city.
 
 **Type:** multiple choice. **Difficulty:** medium. **Date:** 10-01.
 **Related event:** `nigeria-independence-1960`.
@@ -62,7 +62,7 @@ A. The Temple of Heaven
 
 B. The Summer Palace
 
-C. Tiananmen, the Gate of Heavenly Peace **(correct)**
+C. Tiananmen Gate **(correct)**
 
 D. The Drum Tower
 

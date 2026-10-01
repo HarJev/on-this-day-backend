@@ -188,7 +188,7 @@ D. Launch satellites into Earth orbit
 **Type:** multiple choice. **Difficulty:** medium. **Date:** 10-10.
 **Related event:** `outer-space-treaty-enters-force-1967`.
 
-Sources: [U.S. Department of State (archive) - Outer Space Treaty](https://2009-2017.state.gov/t/isn/5181.htm).
+Sources: [U.S. Department of State (archive) - Outer Space Treaty](https://2009-2017.state.gov/t/isn/5181.htm); [Encyclopaedia Britannica - Outer Space Treaty](https://www.britannica.com/event/Outer-Space-Treaty).
 
 ### 7. apollo-7-flew-around-moon
 

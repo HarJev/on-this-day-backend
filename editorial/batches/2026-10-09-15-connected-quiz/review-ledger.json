@@ -140,6 +140,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "State Department text: entered into force October 10, 1967; Art. I outer space incl. the Moon free for exploration and scientific investigation by all States; Art. II not subject to national appropriation by claim of sovereignty; Art. IV no nuclear weapons in orbit."
+        },
+        {
+          "url": "https://www.britannica.com/event/Outer-Space-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'Nations cannot claim sovereignty over the Moon or other celestial bodies'; the treaty came into force on October 10, 1967."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -426,7 +432,7 @@
           "url": "https://www.britannica.com/topic/Shenzhou",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica: on October 15, 2003, Shenzhou 5 carried Yang Liwei; China became the third country, after the Soviet Union and the United States, to achieve human spaceflight."
+          "note": "Britannica: on October 15, 2003, Shenzhou 5 carried Yang Liwei; 'China thus became the third country after Russia and the United States to launch a crewed spacecraft' (Russia here meaning the Soviet program, which flew first in 1961)."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -574,7 +580,7 @@
       "reviewStatus": "source_verified",
       "sourceChecks": [
         {
-          "url": "https://www.britannica.com/biography/Christopher-Columbus",
+          "url": "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica: on October 12 [1492] land was sighted from the Pinta; the first Caribbean landfall, Guanahani, is usually identified with San Salvador in the Bahamas."
