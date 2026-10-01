@@ -1,0 +1,1586 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-08-04-12-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "fight-of-the-century-winner",
+      "kind": "quiz",
+      "proposedCanonicalId": "fight-of-the-century-winner",
+      "workingClaim": "In the 1971 'Fight of the Century', who beat Muhammad Ali to keep the world heavyweight title? Answer: Joe Frazier. Proposed featured link on 03-08: frazier-defeats-ali-1971. Exact match on the featured fight; the distractors are other famous Ali opponents.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-8"
+      ]
+    },
+    {
+      "candidateId": "february-revolution-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "february-revolution-city",
+      "workingClaim": "Russia's February Revolution of 1917 began with rioting in which city? Answer: Petrograd. Proposed additional link on 03-08: february-revolution-begins-1917. Moscow, the later Soviet capital, is the natural guess.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-8",
+        "https://www.britannica.com/event/February-Revolution"
+      ]
+    },
+    {
+      "candidateId": "nyse-buttonwood-tree",
+      "kind": "quiz",
+      "proposedCanonicalId": "nyse-buttonwood-tree",
+      "workingClaim": "The New York Stock Exchange grew out of a 1792 meeting of brokers under what kind of tree? Answer: Buttonwood. Proposed additional link on 03-08: new-york-stock-exchange-constituted-1817. Other common city trees as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/New-York-Stock-Exchange"
+      ]
+    },
+    {
+      "candidateId": "senate-cloture-filibuster",
+      "kind": "quiz",
+      "proposedCanonicalId": "senate-cloture-filibuster",
+      "workingClaim": "The cloture rule adopted by the US Senate in 1917 was designed to limit filibusters. Answer: True. Proposed additional link on 03-08: senate-adopts-cloture-1917. Tests the meaning of cloture.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-8"
+      ]
+    },
+    {
+      "candidateId": "barbie-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "barbie-company",
+      "workingClaim": "Which toy company introduced the Barbie doll in 1959? Answer: Mattel. Proposed featured link on 03-09: barbie-debuts-1959. Exact match on the featured debut; other big toy makers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Barbie"
+      ]
+    },
+    {
+      "candidateId": "barbie-full-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "barbie-full-name",
+      "workingClaim": "What is Barbie's full fictional name? Answer: Barbara Millicent Roberts. Proposed featured link on 03-09: barbie-debuts-1959. A playful detail; 'Handler' echoes the doll's creator.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Barbie"
+      ]
+    },
+    {
+      "candidateId": "monitor-virginia-ship-type",
+      "kind": "quiz",
+      "proposedCanonicalId": "monitor-virginia-ship-type",
+      "workingClaim": "The Monitor and the Virginia, which fought at Hampton Roads in 1862, were the first warships of what kind to battle each other? Answer: Ironclads. Proposed additional link on 03-09: monitor-and-virginia-battle-1862. Other warship types, all later or different.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-9"
+      ]
+    },
+    {
+      "candidateId": "fischer-1972-opponent",
+      "kind": "quiz",
+      "proposedCanonicalId": "fischer-1972-opponent",
+      "workingClaim": "Bobby Fischer won the world chess championship in 1972 by defeating which Soviet player? Answer: Boris Spassky. Proposed additional link on 03-09: bobby-fischer-born-1943. Other Soviet world champions as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Bobby-Fischer"
+      ]
+    },
+    {
+      "candidateId": "bell-first-call-assistant",
+      "kind": "quiz",
+      "proposedCanonicalId": "bell-first-call-assistant",
+      "workingClaim": "In 1876, Alexander Graham Bell's first intelligible telephone words summoned which assistant? Answer: Thomas A. Watson. Proposed featured link on 03-10: bell-first-telephone-speech-1876. Exact match on the featured call; other inventors of the era as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Alexander-Graham-Bell"
+      ]
+    },
+    {
+      "candidateId": "bell-speech-before-patent",
+      "kind": "quiz",
+      "proposedCanonicalId": "bell-speech-before-patent",
+      "workingClaim": "Bell transmitted intelligible speech by telephone before he received his telephone patent. Answer: False. Proposed featured link on 03-10: bell-first-telephone-speech-1876. Surprising order: patent first, working speech three days later.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Alexander-Graham-Bell"
+      ]
+    },
+    {
+      "candidateId": "park-geun-hye-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "park-geun-hye-country",
+      "workingClaim": "Park Geun-hye, removed from office when a constitutional court upheld her impeachment in 2017, was president of which country? Answer: South Korea. Proposed additional link on 03-10: park-geun-hye-removed-2017. Neighboring democracies as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-10"
+      ]
+    },
+    {
+      "candidateId": "mro-planet",
+      "kind": "quiz",
+      "proposedCanonicalId": "mro-planet",
+      "workingClaim": "In 2006 a NASA orbiter arrived at which planet to begin searching for signs of water? Answer: Mars. Proposed additional link on 03-10: mars-reconnaissance-orbiter-arrives-2006. Other planets NASA has orbited or visited.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-10"
+      ]
+    },
+    {
+      "candidateId": "james-earl-ray-sentence",
+      "kind": "quiz",
+      "proposedCanonicalId": "james-earl-ray-sentence",
+      "workingClaim": "James Earl Ray was sentenced to how many years in prison after pleading guilty to killing Martin Luther King, Jr.? Answer: 99. Proposed additional link on 03-10: james-earl-ray-pleads-guilty-1969. Round-number terms as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-10"
+      ]
+    },
+    {
+      "candidateId": "raisin-in-the-sun-playwright",
+      "kind": "quiz",
+      "proposedCanonicalId": "raisin-in-the-sun-playwright",
+      "workingClaim": "Who wrote A Raisin in the Sun, the first play by a Black woman produced on Broadway? Answer: Lorraine Hansberry. Proposed featured link on 03-11: a-raisin-in-the-sun-opens-1959. Exact match on the featured opening; other celebrated Black women writers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-11"
+      ]
+    },
+    {
+      "candidateId": "raisin-in-the-sun-award",
+      "kind": "quiz",
+      "proposedCanonicalId": "raisin-in-the-sun-award",
+      "workingClaim": "Which award did A Raisin in the Sun win after its 1959 Broadway opening? Answer: The New York Drama Critics' Circle Award. Proposed featured link on 03-11: a-raisin-in-the-sun-opens-1959. Other prizes a play or playwright might win.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Lorraine-Hansberry"
+      ]
+    },
+    {
+      "candidateId": "first-soviet-republic-independence",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-soviet-republic-independence",
+      "workingClaim": "In 1990, which country became the first Soviet republic to declare independence from the USSR? Answer: Lithuania. Proposed additional link on 03-11: lithuania-declares-independence-1990. The other Baltic states and Ukraine, which declared later.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-11"
+      ]
+    },
+    {
+      "candidateId": "lend-lease-purpose",
+      "kind": "quiz",
+      "proposedCanonicalId": "lend-lease-purpose",
+      "workingClaim": "What did the Lend-Lease Act of 1941 give the US president authority to do? Answer: Aid nations whose defense was vital to US interests. Proposed additional link on 03-11: lend-lease-act-1941. Other wartime powers, none granted by this act.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-11"
+      ]
+    },
+    {
+      "candidateId": "gorbachev-predecessor",
+      "kind": "quiz",
+      "proposedCanonicalId": "gorbachev-predecessor",
+      "workingClaim": "Whom did Mikhail Gorbachev succeed as Soviet leader in 1985? Answer: Konstantin Chernenko. Proposed additional link on 03-11: gorbachev-becomes-soviet-leader-1985. Earlier Soviet leaders; Andropov immediately preceded Chernenko.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-11"
+      ]
+    },
+    {
+      "candidateId": "salt-march-destination",
+      "kind": "quiz",
+      "proposedCanonicalId": "salt-march-destination",
+      "workingClaim": "Gandhi's Salt March of 1930 ended at the sea at which coastal village? Answer: Dandi. Proposed featured link on 03-12: gandhi-salt-march-begins-1930. Exact match on the featured march; Porbandar is Gandhi's birthplace.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Salt-March"
+      ]
+    },
+    {
+      "candidateId": "salt-march-distance",
+      "kind": "quiz",
+      "proposedCanonicalId": "salt-march-distance",
+      "workingClaim": "About how far did Gandhi and his followers walk on the Salt March? Answer: 240 miles. Proposed featured link on 03-12: gandhi-salt-march-begins-1930. Order-of-magnitude distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Salt-March"
+      ]
+    },
+    {
+      "candidateId": "first-girl-guides-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-girl-guides-city",
+      "workingClaim": "In which city did Juliette Gordon Low form the first American Girl Guides troop in 1912? Answer: Savannah. Proposed additional link on 03-12: first-american-girl-guides-troop-1912. Other Southern cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Juliette-Gordon-Low"
+      ]
+    },
+    {
+      "candidateId": "nato-1999-not-joined",
+      "kind": "quiz",
+      "proposedCanonicalId": "nato-1999-not-joined",
+      "workingClaim": "Which of these countries did NOT join NATO on March 12, 1999? Answer: Slovakia. Proposed additional link on 03-12: poland-hungary-czechia-join-nato-1999. Slovakia, the Czech Republic's former partner, is the tempting wrong answer.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-12"
+      ]
+    },
+    {
+      "candidateId": "uranus-discoverer",
+      "kind": "quiz",
+      "proposedCanonicalId": "uranus-discoverer",
+      "workingClaim": "Which astronomer discovered Uranus in 1781? Answer: William Herschel. Proposed featured link on 03-13: herschel-discovers-uranus-1781. Exact match on the featured discovery; famous earlier astronomers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Uranus-planet"
+      ]
+    },
+    {
+      "candidateId": "uranus-position",
+      "kind": "quiz",
+      "proposedCanonicalId": "uranus-position",
+      "workingClaim": "Counting outward from the Sun, which planet is Uranus? Answer: Seventh. Proposed featured link on 03-13: herschel-discovers-uranus-1781. Neighboring positions.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-13"
+      ]
+    },
+    {
+      "candidateId": "uranus-known-in-prehistory",
+      "kind": "quiz",
+      "proposedCanonicalId": "uranus-known-in-prehistory",
+      "workingClaim": "Uranus was recognized as a planet in prehistoric times, like Saturn. Answer: False. Proposed featured link on 03-13: herschel-discovers-uranus-1781. Targets the assumption that all bright planets were known of old.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Uranus-planet"
+      ]
+    },
+    {
+      "candidateId": "pope-francis-archbishop-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "pope-francis-archbishop-city",
+      "workingClaim": "Before his election as Pope Francis in 2013, Jorge Mario Bergoglio was archbishop of which city? Answer: Buenos Aires. Proposed additional link on 03-13: pope-francis-elected-2013. Other South American capitals.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-13"
+      ]
+    },
+    {
+      "candidateId": "alexander-ii-assassination-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "alexander-ii-assassination-city",
+      "workingClaim": "In which city was Tsar Alexander II of Russia assassinated in 1881? Answer: St. Petersburg. Proposed additional link on 03-13: alexander-ii-assassinated-1881. Other major cities of the Russian Empire.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-13"
+      ]
+    },
+    {
+      "candidateId": "einstein-birth-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "einstein-birth-city",
+      "workingClaim": "In which German city was Albert Einstein born in 1879? Answer: Ulm. Proposed featured link on 03-14: albert-einstein-born-1879. Exact match on the featured birth; larger German cities as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-14"
+      ]
+    },
+    {
+      "candidateId": "cotton-gin-patent-holder",
+      "kind": "quiz",
+      "proposedCanonicalId": "cotton-gin-patent-holder",
+      "workingClaim": "Who received a patent for the cotton gin in 1794? Answer: Eli Whitney. Proposed additional link on 03-14: cotton-gin-patent-1794. Other American inventors of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-14"
+      ]
+    },
+    {
+      "candidateId": "communist-manifesto-coauthor",
+      "kind": "quiz",
+      "proposedCanonicalId": "communist-manifesto-coauthor",
+      "workingClaim": "Karl Marx wrote The Communist Manifesto (1848) with whom? Answer: Friedrich Engels. Proposed additional link on 03-14: karl-marx-dies-1883. Other revolutionary thinkers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-14"
+      ]
+    },
+    {
+      "candidateId": "hawking-1988-book",
+      "kind": "quiz",
+      "proposedCanonicalId": "hawking-1988-book",
+      "workingClaim": "Which best-selling book did Stephen Hawking publish in 1988? Answer: A Brief History of Time. Proposed additional link on 03-14: stephen-hawking-dies-2018. Other popular science books by other authors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-14"
+      ]
+    },
+    {
+      "candidateId": "caesar-assassination-day",
+      "kind": "quiz",
+      "proposedCanonicalId": "caesar-assassination-day",
+      "workingClaim": "On which day of the Roman calendar was Julius Caesar assassinated in 44 BCE? Answer: The Ides of March. Proposed featured link on 03-15: julius-caesar-assassinated-44bce. Exact match on the featured event; other Roman calendar days as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-15"
+      ]
+    },
+    {
+      "candidateId": "nicholas-ii-dynasty",
+      "kind": "quiz",
+      "proposedCanonicalId": "nicholas-ii-dynasty",
+      "workingClaim": "The abdication of Tsar Nicholas II in 1917 ended the rule of which dynasty? Answer: Romanov. Proposed additional link on 03-15: nicholas-ii-abdicates-1917. Rurik, Russia's earlier dynasty, plus other European royal houses.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-15"
+      ]
+    },
+    {
+      "candidateId": "we-shall-overcome-legislation",
+      "kind": "quiz",
+      "proposedCanonicalId": "we-shall-overcome-legislation",
+      "workingClaim": "Lyndon B. Johnson's 'We Shall Overcome' speech of 1965 introduced legislation on what? Answer: Voting rights. Proposed additional link on 03-15: johnson-we-shall-overcome-speech-1965. Other Great Society topics.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-15"
+      ]
+    },
+    {
+      "candidateId": "andrew-jackson-president-number",
+      "kind": "quiz",
+      "proposedCanonicalId": "andrew-jackson-president-number",
+      "workingClaim": "Andrew Jackson, born on March 15, 1767, was which president of the United States? Answer: Seventh. Proposed additional link on 03-15: andrew-jackson-born-1767. Neighboring odd numbers.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Andrew-Jackson"
+      ]
+    },
+    {
+      "candidateId": "goddard-rocket-propellant",
+      "kind": "quiz",
+      "proposedCanonicalId": "goddard-rocket-propellant",
+      "workingClaim": "What kind of propellant powered Robert Goddard's pioneering rocket of 1926? Answer: Liquid propellant. Proposed featured link on 03-16: goddard-liquid-fuel-rocket-1926. Exact match on the featured launch.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Robert-Goddard"
+      ]
+    },
+    {
+      "candidateId": "goddard-flight-duration",
+      "kind": "quiz",
+      "proposedCanonicalId": "goddard-flight-duration",
+      "workingClaim": "About how long did Goddard's first liquid-fueled rocket stay in the air? Answer: 2.5 seconds. Proposed featured link on 03-16: goddard-liquid-fuel-rocket-1926. The brevity is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Robert-Goddard"
+      ]
+    },
+    {
+      "candidateId": "father-of-the-constitution",
+      "kind": "quiz",
+      "proposedCanonicalId": "father-of-the-constitution",
+      "workingClaim": "Which US president is known as the Father of the Constitution? Answer: James Madison. Proposed additional link on 03-16: james-madison-born-1751. Other founding-era presidents.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/James-Madison"
+      ]
+    },
+    {
+      "candidateId": "west-point-original-role",
+      "kind": "quiz",
+      "proposedCanonicalId": "west-point-original-role",
+      "workingClaim": "When the US Military Academy at West Point was founded in 1802, it was a training center for which corps? Answer: The Corps of Engineers. Proposed additional link on 03-16: west-point-founded-1802. Other military corps.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-16"
+      ]
+    },
+    {
+      "candidateId": "kingdom-of-italy-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "kingdom-of-italy-city",
+      "workingClaim": "In which city did a parliament proclaim the unified Kingdom of Italy in 1861? Answer: Turin. Proposed featured link on 03-17: kingdom-of-italy-proclaimed-1861. Exact match on the featured proclamation; Rome, the later capital, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-17"
+      ]
+    },
+    {
+      "candidateId": "italian-unification-figure",
+      "kind": "quiz",
+      "proposedCanonicalId": "italian-unification-figure",
+      "workingClaim": "Which revolutionary leader is named by Britannica among the figures behind the unification of Italy proclaimed in 1861? Answer: Giuseppe Garibaldi. Proposed featured link on 03-17: kingdom-of-italy-proclaimed-1861. Famous Italians from other eras.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-17"
+      ]
+    },
+    {
+      "candidateId": "boston-evacuation-general",
+      "kind": "quiz",
+      "proposedCanonicalId": "boston-evacuation-general",
+      "workingClaim": "Which British general evacuated Boston in March 1776 after a siege by George Washington's army? Answer: William Howe. Proposed additional link on 03-17: british-evacuate-boston-1776. Other British generals of the war.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-17"
+      ]
+    },
+    {
+      "candidateId": "vanguard-1-power",
+      "kind": "quiz",
+      "proposedCanonicalId": "vanguard-1-power",
+      "workingClaim": "Vanguard 1, launched in 1958, was the first satellite powered by what? Answer: Solar power. Proposed additional link on 03-17: vanguard-1-launched-1958. Other power sources.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-17"
+      ]
+    },
+    {
+      "candidateId": "golda-meir-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "golda-meir-country",
+      "workingClaim": "Golda Meir became prime minister of which country in 1969? Answer: Israel. Proposed additional link on 03-17: golda-meir-prime-minister-1969. Other countries with early women heads of government.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-17"
+      ]
+    },
+    {
+      "candidateId": "first-spacewalker",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-spacewalker",
+      "workingClaim": "Who became the first person to walk in space, in 1965? Answer: Aleksei Leonov. Proposed featured link on 03-18: leonov-first-spacewalk-1965. Exact match on the featured spacewalk; Ed White was the first American spacewalker.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-18"
+      ]
+    },
+    {
+      "candidateId": "leonov-spacecraft",
+      "kind": "quiz",
+      "proposedCanonicalId": "leonov-spacecraft",
+      "workingClaim": "From which spacecraft did Aleksei Leonov make the first spacewalk? Answer: Voskhod 2. Proposed featured link on 03-18: leonov-first-spacewalk-1965. Other early crewed spacecraft.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-18"
+      ]
+    },
+    {
+      "candidateId": "stamp-act-protest-group",
+      "kind": "quiz",
+      "proposedCanonicalId": "stamp-act-protest-group",
+      "workingClaim": "Which colonial group, known for violent protests, opposed the Stamp Act before Parliament repealed it in 1766? Answer: Sons of Liberty. Proposed additional link on 03-18: stamp-act-repealed-1766. Other revolutionary-era groups.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-18"
+      ]
+    },
+    {
+      "candidateId": "gardner-theft-dutch-painter",
+      "kind": "quiz",
+      "proposedCanonicalId": "gardner-theft-dutch-painter",
+      "workingClaim": "The 1990 theft from Boston's Isabella Stewart Gardner Museum included paintings by Rembrandt and which other Dutch master? Answer: Johannes Vermeer. Proposed additional link on 03-18: gardner-museum-theft-1990. Other famous Dutch painters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-18"
+      ]
+    },
+    {
+      "candidateId": "sagrada-familia-architect",
+      "kind": "quiz",
+      "proposedCanonicalId": "sagrada-familia-architect",
+      "workingClaim": "Which architect took over the Sagrada Familia in 1883 and transformed its design? Answer: Antoni Gaudi. Proposed featured link on 03-19: sagrada-familia-cornerstone-1882. Exact match on the featured basilica; other famous architects.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Sagrada-Familia"
+      ]
+    },
+    {
+      "candidateId": "sagrada-familia-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "sagrada-familia-city",
+      "workingClaim": "In which city is the Basilica de la Sagrada Familia? Answer: Barcelona. Proposed featured link on 03-19: sagrada-familia-cornerstone-1882. Other Spanish cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-19"
+      ]
+    },
+    {
+      "candidateId": "standard-time-act-introduced",
+      "kind": "quiz",
+      "proposedCanonicalId": "standard-time-act-introduced",
+      "workingClaim": "What did the US Standard Time Act, signed in 1918, establish? Answer: Daylight saving time. Proposed additional link on 03-19: standard-time-act-signed-1918. Other timekeeping conventions.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-19"
+      ]
+    },
+    {
+      "candidateId": "arthur-c-clarke-film",
+      "kind": "quiz",
+      "proposedCanonicalId": "arthur-c-clarke-film",
+      "workingClaim": "Arthur C. Clarke worked with Stanley Kubrick on which film? Answer: 2001: A Space Odyssey. Proposed additional link on 03-19: arthur-c-clarke-dies-2008. Other Kubrick films and a classic science-fiction film.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-19"
+      ]
+    },
+    {
+      "candidateId": "nevada-gambling-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "nevada-gambling-city",
+      "workingClaim": "Nevada's legalization of gambling in 1931 paved the way for casinos most notably in which city? Answer: Las Vegas. Proposed additional link on 03-19: nevada-legalizes-gambling-1931. Other US cities linked with gaming or nightlife, none in Nevada.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-19"
+      ]
+    },
+    {
+      "candidateId": "uncle-toms-cabin-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "uncle-toms-cabin-author",
+      "workingClaim": "Who wrote Uncle Tom's Cabin, published as a book in 1852? Answer: Harriet Beecher Stowe. Proposed featured link on 03-20: uncle-toms-cabin-published-1852. Exact match on the featured book; other 19th-century American figures.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-20"
+      ]
+    },
+    {
+      "candidateId": "uncle-toms-cabin-serial-first",
+      "kind": "quiz",
+      "proposedCanonicalId": "uncle-toms-cabin-serial-first",
+      "workingClaim": "Uncle Tom's Cabin ran as a serial before it was published as a book. Answer: True. Proposed featured link on 03-20: uncle-toms-cabin-published-1852. A lesser-known publishing detail.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-20"
+      ]
+    },
+    {
+      "candidateId": "lennon-ono-wedding-place",
+      "kind": "quiz",
+      "proposedCanonicalId": "lennon-ono-wedding-place",
+      "workingClaim": "Where did John Lennon marry Yoko Ono in 1969? Answer: Gibraltar. Proposed additional link on 03-20: lennon-marries-yoko-ono-1969. Amsterdam, scene of their famous bed-in, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-20"
+      ]
+    },
+    {
+      "candidateId": "ripon-party",
+      "kind": "quiz",
+      "proposedCanonicalId": "ripon-party",
+      "workingClaim": "An 1854 meeting in Ripon, Wisconsin, proposed forming which political party? Answer: The Republican Party. Proposed additional link on 03-20: ripon-republican-party-meeting-1854. The groups that attended are the distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-20"
+      ]
+    },
+    {
+      "candidateId": "alcatraz-bay",
+      "kind": "quiz",
+      "proposedCanonicalId": "alcatraz-bay",
+      "workingClaim": "The Alcatraz prison, closed in 1963, stood on an island in which bay? Answer: San Francisco Bay. Proposed featured link on 03-21: alcatraz-closes-1963. Exact match on the featured closure; other US bays.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "first-tweet-text",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-tweet-text",
+      "workingClaim": "What did the first public tweet, sent by Jack Dorsey in 2006, say? Answer: just setting up my twttr. Proposed additional link on 03-21: first-public-tweet-2006. Other plausible first messages.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "namibia-former-ruler",
+      "kind": "quiz",
+      "proposedCanonicalId": "namibia-former-ruler",
+      "workingClaim": "Before independence in 1990, Namibia had been ruled by Germany and then by which country? Answer: South Africa. Proposed additional link on 03-21: namibia-independence-1990. Other colonial powers in Africa.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "sharpeville-protest-laws",
+      "kind": "quiz",
+      "proposedCanonicalId": "sharpeville-protest-laws",
+      "workingClaim": "The Sharpeville protest of 1960 in South Africa was against which laws? Answer: The pass laws. Proposed additional link on 03-21: sharpeville-massacre-1960. Other laws famous for prompting protest.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "please-please-me-first-what",
+      "kind": "quiz",
+      "proposedCanonicalId": "please-please-me-first-what",
+      "workingClaim": "Please Please Me, released in the UK on March 22, 1963, was the Beatles' first what? Answer: Album. Proposed featured link on 03-22: please-please-me-released-1963. Exact match on the featured release; 'single' is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "arab-league-founding-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "arab-league-founding-city",
+      "workingClaim": "In which city was the Arab League organized in 1945? Answer: Cairo. Proposed additional link on 03-22: arab-league-founded-1945. Other Arab capitals.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "first-masters-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-masters-state",
+      "workingClaim": "The first Masters Tournament, in 1934, was hosted in Augusta in which US state? Answer: Georgia. Proposed additional link on 03-22: first-masters-tournament-1934. Neighboring states; Augusta sits on the South Carolina line.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "goethe-death-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "goethe-death-city",
+      "workingClaim": "In which German city did Johann Wolfgang von Goethe die in 1832? Answer: Weimar. Proposed additional link on 03-22: goethe-dies-1832. Other German cultural centers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "patrick-henry-phrase",
+      "kind": "quiz",
+      "proposedCanonicalId": "patrick-henry-phrase",
+      "workingClaim": "Which phrase is Patrick Henry's speech of March 23, 1775, best known for? Answer: Give me liberty or give me death. Proposed featured link on 03-23: patrick-henry-liberty-or-death-1775. Exact match on the featured speech; other revolutionary-era slogans.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "enabling-act-dominant-party",
+      "kind": "quiz",
+      "proposedCanonicalId": "enabling-act-dominant-party",
+      "workingClaim": "Which party, with the German National People's Party, dominated the Reichstag that passed the Enabling Act in 1933? Answer: The Nazi Party. Proposed additional link on 03-23: enabling-act-passed-1933. Other Weimar-era parties.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mir-years-in-orbit",
+      "kind": "quiz",
+      "proposedCanonicalId": "mir-years-in-orbit",
+      "workingClaim": "The Mir space station was designed for 5 years of service. How long did it stay in orbit? Answer: 15 years. Proposed additional link on 03-23: mir-space-station-reenters-2001. Nearby spans.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "koch-1882-disease",
+      "kind": "quiz",
+      "proposedCanonicalId": "koch-1882-disease",
+      "workingClaim": "On March 24, 1882, Robert Koch announced he had found the bacterium that causes which disease? Answer: Tuberculosis. Proposed featured link on 03-24: koch-announces-tuberculosis-bacterium-1882. Exact match on the featured announcement; Koch also studied cholera and anthrax, so the date matters.",
+      "sourceUrls": [
+        "https://www.who.int/campaigns/world-tb-day",
+        "https://www.britannica.com/biography/Robert-Koch"
+      ]
+    },
+    {
+      "candidateId": "world-tb-day-scientist",
+      "kind": "quiz",
+      "proposedCanonicalId": "world-tb-day-scientist",
+      "workingClaim": "World TB Day falls on March 24 because of whose announcement in 1882? Answer: Robert Koch. Proposed featured link on 03-24: koch-announces-tuberculosis-bacterium-1882. Other pioneers of medical science.",
+      "sourceUrls": [
+        "https://www.who.int/campaigns/world-tb-day"
+      ]
+    },
+    {
+      "candidateId": "exxon-valdez-waters",
+      "kind": "quiz",
+      "proposedCanonicalId": "exxon-valdez-waters",
+      "workingClaim": "Into which body of water did the Exxon Valdez spill oil in 1989? Answer: Prince William Sound. Proposed additional link on 03-24: exxon-valdez-oil-spill-1989. Other northwestern waters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "elizabeth-i-successor",
+      "kind": "quiz",
+      "proposedCanonicalId": "elizabeth-i-successor",
+      "workingClaim": "Who succeeded Elizabeth I on the English throne in 1603? Answer: James I. Proposed additional link on 03-24: elizabeth-i-dies-1603. Other English monarchs before and after.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "oscar-romero-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "oscar-romero-city",
+      "workingClaim": "In which city was Archbishop Oscar Romero assassinated in 1980? Answer: San Salvador. Proposed additional link on 03-24: oscar-romero-assassinated-1980. Other Central American capitals.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "treaty-of-rome-created",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-of-rome-created",
+      "workingClaim": "What did the Treaty of Rome, signed in 1957, establish? Answer: The European Economic Community. Proposed featured link on 03-25: treaty-of-rome-signed-1957. Exact match on the featured treaty; the EU is the tempting later answer.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Treaty-of-Rome"
+      ]
+    },
+    {
+      "candidateId": "treaty-of-rome-non-signer",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-of-rome-non-signer",
+      "workingClaim": "Which of these countries was NOT one of the six that signed the Treaty of Rome in 1957? Answer: United Kingdom. Proposed featured link on 03-25: treaty-of-rome-signed-1957. Britain is the notable absentee.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Treaty-of-Rome"
+      ]
+    },
+    {
+      "candidateId": "triangle-fire-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "triangle-fire-city",
+      "workingClaim": "The Triangle shirtwaist factory fire of 1911, which killed 146 people, happened in which city? Answer: New York City. Proposed additional link on 03-25: triangle-shirtwaist-fire-1911. Other industrial cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "queen-of-soul",
+      "kind": "quiz",
+      "proposedCanonicalId": "queen-of-soul",
+      "workingClaim": "Which singer, born on March 25, 1942, was crowned the 'Queen of Soul'? Answer: Aretha Franklin. Proposed additional link on 03-25: aretha-franklin-born-1942. Other great American singers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "first-fare-railway-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-fare-railway-country",
+      "workingClaim": "The first fee-paying passenger railway began operating in 1807 in which country? Answer: Wales. Proposed additional link on 03-25: mumbles-railway-passengers-1807. The other nations of the British Isles.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "egypt-israel-treaty-basis",
+      "kind": "quiz",
+      "proposedCanonicalId": "egypt-israel-treaty-basis",
+      "workingClaim": "The Egypt-Israel peace treaty of 1979 was based on which earlier agreements? Answer: The Camp David Accords. Proposed featured link on 03-26: egypt-israel-peace-treaty-1979. Exact match on the featured treaty; other Middle East agreements.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "camp-david-mediator",
+      "kind": "quiz",
+      "proposedCanonicalId": "camp-david-mediator",
+      "workingClaim": "Which US president mediated the Camp David Accords that led to the 1979 Egypt-Israel peace treaty? Answer: Jimmy Carter. Proposed featured link on 03-26: egypt-israel-peace-treaty-1979. Neighboring presidents.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "gerrymander-newspaper",
+      "kind": "quiz",
+      "proposedCanonicalId": "gerrymander-newspaper",
+      "workingClaim": "Which newspaper published the 1812 cartoon that gave us the word 'gerrymander'? Answer: The Boston Gazette. Proposed additional link on 03-26: gerrymander-cartoon-1812. Other early American papers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "beethoven-death-age",
+      "kind": "quiz",
+      "proposedCanonicalId": "beethoven-death-age",
+      "workingClaim": "At what age did Ludwig van Beethoven die in 1827? Answer: 56. Proposed additional link on 03-26: beethoven-dies-1827. Spread of ages; 35 recalls Mozart.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "robert-frost-region",
+      "kind": "quiz",
+      "proposedCanonicalId": "robert-frost-region",
+      "workingClaim": "Poet Robert Frost, born in San Francisco, is best known for depicting life in which region? Answer: Rural New England. Proposed additional link on 03-26: robert-frost-born-1874. Other American regions; his birthplace on the Pacific coast is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "alaska-earthquake-magnitude",
+      "kind": "quiz",
+      "proposedCanonicalId": "alaska-earthquake-magnitude",
+      "workingClaim": "What was the magnitude of the 1964 Alaska earthquake, the strongest recorded in the United States? Answer: 9.2. Proposed featured link on 03-27: great-alaska-earthquake-1964. Exact match on the featured quake.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "khrushchev-replaced",
+      "kind": "quiz",
+      "proposedCanonicalId": "khrushchev-replaced",
+      "workingClaim": "Whom did Nikita Khrushchev replace as Soviet premier in 1958? Answer: Nikolay Bulganin. Proposed additional link on 03-27: khrushchev-becomes-premier-1958. Other Soviet leaders of the 1950s and 1960s.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "typhoid-mary-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "typhoid-mary-name",
+      "workingClaim": "What was the real name of the woman known as Typhoid Mary? Answer: Mary Mallon. Proposed additional link on 03-27: typhoid-mary-quarantined-1915. Other historical Marys.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "horseshoe-bend-commander",
+      "kind": "quiz",
+      "proposedCanonicalId": "horseshoe-bend-commander",
+      "workingClaim": "Who commanded the troops that defeated the Creek at the Battle of Horseshoe Bend in 1814? Answer: Andrew Jackson. Proposed additional link on 03-27: battle-of-horseshoe-bend-1814. Other generals of the era who also became, or tried to become, president.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "three-mile-island-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "three-mile-island-state",
+      "workingClaim": "In which US state is the Three Mile Island nuclear plant? Answer: Pennsylvania. Proposed featured link on 03-28: three-mile-island-accident-1979. Exact match on the featured accident; neighboring states.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Three-Mile-Island-accident"
+      ]
+    },
+    {
+      "candidateId": "three-mile-island-most-serious",
+      "kind": "quiz",
+      "proposedCanonicalId": "three-mile-island-most-serious",
+      "workingClaim": "Britannica calls the Three Mile Island accident the most serious in the history of the American nuclear power industry. Answer: True. Proposed featured link on 03-28: three-mile-island-accident-1979. Tests the scale of the accident.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Three-Mile-Island-accident"
+      ]
+    },
+    {
+      "candidateId": "madrid-1939-captor",
+      "kind": "quiz",
+      "proposedCanonicalId": "madrid-1939-captor",
+      "workingClaim": "Whose forces captured Madrid in March 1939, near the end of the Spanish Civil War? Answer: Francisco Franco. Proposed additional link on 03-28: franco-captures-madrid-1939. Other Iberian and Italian dictators.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "eisenhower-president-number",
+      "kind": "quiz",
+      "proposedCanonicalId": "eisenhower-president-number",
+      "workingClaim": "Dwight D. Eisenhower, who died in 1969, was which president of the United States? Answer: 34th. Proposed additional link on 03-28: eisenhower-dies-1969. Neighboring even numbers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "vargas-llosa-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "vargas-llosa-country",
+      "workingClaim": "Novelist Mario Vargas Llosa was born in 1936 in which country? Answer: Peru. Proposed additional link on 03-28: mario-vargas-llosa-born-1936. Other South American countries with famous novelists.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "terra-cotta-army-emperor",
+      "kind": "quiz",
+      "proposedCanonicalId": "terra-cotta-army-emperor",
+      "workingClaim": "The terra-cotta army found near Xi'an in 1974 belongs to the tomb of which emperor? Answer: Qin Shi Huang. Proposed featured link on 03-29: terra-cotta-army-found-1974. Exact match on the featured discovery; other famous Chinese emperors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "terra-cotta-army-finders",
+      "kind": "quiz",
+      "proposedCanonicalId": "terra-cotta-army-finders",
+      "workingClaim": "Who first came upon the underground chamber that led to the terra-cotta army in 1974? Answer: Farmers drilling a well. Proposed featured link on 03-29: terra-cotta-army-found-1974. The accidental find is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "vesta-object-type",
+      "kind": "quiz",
+      "proposedCanonicalId": "vesta-object-type",
+      "workingClaim": "What kind of object is Vesta, discovered by Wilhelm Olbers in 1807? Answer: An asteroid. Proposed additional link on 03-29: olbers-discovers-vesta-1807. Other kinds of astronomical objects.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "king-and-i-star",
+      "kind": "quiz",
+      "proposedCanonicalId": "king-and-i-star",
+      "workingClaim": "Which actor became a star through the 1951 Broadway musical The King and I? Answer: Yul Brynner. Proposed additional link on 03-29: the-king-and-i-opens-1951. Other stars of musicals and films of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "twenty-third-amendment-voters",
+      "kind": "quiz",
+      "proposedCanonicalId": "twenty-third-amendment-voters",
+      "workingClaim": "The Twenty-third Amendment, certified in 1961, let residents of which place vote in presidential elections? Answer: Washington, D.C.. Proposed additional link on 03-29: twenty-third-amendment-1961. US territories, whose residents still cannot vote for president.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "alaska-purchase-seller",
+      "kind": "quiz",
+      "proposedCanonicalId": "alaska-purchase-seller",
+      "workingClaim": "From which country did the United States agree to buy Alaska in 1867? Answer: Russia. Proposed featured link on 03-30: alaska-purchase-treaty-signed-1867. Exact match on the featured purchase.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "alaska-purchase-price",
+      "kind": "quiz",
+      "proposedCanonicalId": "alaska-purchase-price",
+      "workingClaim": "How much did the United States agree to pay for Alaska in 1867? Answer: $7.2 million. Proposed featured link on 03-30: alaska-purchase-treaty-signed-1867. Order-of-magnitude distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "alaska-purchase-negotiator",
+      "kind": "quiz",
+      "proposedCanonicalId": "alaska-purchase-negotiator",
+      "workingClaim": "Which US secretary of state negotiated the purchase of Alaska? Answer: William H. Seward. Proposed featured link on 03-30: alaska-purchase-treaty-signed-1867. Other famous secretaries of state.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "treaty-of-paris-1856-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-of-paris-1856-war",
+      "workingClaim": "The Treaty of Paris signed in 1856 ended which war? Answer: The Crimean War. Proposed additional link on 03-30: treaty-of-paris-ends-crimean-war-1856. Other wars ended by treaties in Paris or involving France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "eiffel-tower-occasion",
+      "kind": "quiz",
+      "proposedCanonicalId": "eiffel-tower-occasion",
+      "workingClaim": "The Eiffel Tower was built for the International Exposition of 1889, which marked the centenary of what? Answer: The French Revolution. Proposed featured link on 03-31: eiffel-tower-inaugurated-1889. Exact match on the featured inauguration; other French milestones.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+      ]
+    },
+    {
+      "candidateId": "eiffel-tower-original-height",
+      "kind": "quiz",
+      "proposedCanonicalId": "eiffel-tower-original-height",
+      "workingClaim": "About how tall was the Eiffel Tower when it was completed in 1889? Answer: 300 meters. Proposed featured link on 03-31: eiffel-tower-inaugurated-1889. Round-number distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+      ]
+    },
+    {
+      "candidateId": "kanagawa-commodore",
+      "kind": "quiz",
+      "proposedCanonicalId": "kanagawa-commodore",
+      "workingClaim": "Which American commodore signed the Treaty of Kanagawa with Japan in 1854? Answer: Matthew Perry. Proposed additional link on 03-31: treaty-of-kanagawa-1854. Other famous American naval officers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "oklahoma-songwriting-team",
+      "kind": "quiz",
+      "proposedCanonicalId": "oklahoma-songwriting-team",
+      "workingClaim": "Oklahoma!, which opened on Broadway in 1943, was the first musical by which songwriting team? Answer: Rodgers and Hammerstein. Proposed additional link on 03-31: oklahoma-opens-on-broadway-1943. Other famous songwriting partnerships.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "nunavut-capital",
+      "kind": "quiz",
+      "proposedCanonicalId": "nunavut-capital",
+      "workingClaim": "What is the capital of Nunavut, the Canadian territory created in 1999? Answer: Iqaluit. Proposed featured link on 04-01: nunavut-created-1999. Exact match on the featured territory; other northern Canadian towns.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Nunavut"
+      ]
+    },
+    {
+      "candidateId": "nunavut-name-meaning",
+      "kind": "quiz",
+      "proposedCanonicalId": "nunavut-name-meaning",
+      "workingClaim": "In Inuktitut, what does the name Nunavut mean? Answer: Our Land. Proposed featured link on 04-01: nunavut-created-1999. Plausible Arctic place-name meanings.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Nunavut"
+      ]
+    },
+    {
+      "candidateId": "apple-not-a-founder",
+      "kind": "quiz",
+      "proposedCanonicalId": "apple-not-a-founder",
+      "workingClaim": "Which of these people was NOT a founder of Apple Computer in 1976? Answer: Bill Gates. Proposed additional link on 04-01: apple-computer-founded-1976. Ronald Wayne, the little-known third founder, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "first-same-sex-marriage-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-same-sex-marriage-country",
+      "workingClaim": "In 2001, which country became the first to grant equal marriage rights to same-sex couples? Answer: The Netherlands. Proposed additional link on 04-01: netherlands-same-sex-marriage-2001. Other early adopters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "falklands-1982-invader",
+      "kind": "quiz",
+      "proposedCanonicalId": "falklands-1982-invader",
+      "workingClaim": "Which country's troops seized the Falkland Islands in 1982, starting a war with Britain? Answer: Argentina. Proposed featured link on 04-02: argentina-seizes-falklands-1982. Exact match on the featured invasion; South American neighbors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "falklands-spanish-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "falklands-spanish-name",
+      "workingClaim": "By what Spanish name are the Falkland Islands known in Argentina? Answer: Islas Malvinas. Proposed featured link on 04-02: argentina-seizes-falklands-1982. Other Spanish-named islands.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "space-odyssey-director",
+      "kind": "quiz",
+      "proposedCanonicalId": "space-odyssey-director",
+      "workingClaim": "Who directed 2001: A Space Odyssey, which premiered in 1968? Answer: Stanley Kubrick. Proposed additional link on 04-02: 2001-a-space-odyssey-premieres-1968. Other science-fiction directors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "richmond-confederate-capital",
+      "kind": "quiz",
+      "proposedCanonicalId": "richmond-confederate-capital",
+      "workingClaim": "Which Confederate capital was evacuated by Confederate troops on April 2, 1865? Answer: Richmond. Proposed additional link on 04-02: confederates-evacuate-richmond-1865. Other major Confederate cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "pony-express-western-end",
+      "kind": "quiz",
+      "proposedCanonicalId": "pony-express-western-end",
+      "workingClaim": "The Pony Express carried mail overland from St. Joseph, Missouri, to which California city? Answer: Sacramento. Proposed featured link on 04-03: pony-express-begins-1860. Exact match on the featured service; San Francisco is left out because steamers took the mail there.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Pony-Express"
+      ]
+    },
+    {
+      "candidateId": "pony-express-made-obsolete",
+      "kind": "quiz",
+      "proposedCanonicalId": "pony-express-made-obsolete",
+      "workingClaim": "What made the Pony Express obsolete in 1861? Answer: The transcontinental telegraph. Proposed featured link on 04-03: pony-express-begins-1860. The railroad, completed in 1869, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Pony-Express"
+      ]
+    },
+    {
+      "candidateId": "first-mobile-call-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-mobile-call-company",
+      "workingClaim": "An employee of which company made the first handheld mobile phone call in 1973? Answer: Motorola. Proposed additional link on 04-03: first-handheld-mobile-call-1973. AT&T, the company that received the call, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "marshall-plan-region",
+      "kind": "quiz",
+      "proposedCanonicalId": "marshall-plan-region",
+      "workingClaim": "The Marshall Plan, signed into law in 1948, aimed to revive the economies of which region? Answer: Western and southern Europe. Proposed additional link on 04-03: marshall-plan-signed-1948. Other world regions.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "mlk-assassination-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "mlk-assassination-city",
+      "workingClaim": "In which city was Martin Luther King, Jr., assassinated in 1968? Answer: Memphis. Proposed featured link on 04-04: martin-luther-king-jr-assassinated-1968, mlk-mountaintop-speech-1968. Exact match on the featured event; other cities of the civil rights movement.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4",
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "nato-founding-signers",
+      "kind": "quiz",
+      "proposedCanonicalId": "nato-founding-signers",
+      "workingClaim": "How many countries signed the North Atlantic Treaty in 1949, founding NATO? Answer: 12. Proposed additional link on 04-04: north-atlantic-treaty-signed-1949. Nearby counts.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "microsoft-cofounder",
+      "kind": "quiz",
+      "proposedCanonicalId": "microsoft-cofounder",
+      "workingClaim": "Bill Gates founded Microsoft in 1975 with whom? Answer: Paul Allen. Proposed additional link on 04-04: microsoft-founded-1975. Other figures of the personal-computer industry.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "harrison-first-to-die-in-office",
+      "kind": "quiz",
+      "proposedCanonicalId": "harrison-first-to-die-in-office",
+      "workingClaim": "William Henry Harrison was the first US president to die in office. Answer: True. Proposed additional link on 04-04: william-henry-harrison-dies-1841. Many assume Lincoln was first.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "angelou-memoir",
+      "kind": "quiz",
+      "proposedCanonicalId": "angelou-memoir",
+      "workingClaim": "Which book did Maya Angelou write? Answer: I Know Why the Caged Bird Sings. Proposed additional link on 04-04: maya-angelou-born-1928. Books by other Black women writers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "first-presidential-veto",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-presidential-veto",
+      "workingClaim": "Which president issued the first presidential veto in US history, in 1792? Answer: George Washington. Proposed featured link on 04-05: washington-first-veto-1792. Exact match on the featured veto; the next presidents.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "maipu-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "maipu-country",
+      "workingClaim": "The Battle of Maipu in 1818 was a decisive victory for which country's independence movement? Answer: Chile. Proposed additional link on 04-05: battle-of-maipu-1818. Neighboring countries.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "war-of-the-pacific-declarer",
+      "kind": "quiz",
+      "proposedCanonicalId": "war-of-the-pacific-declarer",
+      "workingClaim": "Which country declared war on Peru and Bolivia in 1879, beginning the War of the Pacific? Answer: Chile. Proposed additional link on 04-05: war-of-the-pacific-begins-1879. Other South American countries.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "kareem-passed-whom",
+      "kind": "quiz",
+      "proposedCanonicalId": "kareem-passed-whom",
+      "workingClaim": "In 1984, Kareem Abdul-Jabbar passed whom as the NBA's all-time leading scorer? Answer: Wilt Chamberlain. Proposed additional link on 04-05: kareem-abdul-jabbar-scoring-record-1984. Other stars of Chamberlain's era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-5"
+      ]
+    },
+    {
+      "candidateId": "athens-1896-marathon-winner",
+      "kind": "quiz",
+      "proposedCanonicalId": "athens-1896-marathon-winner",
+      "workingClaim": "Which Greek runner won the marathon at the first modern Olympics in 1896? Answer: Spyridon Louis. Proposed featured link on 04-06: first-modern-olympics-open-1896. Exact match on the featured Games; later famous marathoners.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+      ]
+    },
+    {
+      "candidateId": "athens-1896-countries",
+      "kind": "quiz",
+      "proposedCanonicalId": "athens-1896-countries",
+      "workingClaim": "Athletes from about how many countries took part in the 1896 Athens Olympics? Answer: 12. Proposed featured link on 04-06: first-modern-olympics-open-1896. The small scale is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+      ]
+    },
+    {
+      "candidateId": "abba-eurovision-song",
+      "kind": "quiz",
+      "proposedCanonicalId": "abba-eurovision-song",
+      "workingClaim": "With which song did ABBA win Eurovision in 1974? Answer: Waterloo. Proposed additional link on 04-06: abba-wins-eurovision-1974. Other ABBA hits.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "shiloh-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "shiloh-state",
+      "workingClaim": "In which state was the Civil War Battle of Shiloh fought in 1862? Answer: Tennessee. Proposed additional link on 04-06: battle-of-shiloh-1862. Neighboring states.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-6"
+      ]
+    },
+    {
+      "candidateId": "who-headquarters-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "who-headquarters-city",
+      "workingClaim": "In which city is the World Health Organization, established in 1948, headquartered? Answer: Geneva. Proposed featured link on 04-07: world-health-organization-established-1948. Exact match on the featured founding; other cities with UN offices.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/World-Health-Organization"
+      ]
+    },
+    {
+      "candidateId": "who-founding-observance",
+      "kind": "quiz",
+      "proposedCanonicalId": "who-founding-observance",
+      "workingClaim": "Which annual observance marks the World Health Organization's founding date? Answer: World Health Day. Proposed featured link on 04-07: world-health-organization-established-1948. Other health and environment days.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/World-Health-Organization"
+      ]
+    },
+    {
+      "candidateId": "henry-ford-method",
+      "kind": "quiz",
+      "proposedCanonicalId": "henry-ford-method",
+      "workingClaim": "Henry Ford, who died in 1947, pioneered which manufacturing methods? Answer: Assembly-line methods. Proposed additional link on 04-07: henry-ford-dies-1947. Later industrial innovations.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "billie-holiday-birth-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "billie-holiday-birth-city",
+      "workingClaim": "In which city was the jazz singer Billie Holiday born in 1915? Answer: Philadelphia. Proposed additional link on 04-07: billie-holiday-born-1915. Other jazz cities; she grew up in Baltimore.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "aaron-broke-record-of",
+      "kind": "quiz",
+      "proposedCanonicalId": "aaron-broke-record-of",
+      "workingClaim": "Whose career home run record did Hank Aaron break in 1974? Answer: Babe Ruth. Proposed featured link on 04-08: hank-aaron-715th-home-run-1974. Exact match on the featured home run; other baseball greats.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "aaron-record-home-run-number",
+      "kind": "quiz",
+      "proposedCanonicalId": "aaron-record-home-run-number",
+      "workingClaim": "Hank Aaron broke the career home run record with which home run? Answer: 715th. Proposed featured link on 04-08: hank-aaron-715th-home-run-1974. Later career totals as traps.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "venus-de-milo-museum",
+      "kind": "quiz",
+      "proposedCanonicalId": "venus-de-milo-museum",
+      "workingClaim": "In which museum is the Venus de Milo today? Answer: The Louvre. Proposed additional link on 04-08: venus-de-milo-found-1820. Other great museums of ancient art.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Venus-de-Milo"
+      ]
+    },
+    {
+      "candidateId": "venus-de-milo-goddess",
+      "kind": "quiz",
+      "proposedCanonicalId": "venus-de-milo-goddess",
+      "workingClaim": "The Venus de Milo is commonly thought to represent which Greek goddess? Answer: Aphrodite. Proposed additional link on 04-08: venus-de-milo-found-1820. Other Olympian goddesses.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Venus-de-Milo"
+      ]
+    },
+    {
+      "candidateId": "seventeenth-amendment-change",
+      "kind": "quiz",
+      "proposedCanonicalId": "seventeenth-amendment-change",
+      "workingClaim": "What did the Seventeenth Amendment, ratified in 1913, provide for? Answer: Direct election of senators by voters. Proposed additional link on 04-08: seventeenth-amendment-ratified-1913. Other constitutional amendments.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-8"
+      ]
+    },
+    {
+      "candidateId": "appomattox-surrendered-to",
+      "kind": "quiz",
+      "proposedCanonicalId": "appomattox-surrendered-to",
+      "workingClaim": "To whom did Robert E. Lee surrender at Appomattox Court House in 1865? Answer: Ulysses S. Grant. Proposed featured link on 04-09: lee-surrenders-at-appomattox-1865. Exact match on the featured surrender; other Union generals.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
+      ]
+    },
+    {
+      "candidateId": "appomattox-ended-all-fighting",
+      "kind": "quiz",
+      "proposedCanonicalId": "appomattox-ended-all-fighting",
+      "workingClaim": "Lee's surrender at Appomattox immediately ended all fighting in the American Civil War. Answer: False. Proposed featured link on 04-09: lee-surrenders-at-appomattox-1865. Targets a common oversimplification.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
+      ]
+    },
+    {
+      "candidateId": "marian-anderson-1939-venue",
+      "kind": "quiz",
+      "proposedCanonicalId": "marian-anderson-1939-venue",
+      "workingClaim": "Where did Marian Anderson sing to an Easter Sunday crowd of 75,000 in 1939? Answer: The Lincoln Memorial. Proposed additional link on 04-09: marian-anderson-lincoln-memorial-1939. Other famous concert venues.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "la-salle-region-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "la-salle-region-name",
+      "workingClaim": "What name did La Salle give the Mississippi River basin when he claimed it for France in 1682? Answer: Louisiana. Proposed additional link on 04-09: la-salle-claims-louisiana-1682. Other colonial place names.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "good-friday-agreement-city-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "good-friday-agreement-city-name",
+      "workingClaim": "The Good Friday Agreement of 1998 is also named after which city? Answer: Belfast. Proposed featured link on 04-10: good-friday-agreement-1998. Exact match on the featured agreement; other cities in the story.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "good-friday-agreement-region",
+      "kind": "quiz",
+      "proposedCanonicalId": "good-friday-agreement-region",
+      "workingClaim": "The Good Friday Agreement of 1998 was a peace deal for which region? Answer: Northern Ireland. Proposed featured link on 04-10: good-friday-agreement-1998. Other European regions with independence movements.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10",
+        "https://www.britannica.com/on-this-day/March-21"
+      ]
+    },
+    {
+      "candidateId": "great-gatsby-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "great-gatsby-author",
+      "workingClaim": "Who wrote The Great Gatsby, published in 1925? Answer: F. Scott Fitzgerald. Proposed additional link on 04-10: the-great-gatsby-published-1925. Other American novelists of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "zapata-revolution",
+      "kind": "quiz",
+      "proposedCanonicalId": "zapata-revolution",
+      "workingClaim": "Emiliano Zapata, killed in an ambush in 1919, was a leader in which revolution? Answer: The Mexican Revolution. Proposed additional link on 04-10: emiliano-zapata-killed-1919. Other revolutions in the Americas and Russia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "safety-pin-rights-price",
+      "kind": "quiz",
+      "proposedCanonicalId": "safety-pin-rights-price",
+      "workingClaim": "For how much did Walter Hunt sell his rights to the safety pin he patented in 1849? Answer: $400. Proposed additional link on 04-10: safety-pin-patented-1849. Order-of-magnitude distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "apollo-13-failure",
+      "kind": "quiz",
+      "proposedCanonicalId": "apollo-13-failure",
+      "workingClaim": "What failure forced the Apollo 13 crew to abandon their Moon landing in 1970? Answer: An oxygen tank failure. Proposed featured link on 04-11: apollo-13-launched-1970. Exact match on the featured mission; other spaceflight dangers.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-13/"
+      ]
+    },
+    {
+      "candidateId": "apollo-13-commander",
+      "kind": "quiz",
+      "proposedCanonicalId": "apollo-13-commander",
+      "workingClaim": "Who commanded Apollo 13? Answer: James Lovell. Proposed featured link on 04-11: apollo-13-launched-1970. Other Apollo-era commanders.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-13/"
+      ]
+    },
+    {
+      "candidateId": "apollo-13-landed-on-moon",
+      "kind": "quiz",
+      "proposedCanonicalId": "apollo-13-landed-on-moon",
+      "workingClaim": "The Apollo 13 astronauts landed on the Moon before returning to Earth. Answer: False. Proposed featured link on 04-11: apollo-13-launched-1970. Targets a common misconception.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-13/"
+      ]
+    },
+    {
+      "candidateId": "macarthur-relieved-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "macarthur-relieved-war",
+      "workingClaim": "President Truman relieved General Douglas MacArthur of his command in 1951 during which war? Answer: The Korean War. Proposed additional link on 04-11: truman-relieves-macarthur-1951. Other US wars.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "eichmann-trial-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "eichmann-trial-city",
+      "workingClaim": "In which city did the 1961 trial of Adolf Eichmann take place? Answer: Jerusalem. Proposed additional link on 04-11: eichmann-trial-begins-1961. Nuremberg, site of the postwar trials, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "andrew-wiles-proof",
+      "kind": "quiz",
+      "proposedCanonicalId": "andrew-wiles-proof",
+      "workingClaim": "Mathematician Andrew Wiles, born in 1953, devised a proof of what? Answer: Fermat's last theorem. Proposed additional link on 04-11: andrew-wiles-born-1953. Other famous problems.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "gagarin-spacecraft",
+      "kind": "quiz",
+      "proposedCanonicalId": "gagarin-spacecraft",
+      "workingClaim": "Aboard which spacecraft did Yuri Gagarin make the first human spaceflight in 1961? Answer: Vostok 1. Proposed featured link on 04-12: gagarin-first-human-in-space-1961, yuri-gagarin-born-1934. Exact match on the featured flight; other Soviet spacecraft.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Yuri-Gagarin"
+      ]
+    },
+    {
+      "candidateId": "gagarin-orbit-time",
+      "kind": "quiz",
+      "proposedCanonicalId": "gagarin-orbit-time",
+      "workingClaim": "About how long did Yuri Gagarin's single orbit of Earth take? Answer: 1 hour 29 minutes. Proposed featured link on 04-12: gagarin-first-human-in-space-1961. The speed of an orbit is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Yuri-Gagarin"
+      ]
+    },
+    {
+      "candidateId": "fort-sumter-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "fort-sumter-city",
+      "workingClaim": "Fort Sumter, where the American Civil War began in 1861, is in which city? Answer: Charleston. Proposed additional link on 04-12: fort-sumter-bombarded-1861. Other Southern ports.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Fort-Sumter"
+      ]
+    },
+    {
+      "candidateId": "polio-vaccine-1955-scientist",
+      "kind": "quiz",
+      "proposedCanonicalId": "polio-vaccine-1955-scientist",
+      "workingClaim": "Whose polio vaccine was released for use in the United States on April 12, 1955? Answer: Jonas Salk. Proposed additional link on 04-12: salk-polio-vaccine-announced-1955. Albert Sabin, maker of the later oral vaccine, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Jonas-Salk",
+        "https://www.britannica.com/on-this-day/April-12"
+      ]
+    },
+    {
+      "candidateId": "first-shuttle-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-shuttle-name",
+      "workingClaim": "What was the name of the first space shuttle that NASA launched, in 1981? Answer: Columbia. Proposed additional link on 04-12: first-space-shuttle-launch-1981. The later orbiters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12"
+      ]
+    },
+    {
+      "candidateId": "order-spaceflight-mar-apr",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-spaceflight-mar-apr",
+      "workingClaim": "Put these spaceflight milestones in order from earliest to latest. Answer: First human in space < First spacewalk < Apollo 13 launches < First space shuttle launch. Proposed additional link on 04-12: gagarin-first-human-in-space-1961, leonov-first-spacewalk-1965, apollo-13-launched-1970, first-space-shuttle-launch-1981. Every item is an event in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-12",
+        "https://www.britannica.com/on-this-day/March-18",
+        "https://www.britannica.com/on-this-day/April-11"
+      ]
+    },
+    {
+      "candidateId": "order-civil-war-road-mar-apr",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-civil-war-road-mar-apr",
+      "workingClaim": "Put these events in order from earliest to latest. Answer: Uncle Tom's Cabin is published as a book < A Ripon, Wisconsin, meeting proposes the Republican Party < Confederate guns fire on Fort Sumter < Lee surrenders at Appomattox. Proposed additional link on 04-09: uncle-toms-cabin-published-1852, ripon-republican-party-meeting-1854, fort-sumter-bombarded-1861, lee-surrenders-at-appomattox-1865. Every item is an event in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-20",
+        "https://www.britannica.com/on-this-day/April-12",
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    },
+    {
+      "candidateId": "order-treaties-mar-apr",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-treaties-mar-apr",
+      "workingClaim": "Put these treaties and agreements in order from earliest to latest. Answer: Treaty of Paris ending the Crimean War < North Atlantic Treaty < Treaty of Rome < Good Friday Agreement. Proposed additional link on 03-25: treaty-of-paris-ends-crimean-war-1856, north-atlantic-treaty-signed-1949, treaty-of-rome-signed-1957, good-friday-agreement-1998. Every item is an event in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30",
+        "https://www.britannica.com/on-this-day/April-4",
+        "https://www.britannica.com/event/Treaty-of-Rome",
+        "https://www.britannica.com/on-this-day/April-10"
+      ]
+    },
+    {
+      "candidateId": "link-identify-napoleon-bonaparte",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-napoleon-bonaparte",
+      "workingClaim": "Propose additional relation on 03-09 from unchanged published identify-napoleon-bonaparte to napoleon-marries-josephine-1796. The portrait identifies Napoleon, whose marriage to Josephine is the event; already related to Jena-Auerstedt.",
+      "sourceUrls": [
+        "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries",
+        "https://www.britannica.com/on-this-day/March-9"
+      ]
+    },
+    {
+      "candidateId": "link-identify-mahatma-gandhi",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-mahatma-gandhi",
+      "workingClaim": "Propose featured relation on 03-12 from unchanged published identify-mahatma-gandhi to gandhi-salt-march-begins-1930. The 1931 portrait identifies Gandhi, who led the Salt March the year before.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Mahatma-Gandhi",
+        "https://www.britannica.com/event/Salt-March"
+      ]
+    },
+    {
+      "candidateId": "link-identify-albert-einstein",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-albert-einstein",
+      "workingClaim": "Propose featured relation on 03-14 from unchanged published identify-albert-einstein to albert-einstein-born-1879. The 1921 photograph identifies Einstein, whose birth is the featured event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Albert-Einstein",
+        "https://www.britannica.com/on-this-day/March-14"
+      ]
+    },
+    {
+      "candidateId": "link-beatles-home-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "beatles-home-city",
+      "workingClaim": "Propose featured relation on 03-22 from unchanged published beatles-home-city to please-please-me-released-1963. Accessible Beatles hook for their first album; the question already cites the Please Please Me page.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/please-please-me",
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "link-camp-david-egyptian-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "camp-david-egyptian-president",
+      "workingClaim": "Propose featured relation on 03-26 from unchanged published camp-david-egyptian-president to egypt-israel-peace-treaty-1979. The treaty was based on the Camp David Accords the question asks about; the day page names Sadat.",
+      "sourceUrls": [
+        "https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57",
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "link-identify-terracotta-army",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-terracotta-army",
+      "workingClaim": "Propose featured relation on 03-29 from unchanged published identify-terracotta-army to terra-cotta-army-found-1974. Exact match: the photograph shows the terra-cotta army whose discovery began on this day.",
+      "sourceUrls": [
+        "https://www.metmuseum.org/essays/qin-dynasty-221-206-b-c",
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "link-john-paul-ii-first-non-italian",
+      "kind": "quiz",
+      "proposedCanonicalId": "john-paul-ii-first-non-italian",
+      "workingClaim": "Propose additional relation on 04-02 from unchanged published john-paul-ii-first-non-italian to pope-john-paul-ii-dies-2005. The question asks which pope elected in 1978 was the first non-Italian in centuries; the event is his death.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Saint-John-Paul-II",
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "link-identify-martin-luther-king-jr",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-martin-luther-king-jr",
+      "workingClaim": "Propose featured relation on 04-04 from unchanged published identify-martin-luther-king-jr to martin-luther-king-jr-assassinated-1968. The 1964 photograph identifies King, whose assassination is the featured event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "link-order-cold-war-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-cold-war-milestones",
+      "workingClaim": "Propose additional relation on 04-04 from unchanged published order-cold-war-milestones to north-atlantic-treaty-signed-1949. One ordering item is 'NATO founded', the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/North-Atlantic-Treaty-Organization",
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "link-women-athletes-athens-1896",
+      "kind": "quiz",
+      "proposedCanonicalId": "women-athletes-athens-1896",
+      "workingClaim": "Propose featured relation on 04-06 from unchanged published women-athletes-athens-1896 to first-modern-olympics-open-1896. Exact match: the question asks whether women competed at the Athens Games; Britannica says the athletes were all male.",
+      "sourceUrls": [
+        "https://library.olympics.com/cnospa/digitalCollection/DigitalCollectionAttachmentDownloadHandler.ashx?documentId=1568413&parentDocumentId=1568412&skipCopyright=true&skipWatermark=true",
+        "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+      ]
+    },
+    {
+      "candidateId": "link-identify-winston-churchill",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-winston-churchill",
+      "workingClaim": "Propose additional relation on 04-09 from unchanged published identify-winston-churchill to churchill-honorary-us-citizen-1963. The portrait identifies Churchill, made an honorary US citizen on this day.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Winston-Churchill",
+        "https://www.britannica.com/on-this-day/April-9"
+      ]
+    }
+  ]
+}

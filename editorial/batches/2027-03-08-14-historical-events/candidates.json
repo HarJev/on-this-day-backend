@@ -91,9 +91,10 @@
       "candidateId": "mar-09-fischer-born",
       "kind": "event",
       "proposedCanonicalId": "bobby-fischer-born-1943",
-      "workingClaim": "March 9, 1943: On March 9, 1943, the chess player Bobby Fischer, who became world champion in 1972, was born in Chicago.",
+      "workingClaim": "March 9, 1943: On March 9, 1943, the chess player Bobby Fischer, who in 1972 became the first native-born American to win the world chess championship, was born in Chicago.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/March-9"
+        "https://www.britannica.com/on-this-day/March-9",
+        "https://www.britannica.com/biography/Bobby-Fischer"
       ]
     },
     {

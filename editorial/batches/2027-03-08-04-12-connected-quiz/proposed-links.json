@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-08-04-12-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "identify-napoleon-bonaparte",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "e7facdfcfe6f54608f0ec986948b43d45808ba452d8f56a01f4bbc4a6e334921",
+      "currentRelatedEventIds": [
+        "battles-of-jena-auerstedt-1806"
+      ],
+      "addRelatedEventIds": [
+        "napoleon-marries-josephine-1796"
+      ],
+      "calendarDay": "03-09",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies Napoleon, whose marriage to Josephine is the event; already related to Jena-Auerstedt.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "identify-mahatma-gandhi",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "1f97a0ce1e580884dc10eae70eb74a93e9d8bf58a392489b47f0f791d680535d",
+      "currentRelatedEventIds": [
+        "gandhi-born-1869"
+      ],
+      "addRelatedEventIds": [
+        "gandhi-salt-march-begins-1930"
+      ],
+      "calendarDay": "03-12",
+      "eventRole": "featured",
+      "relationshipRationale": "The 1931 portrait identifies Gandhi, who led the Salt March the year before.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "identify-albert-einstein",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "6e1e899b3d4473f332e0fda74d70eb58629a3de761c23bfe4978b257e33c9cc1",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "albert-einstein-born-1879"
+      ],
+      "calendarDay": "03-14",
+      "eventRole": "featured",
+      "relationshipRationale": "The 1921 photograph identifies Einstein, whose birth is the featured event.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "beatles-home-city",
+      "canonicalPack": "content/quizzes/questions/140-connected-october-02-08.json",
+      "canonicalSnapshotSha256": "c03c00b41f00ff7557124b21cebc62c0bcdb7636183e5a4d78b93204c554c8f1",
+      "currentRelatedEventIds": [
+        "beatles-love-me-do-1962"
+      ],
+      "addRelatedEventIds": [
+        "please-please-me-released-1963"
+      ],
+      "calendarDay": "03-22",
+      "eventRole": "featured",
+      "relationshipRationale": "Accessible Beatles hook for their first album; the question already cites the Please Please Me page.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "camp-david-egyptian-president",
+      "canonicalPack": "content/quizzes/questions/090-q8-statehood-science-and-society.json",
+      "canonicalSnapshotSha256": "875fa6011aa4a9ad682bde5cbabb43a509afbd0df1998454fd5858526a2661e5",
+      "currentRelatedEventIds": [
+        "camp-david-accords-signed-1978",
+        "anwar-sadat-assassinated-1981"
+      ],
+      "addRelatedEventIds": [
+        "egypt-israel-peace-treaty-1979"
+      ],
+      "calendarDay": "03-26",
+      "eventRole": "featured",
+      "relationshipRationale": "The treaty was based on the Camp David Accords the question asks about; the day page names Sadat.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-terracotta-army",
+      "canonicalPack": "content/quizzes/questions/030-asia-oceania.json",
+      "canonicalSnapshotSha256": "f7a99896c8f6d8042ffd57cb4da48e01f9441f80351ebf8152fe644235655671",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "terra-cotta-army-found-1974"
+      ],
+      "calendarDay": "03-29",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the photograph shows the terra-cotta army whose discovery began on this day.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "john-paul-ii-first-non-italian",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "9e8486dc4194a7b3aed5e90db27f8b8937e9a65401be0e208989dfa07b2f3158",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "pope-john-paul-ii-dies-2005"
+      ],
+      "calendarDay": "04-02",
+      "eventRole": "additional",
+      "relationshipRationale": "The question asks which pope elected in 1978 was the first non-Italian in centuries; the event is his death.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-martin-luther-king-jr",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "d84a99855f0887507088e601e9a92d6a2b34a332fc144222754f35489b67b889",
+      "currentRelatedEventIds": [
+        "mlk-awarded-nobel-peace-prize-1964"
+      ],
+      "addRelatedEventIds": [
+        "martin-luther-king-jr-assassinated-1968"
+      ],
+      "calendarDay": "04-04",
+      "eventRole": "featured",
+      "relationshipRationale": "The 1964 photograph identifies King, whose assassination is the featured event.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "order-cold-war-milestones",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "107bea5c663f4cf8b5614986870657234ccc787c4b89ac74325790f885905681",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "north-atlantic-treaty-signed-1949"
+      ],
+      "calendarDay": "04-04",
+      "eventRole": "additional",
+      "relationshipRationale": "One ordering item is 'NATO founded', the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "women-athletes-athens-1896",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "a22e0ced9ad48330025d9cd69e12074a6b75a5dd02eaed26a08eaadc5193c196",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "first-modern-olympics-open-1896"
+      ],
+      "calendarDay": "04-06",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the question asks whether women competed at the Athens Games; Britannica says the athletes were all male.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-winston-churchill",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "cb28264f3ffda629729afb31f989a1e32d6313de5742e1ad14dc36cebf02fed1",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "churchill-honorary-us-citizen-1963"
+      ],
+      "calendarDay": "04-09",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies Churchill, made an honorary US citizen on this day.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    }
+  ]
+}

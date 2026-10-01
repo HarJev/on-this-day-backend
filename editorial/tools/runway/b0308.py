@@ -109,9 +109,11 @@ ev(3, 9, "napoleon-josephine", "napoleon-marries-josephine-1796", "Napoleon Bona
    ["europe"], ["revolutionary"])
 ev(3, 9, "fischer-born", "bobby-fischer-born-1943", "Bobby Fischer is born in Chicago", "1943",
    "The future world chess champion is born.",
-   "On {hd}, the chess player Bobby Fischer, who became world champion in 1972, was born in Chicago.",
+   "On {hd}, the chess player Bobby Fischer, who in 1972 became the first native-born American to win the world chess championship, was born in Chicago.",
    "1943: 'Bobby Fischer was born in Chicago.'",
-   ["americas"], ["1800-1945"])
+   ["americas"], ["1800-1945"],
+   extra=[art("Bobby Fischer", "https://www.britannica.com/biography/Bobby-Fischer",
+              "born 'March 9, 1943, Chicago, Illinois'; in 1972 became the first native-born American to win the world chess championship, defeating Boris Spassky in Reykjavik, Iceland, 12.5-8.5.")])
 
 # ---------------------------------------------------------------- Mar 10
 ev(3, 10, "mr-watson", "bell-first-telephone-speech-1876", "Bell calls 'Mr. Watson, come here'", "1876",
@@ -289,7 +291,9 @@ ev(3, 15, "jackson-born", "andrew-jackson-born-1767", "Andrew Jackson is born", 
    "The future seventh US president is born.",
    "On {hd}, Andrew Jackson, who became the seventh president of the United States, was born.",
    "1767: Andrew Jackson was born.",
-   ["americas"], ["early-modern"])
+   ["americas"], ["early-modern"],
+   extra=[art("Andrew Jackson", "https://www.britannica.com/biography/Andrew-Jackson",
+              "born 'March 15, 1767, Waxhaws region, South Carolina'; 'the seventh president of the United States (1829-37)'.")])
 
 # ---------------------------------------------------------------- Mar 16
 ev(3, 16, "goddard-rocket", "goddard-liquid-fuel-rocket-1926", "Robert Goddard launches the first liquid-fueled rocket", "1926",

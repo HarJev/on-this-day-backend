@@ -1,0 +1,6343 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "fight-of-the-century-winner",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In the 1971 'Fight of the Century', who beat Muhammad Ali to keep the world heavyweight title?",
+      "options": [
+        {
+          "id": "sonny-liston",
+          "text": "Sonny Liston"
+        },
+        {
+          "id": "george-foreman",
+          "text": "George Foreman"
+        },
+        {
+          "id": "ken-norton",
+          "text": "Ken Norton"
+        },
+        {
+          "id": "joe-frazier",
+          "text": "Joe Frazier"
+        }
+      ],
+      "correctOptionId": "joe-frazier",
+      "explanation": "On March 8, 1971, Joe Frazier retained his heavyweight championship with a 15-round decision over Ali.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "frazier-defeats-ali-1971"
+      ]
+    },
+    {
+      "id": "february-revolution-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Russia's February Revolution of 1917 began with rioting in which city?",
+      "options": [
+        {
+          "id": "moscow",
+          "text": "Moscow"
+        },
+        {
+          "id": "kyiv",
+          "text": "Kyiv"
+        },
+        {
+          "id": "kazan",
+          "text": "Kazan"
+        },
+        {
+          "id": "petrograd",
+          "text": "Petrograd"
+        }
+      ],
+      "correctOptionId": "petrograd",
+      "explanation": "Rioting in Petrograd (now St. Petersburg) on March 8, 1917, by the Gregorian calendar, began the revolution that overthrew the monarchy.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - February Revolution",
+          "url": "https://www.britannica.com/event/February-Revolution"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "february-revolution-begins-1917"
+      ]
+    },
+    {
+      "id": "nyse-buttonwood-tree",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The New York Stock Exchange grew out of a 1792 meeting of brokers under what kind of tree?",
+      "options": [
+        {
+          "id": "oak",
+          "text": "Oak"
+        },
+        {
+          "id": "elm",
+          "text": "Elm"
+        },
+        {
+          "id": "buttonwood",
+          "text": "Buttonwood"
+        },
+        {
+          "id": "maple",
+          "text": "Maple"
+        }
+      ],
+      "correctOptionId": "buttonwood",
+      "explanation": "The exchange evolved from a meeting of 24 brokers under a buttonwood tree on what is now Wall Street, and was formally constituted in 1817.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - New York Stock Exchange",
+          "url": "https://www.britannica.com/topic/New-York-Stock-Exchange"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "new-york-stock-exchange-constituted-1817"
+      ]
+    },
+    {
+      "id": "senate-cloture-filibuster",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The cloture rule adopted by the US Senate in 1917 was designed to limit filibusters.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "On March 8, 1917, the Senate voted to limit filibusters by adopting the rule of cloture.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "senate-adopts-cloture-1917"
+      ]
+    },
+    {
+      "id": "barbie-company",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which toy company introduced the Barbie doll in 1959?",
+      "options": [
+        {
+          "id": "mattel",
+          "text": "Mattel"
+        },
+        {
+          "id": "hasbro",
+          "text": "Hasbro"
+        },
+        {
+          "id": "lego",
+          "text": "Lego"
+        },
+        {
+          "id": "fisher-price",
+          "text": "Fisher-Price"
+        }
+      ],
+      "correctOptionId": "mattel",
+      "explanation": "Barbie debuted on March 9, 1959, at the American International Toy Fair in New York City; Mattel cofounder Ruth Handler led its introduction.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Barbie",
+          "url": "https://www.britannica.com/topic/Barbie"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "barbie-debuts-1959"
+      ]
+    },
+    {
+      "id": "barbie-full-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What is Barbie's full fictional name?",
+      "options": [
+        {
+          "id": "barbara-ann-carson",
+          "text": "Barbara Ann Carson"
+        },
+        {
+          "id": "barbara-jean-hollis",
+          "text": "Barbara Jean Hollis"
+        },
+        {
+          "id": "barbara-millicent-roberts",
+          "text": "Barbara Millicent Roberts"
+        },
+        {
+          "id": "barbara-lynn-handler",
+          "text": "Barbara Lynn Handler"
+        }
+      ],
+      "correctOptionId": "barbara-millicent-roberts",
+      "explanation": "Mattel's doll, introduced in 1959, is named Barbara Millicent Roberts.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Barbie",
+          "url": "https://www.britannica.com/topic/Barbie"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "barbie-debuts-1959"
+      ]
+    },
+    {
+      "id": "monitor-virginia-ship-type",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Monitor and the Virginia, which fought at Hampton Roads in 1862, were the first warships of what kind to battle each other?",
+      "options": [
+        {
+          "id": "ironclads",
+          "text": "Ironclads"
+        },
+        {
+          "id": "submarines",
+          "text": "Submarines"
+        },
+        {
+          "id": "aircraft-carriers",
+          "text": "Aircraft carriers"
+        },
+        {
+          "id": "torpedo-boats",
+          "text": "Torpedo boats"
+        }
+      ],
+      "correctOptionId": "ironclads",
+      "explanation": "The battle on March 9, 1862, was the first fight between ironclad warships.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "monitor-and-virginia-battle-1862"
+      ]
+    },
+    {
+      "id": "fischer-1972-opponent",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Bobby Fischer won the world chess championship in 1972 by defeating which Soviet player?",
+      "options": [
+        {
+          "id": "anatoly-karpov",
+          "text": "Anatoly Karpov"
+        },
+        {
+          "id": "garry-kasparov",
+          "text": "Garry Kasparov"
+        },
+        {
+          "id": "boris-spassky",
+          "text": "Boris Spassky"
+        },
+        {
+          "id": "mikhail-tal",
+          "text": "Mikhail Tal"
+        }
+      ],
+      "correctOptionId": "boris-spassky",
+      "explanation": "Fischer, born in Chicago on March 9, 1943, beat Boris Spassky in Reykjavik in 1972, the first native-born American world champion.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Bobby Fischer",
+          "url": "https://www.britannica.com/biography/Bobby-Fischer"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "bobby-fischer-born-1943"
+      ]
+    },
+    {
+      "id": "bell-first-call-assistant",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In 1876, Alexander Graham Bell's first intelligible telephone words summoned which assistant?",
+      "options": [
+        {
+          "id": "thomas-edison",
+          "text": "Thomas Edison"
+        },
+        {
+          "id": "thomas-a-watson",
+          "text": "Thomas A. Watson"
+        },
+        {
+          "id": "elisha-gray",
+          "text": "Elisha Gray"
+        },
+        {
+          "id": "nikola-tesla",
+          "text": "Nikola Tesla"
+        }
+      ],
+      "correctOptionId": "thomas-a-watson",
+      "explanation": "On March 10, 1876, Bell summoned Thomas A. Watson with the words 'Mr. Watson, come here, I want to see you.'",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Alexander Graham Bell",
+          "url": "https://www.britannica.com/biography/Alexander-Graham-Bell"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "bell-first-telephone-speech-1876"
+      ]
+    },
+    {
+      "id": "bell-speech-before-patent",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Bell transmitted intelligible speech by telephone before he received his telephone patent.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Bell's patent was awarded on March 7, 1876; his first intelligible speech followed on March 10.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Alexander Graham Bell",
+          "url": "https://www.britannica.com/biography/Alexander-Graham-Bell"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "bell-first-telephone-speech-1876"
+      ]
+    },
+    {
+      "id": "park-geun-hye-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Park Geun-hye, removed from office when a constitutional court upheld her impeachment in 2017, was president of which country?",
+      "options": [
+        {
+          "id": "japan",
+          "text": "Japan"
+        },
+        {
+          "id": "taiwan",
+          "text": "Taiwan"
+        },
+        {
+          "id": "philippines",
+          "text": "Philippines"
+        },
+        {
+          "id": "south-korea",
+          "text": "South Korea"
+        }
+      ],
+      "correctOptionId": "south-korea",
+      "explanation": "South Korea's Constitutional Court upheld Park's impeachment on March 10, 2017, ending her presidency.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "park-geun-hye-removed-2017"
+      ]
+    },
+    {
+      "id": "mro-planet",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In 2006 a NASA orbiter arrived at which planet to begin searching for signs of water?",
+      "options": [
+        {
+          "id": "venus",
+          "text": "Venus"
+        },
+        {
+          "id": "jupiter",
+          "text": "Jupiter"
+        },
+        {
+          "id": "mercury",
+          "text": "Mercury"
+        },
+        {
+          "id": "mars",
+          "text": "Mars"
+        }
+      ],
+      "correctOptionId": "mars",
+      "explanation": "The Mars Reconnaissance Orbiter entered orbit on March 10, 2006.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "mars-reconnaissance-orbiter-arrives-2006"
+      ]
+    },
+    {
+      "id": "james-earl-ray-sentence",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "James Earl Ray was sentenced to how many years in prison after pleading guilty to killing Martin Luther King, Jr.?",
+      "options": [
+        {
+          "id": "25",
+          "text": "25"
+        },
+        {
+          "id": "50",
+          "text": "50"
+        },
+        {
+          "id": "99",
+          "text": "99"
+        },
+        {
+          "id": "150",
+          "text": "150"
+        }
+      ],
+      "correctOptionId": "99",
+      "explanation": "Ray pleaded guilty on March 10, 1969, and was sentenced to 99 years.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "james-earl-ray-pleads-guilty-1969"
+      ]
+    },
+    {
+      "id": "raisin-in-the-sun-playwright",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote A Raisin in the Sun, the first play by a Black woman produced on Broadway?",
+      "options": [
+        {
+          "id": "toni-morrison",
+          "text": "Toni Morrison"
+        },
+        {
+          "id": "maya-angelou",
+          "text": "Maya Angelou"
+        },
+        {
+          "id": "zora-neale-hurston",
+          "text": "Zora Neale Hurston"
+        },
+        {
+          "id": "lorraine-hansberry",
+          "text": "Lorraine Hansberry"
+        }
+      ],
+      "correctOptionId": "lorraine-hansberry",
+      "explanation": "Lorraine Hansberry's play debuted on Broadway on March 11, 1959, when she was 29.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "a-raisin-in-the-sun-opens-1959"
+      ]
+    },
+    {
+      "id": "raisin-in-the-sun-award",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which award did A Raisin in the Sun win after its 1959 Broadway opening?",
+      "options": [
+        {
+          "id": "the-pulitzer-prize-for-drama",
+          "text": "The Pulitzer Prize for Drama"
+        },
+        {
+          "id": "the-new-york-drama-critics-circle-award",
+          "text": "The New York Drama Critics' Circle Award"
+        },
+        {
+          "id": "the-nobel-prize-in-literature",
+          "text": "The Nobel Prize in Literature"
+        },
+        {
+          "id": "the-obie-award",
+          "text": "The Obie Award"
+        }
+      ],
+      "correctOptionId": "the-new-york-drama-critics-circle-award",
+      "explanation": "Britannica notes that the play, which opened at the Ethel Barrymore Theatre in March 1959, won the New York Drama Critics' Circle Award.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Lorraine Hansberry",
+          "url": "https://www.britannica.com/biography/Lorraine-Hansberry"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "a-raisin-in-the-sun-opens-1959"
+      ]
+    },
+    {
+      "id": "first-soviet-republic-independence",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In 1990, which country became the first Soviet republic to declare independence from the USSR?",
+      "options": [
+        {
+          "id": "latvia",
+          "text": "Latvia"
+        },
+        {
+          "id": "estonia",
+          "text": "Estonia"
+        },
+        {
+          "id": "lithuania",
+          "text": "Lithuania"
+        },
+        {
+          "id": "ukraine",
+          "text": "Ukraine"
+        }
+      ],
+      "correctOptionId": "lithuania",
+      "explanation": "Lithuania declared independence on March 11, 1990.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "lithuania-declares-independence-1990"
+      ]
+    },
+    {
+      "id": "lend-lease-purpose",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did the Lend-Lease Act of 1941 give the US president authority to do?",
+      "options": [
+        {
+          "id": "draft-men-into-the-army",
+          "text": "Draft men into the army"
+        },
+        {
+          "id": "ration-food-and-fuel",
+          "text": "Ration food and fuel"
+        },
+        {
+          "id": "aid-nations-whose-defense-was-vital-to-u",
+          "text": "Aid nations whose defense was vital to US interests"
+        },
+        {
+          "id": "declare-war-without-congress",
+          "text": "Declare war without Congress"
+        }
+      ],
+      "correctOptionId": "aid-nations-whose-defense-was-vital-to-u",
+      "explanation": "The act, passed on March 11, 1941, let the president aid any nation whose defense was believed vital to US interests.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "lend-lease-act-1941"
+      ]
+    },
+    {
+      "id": "gorbachev-predecessor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Whom did Mikhail Gorbachev succeed as Soviet leader in 1985?",
+      "options": [
+        {
+          "id": "leonid-brezhnev",
+          "text": "Leonid Brezhnev"
+        },
+        {
+          "id": "yuri-andropov",
+          "text": "Yuri Andropov"
+        },
+        {
+          "id": "konstantin-chernenko",
+          "text": "Konstantin Chernenko"
+        },
+        {
+          "id": "nikita-khrushchev",
+          "text": "Nikita Khrushchev"
+        }
+      ],
+      "correctOptionId": "konstantin-chernenko",
+      "explanation": "Gorbachev succeeded Konstantin Chernenko on March 11, 1985.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gorbachev-becomes-soviet-leader-1985"
+      ]
+    },
+    {
+      "id": "salt-march-destination",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Gandhi's Salt March of 1930 ended at the sea at which coastal village?",
+      "options": [
+        {
+          "id": "porbandar",
+          "text": "Porbandar"
+        },
+        {
+          "id": "surat",
+          "text": "Surat"
+        },
+        {
+          "id": "puri",
+          "text": "Puri"
+        },
+        {
+          "id": "dandi",
+          "text": "Dandi"
+        }
+      ],
+      "correctOptionId": "dandi",
+      "explanation": "Setting out from Sabarmati on March 12, 1930, Gandhi reached Dandi on April 5 and picked up salt on the shore the next morning.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Salt March",
+          "url": "https://www.britannica.com/event/Salt-March"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "gandhi-salt-march-begins-1930"
+      ]
+    },
+    {
+      "id": "salt-march-distance",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "About how far did Gandhi and his followers walk on the Salt March?",
+      "options": [
+        {
+          "id": "24-miles",
+          "text": "24 miles"
+        },
+        {
+          "id": "240-miles",
+          "text": "240 miles"
+        },
+        {
+          "id": "1-200-miles",
+          "text": "1,200 miles"
+        },
+        {
+          "id": "2-400-miles",
+          "text": "2,400 miles"
+        }
+      ],
+      "correctOptionId": "240-miles",
+      "explanation": "The march from Sabarmati to Dandi covered some 240 miles (385 km) over about three weeks.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Salt March",
+          "url": "https://www.britannica.com/event/Salt-March"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "gandhi-salt-march-begins-1930"
+      ]
+    },
+    {
+      "id": "first-girl-guides-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city did Juliette Gordon Low form the first American Girl Guides troop in 1912?",
+      "options": [
+        {
+          "id": "atlanta",
+          "text": "Atlanta"
+        },
+        {
+          "id": "charleston",
+          "text": "Charleston"
+        },
+        {
+          "id": "savannah",
+          "text": "Savannah"
+        },
+        {
+          "id": "richmond",
+          "text": "Richmond"
+        }
+      ],
+      "correctOptionId": "savannah",
+      "explanation": "Low organized the first troop in Savannah in March 1912; the movement was later renamed the Girl Scouts.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Juliette Gordon Low",
+          "url": "https://www.britannica.com/biography/Juliette-Gordon-Low"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-american-girl-guides-troop-1912"
+      ]
+    },
+    {
+      "id": "nato-1999-not-joined",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these countries did NOT join NATO on March 12, 1999?",
+      "options": [
+        {
+          "id": "poland",
+          "text": "Poland"
+        },
+        {
+          "id": "hungary",
+          "text": "Hungary"
+        },
+        {
+          "id": "czech-republic",
+          "text": "Czech Republic"
+        },
+        {
+          "id": "slovakia",
+          "text": "Slovakia"
+        }
+      ],
+      "correctOptionId": "slovakia",
+      "explanation": "Poland, Hungary and the Czech Republic became NATO members on March 12, 1999. Slovakia was not among them.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "poland-hungary-czechia-join-nato-1999"
+      ]
+    },
+    {
+      "id": "uranus-discoverer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which astronomer discovered Uranus in 1781?",
+      "options": [
+        {
+          "id": "galileo-galilei",
+          "text": "Galileo Galilei"
+        },
+        {
+          "id": "johannes-kepler",
+          "text": "Johannes Kepler"
+        },
+        {
+          "id": "edmond-halley",
+          "text": "Edmond Halley"
+        },
+        {
+          "id": "william-herschel",
+          "text": "William Herschel"
+        }
+      ],
+      "correctOptionId": "william-herschel",
+      "explanation": "William Herschel discovered Uranus with a telescope on March 13, 1781.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Uranus",
+          "url": "https://www.britannica.com/place/Uranus-planet"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "herschel-discovers-uranus-1781"
+      ]
+    },
+    {
+      "id": "uranus-position",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Counting outward from the Sun, which planet is Uranus?",
+      "options": [
+        {
+          "id": "fifth",
+          "text": "Fifth"
+        },
+        {
+          "id": "sixth",
+          "text": "Sixth"
+        },
+        {
+          "id": "seventh",
+          "text": "Seventh"
+        },
+        {
+          "id": "eighth",
+          "text": "Eighth"
+        }
+      ],
+      "correctOptionId": "seventh",
+      "explanation": "Herschel's discovery of 1781 was the seventh planet from the Sun.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "herschel-discovers-uranus-1781"
+      ]
+    },
+    {
+      "id": "uranus-known-in-prehistory",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Uranus was recognized as a planet in prehistoric times, like Saturn.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Britannica calls Uranus the first planet to be discovered that had not been recognized in prehistoric times; Herschel found it with a telescope in 1781.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Uranus",
+          "url": "https://www.britannica.com/place/Uranus-planet"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "herschel-discovers-uranus-1781"
+      ]
+    },
+    {
+      "id": "pope-francis-archbishop-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Before his election as Pope Francis in 2013, Jorge Mario Bergoglio was archbishop of which city?",
+      "options": [
+        {
+          "id": "santiago",
+          "text": "Santiago"
+        },
+        {
+          "id": "buenos-aires",
+          "text": "Buenos Aires"
+        },
+        {
+          "id": "lima",
+          "text": "Lima"
+        },
+        {
+          "id": "bogota",
+          "text": "Bogota"
+        }
+      ],
+      "correctOptionId": "buenos-aires",
+      "explanation": "Bergoglio, archbishop of Buenos Aires, was elected pope on March 13, 2013.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "pope-francis-elected-2013"
+      ]
+    },
+    {
+      "id": "alexander-ii-assassination-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city was Tsar Alexander II of Russia assassinated in 1881?",
+      "options": [
+        {
+          "id": "st-petersburg",
+          "text": "St. Petersburg"
+        },
+        {
+          "id": "moscow",
+          "text": "Moscow"
+        },
+        {
+          "id": "kyiv",
+          "text": "Kyiv"
+        },
+        {
+          "id": "warsaw",
+          "text": "Warsaw"
+        }
+      ],
+      "correctOptionId": "st-petersburg",
+      "explanation": "Alexander II was assassinated in St. Petersburg, then Russia's capital, on March 13, 1881 (Gregorian).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "alexander-ii-assassinated-1881"
+      ]
+    },
+    {
+      "id": "einstein-birth-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which German city was Albert Einstein born in 1879?",
+      "options": [
+        {
+          "id": "berlin",
+          "text": "Berlin"
+        },
+        {
+          "id": "munich",
+          "text": "Munich"
+        },
+        {
+          "id": "ulm",
+          "text": "Ulm"
+        },
+        {
+          "id": "hamburg",
+          "text": "Hamburg"
+        }
+      ],
+      "correctOptionId": "ulm",
+      "explanation": "Einstein was born in Ulm, Germany, on March 14, 1879.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "albert-einstein-born-1879"
+      ]
+    },
+    {
+      "id": "cotton-gin-patent-holder",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who received a patent for the cotton gin in 1794?",
+      "options": [
+        {
+          "id": "eli-whitney",
+          "text": "Eli Whitney"
+        },
+        {
+          "id": "samuel-morse",
+          "text": "Samuel Morse"
+        },
+        {
+          "id": "cyrus-mccormick",
+          "text": "Cyrus McCormick"
+        },
+        {
+          "id": "robert-fulton",
+          "text": "Robert Fulton"
+        }
+      ],
+      "correctOptionId": "eli-whitney",
+      "explanation": "The American inventor Eli Whitney received his cotton gin patent on March 14, 1794.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "cotton-gin-patent-1794"
+      ]
+    },
+    {
+      "id": "communist-manifesto-coauthor",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Karl Marx wrote The Communist Manifesto (1848) with whom?",
+      "options": [
+        {
+          "id": "vladimir-lenin",
+          "text": "Vladimir Lenin"
+        },
+        {
+          "id": "leon-trotsky",
+          "text": "Leon Trotsky"
+        },
+        {
+          "id": "mikhail-bakunin",
+          "text": "Mikhail Bakunin"
+        },
+        {
+          "id": "friedrich-engels",
+          "text": "Friedrich Engels"
+        }
+      ],
+      "correctOptionId": "friedrich-engels",
+      "explanation": "Marx, who died on March 14, 1883, wrote the Manifesto with Friedrich Engels.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "karl-marx-dies-1883"
+      ]
+    },
+    {
+      "id": "hawking-1988-book",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which best-selling book did Stephen Hawking publish in 1988?",
+      "options": [
+        {
+          "id": "the-selfish-gene",
+          "text": "The Selfish Gene"
+        },
+        {
+          "id": "cosmos",
+          "text": "Cosmos"
+        },
+        {
+          "id": "the-elegant-universe",
+          "text": "The Elegant Universe"
+        },
+        {
+          "id": "a-brief-history-of-time",
+          "text": "A Brief History of Time"
+        }
+      ],
+      "correctOptionId": "a-brief-history-of-time",
+      "explanation": "Hawking, who died on March 14, 2018, was known for his work on black holes and for A Brief History of Time (1988).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "stephen-hawking-dies-2018"
+      ]
+    },
+    {
+      "id": "caesar-assassination-day",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "On which day of the Roman calendar was Julius Caesar assassinated in 44 BCE?",
+      "options": [
+        {
+          "id": "the-kalends-of-january",
+          "text": "The Kalends of January"
+        },
+        {
+          "id": "the-ides-of-march",
+          "text": "The Ides of March"
+        },
+        {
+          "id": "the-nones-of-april",
+          "text": "The Nones of April"
+        },
+        {
+          "id": "saturnalia",
+          "text": "Saturnalia"
+        }
+      ],
+      "correctOptionId": "the-ides-of-march",
+      "explanation": "Caesar was assassinated on the Ides of March (March 15), 44 BCE.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "collectionIds": [
+        "ancient-rome",
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "julius-caesar-assassinated-44bce"
+      ]
+    },
+    {
+      "id": "nicholas-ii-dynasty",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The abdication of Tsar Nicholas II in 1917 ended the rule of which dynasty?",
+      "options": [
+        {
+          "id": "rurik",
+          "text": "Rurik"
+        },
+        {
+          "id": "habsburg",
+          "text": "Habsburg"
+        },
+        {
+          "id": "hohenzollern",
+          "text": "Hohenzollern"
+        },
+        {
+          "id": "romanov",
+          "text": "Romanov"
+        }
+      ],
+      "correctOptionId": "romanov",
+      "explanation": "Nicholas II was forced to abdicate on March 15, 1917 (Gregorian), ending Romanov rule.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "nicholas-ii-abdicates-1917"
+      ]
+    },
+    {
+      "id": "we-shall-overcome-legislation",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Lyndon B. Johnson's 'We Shall Overcome' speech of 1965 introduced legislation on what?",
+      "options": [
+        {
+          "id": "voting-rights",
+          "text": "Voting rights"
+        },
+        {
+          "id": "medicare",
+          "text": "Medicare"
+        },
+        {
+          "id": "immigration",
+          "text": "Immigration"
+        },
+        {
+          "id": "housing",
+          "text": "Housing"
+        }
+      ],
+      "correctOptionId": "voting-rights",
+      "explanation": "Johnson delivered the speech on March 15, 1965, introducing voting rights legislation.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 15",
+          "url": "https://www.britannica.com/on-this-day/March-15"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "johnson-we-shall-overcome-speech-1965"
+      ]
+    },
+    {
+      "id": "andrew-jackson-president-number",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Andrew Jackson, born on March 15, 1767, was which president of the United States?",
+      "options": [
+        {
+          "id": "fifth",
+          "text": "Fifth"
+        },
+        {
+          "id": "seventh",
+          "text": "Seventh"
+        },
+        {
+          "id": "ninth",
+          "text": "Ninth"
+        },
+        {
+          "id": "eleventh",
+          "text": "Eleventh"
+        }
+      ],
+      "correctOptionId": "seventh",
+      "explanation": "Jackson served as the seventh president, from 1829 to 1837.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Andrew Jackson",
+          "url": "https://www.britannica.com/biography/Andrew-Jackson"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "andrew-jackson-born-1767"
+      ]
+    },
+    {
+      "id": "goddard-rocket-propellant",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "What kind of propellant powered Robert Goddard's pioneering rocket of 1926?",
+      "options": [
+        {
+          "id": "gunpowder",
+          "text": "Gunpowder"
+        },
+        {
+          "id": "compressed-air",
+          "text": "Compressed air"
+        },
+        {
+          "id": "liquid-propellant",
+          "text": "Liquid propellant"
+        },
+        {
+          "id": "nuclear-fuel",
+          "text": "Nuclear fuel"
+        }
+      ],
+      "correctOptionId": "liquid-propellant",
+      "explanation": "On March 16, 1926, Goddard flew the world's first liquid-propelled rocket in Auburn, Massachusetts.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Goddard",
+          "url": "https://www.britannica.com/biography/Robert-Goddard"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "goddard-liquid-fuel-rocket-1926"
+      ]
+    },
+    {
+      "id": "goddard-flight-duration",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "About how long did Goddard's first liquid-fueled rocket stay in the air?",
+      "options": [
+        {
+          "id": "2-5-seconds",
+          "text": "2.5 seconds"
+        },
+        {
+          "id": "25-seconds",
+          "text": "25 seconds"
+        },
+        {
+          "id": "2-5-minutes",
+          "text": "2.5 minutes"
+        },
+        {
+          "id": "25-minutes",
+          "text": "25 minutes"
+        }
+      ],
+      "correctOptionId": "2-5-seconds",
+      "explanation": "The 1926 rocket flew for 2.5 seconds, reaching 12.5 meters (41 feet).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Goddard",
+          "url": "https://www.britannica.com/biography/Robert-Goddard"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "goddard-liquid-fuel-rocket-1926"
+      ]
+    },
+    {
+      "id": "father-of-the-constitution",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which US president is known as the Father of the Constitution?",
+      "options": [
+        {
+          "id": "george-washington",
+          "text": "George Washington"
+        },
+        {
+          "id": "thomas-jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "james-madison",
+          "text": "James Madison"
+        },
+        {
+          "id": "john-adams",
+          "text": "John Adams"
+        }
+      ],
+      "correctOptionId": "james-madison",
+      "explanation": "Madison, born on March 16, 1751, created the basic framework for the US Constitution and helped write the Bill of Rights.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - James Madison",
+          "url": "https://www.britannica.com/biography/James-Madison"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "james-madison-born-1751"
+      ]
+    },
+    {
+      "id": "west-point-original-role",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "When the US Military Academy at West Point was founded in 1802, it was a training center for which corps?",
+      "options": [
+        {
+          "id": "the-marine-corps",
+          "text": "The Marine Corps"
+        },
+        {
+          "id": "the-signal-corps",
+          "text": "The Signal Corps"
+        },
+        {
+          "id": "the-medical-corps",
+          "text": "The Medical Corps"
+        },
+        {
+          "id": "the-corps-of-engineers",
+          "text": "The Corps of Engineers"
+        }
+      ],
+      "correctOptionId": "the-corps-of-engineers",
+      "explanation": "West Point was founded on March 16, 1802, originally as a training center for the US Corps of Engineers.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 16",
+          "url": "https://www.britannica.com/on-this-day/March-16"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "west-point-founded-1802"
+      ]
+    },
+    {
+      "id": "kingdom-of-italy-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city did a parliament proclaim the unified Kingdom of Italy in 1861?",
+      "options": [
+        {
+          "id": "rome",
+          "text": "Rome"
+        },
+        {
+          "id": "florence",
+          "text": "Florence"
+        },
+        {
+          "id": "turin",
+          "text": "Turin"
+        },
+        {
+          "id": "milan",
+          "text": "Milan"
+        }
+      ],
+      "correctOptionId": "turin",
+      "explanation": "A parliament in Turin proclaimed the Kingdom of Italy on March 17, 1861.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "kingdom-of-italy-proclaimed-1861"
+      ]
+    },
+    {
+      "id": "italian-unification-figure",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which revolutionary leader is named by Britannica among the figures behind the unification of Italy proclaimed in 1861?",
+      "options": [
+        {
+          "id": "giuseppe-garibaldi",
+          "text": "Giuseppe Garibaldi"
+        },
+        {
+          "id": "benito-mussolini",
+          "text": "Benito Mussolini"
+        },
+        {
+          "id": "niccolo-machiavelli",
+          "text": "Niccolo Machiavelli"
+        },
+        {
+          "id": "cesare-borgia",
+          "text": "Cesare Borgia"
+        }
+      ],
+      "correctOptionId": "giuseppe-garibaldi",
+      "explanation": "The kingdom was proclaimed after more than ten years of revolution led by figures such as Giuseppe Garibaldi.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "kingdom-of-italy-proclaimed-1861"
+      ]
+    },
+    {
+      "id": "boston-evacuation-general",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which British general evacuated Boston in March 1776 after a siege by George Washington's army?",
+      "options": [
+        {
+          "id": "charles-cornwallis",
+          "text": "Charles Cornwallis"
+        },
+        {
+          "id": "william-howe",
+          "text": "William Howe"
+        },
+        {
+          "id": "john-burgoyne",
+          "text": "John Burgoyne"
+        },
+        {
+          "id": "henry-clinton",
+          "text": "Henry Clinton"
+        }
+      ],
+      "correctOptionId": "william-howe",
+      "explanation": "General William Howe evacuated Boston on March 17, 1776.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "british-evacuate-boston-1776"
+      ]
+    },
+    {
+      "id": "vanguard-1-power",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Vanguard 1, launched in 1958, was the first satellite powered by what?",
+      "options": [
+        {
+          "id": "nuclear-power",
+          "text": "Nuclear power"
+        },
+        {
+          "id": "fuel-cells",
+          "text": "Fuel cells"
+        },
+        {
+          "id": "wind-up-springs",
+          "text": "Wind-up springs"
+        },
+        {
+          "id": "solar-power",
+          "text": "Solar power"
+        }
+      ],
+      "correctOptionId": "solar-power",
+      "explanation": "Vanguard 1, launched from Cape Canaveral on March 17, 1958, was the first solar-powered satellite.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "vanguard-1-launched-1958"
+      ]
+    },
+    {
+      "id": "golda-meir-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Golda Meir became prime minister of which country in 1969?",
+      "options": [
+        {
+          "id": "israel",
+          "text": "Israel"
+        },
+        {
+          "id": "india",
+          "text": "India"
+        },
+        {
+          "id": "sri-lanka",
+          "text": "Sri Lanka"
+        },
+        {
+          "id": "united-kingdom",
+          "text": "United Kingdom"
+        }
+      ],
+      "correctOptionId": "israel",
+      "explanation": "Golda Meir became Israel's fourth prime minister on March 17, 1969.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 17",
+          "url": "https://www.britannica.com/on-this-day/March-17"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "golda-meir-prime-minister-1969"
+      ]
+    },
+    {
+      "id": "first-spacewalker",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who became the first person to walk in space, in 1965?",
+      "options": [
+        {
+          "id": "aleksei-leonov",
+          "text": "Aleksei Leonov"
+        },
+        {
+          "id": "yuri-gagarin",
+          "text": "Yuri Gagarin"
+        },
+        {
+          "id": "ed-white",
+          "text": "Ed White"
+        },
+        {
+          "id": "valentina-tereshkova",
+          "text": "Valentina Tereshkova"
+        }
+      ],
+      "correctOptionId": "aleksei-leonov",
+      "explanation": "Aleksei Leonov left Voskhod 2 through an air lock on March 18, 1965.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "leonov-first-spacewalk-1965"
+      ]
+    },
+    {
+      "id": "leonov-spacecraft",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "From which spacecraft did Aleksei Leonov make the first spacewalk?",
+      "options": [
+        {
+          "id": "vostok-1",
+          "text": "Vostok 1"
+        },
+        {
+          "id": "soyuz-1",
+          "text": "Soyuz 1"
+        },
+        {
+          "id": "gemini-4",
+          "text": "Gemini 4"
+        },
+        {
+          "id": "voskhod-2",
+          "text": "Voskhod 2"
+        }
+      ],
+      "correctOptionId": "voskhod-2",
+      "explanation": "Leonov passed through an air lock on Voskhod 2 on March 18, 1965.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "leonov-first-spacewalk-1965"
+      ]
+    },
+    {
+      "id": "stamp-act-protest-group",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which colonial group, known for violent protests, opposed the Stamp Act before Parliament repealed it in 1766?",
+      "options": [
+        {
+          "id": "sons-of-liberty",
+          "text": "Sons of Liberty"
+        },
+        {
+          "id": "green-mountain-boys",
+          "text": "Green Mountain Boys"
+        },
+        {
+          "id": "minutemen",
+          "text": "Minutemen"
+        },
+        {
+          "id": "loyalists",
+          "text": "Loyalists"
+        }
+      ],
+      "correctOptionId": "sons-of-liberty",
+      "explanation": "Parliament repealed the Stamp Act on March 18, 1766, after violent protests by colonists, including the Sons of Liberty.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "stamp-act-repealed-1766"
+      ]
+    },
+    {
+      "id": "gardner-theft-dutch-painter",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The 1990 theft from Boston's Isabella Stewart Gardner Museum included paintings by Rembrandt and which other Dutch master?",
+      "options": [
+        {
+          "id": "vincent-van-gogh",
+          "text": "Vincent van Gogh"
+        },
+        {
+          "id": "johannes-vermeer",
+          "text": "Johannes Vermeer"
+        },
+        {
+          "id": "piet-mondrian",
+          "text": "Piet Mondrian"
+        },
+        {
+          "id": "hieronymus-bosch",
+          "text": "Hieronymus Bosch"
+        }
+      ],
+      "correctOptionId": "johannes-vermeer",
+      "explanation": "On March 18, 1990, thieves took 13 works, including paintings by Rembrandt and Johannes Vermeer. The art was never recovered.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "gardner-museum-theft-1990"
+      ]
+    },
+    {
+      "id": "sagrada-familia-architect",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which architect took over the Sagrada Familia in 1883 and transformed its design?",
+      "options": [
+        {
+          "id": "antoni-gaudi",
+          "text": "Antoni Gaudi"
+        },
+        {
+          "id": "le-corbusier",
+          "text": "Le Corbusier"
+        },
+        {
+          "id": "frank-gehry",
+          "text": "Frank Gehry"
+        },
+        {
+          "id": "santiago-calatrava",
+          "text": "Santiago Calatrava"
+        }
+      ],
+      "correctOptionId": "antoni-gaudi",
+      "explanation": "The cornerstone was laid on March 19, 1882; Antoni Gaudi became chief architect the next year.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Sagrada Familia",
+          "url": "https://www.britannica.com/topic/Sagrada-Familia"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "sagrada-familia-cornerstone-1882"
+      ]
+    },
+    {
+      "id": "sagrada-familia-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city is the Basilica de la Sagrada Familia?",
+      "options": [
+        {
+          "id": "madrid",
+          "text": "Madrid"
+        },
+        {
+          "id": "seville",
+          "text": "Seville"
+        },
+        {
+          "id": "valencia",
+          "text": "Valencia"
+        },
+        {
+          "id": "barcelona",
+          "text": "Barcelona"
+        }
+      ],
+      "correctOptionId": "barcelona",
+      "explanation": "The bishop of Barcelona laid its cornerstone on March 19, 1882.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "sagrada-familia-cornerstone-1882"
+      ]
+    },
+    {
+      "id": "standard-time-act-introduced",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did the US Standard Time Act, signed in 1918, establish?",
+      "options": [
+        {
+          "id": "daylight-saving-time",
+          "text": "Daylight saving time"
+        },
+        {
+          "id": "the-24-hour-clock",
+          "text": "The 24-hour clock"
+        },
+        {
+          "id": "leap-seconds",
+          "text": "Leap seconds"
+        },
+        {
+          "id": "the-international-date-line",
+          "text": "The International Date Line"
+        }
+      ],
+      "correctOptionId": "daylight-saving-time",
+      "explanation": "Woodrow Wilson signed the act on March 19, 1918. It established daylight saving time and gave the federal government oversight of time zones.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "standard-time-act-signed-1918"
+      ]
+    },
+    {
+      "id": "arthur-c-clarke-film",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Arthur C. Clarke worked with Stanley Kubrick on which film?",
+      "options": [
+        {
+          "id": "2001-a-space-odyssey",
+          "text": "2001: A Space Odyssey"
+        },
+        {
+          "id": "a-clockwork-orange",
+          "text": "A Clockwork Orange"
+        },
+        {
+          "id": "dr-strangelove",
+          "text": "Dr. Strangelove"
+        },
+        {
+          "id": "blade-runner",
+          "text": "Blade Runner"
+        }
+      ],
+      "correctOptionId": "2001-a-space-odyssey",
+      "explanation": "Clarke, who died on March 19, 2008, was known for his work on 2001: A Space Odyssey (1968).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "arthur-c-clarke-dies-2008"
+      ]
+    },
+    {
+      "id": "nevada-gambling-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Nevada's legalization of gambling in 1931 paved the way for casinos most notably in which city?",
+      "options": [
+        {
+          "id": "atlantic-city",
+          "text": "Atlantic City"
+        },
+        {
+          "id": "miami",
+          "text": "Miami"
+        },
+        {
+          "id": "new-orleans",
+          "text": "New Orleans"
+        },
+        {
+          "id": "las-vegas",
+          "text": "Las Vegas"
+        }
+      ],
+      "correctOptionId": "las-vegas",
+      "explanation": "Nevada legalized gambling on March 19, 1931.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 19",
+          "url": "https://www.britannica.com/on-this-day/March-19"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nevada-legalizes-gambling-1931"
+      ]
+    },
+    {
+      "id": "uncle-toms-cabin-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote Uncle Tom's Cabin, published as a book in 1852?",
+      "options": [
+        {
+          "id": "harriet-beecher-stowe",
+          "text": "Harriet Beecher Stowe"
+        },
+        {
+          "id": "louisa-may-alcott",
+          "text": "Louisa May Alcott"
+        },
+        {
+          "id": "frederick-douglass",
+          "text": "Frederick Douglass"
+        },
+        {
+          "id": "harriet-tubman",
+          "text": "Harriet Tubman"
+        }
+      ],
+      "correctOptionId": "harriet-beecher-stowe",
+      "explanation": "Stowe's novel was published as a book on March 20, 1852, after running as a serial.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "uncle-toms-cabin-published-1852"
+      ]
+    },
+    {
+      "id": "uncle-toms-cabin-serial-first",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Uncle Tom's Cabin ran as a serial before it was published as a book.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Britannica notes the novel had previously run as a serial before its book publication on March 20, 1852.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "uncle-toms-cabin-published-1852"
+      ]
+    },
+    {
+      "id": "lennon-ono-wedding-place",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Where did John Lennon marry Yoko Ono in 1969?",
+      "options": [
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "amsterdam",
+          "text": "Amsterdam"
+        },
+        {
+          "id": "gibraltar",
+          "text": "Gibraltar"
+        },
+        {
+          "id": "liverpool",
+          "text": "Liverpool"
+        }
+      ],
+      "correctOptionId": "gibraltar",
+      "explanation": "Lennon married Ono in Gibraltar on March 20, 1969.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "lennon-marries-yoko-ono-1969"
+      ]
+    },
+    {
+      "id": "ripon-party",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "An 1854 meeting in Ripon, Wisconsin, proposed forming which political party?",
+      "options": [
+        {
+          "id": "the-whig-party",
+          "text": "The Whig Party"
+        },
+        {
+          "id": "the-democratic-party",
+          "text": "The Democratic Party"
+        },
+        {
+          "id": "the-republican-party",
+          "text": "The Republican Party"
+        },
+        {
+          "id": "the-free-soil-party",
+          "text": "The Free Soil Party"
+        }
+      ],
+      "correctOptionId": "the-republican-party",
+      "explanation": "Whigs, anti-Nebraska Democrats and Free-Soilers met in Ripon on March 20, 1854, and proposed what became the Republican Party.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "ripon-republican-party-meeting-1854"
+      ]
+    },
+    {
+      "id": "alcatraz-bay",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Alcatraz prison, closed in 1963, stood on an island in which bay?",
+      "options": [
+        {
+          "id": "chesapeake-bay",
+          "text": "Chesapeake Bay"
+        },
+        {
+          "id": "san-francisco-bay",
+          "text": "San Francisco Bay"
+        },
+        {
+          "id": "tampa-bay",
+          "text": "Tampa Bay"
+        },
+        {
+          "id": "monterey-bay",
+          "text": "Monterey Bay"
+        }
+      ],
+      "correctOptionId": "san-francisco-bay",
+      "explanation": "The prison on Alcatraz Island in San Francisco Bay was formally shut down on March 21, 1963.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "alcatraz-closes-1963"
+      ]
+    },
+    {
+      "id": "first-tweet-text",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did the first public tweet, sent by Jack Dorsey in 2006, say?",
+      "options": [
+        {
+          "id": "just-setting-up-my-twttr",
+          "text": "just setting up my twttr"
+        },
+        {
+          "id": "hello-world",
+          "text": "hello world"
+        },
+        {
+          "id": "what-are-you-doing",
+          "text": "what are you doing?"
+        },
+        {
+          "id": "testing-testing",
+          "text": "testing, testing"
+        }
+      ],
+      "correctOptionId": "just-setting-up-my-twttr",
+      "explanation": "Dorsey's tweet of March 21, 2006, read 'just setting up my twttr.'",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-public-tweet-2006"
+      ]
+    },
+    {
+      "id": "namibia-former-ruler",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Before independence in 1990, Namibia had been ruled by Germany and then by which country?",
+      "options": [
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "south-africa",
+          "text": "South Africa"
+        },
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        }
+      ],
+      "correctOptionId": "south-africa",
+      "explanation": "Namibia became independent on March 21, 1990, after 106 years of German and South African rule.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "namibia-independence-1990"
+      ]
+    },
+    {
+      "id": "sharpeville-protest-laws",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Sharpeville protest of 1960 in South Africa was against which laws?",
+      "options": [
+        {
+          "id": "the-pass-laws",
+          "text": "The pass laws"
+        },
+        {
+          "id": "the-salt-laws",
+          "text": "The salt laws"
+        },
+        {
+          "id": "the-corn-laws",
+          "text": "The corn laws"
+        },
+        {
+          "id": "the-poll-tax",
+          "text": "The poll tax"
+        }
+      ],
+      "correctOptionId": "the-pass-laws",
+      "explanation": "Police killed about 70 demonstrators protesting South Africa's pass laws on March 21, 1960.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "sharpeville-massacre-1960"
+      ]
+    },
+    {
+      "id": "please-please-me-first-what",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Please Please Me, released in the UK on March 22, 1963, was the Beatles' first what?",
+      "options": [
+        {
+          "id": "single",
+          "text": "Single"
+        },
+        {
+          "id": "film",
+          "text": "Film"
+        },
+        {
+          "id": "us-tour",
+          "text": "US tour"
+        },
+        {
+          "id": "album",
+          "text": "Album"
+        }
+      ],
+      "correctOptionId": "album",
+      "explanation": "Please Please Me was the Beatles' first album. Their first single, Love Me Do, came out in 1962.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "please-please-me-released-1963"
+      ]
+    },
+    {
+      "id": "arab-league-founding-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city was the Arab League organized in 1945?",
+      "options": [
+        {
+          "id": "damascus",
+          "text": "Damascus"
+        },
+        {
+          "id": "baghdad",
+          "text": "Baghdad"
+        },
+        {
+          "id": "cairo",
+          "text": "Cairo"
+        },
+        {
+          "id": "riyadh",
+          "text": "Riyadh"
+        }
+      ],
+      "correctOptionId": "cairo",
+      "explanation": "The Arab League was organized in Cairo on March 22, 1945.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "arab-league-founded-1945"
+      ]
+    },
+    {
+      "id": "first-masters-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The first Masters Tournament, in 1934, was hosted in Augusta in which US state?",
+      "options": [
+        {
+          "id": "south-carolina",
+          "text": "South Carolina"
+        },
+        {
+          "id": "alabama",
+          "text": "Alabama"
+        },
+        {
+          "id": "florida",
+          "text": "Florida"
+        },
+        {
+          "id": "georgia",
+          "text": "Georgia"
+        }
+      ],
+      "correctOptionId": "georgia",
+      "explanation": "Augusta National Golf Club in Augusta, Georgia, hosted the first Masters on March 22, 1934.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-masters-tournament-1934"
+      ]
+    },
+    {
+      "id": "goethe-death-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which German city did Johann Wolfgang von Goethe die in 1832?",
+      "options": [
+        {
+          "id": "weimar",
+          "text": "Weimar"
+        },
+        {
+          "id": "berlin",
+          "text": "Berlin"
+        },
+        {
+          "id": "frankfurt",
+          "text": "Frankfurt"
+        },
+        {
+          "id": "leipzig",
+          "text": "Leipzig"
+        }
+      ],
+      "correctOptionId": "weimar",
+      "explanation": "Goethe died in Weimar on March 22, 1832.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "goethe-dies-1832"
+      ]
+    },
+    {
+      "id": "patrick-henry-phrase",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which phrase is Patrick Henry's speech of March 23, 1775, best known for?",
+      "options": [
+        {
+          "id": "give-me-liberty-or-give-me-death",
+          "text": "Give me liberty or give me death"
+        },
+        {
+          "id": "i-have-not-yet-begun-to-fight",
+          "text": "I have not yet begun to fight"
+        },
+        {
+          "id": "don-t-tread-on-me",
+          "text": "Don't tread on me"
+        },
+        {
+          "id": "no-taxation-without-representation",
+          "text": "No taxation without representation"
+        }
+      ],
+      "correctOptionId": "give-me-liberty-or-give-me-death",
+      "explanation": "Henry, a major figure of the American Revolution, delivered the speech on March 23, 1775.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "patrick-henry-liberty-or-death-1775"
+      ]
+    },
+    {
+      "id": "enabling-act-dominant-party",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which party, with the German National People's Party, dominated the Reichstag that passed the Enabling Act in 1933?",
+      "options": [
+        {
+          "id": "the-nazi-party",
+          "text": "The Nazi Party"
+        },
+        {
+          "id": "the-social-democratic-party",
+          "text": "The Social Democratic Party"
+        },
+        {
+          "id": "the-communist-party",
+          "text": "The Communist Party"
+        },
+        {
+          "id": "the-centre-party",
+          "text": "The Centre Party"
+        }
+      ],
+      "correctOptionId": "the-nazi-party",
+      "explanation": "On March 23, 1933, a Reichstag dominated by the Nazi Party and the German National People's Party voted to pass the Enabling Act.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "enabling-act-passed-1933"
+      ]
+    },
+    {
+      "id": "mir-years-in-orbit",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Mir space station was designed for 5 years of service. How long did it stay in orbit?",
+      "options": [
+        {
+          "id": "7-years",
+          "text": "7 years"
+        },
+        {
+          "id": "10-years",
+          "text": "10 years"
+        },
+        {
+          "id": "15-years",
+          "text": "15 years"
+        },
+        {
+          "id": "25-years",
+          "text": "25 years"
+        }
+      ],
+      "correctOptionId": "15-years",
+      "explanation": "Mir ended 15 years in orbit when it fell into the South Pacific on March 23, 2001.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "mir-space-station-reenters-2001"
+      ]
+    },
+    {
+      "id": "koch-1882-disease",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "On March 24, 1882, Robert Koch announced he had found the bacterium that causes which disease?",
+      "options": [
+        {
+          "id": "cholera",
+          "text": "Cholera"
+        },
+        {
+          "id": "tuberculosis",
+          "text": "Tuberculosis"
+        },
+        {
+          "id": "anthrax",
+          "text": "Anthrax"
+        },
+        {
+          "id": "malaria",
+          "text": "Malaria"
+        }
+      ],
+      "correctOptionId": "tuberculosis",
+      "explanation": "Koch's announcement about the tuberculosis bacterium is marked each year on World TB Day, March 24.",
+      "sources": [
+        {
+          "displayName": "World Health Organization - World TB Day",
+          "url": "https://www.who.int/campaigns/world-tb-day"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Koch",
+          "url": "https://www.britannica.com/biography/Robert-Koch"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "koch-announces-tuberculosis-bacterium-1882"
+      ]
+    },
+    {
+      "id": "world-tb-day-scientist",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "World TB Day falls on March 24 because of whose announcement in 1882?",
+      "options": [
+        {
+          "id": "louis-pasteur",
+          "text": "Louis Pasteur"
+        },
+        {
+          "id": "joseph-lister",
+          "text": "Joseph Lister"
+        },
+        {
+          "id": "alexander-fleming",
+          "text": "Alexander Fleming"
+        },
+        {
+          "id": "robert-koch",
+          "text": "Robert Koch"
+        }
+      ],
+      "correctOptionId": "robert-koch",
+      "explanation": "The World Health Organization says the date marks Robert Koch's 1882 announcement of the bacterium that causes TB.",
+      "sources": [
+        {
+          "displayName": "World Health Organization - World TB Day",
+          "url": "https://www.who.int/campaigns/world-tb-day"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "koch-announces-tuberculosis-bacterium-1882"
+      ]
+    },
+    {
+      "id": "exxon-valdez-waters",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Into which body of water did the Exxon Valdez spill oil in 1989?",
+      "options": [
+        {
+          "id": "cook-inlet",
+          "text": "Cook Inlet"
+        },
+        {
+          "id": "puget-sound",
+          "text": "Puget Sound"
+        },
+        {
+          "id": "the-bering-sea",
+          "text": "The Bering Sea"
+        },
+        {
+          "id": "prince-william-sound",
+          "text": "Prince William Sound"
+        }
+      ],
+      "correctOptionId": "prince-william-sound",
+      "explanation": "The tanker ran aground on March 24, 1989, spilling some 11 million gallons of oil into Prince William Sound, Alaska.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "exxon-valdez-oil-spill-1989"
+      ]
+    },
+    {
+      "id": "elizabeth-i-successor",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who succeeded Elizabeth I on the English throne in 1603?",
+      "options": [
+        {
+          "id": "charles-i",
+          "text": "Charles I"
+        },
+        {
+          "id": "mary-i",
+          "text": "Mary I"
+        },
+        {
+          "id": "william-iii",
+          "text": "William III"
+        },
+        {
+          "id": "james-i",
+          "text": "James I"
+        }
+      ],
+      "correctOptionId": "james-i",
+      "explanation": "After Elizabeth died on March 24, 1603, King James VI of Scotland became James I of England.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "elizabeth-i-dies-1603"
+      ]
+    },
+    {
+      "id": "oscar-romero-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city was Archbishop Oscar Romero assassinated in 1980?",
+      "options": [
+        {
+          "id": "guatemala-city",
+          "text": "Guatemala City"
+        },
+        {
+          "id": "san-salvador",
+          "text": "San Salvador"
+        },
+        {
+          "id": "managua",
+          "text": "Managua"
+        },
+        {
+          "id": "tegucigalpa",
+          "text": "Tegucigalpa"
+        }
+      ],
+      "correctOptionId": "san-salvador",
+      "explanation": "Romero was killed while celebrating mass in San Salvador on March 24, 1980, and was canonized in 2018.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "oscar-romero-assassinated-1980"
+      ]
+    },
+    {
+      "id": "treaty-of-rome-created",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did the Treaty of Rome, signed in 1957, establish?",
+      "options": [
+        {
+          "id": "the-european-union",
+          "text": "The European Union"
+        },
+        {
+          "id": "nato",
+          "text": "NATO"
+        },
+        {
+          "id": "the-european-economic-community",
+          "text": "The European Economic Community"
+        },
+        {
+          "id": "the-council-of-europe",
+          "text": "The Council of Europe"
+        }
+      ],
+      "correctOptionId": "the-european-economic-community",
+      "explanation": "The treaty of March 25, 1957, established the European Economic Community, a common market and customs union.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Treaty of Rome",
+          "url": "https://www.britannica.com/event/Treaty-of-Rome"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "treaty-of-rome-signed-1957"
+      ]
+    },
+    {
+      "id": "treaty-of-rome-non-signer",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these countries was NOT one of the six that signed the Treaty of Rome in 1957?",
+      "options": [
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        },
+        {
+          "id": "united-kingdom",
+          "text": "United Kingdom"
+        }
+      ],
+      "correctOptionId": "united-kingdom",
+      "explanation": "The signers were Belgium, France, West Germany, Italy, Luxembourg and the Netherlands.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Treaty of Rome",
+          "url": "https://www.britannica.com/event/Treaty-of-Rome"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "treaty-of-rome-signed-1957"
+      ]
+    },
+    {
+      "id": "triangle-fire-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Triangle shirtwaist factory fire of 1911, which killed 146 people, happened in which city?",
+      "options": [
+        {
+          "id": "chicago",
+          "text": "Chicago"
+        },
+        {
+          "id": "philadelphia",
+          "text": "Philadelphia"
+        },
+        {
+          "id": "boston",
+          "text": "Boston"
+        },
+        {
+          "id": "new-york-city",
+          "text": "New York City"
+        }
+      ],
+      "correctOptionId": "new-york-city",
+      "explanation": "The fire broke out in New York City on March 25, 1911.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "triangle-shirtwaist-fire-1911"
+      ]
+    },
+    {
+      "id": "queen-of-soul",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which singer, born on March 25, 1942, was crowned the 'Queen of Soul'?",
+      "options": [
+        {
+          "id": "diana-ross",
+          "text": "Diana Ross"
+        },
+        {
+          "id": "ella-fitzgerald",
+          "text": "Ella Fitzgerald"
+        },
+        {
+          "id": "tina-turner",
+          "text": "Tina Turner"
+        },
+        {
+          "id": "aretha-franklin",
+          "text": "Aretha Franklin"
+        }
+      ],
+      "correctOptionId": "aretha-franklin",
+      "explanation": "Britannica describes Aretha Franklin as the singer crowned the 'Queen of Soul'.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "aretha-franklin-born-1942"
+      ]
+    },
+    {
+      "id": "first-fare-railway-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The first fee-paying passenger railway began operating in 1807 in which country?",
+      "options": [
+        {
+          "id": "england",
+          "text": "England"
+        },
+        {
+          "id": "scotland",
+          "text": "Scotland"
+        },
+        {
+          "id": "wales",
+          "text": "Wales"
+        },
+        {
+          "id": "ireland",
+          "text": "Ireland"
+        }
+      ],
+      "correctOptionId": "wales",
+      "explanation": "The line later known as the Mumbles Railway started carrying fee-paying passengers in Wales on March 25, 1807.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation",
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "mumbles-railway-passengers-1807"
+      ]
+    },
+    {
+      "id": "egypt-israel-treaty-basis",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Egypt-Israel peace treaty of 1979 was based on which earlier agreements?",
+      "options": [
+        {
+          "id": "the-oslo-accords",
+          "text": "The Oslo Accords"
+        },
+        {
+          "id": "the-camp-david-accords",
+          "text": "The Camp David Accords"
+        },
+        {
+          "id": "the-sykes-picot-agreement",
+          "text": "The Sykes-Picot Agreement"
+        },
+        {
+          "id": "the-balfour-declaration",
+          "text": "The Balfour Declaration"
+        }
+      ],
+      "correctOptionId": "the-camp-david-accords",
+      "explanation": "The treaty, signed on March 26, 1979, was based on the Camp David Accords mediated by Jimmy Carter in September 1978.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "egypt-israel-peace-treaty-1979"
+      ]
+    },
+    {
+      "id": "camp-david-mediator",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which US president mediated the Camp David Accords that led to the 1979 Egypt-Israel peace treaty?",
+      "options": [
+        {
+          "id": "gerald-ford",
+          "text": "Gerald Ford"
+        },
+        {
+          "id": "richard-nixon",
+          "text": "Richard Nixon"
+        },
+        {
+          "id": "jimmy-carter",
+          "text": "Jimmy Carter"
+        },
+        {
+          "id": "ronald-reagan",
+          "text": "Ronald Reagan"
+        }
+      ],
+      "correctOptionId": "jimmy-carter",
+      "explanation": "Jimmy Carter mediated the accords in September 1978; the treaty followed on March 26, 1979.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "egypt-israel-peace-treaty-1979"
+      ]
+    },
+    {
+      "id": "gerrymander-newspaper",
+      "type": "multiple_choice",
+      "difficulty": "hard",
+      "publicationState": "draft",
+      "prompt": "Which newspaper published the 1812 cartoon that gave us the word 'gerrymander'?",
+      "options": [
+        {
+          "id": "the-boston-gazette",
+          "text": "The Boston Gazette"
+        },
+        {
+          "id": "the-new-york-post",
+          "text": "The New York Post"
+        },
+        {
+          "id": "the-pennsylvania-gazette",
+          "text": "The Pennsylvania Gazette"
+        },
+        {
+          "id": "the-hartford-courant",
+          "text": "The Hartford Courant"
+        }
+      ],
+      "correctOptionId": "the-boston-gazette",
+      "explanation": "On March 26, 1812, the Boston Gazette turned a redrawn district into a fabulous animal, 'The Gerry-mander.'",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gerrymander-cartoon-1812"
+      ]
+    },
+    {
+      "id": "beethoven-death-age",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "At what age did Ludwig van Beethoven die in 1827?",
+      "options": [
+        {
+          "id": "35",
+          "text": "35"
+        },
+        {
+          "id": "56",
+          "text": "56"
+        },
+        {
+          "id": "72",
+          "text": "72"
+        },
+        {
+          "id": "84",
+          "text": "84"
+        }
+      ],
+      "correctOptionId": "56",
+      "explanation": "Beethoven died on March 26, 1827, at age 56.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "beethoven-dies-1827"
+      ]
+    },
+    {
+      "id": "robert-frost-region",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Poet Robert Frost, born in San Francisco, is best known for depicting life in which region?",
+      "options": [
+        {
+          "id": "the-american-south",
+          "text": "The American South"
+        },
+        {
+          "id": "the-pacific-northwest",
+          "text": "The Pacific Northwest"
+        },
+        {
+          "id": "the-great-plains",
+          "text": "The Great Plains"
+        },
+        {
+          "id": "rural-new-england",
+          "text": "Rural New England"
+        }
+      ],
+      "correctOptionId": "rural-new-england",
+      "explanation": "Frost, born on March 26, 1874, was admired for his depictions of rural New England life.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "robert-frost-born-1874"
+      ]
+    },
+    {
+      "id": "alaska-earthquake-magnitude",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What was the magnitude of the 1964 Alaska earthquake, the strongest recorded in the United States?",
+      "options": [
+        {
+          "id": "7-8",
+          "text": "7.8"
+        },
+        {
+          "id": "8-4",
+          "text": "8.4"
+        },
+        {
+          "id": "9-2",
+          "text": "9.2"
+        },
+        {
+          "id": "9-8",
+          "text": "9.8"
+        }
+      ],
+      "correctOptionId": "9-2",
+      "explanation": "South-central Alaska was struck by a magnitude 9.2 earthquake on March 27, 1964.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "great-alaska-earthquake-1964"
+      ]
+    },
+    {
+      "id": "khrushchev-replaced",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Whom did Nikita Khrushchev replace as Soviet premier in 1958?",
+      "options": [
+        {
+          "id": "georgy-malenkov",
+          "text": "Georgy Malenkov"
+        },
+        {
+          "id": "vyacheslav-molotov",
+          "text": "Vyacheslav Molotov"
+        },
+        {
+          "id": "leonid-brezhnev",
+          "text": "Leonid Brezhnev"
+        },
+        {
+          "id": "nikolay-bulganin",
+          "text": "Nikolay Bulganin"
+        }
+      ],
+      "correctOptionId": "nikolay-bulganin",
+      "explanation": "Khrushchev replaced Nikolay Bulganin as premier on March 27, 1958.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "khrushchev-becomes-premier-1958"
+      ]
+    },
+    {
+      "id": "typhoid-mary-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What was the real name of the woman known as Typhoid Mary?",
+      "options": [
+        {
+          "id": "mary-mallon",
+          "text": "Mary Mallon"
+        },
+        {
+          "id": "mary-harris",
+          "text": "Mary Harris"
+        },
+        {
+          "id": "mary-walker",
+          "text": "Mary Walker"
+        },
+        {
+          "id": "mary-ludwig",
+          "text": "Mary Ludwig"
+        }
+      ],
+      "correctOptionId": "mary-mallon",
+      "explanation": "Mary Mallon was placed in quarantine on North Brother Island, New York City, on March 27, 1915.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "typhoid-mary-quarantined-1915"
+      ]
+    },
+    {
+      "id": "horseshoe-bend-commander",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who commanded the troops that defeated the Creek at the Battle of Horseshoe Bend in 1814?",
+      "options": [
+        {
+          "id": "william-henry-harrison",
+          "text": "William Henry Harrison"
+        },
+        {
+          "id": "andrew-jackson",
+          "text": "Andrew Jackson"
+        },
+        {
+          "id": "winfield-scott",
+          "text": "Winfield Scott"
+        },
+        {
+          "id": "zachary-taylor",
+          "text": "Zachary Taylor"
+        }
+      ],
+      "correctOptionId": "andrew-jackson",
+      "explanation": "Andrew Jackson and about 3,000 troops won the battle on March 27, 1814.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-horseshoe-bend-1814"
+      ]
+    },
+    {
+      "id": "three-mile-island-state",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which US state is the Three Mile Island nuclear plant?",
+      "options": [
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "ohio",
+          "text": "Ohio"
+        },
+        {
+          "id": "new-jersey",
+          "text": "New Jersey"
+        },
+        {
+          "id": "pennsylvania",
+          "text": "Pennsylvania"
+        }
+      ],
+      "correctOptionId": "pennsylvania",
+      "explanation": "The plant, in the Susquehanna River near Harrisburg, Pennsylvania, began its accident on March 28, 1979.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Three Mile Island accident",
+          "url": "https://www.britannica.com/event/Three-Mile-Island-accident"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "three-mile-island-accident-1979"
+      ]
+    },
+    {
+      "id": "three-mile-island-most-serious",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Britannica calls the Three Mile Island accident the most serious in the history of the American nuclear power industry.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "The accident began at 4:00 am on March 28, 1979, when a valve mistakenly closed.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Three Mile Island accident",
+          "url": "https://www.britannica.com/event/Three-Mile-Island-accident"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "three-mile-island-accident-1979"
+      ]
+    },
+    {
+      "id": "madrid-1939-captor",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Whose forces captured Madrid in March 1939, near the end of the Spanish Civil War?",
+      "options": [
+        {
+          "id": "francisco-franco",
+          "text": "Francisco Franco"
+        },
+        {
+          "id": "benito-mussolini",
+          "text": "Benito Mussolini"
+        },
+        {
+          "id": "antonio-salazar",
+          "text": "Antonio Salazar"
+        },
+        {
+          "id": "miguel-primo-de-rivera",
+          "text": "Miguel Primo de Rivera"
+        }
+      ],
+      "correctOptionId": "francisco-franco",
+      "explanation": "Franco's forces captured Madrid on March 28, 1939.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "franco-captures-madrid-1939"
+      ]
+    },
+    {
+      "id": "eisenhower-president-number",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Dwight D. Eisenhower, who died in 1969, was which president of the United States?",
+      "options": [
+        {
+          "id": "32nd",
+          "text": "32nd"
+        },
+        {
+          "id": "34th",
+          "text": "34th"
+        },
+        {
+          "id": "36th",
+          "text": "36th"
+        },
+        {
+          "id": "38th",
+          "text": "38th"
+        }
+      ],
+      "correctOptionId": "34th",
+      "explanation": "Eisenhower, the 34th president, died on March 28, 1969, at age 78.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "eisenhower-dies-1969"
+      ]
+    },
+    {
+      "id": "vargas-llosa-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Novelist Mario Vargas Llosa was born in 1936 in which country?",
+      "options": [
+        {
+          "id": "chile",
+          "text": "Chile"
+        },
+        {
+          "id": "colombia",
+          "text": "Colombia"
+        },
+        {
+          "id": "peru",
+          "text": "Peru"
+        },
+        {
+          "id": "argentina",
+          "text": "Argentina"
+        }
+      ],
+      "correctOptionId": "peru",
+      "explanation": "Vargas Llosa was born in Arequipa, Peru, on March 28, 1936.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "mario-vargas-llosa-born-1936"
+      ]
+    },
+    {
+      "id": "terra-cotta-army-emperor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The terra-cotta army found near Xi'an in 1974 belongs to the tomb of which emperor?",
+      "options": [
+        {
+          "id": "kublai-khan",
+          "text": "Kublai Khan"
+        },
+        {
+          "id": "wu-of-han",
+          "text": "Wu of Han"
+        },
+        {
+          "id": "qin-shi-huang",
+          "text": "Qin Shi Huang"
+        },
+        {
+          "id": "taizong-of-tang",
+          "text": "Taizong of Tang"
+        }
+      ],
+      "correctOptionId": "qin-shi-huang",
+      "explanation": "Farmers drilling a well on March 29, 1974, found the chamber that led to the army of about 8,000 figures in Qin Shi Huang's tomb.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 29",
+          "url": "https://www.britannica.com/on-this-day/March-29"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "terra-cotta-army-found-1974"
+      ]
+    },
+    {
+      "id": "terra-cotta-army-finders",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who first came upon the underground chamber that led to the terra-cotta army in 1974?",
+      "options": [
+        {
+          "id": "a-team-of-archaeologists",
+          "text": "A team of archaeologists"
+        },
+        {
+          "id": "soldiers-building-a-road",
+          "text": "Soldiers building a road"
+        },
+        {
+          "id": "miners-searching-for-coal",
+          "text": "Miners searching for coal"
+        },
+        {
+          "id": "farmers-drilling-a-well",
+          "text": "Farmers drilling a well"
+        }
+      ],
+      "correctOptionId": "farmers-drilling-a-well",
+      "explanation": "Farmers drilling a well near Xi'an found the chamber on March 29, 1974.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 29",
+          "url": "https://www.britannica.com/on-this-day/March-29"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "terra-cotta-army-found-1974"
+      ]
+    },
+    {
+      "id": "vesta-object-type",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What kind of object is Vesta, discovered by Wilhelm Olbers in 1807?",
+      "options": [
+        {
+          "id": "a-comet",
+          "text": "A comet"
+        },
+        {
+          "id": "a-moon-of-jupiter",
+          "text": "A moon of Jupiter"
+        },
+        {
+          "id": "an-asteroid",
+          "text": "An asteroid"
+        },
+        {
+          "id": "a-distant-star",
+          "text": "A distant star"
+        }
+      ],
+      "correctOptionId": "an-asteroid",
+      "explanation": "Olbers discovered the minor planet Vesta, the brightest asteroid in the sky, on March 29, 1807.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 29",
+          "url": "https://www.britannica.com/on-this-day/March-29"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "olbers-discovers-vesta-1807"
+      ]
+    },
+    {
+      "id": "king-and-i-star",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which actor became a star through the 1951 Broadway musical The King and I?",
+      "options": [
+        {
+          "id": "gene-kelly",
+          "text": "Gene Kelly"
+        },
+        {
+          "id": "yul-brynner",
+          "text": "Yul Brynner"
+        },
+        {
+          "id": "rex-harrison",
+          "text": "Rex Harrison"
+        },
+        {
+          "id": "frank-sinatra",
+          "text": "Frank Sinatra"
+        }
+      ],
+      "correctOptionId": "yul-brynner",
+      "explanation": "The Rodgers and Hammerstein musical debuted on March 29, 1951, and made Yul Brynner a star.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 29",
+          "url": "https://www.britannica.com/on-this-day/March-29"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "the-king-and-i-opens-1951"
+      ]
+    },
+    {
+      "id": "twenty-third-amendment-voters",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Twenty-third Amendment, certified in 1961, let residents of which place vote in presidential elections?",
+      "options": [
+        {
+          "id": "puerto-rico",
+          "text": "Puerto Rico"
+        },
+        {
+          "id": "guam",
+          "text": "Guam"
+        },
+        {
+          "id": "the-us-virgin-islands",
+          "text": "The US Virgin Islands"
+        },
+        {
+          "id": "washington-d-c",
+          "text": "Washington, D.C."
+        }
+      ],
+      "correctOptionId": "washington-d-c",
+      "explanation": "The amendment was certified on March 29, 1961.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 29",
+          "url": "https://www.britannica.com/on-this-day/March-29"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "twenty-third-amendment-1961"
+      ]
+    },
+    {
+      "id": "alaska-purchase-seller",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "From which country did the United States agree to buy Alaska in 1867?",
+      "options": [
+        {
+          "id": "canada",
+          "text": "Canada"
+        },
+        {
+          "id": "britain",
+          "text": "Britain"
+        },
+        {
+          "id": "russia",
+          "text": "Russia"
+        },
+        {
+          "id": "spain",
+          "text": "Spain"
+        }
+      ],
+      "correctOptionId": "russia",
+      "explanation": "Secretary of State William H. Seward negotiated the purchase from Russia, agreed on March 30, 1867.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 30",
+          "url": "https://www.britannica.com/on-this-day/March-30"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "alaska-purchase-treaty-signed-1867"
+      ]
+    },
+    {
+      "id": "alaska-purchase-price",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How much did the United States agree to pay for Alaska in 1867?",
+      "options": [
+        {
+          "id": "720-000",
+          "text": "$720,000"
+        },
+        {
+          "id": "7-2-million",
+          "text": "$7.2 million"
+        },
+        {
+          "id": "72-million",
+          "text": "$72 million"
+        },
+        {
+          "id": "720-million",
+          "text": "$720 million"
+        }
+      ],
+      "correctOptionId": "7-2-million",
+      "explanation": "The 1867 purchase price was $7.2 million.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 30",
+          "url": "https://www.britannica.com/on-this-day/March-30"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "alaska-purchase-treaty-signed-1867"
+      ]
+    },
+    {
+      "id": "alaska-purchase-negotiator",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which US secretary of state negotiated the purchase of Alaska?",
+      "options": [
+        {
+          "id": "william-h-seward",
+          "text": "William H. Seward"
+        },
+        {
+          "id": "john-hay",
+          "text": "John Hay"
+        },
+        {
+          "id": "henry-clay",
+          "text": "Henry Clay"
+        },
+        {
+          "id": "daniel-webster",
+          "text": "Daniel Webster"
+        }
+      ],
+      "correctOptionId": "william-h-seward",
+      "explanation": "William H. Seward negotiated the purchase in 1867.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 30",
+          "url": "https://www.britannica.com/on-this-day/March-30"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "alaska-purchase-treaty-signed-1867"
+      ]
+    },
+    {
+      "id": "treaty-of-paris-1856-war",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Treaty of Paris signed in 1856 ended which war?",
+      "options": [
+        {
+          "id": "the-franco-prussian-war",
+          "text": "The Franco-Prussian War"
+        },
+        {
+          "id": "the-napoleonic-wars",
+          "text": "The Napoleonic Wars"
+        },
+        {
+          "id": "the-seven-years-war",
+          "text": "The Seven Years' War"
+        },
+        {
+          "id": "the-crimean-war",
+          "text": "The Crimean War"
+        }
+      ],
+      "correctOptionId": "the-crimean-war",
+      "explanation": "The treaty was signed on March 30, 1856.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 30",
+          "url": "https://www.britannica.com/on-this-day/March-30"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "treaty-of-paris-ends-crimean-war-1856"
+      ]
+    },
+    {
+      "id": "eiffel-tower-occasion",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Eiffel Tower was built for the International Exposition of 1889, which marked the centenary of what?",
+      "options": [
+        {
+          "id": "the-french-revolution",
+          "text": "The French Revolution"
+        },
+        {
+          "id": "the-founding-of-paris",
+          "text": "The founding of Paris"
+        },
+        {
+          "id": "napoleon-s-coronation",
+          "text": "Napoleon's coronation"
+        },
+        {
+          "id": "the-end-of-the-franco-prussian-war",
+          "text": "The end of the Franco-Prussian War"
+        }
+      ],
+      "correctOptionId": "the-french-revolution",
+      "explanation": "The tower, inaugurated on March 31, 1889, was built for the exposition celebrating the centenary of the French Revolution.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Eiffel Tower",
+          "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "eiffel-tower-inaugurated-1889"
+      ]
+    },
+    {
+      "id": "eiffel-tower-original-height",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "About how tall was the Eiffel Tower when it was completed in 1889?",
+      "options": [
+        {
+          "id": "100-meters",
+          "text": "100 meters"
+        },
+        {
+          "id": "200-meters",
+          "text": "200 meters"
+        },
+        {
+          "id": "300-meters",
+          "text": "300 meters"
+        },
+        {
+          "id": "500-meters",
+          "text": "500 meters"
+        }
+      ],
+      "correctOptionId": "300-meters",
+      "explanation": "The tower stood 300 meters (984 feet); later antennas raised it to 330 meters.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Eiffel Tower",
+          "url": "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "eiffel-tower-inaugurated-1889"
+      ]
+    },
+    {
+      "id": "kanagawa-commodore",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which American commodore signed the Treaty of Kanagawa with Japan in 1854?",
+      "options": [
+        {
+          "id": "matthew-perry",
+          "text": "Matthew Perry"
+        },
+        {
+          "id": "david-farragut",
+          "text": "David Farragut"
+        },
+        {
+          "id": "george-dewey",
+          "text": "George Dewey"
+        },
+        {
+          "id": "john-paul-jones",
+          "text": "John Paul Jones"
+        }
+      ],
+      "correctOptionId": "matthew-perry",
+      "explanation": "Commodore Matthew Perry signed the treaty on March 31, 1854.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 31",
+          "url": "https://www.britannica.com/on-this-day/March-31"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "treaty-of-kanagawa-1854"
+      ]
+    },
+    {
+      "id": "oklahoma-songwriting-team",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Oklahoma!, which opened on Broadway in 1943, was the first musical by which songwriting team?",
+      "options": [
+        {
+          "id": "lerner-and-loewe",
+          "text": "Lerner and Loewe"
+        },
+        {
+          "id": "rodgers-and-hammerstein",
+          "text": "Rodgers and Hammerstein"
+        },
+        {
+          "id": "gilbert-and-sullivan",
+          "text": "Gilbert and Sullivan"
+        },
+        {
+          "id": "kander-and-ebb",
+          "text": "Kander and Ebb"
+        }
+      ],
+      "correctOptionId": "rodgers-and-hammerstein",
+      "explanation": "Oklahoma! was the first of 11 musicals by Richard Rodgers and Oscar Hammerstein II.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 31",
+          "url": "https://www.britannica.com/on-this-day/March-31"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "oklahoma-opens-on-broadway-1943"
+      ]
+    },
+    {
+      "id": "nunavut-capital",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What is the capital of Nunavut, the Canadian territory created in 1999?",
+      "options": [
+        {
+          "id": "yellowknife",
+          "text": "Yellowknife"
+        },
+        {
+          "id": "whitehorse",
+          "text": "Whitehorse"
+        },
+        {
+          "id": "iqaluit",
+          "text": "Iqaluit"
+        },
+        {
+          "id": "inuvik",
+          "text": "Inuvik"
+        }
+      ],
+      "correctOptionId": "iqaluit",
+      "explanation": "Nunavut's capital is Iqaluit, on southern Baffin Island.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Nunavut",
+          "url": "https://www.britannica.com/place/Nunavut"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "nunavut-created-1999"
+      ]
+    },
+    {
+      "id": "nunavut-name-meaning",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In Inuktitut, what does the name Nunavut mean?",
+      "options": [
+        {
+          "id": "our-land",
+          "text": "Our Land"
+        },
+        {
+          "id": "northern-sea",
+          "text": "Northern Sea"
+        },
+        {
+          "id": "land-of-ice",
+          "text": "Land of Ice"
+        },
+        {
+          "id": "the-people",
+          "text": "The People"
+        }
+      ],
+      "correctOptionId": "our-land",
+      "explanation": "Nunavut means 'Our Land' in Inuktitut, the language of the Inuit.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Nunavut",
+          "url": "https://www.britannica.com/place/Nunavut"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "nunavut-created-1999"
+      ]
+    },
+    {
+      "id": "apple-not-a-founder",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these people was NOT a founder of Apple Computer in 1976?",
+      "options": [
+        {
+          "id": "steve-jobs",
+          "text": "Steve Jobs"
+        },
+        {
+          "id": "steve-wozniak",
+          "text": "Steve Wozniak"
+        },
+        {
+          "id": "ronald-wayne",
+          "text": "Ronald Wayne"
+        },
+        {
+          "id": "bill-gates",
+          "text": "Bill Gates"
+        }
+      ],
+      "correctOptionId": "bill-gates",
+      "explanation": "Steve Jobs, Steve Wozniak and Ronald Wayne formed Apple Computer on April 1, 1976.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 1",
+          "url": "https://www.britannica.com/on-this-day/April-1"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apple-computer-founded-1976"
+      ]
+    },
+    {
+      "id": "first-same-sex-marriage-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In 2001, which country became the first to grant equal marriage rights to same-sex couples?",
+      "options": [
+        {
+          "id": "canada",
+          "text": "Canada"
+        },
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        },
+        {
+          "id": "the-netherlands",
+          "text": "The Netherlands"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        }
+      ],
+      "correctOptionId": "the-netherlands",
+      "explanation": "The Netherlands did so on April 1, 2001.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 1",
+          "url": "https://www.britannica.com/on-this-day/April-1"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "netherlands-same-sex-marriage-2001"
+      ]
+    },
+    {
+      "id": "falklands-1982-invader",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which country's troops seized the Falkland Islands in 1982, starting a war with Britain?",
+      "options": [
+        {
+          "id": "chile",
+          "text": "Chile"
+        },
+        {
+          "id": "uruguay",
+          "text": "Uruguay"
+        },
+        {
+          "id": "brazil",
+          "text": "Brazil"
+        },
+        {
+          "id": "argentina",
+          "text": "Argentina"
+        }
+      ],
+      "correctOptionId": "argentina",
+      "explanation": "Argentine troops seized the islands on April 2, 1982.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 2",
+          "url": "https://www.britannica.com/on-this-day/April-2"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "argentina-seizes-falklands-1982"
+      ]
+    },
+    {
+      "id": "falklands-spanish-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "By what Spanish name are the Falkland Islands known in Argentina?",
+      "options": [
+        {
+          "id": "islas-malvinas",
+          "text": "Islas Malvinas"
+        },
+        {
+          "id": "islas-canarias",
+          "text": "Islas Canarias"
+        },
+        {
+          "id": "tierra-del-fuego",
+          "text": "Tierra del Fuego"
+        },
+        {
+          "id": "islas-baleares",
+          "text": "Islas Baleares"
+        }
+      ],
+      "correctOptionId": "islas-malvinas",
+      "explanation": "Britannica names the islands seized on April 2, 1982, as the Falkland Islands (Islas Malvinas).",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 2",
+          "url": "https://www.britannica.com/on-this-day/April-2"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "argentina-seizes-falklands-1982"
+      ]
+    },
+    {
+      "id": "space-odyssey-director",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who directed 2001: A Space Odyssey, which premiered in 1968?",
+      "options": [
+        {
+          "id": "stanley-kubrick",
+          "text": "Stanley Kubrick"
+        },
+        {
+          "id": "steven-spielberg",
+          "text": "Steven Spielberg"
+        },
+        {
+          "id": "george-lucas",
+          "text": "George Lucas"
+        },
+        {
+          "id": "ridley-scott",
+          "text": "Ridley Scott"
+        }
+      ],
+      "correctOptionId": "stanley-kubrick",
+      "explanation": "Kubrick's film had its world premiere in Washington, D.C., on April 2, 1968.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 2",
+          "url": "https://www.britannica.com/on-this-day/April-2"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "2001-a-space-odyssey-premieres-1968"
+      ]
+    },
+    {
+      "id": "richmond-confederate-capital",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which Confederate capital was evacuated by Confederate troops on April 2, 1865?",
+      "options": [
+        {
+          "id": "atlanta",
+          "text": "Atlanta"
+        },
+        {
+          "id": "charleston",
+          "text": "Charleston"
+        },
+        {
+          "id": "richmond",
+          "text": "Richmond"
+        },
+        {
+          "id": "savannah",
+          "text": "Savannah"
+        }
+      ],
+      "correctOptionId": "richmond",
+      "explanation": "Confederate troops evacuated Richmond, Virginia, the capital of the Confederate States, on April 2, 1865.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 2",
+          "url": "https://www.britannica.com/on-this-day/April-2"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "confederates-evacuate-richmond-1865"
+      ]
+    },
+    {
+      "id": "pony-express-western-end",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Pony Express carried mail overland from St. Joseph, Missouri, to which California city?",
+      "options": [
+        {
+          "id": "los-angeles",
+          "text": "Los Angeles"
+        },
+        {
+          "id": "san-diego",
+          "text": "San Diego"
+        },
+        {
+          "id": "sacramento",
+          "text": "Sacramento"
+        },
+        {
+          "id": "monterey",
+          "text": "Monterey"
+        }
+      ],
+      "correctOptionId": "sacramento",
+      "explanation": "The route ran nearly 2,000 miles to Sacramento, with steamers completing the trip to San Francisco.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Pony Express",
+          "url": "https://www.britannica.com/topic/Pony-Express"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "pony-express-begins-1860"
+      ]
+    },
+    {
+      "id": "pony-express-made-obsolete",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What made the Pony Express obsolete in 1861?",
+      "options": [
+        {
+          "id": "the-transcontinental-railroad",
+          "text": "The transcontinental railroad"
+        },
+        {
+          "id": "the-telephone",
+          "text": "The telephone"
+        },
+        {
+          "id": "stagecoach-lines",
+          "text": "Stagecoach lines"
+        },
+        {
+          "id": "the-transcontinental-telegraph",
+          "text": "The transcontinental telegraph"
+        }
+      ],
+      "correctOptionId": "the-transcontinental-telegraph",
+      "explanation": "The service ended in October 1861 after the transcontinental telegraph was completed.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Pony Express",
+          "url": "https://www.britannica.com/topic/Pony-Express"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "pony-express-begins-1860"
+      ]
+    },
+    {
+      "id": "first-mobile-call-company",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "An employee of which company made the first handheld mobile phone call in 1973?",
+      "options": [
+        {
+          "id": "motorola",
+          "text": "Motorola"
+        },
+        {
+          "id": "nokia",
+          "text": "Nokia"
+        },
+        {
+          "id": "at-t",
+          "text": "AT&T"
+        },
+        {
+          "id": "ibm",
+          "text": "IBM"
+        }
+      ],
+      "correctOptionId": "motorola",
+      "explanation": "On April 3, 1973, a Motorola employee made the call, to AT&T's Bell Laboratories.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 3",
+          "url": "https://www.britannica.com/on-this-day/April-3"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-handheld-mobile-call-1973"
+      ]
+    },
+    {
+      "id": "marshall-plan-region",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Marshall Plan, signed into law in 1948, aimed to revive the economies of which region?",
+      "options": [
+        {
+          "id": "latin-america",
+          "text": "Latin America"
+        },
+        {
+          "id": "east-asia",
+          "text": "East Asia"
+        },
+        {
+          "id": "western-and-southern-europe",
+          "text": "Western and southern Europe"
+        },
+        {
+          "id": "the-middle-east",
+          "text": "The Middle East"
+        }
+      ],
+      "correctOptionId": "western-and-southern-europe",
+      "explanation": "Truman signed the plan into law on April 3, 1948.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 3",
+          "url": "https://www.britannica.com/on-this-day/April-3"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "marshall-plan-signed-1948"
+      ]
+    },
+    {
+      "id": "mlk-assassination-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city was Martin Luther King, Jr., assassinated in 1968?",
+      "options": [
+        {
+          "id": "atlanta",
+          "text": "Atlanta"
+        },
+        {
+          "id": "birmingham",
+          "text": "Birmingham"
+        },
+        {
+          "id": "memphis",
+          "text": "Memphis"
+        },
+        {
+          "id": "montgomery",
+          "text": "Montgomery"
+        }
+      ],
+      "correctOptionId": "memphis",
+      "explanation": "King was shot and killed in Memphis, Tennessee, on April 4, 1968, the day after his Mountaintop speech there.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 3",
+          "url": "https://www.britannica.com/on-this-day/April-3"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas",
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "martin-luther-king-jr-assassinated-1968",
+        "mlk-mountaintop-speech-1968"
+      ]
+    },
+    {
+      "id": "nato-founding-signers",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "How many countries signed the North Atlantic Treaty in 1949, founding NATO?",
+      "options": [
+        {
+          "id": "6",
+          "text": "6"
+        },
+        {
+          "id": "9",
+          "text": "9"
+        },
+        {
+          "id": "12",
+          "text": "12"
+        },
+        {
+          "id": "15",
+          "text": "15"
+        }
+      ],
+      "correctOptionId": "12",
+      "explanation": "NATO was formed on April 4, 1949, with twelve founding members.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "north-atlantic-treaty-signed-1949"
+      ]
+    },
+    {
+      "id": "microsoft-cofounder",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Bill Gates founded Microsoft in 1975 with whom?",
+      "options": [
+        {
+          "id": "steve-jobs",
+          "text": "Steve Jobs"
+        },
+        {
+          "id": "paul-allen",
+          "text": "Paul Allen"
+        },
+        {
+          "id": "steve-ballmer",
+          "text": "Steve Ballmer"
+        },
+        {
+          "id": "steve-wozniak",
+          "text": "Steve Wozniak"
+        }
+      ],
+      "correctOptionId": "paul-allen",
+      "explanation": "Gates and Paul Allen founded Microsoft on April 4, 1975.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "microsoft-founded-1975"
+      ]
+    },
+    {
+      "id": "harrison-first-to-die-in-office",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "William Henry Harrison was the first US president to die in office.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Harrison died of pneumonia on April 4, 1841, after one month in office.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "william-henry-harrison-dies-1841"
+      ]
+    },
+    {
+      "id": "angelou-memoir",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which book did Maya Angelou write?",
+      "options": [
+        {
+          "id": "beloved",
+          "text": "Beloved"
+        },
+        {
+          "id": "the-color-purple",
+          "text": "The Color Purple"
+        },
+        {
+          "id": "their-eyes-were-watching-god",
+          "text": "Their Eyes Were Watching God"
+        },
+        {
+          "id": "i-know-why-the-caged-bird-sings",
+          "text": "I Know Why the Caged Bird Sings"
+        }
+      ],
+      "correctOptionId": "i-know-why-the-caged-bird-sings",
+      "explanation": "Angelou, born in St. Louis on April 4, 1928, wrote I Know Why the Caged Bird Sings.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "maya-angelou-born-1928"
+      ]
+    },
+    {
+      "id": "first-presidential-veto",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which president issued the first presidential veto in US history, in 1792?",
+      "options": [
+        {
+          "id": "john-adams",
+          "text": "John Adams"
+        },
+        {
+          "id": "thomas-jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "james-madison",
+          "text": "James Madison"
+        },
+        {
+          "id": "george-washington",
+          "text": "George Washington"
+        }
+      ],
+      "correctOptionId": "george-washington",
+      "explanation": "George Washington issued the first veto on April 5, 1792.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 5",
+          "url": "https://www.britannica.com/on-this-day/April-5"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "washington-first-veto-1792"
+      ]
+    },
+    {
+      "id": "maipu-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Battle of Maipu in 1818 was a decisive victory for which country's independence movement?",
+      "options": [
+        {
+          "id": "chile",
+          "text": "Chile"
+        },
+        {
+          "id": "argentina",
+          "text": "Argentina"
+        },
+        {
+          "id": "peru",
+          "text": "Peru"
+        },
+        {
+          "id": "bolivia",
+          "text": "Bolivia"
+        }
+      ],
+      "correctOptionId": "chile",
+      "explanation": "Chile's independence movement defeated Spain at Maipu on April 5, 1818.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 5",
+          "url": "https://www.britannica.com/on-this-day/April-5"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "battle-of-maipu-1818"
+      ]
+    },
+    {
+      "id": "war-of-the-pacific-declarer",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which country declared war on Peru and Bolivia in 1879, beginning the War of the Pacific?",
+      "options": [
+        {
+          "id": "ecuador",
+          "text": "Ecuador"
+        },
+        {
+          "id": "argentina",
+          "text": "Argentina"
+        },
+        {
+          "id": "chile",
+          "text": "Chile"
+        },
+        {
+          "id": "colombia",
+          "text": "Colombia"
+        }
+      ],
+      "correctOptionId": "chile",
+      "explanation": "Chile declared war on April 5, 1879.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 5",
+          "url": "https://www.britannica.com/on-this-day/April-5"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "war-of-the-pacific-begins-1879"
+      ]
+    },
+    {
+      "id": "kareem-passed-whom",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1984, Kareem Abdul-Jabbar passed whom as the NBA's all-time leading scorer?",
+      "options": [
+        {
+          "id": "bill-russell",
+          "text": "Bill Russell"
+        },
+        {
+          "id": "wilt-chamberlain",
+          "text": "Wilt Chamberlain"
+        },
+        {
+          "id": "oscar-robertson",
+          "text": "Oscar Robertson"
+        },
+        {
+          "id": "elgin-baylor",
+          "text": "Elgin Baylor"
+        }
+      ],
+      "correctOptionId": "wilt-chamberlain",
+      "explanation": "Abdul-Jabbar surpassed Wilt Chamberlain on April 5, 1984.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 5",
+          "url": "https://www.britannica.com/on-this-day/April-5"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "kareem-abdul-jabbar-scoring-record-1984"
+      ]
+    },
+    {
+      "id": "athens-1896-marathon-winner",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which Greek runner won the marathon at the first modern Olympics in 1896?",
+      "options": [
+        {
+          "id": "spyridon-louis",
+          "text": "Spyridon Louis"
+        },
+        {
+          "id": "dorando-pietri",
+          "text": "Dorando Pietri"
+        },
+        {
+          "id": "emil-zatopek",
+          "text": "Emil Zatopek"
+        },
+        {
+          "id": "abebe-bikila",
+          "text": "Abebe Bikila"
+        }
+      ],
+      "correctOptionId": "spyridon-louis",
+      "explanation": "Spyridon Louis won the marathon at the Athens Games, which opened on April 6, 1896.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Athens 1896 Olympic Games",
+          "url": "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-modern-olympics-open-1896"
+      ]
+    },
+    {
+      "id": "athens-1896-countries",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Athletes from about how many countries took part in the 1896 Athens Olympics?",
+      "options": [
+        {
+          "id": "12",
+          "text": "12"
+        },
+        {
+          "id": "42",
+          "text": "42"
+        },
+        {
+          "id": "80",
+          "text": "80"
+        },
+        {
+          "id": "120",
+          "text": "120"
+        }
+      ],
+      "correctOptionId": "12",
+      "explanation": "As many as 280 athletes, all men, came from 12 countries.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Athens 1896 Olympic Games",
+          "url": "https://www.britannica.com/event/Athens-1896-Olympic-Games"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-modern-olympics-open-1896"
+      ]
+    },
+    {
+      "id": "abba-eurovision-song",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "With which song did ABBA win Eurovision in 1974?",
+      "options": [
+        {
+          "id": "dancing-queen",
+          "text": "Dancing Queen"
+        },
+        {
+          "id": "mamma-mia",
+          "text": "Mamma Mia"
+        },
+        {
+          "id": "fernando",
+          "text": "Fernando"
+        },
+        {
+          "id": "waterloo",
+          "text": "Waterloo"
+        }
+      ],
+      "correctOptionId": "waterloo",
+      "explanation": "ABBA won with 'Waterloo' on April 6, 1974.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 6",
+          "url": "https://www.britannica.com/on-this-day/April-6"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "abba-wins-eurovision-1974"
+      ]
+    },
+    {
+      "id": "shiloh-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which state was the Civil War Battle of Shiloh fought in 1862?",
+      "options": [
+        {
+          "id": "mississippi",
+          "text": "Mississippi"
+        },
+        {
+          "id": "kentucky",
+          "text": "Kentucky"
+        },
+        {
+          "id": "georgia",
+          "text": "Georgia"
+        },
+        {
+          "id": "tennessee",
+          "text": "Tennessee"
+        }
+      ],
+      "correctOptionId": "tennessee",
+      "explanation": "Union and Confederate troops clashed at Shiloh in southwestern Tennessee on April 6, 1862.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 6",
+          "url": "https://www.britannica.com/on-this-day/April-6"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-shiloh-1862"
+      ]
+    },
+    {
+      "id": "who-headquarters-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city is the World Health Organization, established in 1948, headquartered?",
+      "options": [
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "vienna",
+          "text": "Vienna"
+        }
+      ],
+      "correctOptionId": "geneva",
+      "explanation": "WHO was established on April 7, 1948, with headquarters in Geneva.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - World Health Organization",
+          "url": "https://www.britannica.com/topic/World-Health-Organization"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "world-health-organization-established-1948"
+      ]
+    },
+    {
+      "id": "who-founding-observance",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which annual observance marks the World Health Organization's founding date?",
+      "options": [
+        {
+          "id": "world-aids-day",
+          "text": "World AIDS Day"
+        },
+        {
+          "id": "world-tb-day",
+          "text": "World TB Day"
+        },
+        {
+          "id": "world-water-day",
+          "text": "World Water Day"
+        },
+        {
+          "id": "world-health-day",
+          "text": "World Health Day"
+        }
+      ],
+      "correctOptionId": "world-health-day",
+      "explanation": "WHO celebrates April 7, its founding date of 1948, as World Health Day.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - World Health Organization",
+          "url": "https://www.britannica.com/topic/World-Health-Organization"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "world-health-organization-established-1948"
+      ]
+    },
+    {
+      "id": "henry-ford-method",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Henry Ford, who died in 1947, pioneered which manufacturing methods?",
+      "options": [
+        {
+          "id": "assembly-line-methods",
+          "text": "Assembly-line methods"
+        },
+        {
+          "id": "container-shipping",
+          "text": "Container shipping"
+        },
+        {
+          "id": "just-in-time-inventory",
+          "text": "Just-in-time inventory"
+        },
+        {
+          "id": "computer-aided-design",
+          "text": "Computer-aided design"
+        }
+      ],
+      "correctOptionId": "assembly-line-methods",
+      "explanation": "Ford pioneered assembly-line methods at the Ford Motor Company and died on April 7, 1947.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 7",
+          "url": "https://www.britannica.com/on-this-day/April-7"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "henry-ford-dies-1947"
+      ]
+    },
+    {
+      "id": "billie-holiday-birth-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which city was the jazz singer Billie Holiday born in 1915?",
+      "options": [
+        {
+          "id": "new-orleans",
+          "text": "New Orleans"
+        },
+        {
+          "id": "philadelphia",
+          "text": "Philadelphia"
+        },
+        {
+          "id": "chicago",
+          "text": "Chicago"
+        },
+        {
+          "id": "baltimore",
+          "text": "Baltimore"
+        }
+      ],
+      "correctOptionId": "philadelphia",
+      "explanation": "Billie Holiday was born in Philadelphia on April 7, 1915.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 7",
+          "url": "https://www.britannica.com/on-this-day/April-7"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "billie-holiday-born-1915"
+      ]
+    },
+    {
+      "id": "aaron-broke-record-of",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Whose career home run record did Hank Aaron break in 1974?",
+      "options": [
+        {
+          "id": "lou-gehrig",
+          "text": "Lou Gehrig"
+        },
+        {
+          "id": "willie-mays",
+          "text": "Willie Mays"
+        },
+        {
+          "id": "babe-ruth",
+          "text": "Babe Ruth"
+        },
+        {
+          "id": "ty-cobb",
+          "text": "Ty Cobb"
+        }
+      ],
+      "correctOptionId": "babe-ruth",
+      "explanation": "Aaron broke Babe Ruth's record, which had stood since 1935, on April 8, 1974.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 8",
+          "url": "https://www.britannica.com/on-this-day/April-8"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "hank-aaron-715th-home-run-1974"
+      ]
+    },
+    {
+      "id": "aaron-record-home-run-number",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Hank Aaron broke the career home run record with which home run?",
+      "options": [
+        {
+          "id": "700th",
+          "text": "700th"
+        },
+        {
+          "id": "715th",
+          "text": "715th"
+        },
+        {
+          "id": "755th",
+          "text": "755th"
+        },
+        {
+          "id": "762nd",
+          "text": "762nd"
+        }
+      ],
+      "correctOptionId": "715th",
+      "explanation": "His 715th career home run, on April 8, 1974, passed Babe Ruth.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 8",
+          "url": "https://www.britannica.com/on-this-day/April-8"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "hank-aaron-715th-home-run-1974"
+      ]
+    },
+    {
+      "id": "venus-de-milo-museum",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which museum is the Venus de Milo today?",
+      "options": [
+        {
+          "id": "the-british-museum",
+          "text": "The British Museum"
+        },
+        {
+          "id": "the-louvre",
+          "text": "The Louvre"
+        },
+        {
+          "id": "the-vatican-museums",
+          "text": "The Vatican Museums"
+        },
+        {
+          "id": "the-prado",
+          "text": "The Prado"
+        }
+      ],
+      "correctOptionId": "the-louvre",
+      "explanation": "Found on Melos on April 8, 1820, the statue was presented to Louis XVIII and remains in the Louvre.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Venus de Milo",
+          "url": "https://www.britannica.com/topic/Venus-de-Milo"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "venus-de-milo-found-1820"
+      ]
+    },
+    {
+      "id": "venus-de-milo-goddess",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Venus de Milo is commonly thought to represent which Greek goddess?",
+      "options": [
+        {
+          "id": "athena",
+          "text": "Athena"
+        },
+        {
+          "id": "hera",
+          "text": "Hera"
+        },
+        {
+          "id": "aphrodite",
+          "text": "Aphrodite"
+        },
+        {
+          "id": "artemis",
+          "text": "Artemis"
+        }
+      ],
+      "correctOptionId": "aphrodite",
+      "explanation": "The marble statue of about 150 BCE is commonly thought to represent Aphrodite.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Venus de Milo",
+          "url": "https://www.britannica.com/topic/Venus-de-Milo"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history"
+      ],
+      "relatedEventIds": [
+        "venus-de-milo-found-1820"
+      ]
+    },
+    {
+      "id": "seventeenth-amendment-change",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What did the Seventeenth Amendment, ratified in 1913, provide for?",
+      "options": [
+        {
+          "id": "direct-election-of-senators-by-voters",
+          "text": "Direct election of senators by voters"
+        },
+        {
+          "id": "women-s-right-to-vote",
+          "text": "Women's right to vote"
+        },
+        {
+          "id": "presidential-term-limits",
+          "text": "Presidential term limits"
+        },
+        {
+          "id": "abolition-of-slavery",
+          "text": "Abolition of slavery"
+        }
+      ],
+      "correctOptionId": "direct-election-of-senators-by-voters",
+      "explanation": "The amendment, ratified on April 8, 1913, called for the direct election of US senators by the voters of the states.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 8",
+          "url": "https://www.britannica.com/on-this-day/April-8"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "seventeenth-amendment-ratified-1913"
+      ]
+    },
+    {
+      "id": "appomattox-surrendered-to",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "To whom did Robert E. Lee surrender at Appomattox Court House in 1865?",
+      "options": [
+        {
+          "id": "william-t-sherman",
+          "text": "William T. Sherman"
+        },
+        {
+          "id": "ulysses-s-grant",
+          "text": "Ulysses S. Grant"
+        },
+        {
+          "id": "george-mcclellan",
+          "text": "George McClellan"
+        },
+        {
+          "id": "george-meade",
+          "text": "George Meade"
+        }
+      ],
+      "correctOptionId": "ulysses-s-grant",
+      "explanation": "Lee agreed to Grant's terms at Appomattox Court House, Virginia, on April 9, 1865.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Appomattox Court House",
+          "url": "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "lee-surrenders-at-appomattox-1865"
+      ]
+    },
+    {
+      "id": "appomattox-ended-all-fighting",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Lee's surrender at Appomattox immediately ended all fighting in the American Civil War.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Britannica says the surrender marked the end of the war in Virginia; fighting continued elsewhere.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Appomattox Court House",
+          "url": "https://www.britannica.com/event/Battle-of-Appomattox-Court-House"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "lee-surrenders-at-appomattox-1865"
+      ]
+    },
+    {
+      "id": "marian-anderson-1939-venue",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Where did Marian Anderson sing to an Easter Sunday crowd of 75,000 in 1939?",
+      "options": [
+        {
+          "id": "carnegie-hall",
+          "text": "Carnegie Hall"
+        },
+        {
+          "id": "the-lincoln-memorial",
+          "text": "The Lincoln Memorial"
+        },
+        {
+          "id": "the-metropolitan-opera",
+          "text": "The Metropolitan Opera"
+        },
+        {
+          "id": "the-white-house",
+          "text": "The White House"
+        }
+      ],
+      "correctOptionId": "the-lincoln-memorial",
+      "explanation": "Anderson gave the concert at the Lincoln Memorial on April 9, 1939.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 9",
+          "url": "https://www.britannica.com/on-this-day/April-9"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "marian-anderson-lincoln-memorial-1939"
+      ]
+    },
+    {
+      "id": "la-salle-region-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What name did La Salle give the Mississippi River basin when he claimed it for France in 1682?",
+      "options": [
+        {
+          "id": "new-france",
+          "text": "New France"
+        },
+        {
+          "id": "louisiana",
+          "text": "Louisiana"
+        },
+        {
+          "id": "acadia",
+          "text": "Acadia"
+        },
+        {
+          "id": "florida",
+          "text": "Florida"
+        }
+      ],
+      "correctOptionId": "louisiana",
+      "explanation": "La Salle claimed the basin for France on April 9, 1682, naming it Louisiana.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 9",
+          "url": "https://www.britannica.com/on-this-day/April-9"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "la-salle-claims-louisiana-1682"
+      ]
+    },
+    {
+      "id": "good-friday-agreement-city-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Good Friday Agreement of 1998 is also named after which city?",
+      "options": [
+        {
+          "id": "dublin",
+          "text": "Dublin"
+        },
+        {
+          "id": "belfast",
+          "text": "Belfast"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "derry",
+          "text": "Derry"
+        }
+      ],
+      "correctOptionId": "belfast",
+      "explanation": "The accord signed on April 10, 1998, is also called the Belfast Agreement.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "good-friday-agreement-1998"
+      ]
+    },
+    {
+      "id": "good-friday-agreement-region",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Good Friday Agreement of 1998 was a peace deal for which region?",
+      "options": [
+        {
+          "id": "scotland",
+          "text": "Scotland"
+        },
+        {
+          "id": "wales",
+          "text": "Wales"
+        },
+        {
+          "id": "northern-ireland",
+          "text": "Northern Ireland"
+        },
+        {
+          "id": "the-basque-country",
+          "text": "The Basque Country"
+        }
+      ],
+      "correctOptionId": "northern-ireland",
+      "explanation": "The agreement, signed on April 10, 1998, was a peace accord for Northern Ireland.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 10",
+          "url": "https://www.britannica.com/on-this-day/April-10"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 21",
+          "url": "https://www.britannica.com/on-this-day/March-21"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "good-friday-agreement-1998"
+      ]
+    },
+    {
+      "id": "great-gatsby-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Who wrote The Great Gatsby, published in 1925?",
+      "options": [
+        {
+          "id": "ernest-hemingway",
+          "text": "Ernest Hemingway"
+        },
+        {
+          "id": "f-scott-fitzgerald",
+          "text": "F. Scott Fitzgerald"
+        },
+        {
+          "id": "john-steinbeck",
+          "text": "John Steinbeck"
+        },
+        {
+          "id": "william-faulkner",
+          "text": "William Faulkner"
+        }
+      ],
+      "correctOptionId": "f-scott-fitzgerald",
+      "explanation": "F. Scott Fitzgerald published The Great Gatsby on April 10, 1925.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 10",
+          "url": "https://www.britannica.com/on-this-day/April-10"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "the-great-gatsby-published-1925"
+      ]
+    },
+    {
+      "id": "zapata-revolution",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Emiliano Zapata, killed in an ambush in 1919, was a leader in which revolution?",
+      "options": [
+        {
+          "id": "the-cuban-revolution",
+          "text": "The Cuban Revolution"
+        },
+        {
+          "id": "the-mexican-revolution",
+          "text": "The Mexican Revolution"
+        },
+        {
+          "id": "the-russian-revolution",
+          "text": "The Russian Revolution"
+        },
+        {
+          "id": "the-haitian-revolution",
+          "text": "The Haitian Revolution"
+        }
+      ],
+      "correctOptionId": "the-mexican-revolution",
+      "explanation": "Zapata was ambushed and shot dead on April 10, 1919, during the Mexican Revolution period.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 10",
+          "url": "https://www.britannica.com/on-this-day/April-10"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "emiliano-zapata-killed-1919"
+      ]
+    },
+    {
+      "id": "safety-pin-rights-price",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "For how much did Walter Hunt sell his rights to the safety pin he patented in 1849?",
+      "options": [
+        {
+          "id": "40",
+          "text": "$40"
+        },
+        {
+          "id": "400",
+          "text": "$400"
+        },
+        {
+          "id": "4-000",
+          "text": "$4,000"
+        },
+        {
+          "id": "40-000",
+          "text": "$40,000"
+        }
+      ],
+      "correctOptionId": "400",
+      "explanation": "Hunt patented the safety pin on April 10, 1849, and later sold his rights for $400.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 10",
+          "url": "https://www.britannica.com/on-this-day/April-10"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "safety-pin-patented-1849"
+      ]
+    },
+    {
+      "id": "apollo-13-failure",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What failure forced the Apollo 13 crew to abandon their Moon landing in 1970?",
+      "options": [
+        {
+          "id": "an-oxygen-tank-failure",
+          "text": "An oxygen tank failure"
+        },
+        {
+          "id": "a-computer-crash",
+          "text": "A computer crash"
+        },
+        {
+          "id": "a-parachute-failure",
+          "text": "A parachute failure"
+        },
+        {
+          "id": "a-fire-on-the-launch-pad",
+          "text": "A fire on the launch pad"
+        }
+      ],
+      "correctOptionId": "an-oxygen-tank-failure",
+      "explanation": "Launched on April 11, 1970, Apollo 13 suffered an oxygen tank failure on its third day; the crew splashed down safely on April 17.",
+      "sources": [
+        {
+          "displayName": "NASA - Apollo 13",
+          "url": "https://www.nasa.gov/mission/apollo-13/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-13-launched-1970"
+      ]
+    },
+    {
+      "id": "apollo-13-commander",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Who commanded Apollo 13?",
+      "options": [
+        {
+          "id": "neil-armstrong",
+          "text": "Neil Armstrong"
+        },
+        {
+          "id": "james-lovell",
+          "text": "James Lovell"
+        },
+        {
+          "id": "alan-shepard",
+          "text": "Alan Shepard"
+        },
+        {
+          "id": "frank-borman",
+          "text": "Frank Borman"
+        }
+      ],
+      "correctOptionId": "james-lovell",
+      "explanation": "James A. Lovell, Jr., commanded Apollo 13, with John Swigert and Fred Haise.",
+      "sources": [
+        {
+          "displayName": "NASA - Apollo 13",
+          "url": "https://www.nasa.gov/mission/apollo-13/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-13-launched-1970"
+      ]
+    },
+    {
+      "id": "apollo-13-landed-on-moon",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Apollo 13 astronauts landed on the Moon before returning to Earth.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "An oxygen tank failure forced the crew to abort the landing; they returned to Earth on April 17, 1970.",
+      "sources": [
+        {
+          "displayName": "NASA - Apollo 13",
+          "url": "https://www.nasa.gov/mission/apollo-13/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-13-launched-1970"
+      ]
+    },
+    {
+      "id": "macarthur-relieved-war",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "President Truman relieved General Douglas MacArthur of his command in 1951 during which war?",
+      "options": [
+        {
+          "id": "world-war-ii",
+          "text": "World War II"
+        },
+        {
+          "id": "the-korean-war",
+          "text": "The Korean War"
+        },
+        {
+          "id": "the-vietnam-war",
+          "text": "The Vietnam War"
+        },
+        {
+          "id": "the-spanish-american-war",
+          "text": "The Spanish-American War"
+        }
+      ],
+      "correctOptionId": "the-korean-war",
+      "explanation": "Truman relieved MacArthur of command of UN and US forces on April 11, 1951.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 11",
+          "url": "https://www.britannica.com/on-this-day/April-11"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "truman-relieves-macarthur-1951"
+      ]
+    },
+    {
+      "id": "eichmann-trial-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "In which city did the 1961 trial of Adolf Eichmann take place?",
+      "options": [
+        {
+          "id": "nuremberg",
+          "text": "Nuremberg"
+        },
+        {
+          "id": "jerusalem",
+          "text": "Jerusalem"
+        },
+        {
+          "id": "tel-aviv",
+          "text": "Tel Aviv"
+        },
+        {
+          "id": "the-hague",
+          "text": "The Hague"
+        }
+      ],
+      "correctOptionId": "jerusalem",
+      "explanation": "The trial began in Jerusalem on April 11, 1961, and ended with a death sentence eight months later.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 11",
+          "url": "https://www.britannica.com/on-this-day/April-11"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "eichmann-trial-begins-1961"
+      ]
+    },
+    {
+      "id": "andrew-wiles-proof",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Mathematician Andrew Wiles, born in 1953, devised a proof of what?",
+      "options": [
+        {
+          "id": "the-poincare-conjecture",
+          "text": "The Poincare conjecture"
+        },
+        {
+          "id": "fermat-s-last-theorem",
+          "text": "Fermat's last theorem"
+        },
+        {
+          "id": "the-four-color-theorem",
+          "text": "The four color theorem"
+        },
+        {
+          "id": "the-riemann-hypothesis",
+          "text": "The Riemann hypothesis"
+        }
+      ],
+      "correctOptionId": "fermat-s-last-theorem",
+      "explanation": "Wiles, born in Cambridge on April 11, 1953, devised a proof of Fermat's last theorem.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 11",
+          "url": "https://www.britannica.com/on-this-day/April-11"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "andrew-wiles-born-1953"
+      ]
+    },
+    {
+      "id": "gagarin-spacecraft",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Aboard which spacecraft did Yuri Gagarin make the first human spaceflight in 1961?",
+      "options": [
+        {
+          "id": "sputnik-1",
+          "text": "Sputnik 1"
+        },
+        {
+          "id": "vostok-1",
+          "text": "Vostok 1"
+        },
+        {
+          "id": "voskhod-2",
+          "text": "Voskhod 2"
+        },
+        {
+          "id": "soyuz-1",
+          "text": "Soyuz 1"
+        }
+      ],
+      "correctOptionId": "vostok-1",
+      "explanation": "Gagarin flew Vostok 1 on April 12, 1961.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Yuri Gagarin",
+          "url": "https://www.britannica.com/biography/Yuri-Gagarin"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "gagarin-first-human-in-space-1961",
+        "yuri-gagarin-born-1934"
+      ]
+    },
+    {
+      "id": "gagarin-orbit-time",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "About how long did Yuri Gagarin's single orbit of Earth take?",
+      "options": [
+        {
+          "id": "15-minutes",
+          "text": "15 minutes"
+        },
+        {
+          "id": "1-hour-29-minutes",
+          "text": "1 hour 29 minutes"
+        },
+        {
+          "id": "6-hours",
+          "text": "6 hours"
+        },
+        {
+          "id": "1-day",
+          "text": "1 day"
+        }
+      ],
+      "correctOptionId": "1-hour-29-minutes",
+      "explanation": "Vostok 1 made one orbit of Earth in 1 hour 29 minutes on April 12, 1961.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Yuri Gagarin",
+          "url": "https://www.britannica.com/biography/Yuri-Gagarin"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "gagarin-first-human-in-space-1961"
+      ]
+    },
+    {
+      "id": "fort-sumter-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Fort Sumter, where the American Civil War began in 1861, is in which city?",
+      "options": [
+        {
+          "id": "savannah",
+          "text": "Savannah"
+        },
+        {
+          "id": "charleston",
+          "text": "Charleston"
+        },
+        {
+          "id": "norfolk",
+          "text": "Norfolk"
+        },
+        {
+          "id": "wilmington",
+          "text": "Wilmington"
+        }
+      ],
+      "correctOptionId": "charleston",
+      "explanation": "Confederate batteries opened fire on Fort Sumter in Charleston, South Carolina, on April 12, 1861.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Fort Sumter",
+          "url": "https://www.britannica.com/topic/Fort-Sumter"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "fort-sumter-bombarded-1861"
+      ]
+    },
+    {
+      "id": "polio-vaccine-1955-scientist",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Whose polio vaccine was released for use in the United States on April 12, 1955?",
+      "options": [
+        {
+          "id": "albert-sabin",
+          "text": "Albert Sabin"
+        },
+        {
+          "id": "jonas-salk",
+          "text": "Jonas Salk"
+        },
+        {
+          "id": "louis-pasteur",
+          "text": "Louis Pasteur"
+        },
+        {
+          "id": "edward-jenner",
+          "text": "Edward Jenner"
+        }
+      ],
+      "correctOptionId": "jonas-salk",
+      "explanation": "Salk's inactivated polio vaccine was announced as safe and effective and released that day.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Jonas Salk",
+          "url": "https://www.britannica.com/biography/Jonas-Salk"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 12",
+          "url": "https://www.britannica.com/on-this-day/April-12"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "salk-polio-vaccine-announced-1955"
+      ]
+    },
+    {
+      "id": "first-shuttle-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "What was the name of the first space shuttle that NASA launched, in 1981?",
+      "options": [
+        {
+          "id": "challenger",
+          "text": "Challenger"
+        },
+        {
+          "id": "discovery",
+          "text": "Discovery"
+        },
+        {
+          "id": "columbia",
+          "text": "Columbia"
+        },
+        {
+          "id": "atlantis",
+          "text": "Atlantis"
+        }
+      ],
+      "correctOptionId": "columbia",
+      "explanation": "NASA launched Columbia on April 12, 1981.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 12",
+          "url": "https://www.britannica.com/on-this-day/April-12"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-space-shuttle-launch-1981"
+      ]
+    },
+    {
+      "id": "order-spaceflight-mar-apr",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these spaceflight milestones in order from earliest to latest.",
+      "items": [
+        {
+          "id": "columbia",
+          "text": "First space shuttle launch"
+        },
+        {
+          "id": "leonov",
+          "text": "First spacewalk"
+        },
+        {
+          "id": "apollo-13",
+          "text": "Apollo 13 launches"
+        },
+        {
+          "id": "gagarin",
+          "text": "First human in space"
+        }
+      ],
+      "correctOrderItemIds": [
+        "gagarin",
+        "leonov",
+        "apollo-13",
+        "columbia"
+      ],
+      "explanation": "Gagarin flew in 1961, Leonov walked in space in 1965, Apollo 13 launched in 1970, and Columbia flew in 1981.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 12",
+          "url": "https://www.britannica.com/on-this-day/April-12"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 18",
+          "url": "https://www.britannica.com/on-this-day/March-18"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 11",
+          "url": "https://www.britannica.com/on-this-day/April-11"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "gagarin-first-human-in-space-1961",
+        "leonov-first-spacewalk-1965",
+        "apollo-13-launched-1970",
+        "first-space-shuttle-launch-1981"
+      ]
+    },
+    {
+      "id": "order-civil-war-road-mar-apr",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these events in order from earliest to latest.",
+      "items": [
+        {
+          "id": "sumter",
+          "text": "Confederate guns fire on Fort Sumter"
+        },
+        {
+          "id": "stowe",
+          "text": "Uncle Tom's Cabin is published as a book"
+        },
+        {
+          "id": "appomattox",
+          "text": "Lee surrenders at Appomattox"
+        },
+        {
+          "id": "ripon",
+          "text": "A Ripon, Wisconsin, meeting proposes the Republican Party"
+        }
+      ],
+      "correctOrderItemIds": [
+        "stowe",
+        "ripon",
+        "sumter",
+        "appomattox"
+      ],
+      "explanation": "Uncle Tom's Cabin appeared as a book in 1852, the Ripon meeting was in 1854, Fort Sumter was fired on in 1861, and Lee surrendered in 1865.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 20",
+          "url": "https://www.britannica.com/on-this-day/March-20"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 12",
+          "url": "https://www.britannica.com/on-this-day/April-12"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 9",
+          "url": "https://www.britannica.com/on-this-day/April-9"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "uncle-toms-cabin-published-1852",
+        "ripon-republican-party-meeting-1854",
+        "fort-sumter-bombarded-1861",
+        "lee-surrenders-at-appomattox-1865"
+      ]
+    },
+    {
+      "id": "order-treaties-mar-apr",
+      "type": "chronological_ordering",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Put these treaties and agreements in order from earliest to latest.",
+      "items": [
+        {
+          "id": "rome",
+          "text": "Treaty of Rome"
+        },
+        {
+          "id": "good-friday",
+          "text": "Good Friday Agreement"
+        },
+        {
+          "id": "paris",
+          "text": "Treaty of Paris ending the Crimean War"
+        },
+        {
+          "id": "north-atlantic",
+          "text": "North Atlantic Treaty"
+        }
+      ],
+      "correctOrderItemIds": [
+        "paris",
+        "north-atlantic",
+        "rome",
+        "good-friday"
+      ],
+      "explanation": "The Treaty of Paris was signed in 1856, the North Atlantic Treaty in 1949, the Treaty of Rome in 1957, and the Good Friday Agreement in 1998.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: March 30",
+          "url": "https://www.britannica.com/on-this-day/March-30"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 4",
+          "url": "https://www.britannica.com/on-this-day/April-4"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Treaty of Rome",
+          "url": "https://www.britannica.com/event/Treaty-of-Rome"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: April 10",
+          "url": "https://www.britannica.com/on-this-day/April-10"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "treaty-of-paris-ends-crimean-war-1856",
+        "north-atlantic-treaty-signed-1949",
+        "treaty-of-rome-signed-1957",
+        "good-friday-agreement-1998"
+      ]
+    }
+  ]
+}

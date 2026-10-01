@@ -252,6 +252,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Mar 9): 1943: 'Bobby Fischer was born in Chicago.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Bobby-Fischer",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 9, 1943, Chicago, Illinois'; in 1972 became the first native-born American to win the world chess championship, defeating Boris Spassky in Reykjavik, Iceland, 12.5-8.5."
         }
       ],
       "imageRightsStatus": "not_applicable",
