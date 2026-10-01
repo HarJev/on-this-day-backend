@@ -1,7 +1,7 @@
 # Connected Quiz Content: Active Handoff
 
-Updated: 2026-10-01. Active scope: C1-C3 for October 9-15, plus a
-supplementary pass for October 1-8. The October 2-8 record below is complete.
+Updated: 2026-10-01. October 9-15 and the October 1-8 supplement are
+promoted (C4 below). The October 2-8 record below is complete.
 
 Read AGENTS.md, CLAUDE.md, CONNECTED_QUIZ_CONTENT_PLAN.md and the editorial
 workflow before continuing. This document is not content approval.
@@ -13,8 +13,8 @@ workflow before continuing. This document is not content approval.
 - Batch: `editorial/batches/2026-10-09-15-connected-quiz/` (drafts only).
 - Event dependency: `editorial/batches/2026-10-09-15-historical-events/`
   (30 `source_verified` drafts, read-only in this cycle).
-- Hard limits: no approval, canonical edits, imports, Daily assignment
-  changes, deployments, uploads or cloud resources.
+- Hard limits during drafting: no approval, canonical edits, imports, Daily
+  assignment changes, deployments, uploads or cloud resources.
 
 | Stage | Status | Evidence / next action |
 | --- | --- | --- |
@@ -24,10 +24,10 @@ workflow before continuing. This document is not content approval.
 | C3b: new question drafts | COMPLETED | Nineteen drafts in `draft-questions.json` (16 MC, 3 T/F; 8 easy, 11 medium). Every featured story has a hook; 29 hooks total. |
 | C3c: Oct 1-8 supplement | COMPLETED | `2026-10-01-08-connected-quiz-supplement/`: seven drafts and two reuse links for events that had none. |
 | C3d: validation and owner checklist | COMPLETED | Strict validators pass on a scratch merge; review checks pass; checklists in each batch's OWNER_REVIEW.md. |
-| C4: owner review and promotion | NOT_STARTED | Waiting on owner review. Do not promote or import without it. |
+| C4: owner review and promotion | COMPLETED | Delegated owner review 2026-10-01: all 30 events (incl. King's Nobel), 26 questions (Packs 150 and 160) and 12 links approved and promoted. Import tracked in `OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`. |
 
-Generator: `editorial/tools/connected-quiz/build_oct_cycle.py` rewrites all
-three batches from its records; edit it rather than the JSON by hand.
+Generator: `editorial/tools/connected-quiz/build_oct_cycle.py` wrote the three
+batches' drafts. They are now promoted, so do not rerun it.
 
 Evidence (2026-10-01): scratch merge of canonical content, every runway event
 draft, the supplementary event and day addition, both packs as published,

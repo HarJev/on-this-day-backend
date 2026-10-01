@@ -5,7 +5,7 @@
       "id": "upu-founding-city-bern",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Universal Postal Union was founded in 1874 by a treaty signed in which Swiss city?",
       "options": [
         {
@@ -48,7 +48,7 @@
       "id": "washington-monument-shape",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Washington Monument in Washington, D.C., takes the form of what kind of structure?",
       "options": [
         {
@@ -87,7 +87,7 @@
       "id": "uganda-capital-lake",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake?",
       "options": [
         {
@@ -126,7 +126,7 @@
       "id": "kepler-supernova-last-naked-eye",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Kepler's Supernova, first seen in 1604, is the most recent supernova in our own galaxy to be seen with the naked eye.",
       "options": [
         {
@@ -157,7 +157,7 @@
       "id": "che-guevara-birth-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which country was the revolutionary Che Guevara born?",
       "options": [
         {
@@ -196,7 +196,7 @@
       "id": "outer-space-treaty-prohibition",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Under the 1967 Outer Space Treaty, which of these may a country NOT do?",
       "options": [
         {
@@ -239,7 +239,7 @@
       "id": "apollo-7-flew-around-moon",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Apollo 7, the first crewed Apollo mission, flew around the Moon.",
       "options": [
         {
@@ -274,7 +274,7 @@
       "id": "vatican-ii-mass-language",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Second Vatican Council allowed Mass to be celebrated in local languages instead of only in which language?",
       "options": [
         {
@@ -313,7 +313,7 @@
       "id": "mary-rose-monarch",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Mary Rose, raised from the seabed in 1982, was the warship of which English monarch?",
       "options": [
         {
@@ -352,7 +352,7 @@
       "id": "equatorial-guinea-colonial-power",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Equatorial Guinea became independent in 1968 from which European country?",
       "options": [
         {
@@ -391,7 +391,7 @@
       "id": "oktoberfest-original-celebration",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Munich's first Oktoberfest, in 1810, celebrated what?",
       "options": [
         {
@@ -430,7 +430,7 @@
       "id": "templars-original-purpose",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Knights Templar were originally founded to do what?",
       "options": [
         {
@@ -469,7 +469,7 @@
       "id": "white-house-first-president",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which U.S. president was the first to live in the White House?",
       "options": [
         {
@@ -512,7 +512,7 @@
       "id": "bayeux-tapestry-hastings",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which famous work of medieval textile art shows the Norman Conquest and the Battle of Hastings?",
       "options": [
         {
@@ -555,7 +555,7 @@
       "id": "yeager-x1-runway-takeoff",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1947, Chuck Yeager's Bell X-1 took off from a runway under its own power before breaking the sound barrier.",
       "options": [
         {
@@ -586,7 +586,7 @@
       "id": "cuban-missile-crisis-president",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which U.S. president told the nation in October 1962 that Soviet missile sites had been found in Cuba?",
       "options": [
         {
@@ -625,7 +625,7 @@
       "id": "shenzhou-5-earlier-nations",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Shenzhou 5 made China the third country to send a person into space on its own spacecraft. Which two countries did it first?",
       "options": [
         {
@@ -664,7 +664,7 @@
       "id": "huygens-titan-landing",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Cassini mission carried the Huygens probe, which landed on which moon of Saturn?",
       "options": [
         {
@@ -703,7 +703,7 @@
       "id": "gregorian-century-leap-year",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Under the Gregorian calendar, which of these years was NOT a leap year?",
       "options": [
         {

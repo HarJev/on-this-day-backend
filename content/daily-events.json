@@ -324,6 +324,791 @@
         "first-balkan-war-begins-1912",
         "treaty-of-the-bogue-1843"
       ]
+    },
+    {
+      "month": 10,
+      "day": 9,
+      "featuredEventId": "universal-postal-union-founded-1874",
+      "additionalEventIds": [
+        "keplers-supernova-first-sighted-1604",
+        "washington-monument-opens-to-public-1888",
+        "uganda-independence-1962",
+        "che-guevara-executed-1967"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 10,
+      "featuredEventId": "wuchang-uprising-1911",
+      "additionalEventIds": [
+        "fiji-independence-1970",
+        "cry-of-yara-1868",
+        "outer-space-treaty-enters-force-1967",
+        "us-naval-academy-founded-1845"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 11,
+      "featuredEventId": "apollo-7-launches-1968",
+      "additionalEventIds": [
+        "second-vatican-council-opens-1962",
+        "south-african-war-begins-1899",
+        "mary-rose-raised-1982"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 12,
+      "featuredEventId": "equatorial-guinea-independence-1968",
+      "additionalEventIds": [
+        "first-oktoberfest-1810",
+        "columbus-sights-land-1492",
+        "voskhod-1-launches-1964"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 13,
+      "featuredEventId": "chilean-miners-rescued-2010",
+      "additionalEventIds": [
+        "templars-arrested-in-france-1307",
+        "white-house-cornerstone-laid-1792",
+        "italy-declares-war-on-germany-1943"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 14,
+      "featuredEventId": "battle-of-hastings-1066",
+      "additionalEventIds": [
+        "yeager-breaks-sound-barrier-1947",
+        "battles-of-jena-auerstedt-1806",
+        "u2-photographs-missiles-in-cuba-1962",
+        "mlk-awarded-nobel-peace-prize-1964"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 15,
+      "featuredEventId": "shenzhou-5-yang-liwei-2003",
+      "additionalEventIds": [
+        "cassini-launches-to-saturn-1997",
+        "gregorian-calendar-takes-effect-1582",
+        "thrustssc-land-speed-record-1997"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 16,
+      "featuredEventId": "ether-anesthesia-demonstrated-1846",
+      "additionalEventIds": [
+        "john-paul-ii-elected-pope-1978",
+        "houses-of-parliament-burn-1834",
+        "disney-studio-founded-1923"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 17,
+      "featuredEventId": "calder-hall-opens-1956",
+      "additionalEventIds": [
+        "first-open-championship-1860",
+        "burgoyne-surrenders-at-saratoga-1777",
+        "loma-prieta-earthquake-1989"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 18,
+      "featuredEventId": "persons-case-decided-1929",
+      "additionalEventIds": [
+        "the-whale-published-in-london-1851",
+        "alaska-transferred-to-us-1867",
+        "bob-beamon-long-jump-1968"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 19,
+      "featuredEventId": "cornwallis-surrenders-at-yorktown-1781",
+      "additionalEventIds": [
+        "napoleon-retreats-from-moscow-1812",
+        "black-monday-crash-1987",
+        "japan-soviet-joint-declaration-1956"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 20,
+      "featuredEventId": "sydney-opera-house-opens-1973",
+      "additionalEventIds": [
+        "leyte-landings-1944",
+        "battle-of-navarino-1827",
+        "charles-vi-dies-maria-theresa-succeeds-1740"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 21,
+      "featuredEventId": "french-women-vote-nationally-1945",
+      "additionalEventIds": [
+        "battle-of-trafalgar-1805",
+        "guggenheim-museum-opens-1959",
+        "nightingale-departs-for-crimea-1854"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 22,
+      "featuredEventId": "chandrayaan-1-launches-2008",
+      "additionalEventIds": [
+        "metropolitan-opera-house-opens-1883",
+        "first-xerographic-copy-1938",
+        "sam-houston-inaugurated-1836"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 23,
+      "featuredEventId": "apple-introduces-ipod-2001",
+      "additionalEventIds": [
+        "hungarian-revolution-begins-1956",
+        "second-battle-of-el-alamein-begins-1942",
+        "first-military-reconnaissance-flight-1911"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 24,
+      "featuredEventId": "un-charter-enters-into-force-1945",
+      "additionalEventIds": [
+        "peace-of-westphalia-signed-1648",
+        "zambia-independence-1964",
+        "first-photo-from-space-1946"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 25,
+      "featuredEventId": "battle-of-agincourt-1415",
+      "additionalEventIds": [
+        "battle-of-balaklava-1854",
+        "siege-of-lisbon-ends-1147",
+        "windows-xp-launches-2001"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 26,
+      "featuredEventId": "last-natural-smallpox-case-1977",
+      "additionalEventIds": [
+        "football-association-founded-1863",
+        "austria-declares-neutrality-1955",
+        "erie-canal-completed-1825"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 27,
+      "featuredEventId": "new-york-subway-opens-1904",
+      "additionalEventIds": [
+        "saint-vincent-grenadines-independence-1979",
+        "turkmenistan-declares-independence-1991",
+        "amsterdam-toll-privilege-1275"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 28,
+      "featuredEventId": "statue-of-liberty-dedicated-1886",
+      "additionalEventIds": [
+        "czechoslovakia-independence-1918",
+        "greece-rejects-italian-ultimatum-1940",
+        "battle-of-milvian-bridge-312"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 29,
+      "featuredEventId": "turkish-republic-proclaimed-1923",
+      "additionalEventIds": [
+        "first-arpanet-message-1969",
+        "john-glenn-returns-to-space-1998",
+        "black-tuesday-1929"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 30,
+      "featuredEventId": "war-of-the-worlds-broadcast-1938",
+      "additionalEventIds": [
+        "rumble-in-the-jungle-1974",
+        "october-manifesto-1905",
+        "armistice-of-mudros-1918"
+      ]
+    },
+    {
+      "month": 10,
+      "day": 31,
+      "featuredEventId": "luther-ninety-five-theses-1517",
+      "additionalEventIds": [
+        "nevada-statehood-1864",
+        "world-population-seven-billion-2011",
+        "indira-gandhi-assassinated-1984"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 1,
+      "featuredEventId": "maastricht-treaty-in-force-1993",
+      "additionalEventIds": [
+        "lisbon-earthquake-1755",
+        "first-aerial-bombardment-1911",
+        "antigua-barbuda-independence-1981"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 2,
+      "featuredEventId": "first-iss-crew-arrives-2000",
+      "additionalEventIds": [
+        "balfour-declaration-1917",
+        "haile-selassie-crowned-1930",
+        "bbc-television-service-launches-1936"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 3,
+      "featuredEventId": "constitution-of-japan-promulgated-1946",
+      "additionalEventIds": [
+        "sputnik-2-laika-1957",
+        "panama-independence-1903",
+        "dominica-independence-1978"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 4,
+      "featuredEventId": "tutankhamun-tomb-found-1922",
+      "additionalEventIds": [
+        "nature-journal-first-issue-1869",
+        "iran-hostage-crisis-begins-1979",
+        "obama-elected-president-2008"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 5,
+      "featuredEventId": "gunpowder-plot-foiled-1605",
+      "additionalEventIds": [
+        "first-transcontinental-flight-1911",
+        "suez-landings-1956",
+        "battle-of-inkerman-1854"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 6,
+      "featuredEventId": "lincoln-elected-president-1860",
+      "additionalEventIds": [
+        "first-college-football-game-1869",
+        "australia-republic-referendum-1999",
+        "battle-of-lutzen-1632"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 7,
+      "featuredEventId": "marie-curie-born-1867",
+      "additionalEventIds": [
+        "cpr-last-spike-1885",
+        "bolsheviks-take-power-1917",
+        "tacoma-narrows-bridge-collapse-1940"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 8,
+      "featuredEventId": "rontgen-discovers-x-rays-1895",
+      "additionalEventIds": [
+        "cortes-enters-tenochtitlan-1519",
+        "kennedy-elected-president-1960",
+        "beer-hall-putsch-1923"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 9,
+      "featuredEventId": "berlin-wall-opens-1989",
+      "additionalEventIds": [
+        "coup-of-18-brumaire-1799",
+        "kaiser-wilhelm-abdicates-1918",
+        "apollo-4-first-saturn-v-1967"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 10,
+      "featuredEventId": "luna-17-lunokhod-launch-1970",
+      "additionalEventIds": [
+        "martin-luther-born-1483",
+        "ataturk-dies-1938"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped stanley-meets-livingstone-1871 (Date disputed by its own source: Stanley gave November 10, Livingstone's journal suggests October 24-28). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 11,
+      "day": 11,
+      "featuredEventId": "armistice-ends-ww1-fighting-1918",
+      "additionalEventIds": [
+        "angola-independence-1975",
+        "poland-regains-independence-1918",
+        "mayflower-compact-signed-1620"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 12,
+      "featuredEventId": "philae-lands-on-comet-2014",
+      "additionalEventIds": [
+        "voyager-1-saturn-flyby-1980",
+        "sun-yat-sen-born-1866",
+        "akihito-enthroned-1990"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 13,
+      "featuredEventId": "robert-louis-stevenson-born-1850",
+      "additionalEventIds": [
+        "browder-v-gayle-affirmed-1956",
+        "vietnam-veterans-memorial-dedicated-1982",
+        "augustine-of-hippo-born-354"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 14,
+      "featuredEventId": "ruby-bridges-first-day-1960",
+      "additionalEventIds": [
+        "nellie-bly-sets-off-1889",
+        "mariner-9-orbits-mars-1971",
+        "clement-v-crowned-1305"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 15,
+      "featuredEventId": "league-of-nations-first-assembly-1920",
+      "additionalEventIds": [
+        "virat-kohli-50th-odi-century-2023",
+        "georgia-okeeffe-born-1887",
+        "gillette-razor-patent-1904"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 16,
+      "featuredEventId": "benazir-bhutto-elected-1988",
+      "additionalEventIds": [
+        "livingstone-sees-victoria-falls-1855",
+        "sint-eustatius-recognizes-us-1776",
+        "tiberius-born-42-bce"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 17,
+      "featuredEventId": "suez-canal-opens-1869",
+      "additionalEventIds": [
+        "velvet-revolution-begins-1989",
+        "elizabeth-i-accession-1558"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped diocletian-acclaimed-emperor-284 (Accession date disputed: most accounts give November 20, 284, not November 17). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 11,
+      "day": 18,
+      "featuredEventId": "steamboat-willie-released-1928",
+      "additionalEventIds": [
+        "latvia-independence-1918",
+        "battle-of-vertieres-1803",
+        "st-peters-basilica-consecrated-1626"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 19,
+      "featuredEventId": "gettysburg-address-1863",
+      "additionalEventIds": [
+        "sadat-visits-israel-1977",
+        "pele-1000th-goal-1969",
+        "man-in-the-iron-mask-dies-1703"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 20,
+      "featuredEventId": "mexican-revolution-begins-1910",
+      "additionalEventIds": [
+        "qatar-world-cup-begins-2022",
+        "whaleship-essex-sunk-1820",
+        "battle-of-cambrai-tanks-1917"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 21,
+      "featuredEventId": "first-crewed-balloon-flight-1783",
+      "additionalEventIds": [
+        "dayton-accords-1995",
+        "voltaire-born-1694",
+        "mugabe-resigns-2017"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 22,
+      "featuredEventId": "toy-story-released-1995",
+      "additionalEventIds": [
+        "kennedy-assassinated-1963",
+        "lebanon-independence-1943",
+        "merkel-becomes-chancellor-2005"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 23,
+      "featuredEventId": "doctor-who-first-episode-1963",
+      "additionalEventIds": [
+        "ley-juarez-passed-1855",
+        "life-magazine-first-issue-1936",
+        "otto-i-born-912"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 24,
+      "featuredEventId": "tasman-reaches-tasmania-1642",
+      "additionalEventIds": [
+        "black-beauty-published-1877",
+        "toulouse-lautrec-born-1864"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped turkey-legal-equality-reform-2001 (Date uncertain: the new Turkish Civil Code was adopted on November 22, 2001, not November 24). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 11,
+      "day": 25,
+      "featuredEventId": "the-mousetrap-opens-1952",
+      "additionalEventIds": [
+        "suriname-independence-1975",
+        "lope-de-vega-born-1562",
+        "los-alamos-chosen-1942"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 26,
+      "featuredEventId": "casablanca-premieres-1942",
+      "additionalEventIds": [
+        "mongolian-peoples-republic-1924",
+        "nhl-founded-1917",
+        "curiosity-rover-launched-2011"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 27,
+      "featuredEventId": "nobel-prizes-established-1895",
+      "additionalEventIds": [
+        "first-macys-parade-1924",
+        "treaty-of-neuilly-1919",
+        "anders-celsius-born-1701"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 28,
+      "featuredEventId": "albania-independence-1912",
+      "additionalEventIds": [
+        "mauritania-independence-1960",
+        "tehran-conference-opens-1943"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped lady-astor-takes-seat-1919 (Wrong key fact for the date: Astor was elected on November 28, 1919 but took her seat on December 1). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 11,
+      "day": 29,
+      "featuredEventId": "byrd-flies-over-south-pole-1929",
+      "additionalEventIds": [
+        "november-insurrection-1830",
+        "louisa-may-alcott-born-1832",
+        "un-partition-resolution-1947"
+      ]
+    },
+    {
+      "month": 11,
+      "day": 30,
+      "featuredEventId": "barbados-independence-1966",
+      "additionalEventIds": [
+        "treaty-of-paris-preliminary-1782",
+        "thriller-released-1982",
+        "stone-of-scone-returned-1996"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 1,
+      "featuredEventId": "rosa-parks-arrested-1955",
+      "additionalEventIds": [
+        "ford-moving-assembly-line-1913",
+        "first-world-aids-day-1988",
+        "pact-of-locarno-signed-1925"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 2,
+      "featuredEventId": "first-nuclear-chain-reaction-1942",
+      "additionalEventIds": [
+        "uae-formed-1971",
+        "napoleon-crowned-emperor-1804",
+        "monroe-doctrine-1823"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 3,
+      "featuredEventId": "first-heart-transplant-1967",
+      "additionalEventIds": [
+        "eureka-stockade-1854",
+        "streetcar-named-desire-premieres-1947",
+        "francis-xavier-dies-1552"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 4,
+      "featuredEventId": "mars-pathfinder-launched-1996",
+      "additionalEventIds": [
+        "ivan-the-terrible-proclaimed-1533",
+        "first-grey-cup-1909",
+        "adrian-iv-elected-pope-1154"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 5,
+      "featuredEventId": "nelson-mandela-dies-2013",
+      "additionalEventIds": [
+        "walt-disney-born-1901",
+        "mozart-dies-1791"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped mary-celeste-found-abandoned-1872 (Discovery date disputed between December 4 and December 5, 1872). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 12,
+      "day": 6,
+      "featuredEventId": "anglo-irish-treaty-1921",
+      "additionalEventIds": [
+        "finland-independence-1917",
+        "nefertiti-bust-discovered-1912",
+        "ulysses-not-obscene-ruling-1933"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 7,
+      "featuredEventId": "apollo-17-launches-1972",
+      "additionalEventIds": [
+        "pearl-harbor-attack-1941",
+        "delaware-ratifies-constitution-1787",
+        "bernini-born-1598"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 8,
+      "featuredEventId": "notre-dame-reopens-2024",
+      "additionalEventIds": [
+        "spacex-dragon-orbit-return-2010",
+        "commonwealth-of-independent-states-1991",
+        "diego-rivera-born-1886"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 9,
+      "featuredEventId": "smallpox-declared-eradicated-1979",
+      "additionalEventIds": [
+        "tanganyika-independence-1961",
+        "battle-of-ayacucho-1824",
+        "first-traffic-light-1868"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 10,
+      "featuredEventId": "universal-declaration-of-human-rights-1948",
+      "additionalEventIds": [
+        "first-nobel-prizes-awarded-1901",
+        "ada-lovelace-born-1815",
+        "emu-war-ends-1932",
+        "south-africa-constitution-signed-1996"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 11,
+      "featuredEventId": "unicef-established-1946",
+      "additionalEventIds": [
+        "edward-viii-abdication-approved-1936",
+        "naguib-mahfouz-born-1911",
+        "sonderbund-formed-1845"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 12,
+      "featuredEventId": "paris-climate-agreement-2015",
+      "additionalEventIds": [
+        "first-motel-opens-1925",
+        "kenya-becomes-republic-1964",
+        "edvard-munch-born-1863"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 13,
+      "featuredEventId": "tasman-sights-new-zealand-1642",
+      "additionalEventIds": [
+        "council-of-trent-opens-1545",
+        "celestine-v-resigns-1294",
+        "nova-herculis-discovered-1934"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 14,
+      "featuredEventId": "amundsen-reaches-south-pole-1911",
+      "additionalEventIds": [
+        "oecd-convention-signed-1960",
+        "wilma-mankiller-sworn-in-1985",
+        "tycho-brahe-born-1546"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 15,
+      "featuredEventId": "bill-of-rights-adopted-1791",
+      "additionalEventIds": [
+        "leaning-tower-reopens-2001",
+        "janet-jagan-elected-1997",
+        "nero-born-37"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 16,
+      "featuredEventId": "boston-tea-party-1773",
+      "additionalEventIds": [
+        "jane-austen-born-1775",
+        "cromwell-lord-protector-1653"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped avatar-released-2009 (Weak release date: London premiere December 10, staggered international release, US release December 18). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 12,
+      "day": 17,
+      "featuredEventId": "wright-brothers-first-flight-1903",
+      "additionalEventIds": [
+        "queen-nzinga-dies-1663",
+        "nafta-signed-1992"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped us-cuba-relations-restored-2014 (Wrong key fact: December 17, 2014 was the announcement; relations were restored on July 20, 2015). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 12,
+      "day": 18,
+      "featuredEventId": "nutcracker-premieres-1892",
+      "additionalEventIds": [
+        "thirteenth-amendment-in-force-1865",
+        "piltdown-man-announced-1912",
+        "stradivari-dies-1737"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 19,
+      "featuredEventId": "a-christmas-carol-published-1843",
+      "additionalEventIds": [
+        "washington-at-valley-forge-1777",
+        "edith-piaf-born-1915",
+        "park-geun-hye-elected-2012"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 20,
+      "featuredEventId": "grimms-fairy-tales-published-1812",
+      "additionalEventIds": [
+        "macau-handover-1999",
+        "its-a-wonderful-life-premieres-1946",
+        "south-carolina-secedes-1860"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 21,
+      "featuredEventId": "first-basketball-game-1891",
+      "additionalEventIds": [
+        "apollo-8-launched-1968",
+        "first-crossword-puzzle-1913"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped curies-discover-radium-1898 (Date disputed: the discovery was announced to the Academy of Sciences on December 26, 1898). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 12,
+      "day": 22,
+      "featuredEventId": "brandenburg-gate-reopens-1989",
+      "additionalEventIds": [
+        "srinivasa-ramanujan-born-1887",
+        "dominican-order-sanctioned-1216",
+        "earliest-solar-corona-account-968"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 23,
+      "featuredEventId": "washington-resigns-commission-1783",
+      "additionalEventIds": [
+        "ottoman-constitution-1876",
+        "federal-reserve-act-1913",
+        "champollion-born-1790"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 24,
+      "featuredEventId": "edison-phonograph-patent-application-1877",
+      "additionalEventIds": [
+        "treaty-of-ghent-1814",
+        "libya-independence-1951"
+      ],
+      "editorialException": "Three events after the delegated owner review on 2026-10-01 dropped king-john-born-1167 (Birth year disputed between 1166 and 1167). Kept below the four-event floor rather than padded with a weaker claim."
+    },
+    {
+      "month": 12,
+      "day": 25,
+      "featuredEventId": "james-webb-telescope-launched-2021",
+      "additionalEventIds": [
+        "charlemagne-crowned-emperor-800",
+        "william-i-crowned-1066",
+        "washington-crosses-delaware-1776",
+        "gorbachev-resigns-1991"
+      ]
     }
   ]
 }

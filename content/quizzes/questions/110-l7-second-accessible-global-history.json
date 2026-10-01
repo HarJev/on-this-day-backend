@@ -403,7 +403,8 @@
       ],
       "collectionIds": [
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["wuchang-uprising-1911"]
     },
     {
       "id": "harlem-renaissance-cultural-movement",
@@ -1089,7 +1090,8 @@
       "collectionIds": [
         "leaders-and-power",
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["wuchang-uprising-1911"]
     },
     {
       "id": "identify-jose-rizal",

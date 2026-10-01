@@ -71,7 +71,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["voskhod-1-launches-1964"]
     },
     {
       "id": "tasman-reaches-tasmania",
@@ -180,7 +181,8 @@
       ],
       "collectionIds": [
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["bulgaria-declares-independence-1908"]
     },
     {
       "id": "napoleon-crowns-himself",
@@ -253,7 +255,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["chilean-miners-rescued-2010"]
     },
     {
       "id": "james-webb-telescope-launch",
@@ -938,7 +941,8 @@
       ],
       "collectionIds": [
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["equatorial-guinea-independence-1968"]
     },
     {
       "id": "order-peace-treaties",

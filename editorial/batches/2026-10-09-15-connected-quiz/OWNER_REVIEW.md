@@ -1,6 +1,7 @@
 # October 9-15 Connected Quiz: Owner Review
 
-Updated: 2026-10-01. **Draft only: no approval, publication or import.**
+Updated: 2026-10-01. **Approved in the delegated owner review on 2026-10-01 and promoted as Pack 150 plus ten links.**
+The text below is the pre-approval review record; see `docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`.
 
 Researched and source-checked by Claude. Every ledger entry is
 `source_verified`; none has a reviewer or approval date. Nothing under

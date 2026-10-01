@@ -50,7 +50,8 @@
       "correctOptionId": "biological-transfer",
       "explanation": "After 1492, sustained Atlantic contact moved crops, animals, pathogens, and people between the Americas and Afro-Eurasia, with profound and often catastrophic consequences.",
       "sources": [{"displayName": "National Humanities Center - The Columbian Exchange", "url": "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm"}],
-      "collectionIds": ["exploration-and-exchange"]
+      "collectionIds": ["exploration-and-exchange"],
+      "relatedEventIds": ["columbus-sights-land-1492"]
     },
     {
       "id": "lewis-clark-commissioner",
@@ -174,7 +175,8 @@
         {"displayName": "U.S. National Archives - Declaration of Independence", "url": "https://www.archives.gov/founding-docs/declaration"},
         {"displayName": "Encyclopaedia Britannica - Independence of Brazil", "url": "https://www.britannica.com/place/Brazil/Independence"}
       ],
-      "collectionIds": ["exploration-and-exchange"]
+      "collectionIds": ["exploration-and-exchange"],
+      "relatedEventIds": ["columbus-sights-land-1492"]
     }
   ]
 }

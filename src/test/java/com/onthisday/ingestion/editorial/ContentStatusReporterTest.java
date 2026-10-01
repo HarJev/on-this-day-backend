@@ -64,7 +64,6 @@ class ContentStatusReporterTest {
                 Optional.empty());
 
     assertFalse(batches.isEmpty());
-    assertTrue(batches.stream().anyMatch(batch -> !batch.draftEvents().isEmpty()));
     assertEquals(batches.size(), ((List<?>) section(report, "editorial").get("batches")).size());
   }
 

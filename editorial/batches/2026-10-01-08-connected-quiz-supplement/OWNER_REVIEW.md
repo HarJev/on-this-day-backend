@@ -1,6 +1,7 @@
 # October 1-8 Connected Quiz Supplement: Owner Review
 
-Updated: 2026-10-01. **Draft only: no approval, publication or import.**
+Updated: 2026-10-01. **Approved in the delegated owner review on 2026-10-01 and promoted as Pack 160 plus two links.**
+The text below is the pre-approval review record; see `docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`.
 
 October 1 and October 2-8 are already published. This supplement adds extra
 linked supply for events that had no quiz link. It changes nothing canonical.

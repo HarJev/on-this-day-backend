@@ -6,8 +6,9 @@ ahead for closed beta" from `PRODUCTION_LAUNCH_WORKPLAN.md`.
 ## Window
 
 The 90 upcoming dates from 2026-09-27 run from **September 27 to December 25**.
-Canonical content covers September 15 to October 8 (October 2-8 promoted on
-2026-09-29), so the remaining gap is **October 9 to December 25 (78 dates)**.
+Canonical content covers September 15 to December 25. October 2-8 was promoted
+on 2026-09-29 and October 9 to December 25 on 2026-10-01 after the delegated
+owner review (`OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`).
 
 September 16 and 17 are outside this window but still sit below the
 four-event floor. They should get a follow-up batch.
@@ -28,17 +29,17 @@ These drafts sit **outside `content/`**, so neither importer can read them.
 | Batch | Dates | Status |
 | --- | --- | --- |
 | `2026-10-02-08-historical-events` | Oct 2-8 | Approved and promoted 2026-09-29: 28 events (4 per date) |
-| `2026-10-09-15-historical-events` | Oct 9-15 | Drafted: 30 events (4-5 per date), source-verified |
-| `2026-10-16-22-historical-events` | Oct 16-22 | Drafted: 28 events (4 per date), source-verified |
-| `2026-10-23-29-historical-events` | Oct 23-29 | Drafted: 28 events (4 per date), source-verified |
-| `2026-10-30-11-05-historical-events` | Oct 30-Nov 5 | Drafted: 28 events (4 per date), source-verified |
-| `2026-11-06-12-historical-events` | Nov 6-12 | Drafted: 28 events (4 per date), source-verified |
-| `2026-11-13-19-historical-events` | Nov 13-19 | Drafted: 28 events (4 per date), source-verified |
-| `2026-11-20-26-historical-events` | Nov 20-26 | Drafted: 28 events (4 per date), source-verified |
-| `2026-11-27-12-03-historical-events` | Nov 27-Dec 3 | Drafted: 28 events (4 per date), source-verified |
-| `2026-12-04-10-historical-events` | Dec 4-10 | Drafted: 29 events (4-5 per date), source-verified |
-| `2026-12-11-17-historical-events` | Dec 11-17 | Drafted: 28 events (4 per date), source-verified |
-| `2026-12-18-25-historical-events` | Dec 18-25 | Drafted: 33 events (4-5 per date), source-verified |
+| `2026-10-09-15-historical-events` | Oct 9-15 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-10-16-22-historical-events` | Oct 16-22 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-10-23-29-historical-events` | Oct 23-29 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-10-30-11-05-historical-events` | Oct 30-Nov 5 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-11-06-12-historical-events` | Nov 6-12 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-11-13-19-historical-events` | Nov 13-19 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-11-20-26-historical-events` | Nov 20-26 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-11-27-12-03-historical-events` | Nov 27-Dec 3 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-12-04-10-historical-events` | Dec 4-10 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-12-11-17-historical-events` | Dec 11-17 | Promoted 2026-10-01 (delegated owner review) |
+| `2026-12-18-25-historical-events` | Dec 18-25 | Promoted 2026-10-01 (delegated owner review) |
 
 As of the Dec 18-25 batch, every date from Oct 2 to Dec 25 has four or five
 draft events (344 in total). Merged with canonical content, all 90 dates from
@@ -51,11 +52,13 @@ image-free layout.
 
 ## Review State
 
-Every draft ledger entry is `source_verified`, not `approved`:
+All batches are promoted. 308 of the 317 October 9 to December 25 drafts were
+approved on 2026-10-01; nine were rejected for disputed dates or key facts and
+nine days carry an `editorialException` with three events. Details:
+`OWNER_REVIEW_OCT09_DEC25_PROGRESS.md`. Drafting record (before review):
 
 - Claude opened each cited URL and recorded what the page states in the
   source-check note.
-- No reviewer or review date is set. Owner review is still required.
 - Sources are authoritative publishers such as Britannica, NASA, national
   archives, and government history offices. Wikipedia is never cited.
 - Descriptions are limited to what the cited pages state.
@@ -77,7 +80,7 @@ closed-beta volume checkpoint, but count alone does not provide connected Daily 
 For the remaining runway, follow `CONNECTED_QUIZ_CONTENT_PLAN.md`: first reuse
 suitable questions through reviewed links, then research accessible new hooks
 from upcoming featured/additional stories. Do not force every event into a quiz.
-The 240 target is a checkpoint, not a ceiling. Event drafts after October 8 remain unapproved.
+The 240 target is a checkpoint, not a ceiling. Packs 150 and 160 bring the bank to 229 published.
 
 ## Promotion Steps (Per Batch)
 
