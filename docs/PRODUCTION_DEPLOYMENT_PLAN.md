@@ -74,6 +74,11 @@ alone is not enough evidence to change a working stack.
   real cloud timings. Set initial API reserved concurrency to **5** as a
   protective limit, and adjust after load testing against the database's
   connection limit. Reserved concurrency has no standing charge.
+- **Superseded 2026-10-01:** the owner chose a free Lambda function URL behind
+  a CloudFront Free-plan distribution instead of API Gateway; see
+  `docs/API_SECURITY.md` and `infra/prod/api.tf`. Edge rate limiting comes
+  from the plan's WAF, not stage throttles. The notes below about
+  `execute-api` and stage throttles describe the earlier design.
 - Use the API Gateway `execute-api` HTTPS domain for deployment smoke tests.
   Before a public mobile build, prefer an owned `api.<domain>` hostname so an
   API Gateway replacement does not require a mobile update. Domain purchase

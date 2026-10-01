@@ -1,20 +1,35 @@
-# Public HTTP API: one Lambda behind an API Gateway HTTP API with stage-wide
-# throttling. Nothing is created until api_lambda_zip_path is set. See
-# docs/PRODUCTION_DEPLOYMENT_PLAN.md and docs/PRODUCTION_HARDENING_PROGRESS.md.
+# Public HTTP API: one Lambda behind a free function URL, reachable only
+# through its own CloudFront distribution on the Free flat-rate plan. Nothing
+# is created until api_lambda_zip_path is set. See
+# docs/PRODUCTION_DEPLOYMENT_PLAN.md and docs/API_SECURITY.md.
+#
+# Security model (the app has no user login, so every route is public):
+# - The function URL uses AWS_IAM auth and only this distribution may invoke
+#   it, via origin access control (SigV4). Direct calls get 403 from Lambda
+#   without running, or billing, the function.
+# - Abuse limits live at the edge: the Free plan's AWS WAF web ACL takes a
+#   per-IP rate-based rule (added by the owner in the console), and content
+#   GETs are cached for 60 seconds, so repeated reads rarely reach Lambda or
+#   the database. Handlers validate every input and cap list sizes.
+# - api_reserved_concurrency caps simultaneous executions once the account's
+#   Lambda quota allows reserving (new accounts start at 10 and cannot).
 #
 # Cost notes (us-east-1, checked 2026-10-01):
-# - API Gateway HTTP APIs cost $1.00 per million requests. This is the only
-#   charge here that is not inside an always-free allowance: about $0.03 a
-#   month at 30,000 requests, about $1.50 at 1.5 million (5,000 daily users).
-#   Unknown paths are answered by the gateway without invoking the function.
+# - Function URLs are free; there is no API Gateway charge.
+# - CloudFront Free flat-rate plan: $0/month, 1M requests and 100 GB a month,
+#   and no overage charges even under attack; blocked requests do not count.
+#   At most three Free plans per account; the image distribution uses one.
+#   Until the owner subscribes the distribution it is pay-as-you-go, which is
+#   inside CloudFront's always-free 10M requests and 1 TB for beta traffic.
 # - Lambda: 1M requests and 400,000 GB-seconds a month are always free. At
-#   1,024 MB that is about 4 million 100 ms requests.
+#   1,024 MB that is about 4 million 100 ms requests. Cached responses and
+#   requests WAF blocks never invoke it.
 # - CloudWatch: the log group keeps 14 days; the first 5 GB of logs a month and
 #   10 alarms are free. With the notification alarm this makes two.
-# - No access logs (they would add log volume and could record device tokens
-#   in DELETE paths); the function logs one api_request line with the route
-#   pattern instead. No custom domain, WAF, VPC, NAT or provisioned
-#   concurrency, all of which cost money.
+# - No CloudFront standard logs (they could record device tokens in DELETE
+#   paths); the function logs one api_request line with the route pattern
+#   instead. No custom domain, VPC, NAT or provisioned concurrency, all of
+#   which cost money.
 # - The database password is read from the same free Standard-tier SSM
 #   parameter as the notification function, once per cold start.
 
@@ -22,19 +37,10 @@ locals {
   api_function_name = "on-this-day-api"
   deploy_api        = var.api_lambda_zip_path != null
 
-  # Mirrors ApiRoutes and template.yaml. A route missing here returns 404 from
-  # the gateway, so add new endpoints in all three places.
-  api_routes = toset([
-    "GET /v1/health",
-    "GET /v1/days/today",
-    "GET /v1/days/recent",
-    "GET /v1/events/{eventId}",
-    "POST /v1/devices",
-    "DELETE /v1/devices/{token}",
-    "GET /v1/quizzes/catalog",
-    "POST /v1/quizzes/quick-play",
-    "GET /v1/quizzes/daily",
-  ])
+  # Every query parameter a handler reads (TodayContentHandler,
+  # RecentDaysHandler, DailyQuizHandler). Others are dropped at the edge, so
+  # add new ones here as well as in the handler.
+  api_query_parameters = ["timezone", "days", "questionCount"]
 }
 
 resource "aws_cloudwatch_log_group" "api" {
@@ -112,10 +118,12 @@ resource "aws_lambda_function" "api" {
   # More memory also means more CPU, which shortens Java cold starts; idle
   # memory costs nothing.
   memory_size = 1024
-  # Below the HTTP API's 30-second integration limit.
+  # Below CloudFront's 30-second origin read timeout.
   timeout = 15
-  # No reserved concurrency: new accounts may have only 10 concurrent
-  # executions, none reservable. Stage throttling bounds the load instead.
+  # -1 leaves the function unreserved: new accounts may have only 10
+  # concurrent executions, none reservable. Set api_reserved_concurrency once
+  # the quota is raised to put a hard ceiling on parallel work.
+  reserved_concurrent_executions = coalesce(var.api_reserved_concurrency, -1)
 
   environment {
     variables = {
@@ -141,59 +149,146 @@ resource "aws_lambda_function" "api" {
   }
 }
 
-resource "aws_apigatewayv2_api" "api" {
+# The function URL accepts only SigV4-signed requests (AWS_IAM), and the only
+# principal allowed to sign them is the API distribution below. Requests sent
+# straight to the URL are refused by Lambda before the function runs, so they
+# are not billed.
+resource "aws_lambda_function_url" "api" {
   count = local.deploy_api ? 1 : 0
 
-  name          = local.api_function_name
-  description   = "On This Day public API"
-  protocol_type = "HTTP"
-  # No CORS: the only client is the mobile app.
-  tags = { Component = "api" }
+  function_name      = aws_lambda_function.api[0].function_name
+  authorization_type = "AWS_IAM"
+  invoke_mode        = "BUFFERED"
 }
 
-resource "aws_apigatewayv2_integration" "api" {
+# Both statements are needed: Lambda checks InvokeFunctionUrl and
+# InvokeFunction for function URL calls.
+resource "aws_lambda_permission" "api_cloudfront_url" {
   count = local.deploy_api ? 1 : 0
 
-  api_id                 = aws_apigatewayv2_api.api[0].id
-  integration_type       = "AWS_PROXY"
-  integration_uri        = aws_lambda_function.api[0].invoke_arn
-  payload_format_version = "2.0"
-  timeout_milliseconds   = 20000
+  statement_id           = "AllowApiDistributionInvokeFunctionUrl"
+  action                 = "lambda:InvokeFunctionUrl"
+  function_name          = aws_lambda_function.api[0].function_name
+  principal              = "cloudfront.amazonaws.com"
+  source_arn             = aws_cloudfront_distribution.api[0].arn
+  function_url_auth_type = "AWS_IAM"
 }
 
-resource "aws_apigatewayv2_route" "api" {
-  for_each = local.deploy_api ? local.api_routes : toset([])
-
-  api_id    = aws_apigatewayv2_api.api[0].id
-  route_key = each.value
-  target    = "integrations/${aws_apigatewayv2_integration.api[0].id}"
-}
-
-resource "aws_apigatewayv2_stage" "api" {
+resource "aws_lambda_permission" "api_cloudfront_invoke" {
   count = local.deploy_api ? 1 : 0
 
-  api_id      = aws_apigatewayv2_api.api[0].id
-  name        = "$default"
-  auto_deploy = true
-
-  # Requests above this get 429 from the gateway before reaching Lambda or the
-  # database; it is the API's abuse limit, since it has no user login.
-  default_route_settings {
-    throttling_rate_limit  = var.api_throttle_rate_limit
-    throttling_burst_limit = var.api_throttle_burst_limit
-  }
-
-  tags = { Component = "api" }
-}
-
-resource "aws_lambda_permission" "api_gateway" {
-  count = local.deploy_api ? 1 : 0
-
-  statement_id  = "AllowHttpApiInvoke"
+  statement_id  = "AllowApiDistributionInvokeFunction"
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.api[0].function_name
-  principal     = "apigateway.amazonaws.com"
-  source_arn    = "${aws_apigatewayv2_api.api[0].execution_arn}/*/*"
+  principal     = "cloudfront.amazonaws.com"
+  source_arn    = aws_cloudfront_distribution.api[0].arn
+}
+
+resource "aws_cloudfront_origin_access_control" "api" {
+  count = local.deploy_api ? 1 : 0
+
+  name                              = local.api_function_name
+  description                       = "CloudFront signs every request to the API function URL"
+  origin_access_control_origin_type = "lambda"
+  signing_behavior                  = "always"
+  signing_protocol                  = "sigv4"
+}
+
+# The origin decides what is cacheable: the function sends Cache-Control only
+# on successful content GETs, and everything else (device writes, Quick Play,
+# health, errors) has no max-age and is not cached. Only the query parameters
+# the API reads are in the cache key, so junk parameters cannot bust the cache.
+resource "aws_cloudfront_cache_policy" "api" {
+  count = local.deploy_api ? 1 : 0
+
+  name        = "${local.api_function_name}-origin-controlled"
+  comment     = "Honour the API's Cache-Control; key on the API's query parameters only"
+  min_ttl     = 0
+  default_ttl = 0
+  max_ttl     = 300
+
+  parameters_in_cache_key_and_forwarded_to_origin {
+    enable_accept_encoding_gzip   = true
+    enable_accept_encoding_brotli = true
+
+    cookies_config {
+      cookie_behavior = "none"
+    }
+
+    headers_config {
+      header_behavior = "none"
+    }
+
+    query_strings_config {
+      query_string_behavior = "whitelist"
+
+      query_strings {
+        items = local.api_query_parameters
+      }
+    }
+  }
+}
+
+# Forwards the viewer's headers (Content-Type and the body hash OAC needs on
+# POST and DELETE) but not Host, which must be the function URL's own host
+# for the signature to verify.
+data "aws_cloudfront_origin_request_policy" "all_viewer_except_host" {
+  name = "Managed-AllViewerExceptHostHeader"
+}
+
+resource "aws_cloudfront_distribution" "api" {
+  count = local.deploy_api ? 1 : 0
+
+  enabled         = true
+  is_ipv6_enabled = true
+  http_version    = "http2and3"
+  comment         = "On This Day public API (function URL origin)"
+  price_class     = "PriceClass_All"
+  tags            = { Component = "api" }
+
+  origin {
+    # https://<id>.lambda-url.us-east-1.on.aws/ -> <id>.lambda-url.us-east-1.on.aws
+    domain_name              = trimsuffix(trimprefix(aws_lambda_function_url.api[0].function_url, "https://"), "/")
+    origin_id                = "api-function-url"
+    origin_access_control_id = aws_cloudfront_origin_access_control.api[0].id
+
+    custom_origin_config {
+      http_port              = 80
+      https_port             = 443
+      origin_protocol_policy = "https-only"
+      origin_ssl_protocols   = ["TLSv1.2"]
+      # Above the function timeout so CloudFront never gives up first.
+      origin_read_timeout = 30
+    }
+  }
+
+  default_cache_behavior {
+    target_origin_id         = "api-function-url"
+    allowed_methods          = ["GET", "HEAD", "OPTIONS", "PUT", "POST", "PATCH", "DELETE"]
+    cached_methods           = ["GET", "HEAD"]
+    cache_policy_id          = aws_cloudfront_cache_policy.api[0].id
+    origin_request_policy_id = data.aws_cloudfront_origin_request_policy.all_viewer_except_host.id
+    viewer_protocol_policy   = "https-only"
+    compress                 = true
+  }
+
+  restrictions {
+    geo_restriction {
+      restriction_type = "none"
+    }
+  }
+
+  viewer_certificate {
+    cloudfront_default_certificate = true
+    minimum_protocol_version       = "TLSv1"
+  }
+
+  # The owner subscribes this distribution to the CloudFront Free flat-rate
+  # plan in the console, which attaches the plan's AWS WAF web ACL (add the
+  # per-IP rate-based rule there). Later applies must keep that association.
+  lifecycle {
+    ignore_changes = [web_acl_id]
+  }
 }
 
 resource "aws_cloudwatch_metric_alarm" "api_errors" {

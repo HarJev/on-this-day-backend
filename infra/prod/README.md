@@ -77,11 +77,16 @@ Launch order and cost notes: `docs/NOTIFICATIONS.md`.
 
 `api.tf` adds the API with default variables creating nothing. Setting
 `api_lambda_zip_path` (plus `db_jdbc_url` and `db_user`) creates the
-`on-this-day-api` function, its role and log group, an HTTP API with the app's
-nine routes, a `$default` stage throttled to `api_throttle_rate_limit` (10/s)
-and `api_throttle_burst_limit` (20), and an error alarm. The function reads the
-database password from `db_password_ssm_parameter_name` and connects with
-`verify-full` TLS. The `api_base_url` output is the release build's API URL.
+`on-this-day-api` function, its role and log group, a function URL with
+`AWS_IAM` auth, a CloudFront distribution that alone may invoke it (origin
+access control), an origin-controlled cache policy, and an error alarm. The
+function reads the database password from `db_password_ssm_parameter_name`
+and connects with `verify-full` TLS. The `api_base_url` output is the release
+build's API URL (the CloudFront address).
 
-API Gateway is the one charge outside free allowances: $1.00 per million
-requests. Cost notes are at the top of `api.tf`.
+After apply, subscribe the `api_distribution_id` distribution to the
+CloudFront **Free** plan and add a per-IP rate-based rule to its web ACL.
+`api_reserved_concurrency` stays unset until the account's Lambda quota allows
+reserving. Security model, mobile header change, and smoke tests:
+`docs/API_SECURITY.md`. Everything is inside free allowances; cost notes are
+at the top of `api.tf`.

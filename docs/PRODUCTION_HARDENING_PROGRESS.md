@@ -61,9 +61,16 @@ pick up from the first step that is not complete.
 4. No new IAM: the deployer policy already allows API Gateway, Lambda and log
    groups named `on-this-day-*`, and passing roles to Lambda.
 
+## Superseded By The Function URL Decision
+
+On 2026-10-01 the owner chose a free Lambda function URL over API Gateway.
+`api.tf` now creates a function URL locked to its own CloudFront distribution
+instead of the HTTP API and stage throttle described above. See
+`docs/API_SECURITY.md`.
+
 ## Cost
 
-Only API Gateway is outside an always-free allowance: $1.00 per million
+At the time, only API Gateway was outside an always-free allowance (now removed): $1.00 per million
 requests, about $0.03 a month at 30,000 requests and about $1.50 at 1.5
 million. Lambda, logs, the alarm and SSM stay inside free allowances at these
 volumes. Details are in the header of `infra/prod/api.tf`.
