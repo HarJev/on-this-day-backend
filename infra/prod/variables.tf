@@ -53,7 +53,7 @@ variable "firebase_service_account_json" {
   ephemeral   = true
 
   validation {
-    condition     = var.firebase_service_account_json == null || length(var.firebase_service_account_json) < 4096
+    condition     = var.firebase_service_account_json == null ? true : length(var.firebase_service_account_json) < 4096
     error_message = "The key must be under 4 KB to fit a free Standard-tier parameter."
   }
 }
