@@ -126,6 +126,8 @@ bundled Supabase CA. With neither `DB_PASSWORD_SSM_PARAMETER` nor
 ```sh
 # Short-lived AWS credentials from your signed-in profile, for the SSM read.
 eval "$(aws configure export-credentials --profile on-this-day --format env)"
+# The SSM client takes its region from the environment, not from that profile.
+export AWS_REGION=us-east-1
 export DB_JDBC_URL='jdbc:postgresql://aws-0-us-east-1.pooler.supabase.com:5432/postgres'
 export DB_USER='postgres.<project-ref>'
 export DB_PASSWORD_SSM_PARAMETER=/on-this-day/prod/db-admin-password
