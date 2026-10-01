@@ -28,9 +28,9 @@ Harris)` with `reviewedOn` 2026-10-01, so the delegation stays visible.
 | R3: review quiz content | COMPLETED | 19 Oct 9-15 questions, 7 Oct 1-8 supplement questions and 12 reuse links all approved as drafted. |
 | R4: promote to canonical | COMPLETED | `editorial/tools/runway/promote_oct09_dec25.py`: 308 events and 78 days appended; Packs 150 and 160 published; 12 `relatedEventIds` added after re-checking snapshot hashes. Draft files removed. |
 | R5: checks | COMPLETED | `EditorialReviewCheckCommand` passes for all 16 Oct-Dec batches; `mvn -B test` 198 tests, 0 failures; `ContentStatusCommand` (no DB): 0 drafts outside `content/`, no new event without an approved entry. |
-| R6: pull request | IN_PROGRESS | PR #24 open (https://github.com/HarJev/on-this-day-backend/pull/24); number sent to the coordinator. A separate review thread reviews and merges it. Do not merge it from this thread. |
-| R7: local DB import | NOT_STARTED | After the merge is confirmed: from main, run the historical importer, then the quiz importer, against local Docker Postgres only. |
-| R8: verification | NOT_STARTED | Counts, `ContentStatusCommand` with DB (`inSync: true`), and SAM local checks of today, event detail, catalog and Quick Play. |
+| R6: pull request | COMPLETED | PR #24 reviewed in a separate thread and merged to main as `5c02c7f` with no changes requested. |
+| R7: local DB import | COMPLETED | From main `5c02c7f`, local Docker Postgres only (migrations V1-V4 already current): historical import, then quiz import, both successful. Before: 146 events, 31 days, 204 questions, 51 relations, 45 event images. After: 454 events, 109 days, 230 questions (229 published), 89 relations, 71 event images. Daily challenges unchanged: 11 challenges, 220 assigned questions. |
+| R8: verification | COMPLETED | `ContentStatusCommand` against the DB: `inSync: true`, no stale, missing or extra events, days or questions. SAM local (port 3010, Compose network): health 200; event detail 200 for new events (Mandela, King's Nobel with image, Hastings with image, Gorbachev), 404 for the dropped Mary Celeste; catalog reports 229 published; 15 Quick Play rounds returned 17 of the 26 new questions, each with its related event. |
 
 ## Result
 
