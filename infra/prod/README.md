@@ -72,3 +72,16 @@ terraform -chdir=infra/prod test
 ```
 
 Launch order and cost notes: `docs/NOTIFICATIONS.md`.
+
+## Public API
+
+`api.tf` adds the API with default variables creating nothing. Setting
+`api_lambda_zip_path` (plus `db_jdbc_url` and `db_user`) creates the
+`on-this-day-api` function, its role and log group, an HTTP API with the app's
+nine routes, a `$default` stage throttled to `api_throttle_rate_limit` (10/s)
+and `api_throttle_burst_limit` (20), and an error alarm. The function reads the
+database password from `db_password_ssm_parameter_name` and connects with
+`verify-full` TLS. The `api_base_url` output is the release build's API URL.
+
+API Gateway is the one charge outside free allowances: $1.00 per million
+requests. Cost notes are at the top of `api.tf`.

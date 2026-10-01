@@ -22,3 +22,8 @@ output "notifications_function_name" {
   description = "Scheduled notification function, when deployed."
   value       = one(aws_lambda_function.notifications[*].function_name)
 }
+
+output "api_base_url" {
+  description = "Base URL for the app's release build (ON_THIS_DAY_API_BASE_URL), when deployed."
+  value       = one(aws_apigatewayv2_api.api[*].api_endpoint)
+}

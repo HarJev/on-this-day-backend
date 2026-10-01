@@ -1,8 +1,8 @@
-package com.onthisday.platform.notifications.scheduled;
+package com.onthisday.platform.runtime;
 
 /** Reads one decrypted configuration value by name. */
 @FunctionalInterface
-interface ParameterReader {
+public interface ParameterReader {
 
   String readDecrypted(String name);
 }

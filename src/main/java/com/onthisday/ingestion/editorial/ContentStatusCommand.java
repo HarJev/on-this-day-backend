@@ -6,6 +6,8 @@ import com.onthisday.ingestion.CuratedDailyEventsFile;
 import com.onthisday.ingestion.CuratedEventsFile;
 import com.onthisday.ingestion.editorial.ContentStatusReporter.BatchState;
 import com.onthisday.ingestion.quiz.QuizContentReader;
+import com.onthisday.platform.runtime.CommandDatabaseConfig;
+import com.onthisday.platform.runtime.PostgresDataSourceFactory;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -14,12 +16,12 @@ import java.util.List;
 import java.util.Map;
 import java.util.Optional;
 import java.util.stream.Stream;
-import org.postgresql.ds.PGSimpleDataSource;
 
 /**
- * Writes a deterministic JSON status report. When {@code DB_JDBC_URL}, {@code DB_USER}, and
- * {@code DB_PASSWORD} are set it also compares canonical content with that database, read-only.
- * It performs no HTTP calls and never approves, promotes, or imports content.
+ * Writes a deterministic JSON status report. When {@code DB_JDBC_URL} and {@code DB_USER} are set
+ * it also compares canonical content with that database, read-only, taking the password as {@link
+ * CommandDatabaseConfig} does. Apart from that optional SSM read it performs no HTTP calls, and it
+ * never approves, promotes, or imports content.
  */
 public final class ContentStatusCommand {
 
@@ -89,10 +91,7 @@ public final class ContentStatusCommand {
     if (url == null || url.isBlank()) {
       return Optional.empty();
     }
-    var dataSource = new PGSimpleDataSource();
-    dataSource.setUrl(url);
-    dataSource.setUser(env.get("DB_USER"));
-    dataSource.setPassword(env.get("DB_PASSWORD"));
+    var dataSource = new PostgresDataSourceFactory().create(CommandDatabaseConfig.fromEnvironment(env));
     return Optional.of(new JdbcContentSnapshotReader(dataSource).read());
   }
 }

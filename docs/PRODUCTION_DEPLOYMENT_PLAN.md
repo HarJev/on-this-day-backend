@@ -127,6 +127,15 @@ alone is not enough evidence to change a working stack.
 
 ## Secrets And Operations
 
+> **Update 2026-10-01 (implemented):** secrets use free Standard-tier SSM
+> SecureStrings instead of Secrets Manager ($0.40 per secret a month), per the
+> owner's $0 rule. The API and notification functions read the database
+> password from `DB_PASSWORD_SSM_PARAMETER` and require `verify-full` TLS;
+> operator commands take credentials from SSM or a hidden prompt. SnapStart is
+> not enabled, so the password is read after each cold start, never captured
+> in a snapshot. Rotation: change the parameter, then publish a new function
+> version or wait for new instances. See `docs/PRODUCTION_HARDENING_PROGRESS.md`.
+
 - Store the runtime database password in AWS Secrets Manager; keep only its ARN
   and nonsecret endpoint/user/timeout settings in Lambda configuration. The
   production runtime must fetch/cache the secret **after** SnapStart restore,

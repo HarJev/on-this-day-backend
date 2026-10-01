@@ -111,9 +111,37 @@ mvn -B exec:java \
 ```
 
 These local credentials are Docker Compose defaults only. Do not adapt these
-arguments for staging or production. Both importers validate before opening a
+arguments for staging or production; use the environment form below instead. Both importers validate before opening a
 connection, upsert only supplied canonical records, replace children only for
 supplied records, and are idempotent.
+
+### Production Or Staging Databases
+
+For any database other than local Docker, pass no password on the command
+line. Set the connection in the environment and name an SSM SecureString for
+the password; the commands then require `sslmode=verify-full` against the
+bundled Supabase CA. With neither `DB_PASSWORD_SSM_PARAMETER` nor
+`DB_PASSWORD` set, the commands prompt for the password without echoing it.
+
+```sh
+# Short-lived AWS credentials from your signed-in profile, for the SSM read.
+eval "$(aws configure export-credentials --profile on-this-day --format env)"
+# The SSM client takes its region from the environment, not from that profile.
+export AWS_REGION=us-east-1
+export DB_JDBC_URL='jdbc:postgresql://aws-0-us-east-1.pooler.supabase.com:5432/postgres'
+export DB_USER='postgres.<project-ref>'
+export DB_PASSWORD_SSM_PARAMETER=/on-this-day/prod/db-admin-password
+
+mvn -B -q compile exec:java \
+  -Dexec.mainClass=com.onthisday.platform.runtime.DatabaseMigrationCommand \
+  -Dexec.args=migrate
+mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.CuratedContentImportCommand
+mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand
+```
+
+`DatabaseMigrationCommand` also takes `info` or `validate`. Use the pooler's
+session port (5432) for migrations and imports. Production import still needs
+the owner's explicit go-ahead.
 
 For a reviewed staging subset, preflight and import only the batch selection.
 The L5 command requires staging configuration in its environment:

@@ -83,7 +83,7 @@ variable "firebase_project_id" {
 }
 
 variable "db_jdbc_url" {
-  description = "Production JDBC URL (no password). Required to deploy the notification function."
+  description = "Production JDBC URL (no password). Required to deploy the API or notification function."
   type        = string
   default     = null
 }
@@ -112,4 +112,34 @@ variable "monthly_budget_usd" {
   description = "Monthly AWS cost budget; the owner is emailed when actual or forecast spend exceeds it."
   type        = string
   default     = "1"
+}
+
+# --- Public API (api.tf) ---
+
+variable "api_lambda_zip_path" {
+  description = "Path to the built backend ZIP. Leave null to keep the API undeployed."
+  type        = string
+  default     = null
+}
+
+variable "api_throttle_rate_limit" {
+  description = "Steady-state requests per second across the whole API before the gateway returns 429."
+  type        = number
+  default     = 10
+
+  validation {
+    condition     = var.api_throttle_rate_limit > 0 && var.api_throttle_rate_limit <= 50
+    error_message = "Keep the API throttle between 1 and 50 requests a second; raise it deliberately."
+  }
+}
+
+variable "api_throttle_burst_limit" {
+  description = "Short burst of requests the gateway allows above the steady rate."
+  type        = number
+  default     = 20
+
+  validation {
+    condition     = var.api_throttle_burst_limit > 0 && var.api_throttle_burst_limit <= 100
+    error_message = "Keep the API burst between 1 and 100."
+  }
 }

@@ -13,11 +13,12 @@ import com.onthisday.notifications.ScheduledNotificationService;
 import com.onthisday.platform.notifications.fcm.FcmNotificationSender;
 import com.onthisday.platform.runtime.ConfigurationException;
 import com.onthisday.platform.runtime.DatabaseConfig;
+import com.onthisday.platform.runtime.ParameterReader;
 import com.onthisday.platform.runtime.PostgresDataSourceFactory;
+import com.onthisday.platform.runtime.SsmParameterReader;
 import java.time.Clock;
 import java.time.Instant;
 import java.time.format.DateTimeParseException;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 import java.util.function.BooleanSupplier;
@@ -38,7 +39,6 @@ public final class ScheduledNotificationHandler
 
   static final String DRY_RUN_ENV = "NOTIFICATIONS_DRY_RUN";
   static final String FIREBASE_PROJECT_ID = "FIREBASE_PROJECT_ID";
-  static final String DB_PASSWORD_SSM_PARAMETER = "DB_PASSWORD_SSM_PARAMETER";
   // One FCM call has a 20-second request timeout, so stop claiming well before that.
   static final int STOP_CLAIMING_MARGIN_MILLIS = 45_000;
 
@@ -130,19 +130,9 @@ public final class ScheduledNotificationHandler
         NotificationSchedule.DEFAULT);
   }
 
-  /**
-   * Deployed, the database password is an SSM SecureString named by {@code
-   * DB_PASSWORD_SSM_PARAMETER}, so it never sits in the function's configuration or Terraform
-   * state. Locally, {@code DB_PASSWORD} is used as before.
-   */
+  /** Same rules as the API function: see {@link DatabaseConfig#resolve}. */
   static DatabaseConfig databaseConfig(Map<String, String> environment, ParameterReader reader) {
-    var parameterName = environment.get(DB_PASSWORD_SSM_PARAMETER);
-    if (parameterName == null || parameterName.isBlank()) {
-      return DatabaseConfig.from(environment);
-    }
-    var resolved = new HashMap<>(environment);
-    resolved.put(DatabaseConfig.DB_PASSWORD, reader.readDecrypted(parameterName));
-    return DatabaseConfig.from(resolved);
+    return DatabaseConfig.resolve(environment, reader);
   }
 
   private static NotificationSender createSender(Map<String, String> environment) {

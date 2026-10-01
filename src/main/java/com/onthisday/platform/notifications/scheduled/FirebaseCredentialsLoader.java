@@ -3,6 +3,7 @@ package com.onthisday.platform.notifications.scheduled;
 import com.onthisday.platform.notifications.fcm.FcmAccessTokenProvider;
 import com.onthisday.platform.notifications.fcm.GoogleCredentialsAccessTokenProvider;
 import com.onthisday.platform.runtime.ConfigurationException;
+import com.onthisday.platform.runtime.ParameterReader;
 import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
