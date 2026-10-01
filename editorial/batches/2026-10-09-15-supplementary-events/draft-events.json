@@ -1,0 +1,26 @@
+{
+  "events": [
+    {
+      "id": "mlk-awarded-nobel-peace-prize-1964",
+      "title": "Martin Luther King Jr. is named winner of the Nobel Peace Prize",
+      "year": "1964",
+      "historicalDate": "October 14, 1964",
+      "dateNote": null,
+      "summary": "The civil rights leader is honored for his nonviolent struggle against racial discrimination.",
+      "description": "On October 14, 1964, Martin Luther King Jr. was named the winner of the Nobel Peace Prize. The prize recognized his nonviolent struggle for civil rights for Black Americans.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day, October 14",
+          "url": "https://www.britannica.com/on-this-day/October-14"
+        },
+        {
+          "name": "NobelPrize.org - Martin Luther King Jr., Facts",
+          "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

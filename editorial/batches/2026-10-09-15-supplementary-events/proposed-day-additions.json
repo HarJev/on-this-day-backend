@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-supplementary-events",
+  "targetBatch": "2026-10-09-15-historical-events",
+  "additions": [
+    {
+      "monthDay": "10-14",
+      "addAdditionalEventId": "mlk-awarded-nobel-peace-prize-1964",
+      "rationale": "A widely resonant social-change milestone; lets the published King portrait link to the day."
+    }
+  ]
+}

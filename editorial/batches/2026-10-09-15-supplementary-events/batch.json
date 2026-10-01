@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-supplementary-events",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [],
+  "monthDays": [],
+  "quizPackFilenames": []
+}

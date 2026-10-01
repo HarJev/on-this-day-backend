@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "upu-founding-city-bern",
+      "kind": "quiz",
+      "proposedCanonicalId": "upu-founding-city-bern",
+      "workingClaim": "The Universal Postal Union was founded in 1874 by a treaty signed in which Swiss city? Answer: Bern. Proposed featured link on 10-09: universal-postal-union-founded-1874. Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor.",
+      "sourceUrls": [
+        "https://www.upu.int/en/universal-postal-union/about-upu/history",
+        "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/"
+      ]
+    },
+    {
+      "candidateId": "washington-monument-shape",
+      "kind": "quiz",
+      "proposedCanonicalId": "washington-monument-shape",
+      "workingClaim": "The Washington Monument in Washington, D.C., takes the form of what kind of structure? Answer: An obelisk. Proposed additional link on 10-09: washington-monument-opens-to-public-1888. Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/October-9"
+      ]
+    },
+    {
+      "candidateId": "uganda-capital-lake",
+      "kind": "quiz",
+      "proposedCanonicalId": "uganda-capital-lake",
+      "workingClaim": "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake? Answer: Lake Victoria. Proposed additional link on 10-09: uganda-independence-1962. Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Uganda"
+      ]
+    },
+    {
+      "candidateId": "kepler-supernova-last-naked-eye",
+      "kind": "quiz",
+      "proposedCanonicalId": "kepler-supernova-last-naked-eye",
+      "workingClaim": "Kepler's Supernova, first seen in 1604, is the most recent supernova in our own galaxy to be seen with the naked eye. Answer: True. Proposed additional link on 10-09: keplers-supernova-first-sighted-1604. Explains why the 1604 sighting still matters; the 1987 supernova is the natural misconception.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/"
+      ]
+    },
+    {
+      "candidateId": "che-guevara-birth-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "che-guevara-birth-country",
+      "workingClaim": "In which country was the revolutionary Che Guevara born? Answer: Argentina. Proposed additional link on 10-09: che-guevara-executed-1967. Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Che-Guevara"
+      ]
+    },
+    {
+      "candidateId": "outer-space-treaty-prohibition",
+      "kind": "quiz",
+      "proposedCanonicalId": "outer-space-treaty-prohibition",
+      "workingClaim": "Under the 1967 Outer Space Treaty, which of these may a country NOT do? Answer: Claim the Moon as its own territory. Proposed additional link on 10-10: outer-space-treaty-enters-force-1967. Tests the treaty's best-known principle rather than its date; the three permitted activities are explicitly free under Article I.",
+      "sourceUrls": [
+        "https://2009-2017.state.gov/t/isn/5181.htm",
+        "https://www.britannica.com/event/Outer-Space-Treaty"
+      ]
+    },
+    {
+      "candidateId": "apollo-7-flew-around-moon",
+      "kind": "quiz",
+      "proposedCanonicalId": "apollo-7-flew-around-moon",
+      "workingClaim": "Apollo 7, the first crewed Apollo mission, flew around the Moon. Answer: False. Proposed featured link on 10-11: apollo-7-launches-1968. Corrects a natural assumption about the first crewed Apollo flight without asking for crew names or dates.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-7/",
+        "https://www.nasa.gov/mission/apollo-8/"
+      ]
+    },
+    {
+      "candidateId": "vatican-ii-mass-language",
+      "kind": "quiz",
+      "proposedCanonicalId": "vatican-ii-mass-language",
+      "workingClaim": "The Second Vatican Council allowed Mass to be celebrated in local languages instead of only in which language? Answer: Latin. Proposed additional link on 10-11: second-vatican-council-opens-1962. The council's most widely felt change; Italian is a tempting distractor because of the Vatican's location.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Second-Vatican-Council"
+      ]
+    },
+    {
+      "candidateId": "mary-rose-monarch",
+      "kind": "quiz",
+      "proposedCanonicalId": "mary-rose-monarch",
+      "workingClaim": "The Mary Rose, raised from the seabed in 1982, was the warship of which English monarch? Answer: Henry VIII. Proposed additional link on 10-11: mary-rose-raised-1982. Connects the 1982 recovery to the Tudor king, a recognizable anchor. All four options are English monarchs.",
+      "sourceUrls": [
+        "https://maryrose.org/discover/history/recovering-the-mary-rose/"
+      ]
+    },
+    {
+      "candidateId": "equatorial-guinea-colonial-power",
+      "kind": "quiz",
+      "proposedCanonicalId": "equatorial-guinea-colonial-power",
+      "workingClaim": "Equatorial Guinea became independent in 1968 from which European country? Answer: Spain. Proposed featured link on 10-12: equatorial-guinea-independence-1968. Same accessible pattern as the published Malta question; all four were colonial powers in Africa.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/equatorial-guinea"
+      ]
+    },
+    {
+      "candidateId": "oktoberfest-original-celebration",
+      "kind": "quiz",
+      "proposedCanonicalId": "oktoberfest-original-celebration",
+      "workingClaim": "Munich's first Oktoberfest, in 1810, celebrated what? Answer: A royal wedding. Proposed additional link on 10-12: first-oktoberfest-1810. A fun origin story; the harvest is the common assumption. The coronation distractor is separate from the wedding.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Oktoberfest"
+      ]
+    },
+    {
+      "candidateId": "templars-original-purpose",
+      "kind": "quiz",
+      "proposedCanonicalId": "templars-original-purpose",
+      "workingClaim": "The Knights Templar were originally founded to do what? Answer: Protect Christian pilgrims to the Holy Land. Proposed additional link on 10-13: templars-arrested-in-france-1307. Asks why the order existed instead of the arrest details; the French-king distractor echoes the event without being correct.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Templars"
+      ]
+    },
+    {
+      "candidateId": "white-house-first-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "white-house-first-president",
+      "workingClaim": "Which U.S. president was the first to live in the White House? Answer: John Adams. Proposed additional link on 10-13: white-house-cornerstone-laid-1792. Classic misconception: Washington oversaw construction but the house was first occupied in 1800.",
+      "sourceUrls": [
+        "https://www.whitehousehistory.org/building-the-white-house",
+        "https://www.britannica.com/on-this-day/October-13"
+      ]
+    },
+    {
+      "candidateId": "bayeux-tapestry-hastings",
+      "kind": "quiz",
+      "proposedCanonicalId": "bayeux-tapestry-hastings",
+      "workingClaim": "Which famous work of medieval textile art shows the Norman Conquest and the Battle of Hastings? Answer: The Bayeux Tapestry. Proposed featured link on 10-14: battle-of-hastings-1066. The best-known artwork tied to the battle; text-only, so no new image rights or delivery are needed. Distractors are other famous medieval tapestries.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Bayeux-Tapestry",
+        "https://www.britannica.com/event/Battle-of-Hastings"
+      ]
+    },
+    {
+      "candidateId": "yeager-x1-runway-takeoff",
+      "kind": "quiz",
+      "proposedCanonicalId": "yeager-x1-runway-takeoff",
+      "workingClaim": "In 1947, Chuck Yeager's Bell X-1 took off from a runway under its own power before breaking the sound barrier. Answer: False. Proposed additional link on 10-14: yeager-breaks-sound-barrier-1947. A surprising detail of how the record flight worked, rather than the speed figure.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Chuck-Yeager"
+      ]
+    },
+    {
+      "candidateId": "cuban-missile-crisis-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "cuban-missile-crisis-president",
+      "workingClaim": "Which U.S. president told the nation in October 1962 that Soviet missile sites had been found in Cuba? Answer: John F. Kennedy. Proposed additional link on 10-14: u2-photographs-missiles-in-cuba-1962. Anchors the reconnaissance flight in the crisis most players know; options are the four consecutive Cold War presidents.",
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
+      ]
+    },
+    {
+      "candidateId": "shenzhou-5-earlier-nations",
+      "kind": "quiz",
+      "proposedCanonicalId": "shenzhou-5-earlier-nations",
+      "workingClaim": "Shenzhou 5 made China the third country to send a person into space on its own spacecraft. Which two countries did it first? Answer: The Soviet Union and the United States. Proposed featured link on 10-15: shenzhou-5-yang-liwei-2003. Places China's milestone in the global space race; each distractor pairs a real space power with a country that had not launched a person.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Shenzhou"
+      ]
+    },
+    {
+      "candidateId": "huygens-titan-landing",
+      "kind": "quiz",
+      "proposedCanonicalId": "huygens-titan-landing",
+      "workingClaim": "The Cassini mission carried the Huygens probe, which landed on which moon of Saturn? Answer: Titan. Proposed additional link on 10-15: cassini-launches-to-saturn-1997. The mission's headline achievement; all four options are moons of Saturn.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+      ]
+    },
+    {
+      "candidateId": "gregorian-century-leap-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "gregorian-century-leap-year",
+      "workingClaim": "Under the Gregorian calendar, which of these years was NOT a leap year? Answer: 1900. Proposed additional link on 10-15: gregorian-calendar-takes-effect-1582. Tests the reform's lasting rule rather than the 1582 date or the pope's name.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Gregorian-calendar"
+      ]
+    },
+    {
+      "candidateId": "link-xinhai-revolution-qing-dynasty",
+      "kind": "quiz",
+      "proposedCanonicalId": "xinhai-revolution-qing-dynasty",
+      "workingClaim": "Propose featured relation on 10-10 from unchanged published xinhai-revolution-qing-dynasty to wuchang-uprising-1911. Britannica regards the October 10 Wuchang mutiny as the formal beginning of the revolution that overthrew the Qing. The question asks which dynasty that revolution ended.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chinese-Revolution-1911-1912"
+      ]
+    },
+    {
+      "candidateId": "link-identify-sun-yat-sen",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-sun-yat-sen",
+      "workingClaim": "Propose featured relation on 10-10 from unchanged published identify-sun-yat-sen to wuchang-uprising-1911. Britannica: after the Wuchang rising Sun returned from abroad and was elected provisional president. The portrait identifies the revolution's best-known leader.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
+        "https://www.britannica.com/biography/Sun-Yat-sen"
+      ]
+    },
+    {
+      "candidateId": "link-order-pacific-independence-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-pacific-independence-milestones",
+      "workingClaim": "Propose additional relation on 10-10 from unchanged published order-pacific-independence-milestones to fiji-independence-1970. The ordering includes 'Fiji becomes independent' (1970), the event itself.",
+      "sourceUrls": [
+        "https://thecommonwealth.org/our-member-countries/fiji"
+      ]
+    },
+    {
+      "candidateId": "link-order-americas-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-americas-milestones",
+      "workingClaim": "Propose additional relation on 10-12 from unchanged published order-americas-milestones to columbus-sights-land-1492. The ordering includes 'Columbus reaches the Caribbean' (1492), the landfall itself.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage"
+      ]
+    },
+    {
+      "candidateId": "link-columbian-exchange-meaning",
+      "kind": "quiz",
+      "proposedCanonicalId": "columbian-exchange-meaning",
+      "workingClaim": "Propose additional relation on 10-12 from unchanged published columbian-exchange-meaning to columbus-sights-land-1492. The exchange named after Columbus began with the 1492 crossing; the question explains its consequences rather than the landfall.",
+      "sourceUrls": [
+        "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm"
+      ]
+    },
+    {
+      "candidateId": "link-voskhod-1-multiperson-crew",
+      "kind": "quiz",
+      "proposedCanonicalId": "voskhod-1-multiperson-crew",
+      "workingClaim": "Propose additional relation on 10-12 from unchanged published voskhod-1-multiperson-crew to voskhod-1-launches-1964. Exact match: the question asks which spacecraft first carried a multi-person crew. Hard; kept as published.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Voskhod-spacecraft"
+      ]
+    },
+    {
+      "candidateId": "link-order-african-independence-1960s",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-african-independence-1960s",
+      "workingClaim": "Propose featured relation on 10-12 from unchanged published order-african-independence-1960s to equatorial-guinea-independence-1968. The ordering includes 'Equatorial Guinea becomes independent' (October 12, 1968), the featured event.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/equatorial-guinea"
+      ]
+    },
+    {
+      "candidateId": "link-chile-miners-days-underground",
+      "kind": "quiz",
+      "proposedCanonicalId": "chile-miners-days-underground",
+      "workingClaim": "Propose featured relation on 10-13 from unchanged published chile-miners-days-underground to chilean-miners-rescued-2010. Exact match on the rescue. The event summary states 69 days, so reading the story first reveals the answer; that is learning, not leakage in the quiz itself.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chile-mine-rescue-of-2010"
+      ]
+    },
+    {
+      "candidateId": "link-identify-napoleon-bonaparte",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-napoleon-bonaparte",
+      "workingClaim": "Propose additional relation on 10-14 from unchanged published identify-napoleon-bonaparte to battles-of-jena-auerstedt-1806. Britannica names Napoleon as the victor at Jena-Auerstedt. The 1812 portrait identifies him without depending on the battle.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Jena",
+        "https://www.nga.gov/artworks/46114-emperor-napoleon-his-study-tuileries"
+      ]
+    },
+    {
+      "candidateId": "link-identify-martin-luther-king-jr",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-martin-luther-king-jr",
+      "workingClaim": "Propose additional relation on 10-14 from unchanged published identify-martin-luther-king-jr to mlk-awarded-nobel-peace-prize-1964. The portrait's explanation already cites his 1964 Nobel Peace Prize. Depends on the proposed supplementary event.",
+      "sourceUrls": [
+        "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+      ]
+    }
+  ]
+}

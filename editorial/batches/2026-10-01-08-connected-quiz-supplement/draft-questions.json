@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "nigeria-capital-at-independence",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which city was Nigeria's capital when the country became independent in 1960?",
+      "options": [
+        {
+          "id": "abuja",
+          "text": "Abuja"
+        },
+        {
+          "id": "lagos",
+          "text": "Lagos"
+        },
+        {
+          "id": "kano",
+          "text": "Kano"
+        },
+        {
+          "id": "ibadan",
+          "text": "Ibadan"
+        }
+      ],
+      "correctOptionId": "lagos",
+      "explanation": "Lagos became the capital of independent Nigeria in 1960. Abuja replaced it as the federal capital in December 1991, and Lagos remains the country's largest city.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Lagos",
+          "url": "https://www.britannica.com/place/Lagos-Nigeria"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "nigeria-independence-1960"
+      ]
+    },
+    {
+      "id": "prc-proclamation-tiananmen",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "From which Beijing landmark did Mao Zedong proclaim the People's Republic of China in 1949?",
+      "options": [
+        {
+          "id": "temple-of-heaven",
+          "text": "The Temple of Heaven"
+        },
+        {
+          "id": "summer-palace",
+          "text": "The Summer Palace"
+        },
+        {
+          "id": "tiananmen",
+          "text": "Tiananmen Gate"
+        },
+        {
+          "id": "drum-tower",
+          "text": "The Drum Tower"
+        }
+      ],
+      "correctOptionId": "tiananmen",
+      "explanation": "On October 1, 1949, Mao proclaimed the founding of the new government from the Tiananmen Gate Tower in Beijing.",
+      "sources": [
+        {
+          "displayName": "Ministry of Foreign Affairs of the PRC - Founding of New China",
+          "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "peoples-republic-china-proclaimed-1949"
+      ]
+    },
+    {
+      "id": "snoopy-comic-strip",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Snoopy is a character from which comic strip?",
+      "options": [
+        {
+          "id": "garfield",
+          "text": "Garfield"
+        },
+        {
+          "id": "calvin-hobbes",
+          "text": "Calvin and Hobbes"
+        },
+        {
+          "id": "blondie",
+          "text": "Blondie"
+        },
+        {
+          "id": "peanuts",
+          "text": "Peanuts"
+        }
+      ],
+      "correctOptionId": "peanuts",
+      "explanation": "Snoopy belongs to Charles Schulz's Peanuts, which first appeared on October 2, 1950, in seven newspapers. His popularity grew in the 1960s as he became a more imaginative character.",
+      "sources": [
+        {
+          "displayName": "Charles M. Schulz Museum - Schulz biography",
+          "url": "https://schulzmuseum.org/about-schulz/schulz-biography/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "peanuts-debuts-1950"
+      ]
+    },
+    {
+      "id": "mount-rushmore-not-carved",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which of these presidents is NOT carved on Mount Rushmore?",
+      "options": [
+        {
+          "id": "washington",
+          "text": "George Washington"
+        },
+        {
+          "id": "jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "lincoln",
+          "text": "Abraham Lincoln"
+        },
+        {
+          "id": "fdr",
+          "text": "Franklin D. Roosevelt"
+        }
+      ],
+      "correctOptionId": "fdr",
+      "explanation": "The memorial shows George Washington, Thomas Jefferson, Theodore Roosevelt and Abraham Lincoln. Carving began on October 4, 1927, and Franklin D. Roosevelt is often confused with his cousin Theodore.",
+      "sources": [
+        {
+          "displayName": "National Park Service - Mount Rushmore National Memorial",
+          "url": "https://www.nps.gov/moru/index.htm"
+        },
+        {
+          "displayName": "National Park Service - Carving history",
+          "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "mount-rushmore-carving-begins-1927"
+      ]
+    },
+    {
+      "id": "night-watch-painter",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which Dutch artist painted The Night Watch?",
+      "options": [
+        {
+          "id": "vermeer",
+          "text": "Johannes Vermeer"
+        },
+        {
+          "id": "rembrandt",
+          "text": "Rembrandt"
+        },
+        {
+          "id": "hals",
+          "text": "Frans Hals"
+        },
+        {
+          "id": "van-gogh",
+          "text": "Vincent van Gogh"
+        }
+      ],
+      "correctOptionId": "rembrandt",
+      "explanation": "Rembrandt painted The Night Watch, a commissioned group portrait of a militia company, around 1640-42. He died in Amsterdam on October 4, 1669.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Rembrandt",
+          "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "rembrandt-dies-1669"
+      ]
+    },
+    {
+      "id": "lepanto-wounded-writer",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which famous writer was wounded fighting at the Battle of Lepanto in 1571?",
+      "options": [
+        {
+          "id": "cervantes",
+          "text": "Miguel de Cervantes"
+        },
+        {
+          "id": "shakespeare",
+          "text": "William Shakespeare"
+        },
+        {
+          "id": "lope-de-vega",
+          "text": "Lope de Vega"
+        },
+        {
+          "id": "montaigne",
+          "text": "Michel de Montaigne"
+        }
+      ],
+      "correctOptionId": "cervantes",
+      "explanation": "Cervantes, later the author of Don Quixote, sailed with the Holy League fleet and was among its wounded at Lepanto.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Lepanto",
+          "url": "https://www.britannica.com/event/Battle-of-Lepanto"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Miguel de Cervantes",
+          "url": "https://www.britannica.com/biography/Miguel-de-Cervantes"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-lepanto-1571"
+      ]
+    },
+    {
+      "id": "opium-war-ceded-island",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The settlement of the First Opium War, extended by the 1843 Treaty of the Bogue, made China cede which island to Britain?",
+      "options": [
+        {
+          "id": "macau",
+          "text": "Macau"
+        },
+        {
+          "id": "taiwan",
+          "text": "Taiwan"
+        },
+        {
+          "id": "hainan",
+          "text": "Hainan"
+        },
+        {
+          "id": "hong-kong",
+          "text": "Hong Kong Island"
+        }
+      ],
+      "correctOptionId": "hong-kong",
+      "explanation": "The 1842 Treaty of Nanjing required China to cede Hong Kong Island to Britain. The supplementary Treaty of the Bogue, signed October 8, 1843, added extraterritoriality and most-favoured-nation rights.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Opium Wars",
+          "url": "https://www.britannica.com/topic/Opium-Wars"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "treaty-of-the-bogue-1843"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-supplementary-events",
+  "entries": [
+    {
+      "candidateId": "oct-14-mlk-awarded-nobel-peace-prize",
+      "canonicalId": "mlk-awarded-nobel-peace-prize-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/October-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica, 1964 entry: Martin Luther King, Jr., was named the winner of the Nobel Prize for Peace, cited for his work involving civil rights and social justice."
+        },
+        {
+          "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NobelPrize.org: Nobel Peace Prize 1964; prize motivation 'for his non-violent struggle for civil rights for the Afro-American population'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Supplements the 2026-10-09-15-historical-events batch without editing it."
+    }
+  ]
+}

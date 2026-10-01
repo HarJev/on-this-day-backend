@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-09-15-supplementary-events",
+  "candidates": [
+    {
+      "candidateId": "oct-14-mlk-awarded-nobel-peace-prize",
+      "kind": "event",
+      "proposedCanonicalId": "mlk-awarded-nobel-peace-prize-1964",
+      "workingClaim": "October 14, 1964: The civil rights leader is honored for his nonviolent struggle against racial discrimination. A widely resonant social-change milestone; lets the published King portrait link to the day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/October-14",
+        "https://www.nobelprize.org/prizes/peace/1964/king/facts/"
+      ]
+    }
+  ]
+}

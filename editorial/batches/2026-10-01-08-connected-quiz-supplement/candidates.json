@@ -1,0 +1,89 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-08-connected-quiz-supplement",
+  "candidates": [
+    {
+      "candidateId": "nigeria-capital-at-independence",
+      "kind": "quiz",
+      "proposedCanonicalId": "nigeria-capital-at-independence",
+      "workingClaim": "Which city was Nigeria's capital when the country became independent in 1960? Answer: Lagos. Proposed additional link on 10-01: nigeria-independence-1960. Abuja, today's capital, is the deliberate trap; the question rewards knowing the country's history rather than the independence date.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Lagos-Nigeria"
+      ]
+    },
+    {
+      "candidateId": "prc-proclamation-tiananmen",
+      "kind": "quiz",
+      "proposedCanonicalId": "prc-proclamation-tiananmen",
+      "workingClaim": "From which Beijing landmark did Mao Zedong proclaim the People's Republic of China in 1949? Answer: Tiananmen Gate. Proposed additional link on 10-01: peoples-republic-china-proclaimed-1949. A recognizable landmark tied to the proclamation; all four options are historic Beijing sites.",
+      "sourceUrls": [
+        "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html"
+      ]
+    },
+    {
+      "candidateId": "snoopy-comic-strip",
+      "kind": "quiz",
+      "proposedCanonicalId": "snoopy-comic-strip",
+      "workingClaim": "Snoopy is a character from which comic strip? Answer: Peanuts. Proposed additional link on 10-02: peanuts-debuts-1950. Light, widely recognized hook for an imageless event; all four are long-running newspaper strips.",
+      "sourceUrls": [
+        "https://schulzmuseum.org/about-schulz/schulz-biography/"
+      ]
+    },
+    {
+      "candidateId": "mount-rushmore-not-carved",
+      "kind": "quiz",
+      "proposedCanonicalId": "mount-rushmore-not-carved",
+      "workingClaim": "Which of these presidents is NOT carved on Mount Rushmore? Answer: Franklin D. Roosevelt. Proposed additional link on 10-04: mount-rushmore-carving-begins-1927. Plays on the familiar Theodore/Franklin Roosevelt mix-up without listing Theodore.",
+      "sourceUrls": [
+        "https://www.nps.gov/moru/index.htm",
+        "https://www.nps.gov/moru/learn/historyculture/carving-history.htm"
+      ]
+    },
+    {
+      "candidateId": "night-watch-painter",
+      "kind": "quiz",
+      "proposedCanonicalId": "night-watch-painter",
+      "workingClaim": "Which Dutch artist painted The Night Watch? Answer: Rembrandt. Proposed additional link on 10-04: rembrandt-dies-1669. Identifies his most famous work instead of his death; all four options are Dutch painters.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Rembrandt-van-Rijn"
+      ]
+    },
+    {
+      "candidateId": "lepanto-wounded-writer",
+      "kind": "quiz",
+      "proposedCanonicalId": "lepanto-wounded-writer",
+      "workingClaim": "Which famous writer was wounded fighting at the Battle of Lepanto in 1571? Answer: Miguel de Cervantes. Proposed additional link on 10-07: battle-of-lepanto-1571. A memorable human link to a remote battle; distractors are contemporary European writers.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Lepanto",
+        "https://www.britannica.com/biography/Miguel-de-Cervantes"
+      ]
+    },
+    {
+      "candidateId": "opium-war-ceded-island",
+      "kind": "quiz",
+      "proposedCanonicalId": "opium-war-ceded-island",
+      "workingClaim": "The settlement of the First Opium War, extended by the 1843 Treaty of the Bogue, made China cede which island to Britain? Answer: Hong Kong Island. Proposed additional link on 10-08: treaty-of-the-bogue-1843. Gives the treaty's lasting consequence rather than clause recall; Macau is the nearby Portuguese-held trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Opium-Wars"
+      ]
+    },
+    {
+      "candidateId": "link-camp-david-egyptian-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "camp-david-egyptian-president",
+      "workingClaim": "Propose additional relation on 10-06 from unchanged published camp-david-egyptian-president to anwar-sadat-assassinated-1981. Britannica covers both the 1978 Camp David Accords and Sadat's 1981 assassination. The question names the peace-making president the event describes.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Anwar-Sadat"
+      ]
+    },
+    {
+      "candidateId": "link-ferdinand-bulgarian-independence",
+      "kind": "quiz",
+      "proposedCanonicalId": "ferdinand-bulgarian-independence",
+      "workingClaim": "Propose additional relation on 10-05 from unchanged published ferdinand-bulgarian-independence to bulgaria-declares-independence-1908. Exact match. The October 2-8 slate reserved it because it is hard and name-heavy; proposed now as supplementary supply, not as the day's accessible hook.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
+      ]
+    }
+  ]
+}

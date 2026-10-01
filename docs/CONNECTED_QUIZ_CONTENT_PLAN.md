@@ -1,6 +1,6 @@
 # Connected Daily Quiz Content Plan
 
-Updated: 2026-09-28. Owner-approved direction; content remains subject to review.
+Updated: 2026-10-01. Owner-approved direction; content remains subject to review.
 
 This extends **L6 (event runway), L7 (quiz expansion), and A2 (Connect Today
 And Daily)** in `../on-this-day-mobile/docs/PRODUCTION_LAUNCH_WORKPLAN.md`.
@@ -83,6 +83,7 @@ L7 selection decision; do not change the algorithm inside a content task.
 | C2: linked question slate | COMPLETED | Owner approved the fourteen October 2-8 hooks on 2026-09-29; drafting only, not publication approval. |
 | C3: sourced editorial pack | COMPLETED | October 2-8: eight validated drafts, six source-checked reuse links; owner content review pending. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
 | C4: owner review and promotion | COMPLETED | October 2-8: owner approved 2026-09-29; 28 events, Pack 140 (8 questions) and six reuse links promoted and imported locally. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
+| October 9-15 C1-C3 (+ Oct 1-8 supplement) | COMPLETED | 19 + 7 new drafts, 10 + 2 reuse links, one supplementary event; owner review (C4) NOT_STARTED. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
 
 Set an item IN_PROGRESS when work starts and COMPLETED only with evidence.
 Repeat C1-C4 for each window; do not mark the whole runway complete after one

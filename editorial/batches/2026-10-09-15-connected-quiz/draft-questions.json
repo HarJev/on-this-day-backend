@@ -1,0 +1,742 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "upu-founding-city-bern",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Universal Postal Union was founded in 1874 by a treaty signed in which Swiss city?",
+      "options": [
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "bern",
+          "text": "Bern"
+        },
+        {
+          "id": "zurich",
+          "text": "Zurich"
+        },
+        {
+          "id": "basel",
+          "text": "Basel"
+        }
+      ],
+      "correctOptionId": "bern",
+      "explanation": "Delegates meeting in Bern signed the Treaty of Bern on October 9, 1874, creating the union for international mail. The anniversary is now marked as World Post Day.",
+      "sources": [
+        {
+          "displayName": "Universal Postal Union - History",
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history"
+        },
+        {
+          "displayName": "Swiss National Museum - The story of the Universal Postal Union",
+          "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "universal-postal-union-founded-1874"
+      ]
+    },
+    {
+      "id": "washington-monument-shape",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Washington Monument in Washington, D.C., takes the form of what kind of structure?",
+      "options": [
+        {
+          "id": "pyramid",
+          "text": "A pyramid"
+        },
+        {
+          "id": "domed-rotunda",
+          "text": "A domed rotunda"
+        },
+        {
+          "id": "obelisk",
+          "text": "An obelisk"
+        },
+        {
+          "id": "triumphal-arch",
+          "text": "A triumphal arch"
+        }
+      ],
+      "correctOptionId": "obelisk",
+      "explanation": "The monument to George Washington is a marble-faced granite obelisk. Built between 1848 and 1884, it opened to the public on October 9, 1888.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day, October 9",
+          "url": "https://www.britannica.com/on-this-day/October-9"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "washington-monument-opens-to-public-1888"
+      ]
+    },
+    {
+      "id": "uganda-capital-lake",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Uganda's capital, Kampala, lies near the shore of which lake, Africa's largest freshwater lake?",
+      "options": [
+        {
+          "id": "victoria",
+          "text": "Lake Victoria"
+        },
+        {
+          "id": "tanganyika",
+          "text": "Lake Tanganyika"
+        },
+        {
+          "id": "malawi",
+          "text": "Lake Malawi"
+        },
+        {
+          "id": "chad",
+          "text": "Lake Chad"
+        }
+      ],
+      "correctOptionId": "victoria",
+      "explanation": "Kampala sits near Lake Victoria, which Uganda shares with Kenya and Tanzania. Uganda became independent from Britain on October 9, 1962.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Uganda",
+          "url": "https://www.britannica.com/place/Uganda"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "uganda-independence-1962"
+      ]
+    },
+    {
+      "id": "kepler-supernova-last-naked-eye",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Kepler's Supernova, first seen in 1604, is the most recent supernova in our own galaxy to be seen with the naked eye.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "No later supernova in the Milky Way has been seen with the naked eye. The bright Supernova 1987A was in the Large Magellanic Cloud, a neighboring galaxy.",
+      "sources": [
+        {
+          "displayName": "NASA - 420 years ago, Johannes Kepler observes a supernova",
+          "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "keplers-supernova-first-sighted-1604"
+      ]
+    },
+    {
+      "id": "che-guevara-birth-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In which country was the revolutionary Che Guevara born?",
+      "options": [
+        {
+          "id": "cuba",
+          "text": "Cuba"
+        },
+        {
+          "id": "bolivia",
+          "text": "Bolivia"
+        },
+        {
+          "id": "mexico",
+          "text": "Mexico"
+        },
+        {
+          "id": "argentina",
+          "text": "Argentina"
+        }
+      ],
+      "correctOptionId": "argentina",
+      "explanation": "Ernesto 'Che' Guevara was born in Rosario, Argentina, in 1928. He became a leader of the Cuban Revolution and was killed in Bolivia in 1967.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Che Guevara",
+          "url": "https://www.britannica.com/biography/Che-Guevara"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "che-guevara-executed-1967"
+      ]
+    },
+    {
+      "id": "outer-space-treaty-prohibition",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Under the 1967 Outer Space Treaty, which of these may a country NOT do?",
+      "options": [
+        {
+          "id": "send-astronauts",
+          "text": "Send astronauts to the Moon"
+        },
+        {
+          "id": "claim-moon",
+          "text": "Claim the Moon as its own territory"
+        },
+        {
+          "id": "research-moon",
+          "text": "Carry out scientific research on the Moon"
+        },
+        {
+          "id": "launch-satellites",
+          "text": "Launch satellites into Earth orbit"
+        }
+      ],
+      "correctOptionId": "claim-moon",
+      "explanation": "The treaty says outer space, including the Moon, is not subject to national appropriation by claim of sovereignty. Exploration and scientific investigation remain free for all states.",
+      "sources": [
+        {
+          "displayName": "U.S. Department of State (archive) - Outer Space Treaty",
+          "url": "https://2009-2017.state.gov/t/isn/5181.htm"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Outer Space Treaty",
+          "url": "https://www.britannica.com/event/Outer-Space-Treaty"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "outer-space-treaty-enters-force-1967"
+      ]
+    },
+    {
+      "id": "apollo-7-flew-around-moon",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Apollo 7, the first crewed Apollo mission, flew around the Moon.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Apollo 7 stayed in Earth orbit for about 11 days in October 1968. Apollo 8 carried the first humans to orbit the Moon that December.",
+      "sources": [
+        {
+          "displayName": "NASA - Apollo 7",
+          "url": "https://www.nasa.gov/mission/apollo-7/"
+        },
+        {
+          "displayName": "NASA - Apollo 8",
+          "url": "https://www.nasa.gov/mission/apollo-8/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-7-launches-1968"
+      ]
+    },
+    {
+      "id": "vatican-ii-mass-language",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Second Vatican Council allowed Mass to be celebrated in local languages instead of only in which language?",
+      "options": [
+        {
+          "id": "latin",
+          "text": "Latin"
+        },
+        {
+          "id": "greek",
+          "text": "Greek"
+        },
+        {
+          "id": "hebrew",
+          "text": "Hebrew"
+        },
+        {
+          "id": "italian",
+          "text": "Italian"
+        }
+      ],
+      "correctOptionId": "latin",
+      "explanation": "The council's Constitution on the Sacred Liturgy authorized vernacular languages instead of Latin in the Mass, one of its most visible changes to Catholic worship.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Second Vatican Council",
+          "url": "https://www.britannica.com/event/Second-Vatican-Council"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "second-vatican-council-opens-1962"
+      ]
+    },
+    {
+      "id": "mary-rose-monarch",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "The Mary Rose, raised from the seabed in 1982, was the warship of which English monarch?",
+      "options": [
+        {
+          "id": "elizabeth-i",
+          "text": "Elizabeth I"
+        },
+        {
+          "id": "richard-iii",
+          "text": "Richard III"
+        },
+        {
+          "id": "henry-viii",
+          "text": "Henry VIII"
+        },
+        {
+          "id": "charles-i",
+          "text": "Charles I"
+        }
+      ],
+      "correctOptionId": "henry-viii",
+      "explanation": "The Mary Rose served Henry VIII for 34 years before sinking in 1545. Its hull was raised on October 11, 1982.",
+      "sources": [
+        {
+          "displayName": "Mary Rose Trust - Raising the Mary Rose",
+          "url": "https://maryrose.org/discover/history/recovering-the-mary-rose/"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "mary-rose-raised-1982"
+      ]
+    },
+    {
+      "id": "equatorial-guinea-colonial-power",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Equatorial Guinea became independent in 1968 from which European country?",
+      "options": [
+        {
+          "id": "portugal",
+          "text": "Portugal"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        },
+        {
+          "id": "spain",
+          "text": "Spain"
+        }
+      ],
+      "correctOptionId": "spain",
+      "explanation": "Equatorial Guinea gained independence from Spain on October 12, 1968.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - Equatorial Guinea",
+          "url": "https://history.state.gov/countries/equatorial-guinea"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "equatorial-guinea-independence-1968"
+      ]
+    },
+    {
+      "id": "oktoberfest-original-celebration",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Munich's first Oktoberfest, in 1810, celebrated what?",
+      "options": [
+        {
+          "id": "military-victory",
+          "text": "A military victory"
+        },
+        {
+          "id": "royal-wedding",
+          "text": "A royal wedding"
+        },
+        {
+          "id": "harvest",
+          "text": "The end of the harvest"
+        },
+        {
+          "id": "coronation",
+          "text": "A king's coronation"
+        }
+      ],
+      "correctOptionId": "royal-wedding",
+      "explanation": "The festival began on October 12, 1810, to celebrate the marriage of the Bavarian crown prince, later King Louis I, to Princess Therese. The Theresienwiese grounds are named after her.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Oktoberfest",
+          "url": "https://www.britannica.com/topic/Oktoberfest"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-oktoberfest-1810"
+      ]
+    },
+    {
+      "id": "templars-original-purpose",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Knights Templar were originally founded to do what?",
+      "options": [
+        {
+          "id": "protect-pilgrims",
+          "text": "Protect Christian pilgrims to the Holy Land"
+        },
+        {
+          "id": "guard-pope",
+          "text": "Guard the pope in Rome"
+        },
+        {
+          "id": "defend-france",
+          "text": "Defend the king of France"
+        },
+        {
+          "id": "escort-merchants",
+          "text": "Escort merchants on the Silk Roads"
+        }
+      ],
+      "correctOptionId": "protect-pilgrims",
+      "explanation": "The order began around 1119-20 to protect Christian pilgrims travelling to Jerusalem. It later took on wider military and banking roles before Philip IV of France ordered its members arrested in 1307.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Templar",
+          "url": "https://www.britannica.com/topic/Templars"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "templars-arrested-in-france-1307"
+      ]
+    },
+    {
+      "id": "white-house-first-president",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Which U.S. president was the first to live in the White House?",
+      "options": [
+        {
+          "id": "george-washington",
+          "text": "George Washington"
+        },
+        {
+          "id": "john-adams",
+          "text": "John Adams"
+        },
+        {
+          "id": "thomas-jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "james-madison",
+          "text": "James Madison"
+        }
+      ],
+      "correctOptionId": "john-adams",
+      "explanation": "Construction began with a cornerstone on October 13, 1792. John Adams moved in on November 1, 1800, near the end of his term, so Washington never lived there.",
+      "sources": [
+        {
+          "displayName": "White House Historical Association - Building the White House",
+          "url": "https://www.whitehousehistory.org/building-the-white-house"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day, October 13",
+          "url": "https://www.britannica.com/on-this-day/October-13"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "white-house-cornerstone-laid-1792"
+      ]
+    },
+    {
+      "id": "bayeux-tapestry-hastings",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which famous work of medieval textile art shows the Norman Conquest and the Battle of Hastings?",
+      "options": [
+        {
+          "id": "bayeux",
+          "text": "The Bayeux Tapestry"
+        },
+        {
+          "id": "apocalypse",
+          "text": "The Apocalypse Tapestry"
+        },
+        {
+          "id": "lady-unicorn",
+          "text": "The Lady and the Unicorn tapestries"
+        },
+        {
+          "id": "devonshire-hunting",
+          "text": "The Devonshire Hunting Tapestries"
+        }
+      ],
+      "correctOptionId": "bayeux",
+      "explanation": "The Bayeux Tapestry is an embroidered linen band with more than 70 scenes of the Norman Conquest of 1066, including the battle at Hastings.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Bayeux Tapestry",
+          "url": "https://www.britannica.com/topic/Bayeux-Tapestry"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Hastings",
+          "url": "https://www.britannica.com/event/Battle-of-Hastings"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-hastings-1066"
+      ]
+    },
+    {
+      "id": "yeager-x1-runway-takeoff",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "In 1947, Chuck Yeager's Bell X-1 took off from a runway under its own power before breaking the sound barrier.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "The X-1 was carried aloft attached to a B-29 mother ship and released at about 25,000 feet. It then climbed on rocket power to about 40,000 feet, where Yeager flew faster than sound.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Chuck Yeager",
+          "url": "https://www.britannica.com/biography/Chuck-Yeager"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "yeager-breaks-sound-barrier-1947"
+      ]
+    },
+    {
+      "id": "cuban-missile-crisis-president",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "draft",
+      "prompt": "Which U.S. president told the nation in October 1962 that Soviet missile sites had been found in Cuba?",
+      "options": [
+        {
+          "id": "eisenhower",
+          "text": "Dwight D. Eisenhower"
+        },
+        {
+          "id": "kennedy",
+          "text": "John F. Kennedy"
+        },
+        {
+          "id": "johnson",
+          "text": "Lyndon B. Johnson"
+        },
+        {
+          "id": "nixon",
+          "text": "Richard Nixon"
+        }
+      ],
+      "correctOptionId": "kennedy",
+      "explanation": "U-2 photographs taken on October 14, 1962, revealed Soviet missile installations. President Kennedy announced them in a televised address on October 22, beginning the public crisis.",
+      "sources": [
+        {
+          "displayName": "National Archives - Aerial photograph of missiles in Cuba (1962)",
+          "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "u2-photographs-missiles-in-cuba-1962"
+      ]
+    },
+    {
+      "id": "shenzhou-5-earlier-nations",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Shenzhou 5 made China the third country to send a person into space on its own spacecraft. Which two countries did it first?",
+      "options": [
+        {
+          "id": "ussr-us",
+          "text": "The Soviet Union and the United States"
+        },
+        {
+          "id": "us-france",
+          "text": "The United States and France"
+        },
+        {
+          "id": "ussr-japan",
+          "text": "The Soviet Union and Japan"
+        },
+        {
+          "id": "us-india",
+          "text": "The United States and India"
+        }
+      ],
+      "correctOptionId": "ussr-us",
+      "explanation": "On October 15, 2003, Yang Liwei orbited Earth aboard Shenzhou 5. China became the third country, after the Soviet Union and the United States, to achieve human spaceflight.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Shenzhou",
+          "url": "https://www.britannica.com/topic/Shenzhou"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "shenzhou-5-yang-liwei-2003"
+      ]
+    },
+    {
+      "id": "huygens-titan-landing",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "The Cassini mission carried the Huygens probe, which landed on which moon of Saturn?",
+      "options": [
+        {
+          "id": "enceladus",
+          "text": "Enceladus"
+        },
+        {
+          "id": "mimas",
+          "text": "Mimas"
+        },
+        {
+          "id": "titan",
+          "text": "Titan"
+        },
+        {
+          "id": "iapetus",
+          "text": "Iapetus"
+        }
+      ],
+      "correctOptionId": "titan",
+      "explanation": "Huygens landed on Titan, Saturn's largest moon, on January 14, 2005, after riding to Saturn aboard Cassini.",
+      "sources": [
+        {
+          "displayName": "NASA Science - Huygens probe",
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "cassini-launches-to-saturn-1997"
+      ]
+    },
+    {
+      "id": "gregorian-century-leap-year",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "draft",
+      "prompt": "Under the Gregorian calendar, which of these years was NOT a leap year?",
+      "options": [
+        {
+          "id": "1600",
+          "text": "1600"
+        },
+        {
+          "id": "1896",
+          "text": "1896"
+        },
+        {
+          "id": "1900",
+          "text": "1900"
+        },
+        {
+          "id": "2000",
+          "text": "2000"
+        }
+      ],
+      "correctOptionId": "1900",
+      "explanation": "A century year is a leap year only if it divides exactly by 400. That makes 1600 and 2000 leap years but not 1900; 1896 follows the ordinary four-year rule.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gregorian calendar",
+          "url": "https://www.britannica.com/topic/Gregorian-calendar"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "gregorian-calendar-takes-effect-1582"
+      ]
+    }
+  ]
+}
