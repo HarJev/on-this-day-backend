@@ -5,7 +5,7 @@
     {
       "candidateId": "oct-14-mlk-awarded-nobel-peace-prize",
       "canonicalId": "mlk-awarded-nobel-peace-prize-1964",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/October-14",
@@ -30,7 +30,9 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Supplements the 2026-10-09-15-historical-events batch without editing it."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Supplements the 2026-10-09-15-historical-events batch without editing it. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

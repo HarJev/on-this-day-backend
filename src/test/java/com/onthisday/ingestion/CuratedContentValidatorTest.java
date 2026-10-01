@@ -155,7 +155,8 @@ class CuratedContentValidatorTest {
             .allMatch(
                 warning ->
                     warning.message().equals("featured event has no primary image")
-                        || warning.message().equals("day has fewer than 4 total events")));
+                        || warning.message().equals("day has fewer than 4 total events")
+                        || warning.message().equals("editorial exception declared")));
   }
 
   private ContentValidationResult validateFixture(String fixtureName) throws IOException {

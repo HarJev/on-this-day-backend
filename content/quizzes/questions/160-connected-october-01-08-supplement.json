@@ -5,7 +5,7 @@
       "id": "nigeria-capital-at-independence",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which city was Nigeria's capital when the country became independent in 1960?",
       "options": [
         {
@@ -44,7 +44,7 @@
       "id": "prc-proclamation-tiananmen",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which Beijing landmark did Mao Zedong proclaim the People's Republic of China in 1949?",
       "options": [
         {
@@ -83,7 +83,7 @@
       "id": "snoopy-comic-strip",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Snoopy is a character from which comic strip?",
       "options": [
         {
@@ -122,7 +122,7 @@
       "id": "mount-rushmore-not-carved",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these presidents is NOT carved on Mount Rushmore?",
       "options": [
         {
@@ -165,7 +165,7 @@
       "id": "night-watch-painter",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which Dutch artist painted The Night Watch?",
       "options": [
         {
@@ -204,7 +204,7 @@
       "id": "lepanto-wounded-writer",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which famous writer was wounded fighting at the Battle of Lepanto in 1571?",
       "options": [
         {
@@ -247,7 +247,7 @@
       "id": "opium-war-ceded-island",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The settlement of the First Opium War, extended by the 1843 Treaty of the Bogue, made China cede which island to Britain?",
       "options": [
         {

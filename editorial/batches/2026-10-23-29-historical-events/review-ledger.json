@@ -5,7 +5,7 @@
     {
       "candidateId": "oct-23-ipod",
       "canonicalId": "apple-introduces-ipod-2001",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
@@ -25,12 +25,14 @@
       "calendarDays": [
         "10-23"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-23-hungary-1956",
       "canonicalId": "hungarian-revolution-begins-1956",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Hungarian-Revolution-1956",
@@ -49,12 +51,14 @@
       "calendarDays": [
         "10-23"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-23-el-alamein",
       "canonicalId": "second-battle-of-el-alamein-begins-1942",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battles-of-El-Alamein",
@@ -74,12 +78,14 @@
       "calendarDays": [
         "10-23"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-23-piazza",
       "canonicalId": "first-military-reconnaissance-flight-1911",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.smithsonianmag.com/air-space-magazine/the-worlds-first-warplane-115175678/",
@@ -99,12 +105,14 @@
       "calendarDays": [
         "10-23"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-24-un-day",
       "canonicalId": "un-charter-enters-into-force-1945",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.un.org/en/observances/un-day",
@@ -123,12 +131,14 @@
       "calendarDays": [
         "10-24"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-24-westphalia",
       "canonicalId": "peace-of-westphalia-signed-1648",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Peace-of-Westphalia",
@@ -147,12 +157,14 @@
       "calendarDays": [
         "10-24"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-24-zambia",
       "canonicalId": "zambia-independence-1964",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/zambia",
@@ -172,12 +184,14 @@
       "calendarDays": [
         "10-24"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-24-v2-photo",
       "canonicalId": "first-photo-from-space-1946",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.smithsonianmag.com/air-space-magazine/the-first-photo-from-space-13721411/",
@@ -197,12 +211,14 @@
       "calendarDays": [
         "10-24"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-25-agincourt",
       "canonicalId": "battle-of-agincourt-1415",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Agincourt",
@@ -221,12 +237,14 @@
       "calendarDays": [
         "10-25"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-25-balaklava",
       "canonicalId": "battle-of-balaklava-1854",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Balaklava",
@@ -245,12 +263,14 @@
       "calendarDays": [
         "10-25"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-25-lisbon",
       "canonicalId": "siege-of-lisbon-ends-1147",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Siege-of-Lisbon",
@@ -270,12 +290,14 @@
       "calendarDays": [
         "10-25"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-25-windows-xp",
       "canonicalId": "windows-xp-launches-2001",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://news.microsoft.com/source/2001/10/25/windows-xp-is-here/",
@@ -295,12 +317,14 @@
       "calendarDays": [
         "10-25"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-26-smallpox",
       "canonicalId": "last-natural-smallpox-case-1977",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.who.int/news/item/17-05-2010-statue-commemorates-smallpox-eradication",
@@ -326,12 +350,14 @@
       "calendarDays": [
         "10-26"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-26-fa-founded",
       "canonicalId": "football-association-founded-1863",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.thefa.com/about-football-association/who-we-are/history",
@@ -350,12 +376,14 @@
       "calendarDays": [
         "10-26"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-26-austria-neutrality",
       "canonicalId": "austria-declares-neutrality-1955",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.cvce.eu/en/obj/constitutional_law_on_the_neutrality_of_austria_26_october_1955-en-670aa09c-4d4b-451a-84f2-23f2f9c8cb06.html",
@@ -375,12 +403,14 @@
       "calendarDays": [
         "10-26"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-26-erie-canal",
       "canonicalId": "erie-canal-completed-1825",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Erie-Canal",
@@ -399,12 +429,14 @@
       "calendarDays": [
         "10-26"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-27-nyc-subway",
       "canonicalId": "new-york-subway-opens-1904",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.tenement.org/blog/on-this-day-1904-first-underground-subway/",
@@ -423,12 +455,14 @@
       "calendarDays": [
         "10-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-27-st-vincent",
       "canonicalId": "saint-vincent-grenadines-independence-1979",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/saint-vincent-grenadines",
@@ -448,12 +482,14 @@
       "calendarDays": [
         "10-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-27-turkmenistan",
       "canonicalId": "turkmenistan-declares-independence-1991",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Turkmenistan",
@@ -472,12 +508,14 @@
       "calendarDays": [
         "10-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-27-amsterdam",
       "canonicalId": "amsterdam-toll-privilege-1275",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
@@ -502,12 +540,14 @@
       "calendarDays": [
         "10-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-28-statue-of-liberty",
       "canonicalId": "statue-of-liberty-dedicated-1886",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Statue-of-Liberty",
@@ -527,12 +567,14 @@
       "calendarDays": [
         "10-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-28-czechoslovakia",
       "canonicalId": "czechoslovakia-independence-1918",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Czechoslovakia",
@@ -551,12 +593,14 @@
       "calendarDays": [
         "10-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-28-ohi-day",
       "canonicalId": "greece-rejects-italian-ultimatum-1940",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.greeknewsagenda.gr/ohi-day/",
@@ -575,12 +619,14 @@
       "calendarDays": [
         "10-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-28-milvian-bridge",
       "canonicalId": "battle-of-milvian-bridge-312",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Battle-of-the-Milvian-Bridge",
@@ -599,12 +645,14 @@
       "calendarDays": [
         "10-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-29-turkish-republic",
       "canonicalId": "turkish-republic-proclaimed-1923",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Kemal-Ataturk",
@@ -624,12 +672,14 @@
       "calendarDays": [
         "10-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-29-arpanet",
       "canonicalId": "first-arpanet-message-1969",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.universityofcalifornia.edu/news/lo-and-behold-internet",
@@ -648,12 +698,14 @@
       "calendarDays": [
         "10-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-29-john-glenn",
       "canonicalId": "john-glenn-returns-to-space-1998",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/mission/sts-95/",
@@ -672,12 +724,14 @@
       "calendarDays": [
         "10-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oct-29-black-tuesday",
       "canonicalId": "black-tuesday-1929",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.federalreservehistory.org/essays/stock-market-crash-of-1929",
@@ -697,7 +751,9 @@
       "calendarDays": [
         "10-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

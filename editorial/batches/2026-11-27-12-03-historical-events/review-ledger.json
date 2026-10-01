@@ -5,7 +5,7 @@
     {
       "candidateId": "nov-27-nobel-will",
       "canonicalId": "nobel-prizes-established-1895",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-27",
@@ -25,12 +25,14 @@
       "calendarDays": [
         "11-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-27-macys-parade",
       "canonicalId": "first-macys-parade-1924",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-27",
@@ -49,12 +51,14 @@
       "calendarDays": [
         "11-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-27-neuilly",
       "canonicalId": "treaty-of-neuilly-1919",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-27",
@@ -73,12 +77,14 @@
       "calendarDays": [
         "11-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-27-celsius",
       "canonicalId": "anders-celsius-born-1701",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-27",
@@ -97,12 +103,14 @@
       "calendarDays": [
         "11-27"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-28-albania",
       "canonicalId": "albania-independence-1912",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-28",
@@ -121,12 +129,14 @@
       "calendarDays": [
         "11-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-28-lady-astor",
       "canonicalId": "lady-astor-takes-seat-1919",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "rejected",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-28",
@@ -145,12 +155,14 @@
       "calendarDays": [
         "11-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Rejected in the delegated owner review on 2026-10-01: Wrong key fact for the date: Astor was elected on November 28, 1919 but took her seat on December 1.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-28-mauritania",
       "canonicalId": "mauritania-independence-1960",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-28",
@@ -170,12 +182,14 @@
       "calendarDays": [
         "11-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-28-tehran-conference",
       "canonicalId": "tehran-conference-opens-1943",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-28",
@@ -195,12 +209,14 @@
       "calendarDays": [
         "11-28"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-29-byrd-south-pole",
       "canonicalId": "byrd-flies-over-south-pole-1929",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-29",
@@ -220,12 +236,14 @@
       "calendarDays": [
         "11-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-29-november-uprising",
       "canonicalId": "november-insurrection-1830",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-29",
@@ -244,12 +262,14 @@
       "calendarDays": [
         "11-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-29-alcott",
       "canonicalId": "louisa-may-alcott-born-1832",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-29",
@@ -268,12 +288,14 @@
       "calendarDays": [
         "11-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-29-resolution-181",
       "canonicalId": "un-partition-resolution-1947",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-29",
@@ -293,12 +315,14 @@
       "calendarDays": [
         "11-29"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-30-barbados",
       "canonicalId": "barbados-independence-1966",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-30",
@@ -318,12 +342,14 @@
       "calendarDays": [
         "11-30"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-30-treaty-of-paris-prelim",
       "canonicalId": "treaty-of-paris-preliminary-1782",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-30",
@@ -343,12 +369,14 @@
       "calendarDays": [
         "11-30"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-30-thriller",
       "canonicalId": "thriller-released-1982",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-30",
@@ -368,12 +396,14 @@
       "calendarDays": [
         "11-30"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "nov-30-stone-of-scone",
       "canonicalId": "stone-of-scone-returned-1996",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/November-30",
@@ -392,12 +422,14 @@
       "calendarDays": [
         "11-30"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-01-rosa-parks",
       "canonicalId": "rosa-parks-arrested-1955",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-1",
@@ -416,12 +448,14 @@
       "calendarDays": [
         "12-01"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-01-assembly-line",
       "canonicalId": "ford-moving-assembly-line-1913",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-1",
@@ -440,12 +474,14 @@
       "calendarDays": [
         "12-01"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-01-world-aids-day",
       "canonicalId": "first-world-aids-day-1988",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-1",
@@ -464,12 +500,14 @@
       "calendarDays": [
         "12-01"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-01-locarno",
       "canonicalId": "pact-of-locarno-signed-1925",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-1",
@@ -488,12 +526,14 @@
       "calendarDays": [
         "12-01"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-02-chicago-pile",
       "canonicalId": "first-nuclear-chain-reaction-1942",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-2",
@@ -512,12 +552,14 @@
       "calendarDays": [
         "12-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-02-uae",
       "canonicalId": "uae-formed-1971",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-2",
@@ -537,12 +579,14 @@
       "calendarDays": [
         "12-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-02-napoleon-crowned",
       "canonicalId": "napoleon-crowned-emperor-1804",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-2",
@@ -561,12 +605,14 @@
       "calendarDays": [
         "12-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-02-monroe-doctrine",
       "canonicalId": "monroe-doctrine-1823",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-2",
@@ -586,12 +632,14 @@
       "calendarDays": [
         "12-02"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-03-heart-transplant",
       "canonicalId": "first-heart-transplant-1967",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-3",
@@ -610,12 +658,14 @@
       "calendarDays": [
         "12-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-03-eureka-stockade",
       "canonicalId": "eureka-stockade-1854",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-3",
@@ -634,12 +684,14 @@
       "calendarDays": [
         "12-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-03-streetcar",
       "canonicalId": "streetcar-named-desire-premieres-1947",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-3",
@@ -658,12 +710,14 @@
       "calendarDays": [
         "12-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-03-francis-xavier",
       "canonicalId": "francis-xavier-dies-1552",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-3",
@@ -683,7 +737,9 @@
       "calendarDays": [
         "12-03"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

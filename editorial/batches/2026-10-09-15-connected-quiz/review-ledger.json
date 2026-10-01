@@ -5,7 +5,7 @@
     {
       "candidateId": "upu-founding-city-bern",
       "canonicalId": "upu-founding-city-bern",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
@@ -31,12 +31,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks where the founding treaty was signed, not the date; Geneva is the tempting international-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "washington-monument-shape",
       "canonicalId": "washington-monument-shape",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/October-9",
@@ -55,12 +57,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable landmark shape; the distractors are other classical monument forms used in Washington and elsewhere. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "uganda-capital-lake",
       "canonicalId": "uganda-capital-lake",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Uganda",
@@ -80,12 +84,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Contextual geography for the newly independent country, like the published Lesotho question; all four are major African lakes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "kepler-supernova-last-naked-eye",
       "canonicalId": "kepler-supernova-last-naked-eye",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/",
@@ -104,12 +110,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the 1604 sighting still matters; the 1987 supernova is the natural misconception. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the 1604 sighting still matters; the 1987 supernova is the natural misconception. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "che-guevara-birth-country",
       "canonicalId": "che-guevara-birth-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Che-Guevara",
@@ -128,12 +136,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Recognizable figure; asks about his origins rather than the circumstances of his death. Cuba and Bolivia are plausible because of his later career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "outer-space-treaty-prohibition",
       "canonicalId": "outer-space-treaty-prohibition",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://2009-2017.state.gov/t/isn/5181.htm",
@@ -159,12 +169,14 @@
       "calendarDays": [
         "10-10"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the treaty's best-known principle rather than its date; the three permitted activities are explicitly free under Article I. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the treaty's best-known principle rather than its date; the three permitted activities are explicitly free under Article I. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "apollo-7-flew-around-moon",
       "canonicalId": "apollo-7-flew-around-moon",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/mission/apollo-7/",
@@ -190,12 +202,14 @@
       "calendarDays": [
         "10-11"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a natural assumption about the first crewed Apollo flight without asking for crew names or dates. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a natural assumption about the first crewed Apollo flight without asking for crew names or dates. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "vatican-ii-mass-language",
       "canonicalId": "vatican-ii-mass-language",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Second-Vatican-Council",
@@ -215,12 +229,14 @@
       "calendarDays": [
         "10-11"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The council's most widely felt change; Italian is a tempting distractor because of the Vatican's location. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The council's most widely felt change; Italian is a tempting distractor because of the Vatican's location. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "mary-rose-monarch",
       "canonicalId": "mary-rose-monarch",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://maryrose.org/discover/history/recovering-the-mary-rose/",
@@ -239,12 +255,14 @@
       "calendarDays": [
         "10-11"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects the 1982 recovery to the Tudor king, a recognizable anchor. All four options are English monarchs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects the 1982 recovery to the Tudor king, a recognizable anchor. All four options are English monarchs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "equatorial-guinea-colonial-power",
       "canonicalId": "equatorial-guinea-colonial-power",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/equatorial-guinea",
@@ -264,12 +282,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Same accessible pattern as the published Malta question; all four were colonial powers in Africa. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Same accessible pattern as the published Malta question; all four were colonial powers in Africa. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "oktoberfest-original-celebration",
       "canonicalId": "oktoberfest-original-celebration",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Oktoberfest",
@@ -288,12 +308,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A fun origin story; the harvest is the common assumption. The coronation distractor is separate from the wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A fun origin story; the harvest is the common assumption. The coronation distractor is separate from the wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "templars-original-purpose",
       "canonicalId": "templars-original-purpose",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Templars",
@@ -313,12 +335,14 @@
       "calendarDays": [
         "10-13"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks why the order existed instead of the arrest details; the French-king distractor echoes the event without being correct. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks why the order existed instead of the arrest details; the French-king distractor echoes the event without being correct. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "white-house-first-president",
       "canonicalId": "white-house-first-president",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.whitehousehistory.org/building-the-white-house",
@@ -343,12 +367,14 @@
       "calendarDays": [
         "10-13"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Classic misconception: Washington oversaw construction but the house was first occupied in 1800. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Classic misconception: Washington oversaw construction but the house was first occupied in 1800. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "bayeux-tapestry-hastings",
       "canonicalId": "bayeux-tapestry-hastings",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Bayeux-Tapestry",
@@ -373,12 +399,14 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The best-known artwork tied to the battle; text-only, so no new image rights or delivery are needed. Distractors are other famous medieval tapestries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The best-known artwork tied to the battle; text-only, so no new image rights or delivery are needed. Distractors are other famous medieval tapestries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "yeager-x1-runway-takeoff",
       "canonicalId": "yeager-x1-runway-takeoff",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Chuck-Yeager",
@@ -397,12 +425,14 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising detail of how the record flight worked, rather than the speed figure. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising detail of how the record flight worked, rather than the speed figure. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "cuban-missile-crisis-president",
       "canonicalId": "cuban-missile-crisis-president",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.archives.gov/milestone-documents/aerial-photograph-of-missiles-in-cuba",
@@ -421,12 +451,14 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Anchors the reconnaissance flight in the crisis most players know; options are the four consecutive Cold War presidents. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Anchors the reconnaissance flight in the crisis most players know; options are the four consecutive Cold War presidents. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "shenzhou-5-earlier-nations",
       "canonicalId": "shenzhou-5-earlier-nations",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Shenzhou",
@@ -445,12 +477,14 @@
       "calendarDays": [
         "10-15"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places China's milestone in the global space race; each distractor pairs a real space power with a country that had not launched a person. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places China's milestone in the global space race; each distractor pairs a real space power with a country that had not launched a person. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "huygens-titan-landing",
       "canonicalId": "huygens-titan-landing",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
@@ -469,12 +503,14 @@
       "calendarDays": [
         "10-15"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The mission's headline achievement; all four options are moons of Saturn. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The mission's headline achievement; all four options are moons of Saturn. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gregorian-century-leap-year",
       "canonicalId": "gregorian-century-leap-year",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Gregorian-calendar",
@@ -494,12 +530,14 @@
       "calendarDays": [
         "10-15"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the reform's lasting rule rather than the 1582 date or the pope's name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Tests the reform's lasting rule rather than the 1582 date or the pope's name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-xinhai-revolution-qing-dynasty",
       "canonicalId": "xinhai-revolution-qing-dynasty",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
@@ -518,12 +556,14 @@
       "calendarDays": [
         "10-10"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-sun-yat-sen",
       "canonicalId": "identify-sun-yat-sen",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chinese-Revolution-1911-1912",
@@ -548,12 +588,14 @@
       "calendarDays": [
         "10-10"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-order-pacific-independence-milestones",
       "canonicalId": "order-pacific-independence-milestones",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://thecommonwealth.org/our-member-countries/fiji",
@@ -572,12 +614,14 @@
       "calendarDays": [
         "10-10"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-order-americas-milestones",
       "canonicalId": "order-americas-milestones",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Christopher-Columbus/The-first-voyage",
@@ -597,12 +641,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-columbian-exchange-meaning",
       "canonicalId": "columbian-exchange-meaning",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://nationalhumanitiescenter.org/tserve/nattrans/ntecoindian/essays/columbian.htm",
@@ -622,12 +668,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-voskhod-1-multiperson-crew",
       "canonicalId": "voskhod-1-multiperson-crew",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/technology/Voskhod-spacecraft",
@@ -648,12 +696,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-order-african-independence-1960s",
       "canonicalId": "order-african-independence-1960s",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/equatorial-guinea",
@@ -673,12 +723,14 @@
       "calendarDays": [
         "10-12"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-chile-miners-days-underground",
       "canonicalId": "chile-miners-days-underground",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chile-mine-rescue-of-2010",
@@ -697,12 +749,14 @@
       "calendarDays": [
         "10-13"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-napoleon-bonaparte",
       "canonicalId": "identify-napoleon-bonaparte",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Jena",
@@ -728,12 +782,14 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-martin-luther-king-jr",
       "canonicalId": "identify-martin-luther-king-jr",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nobelprize.org/prizes/peace/1964/king/facts/",
@@ -752,7 +808,9 @@
       "calendarDays": [
         "10-14"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

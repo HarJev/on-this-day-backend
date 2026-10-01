@@ -5,7 +5,7 @@
     {
       "candidateId": "dec-11-unicef",
       "canonicalId": "unicef-established-1946",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-11",
@@ -24,12 +24,14 @@
       "calendarDays": [
         "12-11"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-11-edward-viii",
       "canonicalId": "edward-viii-abdication-approved-1936",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-11",
@@ -48,12 +50,14 @@
       "calendarDays": [
         "12-11"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-11-mahfouz",
       "canonicalId": "naguib-mahfouz-born-1911",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-11",
@@ -73,12 +77,14 @@
       "calendarDays": [
         "12-11"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-11-sonderbund",
       "canonicalId": "sonderbund-formed-1845",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-11",
@@ -97,12 +103,14 @@
       "calendarDays": [
         "12-11"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-12-paris-agreement",
       "canonicalId": "paris-climate-agreement-2015",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-12",
@@ -121,12 +129,14 @@
       "calendarDays": [
         "12-12"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-12-first-motel",
       "canonicalId": "first-motel-opens-1925",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-12",
@@ -145,12 +155,14 @@
       "calendarDays": [
         "12-12"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-12-kenya-republic",
       "canonicalId": "kenya-becomes-republic-1964",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-12",
@@ -170,12 +182,14 @@
       "calendarDays": [
         "12-12"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-12-munch",
       "canonicalId": "edvard-munch-born-1863",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-12",
@@ -194,12 +208,14 @@
       "calendarDays": [
         "12-12"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-13-tasman-nz",
       "canonicalId": "tasman-sights-new-zealand-1642",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-13",
@@ -219,12 +235,14 @@
       "calendarDays": [
         "12-13"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-13-council-of-trent",
       "canonicalId": "council-of-trent-opens-1545",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-13",
@@ -243,12 +261,14 @@
       "calendarDays": [
         "12-13"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-13-celestine-v",
       "canonicalId": "celestine-v-resigns-1294",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-13",
@@ -267,12 +287,14 @@
       "calendarDays": [
         "12-13"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-13-nova-herculis",
       "canonicalId": "nova-herculis-discovered-1934",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-13",
@@ -292,12 +314,14 @@
       "calendarDays": [
         "12-13"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-14-amundsen",
       "canonicalId": "amundsen-reaches-south-pole-1911",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -317,12 +341,14 @@
       "calendarDays": [
         "12-14"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-14-oecd",
       "canonicalId": "oecd-convention-signed-1960",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -342,12 +368,14 @@
       "calendarDays": [
         "12-14"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-14-mankiller",
       "canonicalId": "wilma-mankiller-sworn-in-1985",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -366,12 +394,14 @@
       "calendarDays": [
         "12-14"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-14-tycho-brahe",
       "canonicalId": "tycho-brahe-born-1546",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -390,12 +420,14 @@
       "calendarDays": [
         "12-14"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-15-bill-of-rights",
       "canonicalId": "bill-of-rights-adopted-1791",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-15",
@@ -414,12 +446,14 @@
       "calendarDays": [
         "12-15"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-15-pisa",
       "canonicalId": "leaning-tower-reopens-2001",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-15",
@@ -438,12 +472,14 @@
       "calendarDays": [
         "12-15"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-15-janet-jagan",
       "canonicalId": "janet-jagan-elected-1997",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-15",
@@ -462,12 +498,14 @@
       "calendarDays": [
         "12-15"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-15-nero",
       "canonicalId": "nero-born-37",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-15",
@@ -486,12 +524,14 @@
       "calendarDays": [
         "12-15"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-16-boston-tea-party",
       "canonicalId": "boston-tea-party-1773",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-16",
@@ -511,12 +551,14 @@
       "calendarDays": [
         "12-16"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-16-jane-austen",
       "canonicalId": "jane-austen-born-1775",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-16",
@@ -536,12 +578,14 @@
       "calendarDays": [
         "12-16"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-16-cromwell",
       "canonicalId": "cromwell-lord-protector-1653",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-16",
@@ -560,12 +604,14 @@
       "calendarDays": [
         "12-16"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-16-avatar",
       "canonicalId": "avatar-released-2009",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "rejected",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-16",
@@ -584,12 +630,14 @@
       "calendarDays": [
         "12-16"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Rejected in the delegated owner review on 2026-10-01: Weak release date: London premiere December 10, staggered international release, US release December 18.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-17-wright-brothers",
       "canonicalId": "wright-brothers-first-flight-1903",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-17",
@@ -608,12 +656,14 @@
       "calendarDays": [
         "12-17"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-17-nzinga",
       "canonicalId": "queen-nzinga-dies-1663",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-17",
@@ -632,12 +682,14 @@
       "calendarDays": [
         "12-17"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-17-nafta",
       "canonicalId": "nafta-signed-1992",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-17",
@@ -656,12 +708,14 @@
       "calendarDays": [
         "12-17"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "dec-17-us-cuba",
       "canonicalId": "us-cuba-relations-restored-2014",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "rejected",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-17",
@@ -680,7 +734,9 @@
       "calendarDays": [
         "12-17"
       ],
-      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Rejected in the delegated owner review on 2026-10-01: Wrong key fact: December 17, 2014 was the announcement; relations were restored on July 20, 2015.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

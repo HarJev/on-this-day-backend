@@ -509,7 +509,8 @@
       "collectionIds": [
         "revolutions",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["battles-of-jena-auerstedt-1806"]
     },
     {
       "id": "identify-martin-luther-king-jr",
@@ -556,7 +557,8 @@
       "collectionIds": [
         "society-culture-and-ideas",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["mlk-awarded-nobel-peace-prize-1964"]
     },
     {
       "id": "identify-wright-first-flight",

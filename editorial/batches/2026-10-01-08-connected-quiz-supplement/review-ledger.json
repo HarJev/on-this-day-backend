@@ -5,7 +5,7 @@
     {
       "candidateId": "nigeria-capital-at-independence",
       "canonicalId": "nigeria-capital-at-independence",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Lagos-Nigeria",
@@ -25,12 +25,14 @@
       "calendarDays": [
         "10-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Abuja, today's capital, is the deliberate trap; the question rewards knowing the country's history rather than the independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Abuja, today's capital, is the deliberate trap; the question rewards knowing the country's history rather than the independence date. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "prc-proclamation-tiananmen",
       "canonicalId": "prc-proclamation-tiananmen",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.fmprc.gov.cn/eng./zy/jj/zggcddwjw100ggs/jszgddzg/202406/t20240606_11377939.html",
@@ -49,12 +51,14 @@
       "calendarDays": [
         "10-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A recognizable landmark tied to the proclamation; all four options are historic Beijing sites. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A recognizable landmark tied to the proclamation; all four options are historic Beijing sites. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "snoopy-comic-strip",
       "canonicalId": "snoopy-comic-strip",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://schulzmuseum.org/about-schulz/schulz-biography/",
@@ -73,12 +77,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Light, widely recognized hook for an imageless event; all four are long-running newspaper strips. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Light, widely recognized hook for an imageless event; all four are long-running newspaper strips. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "mount-rushmore-not-carved",
       "canonicalId": "mount-rushmore-not-carved",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nps.gov/moru/index.htm",
@@ -103,12 +109,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays on the familiar Theodore/Franklin Roosevelt mix-up without listing Theodore. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays on the familiar Theodore/Franklin Roosevelt mix-up without listing Theodore. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "night-watch-painter",
       "canonicalId": "night-watch-painter",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn",
@@ -127,12 +135,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Identifies his most famous work instead of his death; all four options are Dutch painters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Identifies his most famous work instead of his death; all four options are Dutch painters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "lepanto-wounded-writer",
       "canonicalId": "lepanto-wounded-writer",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Lepanto",
@@ -158,12 +168,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable human link to a remote battle; distractors are contemporary European writers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable human link to a remote battle; distractors are contemporary European writers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "opium-war-ceded-island",
       "canonicalId": "opium-war-ceded-island",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Opium-Wars",
@@ -183,12 +195,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Gives the treaty's lasting consequence rather than clause recall; Macau is the nearby Portuguese-held trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Gives the treaty's lasting consequence rather than clause recall; Macau is the nearby Portuguese-held trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-camp-david-egyptian-president",
       "canonicalId": "camp-david-egyptian-president",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Anwar-Sadat",
@@ -208,12 +222,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-ferdinand-bulgarian-independence",
       "canonicalId": "ferdinand-bulgarian-independence",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria",
@@ -232,7 +248,9 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }
