@@ -1,0 +1,108 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-01-03-07-connected-quiz",
+  "auditedOn": "2026-10-01",
+  "state": "editorial_only_awaiting_owner_content_approval",
+  "newQuestionCount": 126,
+  "reusedQuestionCount": 14,
+  "proposedNewRelationCount": 151,
+  "newQuestionTypes": {
+    "multiple_choice": 109,
+    "true_false": 14,
+    "chronological_ordering": 3
+  },
+  "newQuestionDifficulties": {
+    "easy": 59,
+    "medium": 61,
+    "hard": 6
+  },
+  "hookTypes": {
+    "multiple_choice": 116,
+    "true_false": 15,
+    "chronological_ordering": 4,
+    "image_identification": 5
+  },
+  "hookDifficulties": {
+    "easy": 68,
+    "medium": 65,
+    "hard": 7
+  },
+  "newMultipleChoiceCorrectPositions": {
+    "1": 27,
+    "2": 27,
+    "3": 28,
+    "4": 27
+  },
+  "newTrueFalseAnswers": {
+    "false": 6,
+    "true": 8
+  },
+  "hookCollectionMemberships": {
+    "society-culture-and-ideas": 53,
+    "revolutions": 15,
+    "leaders-and-power": 31,
+    "wars-and-conflicts": 10,
+    "science-and-innovation": 29,
+    "exploration-and-exchange": 10,
+    "world-wars": 7,
+    "ancient-rome": 1,
+    "ancient-history": 1
+  },
+  "regionTagMemberships": {
+    "americas": 72,
+    "europe": 62,
+    "global": 9,
+    "middle-east": 4,
+    "africa": 9,
+    "asia": 13,
+    "oceania": 5
+  },
+  "eraTagMemberships": {
+    "cold-war": 32,
+    "1800-1945": 63,
+    "contemporary": 21,
+    "space-age": 7,
+    "decolonization": 6,
+    "revolutionary": 9,
+    "early-modern": 15,
+    "ancient": 1
+  },
+  "calendarDayHookCounts": {
+    "02-01": 3,
+    "02-02": 4,
+    "02-03": 3,
+    "02-04": 6,
+    "02-05": 3,
+    "02-06": 5,
+    "02-07": 5,
+    "02-08": 3,
+    "02-09": 3,
+    "02-10": 3,
+    "02-11": 5,
+    "02-12": 6,
+    "02-13": 5,
+    "02-14": 3,
+    "02-15": 4,
+    "02-16": 3,
+    "02-17": 4,
+    "02-18": 3,
+    "02-19": 4,
+    "02-20": 3,
+    "02-21": 3,
+    "02-22": 4,
+    "02-23": 3,
+    "02-24": 4,
+    "02-25": 4,
+    "02-26": 3,
+    "02-27": 3,
+    "02-28": 4,
+    "02-29": 5,
+    "03-01": 4,
+    "03-02": 3,
+    "03-03": 3,
+    "03-04": 4,
+    "03-05": 5,
+    "03-06": 5,
+    "03-07": 5
+  }
+}

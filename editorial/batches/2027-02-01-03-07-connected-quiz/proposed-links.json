@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-01-03-07-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "south-africa-1994-president",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "2db05dce87499f8ee82e6048548f4407f8f7be04b6bb7eb0999a4a2d2a5556a9",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "de-klerk-lifts-anc-ban-1990"
+      ],
+      "calendarDay": "02-02",
+      "eventRole": "additional",
+      "relationshipRationale": "Lifting the ban on the ANC led to Mandela's release and the 1994 election the question asks about.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "tehran-conference-big-three",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "bc50096952307fb7623c1e640d8248024ccfda71b90f302755ee69949eef1f64",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "yalta-conference-opens-1945"
+      ],
+      "calendarDay": "02-04",
+      "eventRole": "additional",
+      "relationshipRationale": "The same three leaders met again at Yalta; the day page names all three.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "treaty-waitangi-parties",
+      "canonicalPack": "content/quizzes/questions/030-asia-oceania.json",
+      "canonicalSnapshotSha256": "543a5916b82cfb48cc82a7030fc2d0235b81a31d92b4df30d987366ae8259d72",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "treaty-of-waitangi-signed-1840"
+      ],
+      "calendarDay": "02-06",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the question asks who signed the treaty with the British Crown in 1840.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "beatles-home-city",
+      "canonicalPack": "content/quizzes/questions/140-connected-october-02-08.json",
+      "canonicalSnapshotSha256": "c03c00b41f00ff7557124b21cebc62c0bcdb7636183e5a4d78b93204c554c8f1",
+      "currentRelatedEventIds": [
+        "beatles-love-me-do-1962"
+      ],
+      "addRelatedEventIds": [
+        "beatles-land-in-new-york-1964"
+      ],
+      "calendarDay": "02-07",
+      "eventRole": "featured",
+      "relationshipRationale": "Accessible Beatles hook for their arrival in America; already related to Love Me Do.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-nelson-mandela",
+      "canonicalPack": "content/quizzes/questions/020-africa-middle-east.json",
+      "canonicalSnapshotSha256": "5a9451e6562ea91de3a0d028f54c03902ad6150528376564de1c1d9bb5f31794",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "nelson-mandela-released-1990"
+      ],
+      "calendarDay": "02-11",
+      "eventRole": "featured",
+      "relationshipRationale": "The portrait bust identifies Mandela, whose release the featured event marks.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "identify-charles-darwin",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "f2e5cbea6f284b88f1059d38ee64c5597af32763fbb92c04dfeb0d8ac6a4807a",
+      "currentRelatedEventIds": [
+        "beagle-returns-to-england-1836"
+      ],
+      "addRelatedEventIds": [
+        "charles-darwin-born-1809"
+      ],
+      "calendarDay": "02-12",
+      "eventRole": "featured",
+      "relationshipRationale": "The portrait identifies Darwin, whose birth is the featured event; already related to the Beagle's return.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "identify-abraham-lincoln",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "d103a06b491a1df0f1d3d25a5995b28b1a03f0b8ffbf16ab7412f7c7d4ef8d2f",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "abraham-lincoln-born-1809"
+      ],
+      "calendarDay": "02-12",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies Lincoln, born on this day.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "snoopy-comic-strip",
+      "canonicalPack": "content/quizzes/questions/160-connected-october-01-08-supplement.json",
+      "canonicalSnapshotSha256": "88ab3881c731242a8dac82d7a04c9a713f84aa92808f15118d6ea5a2f5991fc0",
+      "currentRelatedEventIds": [
+        "peanuts-debuts-1950"
+      ],
+      "addRelatedEventIds": [
+        "last-peanuts-strip-2000"
+      ],
+      "calendarDay": "02-13",
+      "eventRole": "featured",
+      "relationshipRationale": "Peanuts ended on this day; already related to its 1950 debut.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "copernican-model-earth-orbits-sun",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "c2357268917af0b0adc01cc17759e9f1e92b5054f6c25211051267da6c74d704",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "nicolaus-copernicus-born-1473"
+      ],
+      "calendarDay": "02-19",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the question is about Copernicus's Sun-centered model; the event is his birth.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-george-washington",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "64046b69729b1cb98dc9a4ec5984b810aa5fdd45c9b458703fe21e825e15e7ee",
+      "currentRelatedEventIds": [
+        "washington-thanksgiving-proclamation-1789"
+      ],
+      "addRelatedEventIds": [
+        "george-washington-born-1732"
+      ],
+      "calendarDay": "02-22",
+      "eventRole": "additional",
+      "relationshipRationale": "The portrait identifies Washington, born on this day.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json"
+    },
+    {
+      "questionId": "gregorian-century-leap-year",
+      "canonicalPack": "content/quizzes/questions/150-connected-october-09-15.json",
+      "canonicalSnapshotSha256": "3f3be52a21eadfde8c89c7ef39e8f914e665852bee36273a0822339947369d6f",
+      "currentRelatedEventIds": [
+        "gregorian-calendar-takes-effect-1582"
+      ],
+      "addRelatedEventIds": [
+        "gregorian-calendar-papal-bull-1582"
+      ],
+      "calendarDay": "02-24",
+      "eventRole": "featured",
+      "relationshipRationale": "The leap-year rule the question tests is part of the reform the bull decreed; already related to the calendar taking effect.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-winston-churchill",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "cb28264f3ffda629729afb31f989a1e32d6313de5742e1ad14dc36cebf02fed1",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "iron-curtain-speech-1946"
+      ],
+      "calendarDay": "03-05",
+      "eventRole": "featured",
+      "relationshipRationale": "The portrait identifies the speaker of the Iron Curtain speech.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "ghana-independence-1957",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "376520db7b812d690c3a2b6559dbb969b0b1c8f7c572c7e7f9bb325cf323f9df",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "ghana-becomes-independent-1957"
+      ],
+      "calendarDay": "03-06",
+      "eventRole": "featured",
+      "relationshipRationale": "Exact match: the question asks which country became independent under Nkrumah in 1957.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-modern-communication-milestones",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "891ac58f2428b63583fbd59054bd1f931ecd125ff7aec8235d00be477f40ba1b",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "bell-telephone-patent-1876"
+      ],
+      "calendarDay": "03-07",
+      "eventRole": "featured",
+      "relationshipRationale": "One ordering item is 'Bell receives a telephone patent', the featured event.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}

@@ -1,0 +1,1293 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-02-01-03-07-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "greensboro-sit-in-store",
+      "kind": "quiz",
+      "proposedCanonicalId": "greensboro-sit-in-store",
+      "workingClaim": "The Greensboro sit-in of 1960 began at a segregated lunch counter in which store? Answer: Woolworth's. Proposed featured link on 02-01: greensboro-sit-in-begins-1960. Exact match on the featured sit-in; the distractors are other US chains of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-1"
+      ]
+    },
+    {
+      "candidateId": "la-boheme-premiere-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "la-boheme-premiere-city",
+      "workingClaim": "In which Italian city did Puccini's opera La Boheme premiere in 1896? Answer: Turin. Proposed additional link on 02-01: la-boheme-premieres-1896. Milan, home of La Scala, is the natural guess.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-1"
+      ]
+    },
+    {
+      "candidateId": "trygve-lie-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "trygve-lie-country",
+      "workingClaim": "Trygve Lie, elected the first secretary-general of the United Nations in 1946, came from which country? Answer: Norway. Proposed additional link on 02-01: trygve-lie-first-un-secretary-general-1946. Nordic neighbors as distractors (Dag Hammarskjold, his successor, was Swedish).",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Trygve-Lie"
+      ]
+    },
+    {
+      "candidateId": "groundhog-day-town",
+      "kind": "quiz",
+      "proposedCanonicalId": "groundhog-day-town",
+      "workingClaim": "In 1887, a group in which Pennsylvania town went looking for a groundhog to predict the weather? Answer: Punxsutawney. Proposed featured link on 02-02: first-punxsutawney-groundhog-day-1887. Exact match on the featured event; other well-known Pennsylvania towns as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-2"
+      ]
+    },
+    {
+      "candidateId": "guadalupe-hidalgo-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "guadalupe-hidalgo-war",
+      "workingClaim": "The Treaty of Guadalupe Hidalgo, signed in 1848, ended which war? Answer: The Mexican-American War. Proposed additional link on 02-02: treaty-of-guadalupe-hidalgo-1848. Other 19th-century US wars, including the earlier Texas conflict with Mexico.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-2"
+      ]
+    },
+    {
+      "candidateId": "ulysses-single-day-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "ulysses-single-day-city",
+      "workingClaim": "James Joyce's novel Ulysses follows its characters through a single day in which city? Answer: Dublin. Proposed additional link on 02-02: james-joyce-born-1882. Paris (where it was published) and Trieste (where Joyce lived) are the tempting wrong answers.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Ulysses-novel-by-Joyce",
+        "https://www.britannica.com/biography/James-Joyce"
+      ]
+    },
+    {
+      "candidateId": "collins-first-shuttle-piloted",
+      "kind": "quiz",
+      "proposedCanonicalId": "collins-first-shuttle-piloted",
+      "workingClaim": "In 1995 Eileen Collins became the first woman to pilot a space shuttle. Which shuttle did she fly? Answer: Discovery. Proposed featured link on 02-03: eileen-collins-first-woman-shuttle-pilot-1995. The other orbiters flying in 1995 as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-3"
+      ]
+    },
+    {
+      "candidateId": "fifteenth-amendment-women-vote",
+      "kind": "quiz",
+      "proposedCanonicalId": "fifteenth-amendment-women-vote",
+      "workingClaim": "The Fifteenth Amendment to the US Constitution, ratified in 1870, gave women the right to vote. Answer: False. Proposed additional link on 02-03: fifteenth-amendment-ratified-1870. Targets a common confusion between voting-rights amendments.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-3"
+      ]
+    },
+    {
+      "candidateId": "umm-kulthum-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "umm-kulthum-country",
+      "workingClaim": "The singer Umm Kulthum, one of the most famous Arab performers of the 20th century, came from which country? Answer: Egypt. Proposed additional link on 02-03: umm-kulthum-dies-1975. Other Arabic-speaking countries with strong musical traditions.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-3"
+      ]
+    },
+    {
+      "candidateId": "facebook-founding-university",
+      "kind": "quiz",
+      "proposedCanonicalId": "facebook-founding-university",
+      "workingClaim": "TheFacebook.com was launched in 2004 by students at which university? Answer: Harvard. Proposed featured link on 02-04: thefacebook-launched-2004. Exact match on the featured launch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-4"
+      ]
+    },
+    {
+      "candidateId": "ceylon-modern-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "ceylon-modern-name",
+      "workingClaim": "Which country was called Ceylon when it gained independence from Britain in 1948? Answer: Sri Lanka. Proposed additional link on 02-04: ceylon-independence-1948. Other Indian Ocean island nations.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-4"
+      ]
+    },
+    {
+      "candidateId": "yalta-not-present",
+      "kind": "quiz",
+      "proposedCanonicalId": "yalta-not-present",
+      "workingClaim": "Which of these leaders did NOT take part in the Yalta Conference of 1945? Answer: Charles de Gaulle. Proposed additional link on 02-04: yalta-conference-opens-1945. De Gaulle's absence is a frequent surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-4"
+      ]
+    },
+    {
+      "candidateId": "washington-narrow-election",
+      "kind": "quiz",
+      "proposedCanonicalId": "washington-narrow-election",
+      "workingClaim": "George Washington won the first US presidential election by a narrow margin in the electoral college. Answer: False. Proposed additional link on 02-04: washington-elected-first-president-1789. Many assume a contested first election.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-4"
+      ]
+    },
+    {
+      "candidateId": "apollo-14-golf",
+      "kind": "quiz",
+      "proposedCanonicalId": "apollo-14-golf",
+      "workingClaim": "What did Apollo 14 commander Alan Shepard swing at with a makeshift club on the Moon? Answer: Two golf balls. Proposed additional link on 02-05: apollo-14-lands-on-moon-1971. A memorable human moment from the landing mission.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Apollo-14"
+      ]
+    },
+    {
+      "candidateId": "mexico-1917-constitution-in-force",
+      "kind": "quiz",
+      "proposedCanonicalId": "mexico-1917-constitution-in-force",
+      "workingClaim": "The constitution Mexico adopted in 1917 is still the country's constitution. Answer: True. Proposed featured link on 02-05: mexican-constitution-adopted-1917. Exact match on the featured event; its longevity is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-5"
+      ]
+    },
+    {
+      "candidateId": "hay-pauncefote-canal",
+      "kind": "quiz",
+      "proposedCanonicalId": "hay-pauncefote-canal",
+      "workingClaim": "The Hay-Pauncefote treaties between the United States and Britain concerned a proposed canal across which isthmus? Answer: Panama. Proposed additional link on 02-05: first-hay-pauncefote-treaty-1900. Other isthmuses associated with canals or canal plans.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-5"
+      ]
+    },
+    {
+      "candidateId": "elizabeth-ii-father",
+      "kind": "quiz",
+      "proposedCanonicalId": "elizabeth-ii-father",
+      "workingClaim": "Elizabeth II became queen in 1952 on the death of her father. Who was he? Answer: George VI. Proposed additional link on 02-06: elizabeth-ii-accession-1952. Edward VIII, her uncle, is the classic confusion.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-6"
+      ]
+    },
+    {
+      "candidateId": "marley-music-style",
+      "kind": "quiz",
+      "proposedCanonicalId": "marley-music-style",
+      "workingClaim": "Bob Marley, born in 1945, found stardom by blending ska and rock steady with which kind of music? Answer: Reggae. Proposed additional link on 02-06: bob-marley-born-1945. Other Caribbean and Gulf Coast styles.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-6"
+      ]
+    },
+    {
+      "candidateId": "falcon-heavy-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "falcon-heavy-company",
+      "workingClaim": "Which company flew its Falcon Heavy rocket for the first time in 2018? Answer: SpaceX. Proposed additional link on 02-06: falcon-heavy-first-flight-2018. Other private launch companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-6"
+      ]
+    },
+    {
+      "candidateId": "chaplin-screen-character",
+      "kind": "quiz",
+      "proposedCanonicalId": "chaplin-screen-character",
+      "workingClaim": "Which famous screen character did Charlie Chaplin introduce in 1914? Answer: The Little Tramp. Proposed additional link on 02-07: chaplin-little-tramp-debut-1914. Other early screen characters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-7"
+      ]
+    },
+    {
+      "candidateId": "dickens-novel",
+      "kind": "quiz",
+      "proposedCanonicalId": "dickens-novel",
+      "workingClaim": "Which of these novels did Charles Dickens write? Answer: Great Expectations. Proposed additional link on 02-07: charles-dickens-born-1812. Novels by his contemporaries George Eliot, Charlotte Bronte and Thackeray.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charles-Dickens-British-novelist"
+      ]
+    },
+    {
+      "candidateId": "grenada-independence-from",
+      "kind": "quiz",
+      "proposedCanonicalId": "grenada-independence-from",
+      "workingClaim": "From which country did Grenada gain independence in 1974? Answer: The United Kingdom. Proposed additional link on 02-07: grenada-independence-1974. Other European powers in the Caribbean.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-7"
+      ]
+    },
+    {
+      "candidateId": "abdullah-ii-father",
+      "kind": "quiz",
+      "proposedCanonicalId": "abdullah-ii-father",
+      "workingClaim": "Abdullah II became king of Jordan in 1999, succeeding his father. Who was his father? Answer: Hussein. Proposed additional link on 02-07: abdullah-ii-becomes-king-of-jordan-1999. Names of other Hashemite kings of Jordan and Iraq.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-7"
+      ]
+    },
+    {
+      "candidateId": "verne-submarine-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "verne-submarine-name",
+      "workingClaim": "What is the name of the submarine in Jules Verne's Twenty Thousand Leagues Under the Sea? Answer: Nautilus. Proposed featured link on 02-08: jules-verne-born-1828. Exact match on the featured birth; sea-themed distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Jules-Verne"
+      ]
+    },
+    {
+      "candidateId": "skylab-4-days",
+      "kind": "quiz",
+      "proposedCanonicalId": "skylab-4-days",
+      "workingClaim": "How long did the Skylab 4 crew spend in space, a record when they splashed down in 1974? Answer: 84 days. Proposed additional link on 02-08: skylab-4-splashdown-1974. Spaced durations; 28 and 59 days match earlier Skylab stays.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "mary-queen-of-scots-rival",
+      "kind": "quiz",
+      "proposedCanonicalId": "mary-queen-of-scots-rival",
+      "workingClaim": "Mary, Queen of Scots, executed in 1587, was the rival of which English monarch? Answer: Elizabeth I. Proposed additional link on 02-08: mary-queen-of-scots-executed-1587. James I was her son; Mary I and Henry VIII are near Tudor confusions.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-8"
+      ]
+    },
+    {
+      "candidateId": "element-112-named-after",
+      "kind": "quiz",
+      "proposedCanonicalId": "element-112-named-after",
+      "workingClaim": "Element 112, first made in Germany in 1996, is named after which astronomer? Answer: Copernicus. Proposed featured link on 02-09: element-112-synthesized-1996. Exact match on the featured discovery; other great astronomers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9",
+        "https://www.britannica.com/science/copernicium"
+      ]
+    },
+    {
+      "candidateId": "color-purple-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "color-purple-author",
+      "workingClaim": "Who wrote the Pulitzer Prize-winning novel The Color Purple (1982)? Answer: Alice Walker. Proposed additional link on 02-09: alice-walker-born-1944. Other major African American women writers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "alinagar-modern-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "alinagar-modern-city",
+      "workingClaim": "The Treaty of Alinagar of 1757 put which present-day Indian city under British control? Answer: Kolkata. Proposed additional link on 02-09: treaty-of-alinagar-1757. Other major Indian cities, two of them also British presidency towns.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-9"
+      ]
+    },
+    {
+      "candidateId": "powers-aircraft-type",
+      "kind": "quiz",
+      "proposedCanonicalId": "powers-aircraft-type",
+      "workingClaim": "Francis Gary Powers, swapped for a Soviet spy in 1962, had been shot down flying which kind of plane? Answer: A U-2. Proposed featured link on 02-10: powers-abel-spy-exchange-1962. Exact match on the featured exchange; other Cold War aircraft as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/U-2-Incident"
+      ]
+    },
+    {
+      "candidateId": "treaty-of-paris-1763-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-of-paris-1763-war",
+      "workingClaim": "The Treaty of Paris of 1763 ended which war? Answer: The Seven Years' War. Proposed additional link on 02-10: treaty-of-paris-1763. The 1783 Treaty of Paris is the deliberate trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "spitz-seven-golds-first",
+      "kind": "quiz",
+      "proposedCanonicalId": "spitz-seven-golds-first",
+      "workingClaim": "Mark Spitz was the first athlete to win seven gold medals at a single Olympic Games. Answer: True. Proposed additional link on 02-10: mark-spitz-born-1950. Many credit the feat first to a later swimmer.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-10"
+      ]
+    },
+    {
+      "candidateId": "mandela-years-in-prison",
+      "kind": "quiz",
+      "proposedCanonicalId": "mandela-years-in-prison",
+      "workingClaim": "How many years had Nelson Mandela spent in prison when he was released in 1990? Answer: 27. Proposed featured link on 02-11: nelson-mandela-released-1990. Exact match on the featured release.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "lateran-treaty-territory",
+      "kind": "quiz",
+      "proposedCanonicalId": "lateran-treaty-territory",
+      "workingClaim": "The Lateran Treaty of 1929 recognized papal sovereignty over which territory? Answer: Vatican City. Proposed additional link on 02-11: lateran-treaty-signed-1929. Other small European states and the medieval papal city of Avignon.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "mubarak-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "mubarak-country",
+      "workingClaim": "Hosni Mubarak stepped down in 2011 after nearly 30 years as president of which country? Answer: Egypt. Proposed additional link on 02-11: hosni-mubarak-steps-down-2011. Other countries shaken by the Arab Spring.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "thatcher-predecessor",
+      "kind": "quiz",
+      "proposedCanonicalId": "thatcher-predecessor",
+      "workingClaim": "In 1975 Margaret Thatcher replaced whom as leader of Britain's Conservative Party? Answer: Edward Heath. Proposed additional link on 02-11: thatcher-elected-conservative-leader-1975. Wilson was the Labour prime minister at the time; Major was her successor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "darwin-lincoln-same-birthday",
+      "kind": "quiz",
+      "proposedCanonicalId": "darwin-lincoln-same-birthday",
+      "workingClaim": "Charles Darwin and Abraham Lincoln were born on the same day. Answer: True. Proposed featured link on 02-12: charles-darwin-born-1809, abraham-lincoln-born-1809. The famous coincidence behind the featured birth.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "puyi-last-emperor-of",
+      "kind": "quiz",
+      "proposedCanonicalId": "puyi-last-emperor-of",
+      "workingClaim": "Puyi, who abdicated in 1912, was the last emperor of which country? Answer: China. Proposed additional link on 02-12: puyi-abdicates-1912. Other East Asian monarchies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "scream-painter",
+      "kind": "quiz",
+      "proposedCanonicalId": "scream-painter",
+      "workingClaim": "Who painted The Scream, a version of which was stolen from Oslo's National Gallery in 1994? Answer: Edvard Munch. Proposed additional link on 02-12: the-scream-stolen-1994. Other painters of the same era.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12",
+        "https://www.britannica.com/topic/The-Scream-by-Munch"
+      ]
+    },
+    {
+      "candidateId": "chile-independence-general",
+      "kind": "quiz",
+      "proposedCanonicalId": "chile-independence-general",
+      "workingClaim": "Chile formally declared independence in 1818, one year after revolutionary forces led by whom won a key victory? Answer: Jose de San Martin. Proposed additional link on 02-12: chile-declares-independence-1818. Other independence leaders of Spanish America.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "peanuts-creator",
+      "kind": "quiz",
+      "proposedCanonicalId": "peanuts-creator",
+      "workingClaim": "Who created the comic strip Peanuts? Answer: Charles Schulz. Proposed featured link on 02-13: last-peanuts-strip-2000. Creators of Garfield, Calvin and Hobbes and The Addams Family.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "rudd-apology-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "rudd-apology-country",
+      "workingClaim": "Kevin Rudd apologized to Aboriginal peoples in 2008 as prime minister of which country? Answer: Australia. Proposed additional link on 02-13: kevin-rudd-apology-2008. Other countries with Indigenous reconciliation debates.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "france-first-atomic-test-site",
+      "kind": "quiz",
+      "proposedCanonicalId": "france-first-atomic-test-site",
+      "workingClaim": "Where did France detonate its first atomic bomb in 1960? Answer: The Sahara desert. Proposed additional link on 02-13: france-first-atomic-bomb-1960. Mururoa, used for later French tests, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "simenon-detective",
+      "kind": "quiz",
+      "proposedCanonicalId": "simenon-detective",
+      "workingClaim": "Which fictional detective did Georges Simenon create? Answer: Jules Maigret. Proposed additional link on 02-13: georges-simenon-born-1903. Poirot is the famous Belgian detective; Lupin is a French gentleman thief.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Georges-Simenon"
+      ]
+    },
+    {
+      "candidateId": "eniac-vacuum-tubes",
+      "kind": "quiz",
+      "proposedCanonicalId": "eniac-vacuum-tubes",
+      "workingClaim": "Roughly how many vacuum tubes did the ENIAC computer use? Answer: About 18,000. Proposed featured link on 02-14: eniac-announced-1946. Orders of magnitude apart, so only one fits.",
+      "sourceUrls": [
+        "https://www.engineering.upenn.edu/about/history-heritage/eniac/"
+      ]
+    },
+    {
+      "candidateId": "cook-killed-islands",
+      "kind": "quiz",
+      "proposedCanonicalId": "cook-killed-islands",
+      "workingClaim": "Captain James Cook was killed in 1779 at Kealakekua Bay, in which island group? Answer: The Hawaiian Islands. Proposed additional link on 02-14: james-cook-killed-1779. Other Pacific islands Cook visited.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-14"
+      ]
+    },
+    {
+      "candidateId": "arizona-last-contiguous-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "arizona-last-contiguous-state",
+      "workingClaim": "Arizona, admitted in 1912, was the last of the 48 contiguous US states to join the Union. Answer: True. Proposed additional link on 02-14: arizona-statehood-1912. Many guess New Mexico, admitted weeks earlier.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Arizona-state"
+      ]
+    },
+    {
+      "candidateId": "maple-leaf-flag-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "maple-leaf-flag-year",
+      "workingClaim": "In which year did Canada officially adopt its Maple Leaf Flag? Answer: 1965. Proposed featured link on 02-15: canada-adopts-maple-leaf-flag-1965. Distractors are other landmark years in Canadian history (Confederation, Westminster, patriation).",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-15"
+      ]
+    },
+    {
+      "candidateId": "uss-maine-harbor",
+      "kind": "quiz",
+      "proposedCanonicalId": "uss-maine-harbor",
+      "workingClaim": "The battleship USS Maine exploded and sank in 1898 in the harbor of which city? Answer: Havana. Proposed additional link on 02-15: uss-maine-sinks-1898. Other Spanish-speaking ports, two linked to the Spanish-American War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-15"
+      ]
+    },
+    {
+      "candidateId": "galilean-moons-planet",
+      "kind": "quiz",
+      "proposedCanonicalId": "galilean-moons-planet",
+      "workingClaim": "The Galilean moons, discovered by Galileo, orbit which planet? Answer: Jupiter. Proposed additional link on 02-15: galileo-galilei-born-1564. Other planets with notable moons.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Galileo-Galilei"
+      ]
+    },
+    {
+      "candidateId": "soviet-afghanistan-start-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "soviet-afghanistan-start-year",
+      "workingClaim": "The last Soviet troops left Afghanistan in 1989. In which year had the occupation begun? Answer: 1979. Proposed additional link on 02-15: soviet-withdrawal-from-afghanistan-1989. Spaced Cold War years.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-15"
+      ]
+    },
+    {
+      "candidateId": "kyoto-protocol-aim",
+      "kind": "quiz",
+      "proposedCanonicalId": "kyoto-protocol-aim",
+      "workingClaim": "The Kyoto Protocol, which took effect in 2005, was meant to reduce what? Answer: Emissions of gases that contribute to global warming. Proposed featured link on 02-16: kyoto-protocol-in-force-2005. The ozone option (the Montreal Protocol's aim) is the deliberate trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Kyoto-Protocol"
+      ]
+    },
+    {
+      "candidateId": "nylon-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "nylon-company",
+      "workingClaim": "Wallace Carothers patented nylon in 1937 while working for which company? Answer: DuPont. Proposed additional link on 02-16: nylon-patented-1937. Other big chemical companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-16"
+      ]
+    },
+    {
+      "candidateId": "grace-bedell-suggestion",
+      "kind": "quiz",
+      "proposedCanonicalId": "grace-bedell-suggestion",
+      "workingClaim": "What had 12-year-old Grace Bedell suggested to Abraham Lincoln in a letter? Answer: Grow a beard. Proposed additional link on 02-16: lincoln-meets-grace-bedell-1861. Light distractors; the beard is the iconic answer.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-16"
+      ]
+    },
+    {
+      "candidateId": "deep-blue-maker",
+      "kind": "quiz",
+      "proposedCanonicalId": "deep-blue-maker",
+      "workingClaim": "Which company built the Deep Blue chess computer that Garry Kasparov beat in 1996? Answer: IBM. Proposed featured link on 02-17: kasparov-defeats-deep-blue-1996. Exact match on the featured match; other computer companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-17"
+      ]
+    },
+    {
+      "candidateId": "kosovo-independence-from",
+      "kind": "quiz",
+      "proposedCanonicalId": "kosovo-independence-from",
+      "workingClaim": "From which country did Kosovo declare independence in 2008? Answer: Serbia. Proposed additional link on 02-17: kosovo-declares-independence-2008. Neighboring Balkan states.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-17"
+      ]
+    },
+    {
+      "candidateId": "first-submarine-sinking-world-war-i",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-submarine-sinking-world-war-i",
+      "workingClaim": "The first sinking of an enemy ship by a submarine took place during World War I. Answer: False. Proposed additional link on 02-17: hunley-sinks-housatonic-1864. Most people place the first submarine sinking in the world wars.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-17"
+      ]
+    },
+    {
+      "candidateId": "madama-butterfly-opera-house",
+      "kind": "quiz",
+      "proposedCanonicalId": "madama-butterfly-opera-house",
+      "workingClaim": "Puccini's Madama Butterfly premiered in 1904 at which opera house? Answer: La Scala. Proposed additional link on 02-17: madama-butterfly-premieres-1904. La Boheme premiered at the Teatro Regio, which makes it the sharp distractor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-17"
+      ]
+    },
+    {
+      "candidateId": "pluto-discoverer",
+      "kind": "quiz",
+      "proposedCanonicalId": "pluto-discoverer",
+      "workingClaim": "Who discovered Pluto in 1930? Answer: Clyde Tombaugh. Proposed featured link on 02-18: pluto-discovered-1930. Exact match; Lowell, who predicted a planet beyond Neptune, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-18"
+      ]
+    },
+    {
+      "candidateId": "luther-movement",
+      "kind": "quiz",
+      "proposedCanonicalId": "luther-movement",
+      "workingClaim": "Martin Luther, who died in 1546, led which religious movement? Answer: The Protestant Reformation. Proposed additional link on 02-18: martin-luther-dies-1546. Other movements in Christian history.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-18"
+      ]
+    },
+    {
+      "candidateId": "shani-davis-sport",
+      "kind": "quiz",
+      "proposedCanonicalId": "shani-davis-sport",
+      "workingClaim": "Shani Davis won his 2006 Olympic gold medal in which sport? Answer: Speed skating. Proposed additional link on 02-18: shani-davis-olympic-gold-2006. Other Winter Olympic sports.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-18"
+      ]
+    },
+    {
+      "candidateId": "copernicus-book-year-of-death",
+      "kind": "quiz",
+      "proposedCanonicalId": "copernicus-book-year-of-death",
+      "workingClaim": "Copernicus's book De revolutionibus, which set out his Sun-centered system, was published in the year he died. Answer: True. Proposed featured link on 02-19: nicolaus-copernicus-born-1473. A striking fact about the featured astronomer's life.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Nicolaus-Copernicus"
+      ]
+    },
+    {
+      "candidateId": "phonograph-patent-inventor",
+      "kind": "quiz",
+      "proposedCanonicalId": "phonograph-patent-inventor",
+      "workingClaim": "Who patented the phonograph in 1878? Answer: Thomas Edison. Proposed additional link on 02-19: edison-patents-phonograph-1878. Berliner, inventor of the gramophone, is the sharp distractor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-19"
+      ]
+    },
+    {
+      "candidateId": "executive-order-9066-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "executive-order-9066-president",
+      "workingClaim": "Which US president signed Executive Order 9066, which forced Japanese Americans into detention camps? Answer: Franklin D. Roosevelt. Proposed additional link on 02-19: executive-order-9066-signed-1942. Presidents either side of the war years.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-19"
+      ]
+    },
+    {
+      "candidateId": "glenn-orbit-count",
+      "kind": "quiz",
+      "proposedCanonicalId": "glenn-orbit-count",
+      "workingClaim": "How many times did John Glenn orbit Earth on his 1962 flight? Answer: Three. Proposed featured link on 02-20: john-glenn-orbits-earth-1962. Exact match on the featured flight.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-20"
+      ]
+    },
+    {
+      "candidateId": "paricutin-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "paricutin-country",
+      "workingClaim": "The volcano Paricutin, which began erupting in 1943, is in which country? Answer: Mexico. Proposed additional link on 02-20: paricutin-begins-erupting-1943. Other volcanic countries.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-20"
+      ]
+    },
+    {
+      "candidateId": "futurism-newspaper",
+      "kind": "quiz",
+      "proposedCanonicalId": "futurism-newspaper",
+      "workingClaim": "In which newspaper did Filippo Tommaso Marinetti coin the term Futurism in 1909? Answer: Le Figaro. Proposed additional link on 02-20: futurism-named-in-le-figaro-1909. An Italian, a British and another Paris daily of the time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-20"
+      ]
+    },
+    {
+      "candidateId": "nixon-china-after-office",
+      "kind": "quiz",
+      "proposedCanonicalId": "nixon-china-after-office",
+      "workingClaim": "Richard Nixon made his famous 1972 visit to China after he had left the presidency. Answer: False. Proposed featured link on 02-21: nixon-visits-china-1972. Exact match on the featured visit.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-21"
+      ]
+    },
+    {
+      "candidateId": "verdun-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "verdun-war",
+      "workingClaim": "The Battle of Verdun, which began in 1916, was fought during which war? Answer: World War I. Proposed additional link on 02-21: battle-of-verdun-begins-1916. Other wars fought by France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-21"
+      ]
+    },
+    {
+      "candidateId": "dhaka-1952-language",
+      "kind": "quiz",
+      "proposedCanonicalId": "dhaka-1952-language",
+      "workingClaim": "Protesters in Dhaka on February 21, 1952, were demanding recognition of which language? Answer: Bangla (Bengali). Proposed additional link on 02-21: bengali-language-movement-1952. Urdu, the language Pakistan's government favored, is the trap.",
+      "sourceUrls": [
+        "https://www.cam.ac.uk/stories/celebrating-language-diversity"
+      ]
+    },
+    {
+      "candidateId": "miracle-on-ice-opponent",
+      "kind": "quiz",
+      "proposedCanonicalId": "miracle-on-ice-opponent",
+      "workingClaim": "In the Miracle on Ice game of February 22, 1980, the US hockey team beat which team? Answer: The Soviet Union. Proposed featured link on 02-22: miracle-on-ice-1980. The date in the prompt rules out Finland, beaten two days later.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Miracle-on-Ice"
+      ]
+    },
+    {
+      "candidateId": "white-rose-university",
+      "kind": "quiz",
+      "proposedCanonicalId": "white-rose-university",
+      "workingClaim": "The White Rose, an anti-Nazi resistance group, was founded by students at which university? Answer: Munich. Proposed additional link on 02-22: white-rose-members-executed-1943. Other major German universities.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/White-Rose"
+      ]
+    },
+    {
+      "candidateId": "first-daytona-500-winner",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-daytona-500-winner",
+      "workingClaim": "Who won the first Daytona 500, in 1959? Answer: Lee Petty. Proposed additional link on 02-22: first-daytona-500-1959. Richard Petty, Lee's son, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-22"
+      ]
+    },
+    {
+      "candidateId": "iwo-jima-flag-mountain",
+      "kind": "quiz",
+      "proposedCanonicalId": "iwo-jima-flag-mountain",
+      "workingClaim": "On which mountain did US servicemen raise the American flag on Iwo Jima in 1945? Answer: Mount Suribachi. Proposed featured link on 02-23: iwo-jima-flag-raising-1945. Exact match; other Pacific war peaks (Saipan, Guadalcanal) and Japan's best-known mountain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-23"
+      ]
+    },
+    {
+      "candidateId": "messiah-premiere-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "messiah-premiere-city",
+      "workingClaim": "In which city was Handel's Messiah first performed, in 1742? Answer: Dublin. Proposed additional link on 02-23: george-frideric-handel-born-1685. London, Handel's home, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/George-Frideric-Handel"
+      ]
+    },
+    {
+      "candidateId": "du-bois-the-crisis",
+      "kind": "quiz",
+      "proposedCanonicalId": "du-bois-the-crisis",
+      "workingClaim": "W.E.B. Du Bois edited The Crisis from 1910 to 1934. It was the magazine of which organization? Answer: The NAACP. Proposed additional link on 02-23: web-du-bois-born-1868. Other civil rights organizations; two were founded long after 1910.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/W-E-B-Du-Bois"
+      ]
+    },
+    {
+      "candidateId": "gregorian-reform-days-dropped",
+      "kind": "quiz",
+      "proposedCanonicalId": "gregorian-reform-days-dropped",
+      "workingClaim": "How many days did Pope Gregory XIII's calendar reform remove from 1582? Answer: Ten. Proposed featured link on 02-24: gregorian-calendar-papal-bull-1582. Exact match on the featured bull.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-24"
+      ]
+    },
+    {
+      "candidateId": "marbury-act-unconstitutional",
+      "kind": "quiz",
+      "proposedCanonicalId": "marbury-act-unconstitutional",
+      "workingClaim": "In Marbury v. Madison (1803), the US Supreme Court declared an act of Congress unconstitutional. Answer: True. Proposed additional link on 02-24: marbury-v-madison-1803. Tests the core holding of a landmark case.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-24"
+      ]
+    },
+    {
+      "candidateId": "johnson-impeachment-chamber",
+      "kind": "quiz",
+      "proposedCanonicalId": "johnson-impeachment-chamber",
+      "workingClaim": "Which body voted 126 to 47 in 1868 to impeach President Andrew Johnson? Answer: The House of Representatives. Proposed additional link on 02-24: andrew-johnson-impeached-1868. The Senate, which tries impeachments, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-24"
+      ]
+    },
+    {
+      "candidateId": "ali-name-in-1964",
+      "kind": "quiz",
+      "proposedCanonicalId": "ali-name-in-1964",
+      "workingClaim": "Under what name did Muhammad Ali fight when he beat Sonny Liston in 1964? Answer: Cassius Clay. Proposed featured link on 02-25: cassius-clay-defeats-liston-1964. Other heavyweights of the era as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-25"
+      ]
+    },
+    {
+      "candidateId": "khrushchev-secret-speech-target",
+      "kind": "quiz",
+      "proposedCanonicalId": "khrushchev-secret-speech-target",
+      "workingClaim": "In his 1956 secret speech, Nikita Khrushchev denounced which late Soviet leader? Answer: Joseph Stalin. Proposed additional link on 02-25: khrushchev-secret-speech-1956. Lenin was also dead; Malenkov was alive. Only Stalin fits.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-25"
+      ]
+    },
+    {
+      "candidateId": "first-african-american-congress-20th-century",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-african-american-congress-20th-century",
+      "workingClaim": "The first African American to serve in the US Congress took his seat in the 20th century. Answer: False. Proposed additional link on 02-25: hiram-revels-sworn-in-1870. Many place this first in the 20th century.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-25"
+      ]
+    },
+    {
+      "candidateId": "marcos-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "marcos-country",
+      "workingClaim": "Ferdinand Marcos fled which country in 1986? Answer: The Philippines. Proposed additional link on 02-25: marcos-flees-philippines-1986. Neighboring Southeast Asian nations.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-25"
+      ]
+    },
+    {
+      "candidateId": "napoleon-escape-island",
+      "kind": "quiz",
+      "proposedCanonicalId": "napoleon-escape-island",
+      "workingClaim": "From which island did Napoleon escape in 1815? Answer: Elba. Proposed featured link on 02-26: napoleon-escapes-elba-1815. Corsica (his birthplace) and Saint Helena (his final exile) are the traps.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-26"
+      ]
+    },
+    {
+      "candidateId": "hunchback-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "hunchback-name",
+      "workingClaim": "What is the name of the hunchback in Victor Hugo's Notre-Dame de Paris? Answer: Quasimodo. Proposed additional link on 02-26: victor-hugo-born-1802. Valjean and Javert are from Les Miserables.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Victor-Hugo"
+      ]
+    },
+    {
+      "candidateId": "johnny-cash-nickname",
+      "kind": "quiz",
+      "proposedCanonicalId": "johnny-cash-nickname",
+      "workingClaim": "By which nickname was Johnny Cash known to his fans? Answer: The Man in Black. Proposed additional link on 02-26: johnny-cash-born-1932. Nicknames of other music stars.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-26"
+      ]
+    },
+    {
+      "candidateId": "hey-radio-source",
+      "kind": "quiz",
+      "proposedCanonicalId": "hey-radio-source",
+      "workingClaim": "In 1942, James Stanley Hey traced strange interference on British radar to radio waves coming from what? Answer: The Sun. Proposed featured link on 02-27: hey-detects-solar-radio-waves-1942. Enemy jamming was the natural wartime assumption.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-27"
+      ]
+    },
+    {
+      "candidateId": "reichstag-function",
+      "kind": "quiz",
+      "proposedCanonicalId": "reichstag-function",
+      "workingClaim": "The Reichstag building in Berlin, which caught fire in 1933, housed what? Answer: Germany's parliament. Proposed additional link on 02-27: reichstag-fire-1933. Other seats of state power.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-27"
+      ]
+    },
+    {
+      "candidateId": "grapes-of-wrath-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "grapes-of-wrath-author",
+      "workingClaim": "Who wrote The Grapes of Wrath (1939)? Answer: John Steinbeck. Proposed additional link on 02-27: john-steinbeck-born-1902. Other major American novelists of the period.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/John-Steinbeck"
+      ]
+    },
+    {
+      "candidateId": "mash-setting-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "mash-setting-country",
+      "workingClaim": "In which country was the TV series M*A*S*H set? Answer: South Korea. Proposed featured link on 02-28: mash-finale-1983. Vietnam, the war under way when the show began, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/today-in-history/February-28-MASH-Series-Finale"
+      ]
+    },
+    {
+      "candidateId": "last-pope-to-resign-before-benedict",
+      "kind": "quiz",
+      "proposedCanonicalId": "last-pope-to-resign-before-benedict",
+      "workingClaim": "When Benedict XVI resigned in 2013, who had been the last pope before him to resign? Answer: Gregory XII. Proposed additional link on 02-28: benedict-xvi-resigns-2013. Celestine V also resigned, but earlier (1294); the others did not resign.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-28"
+      ]
+    },
+    {
+      "candidateId": "egypt-protectorate-power",
+      "kind": "quiz",
+      "proposedCanonicalId": "egypt-protectorate-power",
+      "workingClaim": "Egypt declared independence in 1922, ending a protectorate held by which country? Answer: Britain. Proposed additional link on 02-28: egypt-declared-independent-1922. Other powers active in the region.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-28"
+      ]
+    },
+    {
+      "candidateId": "palme-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "palme-country",
+      "workingClaim": "Olof Palme, assassinated in 1986, was prime minister of which country? Answer: Sweden. Proposed additional link on 02-28: olof-palme-assassinated-1986. Nordic neighbors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-28"
+      ]
+    },
+    {
+      "candidateId": "mcdaniel-oscar-film",
+      "kind": "quiz",
+      "proposedCanonicalId": "mcdaniel-oscar-film",
+      "workingClaim": "Hattie McDaniel won her 1940 Academy Award for which film? Answer: Gone with the Wind. Proposed featured link on 02-29: hattie-mcdaniel-wins-oscar-1940. Exact match on the featured award; Casablanca came later.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-29"
+      ]
+    },
+    {
+      "candidateId": "rossini-comic-opera",
+      "kind": "quiz",
+      "proposedCanonicalId": "rossini-comic-opera",
+      "workingClaim": "Which comic opera did Gioachino Rossini compose? Answer: The Barber of Seville. Proposed additional link on 02-29: gioachino-rossini-born-1792. Mozart's Figaro opera shares a character, which makes it the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Gioachino-Rossini"
+      ]
+    },
+    {
+      "candidateId": "return-of-the-king-oscar-count",
+      "kind": "quiz",
+      "proposedCanonicalId": "return-of-the-king-oscar-count",
+      "workingClaim": "How many Academy Awards did The Return of the King win in 2004? Answer: 11. Proposed additional link on 02-29: return-of-the-king-wins-11-oscars-2004. Spaced counts.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-29"
+      ]
+    },
+    {
+      "candidateId": "howe-800th-goal-age",
+      "kind": "quiz",
+      "proposedCanonicalId": "howe-800th-goal-age",
+      "workingClaim": "Gordie Howe was in his fifties when he became the first to score 800 NHL goals. Answer: True. Proposed additional link on 02-29: gordie-howe-800th-goal-1980. His age at the milestone is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-29"
+      ]
+    },
+    {
+      "candidateId": "yellowstone-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "yellowstone-president",
+      "workingClaim": "Which US president signed the act establishing Yellowstone National Park in 1872? Answer: Ulysses S. Grant. Proposed featured link on 03-01: yellowstone-established-1872. Theodore Roosevelt, famous for conservation, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1",
+        "https://www.britannica.com/place/Yellowstone-National-Park"
+      ]
+    },
+    {
+      "candidateId": "march-first-movement-ruler",
+      "kind": "quiz",
+      "proposedCanonicalId": "march-first-movement-ruler",
+      "workingClaim": "The March First Movement of 1919 demanded Korea's independence from which country? Answer: Japan. Proposed additional link on 03-01: march-first-movement-1919. Other powers involved in Korea's history.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1"
+      ]
+    },
+    {
+      "candidateId": "peace-corps-first-director",
+      "kind": "quiz",
+      "proposedCanonicalId": "peace-corps-first-director",
+      "workingClaim": "Who was the first director of the Peace Corps? Answer: R. Sargent Shriver. Proposed additional link on 03-01: peace-corps-established-1961. Other prominent Democrats of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Peace-Corps"
+      ]
+    },
+    {
+      "candidateId": "hoover-dam-river",
+      "kind": "quiz",
+      "proposedCanonicalId": "hoover-dam-river",
+      "workingClaim": "The Hoover Dam, completed in 1936, stands on which river? Answer: Colorado. Proposed additional link on 03-01: hoover-dam-completed-1936. Other great western rivers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-1"
+      ]
+    },
+    {
+      "candidateId": "concorde-builders",
+      "kind": "quiz",
+      "proposedCanonicalId": "concorde-builders",
+      "workingClaim": "Which two countries built the supersonic airliner Concorde? Answer: Britain and France. Proposed featured link on 03-02: concorde-first-flight-1969. Exact match on the featured flight.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/Concorde"
+      ]
+    },
+    {
+      "candidateId": "wilt-points-record",
+      "kind": "quiz",
+      "proposedCanonicalId": "wilt-points-record",
+      "workingClaim": "How many points did Wilt Chamberlain score in a single NBA game in 1962? Answer: 100. Proposed additional link on 03-02: wilt-chamberlain-scores-100-1962. 81 echoes the next-highest famous total.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "morocco-independence-from",
+      "kind": "quiz",
+      "proposedCanonicalId": "morocco-independence-from",
+      "workingClaim": "From which country did Morocco proclaim independence in 1956? Answer: France. Proposed additional link on 03-02: morocco-independence-1956. Other European colonial powers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-2"
+      ]
+    },
+    {
+      "candidateId": "serfs-emancipation-emperor",
+      "kind": "quiz",
+      "proposedCanonicalId": "serfs-emancipation-emperor",
+      "workingClaim": "Which Russian emperor issued the 1861 manifesto freeing the serfs? Answer: Alexander II. Proposed featured link on 03-03: russia-emancipates-serfs-1861. Exact match; other famous Russian rulers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "star-spangled-banner-anthem-1812",
+      "kind": "quiz",
+      "proposedCanonicalId": "star-spangled-banner-anthem-1812",
+      "workingClaim": "The Star-Spangled Banner has been the official US national anthem since the War of 1812. Answer: False. Proposed additional link on 03-03: star-spangled-banner-anthem-1931. The song is old; its official status is not.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "bell-birthplace",
+      "kind": "quiz",
+      "proposedCanonicalId": "bell-birthplace",
+      "workingClaim": "In which city was Alexander Graham Bell born? Answer: Edinburgh. Proposed additional link on 03-03: alexander-graham-bell-born-1847. Cities linked to his later life.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-3"
+      ]
+    },
+    {
+      "candidateId": "fdr-last-march-4-inauguration",
+      "kind": "quiz",
+      "proposedCanonicalId": "fdr-last-march-4-inauguration",
+      "workingClaim": "Franklin D. Roosevelt was the last US president to be inaugurated on March 4. Answer: True. Proposed featured link on 03-04: fdr-first-inauguration-1933. Exact match on the featured inauguration.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "perkins-cabinet-post",
+      "kind": "quiz",
+      "proposedCanonicalId": "perkins-cabinet-post",
+      "workingClaim": "Frances Perkins, the first woman appointed to a US cabinet post, served as secretary of what? Answer: Labor. Proposed additional link on 03-04: frances-perkins-sworn-in-1933. Other cabinet departments.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "four-seasons-composer",
+      "kind": "quiz",
+      "proposedCanonicalId": "four-seasons-composer",
+      "workingClaim": "Which composer wrote the violin concertos known as The Four Seasons? Answer: Antonio Vivaldi. Proposed additional link on 03-04: antonio-vivaldi-born-1678. Other Baroque and Classical composers.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Antonio-Vivaldi"
+      ]
+    },
+    {
+      "candidateId": "castle-hill-rising-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "castle-hill-rising-country",
+      "workingClaim": "The Castle Hill Rising of 1804, in which Irish convicts rebelled, took place in which present-day country? Answer: Australia. Proposed additional link on 03-04: castle-hill-rising-1804. Ireland, the rebels' homeland, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-4"
+      ]
+    },
+    {
+      "candidateId": "iron-curtain-speech-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "iron-curtain-speech-state",
+      "workingClaim": "In which US state did Winston Churchill give his 1946 Iron Curtain speech? Answer: Missouri. Proposed featured link on 03-05: iron-curtain-speech-1946. Exact match on the featured speech.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "boston-massacre-victim",
+      "kind": "quiz",
+      "proposedCanonicalId": "boston-massacre-victim",
+      "workingClaim": "Which of these men was killed in the Boston Massacre of 1770? Answer: Crispus Attucks. Proposed additional link on 03-05: boston-massacre-1770. Famous Boston patriots who survived.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "stalin-successor-1953",
+      "kind": "quiz",
+      "proposedCanonicalId": "stalin-successor-1953",
+      "workingClaim": "Who succeeded Joseph Stalin as Soviet premier when Stalin died in 1953? Answer: Georgy Malenkov. Proposed additional link on 03-05: joseph-stalin-dies-1953. Khrushchev, who later outmaneuvered Malenkov, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "voyager-1-jupiter-moon",
+      "kind": "quiz",
+      "proposedCanonicalId": "voyager-1-jupiter-moon",
+      "workingClaim": "Which spacecraft made its closest approach to Jupiter on March 5, 1979? Answer: Voyager 1. Proposed additional link on 03-05: voyager-1-jupiter-flyby-1979. Other Jupiter missions, earlier and later.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/voyager/voyager-1/"
+      ]
+    },
+    {
+      "candidateId": "sistine-ceiling-artist",
+      "kind": "quiz",
+      "proposedCanonicalId": "sistine-ceiling-artist",
+      "workingClaim": "Which artist painted the ceiling of the Sistine Chapel, from 1508 to 1512? Answer: Michelangelo. Proposed additional link on 03-06: michelangelo-born-1475. Botticelli painted the chapel's walls, which makes him a fair trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Michelangelo"
+      ]
+    },
+    {
+      "candidateId": "macondo-novel",
+      "kind": "quiz",
+      "proposedCanonicalId": "macondo-novel",
+      "workingClaim": "The fictional town of Macondo is the setting of which novel? Answer: One Hundred Years of Solitude. Proposed additional link on 03-06: gabriel-garcia-marquez-born-1927. Other landmark novels in Spanish.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Gabriel-Garcia-Marquez"
+      ]
+    },
+    {
+      "candidateId": "alamo-siege-length",
+      "kind": "quiz",
+      "proposedCanonicalId": "alamo-siege-length",
+      "workingClaim": "How long did the siege of the Alamo last before the mission fell in 1836? Answer: 13 days. Proposed additional link on 03-06: fall-of-the-alamo-1836, siege-of-the-alamo-begins-1836. Joins the siege's start and end, both in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6",
+        "https://www.britannica.com/on-this-day/February-23"
+      ]
+    },
+    {
+      "candidateId": "la-traviata-composer",
+      "kind": "quiz",
+      "proposedCanonicalId": "la-traviata-composer",
+      "workingClaim": "Who composed La Traviata, which premiered in Venice in 1853? Answer: Giuseppe Verdi. Proposed additional link on 03-06: la-traviata-premieres-1853. Other Italian opera composers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-6"
+      ]
+    },
+    {
+      "candidateId": "selma-march-destination",
+      "kind": "quiz",
+      "proposedCanonicalId": "selma-march-destination",
+      "workingClaim": "The civil rights marchers attacked at Selma, Alabama, in March 1965 were trying to reach which city? Answer: Montgomery. Proposed additional link on 03-07: selma-bloody-sunday-1965. Other cities central to the civil rights movement.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "marcus-aurelius-co-emperor",
+      "kind": "quiz",
+      "proposedCanonicalId": "marcus-aurelius-co-emperor",
+      "workingClaim": "In 161 CE, Marcus Aurelius made which man his co-emperor? Answer: Lucius Verus. Proposed additional link on 03-07: marcus-aurelius-and-lucius-verus-emperors-161. Commodus, his son, was made co-emperor years later.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "bigelow-oscar-film",
+      "kind": "quiz",
+      "proposedCanonicalId": "bigelow-oscar-film",
+      "workingClaim": "Kathryn Bigelow became the first woman to win the best director Oscar for which film? Answer: The Hurt Locker. Proposed additional link on 03-07: kathryn-bigelow-best-director-2010. Another Bigelow film and films by other women directors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    },
+    {
+      "candidateId": "bolero-composer",
+      "kind": "quiz",
+      "proposedCanonicalId": "bolero-composer",
+      "workingClaim": "Which French composer wrote Bolero (1928)? Answer: Maurice Ravel. Proposed additional link on 03-07: maurice-ravel-born-1875. Other French composers of the period.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Maurice-Ravel"
+      ]
+    },
+    {
+      "candidateId": "order-crewed-spaceflight-feb-mar",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-crewed-spaceflight-feb-mar",
+      "workingClaim": "Put these spaceflight milestones in order from earliest to latest. Answer: John Glenn orbits Earth < Apollo 14 lands on the Moon < Skylab 4 crew returns after 84 days < Falcon Heavy's first test flight. Proposed additional link on 02-06: john-glenn-orbits-earth-1962, apollo-14-lands-on-moon-1971, skylab-4-splashdown-1974, falcon-heavy-first-flight-2018. Every item is an event in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-20",
+        "https://www.britannica.com/topic/Apollo-14",
+        "https://www.britannica.com/on-this-day/February-8",
+        "https://www.britannica.com/on-this-day/February-6"
+      ]
+    },
+    {
+      "candidateId": "order-independence-feb-mar",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-independence-feb-mar",
+      "workingClaim": "Put these declarations or grants of independence in order from earliest to latest. Answer: Chile < Ceylon (Sri Lanka) < Ghana < Grenada. Proposed additional link on 02-04: chile-declares-independence-1818, ceylon-independence-1948, ghana-becomes-independent-1957, grenada-independence-1974. Every item is an event in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-12",
+        "https://www.britannica.com/on-this-day/February-4",
+        "https://www.britannica.com/on-this-day/March-6",
+        "https://www.britannica.com/on-this-day/February-7"
+      ]
+    },
+    {
+      "candidateId": "order-composer-births-feb-mar",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-composer-births-feb-mar",
+      "workingClaim": "Put the births of these composers in order from earliest to latest. Answer: Antonio Vivaldi < George Frideric Handel < Gioachino Rossini < Felix Mendelssohn. Proposed additional link on 02-29: antonio-vivaldi-born-1678, george-frideric-handel-born-1685, gioachino-rossini-born-1792, felix-mendelssohn-born-1809. Every item is a birth in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Antonio-Vivaldi",
+        "https://www.britannica.com/biography/George-Frideric-Handel",
+        "https://www.britannica.com/biography/Gioachino-Rossini",
+        "https://www.britannica.com/on-this-day/February-3"
+      ]
+    },
+    {
+      "candidateId": "link-south-africa-1994-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "south-africa-1994-president",
+      "workingClaim": "Propose additional relation on 02-02 from unchanged published south-africa-1994-president to de-klerk-lifts-anc-ban-1990. Lifting the ban on the ANC led to Mandela's release and the 1994 election the question asks about.",
+      "sourceUrls": [
+        "https://www.nelsonmandela.org/biography",
+        "https://www.britannica.com/on-this-day/February-2"
+      ]
+    },
+    {
+      "candidateId": "link-tehran-conference-big-three",
+      "kind": "quiz",
+      "proposedCanonicalId": "tehran-conference-big-three",
+      "workingClaim": "Propose additional relation on 02-04 from unchanged published tehran-conference-big-three to yalta-conference-opens-1945. The same three leaders met again at Yalta; the day page names all three.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28",
+        "https://www.britannica.com/on-this-day/February-4"
+      ]
+    },
+    {
+      "candidateId": "link-treaty-waitangi-parties",
+      "kind": "quiz",
+      "proposedCanonicalId": "treaty-waitangi-parties",
+      "workingClaim": "Propose featured relation on 02-06 from unchanged published treaty-waitangi-parties to treaty-of-waitangi-signed-1840. Exact match: the question asks who signed the treaty with the British Crown in 1840.",
+      "sourceUrls": [
+        "https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief",
+        "https://www.britannica.com/on-this-day/February-6"
+      ]
+    },
+    {
+      "candidateId": "link-beatles-home-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "beatles-home-city",
+      "workingClaim": "Propose featured relation on 02-07 from unchanged published beatles-home-city to beatles-land-in-new-york-1964. Accessible Beatles hook for their arrival in America; already related to Love Me Do.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/please-please-me",
+        "https://www.britannica.com/on-this-day/February-7"
+      ]
+    },
+    {
+      "candidateId": "link-identify-nelson-mandela",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-nelson-mandela",
+      "workingClaim": "Propose featured relation on 02-11 from unchanged published identify-nelson-mandela to nelson-mandela-released-1990. The portrait bust identifies Mandela, whose release the featured event marks.",
+      "sourceUrls": [
+        "https://www.nelsonmandela.org/biography",
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "link-identify-charles-darwin",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-charles-darwin",
+      "workingClaim": "Propose featured relation on 02-12 from unchanged published identify-charles-darwin to charles-darwin-born-1809. The portrait identifies Darwin, whose birth is the featured event; already related to the Beagle's return.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charles-Darwin",
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "link-identify-abraham-lincoln",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-abraham-lincoln",
+      "workingClaim": "Propose additional relation on 02-12 from unchanged published identify-abraham-lincoln to abraham-lincoln-born-1809. The portrait identifies Lincoln, born on this day.",
+      "sourceUrls": [
+        "https://www.loc.gov/pictures/item/2008680391/",
+        "https://www.britannica.com/on-this-day/February-12"
+      ]
+    },
+    {
+      "candidateId": "link-snoopy-comic-strip",
+      "kind": "quiz",
+      "proposedCanonicalId": "snoopy-comic-strip",
+      "workingClaim": "Propose featured relation on 02-13 from unchanged published snoopy-comic-strip to last-peanuts-strip-2000. Peanuts ended on this day; already related to its 1950 debut.",
+      "sourceUrls": [
+        "https://schulzmuseum.org/about-schulz/schulz-biography/",
+        "https://www.britannica.com/on-this-day/February-13"
+      ]
+    },
+    {
+      "candidateId": "link-copernican-model-earth-orbits-sun",
+      "kind": "quiz",
+      "proposedCanonicalId": "copernican-model-earth-orbits-sun",
+      "workingClaim": "Propose featured relation on 02-19 from unchanged published copernican-model-earth-orbits-sun to nicolaus-copernicus-born-1473. Exact match: the question is about Copernicus's Sun-centered model; the event is his birth.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Nicolaus-Copernicus"
+      ]
+    },
+    {
+      "candidateId": "link-identify-george-washington",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-george-washington",
+      "workingClaim": "Propose additional relation on 02-22 from unchanged published identify-george-washington to george-washington-born-1732. The portrait identifies Washington, born on this day.",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/16584",
+        "https://www.britannica.com/on-this-day/February-22"
+      ]
+    },
+    {
+      "candidateId": "link-gregorian-century-leap-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "gregorian-century-leap-year",
+      "workingClaim": "Propose featured relation on 02-24 from unchanged published gregorian-century-leap-year to gregorian-calendar-papal-bull-1582. The leap-year rule the question tests is part of the reform the bull decreed; already related to the calendar taking effect.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Gregorian-calendar",
+        "https://www.britannica.com/on-this-day/February-24"
+      ]
+    },
+    {
+      "candidateId": "link-identify-winston-churchill",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-winston-churchill",
+      "workingClaim": "Propose featured relation on 03-05 from unchanged published identify-winston-churchill to iron-curtain-speech-1946. The portrait identifies the speaker of the Iron Curtain speech.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Winston-Churchill",
+        "https://www.britannica.com/on-this-day/March-5"
+      ]
+    },
+    {
+      "candidateId": "link-ghana-independence-1957",
+      "kind": "quiz",
+      "proposedCanonicalId": "ghana-independence-1957",
+      "workingClaim": "Propose featured relation on 03-06 from unchanged published ghana-independence-1957 to ghana-becomes-independent-1957. Exact match: the question asks which country became independent under Nkrumah in 1957.",
+      "sourceUrls": [
+        "https://mfa.gov.gh/wp-content/uploads/2021/02/The-Ghanaian-Envoy-Newsletter-2019.pdf",
+        "https://www.britannica.com/on-this-day/March-6"
+      ]
+    },
+    {
+      "candidateId": "link-order-modern-communication-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-modern-communication-milestones",
+      "workingClaim": "Propose featured relation on 03-07 from unchanged published order-modern-communication-milestones to bell-telephone-patent-1876. One ordering item is 'Bell receives a telephone patent', the featured event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Alexander-Graham-Bell",
+        "https://www.britannica.com/on-this-day/March-7"
+      ]
+    }
+  ]
+}

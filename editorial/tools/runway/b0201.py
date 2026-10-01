@@ -1060,7 +1060,7 @@ ev(3, 5, "villa-lobos-born", "heitor-villa-lobos-born-1887", "Heitor Villa-Lobos
    ["americas"], ["1800-1945"])
 
 # ---------------------------------------------------------------- Mar 6
-ev(3, 6, "ghana-independence", "ghana-independence-1957", "Ghana becomes independent", "1957",
+ev(3, 6, "ghana-independence", "ghana-becomes-independent-1957", "Ghana becomes independent", "1957",
    "Led by Kwame Nkrumah, the former Gold Coast becomes a nation.",
    "On {hd}, Ghana became an independent nation, led by Prime Minister Kwame Nkrumah.",
    "1957: 'Ghana became an independent nation, led by Prime Minister Kwame Nkrumah.'",
