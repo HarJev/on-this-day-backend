@@ -1,0 +1,81 @@
+{
+  "days": [
+    {
+      "month": 1,
+      "day": 1,
+      "featuredEventId": "euro-introduced-1999",
+      "additionalEventIds": [
+        "haiti-declares-independence-1804",
+        "emancipation-proclamation-issued-1863",
+        "world-trade-organization-established-1995",
+        "batista-flees-cuba-1959"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 26,
+      "featuredEventId": "frisbee-patent-issued-1967",
+      "additionalEventIds": [
+        "mao-zedong-born-1893",
+        "indian-ocean-tsunami-2004",
+        "charles-babbage-born-1791",
+        "jack-johnson-wins-heavyweight-title-1908"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 27,
+      "featuredEventId": "hagia-sophia-consecrated-537",
+      "additionalEventIds": [
+        "darwin-sails-on-beagle-1831",
+        "johannes-kepler-born-1571",
+        "dutch-transfer-sovereignty-indonesia-1949",
+        "benazir-bhutto-assassinated-2007"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 28,
+      "featuredEventId": "lumiere-first-public-film-screening-1895",
+      "additionalEventIds": [
+        "westminster-abbey-consecrated-1065",
+        "indian-national-congress-first-session-1885",
+        "constance-markievicz-elected-1918",
+        "endangered-species-act-signed-1973"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 29,
+      "featuredEventId": "irish-constitution-in-force-1937",
+      "additionalEventIds": [
+        "texas-statehood-1845",
+        "william-gladstone-born-1809",
+        "wounded-knee-massacre-1890",
+        "guinea-declared-ebola-free-2015"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 30,
+      "featuredEventId": "soviet-union-established-1922",
+      "additionalEventIds": [
+        "jose-rizal-executed-1896",
+        "gadsden-purchase-signed-1853",
+        "scott-sets-farthest-south-record-1902",
+        "treaty-of-surji-arjungaon-1803"
+      ]
+    },
+    {
+      "month": 12,
+      "day": 31,
+      "featuredEventId": "times-square-ball-drop-1907",
+      "additionalEventIds": [
+        "east-india-company-chartered-1600",
+        "ottawa-named-capital-of-canada-1857",
+        "panama-canal-handed-to-panama-1999",
+        "taipei-101-opens-2004"
+      ]
+    }
+  ]
+}

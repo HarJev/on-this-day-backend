@@ -1,0 +1,624 @@
+{
+  "events": [
+    {
+      "id": "granada-surrenders-1492",
+      "title": "Ferdinand and Isabella capture Granada",
+      "year": "1492",
+      "historicalDate": "January 2, 1492",
+      "dateNote": "Julian calendar date.",
+      "summary": "The fall of the last Muslim kingdom in Spain ends centuries of campaigns.",
+      "description": "On January 2, 1492, Ferdinand II and Isabella I, the first monarchs of a unified Spain, captured Granada, ending a centuries-long series of military campaigns on the Iberian Peninsula.",
+      "notificationTitle": "The end of an era in Spain",
+      "notificationBody": "In 1492, Ferdinand and Isabella captured Granada.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "port-arthur-surrenders-1905",
+      "title": "Russia surrenders Port Arthur to Japan",
+      "year": "1905",
+      "historicalDate": "January 2, 1905",
+      "dateNote": null,
+      "summary": "A major Russian defeat in the Russo-Japanese War.",
+      "description": "On January 2, 1905, during the Russo-Japanese War, Russian forces surrendered Port Arthur (later Lushun, China) to the Japanese.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stardust-collects-comet-dust-2004",
+      "title": "NASA's Stardust collects dust from a comet",
+      "year": "2004",
+      "historicalDate": "January 2, 2004",
+      "dateNote": null,
+      "summary": "The spacecraft gathers grains from comet Wild 2.",
+      "description": "On January 2, 2004, NASA's Stardust spacecraft collected dust grains from the comet Wild 2.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "palmer-raids-1920",
+      "title": "The Palmer Raids sweep US cities",
+      "year": "1920",
+      "historicalDate": "January 2, 1920",
+      "dateNote": null,
+      "summary": "Thousands are arrested as suspected radicals.",
+      "description": "On January 2, 1920, in the Palmer Raids, thousands of people were arrested in more than 30 US cities, accused of being foreign anarchists, communists, or radical leftists.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 2",
+          "url": "https://www.britannica.com/on-this-day/January-2"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "jrr-tolkien-born-1892",
+      "title": "J.R.R. Tolkien is born",
+      "year": "1892",
+      "historicalDate": "January 3, 1892",
+      "dateNote": null,
+      "summary": "The author of The Hobbit and The Lord of the Rings is born.",
+      "description": "On January 3, 1892, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born in Bloemfontein, South Africa.",
+      "notificationTitle": "Where Middle-earth began",
+      "notificationBody": "In 1892, J.R.R. Tolkien, author of The Lord of the Rings, was born.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        },
+        {
+          "name": "Encyclopaedia Britannica - J.R.R. Tolkien",
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "alaska-becomes-49th-state-1959",
+      "title": "Alaska becomes the 49th US state",
+      "year": "1959",
+      "historicalDate": "January 3, 1959",
+      "dateNote": null,
+      "summary": "The former territory joins the Union.",
+      "description": "On January 3, 1959, Alaska became the 49th state of the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "change-4-lands-far-side-moon-2019",
+      "title": "China's Chang'e 4 lands on the far side of the Moon",
+      "year": "2019",
+      "historicalDate": "January 3, 2019",
+      "dateNote": null,
+      "summary": "It is the first spacecraft to land on the lunar far side.",
+      "description": "On January 3, 2019, China's Chang'e 4 spacecraft, carrying the Yutu-2 rover, landed on the far side of the Moon.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "luther-excommunicated-1521",
+      "title": "Pope Leo X excommunicates Martin Luther",
+      "year": "1521",
+      "historicalDate": "January 3, 1521",
+      "dateNote": "Julian calendar date.",
+      "summary": "The break between Luther and Rome becomes formal.",
+      "description": "On January 3, 1521, Pope Leo X excommunicated Martin Luther.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-princeton-1777",
+      "title": "Washington wins the Battle of Princeton",
+      "year": "1777",
+      "historicalDate": "January 3, 1777",
+      "dateNote": null,
+      "summary": "American forces win a battle in New Jersey.",
+      "description": "On January 3, 1777, during the American Revolution, the Battle of Princeton was fought in New Jersey.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 3",
+          "url": "https://www.britannica.com/on-this-day/January-3"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "louis-braille-born-1809",
+      "title": "Louis Braille is born",
+      "year": "1809",
+      "historicalDate": "January 4, 1809",
+      "dateNote": null,
+      "summary": "The inventor of the raised-dot writing system is born near Paris.",
+      "description": "On January 4, 1809, Louis Braille, who developed the system of printing and writing for the blind that bears his name, was born near Paris.",
+      "notificationTitle": "Reading by touch",
+      "notificationBody": "In 1809, Louis Braille, inventor of the braille system, was born.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "burma-gains-independence-1948",
+      "title": "Burma gains independence from Britain",
+      "year": "1948",
+      "historicalDate": "January 4, 1948",
+      "dateNote": null,
+      "summary": "The country now called Myanmar becomes independent.",
+      "description": "On January 4, 1948, Burma, today called Myanmar, formally gained independence from Great Britain.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "burj-khalifa-opens-2010",
+      "title": "The Burj Khalifa opens in Dubai",
+      "year": "2010",
+      "historicalDate": "January 4, 2010",
+      "dateNote": null,
+      "summary": "The world's tallest building officially opens.",
+      "description": "On January 4, 2010, the Burj Khalifa, the world's tallest building, officially opened in Dubai.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "albert-camus-dies-1960",
+      "title": "Albert Camus dies in a car accident",
+      "year": "1960",
+      "historicalDate": "January 4, 1960",
+      "dateNote": null,
+      "summary": "The novelist and playwright is killed in France.",
+      "description": "On January 4, 1960, the novelist and playwright Albert Camus was killed in an automobile accident in France.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "solomon-northup-freed-1853",
+      "title": "Solomon Northup regains his freedom",
+      "year": "1853",
+      "historicalDate": "January 4, 1853",
+      "dateNote": null,
+      "summary": "A free Black man kidnapped into slavery is legally freed.",
+      "description": "On January 4, 1853, Solomon Northup, a free Black man who had been kidnapped in Washington, D.C., and sold into slavery, legally obtained his freedom.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 4",
+          "url": "https://www.britannica.com/on-this-day/January-4"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "waiting-for-godot-premieres-1953",
+      "title": "Waiting for Godot is staged for the first time",
+      "year": "1953",
+      "historicalDate": "January 5, 1953",
+      "dateNote": null,
+      "summary": "Samuel Beckett's play premieres in Paris.",
+      "description": "On January 5, 1953, Samuel Beckett's Waiting for Godot was staged for the first time, in Paris.",
+      "notificationTitle": "Still waiting, since 1953",
+      "notificationBody": "In 1953, Beckett's Waiting for Godot premiered in Paris.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "golden-gate-bridge-construction-begins-1933",
+      "title": "Construction begins on the Golden Gate Bridge",
+      "year": "1933",
+      "historicalDate": "January 5, 1933",
+      "dateNote": null,
+      "summary": "Work starts on the bridge linking San Francisco and Marin county.",
+      "description": "On January 5, 1933, construction began on the Golden Gate Bridge, which connects San Francisco with Marin county.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "eris-discovered-2005",
+      "title": "The dwarf planet Eris is discovered",
+      "year": "2005",
+      "historicalDate": "January 5, 2005",
+      "dateNote": null,
+      "summary": "Astronomers spot it in images taken two years earlier.",
+      "description": "On January 5, 2005, the dwarf planet Eris was discovered in images taken two years earlier at Palomar Observatory.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "ford-five-dollar-day-1914",
+      "title": "Henry Ford doubles his workers' pay",
+      "year": "1914",
+      "historicalDate": "January 5, 1914",
+      "dateNote": null,
+      "summary": "Ford raises daily pay from $2.40 to $5.",
+      "description": "On January 5, 1914, Henry Ford raised his workers' pay from $2.40 to $5.00 a day.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "nellie-tayloe-ross-governor-1925",
+      "title": "Nellie Tayloe Ross becomes the first woman US governor",
+      "year": "1925",
+      "historicalDate": "January 5, 1925",
+      "dateNote": null,
+      "summary": "She takes office in Wyoming.",
+      "description": "On January 5, 1925, Nellie Tayloe Ross took office in Wyoming, becoming the first woman governor in the United States.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 5",
+          "url": "https://www.britannica.com/on-this-day/January-5"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "four-freedoms-speech-1941",
+      "title": "Franklin D. Roosevelt outlines the Four Freedoms",
+      "year": "1941",
+      "historicalDate": "January 6, 1941",
+      "dateNote": null,
+      "summary": "His State of the Union message names four essential freedoms.",
+      "description": "On January 6, 1941, US President Franklin D. Roosevelt outlined his Four Freedoms in his State of the Union message.",
+      "notificationTitle": "Four freedoms for the world",
+      "notificationBody": "In 1941, Franklin D. Roosevelt set out his Four Freedoms.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "henry-viii-marries-anne-of-cleves-1540",
+      "title": "Henry VIII marries Anne of Cleves",
+      "year": "1540",
+      "historicalDate": "January 6, 1540",
+      "dateNote": "Julian calendar date.",
+      "summary": "She becomes the fourth of his six wives.",
+      "description": "On January 6, 1540, Henry VIII of England married Anne of Cleves, the fourth of his six wives.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "britain-recognizes-prc-1950",
+      "title": "Britain recognizes the People's Republic of China",
+      "year": "1950",
+      "historicalDate": "January 6, 1950",
+      "dateNote": null,
+      "summary": "The UK formally recognizes the new Communist government.",
+      "description": "On January 6, 1950, Great Britain announced its recognition of the People's Republic of China.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "max-bruch-born-1838",
+      "title": "Composer Max Bruch is born",
+      "year": "1838",
+      "historicalDate": "January 6, 1838",
+      "dateNote": null,
+      "summary": "The Romantic composer is born in Cologne.",
+      "description": "On January 6, 1838, the composer Max Bruch was born in Cologne, in what is today Germany.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "richard-ii-born-1367",
+      "title": "Richard II of England is born",
+      "year": "1367",
+      "historicalDate": "January 6, 1367",
+      "dateNote": "Julian calendar date.",
+      "summary": "The future king will reign from 1377 to 1399.",
+      "description": "On January 6, 1367, the future King Richard II of England was born. He reigned from 1377 to 1399.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 6",
+          "url": "https://www.britannica.com/on-this-day/January-6"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "marian-anderson-met-debut-1955",
+      "title": "Marian Anderson sings at the Metropolitan Opera",
+      "year": "1955",
+      "historicalDate": "January 7, 1955",
+      "dateNote": null,
+      "summary": "The contralto performs with the Met for the first time.",
+      "description": "On January 7, 1955, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City, becoming the first Black singer to perform as a member of the company. She sang Ulrica in Verdi's Un ballo in maschera.",
+      "notificationTitle": "A voice that opened the Met",
+      "notificationBody": "In 1955, Marian Anderson made her Metropolitan Opera debut.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Marian Anderson",
+          "url": "https://www.britannica.com/biography/Marian-Anderson"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "vietnamese-forces-take-phnom-penh-1979",
+      "title": "Vietnamese forces take Phnom Penh",
+      "year": "1979",
+      "historicalDate": "January 7, 1979",
+      "dateNote": null,
+      "summary": "The Khmer Rouge regime of Pol Pot is driven from power.",
+      "description": "On January 7, 1979, Vietnamese forces took control of Phnom Penh, Cambodia, removing the Khmer Rouge and Pol Pot from power.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "surveyor-7-launched-1968",
+      "title": "Surveyor 7 launches toward the Moon",
+      "year": "1968",
+      "historicalDate": "January 7, 1968",
+      "dateNote": null,
+      "summary": "The uncrewed probe will make a soft lunar landing.",
+      "description": "On January 7, 1968, the uncrewed US space probe Surveyor 7 was launched; it went on to make a soft landing on the Moon.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "egypt-christmas-national-holiday-2003",
+      "title": "Egypt marks Christmas as a national holiday",
+      "year": "2003",
+      "historicalDate": "January 7, 2003",
+      "dateNote": null,
+      "summary": "Coptic Christmas becomes a public holiday for the first time.",
+      "description": "On January 7, 2003, Christmas was celebrated as a national holiday in Egypt for the first time.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "kufuor-inaugurated-ghana-2001",
+      "title": "John Kufuor is inaugurated in Ghana",
+      "year": "2001",
+      "historicalDate": "January 7, 2001",
+      "dateNote": null,
+      "summary": "Ghana completes its first peaceful transfer of power between governments.",
+      "description": "On January 7, 2001, John Kufuor was inaugurated as president of Ghana in the country's first peaceful transition of government.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 7",
+          "url": "https://www.britannica.com/on-this-day/January-7"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "african-national-congress-founded-1912",
+      "title": "The African National Congress is founded",
+      "year": "1912",
+      "historicalDate": "January 8, 1912",
+      "dateNote": null,
+      "summary": "The movement that will lead the struggle against apartheid is born.",
+      "description": "On January 8, 1912, the African National Congress was founded in South Africa.",
+      "notificationTitle": "A movement is founded",
+      "notificationBody": "In 1912, the African National Congress was founded in South Africa.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 8",
+          "url": "https://www.britannica.com/on-this-day/January-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "wilson-fourteen-points-1918",
+      "title": "Woodrow Wilson announces his Fourteen Points",
+      "year": "1918",
+      "historicalDate": "January 8, 1918",
+      "dateNote": null,
+      "summary": "The US president sets out his plan for peace after World War I.",
+      "description": "On January 8, 1918, US President Woodrow Wilson announced his Fourteen Points, a program for peace after World War I.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 8",
+          "url": "https://www.britannica.com/on-this-day/January-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "de-gaulle-inaugurated-fifth-republic-1959",
+      "title": "Charles de Gaulle becomes president of the Fifth Republic",
+      "year": "1959",
+      "historicalDate": "January 8, 1959",
+      "dateNote": null,
+      "summary": "France's new constitutional order gets its first president.",
+      "description": "On January 8, 1959, Charles de Gaulle was inaugurated as president of France's Fifth Republic.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 8",
+          "url": "https://www.britannica.com/on-this-day/January-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stephen-hawking-born-1942",
+      "title": "Stephen Hawking is born",
+      "year": "1942",
+      "historicalDate": "January 8, 1942",
+      "dateNote": null,
+      "summary": "The physicist known for his work on black holes is born.",
+      "description": "On January 8, 1942, the physicist Stephen Hawking was born. He developed a theory of exploding black holes.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 8",
+          "url": "https://www.britannica.com/on-this-day/January-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "elvis-presley-born-1935",
+      "title": "Elvis Presley is born",
+      "year": "1935",
+      "historicalDate": "January 8, 1935",
+      "dateNote": null,
+      "summary": "The future 'King of Rock and Roll' is born.",
+      "description": "On January 8, 1935, Elvis Presley, widely known as the King of Rock and Roll, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: January 8",
+          "url": "https://www.britannica.com/on-this-day/January-8"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

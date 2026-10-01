@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-16-22-historical-events",
+  "entries": [
+    {
+      "candidateId": "jan-16-sirleaf",
+      "canonicalId": "ellen-johnson-sirleaf-sworn-in-2006",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 16): 2006: 'Ellen Johnson Sirleaf, the first woman to be elected head of state of an African country, was sworn in as president of Liberia.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-16-chapultepec",
+      "canonicalId": "el-salvador-peace-accords-1992",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 16): 1992: 'The civil war in El Salvador ended as the government and the Farabundo Marti National Liberation Front signed the Chapultepec Peace Accords in Mexico City.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-16-nasa-women",
+      "canonicalId": "nasa-selects-first-women-astronauts-1978",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 16): 1978: 'NASA announced the members of its newest class of astronauts, which, for the first time in history, included six women.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-16-charles-v-spain",
+      "canonicalId": "charles-v-renounces-spain-1556",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 16): 1556: 'Charles V, Holy Roman emperor and king of Spain, renounced his claim to Spain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-16-pendleton-act",
+      "canonicalId": "pendleton-civil-service-act-1883",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-16",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 16): 1883: 'The Pendleton Civil Service Act, a bill sponsored by Senator George H. Pendleton of Ohio, established the Civil Service Commission in the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-17-popeye",
+      "canonicalId": "popeye-debuts-1929",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1929: 'Popeye, a sailor known for his love of spinach, made his debut' in the comic strip Thimble Theatre."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-17-franklin-born",
+      "canonicalId": "benjamin-franklin-born-1706",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1706: Benjamin Franklin born; Founding Father who helped draft the Declaration of Independence."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Benjamin-Franklin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 17 [January 6, Old Style], 1706, Boston, Massachusetts'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-17-liliuokalani-deposed",
+      "canonicalId": "liliuokalani-deposed-1893",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1893: Hawaiian Queen Liliuokalani was deposed by a provisional government led by Sanford Ballard Dole."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-17-eisenhower-farewell",
+      "canonicalId": "eisenhower-farewell-address-1961",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1961: President Eisenhower's Farewell Address warned against 'the acquisition of unwarranted influence ... by the military-industrial complex.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-17-kobe-earthquake",
+      "canonicalId": "great-hanshin-earthquake-1995",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 17): 1995: 'A large-scale earthquake struck the Osaka-Kobe (Hanshin) metropolitan area,' killing approximately 6,400 people."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-17"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-18-german-empire",
+      "canonicalId": "german-empire-proclaimed-1871",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 18): 1871: 'The German Empire was founded by Otto von Bismarck.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-18-ely-ship-landing",
+      "canonicalId": "eugene-ely-first-ship-landing-1911",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 18): 1911: 'The first aircraft landing on a ship's flight deck was performed by American pilot Eugene Ely.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-18-sierra-leone-peace",
+      "canonicalId": "sierra-leone-civil-war-ends-2002",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 18): 2002: 'The civil war in Sierra Leone was officially declared over; more than 50,000 people are estimated to have died.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-18-willie-oree",
+      "canonicalId": "willie-oree-nhl-debut-1958",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 18): 1958: 'Willie O'Ree became the first Black athlete to play in a National Hockey League game.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-18-milne-born",
+      "canonicalId": "aa-milne-born-1882",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 18): 1882: 'A.A. Milne ... was born in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-18"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-19-il-trovatore",
+      "canonicalId": "il-trovatore-premieres-1853",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 19): 1853: 'Giuseppe Verdi's opera Il trovatore premiered in Rome.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-19-poe-born",
+      "canonicalId": "edgar-allan-poe-born-1809",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 19): 1809: 'Edgar Allan Poe ... was born in Boston.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-19-tin-can-patent",
+      "canonicalId": "tin-can-patent-1825",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 19): 1825: 'Ezra Daggett and Thomas Kensett obtained a patent for a preservation process used to store food in tin cans.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-19-televised-press-conference",
+      "canonicalId": "first-televised-presidential-press-conference-1955",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 19): 1955: 'U.S. President Dwight D. Eisenhower held the first-ever televised presidential press conference.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-20-obama-inaugurated",
+      "canonicalId": "obama-inaugurated-2009",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 20): 2009: 'Barack Obama was sworn in as the 44th president of the United States, becoming the first African American to hold the office.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-20-iran-hostages-freed",
+      "canonicalId": "iran-hostage-crisis-ends-1981",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 20): 1981: 'The Iran hostage crisis ended when Ayatollah Ruhollah Khomeini released 52 Americans who had been held hostage for 15 months.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east",
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-20-cook-kauai",
+      "canonicalId": "cook-lands-on-kauai-1778",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 20): 1778: 'British explorer James Cook landed at Waimea, on Kauai island.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-20-amilcar-cabral",
+      "canonicalId": "amilcar-cabral-assassinated-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 20): 1973: 'Amilcar Lopes Cabral was assassinated as he led efforts to secure Guinea-Bissau's independence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-20-fellini-born",
+      "canonicalId": "federico-fellini-born-1920",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 20): 1920: 'Italian director Federico Fellini, born this day in 1920, was one of the most-celebrated filmmakers in the post-World War II period.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-20"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-21-concorde",
+      "canonicalId": "concorde-begins-service-1976",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1976: 'the Concorde, a commercial aircraft built with funding from the British and French governments, began regular service'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-21-louis-xvi",
+      "canonicalId": "louis-xvi-executed-1793",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1793: 'Louis XVI, the last Bourbon king of France, was executed by guillotine in Paris.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-21-lenin-dies",
+      "canonicalId": "lenin-dies-1924",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1924: Vladimir Lenin died."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-21-dior-born",
+      "canonicalId": "christian-dior-born-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1905: Fashion designer Christian Dior born in Granville, France."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-21-domingo-born",
+      "canonicalId": "placido-domingo-born-1941",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 21): 1941: Singer Placido Domingo born in Madrid."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-21"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-22-victoria-dies",
+      "canonicalId": "queen-victoria-dies-1901",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1901: 'Queen Victoria ... died at age 81' after reigning 'more than 60 years.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-22-bloody-sunday-1905",
+      "canonicalId": "bloody-sunday-st-petersburg-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1905: 'Bloody Sunday,' when 'Russian workers marching on St. Petersburg were fired on by Russian troops.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-22-evo-morales",
+      "canonicalId": "evo-morales-sworn-in-2006",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 2006: 'Evo Morales was sworn in as president of Bolivia, becoming the first person of indigenous descent' to hold that office."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-22-roberta-bondar",
+      "canonicalId": "roberta-bondar-in-space-1992",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1992: 'Roberta Bondar became the first Canadian woman and the first neurologist to travel into space.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-22-byron-born",
+      "canonicalId": "lord-byron-born-1788",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 22): 1788: Lord Byron born; 'British Romantic poet and satirist' who 'captured the imagination of Europe with his personality and work.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-22"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

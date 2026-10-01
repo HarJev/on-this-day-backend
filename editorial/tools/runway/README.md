@@ -7,6 +7,7 @@ Not used by the runtime or importers. Run from the repository root.
   Re-adding an id that `load_existing()` loaded replaces it, so batch scripts can be rerun.
   `load_existing()` extends a batch that has already been written.
 - `b1002.py` ... `b1218.py`: one script per weekly batch (named by start date).
+  `b1226.py` writes the five Dec 26 to Jan 31 batches in one run.
   `b1009.py` extends an already-written batch via `load_existing()`; the
   Nov 13 and later scripts cite Britannica's dated On This Day pages.
   Run it with `PYTHONPATH=editorial/tools/runway python3 editorial/tools/runway/b1009.py`.

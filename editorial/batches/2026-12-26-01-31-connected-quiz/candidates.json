@@ -1,0 +1,972 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-26-01-31-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "frisbee-patent-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "frisbee-patent-company",
+      "workingClaim": "Which toy company was granted a 1967 US patent for the flying disc best known as the Frisbee? Answer: Wham-O. Proposed featured link on 12-26: frisbee-patent-issued-1967. Exact match on the featured patent; the distractors are other large US toy makers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "babbage-analytical-engine",
+      "kind": "quiz",
+      "proposedCanonicalId": "babbage-analytical-engine",
+      "workingClaim": "Charles Babbage's Analytical Engine, designed in the 1830s, is seen as the forerunner of what? Answer: The modern digital computer. Proposed additional link on 12-26: charles-babbage-born-1791. Explains why Babbage's birth is worth marking; all distractors are 19th-century inventions.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charles-Babbage"
+      ]
+    },
+    {
+      "candidateId": "hagia-sophia-modern-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "hagia-sophia-modern-city",
+      "workingClaim": "Hagia Sophia was built in Constantinople. What is that city called today? Answer: Istanbul. Proposed featured link on 12-27: hagia-sophia-consecrated-537. Locates the featured monument; Ankara is the tempting capital-city distractor.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Hagia-Sophia"
+      ]
+    },
+    {
+      "candidateId": "beagle-voyage-length",
+      "kind": "quiz",
+      "proposedCanonicalId": "beagle-voyage-length",
+      "workingClaim": "Roughly how long did Charles Darwin's voyage on HMS Beagle last? Answer: About five years. Proposed additional link on 12-27: darwin-sails-on-beagle-1831. Scale of the voyage that began on this day; the options are spaced so only one fits 1831-36.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charles-Darwin"
+      ]
+    },
+    {
+      "candidateId": "kepler-elliptical-orbits",
+      "kind": "quiz",
+      "proposedCanonicalId": "kepler-elliptical-orbits",
+      "workingClaim": "Johannes Kepler's first law states that planets move in circular orbits with the Sun at the center. Answer: False. Proposed additional link on 12-27: johannes-kepler-born-1571. Targets the common circular-orbit misconception that Kepler overturned.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Johannes-Kepler"
+      ]
+    },
+    {
+      "candidateId": "indonesia-colonial-power",
+      "kind": "quiz",
+      "proposedCanonicalId": "indonesia-colonial-power",
+      "workingClaim": "From which European country did Indonesia win its independence? Answer: The Netherlands. Proposed additional link on 12-27: dutch-transfer-sovereignty-indonesia-1949. Accessible decolonization hook; Portugal and Britain also held territory in the region.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "lumiere-first-screening-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "lumiere-first-screening-city",
+      "workingClaim": "In which city did the Lumiere brothers first demonstrate their Cinematographe to the public in 1895? Answer: Paris. Proposed featured link on 12-28: lumiere-first-public-film-screening-1895. Exact match; Lyon, the brothers' home city, is the deliberate near-miss.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-28"
+      ]
+    },
+    {
+      "candidateId": "westminster-abbey-founder-king",
+      "kind": "quiz",
+      "proposedCanonicalId": "westminster-abbey-founder-king",
+      "workingClaim": "Which English king built the abbey church at Westminster that was consecrated in 1065, shortly before his death? Answer: Edward the Confessor. Proposed additional link on 12-28: westminster-abbey-consecrated-1065. William and Harold are the kings of 1066, the natural confusions.",
+      "sourceUrls": [
+        "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
+      ]
+    },
+    {
+      "candidateId": "markievicz-took-seat",
+      "kind": "quiz",
+      "proposedCanonicalId": "markievicz-took-seat",
+      "workingClaim": "Constance Markievicz, the first woman elected to the British House of Commons, took her seat at Westminster. Answer: False. Proposed additional link on 12-28: constance-markievicz-elected-1918. The surprising twist behind the milestone.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Constance-Markievicz"
+      ]
+    },
+    {
+      "candidateId": "ireland-irish-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "ireland-irish-name",
+      "workingClaim": "What is the official Irish-language name of the state of Ireland? Answer: Eire. Proposed featured link on 12-29: irish-constitution-in-force-1937. Distractors are the Celtic names of Scotland, Wales and Cornwall.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Ireland",
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "texas-before-annexation",
+      "kind": "quiz",
+      "proposedCanonicalId": "texas-before-annexation",
+      "workingClaim": "What was Texas immediately before the United States annexed it in 1845? Answer: An independent republic. Proposed additional link on 12-29: texas-statehood-1845. Asks about status, not the date; Spain is the earlier ruler and a tempting trap.",
+      "sourceUrls": [
+        "https://www.tshaonline.org/handbook/entries/annexation",
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "gladstone-terms-as-pm",
+      "kind": "quiz",
+      "proposedCanonicalId": "gladstone-terms-as-pm",
+      "workingClaim": "How many times did William Gladstone serve as British prime minister? Answer: Four. Proposed additional link on 12-29: william-gladstone-born-1809. A memorable record; adjacent numbers make it a real recall question.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "ussr-capital",
+      "kind": "quiz",
+      "proposedCanonicalId": "ussr-capital",
+      "workingClaim": "Which city was the capital of the Soviet Union when it was established in 1922? Answer: Moscow. Proposed featured link on 12-30: soviet-union-established-1922. St. Petersburg, the imperial capital, is the trap; Kyiv and Minsk were capitals of founding republics.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "rizal-noli-me-tangere-target",
+      "kind": "quiz",
+      "proposedCanonicalId": "rizal-noli-me-tangere-target",
+      "workingClaim": "Jose Rizal's novel Noli Me Tangere exposed the abuses of which colonial power in the Philippines? Answer: Spain. Proposed additional link on 12-30: jose-rizal-executed-1896. The United States, the later colonial power, is the main trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Jose-Rizal"
+      ]
+    },
+    {
+      "candidateId": "gadsden-purchase-seller",
+      "kind": "quiz",
+      "proposedCanonicalId": "gadsden-purchase-seller",
+      "workingClaim": "From which country did the United States buy land in the 1853 Gadsden Purchase? Answer: Mexico. Proposed additional link on 12-30: gadsden-purchase-signed-1853. Other powers that sold or ceded North American land are the distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "times-square-named-for",
+      "kind": "quiz",
+      "proposedCanonicalId": "times-square-named-for",
+      "workingClaim": "Times Square in New York City takes its name from what? Answer: The New York Times newspaper. Proposed featured link on 12-31: times-square-ball-drop-1907. Links the ball drop to the newspaper that started it; the distractors are plausible folk etymologies.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Times-Square"
+      ]
+    },
+    {
+      "candidateId": "tallest-building-after-taipei-101",
+      "kind": "quiz",
+      "proposedCanonicalId": "tallest-building-after-taipei-101",
+      "workingClaim": "Which building, opened in Dubai in 2010, took the title of world's tallest from Taipei 101? Answer: Burj Khalifa. Proposed additional link on 12-31: taipei-101-opens-2004, burj-khalifa-opens-2010. Connects two record-setting openings in this batch; the prompt names Dubai so only one option fits.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31",
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "ottawa-chosen-by",
+      "kind": "quiz",
+      "proposedCanonicalId": "ottawa-chosen-by",
+      "workingClaim": "Who chose Ottawa as the national capital of Canada in 1857? Answer: Queen Victoria. Proposed additional link on 12-31: ottawa-named-capital-of-canada-1857. Macdonald and Durham are prominent figures of the period; Champlain is a well-known earlier name.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "euro-founding-members",
+      "kind": "quiz",
+      "proposedCanonicalId": "euro-founding-members",
+      "workingClaim": "How many European Union countries adopted the euro when it was introduced in 1999? Answer: 11. Proposed featured link on 01-01: euro-introduced-1999. Six echoes the original EEC founders; 15 and 27 are later EU sizes.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "wto-predecessor",
+      "kind": "quiz",
+      "proposedCanonicalId": "wto-predecessor",
+      "workingClaim": "The World Trade Organization, established in 1995, succeeded which earlier arrangement? Answer: General Agreement on Tariffs and Trade. Proposed additional link on 01-01: world-trade-organization-established-1995. All four are postwar economic institutions; only GATT was replaced by the WTO.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/World-Trade-Organization"
+      ]
+    },
+    {
+      "candidateId": "batista-toppled-by",
+      "kind": "quiz",
+      "proposedCanonicalId": "batista-toppled-by",
+      "workingClaim": "Whose rebel forces toppled the Cuban dictator Fulgencio Batista in 1959? Answer: Fidel Castro. Proposed additional link on 01-01: batista-flees-cuba-1959. Distractors are other Latin American strongmen, none of them Cuban revolutionaries.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "emancipation-proclamation-scope",
+      "kind": "quiz",
+      "proposedCanonicalId": "emancipation-proclamation-scope",
+      "workingClaim": "The Emancipation Proclamation of January 1, 1863, declared freedom for enslaved people in the states then in rebellion against the Union. Answer: True. Proposed additional link on 01-01: emancipation-proclamation-issued-1863. Pairs with the published preliminary-proclamation question; this one states the proclamation's actual scope.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "order-january-first-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-january-first-milestones",
+      "workingClaim": "Put these New Year's Day milestones in order from earliest to latest. Answer: Haiti declares independence < Lincoln issues the Emancipation Proclamation < Batista flees Cuba < Eleven countries adopt the euro. Proposed additional link on 01-01: haiti-declares-independence-1804, emancipation-proclamation-issued-1863, batista-flees-cuba-1959, euro-introduced-1999. Every item is one of the day's events, all cited on Britannica's January 1 page.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "granada-conquerors",
+      "kind": "quiz",
+      "proposedCanonicalId": "granada-conquerors",
+      "workingClaim": "Which monarchs captured Granada in 1492, completing the Christian conquest of Spain? Answer: Ferdinand II and Isabella I. Proposed featured link on 01-02: granada-surrenders-1492. Every distractor is a real royal couple with Spanish ties from the following century.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "port-arthur-war-enemy",
+      "kind": "quiz",
+      "proposedCanonicalId": "port-arthur-war-enemy",
+      "workingClaim": "Russia surrendered Port Arthur in 1905 during a war against which country? Answer: Japan. Proposed additional link on 01-02: port-arthur-surrenders-1905. China is the trap because the port lies in China.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "stardust-sample",
+      "kind": "quiz",
+      "proposedCanonicalId": "stardust-sample",
+      "workingClaim": "What did NASA's Stardust spacecraft collect in January 2004? Answer: Dust from a comet. Proposed additional link on 01-02: stardust-collects-comet-dust-2004. Solar-wind particles (NASA's Genesis mission) are the close distractor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "tolkien-birth-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "tolkien-birth-country",
+      "workingClaim": "In which country was J.R.R. Tolkien born? Answer: South Africa. Proposed featured link on 01-03: jrr-tolkien-born-1892. Surprising origin; New Zealand is the film-location trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/J-R-R-Tolkien"
+      ]
+    },
+    {
+      "candidateId": "fiftieth-state-1959",
+      "kind": "quiz",
+      "proposedCanonicalId": "fiftieth-state-1959",
+      "workingClaim": "Alaska became the 49th US state in January 1959. Which became the 50th later that year? Answer: Hawaii. Proposed additional link on 01-03: alaska-becomes-49th-state-1959. Puerto Rico and Guam are territories that never became states; Arizona joined in 1912.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3",
+        "https://www.britannica.com/place/Hawaii-state"
+      ]
+    },
+    {
+      "candidateId": "braille-made-of",
+      "kind": "quiz",
+      "proposedCanonicalId": "braille-made-of",
+      "workingClaim": "Each braille character is formed from what? Answer: Raised dots. Proposed featured link on 01-04: louis-braille-born-1809. Basic mechanism of the featured inventor's system.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/braille-writing-system"
+      ]
+    },
+    {
+      "candidateId": "burma-modern-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "burma-modern-name",
+      "workingClaim": "Burma, which gained independence from Britain in 1948, is now officially known as what? Answer: Myanmar. Proposed additional link on 01-04: burma-gains-independence-1948. Sri Lanka (formerly Ceylon) also won independence from Britain in 1948, a strong distractor.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "waiting-for-godot-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "waiting-for-godot-author",
+      "workingClaim": "Who wrote the play Waiting for Godot? Answer: Samuel Beckett. Proposed featured link on 01-05: waiting-for-godot-premieres-1953. Distractors are contemporaries in the theater of the absurd and existentialism.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Waiting-for-Godot",
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "eris-pluto-reclassified",
+      "kind": "quiz",
+      "proposedCanonicalId": "eris-pluto-reclassified",
+      "workingClaim": "The discovery of the dwarf planet Eris helped lead astronomers to reclassify Pluto as a dwarf planet. Answer: True. Proposed additional link on 01-05: eris-discovered-2005. Why an obscure discovery mattered.",
+      "sourceUrls": [
+        "https://science.nasa.gov/dwarf-planets/eris/"
+      ]
+    },
+    {
+      "candidateId": "golden-gate-connects",
+      "kind": "quiz",
+      "proposedCanonicalId": "golden-gate-connects",
+      "workingClaim": "The Golden Gate Bridge connects San Francisco with which county? Answer: Marin. Proposed additional link on 01-05: golden-gate-bridge-construction-begins-1933. All four are Bay Area counties; Alameda is across the Bay Bridge instead.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "ford-five-dollar-day",
+      "kind": "quiz",
+      "proposedCanonicalId": "ford-five-dollar-day",
+      "workingClaim": "In January 1914, Henry Ford raised his workers' basic pay to how much a day? Answer: $5.00. Proposed additional link on 01-05: ford-five-dollar-day-1914. Includes the previous $2.40 wage as the before-and-after trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "four-freedoms-not-included",
+      "kind": "quiz",
+      "proposedCanonicalId": "four-freedoms-not-included",
+      "workingClaim": "Which of these was NOT one of Franklin D. Roosevelt's Four Freedoms? Answer: Freedom of assembly. Proposed featured link on 01-06: four-freedoms-speech-1941. Freedom of assembly sounds like it belongs, which makes the list memorable.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Four-Freedoms"
+      ]
+    },
+    {
+      "candidateId": "henry-viii-wives-count",
+      "kind": "quiz",
+      "proposedCanonicalId": "henry-viii-wives-count",
+      "workingClaim": "Anne of Cleves was one of Henry VIII's wives. How many times did Henry marry? Answer: Six. Proposed additional link on 01-06: henry-viii-marries-anne-of-cleves-1540. Well-known fact that anchors the lesser-known wedding.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "marian-anderson-1939-concert",
+      "kind": "quiz",
+      "proposedCanonicalId": "marian-anderson-1939-concert",
+      "workingClaim": "Barred from Constitution Hall in 1939, Marian Anderson sang instead before 75,000 people at which landmark? Answer: The Lincoln Memorial. Proposed featured link on 01-07: marian-anderson-met-debut-1955. Her most famous concert, giving context for the featured debut.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Marian-Anderson"
+      ]
+    },
+    {
+      "candidateId": "phnom-penh-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "phnom-penh-country",
+      "workingClaim": "Phnom Penh, taken by Vietnamese forces in January 1979, is the capital of which country? Answer: Cambodia. Proposed additional link on 01-07: vietnamese-forces-take-phnom-penh-1979. Neighboring countries as distractors; Vietnam is the invading power.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "fourteen-points-association",
+      "kind": "quiz",
+      "proposedCanonicalId": "fourteen-points-association",
+      "workingClaim": "Woodrow Wilson's fourteenth point called for a general association of nations. What did it become? Answer: The League of Nations. Proposed additional link on 01-08: wilson-fourteen-points-1918, league-of-nations-established-1920. Links two events in this batch; the UN is the later successor and the main trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Fourteen-Points",
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "hawking-best-seller",
+      "kind": "quiz",
+      "proposedCanonicalId": "hawking-best-seller",
+      "workingClaim": "What was the title of Stephen Hawking's best-selling 1988 book? Answer: A Brief History of Time. Proposed additional link on 01-08: stephen-hawking-born-1942. Distractors are other famous popular-science books by different authors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Stephen-Hawking"
+      ]
+    },
+    {
+      "candidateId": "elvis-memphis-home",
+      "kind": "quiz",
+      "proposedCanonicalId": "elvis-memphis-home",
+      "workingClaim": "What is the name of Elvis Presley's Memphis estate, now a major tourist attraction? Answer: Graceland. Proposed additional link on 01-08: elvis-presley-born-1935. Other famous American estates as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Elvis-Presley"
+      ]
+    },
+    {
+      "candidateId": "joan-of-arc-byname",
+      "kind": "quiz",
+      "proposedCanonicalId": "joan-of-arc-byname",
+      "workingClaim": "Joan of Arc became known as the Maid of which city, after the victory she led there in 1429? Answer: Orleans. Proposed featured link on 01-09: joan-of-arc-trial-begins-1431. Rouen (her trial) and Reims (the coronation she secured) are the near-misses.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Saint-Joan-of-Arc"
+      ]
+    },
+    {
+      "candidateId": "rubicon-boundary",
+      "kind": "quiz",
+      "proposedCanonicalId": "rubicon-boundary",
+      "workingClaim": "In Julius Caesar's time, the Rubicon marked the boundary between Italy and which province? Answer: Cisalpine Gaul. Proposed featured link on 01-10: caesar-crosses-rubicon-49bce. Explains why the crossing was decisive; all options were Roman provinces.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Rubicon"
+      ]
+    },
+    {
+      "candidateId": "common-sense-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "common-sense-author",
+      "workingClaim": "Who wrote Common Sense, the 1776 pamphlet urging American independence? Answer: Thomas Paine. Proposed additional link on 01-10: common-sense-published-1776. Other revolutionary writers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "first-un-general-assembly-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-un-general-assembly-city",
+      "workingClaim": "In which city did the first United Nations General Assembly meet in January 1946? Answer: London. Proposed additional link on 01-10: first-un-general-assembly-1946. New York, Geneva and San Francisco are each tied to the UN or League, so recall matters.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "hillary-everest-partner",
+      "kind": "quiz",
+      "proposedCanonicalId": "hillary-everest-partner",
+      "workingClaim": "Edmund Hillary first reached the summit of Mount Everest in 1953 with which climber? Answer: Tenzing Norgay. Proposed additional link on 01-11: edmund-hillary-dies-2008. Hunt led the 1953 expedition; Mallory and Messner are other famous Everest names.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Edmund-Hillary"
+      ]
+    },
+    {
+      "candidateId": "earhart-atlantic-before-pacific",
+      "kind": "quiz",
+      "proposedCanonicalId": "earhart-atlantic-before-pacific",
+      "workingClaim": "Before her 1935 solo flight from Hawaii to California, Amelia Earhart had already flown solo across the Atlantic. Answer: True. Proposed additional link on 01-11: earhart-hawaii-to-california-1935. Places the Pacific flight in her career.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Amelia-Earhart"
+      ]
+    },
+    {
+      "candidateId": "gordy-label-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "gordy-label-name",
+      "workingClaim": "Berry Gordy's Detroit record business, founded in January 1959, became famous under which name? Answer: Motown. Proposed featured link on 01-12: berry-gordy-launches-tamla-records-1959. Other landmark American soul and R&B labels as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Motown",
+        "https://www.britannica.com/on-this-day/January-12"
+      ]
+    },
+    {
+      "candidateId": "jaccuse-defended-officer",
+      "kind": "quiz",
+      "proposedCanonicalId": "jaccuse-defended-officer",
+      "workingClaim": "Emile Zola's open letter J'accuse defended which wrongly convicted army officer? Answer: Alfred Dreyfus. Proposed featured link on 01-13: zola-publishes-jaccuse-1898. Other French generals and officers of the era as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-13"
+      ]
+    },
+    {
+      "candidateId": "huygens-built-by-nasa",
+      "kind": "quiz",
+      "proposedCanonicalId": "huygens-built-by-nasa",
+      "workingClaim": "The Huygens probe that landed on Saturn's moon Titan in 2005 was built by NASA. Answer: False. Proposed featured link on 01-14: huygens-lands-on-titan-2005. Corrects a common assumption about the landing; complements the published Titan question.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+      ]
+    },
+    {
+      "candidateId": "tosca-composer",
+      "kind": "quiz",
+      "proposedCanonicalId": "tosca-composer",
+      "workingClaim": "Who composed the opera Tosca, first performed in Rome in 1900? Answer: Giacomo Puccini. Proposed additional link on 01-14: tosca-premieres-1900. Other great opera composers as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14"
+      ]
+    },
+    {
+      "candidateId": "jasmine-revolution-wave",
+      "kind": "quiz",
+      "proposedCanonicalId": "jasmine-revolution-wave",
+      "workingClaim": "Tunisia's 2011 uprising, which drove President Ben Ali from power, inspired which wave of protests? Answer: The Arab Spring. Proposed additional link on 01-14: ben-ali-steps-down-2011. Distractors are other named protest movements, including Lebanon's earlier Cedar Revolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Jasmine-Revolution"
+      ]
+    },
+    {
+      "candidateId": "british-museum-first-home",
+      "kind": "quiz",
+      "proposedCanonicalId": "british-museum-first-home",
+      "workingClaim": "When the British Museum opened in 1759, its collections were displayed in which London mansion? Answer: Montagu House. Proposed featured link on 01-15: british-museum-opens-1759. Hard: all four are historic London mansions with institutional uses.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/British-Museum"
+      ]
+    },
+    {
+      "candidateId": "first-american-woman-in-space",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-american-woman-in-space",
+      "workingClaim": "Which member of NASA's 1978 astronaut class became the first American woman in space? Answer: Sally Ride. Proposed additional link on 01-16: nasa-selects-first-women-astronauts-1978. Other notable American women in spaceflight history as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Sally-Ride"
+      ]
+    },
+    {
+      "candidateId": "popeye-strength-food",
+      "kind": "quiz",
+      "proposedCanonicalId": "popeye-strength-food",
+      "workingClaim": "Popeye the Sailor famously gets his strength from eating what? Answer: Spinach. Proposed featured link on 01-17: popeye-debuts-1929. A light, accessible hook for the featured debut.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "franklin-birth-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "franklin-birth-city",
+      "workingClaim": "In which city was Benjamin Franklin born? Answer: Boston. Proposed additional link on 01-17: benjamin-franklin-born-1706. Philadelphia, his adopted home, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Benjamin-Franklin"
+      ]
+    },
+    {
+      "candidateId": "german-empire-proclaimed-where",
+      "kind": "quiz",
+      "proposedCanonicalId": "german-empire-proclaimed-where",
+      "workingClaim": "In January 1871, William I was acclaimed German emperor in which French town, then occupied by Prussian forces? Answer: Versailles. Proposed featured link on 01-18: german-empire-proclaimed-1871. Sedan (the decisive 1870 battle) and Strasbourg (annexed in 1871) are the close distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/William-I-emperor-of-Germany"
+      ]
+    },
+    {
+      "candidateId": "poe-genre-pioneered",
+      "kind": "quiz",
+      "proposedCanonicalId": "poe-genre-pioneered",
+      "workingClaim": "Edgar Allan Poe's 'The Murders in the Rue Morgue' (1841) is credited with pioneering which genre? Answer: The detective story. Proposed additional link on 01-19: edgar-allan-poe-born-1809. Distractors are established genres Poe did not originate.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Edgar-Allan-Poe"
+      ]
+    },
+    {
+      "candidateId": "obama-senate-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "obama-senate-state",
+      "workingClaim": "Before becoming president, Barack Obama served as a US senator from which state? Answer: Illinois. Proposed featured link on 01-20: obama-inaugurated-2009. Hawaii, his birthplace, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Barack-Obama"
+      ]
+    },
+    {
+      "candidateId": "concorde-partner-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "concorde-partner-country",
+      "workingClaim": "Concorde was built with funding from the British government and the government of which other country? Answer: France. Proposed featured link on 01-21: concorde-begins-service-1976. Other aerospace nations of the era as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "louis-xvi-queen",
+      "kind": "quiz",
+      "proposedCanonicalId": "louis-xvi-queen",
+      "workingClaim": "Louis XVI was executed in January 1793. Which queen, his wife, was guillotined later that year? Answer: Marie-Antoinette. Proposed additional link on 01-21: louis-xvi-executed-1793. Napoleon's two empresses and an earlier queen as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France",
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "petrograd-renamed-1924",
+      "kind": "quiz",
+      "proposedCanonicalId": "petrograd-renamed-1924",
+      "workingClaim": "After Lenin's death in January 1924, the city of Petrograd was renamed what? Answer: Leningrad. Proposed additional link on 01-21: lenin-dies-1924, siege-of-leningrad-ends-1944. Links Lenin's death to the Leningrad siege event; the other Soviet-era city names are the distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Saint-Petersburg-Russia"
+      ]
+    },
+    {
+      "candidateId": "victoria-successor",
+      "kind": "quiz",
+      "proposedCanonicalId": "victoria-successor",
+      "workingClaim": "Who succeeded Queen Victoria on the British throne when she died in 1901? Answer: Edward VII. Proposed featured link on 01-22: queen-victoria-dies-1901. William IV was her predecessor, Albert her late husband, George V her grandson.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom"
+      ]
+    },
+    {
+      "candidateId": "blackwell-birth-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "blackwell-birth-country",
+      "workingClaim": "Elizabeth Blackwell, the first woman to graduate from medical school in the United States, was born in which country? Answer: England. Proposed featured link on 01-23: elizabeth-blackwell-md-1849. A surprising origin for an American first.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Elizabeth-Blackwell"
+      ]
+    },
+    {
+      "candidateId": "gold-rush-mill-owner",
+      "kind": "quiz",
+      "proposedCanonicalId": "gold-rush-mill-owner",
+      "workingClaim": "California's gold was first found in 1848 at a sawmill belonging to which settler? Answer: John Sutter. Proposed featured link on 01-24: gold-discovered-california-1848. Other famous figures of the Gold Rush era as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/California-Gold-Rush"
+      ]
+    },
+    {
+      "candidateId": "macintosh-ad-novel",
+      "kind": "quiz",
+      "proposedCanonicalId": "macintosh-ad-novel",
+      "workingClaim": "Apple's Super Bowl advertisement for the Macintosh in January 1984 was inspired by which novel? Answer: Nineteen Eighty-Four. Proposed additional link on 01-24: apple-introduces-macintosh-1984. Other dystopian classics as distractors, including Orwell's own Animal Farm.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22",
+        "https://www.britannica.com/on-this-day/January-24"
+      ]
+    },
+    {
+      "candidateId": "first-winter-olympics-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-winter-olympics-country",
+      "workingClaim": "The first Winter Olympic Games were held in 1924 in which country? Answer: France. Proposed featured link on 01-25: first-winter-olympics-open-1924. Other Alpine and Nordic winter-sport nations as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
+      ]
+    },
+    {
+      "candidateId": "sonja-henie-chamonix",
+      "kind": "quiz",
+      "proposedCanonicalId": "sonja-henie-chamonix",
+      "workingClaim": "Sonja Henie, later a three-time Olympic figure skating champion, won a medal at the first Winter Olympics in 1924. Answer: False. Proposed featured link on 01-25: first-winter-olympics-open-1924. A memorable detail from the featured Games.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
+      ]
+    },
+    {
+      "candidateId": "burns-new-year-song",
+      "kind": "quiz",
+      "proposedCanonicalId": "burns-new-year-song",
+      "workingClaim": "Which song, sung at New Year around the world, is associated with Robert Burns? Answer: Auld Lang Syne. Proposed additional link on 01-25: robert-burns-born-1759. Other well-known British Isles songs as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Robert-Burns"
+      ]
+    },
+    {
+      "candidateId": "woolf-literary-circle",
+      "kind": "quiz",
+      "proposedCanonicalId": "woolf-literary-circle",
+      "workingClaim": "Virginia Woolf was at the center of which circle of London writers and thinkers? Answer: The Bloomsbury group. Proposed additional link on 01-25: virginia-woolf-born-1882. Other famous literary circles from Oxford, Paris and New York.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Virginia-Woolf"
+      ]
+    },
+    {
+      "candidateId": "cullinan-presented-to",
+      "kind": "quiz",
+      "proposedCanonicalId": "cullinan-presented-to",
+      "workingClaim": "To which British monarch was the Cullinan diamond presented in 1907? Answer: Edward VII. Proposed featured link on 01-26: cullinan-diamond-found-1905. Victoria had died in 1901; George V and VI reigned later.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Cullinan-diamond",
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "mozart-opera",
+      "kind": "quiz",
+      "proposedCanonicalId": "mozart-opera",
+      "workingClaim": "Which of these operas did Wolfgang Amadeus Mozart compose? Answer: The Magic Flute. Proposed featured link on 01-27: mozart-born-1756. Famous operas by Bizet, Verdi and Beethoven as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+      ]
+    },
+    {
+      "candidateId": "auschwitz-location",
+      "kind": "quiz",
+      "proposedCanonicalId": "auschwitz-location",
+      "workingClaim": "The Auschwitz camp, liberated by Soviet troops in January 1945, was located in what is now Poland. Answer: True. Proposed additional link on 01-27: auschwitz-liberated-1945. Factual and restrained; corrects the assumption that the camp was in Germany.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Auschwitz"
+      ]
+    },
+    {
+      "candidateId": "lego-home-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "lego-home-country",
+      "workingClaim": "The LEGO company, which patented its interlocking brick in 1958, is based in which country? Answer: Denmark. Proposed featured link on 01-28: lego-brick-patent-1958. Sweden is the Scandinavian trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/LEGO"
+      ]
+    },
+    {
+      "candidateId": "challenger-teacher",
+      "kind": "quiz",
+      "proposedCanonicalId": "challenger-teacher",
+      "workingClaim": "Which teacher was among the seven crew members lost aboard Challenger in 1986? Answer: Christa McAuliffe. Proposed additional link on 01-28: challenger-disaster-1986. Judith Resnik was a mission specialist on the same flight, so the question asks specifically for the teacher; Morgan was McAuliffe's backup.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Challenger-disaster"
+      ]
+    },
+    {
+      "candidateId": "pride-prejudice-heroine",
+      "kind": "quiz",
+      "proposedCanonicalId": "pride-prejudice-heroine",
+      "workingClaim": "Who is the heroine of Jane Austen's Pride and Prejudice? Answer: Elizabeth Bennet. Proposed additional link on 01-28: pride-and-prejudice-published-1813. Heroines of other Austen novels as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Pride-and-Prejudice"
+      ]
+    },
+    {
+      "candidateId": "benz-motorwagen-wheels",
+      "kind": "quiz",
+      "proposedCanonicalId": "benz-motorwagen-wheels",
+      "workingClaim": "How many wheels did Karl Benz's patented Motorwagen of 1886 have? Answer: Three. Proposed featured link on 01-29: benz-patents-automobile-1886. Most people assume four; a vivid fact about the first car.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Karl-Benz"
+      ]
+    },
+    {
+      "candidateId": "chekhov-play",
+      "kind": "quiz",
+      "proposedCanonicalId": "chekhov-play",
+      "workingClaim": "Which of these plays did Anton Chekhov write? Answer: The Cherry Orchard. Proposed additional link on 01-29: anton-chekhov-born-1860. Plays by Ibsen, Strindberg and Gorky, his contemporaries.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Anton-Chekhov"
+      ]
+    },
+    {
+      "candidateId": "gandhi-1930-march-tax",
+      "kind": "quiz",
+      "proposedCanonicalId": "gandhi-1930-march-tax",
+      "workingClaim": "Gandhi's 1930 march to the sea at Dandi protested a British tax on what? Answer: Salt. Proposed additional link on 01-30: gandhi-assassinated-1948. Remembers Gandhi through his most famous campaign rather than his death.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Salt-March"
+      ]
+    },
+    {
+      "candidateId": "brexit-referendum-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "brexit-referendum-year",
+      "workingClaim": "The United Kingdom left the European Union on January 31, 2020. In which year did it vote to leave? Answer: 2016. Proposed featured link on 01-31: uk-leaves-european-union-2020. Close neighboring years as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Brexit"
+      ]
+    },
+    {
+      "candidateId": "schubert-unfinished",
+      "kind": "quiz",
+      "proposedCanonicalId": "schubert-unfinished",
+      "workingClaim": "Franz Schubert's Symphony in B minor is known by what nickname? Answer: Unfinished. Proposed additional link on 01-31: franz-schubert-born-1797. Nicknames of symphonies by Beethoven, Haydn and Mozart.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Franz-Schubert"
+      ]
+    },
+    {
+      "candidateId": "jackie-robinson-team",
+      "kind": "quiz",
+      "proposedCanonicalId": "jackie-robinson-team",
+      "workingClaim": "With which team did Jackie Robinson break Major League Baseball's color line in 1947? Answer: Brooklyn Dodgers. Proposed additional link on 01-31: jackie-robinson-born-1919. Other storied teams of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Jackie-Robinson"
+      ]
+    },
+    {
+      "candidateId": "stalingrad-modern-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "stalingrad-modern-name",
+      "workingClaim": "The city of Stalingrad, where Friedrich Paulus surrendered in January 1943, is now called what? Answer: Volgograd. Proposed additional link on 01-31: paulus-surrenders-at-stalingrad-1943. Donetsk was also once named Stalino; Leningrad and Kaliningrad are other Soviet-era names.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Stalingrad"
+      ]
+    },
+    {
+      "candidateId": "order-space-milestones-dec-jan",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-space-milestones-dec-jan",
+      "workingClaim": "Put these space milestones in order from earliest to latest. Answer: Surveyor 7 launches toward the Moon < Space shuttle Challenger is lost < Huygens lands on Titan < Chang'e 4 lands on the Moon's far side. Proposed additional link on 01-07: surveyor-7-launched-1968, challenger-disaster-1986, huygens-lands-on-titan-2005, change-4-lands-far-side-moon-2019. Every item is an event in this batch, each dated on its Britannica day page.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7",
+        "https://www.britannica.com/on-this-day/January-28",
+        "https://www.britannica.com/on-this-day/January-14",
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "order-writer-births-january",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-writer-births-january",
+      "workingClaim": "Put the births of these writers in order from earliest to latest. Answer: Lord Byron < Edgar Allan Poe < Anton Chekhov < J.R.R. Tolkien. Proposed additional link on 01-22: lord-byron-born-1788, edgar-allan-poe-born-1809, anton-chekhov-born-1860, jrr-tolkien-born-1892. Every item is a birth in this batch.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22",
+        "https://www.britannica.com/on-this-day/January-19",
+        "https://www.britannica.com/on-this-day/January-29",
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "link-identify-ada-lovelace",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-ada-lovelace",
+      "workingClaim": "Propose additional relation on 12-26 from unchanged published identify-ada-lovelace to charles-babbage-born-1791. The explanation describes Lovelace's 1843 notes on Babbage's Analytical Engine; Britannica's Babbage article covers the same notes.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ada-Lovelace",
+        "https://www.britannica.com/biography/Charles-Babbage"
+      ]
+    },
+    {
+      "candidateId": "link-identify-hagia-sophia",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-hagia-sophia",
+      "workingClaim": "Propose featured relation on 12-27 from unchanged published identify-hagia-sophia to hagia-sophia-consecrated-537. Exact match: the image question identifies the monument completed in 537, the year of the featured consecration.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Hagia-Sophia"
+      ]
+    },
+    {
+      "candidateId": "link-identify-charles-darwin",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-charles-darwin",
+      "workingClaim": "Propose additional relation on 12-27 from unchanged published identify-charles-darwin to darwin-sails-on-beagle-1831. Already related to the Beagle's return (1836); the departure is the start of the same voyage.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charles-Darwin"
+      ]
+    },
+    {
+      "candidateId": "link-identify-jose-rizal",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-jose-rizal",
+      "workingClaim": "Propose additional relation on 12-30 from unchanged published identify-jose-rizal to jose-rizal-executed-1896. The portrait identifies the reformer whose execution the event describes.",
+      "sourceUrls": [
+        "https://nhcp.gov.ph/jose-rizal/",
+        "https://www.britannica.com/biography/Jose-Rizal"
+      ]
+    },
+    {
+      "candidateId": "link-amundsen-first-south-pole",
+      "kind": "quiz",
+      "proposedCanonicalId": "amundsen-first-south-pole",
+      "workingClaim": "Propose additional relation on 12-30 from unchanged published amundsen-first-south-pole to scott-sets-farthest-south-record-1902. Scott's 1902 farthest-south record was a step in the race for the pole that Amundsen won in 1911.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-14",
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "link-panama-canal-transfer-year",
+      "kind": "quiz",
+      "proposedCanonicalId": "panama-canal-transfer-year",
+      "workingClaim": "Propose additional relation on 12-31 from unchanged published panama-canal-transfer-year to panama-canal-handed-to-panama-1999. Exact match. The event names the year, so reading the story first reveals the answer; that is learning, not leakage in the quiz itself.",
+      "sourceUrls": [
+        "https://pancanal.com/en/history-of-the-panama-canal/",
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "link-haitian-revolution-outcome",
+      "kind": "quiz",
+      "proposedCanonicalId": "haitian-revolution-outcome",
+      "workingClaim": "Propose additional relation on 01-01 from unchanged published haitian-revolution-outcome to haiti-declares-independence-1804. Exact match: the question asks which country declared independence after the revolution in Saint-Domingue.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Haitian-Revolution",
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "link-alhambra-nasrid-palace",
+      "kind": "quiz",
+      "proposedCanonicalId": "alhambra-nasrid-palace",
+      "workingClaim": "Propose featured relation on 01-02 from unchanged published alhambra-nasrid-palace to granada-surrenders-1492. The Nasrid dynasty that built the Alhambra ruled the kingdom of Granada that Ferdinand and Isabella captured.",
+      "sourceUrls": [
+        "https://whc.unesco.org/en/list/314",
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "link-south-africa-1994-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "south-africa-1994-president",
+      "workingClaim": "Propose featured relation on 01-08 from unchanged published south-africa-1994-president to african-national-congress-founded-1912. The explanation names the ANC's 1994 election victory, the outcome of the movement founded in 1912.",
+      "sourceUrls": [
+        "https://www.nelsonmandela.org/biography",
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    },
+    {
+      "candidateId": "link-versailles-league-created",
+      "kind": "quiz",
+      "proposedCanonicalId": "versailles-league-created",
+      "workingClaim": "Propose additional relation on 01-10 from unchanged published versailles-league-created to league-of-nations-established-1920. Exact match: the question asks which body emerged from the peace conference; the event is its establishment.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1914-1920/paris-peace",
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "link-united-states-league-member",
+      "kind": "quiz",
+      "proposedCanonicalId": "united-states-league-member",
+      "workingClaim": "Propose additional relation on 01-10 from unchanged published united-states-league-member to league-of-nations-established-1920. A well-known misconception about the League founded on this day.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1914-1920/league",
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "link-huygens-titan-landing",
+      "kind": "quiz",
+      "proposedCanonicalId": "huygens-titan-landing",
+      "workingClaim": "Propose featured relation on 01-14 from unchanged published huygens-titan-landing to huygens-lands-on-titan-2005. Exact match: the explanation states the January 14, 2005 landing. Already related to Cassini's launch.",
+      "sourceUrls": [
+        "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+      ]
+    },
+    {
+      "candidateId": "link-identify-queen-liliuokalani",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-queen-liliuokalani",
+      "workingClaim": "Propose additional relation on 01-17 from unchanged published identify-queen-liliuokalani to liliuokalani-deposed-1893. The portrait identifies the last reigning Hawaiian monarch, deposed on this day.",
+      "sourceUrls": [
+        "https://www.loc.gov/pictures/item/2016651074/",
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "link-identify-winston-churchill",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-winston-churchill",
+      "workingClaim": "Propose additional relation on 01-24 from unchanged published identify-winston-churchill to winston-churchill-dies-1965. The portrait identifies the wartime prime minister whose death the event marks.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Winston-Churchill"
+      ]
+    },
+    {
+      "candidateId": "link-india-independence-1947",
+      "kind": "quiz",
+      "proposedCanonicalId": "india-independence-1947",
+      "workingClaim": "Propose additional relation on 01-26 from unchanged published india-independence-1947 to india-becomes-republic-1950. Independence in 1947 preceded the 1950 republic; together they mark the end of British rule.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Indian-Independence-Act-1947",
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "link-mozart-death-age",
+      "kind": "quiz",
+      "proposedCanonicalId": "mozart-death-age",
+      "workingClaim": "Propose featured relation on 01-27 from unchanged published mozart-death-age to mozart-born-1756. Mozart's age at death (35) follows from his birth on this day in 1756.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-5",
+        "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+      ]
+    },
+    {
+      "candidateId": "link-discovery-sts26-return-to-flight",
+      "kind": "quiz",
+      "proposedCanonicalId": "discovery-sts26-return-to-flight",
+      "workingClaim": "Propose additional relation on 01-28 from unchanged published discovery-sts26-return-to-flight to challenger-disaster-1986. The question is about the return to flight after the Challenger loss; already related to that 1988 flight.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/SP-4219/Chapter15.html",
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "link-identify-mahatma-gandhi",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-mahatma-gandhi",
+      "workingClaim": "Propose additional relation on 01-30 from unchanged published identify-mahatma-gandhi to gandhi-assassinated-1948. The portrait identifies Gandhi; already related to his birth.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Mahatma-Gandhi"
+      ]
+    },
+    {
+      "candidateId": "link-beatles-home-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "beatles-home-city",
+      "workingClaim": "Propose featured relation on 01-30 from unchanged published beatles-home-city to beatles-rooftop-concert-1969. Accessible Beatles hook for their last live performance; already related to Love Me Do.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/please-please-me",
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    }
+  ]
+}

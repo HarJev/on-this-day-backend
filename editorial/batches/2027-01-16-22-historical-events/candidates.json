@@ -1,0 +1,313 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-16-22-historical-events",
+  "candidates": [
+    {
+      "candidateId": "jan-16-sirleaf",
+      "kind": "event",
+      "proposedCanonicalId": "ellen-johnson-sirleaf-sworn-in-2006",
+      "workingClaim": "January 16, 2006: On January 16, 2006, Ellen Johnson Sirleaf, the first woman elected head of state of an African country, was sworn in as president of Liberia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-16"
+      ]
+    },
+    {
+      "candidateId": "jan-16-chapultepec",
+      "kind": "event",
+      "proposedCanonicalId": "el-salvador-peace-accords-1992",
+      "workingClaim": "January 16, 1992: On January 16, 1992, the civil war in El Salvador ended as the government and the Farabundo Marti National Liberation Front signed the Chapultepec Peace Accords in Mexico City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-16"
+      ]
+    },
+    {
+      "candidateId": "jan-16-nasa-women",
+      "kind": "event",
+      "proposedCanonicalId": "nasa-selects-first-women-astronauts-1978",
+      "workingClaim": "January 16, 1978: On January 16, 1978, NASA announced its newest class of astronauts, which for the first time included six women.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-16"
+      ]
+    },
+    {
+      "candidateId": "jan-16-charles-v-spain",
+      "kind": "event",
+      "proposedCanonicalId": "charles-v-renounces-spain-1556",
+      "workingClaim": "January 16, 1556: On January 16, 1556, Charles V, Holy Roman emperor and king of Spain, renounced his claim to Spain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-16"
+      ]
+    },
+    {
+      "candidateId": "jan-16-pendleton-act",
+      "kind": "event",
+      "proposedCanonicalId": "pendleton-civil-service-act-1883",
+      "workingClaim": "January 16, 1883: On January 16, 1883, the Pendleton Civil Service Act established the Civil Service Commission in the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-16"
+      ]
+    },
+    {
+      "candidateId": "jan-17-popeye",
+      "kind": "event",
+      "proposedCanonicalId": "popeye-debuts-1929",
+      "workingClaim": "January 17, 1929: On January 17, 1929, Popeye, the sailor known for his love of spinach, made his debut in the comic strip Thimble Theatre.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "jan-17-franklin-born",
+      "kind": "event",
+      "proposedCanonicalId": "benjamin-franklin-born-1706",
+      "workingClaim": "January 17, 1706: On January 17, 1706, Benjamin Franklin was born in Boston. He later helped draft the US Declaration of Independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17",
+        "https://www.britannica.com/biography/Benjamin-Franklin"
+      ]
+    },
+    {
+      "candidateId": "jan-17-liliuokalani-deposed",
+      "kind": "event",
+      "proposedCanonicalId": "liliuokalani-deposed-1893",
+      "workingClaim": "January 17, 1893: On January 17, 1893, Hawaii's Queen Liliuokalani was deposed by a provisional government led by Sanford Ballard Dole.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "jan-17-eisenhower-farewell",
+      "kind": "event",
+      "proposedCanonicalId": "eisenhower-farewell-address-1961",
+      "workingClaim": "January 17, 1961: On January 17, 1961, in his farewell address, US President Dwight D. Eisenhower warned against the acquisition of unwarranted influence by the military-industrial complex.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "jan-17-kobe-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "great-hanshin-earthquake-1995",
+      "workingClaim": "January 17, 1995: On January 17, 1995, a large-scale earthquake struck the Osaka-Kobe (Hanshin) metropolitan area of Japan, killing about 6,400 people.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-17"
+      ]
+    },
+    {
+      "candidateId": "jan-18-german-empire",
+      "kind": "event",
+      "proposedCanonicalId": "german-empire-proclaimed-1871",
+      "workingClaim": "January 18, 1871: On January 18, 1871, the German Empire was founded under the leadership of Otto von Bismarck.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-18"
+      ]
+    },
+    {
+      "candidateId": "jan-18-ely-ship-landing",
+      "kind": "event",
+      "proposedCanonicalId": "eugene-ely-first-ship-landing-1911",
+      "workingClaim": "January 18, 1911: On January 18, 1911, the American pilot Eugene Ely performed the first aircraft landing on a ship's flight deck.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-18"
+      ]
+    },
+    {
+      "candidateId": "jan-18-sierra-leone-peace",
+      "kind": "event",
+      "proposedCanonicalId": "sierra-leone-civil-war-ends-2002",
+      "workingClaim": "January 18, 2002: On January 18, 2002, the civil war in Sierra Leone was officially declared over. More than 50,000 people are estimated to have died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-18"
+      ]
+    },
+    {
+      "candidateId": "jan-18-willie-oree",
+      "kind": "event",
+      "proposedCanonicalId": "willie-oree-nhl-debut-1958",
+      "workingClaim": "January 18, 1958: On January 18, 1958, Willie O'Ree became the first Black athlete to play in a National Hockey League game.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-18"
+      ]
+    },
+    {
+      "candidateId": "jan-18-milne-born",
+      "kind": "event",
+      "proposedCanonicalId": "aa-milne-born-1882",
+      "workingClaim": "January 18, 1882: On January 18, 1882, A.A. Milne, the author who created Winnie-the-Pooh, was born in London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-18"
+      ]
+    },
+    {
+      "candidateId": "jan-19-il-trovatore",
+      "kind": "event",
+      "proposedCanonicalId": "il-trovatore-premieres-1853",
+      "workingClaim": "January 19, 1853: On January 19, 1853, Giuseppe Verdi's opera Il trovatore premiered in Rome.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-19"
+      ]
+    },
+    {
+      "candidateId": "jan-19-poe-born",
+      "kind": "event",
+      "proposedCanonicalId": "edgar-allan-poe-born-1809",
+      "workingClaim": "January 19, 1809: On January 19, 1809, the writer Edgar Allan Poe was born in Boston.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-19"
+      ]
+    },
+    {
+      "candidateId": "jan-19-tin-can-patent",
+      "kind": "event",
+      "proposedCanonicalId": "tin-can-patent-1825",
+      "workingClaim": "January 19, 1825: On January 19, 1825, Ezra Daggett and Thomas Kensett obtained a patent for a preservation process used to store food in tin cans.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-19"
+      ]
+    },
+    {
+      "candidateId": "jan-19-televised-press-conference",
+      "kind": "event",
+      "proposedCanonicalId": "first-televised-presidential-press-conference-1955",
+      "workingClaim": "January 19, 1955: On January 19, 1955, US President Dwight D. Eisenhower held the first-ever televised presidential press conference.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-19"
+      ]
+    },
+    {
+      "candidateId": "jan-20-obama-inaugurated",
+      "kind": "event",
+      "proposedCanonicalId": "obama-inaugurated-2009",
+      "workingClaim": "January 20, 2009: On January 20, 2009, Barack Obama was sworn in as the 44th president of the United States, the first African American to hold the office.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-20"
+      ]
+    },
+    {
+      "candidateId": "jan-20-iran-hostages-freed",
+      "kind": "event",
+      "proposedCanonicalId": "iran-hostage-crisis-ends-1981",
+      "workingClaim": "January 20, 1981: On January 20, 1981, the Iran hostage crisis ended when 52 Americans who had been held hostage for 15 months were released.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-20"
+      ]
+    },
+    {
+      "candidateId": "jan-20-cook-kauai",
+      "kind": "event",
+      "proposedCanonicalId": "cook-lands-on-kauai-1778",
+      "workingClaim": "January 20, 1778: On January 20, 1778, the British explorer James Cook landed at Waimea, on the island of Kauai in Hawaii.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-20"
+      ]
+    },
+    {
+      "candidateId": "jan-20-amilcar-cabral",
+      "kind": "event",
+      "proposedCanonicalId": "amilcar-cabral-assassinated-1973",
+      "workingClaim": "January 20, 1973: On January 20, 1973, Amilcar Lopes Cabral was assassinated while leading the effort to secure Guinea-Bissau's independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-20"
+      ]
+    },
+    {
+      "candidateId": "jan-20-fellini-born",
+      "kind": "event",
+      "proposedCanonicalId": "federico-fellini-born-1920",
+      "workingClaim": "January 20, 1920: On January 20, 1920, the Italian director Federico Fellini, one of the most celebrated filmmakers of the post-World War II period, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-20"
+      ]
+    },
+    {
+      "candidateId": "jan-21-concorde",
+      "kind": "event",
+      "proposedCanonicalId": "concorde-begins-service-1976",
+      "workingClaim": "January 21, 1976: On January 21, 1976, Concorde, a supersonic commercial aircraft built with funding from the British and French governments, began regular service.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "jan-21-louis-xvi",
+      "kind": "event",
+      "proposedCanonicalId": "louis-xvi-executed-1793",
+      "workingClaim": "January 21, 1793: On January 21, 1793, during the French Revolution, Louis XVI, the last Bourbon king of France before the Revolution, was executed by guillotine in Paris.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "jan-21-lenin-dies",
+      "kind": "event",
+      "proposedCanonicalId": "lenin-dies-1924",
+      "workingClaim": "January 21, 1924: On January 21, 1924, Vladimir Lenin, the founder of the Soviet state, died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "jan-21-dior-born",
+      "kind": "event",
+      "proposedCanonicalId": "christian-dior-born-1905",
+      "workingClaim": "January 21, 1905: On January 21, 1905, the fashion designer Christian Dior was born in Granville, France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "jan-21-domingo-born",
+      "kind": "event",
+      "proposedCanonicalId": "placido-domingo-born-1941",
+      "workingClaim": "January 21, 1941: On January 21, 1941, the singer Placido Domingo was born in Madrid.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-21"
+      ]
+    },
+    {
+      "candidateId": "jan-22-victoria-dies",
+      "kind": "event",
+      "proposedCanonicalId": "queen-victoria-dies-1901",
+      "workingClaim": "January 22, 1901: On January 22, 1901, Queen Victoria died at age 81 after reigning for more than 60 years.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22"
+      ]
+    },
+    {
+      "candidateId": "jan-22-bloody-sunday-1905",
+      "kind": "event",
+      "proposedCanonicalId": "bloody-sunday-st-petersburg-1905",
+      "workingClaim": "January 22, 1905: On January 22, 1905, Russian workers marching in St. Petersburg were fired on by Russian troops. The day became known as Bloody Sunday.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22"
+      ]
+    },
+    {
+      "candidateId": "jan-22-evo-morales",
+      "kind": "event",
+      "proposedCanonicalId": "evo-morales-sworn-in-2006",
+      "workingClaim": "January 22, 2006: On January 22, 2006, Evo Morales was sworn in as president of Bolivia, the first person of Indigenous descent to hold that office.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22"
+      ]
+    },
+    {
+      "candidateId": "jan-22-roberta-bondar",
+      "kind": "event",
+      "proposedCanonicalId": "roberta-bondar-in-space-1992",
+      "workingClaim": "January 22, 1992: On January 22, 1992, Roberta Bondar became the first Canadian woman and the first neurologist to travel into space.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22"
+      ]
+    },
+    {
+      "candidateId": "jan-22-byron-born",
+      "kind": "event",
+      "proposedCanonicalId": "lord-byron-born-1788",
+      "workingClaim": "January 22, 1788: On January 22, 1788, Lord Byron, the British Romantic poet and satirist who captured the imagination of Europe, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-22"
+      ]
+    }
+  ]
+}

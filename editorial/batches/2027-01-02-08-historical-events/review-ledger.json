@@ -1,0 +1,844 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-02-08-historical-events",
+  "entries": [
+    {
+      "candidateId": "jan-02-granada",
+      "canonicalId": "granada-surrenders-1492",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1492: 'Ferdinand II and Isabella I, the first monarchs of unified Spain, captured Granada, ending a centuries-long series of military campaigns.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-02-port-arthur",
+      "canonicalId": "port-arthur-surrenders-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1905: 'Russian forces surrendered Port Arthur (later Lushun, China) to the Japanese in the Russo-Japanese War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-02-stardust-comet",
+      "canonicalId": "stardust-collects-comet-dust-2004",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 2004: 'NASA's spacecraft Stardust collected dust grains from the comet Wild 2.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-02-palmer-raids",
+      "canonicalId": "palmer-raids-1920",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 2): 1920: thousands of people 'arrested in more than 30 U.S. cities, accused of being foreign anarchists, communists, or radical leftists.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-02"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-03-tolkien-born",
+      "canonicalId": "jrr-tolkien-born-1892",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1892: J.R.R. Tolkien born."
+        },
+        {
+          "url": "https://www.britannica.com/biography/J-R-R-Tolkien",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 3, 1892, Bloemfontein, South Africa'; died September 2, 1973, Bournemouth, England."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-03-alaska-statehood",
+      "canonicalId": "alaska-becomes-49th-state-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1959: 'Alaska became the 49th U.S. state.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-03-change-4",
+      "canonicalId": "change-4-lands-far-side-moon-2019",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 2019: 'Chang'e 4, carrying the Yutu-2 rover, landed on the Moon's far side.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-03-luther-excommunicated",
+      "canonicalId": "luther-excommunicated-1521",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1521: 'Pope Leo X excommunicated Martin Luther.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-03-battle-of-princeton",
+      "canonicalId": "battle-of-princeton-1777",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 3): 1777: 'The Battle of Princeton was fought in New Jersey.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-03"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-04-braille-born",
+      "canonicalId": "louis-braille-born-1809",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 1809: 'Louis Braille, who developed a system of printing and writing that is extensively used by the blind and that was named for him, was born near Paris.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-04-burma-independence",
+      "canonicalId": "burma-gains-independence-1948",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 1948: 'Burma, today called Myanmar, formally gained independence from Great Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-04-burj-khalifa",
+      "canonicalId": "burj-khalifa-opens-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 2010: 'Burj Khalifa, the world's tallest building, officially opened in Dubai.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-04-camus-dies",
+      "canonicalId": "albert-camus-dies-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 1960: 'Novelist and playwright Albert Camus ... was killed in an automobile accident in France.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-04-solomon-northup",
+      "canonicalId": "solomon-northup-freed-1853",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-4",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 4): 1853: 'Solomon Northup, a free Black man who had been kidnapped in Washington, D.C., and sold into slavery, legally obtained his freedom.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-04"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-05-waiting-for-godot",
+      "canonicalId": "waiting-for-godot-premieres-1953",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1953: 'Waiting for Godot ... was staged for the first time, in Paris.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-05-golden-gate",
+      "canonicalId": "golden-gate-bridge-construction-begins-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1933: 'Construction began on the Golden Gate Bridge, which connects San Francisco with Marin county.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-05-eris-discovered",
+      "canonicalId": "eris-discovered-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 2005: 'The dwarf planet Eris was discovered in images taken two years earlier at Palomar Observatory.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-05-ford-five-dollar-day",
+      "canonicalId": "ford-five-dollar-day-1914",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1914: 'Henry Ford raised his workers' pay from $2.40 to $5.00 a day.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-05-nellie-tayloe-ross",
+      "canonicalId": "nellie-tayloe-ross-governor-1925",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 5): 1925: 'Nellie Tayloe Ross assumed office in Wyoming, making her the first female governor.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-06-four-freedoms",
+      "canonicalId": "four-freedoms-speech-1941",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1941: 'U.S. President Franklin D. Roosevelt outlined his Four Freedoms in his State of the Union message.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-06-anne-of-cleves",
+      "canonicalId": "henry-viii-marries-anne-of-cleves-1540",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1540: 'Henry VIII of England married Anne of Cleves, the fourth of his six wives.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-06-britain-recognizes-prc",
+      "canonicalId": "britain-recognizes-prc-1950",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1950: 'Great Britain announced its recognition of the People's Republic of China.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-06-max-bruch-born",
+      "canonicalId": "max-bruch-born-1838",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1838: 'Composer Max Bruch ... was born in Cologne, in what is today Germany.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-06-richard-ii-born",
+      "canonicalId": "richard-ii-born-1367",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 6): 1367: 'Born this day in 1367, King Richard II of England, an ambitious ruler who reigned from 1377 to 1399.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-07-marian-anderson",
+      "canonicalId": "marian-anderson-met-debut-1955",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 1955: 'American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Marian-Anderson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'On January 7, 1955, Anderson became the first Black singer to perform as a member of the Metropolitan Opera'; role of Ulrica in Verdi's Un ballo in maschera; 1939 Lincoln Memorial concert for 75,000 after the DAR barred her from Constitution Hall."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-07-phnom-penh",
+      "canonicalId": "vietnamese-forces-take-phnom-penh-1979",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 1979: Vietnamese forces took control of Phnom Penh, Cambodia, removing the Khmer Rouge and Pol Pot from power."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-07-surveyor-7",
+      "canonicalId": "surveyor-7-launched-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 1968: 'Uncrewed U.S. space probe Surveyor 7 was launched' and subsequently made a soft landing on the Moon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-07-egypt-christmas",
+      "canonicalId": "egypt-christmas-national-holiday-2003",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 2003: Christmas was celebrated as a national holiday in Egypt for the first time."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-07-kufuor-ghana",
+      "canonicalId": "kufuor-inaugurated-ghana-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 7): 2001: John Kufuor was inaugurated as president of Ghana in the country's first peaceful government transition."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-08-anc-founded",
+      "canonicalId": "african-national-congress-founded-1912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1912: 'The African National Congress was founded.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-08-fourteen-points",
+      "canonicalId": "wilson-fourteen-points-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1918: 'U.S. President Woodrow Wilson announced his Fourteen Points.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-08-de-gaulle-fifth-republic",
+      "canonicalId": "de-gaulle-inaugurated-fifth-republic-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1959: 'Charles de Gaulle was inaugurated as president of France's Fifth Republic.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-08-hawking-born",
+      "canonicalId": "stephen-hawking-born-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1942: Stephen Hawking born; 'developed a theory of exploding black holes'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-08-elvis-born",
+      "canonicalId": "elvis-presley-born-1935",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 8): 1935: Elvis Presley born; 'widely known as the \"King of Rock and Roll\"'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

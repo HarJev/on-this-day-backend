@@ -1,0 +1,1044 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-23-31-historical-events",
+  "entries": [
+    {
+      "candidateId": "jan-23-blackwell",
+      "canonicalId": "elizabeth-blackwell-md-1849",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 23): 1849: 'Elizabeth Blackwell received an M.D. degree from Geneva Medical College in New York, becoming the first American-trained woman physician.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-23-shaanxi-earthquake",
+      "canonicalId": "shaanxi-earthquake-1556",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 23): 1556: 'An earthquake in China killed or injured an estimated 830,000 people ... (Shaanxi, where the quake was centered, and neighboring Shanxi).'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-23-albright",
+      "canonicalId": "madeleine-albright-secretary-of-state-1997",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 23): 1997: 'Madeleine Albright ... became secretary of state ... She was the first woman to hold that cabinet post.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-23-twenty-fourth-amendment",
+      "canonicalId": "twenty-fourth-amendment-ratified-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 23): 1964: 'The Twenty-fourth Amendment to the U.S. Constitution, which prohibited the federal and state governments from imposing poll taxes before a citizen can participate in a federal election, was ratified.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-23"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-24-california-gold",
+      "canonicalId": "gold-discovered-california-1848",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 24): 1848: 'Gold discovered in California' - James Marshall spotted gold nuggets while constructing a sawmill, triggering the California Gold Rush."
+        },
+        {
+          "url": "https://www.britannica.com/topic/California-Gold-Rush",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: on January 24, 1848, James W. Marshall, John Sutter's carpenter, found gold at Sutter's Mill on the American River at Coloma; the 1849 arrivals were called forty-niners."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-24-macintosh",
+      "canonicalId": "apple-introduces-macintosh-1984",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 24): 1984: 'Steve Jobs introduced Apple's revolutionary computer Macintosh.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-24-churchill-dies",
+      "canonicalId": "winston-churchill-dies-1965",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 24): 1965: 'Winston Churchill ... died this day in 1965.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-24-wharton-born",
+      "canonicalId": "edith-wharton-born-1862",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 24): 1862: 'Edith Wharton, an American author best known for her stories and novels about upper-class society, was born in New York.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-24"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-25-chamonix",
+      "canonicalId": "first-winter-olympics-open-1924",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: held January 25-February 5, 1924; 'the first occurrence of the Winter Olympic Games'; some 250 athletes from 16 countries in 16 events; originally staged as International Winter Sports Week; the IOC amended its charter in 1925."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-25-sao-paulo",
+      "canonicalId": "sao-paulo-founded-1554",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 25): 1554: 'Jesuit missionaries founded the city of Sao Paulo.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-25-burns-born",
+      "canonicalId": "robert-burns-born-1759",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 25): 1759: Robert Burns born (national poet of Scotland)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-25-woolf-born",
+      "canonicalId": "virginia-woolf-born-1882",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 25): 1882: Virginia Woolf born in London."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-25-egypt-protests",
+      "canonicalId": "egypt-protests-begin-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 25): 2011: 'Demonstrators in Cairo and several other cities in Egypt clashed with police.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-25"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-26-cullinan",
+      "canonicalId": "cullinan-diamond-found-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1905: 'World's largest diamond discovered in South Africa' - a diamond weighing over a pound found at Premier Mine."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-26-india-republic",
+      "canonicalId": "india-becomes-republic-1950",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1950: 'India became a republic, achieving full independence from Great Britain.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-26-first-fleet",
+      "canonicalId": "first-fleet-sydney-cove-1788",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1788: Arthur Phillip hoisted British flag and established first permanent European settlement in Australia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-26-gujarat-earthquake",
+      "canonicalId": "gujarat-earthquake-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 2001: Major earthquake struck near Bhuj, India, killing over 20,000 people."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-26-phantom-broadway",
+      "canonicalId": "phantom-of-the-opera-broadway-1988",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 26): 1988: 'The Phantom of the Opera' opened in New York City."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-26"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-27-mozart-born",
+      "canonicalId": "mozart-born-1756",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 27): 1756: 'Wolfgang Amadeus Mozart ... was born this day in 1756.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 27, 1756, Salzburg, archbishopric of Salzburg [Austria]'; died December 5, 1791, Vienna."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-27-auschwitz",
+      "canonicalId": "auschwitz-liberated-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Auschwitz",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'When Soviet troops arrived on January 27, 1945, they found 7,650 sick and starving prisoners'; between 1.1 and 1.5 million people died at Auschwitz, 90 percent of them Jews; located near Oswiecim in southern Poland."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-27-leningrad",
+      "canonicalId": "siege-of-leningrad-ends-1944",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 27): 1944: 'The Soviet Red Army ousted German and Finnish forces from Leningrad ... concluding an 872-day siege.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-27-paris-peace-accords",
+      "canonicalId": "paris-peace-accords-signed-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 27): 1973: 'The Paris Peace Accords formally ending the Vietnam War were signed.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-27-dante-exiled",
+      "canonicalId": "dante-exiled-from-florence-1302",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 27): 1302: 'Italian poet Dante Alighieri was exiled from Florence by his political enemies.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-27"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-28-lego-patent",
+      "canonicalId": "lego-brick-patent-1958",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1958: LEGO patent filed - 'toy building block that became hugely popular around the world'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-28-challenger",
+      "canonicalId": "challenger-disaster-1986",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1986: 'the U.S. space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven aboard'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-28-pride-and-prejudice",
+      "canonicalId": "pride-and-prejudice-published-1813",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1813: Pride and Prejudice published - 'enjoyed immediate success'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-28-charlemagne-dies",
+      "canonicalId": "charlemagne-dies-814",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 814: Charlemagne died - 'ruler of the Holy Roman Empire'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-28-paris-capitulates",
+      "canonicalId": "paris-capitulates-1871",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 28): 1871: Paris fell - 'following a four-month siege during the Franco-German War'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-28"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-29-benz-patent",
+      "canonicalId": "benz-patents-automobile-1886",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 29): 1886: 'Karl Benz patented the first practical automobile powered by an internal-combustion engine.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-29-the-raven",
+      "canonicalId": "the-raven-published-1845",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 29): 1845: 'Edgar Allan Poe's \"The Raven\" was first published.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-29-chekhov-born",
+      "canonicalId": "anton-chekhov-born-1860",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 29): 1860: 'Anton Chekhov ... was born.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anton-Chekhov",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'born January 29 [January 17, Old Style], 1860, Taganrog, Russia'; plays The Seagull, Uncle Vanya, Three Sisters, The Cherry Orchard."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-29-baseball-hof",
+      "canonicalId": "baseball-hall-of-fame-first-class-1936",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-29",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 29): 1936: 'Babe Ruth and Ty Cobb were among the first players to be elected to the Baseball Hall of Fame.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-29"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-30-beatles-rooftop",
+      "canonicalId": "beatles-rooftop-concert-1969",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1969: 'the Beatles - John Lennon, Paul McCartney, George Harrison, and Ringo Starr - performed together for the last time.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-30-gandhi-assassinated",
+      "canonicalId": "gandhi-assassinated-1948",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1948: 'Mahatma Gandhi ... was assassinated by Hindu extremist Nathuram Godse.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-30-charles-i-executed",
+      "canonicalId": "charles-i-executed-1649",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1649: Charles I 'was executed in London'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-30-hitler-chancellor",
+      "canonicalId": "hitler-named-chancellor-1933",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1933: 'President Paul von Hindenburg named Adolf Hitler chancellor of Germany'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-30-city-lights",
+      "canonicalId": "city-lights-premieres-1931",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 30): 1931: 'City Lights had its world premiere' and is considered 'Charlie Chaplin's crowning achievement'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-30"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-31-brexit",
+      "canonicalId": "uk-leaves-european-union-2020",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 31): 2020: 'The United Kingdom formally left the European Union, more than three years after the country voted for Brexit.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-31-schubert-born",
+      "canonicalId": "franz-schubert-born-1797",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 31): 1797: Composer Franz Schubert was born near Vienna."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-31-paulus-surrenders",
+      "canonicalId": "paulus-surrenders-at-stalingrad-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 31): 1943: Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad."
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: battle August 22, 1942 - February 2, 1943, on the Volga; 'On January 31 Paulus disobeyed Hitler and agreed to give himself up'; Stalingrad is now Volgograd."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-31-jackie-robinson-born",
+      "canonicalId": "jackie-robinson-born-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 31): 1919: Jackie Robinson born (first African American baseball player in U.S. major leagues in the 20th century)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-31-guy-fawkes-executed",
+      "canonicalId": "guy-fawkes-executed-1606",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-31",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 31): 1606: Guy Fawkes was executed in London for his role in the Gunpowder Plot."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-31"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}

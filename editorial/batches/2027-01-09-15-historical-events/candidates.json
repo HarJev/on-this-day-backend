@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-09-15-historical-events",
+  "candidates": [
+    {
+      "candidateId": "jan-09-joan-trial",
+      "kind": "event",
+      "proposedCanonicalId": "joan-of-arc-trial-begins-1431",
+      "workingClaim": "January 9, 1431: On January 9, 1431, Joan of Arc, then 19 years old, was put on trial in Rouen, France, facing more than 70 accusations. Two years earlier she had led the French to victory at Orleans.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-9",
+        "https://www.britannica.com/biography/Saint-Joan-of-Arc"
+      ]
+    },
+    {
+      "candidateId": "jan-09-beauvoir-born",
+      "kind": "event",
+      "proposedCanonicalId": "simone-de-beauvoir-born-1908",
+      "workingClaim": "January 9, 1908: On January 9, 1908, Simone de Beauvoir, a writer and feminist who gave literary form to the themes of existentialism, was born in Paris.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-9"
+      ]
+    },
+    {
+      "candidateId": "jan-09-abbas-elected",
+      "kind": "event",
+      "proposedCanonicalId": "mahmoud-abbas-elected-2005",
+      "workingClaim": "January 9, 2005: On January 9, 2005, Mahmoud Abbas was elected president of the Palestinian Authority.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-9"
+      ]
+    },
+    {
+      "candidateId": "jan-09-itunes",
+      "kind": "event",
+      "proposedCanonicalId": "apple-introduces-itunes-2001",
+      "workingClaim": "January 9, 2001: On January 9, 2001, Apple introduced iTunes, a digital media player application that went on to revolutionize digital music.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-9"
+      ]
+    },
+    {
+      "candidateId": "jan-10-rubicon",
+      "kind": "event",
+      "proposedCanonicalId": "caesar-crosses-rubicon-49bce",
+      "workingClaim": "January 10, 49 BCE: On January 10, 49 BCE, Julius Caesar and his army crossed the Rubicon to take control of the Roman Republic, a step that began a civil war.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "jan-10-common-sense",
+      "kind": "event",
+      "proposedCanonicalId": "common-sense-published-1776",
+      "workingClaim": "January 10, 1776: On January 10, 1776, Thomas Paine published Common Sense, a 50-page pamphlet that sold more than 500,000 copies within a few months and called for a war of independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "jan-10-league-established",
+      "kind": "event",
+      "proposedCanonicalId": "league-of-nations-established-1920",
+      "workingClaim": "January 10, 1920: On January 10, 1920, the League of Nations was established, with its headquarters in Geneva.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "jan-10-un-general-assembly",
+      "kind": "event",
+      "proposedCanonicalId": "first-un-general-assembly-1946",
+      "workingClaim": "January 10, 1946: On January 10, 1946, the first United Nations General Assembly met in London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "jan-10-moon-radar",
+      "kind": "event",
+      "proposedCanonicalId": "radar-echo-from-moon-1946",
+      "workingClaim": "January 10, 1946: On January 10, 1946, radar signals bouncing off the Moon were detected for the first time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-10"
+      ]
+    },
+    {
+      "candidateId": "jan-11-ozymandias",
+      "kind": "event",
+      "proposedCanonicalId": "ozymandias-published-1818",
+      "workingClaim": "January 11, 1818: On January 11, 1818, Percy Bysshe Shelley's sonnet 'Ozymandias' was published for the first time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-11"
+      ]
+    },
+    {
+      "candidateId": "jan-11-smoking-report",
+      "kind": "event",
+      "proposedCanonicalId": "surgeon-general-smoking-report-1964",
+      "workingClaim": "January 11, 1964: On January 11, 1964, US Surgeon General Luther L. Terry announced that cigarette smoking is linked to lung cancer.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-11"
+      ]
+    },
+    {
+      "candidateId": "jan-11-earhart-pacific",
+      "kind": "event",
+      "proposedCanonicalId": "earhart-hawaii-to-california-1935",
+      "workingClaim": "January 11, 1935: On January 11, 1935, Amelia Earhart set off on the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-11",
+        "https://www.britannica.com/biography/Amelia-Earhart"
+      ]
+    },
+    {
+      "candidateId": "jan-11-hillary-dies",
+      "kind": "event",
+      "proposedCanonicalId": "edmund-hillary-dies-2008",
+      "workingClaim": "January 11, 2008: On January 11, 2008, Sir Edmund Hillary, the New Zealand mountaineer, died at age 88.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-11"
+      ]
+    },
+    {
+      "candidateId": "jan-11-chretien-born",
+      "kind": "event",
+      "proposedCanonicalId": "jean-chretien-born-1934",
+      "workingClaim": "January 11, 1934: On January 11, 1934, Jean Chretien was born. He served as prime minister of Canada from 1993 to 2003.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-11"
+      ]
+    },
+    {
+      "candidateId": "jan-12-tamla-records",
+      "kind": "event",
+      "proposedCanonicalId": "berry-gordy-launches-tamla-records-1959",
+      "workingClaim": "January 12, 1959: On January 12, 1959, Berry Gordy launched Tamla Records, a major step toward transforming American music.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-12",
+        "https://www.britannica.com/topic/Motown"
+      ]
+    },
+    {
+      "candidateId": "jan-12-haiti-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "haiti-earthquake-2010",
+      "workingClaim": "January 12, 2010: On January 12, 2010, a magnitude-7.0 earthquake devastated Haiti, killing more than 300,000 people.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-12"
+      ]
+    },
+    {
+      "candidateId": "jan-12-deep-impact",
+      "kind": "event",
+      "proposedCanonicalId": "deep-impact-launched-2005",
+      "workingClaim": "January 12, 2005: On January 12, 2005, the US space probe Deep Impact was launched to study comet Tempel 1.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-12"
+      ]
+    },
+    {
+      "candidateId": "jan-12-kenya-emergency-ends",
+      "kind": "event",
+      "proposedCanonicalId": "kenya-emergency-ends-1960",
+      "workingClaim": "January 12, 1960: On January 12, 1960, the British government ended the state of emergency it had declared in Kenya during the Mau Mau Rebellion.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-12"
+      ]
+    },
+    {
+      "candidateId": "jan-12-hattie-caraway",
+      "kind": "event",
+      "proposedCanonicalId": "hattie-caraway-elected-senate-1932",
+      "workingClaim": "January 12, 1932: On January 12, 1932, Hattie Ophelia Caraway became the first woman elected to the US Senate.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-12"
+      ]
+    },
+    {
+      "candidateId": "jan-13-jaccuse",
+      "kind": "event",
+      "proposedCanonicalId": "zola-publishes-jaccuse-1898",
+      "workingClaim": "January 13, 1898: On January 13, 1898, the novelist Emile Zola published an open letter titled 'J'accuse', denouncing the French general staff for its role in the 1894 treason court-martial of Alfred Dreyfus.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-13"
+      ]
+    },
+    {
+      "candidateId": "jan-13-folsom",
+      "kind": "event",
+      "proposedCanonicalId": "johnny-cash-at-folsom-prison-1968",
+      "workingClaim": "January 13, 1968: On January 13, 1968, Johnny Cash recorded the album Johnny Cash at Folsom Prison in front of an audience of some 2,000 inmates.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-13"
+      ]
+    },
+    {
+      "candidateId": "jan-13-douglas-wilder",
+      "kind": "event",
+      "proposedCanonicalId": "douglas-wilder-sworn-in-1990",
+      "workingClaim": "January 13, 1990: On January 13, 1990, Douglas Wilder was sworn in as governor of Virginia, the first popularly elected African American governor in the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-13"
+      ]
+    },
+    {
+      "candidateId": "jan-13-costa-concordia",
+      "kind": "event",
+      "proposedCanonicalId": "costa-concordia-capsizes-2012",
+      "workingClaim": "January 13, 2012: On January 13, 2012, the cruise ship Costa Concordia, carrying some 4,200 people, ran aground and capsized off Giglio Island in Italy. Thirty-two people died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-13"
+      ]
+    },
+    {
+      "candidateId": "jan-14-huygens-titan",
+      "kind": "event",
+      "proposedCanonicalId": "huygens-lands-on-titan-2005",
+      "workingClaim": "January 14, 2005: On January 14, 2005, the Huygens probe landed on Titan, Saturn's largest moon, the first landing on a world in the outer solar system.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14",
+        "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/"
+      ]
+    },
+    {
+      "candidateId": "jan-14-tosca",
+      "kind": "event",
+      "proposedCanonicalId": "tosca-premieres-1900",
+      "workingClaim": "January 14, 1900: On January 14, 1900, Giacomo Puccini's opera Tosca had its world premiere at Rome's Costanzi Theatre.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14"
+      ]
+    },
+    {
+      "candidateId": "jan-14-ben-ali",
+      "kind": "event",
+      "proposedCanonicalId": "ben-ali-steps-down-2011",
+      "workingClaim": "January 14, 2011: On January 14, 2011, Tunisian President Zine al-Abidine Ben Ali stepped down following mass protests in what became known as the Jasmine Revolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14"
+      ]
+    },
+    {
+      "candidateId": "jan-14-treaty-of-paris-ratified",
+      "kind": "event",
+      "proposedCanonicalId": "congress-ratifies-treaty-of-paris-1784",
+      "workingClaim": "January 14, 1784: On January 14, 1784, the Continental Congress ratified the Peace of Paris, formally ending the American Revolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14"
+      ]
+    },
+    {
+      "candidateId": "jan-14-margrethe-abdicates",
+      "kind": "event",
+      "proposedCanonicalId": "margrethe-ii-abdicates-2024",
+      "workingClaim": "January 14, 2024: On January 14, 2024, Queen Margrethe II of Denmark abdicated after 52 years on the throne, and Crown Prince Frederik became King Frederik X.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-14"
+      ]
+    },
+    {
+      "candidateId": "jan-15-british-museum",
+      "kind": "event",
+      "proposedCanonicalId": "british-museum-opens-1759",
+      "workingClaim": "January 15, 1759: On January 15, 1759, the British Museum opened to the public in London. It had been established by an act of Parliament in 1753.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-15"
+      ]
+    },
+    {
+      "candidateId": "jan-15-wikipedia",
+      "kind": "event",
+      "proposedCanonicalId": "wikipedia-launches-2001",
+      "workingClaim": "January 15, 2001: On January 15, 2001, Wikipedia, a free Internet-based encyclopedia with an open-source management style, debuted.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-15"
+      ]
+    },
+    {
+      "candidateId": "jan-15-molasses-flood",
+      "kind": "event",
+      "proposedCanonicalId": "boston-molasses-flood-1919",
+      "workingClaim": "January 15, 1919: On January 15, 1919, a storage tank collapsed in Boston, sending more than two million gallons of molasses flowing through the city's North End.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-15"
+      ]
+    },
+    {
+      "candidateId": "jan-15-hudson-landing",
+      "kind": "event",
+      "proposedCanonicalId": "us-airways-1549-hudson-landing-2009",
+      "workingClaim": "January 15, 2009: On January 15, 2009, US Airways Flight 1549, piloted by Captain Chesley ('Sully') Sullenberger, landed in the Hudson River in New York.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-15"
+      ]
+    },
+    {
+      "candidateId": "jan-15-rosa-luxemburg",
+      "kind": "event",
+      "proposedCanonicalId": "rosa-luxemburg-murdered-1919",
+      "workingClaim": "January 15, 1919: On January 15, 1919, the revolutionary Rosa Luxemburg was arrested and murdered in Berlin, accused of fomenting the uprising known as the Spartacus Revolt.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-15"
+      ]
+    }
+  ]
+}

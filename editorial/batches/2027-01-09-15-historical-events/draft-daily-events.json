@@ -1,0 +1,79 @@
+{
+  "days": [
+    {
+      "month": 1,
+      "day": 9,
+      "featuredEventId": "joan-of-arc-trial-begins-1431",
+      "additionalEventIds": [
+        "simone-de-beauvoir-born-1908",
+        "mahmoud-abbas-elected-2005",
+        "apple-introduces-itunes-2001"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 10,
+      "featuredEventId": "caesar-crosses-rubicon-49bce",
+      "additionalEventIds": [
+        "common-sense-published-1776",
+        "league-of-nations-established-1920",
+        "first-un-general-assembly-1946",
+        "radar-echo-from-moon-1946"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 11,
+      "featuredEventId": "ozymandias-published-1818",
+      "additionalEventIds": [
+        "surgeon-general-smoking-report-1964",
+        "earhart-hawaii-to-california-1935",
+        "edmund-hillary-dies-2008",
+        "jean-chretien-born-1934"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 12,
+      "featuredEventId": "berry-gordy-launches-tamla-records-1959",
+      "additionalEventIds": [
+        "haiti-earthquake-2010",
+        "deep-impact-launched-2005",
+        "kenya-emergency-ends-1960",
+        "hattie-caraway-elected-senate-1932"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 13,
+      "featuredEventId": "zola-publishes-jaccuse-1898",
+      "additionalEventIds": [
+        "johnny-cash-at-folsom-prison-1968",
+        "douglas-wilder-sworn-in-1990",
+        "costa-concordia-capsizes-2012"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 14,
+      "featuredEventId": "huygens-lands-on-titan-2005",
+      "additionalEventIds": [
+        "tosca-premieres-1900",
+        "ben-ali-steps-down-2011",
+        "congress-ratifies-treaty-of-paris-1784",
+        "margrethe-ii-abdicates-2024"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 15,
+      "featuredEventId": "british-museum-opens-1759",
+      "additionalEventIds": [
+        "wikipedia-launches-2001",
+        "boston-molasses-flood-1919",
+        "us-airways-1549-hudson-landing-2009",
+        "rosa-luxemburg-murdered-1919"
+      ]
+    }
+  ]
+}

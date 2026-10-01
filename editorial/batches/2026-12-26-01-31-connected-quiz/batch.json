@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-26-01-31-connected-quiz",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [],
+  "monthDays": [],
+  "quizPackFilenames": [
+    "170-connected-december-26-january-31.json"
+  ]
+}

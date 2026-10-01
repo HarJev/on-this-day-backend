@@ -1,0 +1,322 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-12-26-01-01-historical-events",
+  "candidates": [
+    {
+      "candidateId": "dec-26-frisbee-patent",
+      "kind": "event",
+      "proposedCanonicalId": "frisbee-patent-issued-1967",
+      "workingClaim": "December 26, 1967: On December 26, 1967, the Wham-O Manufacturing Company was issued a US patent for what it called a saucer-shaped throwing implement, better known as the Frisbee.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "dec-26-mao-born",
+      "kind": "event",
+      "proposedCanonicalId": "mao-zedong-born-1893",
+      "workingClaim": "December 26, 1893: On December 26, 1893, Mao Zedong was born. A Marxist theorist and revolutionary, he became the first chairman of the People's Republic of China, serving from 1949 to 1959.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "dec-26-indian-ocean-tsunami",
+      "kind": "event",
+      "proposedCanonicalId": "indian-ocean-tsunami-2004",
+      "workingClaim": "December 26, 2004: On December 26, 2004, a massive earthquake shook the Indian Ocean floor west of the island of Sumatra, triggering a devastating tsunami that struck coastlines across the region.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "dec-26-babbage-born",
+      "kind": "event",
+      "proposedCanonicalId": "charles-babbage-born-1791",
+      "workingClaim": "December 26, 1791: On December 26, 1791, the mathematician and inventor Charles Babbage, a pioneer of mechanical computing, was born in London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "dec-26-jack-johnson",
+      "kind": "event",
+      "proposedCanonicalId": "jack-johnson-wins-heavyweight-title-1908",
+      "workingClaim": "December 26, 1908: On December 26, 1908, Jack Johnson defeated Tommy Burns in Sydney, Australia, to become the first Black fighter to win the world heavyweight boxing championship.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-26"
+      ]
+    },
+    {
+      "candidateId": "dec-27-hagia-sophia",
+      "kind": "event",
+      "proposedCanonicalId": "hagia-sophia-consecrated-537",
+      "workingClaim": "December 27, 537: On December 27, 537, the Hagia Sophia in Constantinople was consecrated as a church. It was then the largest church in the world.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "dec-27-beagle-sails",
+      "kind": "event",
+      "proposedCanonicalId": "darwin-sails-on-beagle-1831",
+      "workingClaim": "December 27, 1831: On December 27, 1831, Charles Darwin set sail on HMS Beagle, beginning the voyage during which he would formulate his theory of evolution.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "dec-27-kepler-born",
+      "kind": "event",
+      "proposedCanonicalId": "johannes-kepler-born-1571",
+      "workingClaim": "December 27, 1571: On December 27, 1571, the German astronomer Johannes Kepler was born. He discovered three major laws of planetary motion.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "dec-27-indonesia-sovereignty",
+      "kind": "event",
+      "proposedCanonicalId": "dutch-transfer-sovereignty-indonesia-1949",
+      "workingClaim": "December 27, 1949: On December 27, 1949, the Dutch formally relinquished control over Indonesia, which had declared its independence in 1945.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "dec-27-bhutto-assassinated",
+      "kind": "event",
+      "proposedCanonicalId": "benazir-bhutto-assassinated-2007",
+      "workingClaim": "December 27, 2007: On December 27, 2007, Benazir Bhutto, former prime minister of Pakistan, was assassinated in Rawalpindi while campaigning in parliamentary elections.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-27"
+      ]
+    },
+    {
+      "candidateId": "dec-28-lumiere-cinematographe",
+      "kind": "event",
+      "proposedCanonicalId": "lumiere-first-public-film-screening-1895",
+      "workingClaim": "December 28, 1895: On December 28, 1895, the first public demonstration of the Lumiere brothers' Cinematographe took place at the Grand Cafe in Paris, a landmark in the birth of cinema.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-28"
+      ]
+    },
+    {
+      "candidateId": "dec-28-westminster-abbey",
+      "kind": "event",
+      "proposedCanonicalId": "westminster-abbey-consecrated-1065",
+      "workingClaim": "December 28, 1065: On December 28, 1065, the new abbey church that Edward the Confessor had built at Westminster was consecrated. The king was too ill to attend the service and died about a week later.",
+      "sourceUrls": [
+        "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
+      ]
+    },
+    {
+      "candidateId": "dec-28-indian-national-congress",
+      "kind": "event",
+      "proposedCanonicalId": "indian-national-congress-first-session-1885",
+      "workingClaim": "December 28, 1885: On December 28, 1885, the first session of the Indian National Congress convened. The party later led the movement for India's independence.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-28"
+      ]
+    },
+    {
+      "candidateId": "dec-28-markievicz",
+      "kind": "event",
+      "proposedCanonicalId": "constance-markievicz-elected-1918",
+      "workingClaim": "December 28, 1918: On December 28, 1918, Constance Markievicz became the first woman elected to the British House of Commons.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-28"
+      ]
+    },
+    {
+      "candidateId": "dec-28-endangered-species-act",
+      "kind": "event",
+      "proposedCanonicalId": "endangered-species-act-signed-1973",
+      "workingClaim": "December 28, 1973: On December 28, 1973, US President Richard Nixon signed the Endangered Species Act into law.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-28"
+      ]
+    },
+    {
+      "candidateId": "dec-29-ireland-constitution",
+      "kind": "event",
+      "proposedCanonicalId": "irish-constitution-in-force-1937",
+      "workingClaim": "December 29, 1937: On December 29, 1937, with the enactment of a new constitution, the Irish Free State became known as Ireland.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "dec-29-texas-statehood",
+      "kind": "event",
+      "proposedCanonicalId": "texas-statehood-1845",
+      "workingClaim": "December 29, 1845: On December 29, 1845, Texas, until then an independent republic, legally entered the Union as a US state when Congress accepted its state constitution. Congress had passed the annexation resolution on February 28, 1845.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29",
+        "https://www.tshaonline.org/handbook/entries/annexation"
+      ]
+    },
+    {
+      "candidateId": "dec-29-gladstone-born",
+      "kind": "event",
+      "proposedCanonicalId": "william-gladstone-born-1809",
+      "workingClaim": "December 29, 1809: On December 29, 1809, William Ewart Gladstone was born in Liverpool. He served as prime minister of Great Britain four times between 1868 and 1894.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "dec-29-wounded-knee",
+      "kind": "event",
+      "proposedCanonicalId": "wounded-knee-massacre-1890",
+      "workingClaim": "December 29, 1890: On December 29, 1890, US Army troops carried out the Wounded Knee Massacre in South Dakota. It was the last major armed conflict between the United States and the Plains peoples.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "dec-29-guinea-ebola-free",
+      "kind": "event",
+      "proposedCanonicalId": "guinea-declared-ebola-free-2015",
+      "workingClaim": "December 29, 2015: On December 29, 2015, the World Health Organization declared Guinea free of Ebola, some two years after the deadly disease was reported in the country.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-29"
+      ]
+    },
+    {
+      "candidateId": "dec-30-ussr-established",
+      "kind": "event",
+      "proposedCanonicalId": "soviet-union-established-1922",
+      "workingClaim": "December 30, 1922: On December 30, 1922, the Union of Soviet Socialist Republics was established, with its capital in Moscow.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "dec-30-rizal-executed",
+      "kind": "event",
+      "proposedCanonicalId": "jose-rizal-executed-1896",
+      "workingClaim": "December 30, 1896: On December 30, 1896, Jose Rizal, the writer and reformer regarded as a national hero of the Philippines, was publicly executed by the country's Spanish rulers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "dec-30-gadsden-purchase",
+      "kind": "event",
+      "proposedCanonicalId": "gadsden-purchase-signed-1853",
+      "workingClaim": "December 30, 1853: On December 30, 1853, the United States acquired nearly 30,000 square miles of northern Mexican territory with the signing of the Gadsden Purchase.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "dec-30-scott-farthest-south",
+      "kind": "event",
+      "proposedCanonicalId": "scott-sets-farthest-south-record-1902",
+      "workingClaim": "December 30, 1902: On December 30, 1902, the British explorer Robert Falcon Scott set a new record for reaching the farthest point south, on the Ross Ice Shelf.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "dec-30-surji-arjungaon",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-surji-arjungaon-1803",
+      "workingClaim": "December 30, 1803: On December 30, 1803, the Maratha chief Daulat Rao Sindhia signed the Treaty of Surji-Arjungaon, ceding political power and territory in India to the British.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-30"
+      ]
+    },
+    {
+      "candidateId": "dec-31-times-square-ball",
+      "kind": "event",
+      "proposedCanonicalId": "times-square-ball-drop-1907",
+      "workingClaim": "December 31, 1907: On December 31, 1907, the first ball was dropped at Times Square in New York City to celebrate New Year's Eve, beginning a tradition that continues today.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "dec-31-east-india-company",
+      "kind": "event",
+      "proposedCanonicalId": "east-india-company-chartered-1600",
+      "workingClaim": "December 31, 1600: On December 31, 1600, the East India Company, formed to exploit trade with East and Southeast Asia and India, was incorporated by English royal charter.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "dec-31-ottawa-capital",
+      "kind": "event",
+      "proposedCanonicalId": "ottawa-named-capital-of-canada-1857",
+      "workingClaim": "December 31, 1857: On December 31, 1857, Queen Victoria named Ottawa the national capital of Canada.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "dec-31-panama-canal-handover",
+      "kind": "event",
+      "proposedCanonicalId": "panama-canal-handed-to-panama-1999",
+      "workingClaim": "December 31, 1999: On December 31, 1999, the United States officially handed over control of the Panama Canal to Panama.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "dec-31-taipei-101",
+      "kind": "event",
+      "proposedCanonicalId": "taipei-101-opens-2004",
+      "workingClaim": "December 31, 2004: On December 31, 2004, Taipei 101 opened in Taipei, Taiwan. At 1,667 feet (508 metres), it was then the tallest building in the world.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-31"
+      ]
+    },
+    {
+      "candidateId": "jan-01-euro-launched",
+      "kind": "event",
+      "proposedCanonicalId": "euro-introduced-1999",
+      "workingClaim": "January 1, 1999: On January 1, 1999, eleven European Union countries adopted the euro as their currency.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "jan-01-haiti-independence",
+      "kind": "event",
+      "proposedCanonicalId": "haiti-declares-independence-1804",
+      "workingClaim": "January 1, 1804: On January 1, 1804, Haiti declared its independence from France, bringing the Haitian Revolution to an end.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "jan-01-emancipation-proclamation",
+      "kind": "event",
+      "proposedCanonicalId": "emancipation-proclamation-issued-1863",
+      "workingClaim": "January 1, 1863: On January 1, 1863, US President Abraham Lincoln issued the Emancipation Proclamation, which freed enslaved people in the Confederacy.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "jan-01-wto-established",
+      "kind": "event",
+      "proposedCanonicalId": "world-trade-organization-established-1995",
+      "workingClaim": "January 1, 1995: On January 1, 1995, the World Trade Organization was formally established.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    },
+    {
+      "candidateId": "jan-01-batista-flees",
+      "kind": "event",
+      "proposedCanonicalId": "batista-flees-cuba-1959",
+      "workingClaim": "January 1, 1959: On January 1, 1959, the dictator Fulgencio Batista fled Cuba after his regime was toppled by rebel forces led by Fidel Castro.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-23-31-historical-events",
+  "candidates": [
+    {
+      "candidateId": "jan-23-blackwell",
+      "kind": "event",
+      "proposedCanonicalId": "elizabeth-blackwell-md-1849",
+      "workingClaim": "January 23, 1849: On January 23, 1849, Elizabeth Blackwell received an MD degree from Geneva Medical College in New York, becoming the first American-trained woman physician.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-23"
+      ]
+    },
+    {
+      "candidateId": "jan-23-shaanxi-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "shaanxi-earthquake-1556",
+      "workingClaim": "January 23, 1556: On January 23, 1556, an earthquake centered in Shaanxi province, China, killed or injured an estimated 830,000 people.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-23"
+      ]
+    },
+    {
+      "candidateId": "jan-23-albright",
+      "kind": "event",
+      "proposedCanonicalId": "madeleine-albright-secretary-of-state-1997",
+      "workingClaim": "January 23, 1997: On January 23, 1997, Madeleine Albright became US secretary of state, the first woman to hold that cabinet post.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-23"
+      ]
+    },
+    {
+      "candidateId": "jan-23-twenty-fourth-amendment",
+      "kind": "event",
+      "proposedCanonicalId": "twenty-fourth-amendment-ratified-1964",
+      "workingClaim": "January 23, 1964: On January 23, 1964, the Twenty-fourth Amendment to the US Constitution was ratified, prohibiting poll taxes as a condition of voting in federal elections.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-23"
+      ]
+    },
+    {
+      "candidateId": "jan-24-california-gold",
+      "kind": "event",
+      "proposedCanonicalId": "gold-discovered-california-1848",
+      "workingClaim": "January 24, 1848: On January 24, 1848, James Marshall spotted gold while building a sawmill for John Sutter at Coloma, California. The discovery set off the California Gold Rush.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-24",
+        "https://www.britannica.com/topic/California-Gold-Rush"
+      ]
+    },
+    {
+      "candidateId": "jan-24-macintosh",
+      "kind": "event",
+      "proposedCanonicalId": "apple-introduces-macintosh-1984",
+      "workingClaim": "January 24, 1984: On January 24, 1984, Steve Jobs introduced Apple's Macintosh computer.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-24"
+      ]
+    },
+    {
+      "candidateId": "jan-24-churchill-dies",
+      "kind": "event",
+      "proposedCanonicalId": "winston-churchill-dies-1965",
+      "workingClaim": "January 24, 1965: On January 24, 1965, Winston Churchill, Britain's prime minister during most of World War II, died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-24"
+      ]
+    },
+    {
+      "candidateId": "jan-24-wharton-born",
+      "kind": "event",
+      "proposedCanonicalId": "edith-wharton-born-1862",
+      "workingClaim": "January 24, 1862: On January 24, 1862, Edith Wharton, an American author best known for her stories and novels about upper-class society, was born in New York.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-24"
+      ]
+    },
+    {
+      "candidateId": "jan-25-chamonix",
+      "kind": "event",
+      "proposedCanonicalId": "first-winter-olympics-open-1924",
+      "workingClaim": "January 25, 1924: On January 25, 1924, the first Winter Olympic Games opened in Chamonix, France. Some 250 athletes from 16 countries competed in 16 events; the games were originally staged as an International Winter Sports Week.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games"
+      ]
+    },
+    {
+      "candidateId": "jan-25-sao-paulo",
+      "kind": "event",
+      "proposedCanonicalId": "sao-paulo-founded-1554",
+      "workingClaim": "January 25, 1554: On January 25, 1554, Jesuit missionaries founded the city of Sao Paulo in Brazil.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-25"
+      ]
+    },
+    {
+      "candidateId": "jan-25-burns-born",
+      "kind": "event",
+      "proposedCanonicalId": "robert-burns-born-1759",
+      "workingClaim": "January 25, 1759: On January 25, 1759, Robert Burns, the national poet of Scotland, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-25"
+      ]
+    },
+    {
+      "candidateId": "jan-25-woolf-born",
+      "kind": "event",
+      "proposedCanonicalId": "virginia-woolf-born-1882",
+      "workingClaim": "January 25, 1882: On January 25, 1882, the novelist Virginia Woolf was born in London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-25"
+      ]
+    },
+    {
+      "candidateId": "jan-25-egypt-protests",
+      "kind": "event",
+      "proposedCanonicalId": "egypt-protests-begin-2011",
+      "workingClaim": "January 25, 2011: On January 25, 2011, demonstrators in Cairo and several other Egyptian cities clashed with police, the start of mass protests against the government.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-25"
+      ]
+    },
+    {
+      "candidateId": "jan-26-cullinan",
+      "kind": "event",
+      "proposedCanonicalId": "cullinan-diamond-found-1905",
+      "workingClaim": "January 26, 1905: On January 26, 1905, the largest diamond ever found, weighing more than a pound, was discovered at the Premier Mine in South Africa.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "jan-26-india-republic",
+      "kind": "event",
+      "proposedCanonicalId": "india-becomes-republic-1950",
+      "workingClaim": "January 26, 1950: On January 26, 1950, India became a republic, achieving full independence from Great Britain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "jan-26-first-fleet",
+      "kind": "event",
+      "proposedCanonicalId": "first-fleet-sydney-cove-1788",
+      "workingClaim": "January 26, 1788: On January 26, 1788, Arthur Phillip hoisted the British flag at Sydney Cove and established the first permanent European settlement in Australia.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "jan-26-gujarat-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "gujarat-earthquake-2001",
+      "workingClaim": "January 26, 2001: On January 26, 2001, a major earthquake struck near Bhuj in Gujarat, India, killing more than 20,000 people.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "jan-26-phantom-broadway",
+      "kind": "event",
+      "proposedCanonicalId": "phantom-of-the-opera-broadway-1988",
+      "workingClaim": "January 26, 1988: On January 26, 1988, The Phantom of the Opera opened in New York City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-26"
+      ]
+    },
+    {
+      "candidateId": "jan-27-mozart-born",
+      "kind": "event",
+      "proposedCanonicalId": "mozart-born-1756",
+      "workingClaim": "January 27, 1756: On January 27, 1756, the composer Wolfgang Amadeus Mozart was born in Salzburg.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-27",
+        "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+      ]
+    },
+    {
+      "candidateId": "jan-27-auschwitz",
+      "kind": "event",
+      "proposedCanonicalId": "auschwitz-liberated-1945",
+      "workingClaim": "January 27, 1945: On January 27, 1945, Soviet troops arrived at Auschwitz, the Nazi concentration and extermination camp near Oswiecim in Poland, and found 7,650 sick and starving prisoners. Between 1.1 and 1.5 million people died there.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Auschwitz"
+      ]
+    },
+    {
+      "candidateId": "jan-27-leningrad",
+      "kind": "event",
+      "proposedCanonicalId": "siege-of-leningrad-ends-1944",
+      "workingClaim": "January 27, 1944: On January 27, 1944, the Soviet Red Army drove German and Finnish forces from the Leningrad area, ending an 872-day siege.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-27"
+      ]
+    },
+    {
+      "candidateId": "jan-27-paris-peace-accords",
+      "kind": "event",
+      "proposedCanonicalId": "paris-peace-accords-signed-1973",
+      "workingClaim": "January 27, 1973: On January 27, 1973, the Paris Peace Accords formally ending the Vietnam War were signed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-27"
+      ]
+    },
+    {
+      "candidateId": "jan-27-dante-exiled",
+      "kind": "event",
+      "proposedCanonicalId": "dante-exiled-from-florence-1302",
+      "workingClaim": "January 27, 1302: On January 27, 1302, the Italian poet Dante Alighieri was exiled from Florence by his political enemies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-27"
+      ]
+    },
+    {
+      "candidateId": "jan-28-lego-patent",
+      "kind": "event",
+      "proposedCanonicalId": "lego-brick-patent-1958",
+      "workingClaim": "January 28, 1958: On January 28, 1958, the patent for the LEGO toy building brick was filed. The brick became hugely popular around the world.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "jan-28-challenger",
+      "kind": "event",
+      "proposedCanonicalId": "challenger-disaster-1986",
+      "workingClaim": "January 28, 1986: On January 28, 1986, the US space shuttle Challenger exploded 73 seconds after liftoff from Florida, killing all seven crew members.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "jan-28-pride-and-prejudice",
+      "kind": "event",
+      "proposedCanonicalId": "pride-and-prejudice-published-1813",
+      "workingClaim": "January 28, 1813: On January 28, 1813, Jane Austen's Pride and Prejudice was published and enjoyed immediate success.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "jan-28-charlemagne-dies",
+      "kind": "event",
+      "proposedCanonicalId": "charlemagne-dies-814",
+      "workingClaim": "January 28, 814: On January 28, 814, Charlemagne, ruler of the Franks and emperor in the West since 800, died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "jan-28-paris-capitulates",
+      "kind": "event",
+      "proposedCanonicalId": "paris-capitulates-1871",
+      "workingClaim": "January 28, 1871: On January 28, 1871, Paris fell to German forces following a four-month siege during the Franco-German War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-28"
+      ]
+    },
+    {
+      "candidateId": "jan-29-benz-patent",
+      "kind": "event",
+      "proposedCanonicalId": "benz-patents-automobile-1886",
+      "workingClaim": "January 29, 1886: On January 29, 1886, Karl Benz patented the first practical automobile powered by an internal-combustion engine.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-29"
+      ]
+    },
+    {
+      "candidateId": "jan-29-the-raven",
+      "kind": "event",
+      "proposedCanonicalId": "the-raven-published-1845",
+      "workingClaim": "January 29, 1845: On January 29, 1845, Edgar Allan Poe's poem 'The Raven' was first published.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-29"
+      ]
+    },
+    {
+      "candidateId": "jan-29-chekhov-born",
+      "kind": "event",
+      "proposedCanonicalId": "anton-chekhov-born-1860",
+      "workingClaim": "January 29, 1860: On January 29, 1860, the Russian playwright and short-story writer Anton Chekhov was born in Taganrog.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-29",
+        "https://www.britannica.com/biography/Anton-Chekhov"
+      ]
+    },
+    {
+      "candidateId": "jan-29-baseball-hof",
+      "kind": "event",
+      "proposedCanonicalId": "baseball-hall-of-fame-first-class-1936",
+      "workingClaim": "January 29, 1936: On January 29, 1936, Babe Ruth and Ty Cobb were among the first players elected to the Baseball Hall of Fame.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-29"
+      ]
+    },
+    {
+      "candidateId": "jan-30-beatles-rooftop",
+      "kind": "event",
+      "proposedCanonicalId": "beatles-rooftop-concert-1969",
+      "workingClaim": "January 30, 1969: On January 30, 1969, the Beatles, John Lennon, Paul McCartney, George Harrison, and Ringo Starr, performed together in public for the last time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    },
+    {
+      "candidateId": "jan-30-gandhi-assassinated",
+      "kind": "event",
+      "proposedCanonicalId": "gandhi-assassinated-1948",
+      "workingClaim": "January 30, 1948: On January 30, 1948, Mahatma Gandhi was assassinated by the Hindu extremist Nathuram Godse.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    },
+    {
+      "candidateId": "jan-30-charles-i-executed",
+      "kind": "event",
+      "proposedCanonicalId": "charles-i-executed-1649",
+      "workingClaim": "January 30, 1649: On January 30, 1649, Charles I of England was executed in London.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    },
+    {
+      "candidateId": "jan-30-hitler-chancellor",
+      "kind": "event",
+      "proposedCanonicalId": "hitler-named-chancellor-1933",
+      "workingClaim": "January 30, 1933: On January 30, 1933, German President Paul von Hindenburg named Adolf Hitler chancellor of Germany.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    },
+    {
+      "candidateId": "jan-30-city-lights",
+      "kind": "event",
+      "proposedCanonicalId": "city-lights-premieres-1931",
+      "workingClaim": "January 30, 1931: On January 30, 1931, Charlie Chaplin's City Lights had its world premiere. It is often considered his crowning achievement.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-30"
+      ]
+    },
+    {
+      "candidateId": "jan-31-brexit",
+      "kind": "event",
+      "proposedCanonicalId": "uk-leaves-european-union-2020",
+      "workingClaim": "January 31, 2020: On January 31, 2020, the United Kingdom formally left the European Union, more than three years after voting to leave.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-31"
+      ]
+    },
+    {
+      "candidateId": "jan-31-schubert-born",
+      "kind": "event",
+      "proposedCanonicalId": "franz-schubert-born-1797",
+      "workingClaim": "January 31, 1797: On January 31, 1797, the composer Franz Schubert was born near Vienna.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-31"
+      ]
+    },
+    {
+      "candidateId": "jan-31-paulus-surrenders",
+      "kind": "event",
+      "proposedCanonicalId": "paulus-surrenders-at-stalingrad-1943",
+      "workingClaim": "January 31, 1943: On January 31, 1943, German Field Marshal Friedrich Paulus surrendered to the Soviet Red Army at Stalingrad.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-31",
+        "https://www.britannica.com/event/Battle-of-Stalingrad"
+      ]
+    },
+    {
+      "candidateId": "jan-31-jackie-robinson-born",
+      "kind": "event",
+      "proposedCanonicalId": "jackie-robinson-born-1919",
+      "workingClaim": "January 31, 1919: On January 31, 1919, Jackie Robinson was born. He became the first African American to play in baseball's major leagues in the 20th century.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-31"
+      ]
+    },
+    {
+      "candidateId": "jan-31-guy-fawkes-executed",
+      "kind": "event",
+      "proposedCanonicalId": "guy-fawkes-executed-1606",
+      "workingClaim": "January 31, 1606: On January 31, 1606, Guy Fawkes was executed in London for his role in the Gunpowder Plot.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-31"
+      ]
+    }
+  ]
+}

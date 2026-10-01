@@ -1,0 +1,833 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-09-15-historical-events",
+  "entries": [
+    {
+      "candidateId": "jan-09-joan-trial",
+      "canonicalId": "joan-of-arc-trial-begins-1431",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 9): 1431: 'Joan the Maid,' age 19, 'was put on trial in France on this day in 1431. She faced more than 70 accusations.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: byname the Maid of Orleans, after the 1429 relief of Orleans; 'a prolonged ecclesiastical trial that began on January 9, 1431, in Rouen'; executed May 30, 1431."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "01-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-09-beauvoir-born",
+      "canonicalId": "simone-de-beauvoir-born-1908",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 9): 1908: Simone de Beauvoir, 'a writer and feminist who gave a literary transcription to the themes of existentialism, was born in Paris.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-09-abbas-elected",
+      "canonicalId": "mahmoud-abbas-elected-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 9): 2005: 'Mahmoud Abbas was elected president of the Palestinian Authority.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-09-itunes",
+      "canonicalId": "apple-introduces-itunes-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 9): 2001: 'Apple introduced iTunes, a digital media player application that ... revolutionized digital music.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-10-rubicon",
+      "canonicalId": "caesar-crosses-rubicon-49bce",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 49 BCE: 'Julius Caesar and his army crossed the Rubicon on this day in 49 bce to take control of the Roman Republic.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-10-common-sense",
+      "canonicalId": "common-sense-published-1776",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1776: 'Thomas Paine published Common Sense, a 50-page pamphlet that sold more than 500,000 copies within a few months and called for a war of independence that would become the American Revolution.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-10-league-established",
+      "canonicalId": "league-of-nations-established-1920",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1920: 'The League of Nations was established in Geneva.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-10-un-general-assembly",
+      "canonicalId": "first-un-general-assembly-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1946: 'The first United Nations General Assembly met in London.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-10-moon-radar",
+      "canonicalId": "radar-echo-from-moon-1946",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 10): 1946: 'Radar signals bouncing off the Moon were detected for the first time.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "01-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-11-ozymandias",
+      "canonicalId": "ozymandias-published-1818",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 11): 1818: 'Percy Bysshe Shelley's sonnet \"Ozymandias\" was published for the first time.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-11-smoking-report",
+      "canonicalId": "surgeon-general-smoking-report-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 11): 1964: 'U.S. Surgeon General Luther L. Terry announced that cigarette smoking is linked to lung cancer.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-11-earhart-pacific",
+      "canonicalId": "earhart-hawaii-to-california-1935",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 11): 1935: 'Amelia Earhart made the first successful solo flight from Hawaii to California, a distance of about 2,400 miles.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Amelia-Earhart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'She departed from Honolulu on January 11 and, after 17 hours and 7 minutes, landed in Oakland the following day'; earlier crossed the Atlantic alone on May 20-21, 1932."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "oceania"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-11-hillary-dies",
+      "canonicalId": "edmund-hillary-dies-2008",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 11): 2008: 'Sir Edmund Hillary died at age 88.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-11-chretien-born",
+      "canonicalId": "jean-chretien-born-1934",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 11): 1934: Jean Chretien born this day; 'served as prime minister of Canada from 1993 to 2003'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-12-tamla-records",
+      "canonicalId": "berry-gordy-launches-tamla-records-1959",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 1959: 'Berry Gordy took a major step toward transforming American music on this day in 1959, when he launched Tamla Records.'"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Motown",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Motown was 'founded by Berry Gordy, Jr., in Detroit in January 1959'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-12-haiti-earthquake",
+      "canonicalId": "haiti-earthquake-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 2010: 'A magnitude-7.0 earthquake devastated Haiti, killing more than 300,000 people.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-12-deep-impact",
+      "canonicalId": "deep-impact-launched-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 2005: 'The U.S. space probe Deep Impact was launched' to study comet Tempel 1."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-12-kenya-emergency-ends",
+      "canonicalId": "kenya-emergency-ends-1960",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 1960: British government ended Kenya emergency declaration following Mau Mau Rebellion."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-12-hattie-caraway",
+      "canonicalId": "hattie-caraway-elected-senate-1932",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 12): 1932: 'Hattie Ophelia Caraway became the first woman elected to the U.S. Senate.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-13-jaccuse",
+      "canonicalId": "zola-publishes-jaccuse-1898",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 13): 1898: 'Novelist and critic Emile Zola published an open letter titled \"J'accuse,\" denouncing the French general staff for its role in the 1894 treason court-martial of Alfred Dreyfus.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-13-folsom",
+      "canonicalId": "johnny-cash-at-folsom-prison-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 13): 1968: 'Johnny Cash recorded the album Johnny Cash at Folsom Prison in front of an audience of some 2,000 inmates.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "01-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-13-douglas-wilder",
+      "canonicalId": "douglas-wilder-sworn-in-1990",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 13): 1990: 'Douglas Wilder was sworn in as the governor of Virginia, making him the first popularly elected African American governor in the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-13-costa-concordia",
+      "canonicalId": "costa-concordia-capsizes-2012",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 13): 2012: 'The Costa Concordia, a cruise ship carrying some 4,200 people, ran aground and capsized off Giglio Island in Italy. Thirty-two people died.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-13"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-14-huygens-titan",
+      "canonicalId": "huygens-lands-on-titan-2005",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 2005: 'The Huygens probe ... landed on Saturn's largest moon, Titan.'"
+        },
+        {
+          "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: 'The Huygens probe successfully landed on Saturn's largest moon Titan at about 11:30 UTC on January 14, 2005'; 'the first - and, so far, the only - landing in the outer solar system'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-14-tosca",
+      "canonicalId": "tosca-premieres-1900",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 1900: 'The opera Tosca ... made its world premiere in Rome's Costanzi Theatre.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-14-ben-ali",
+      "canonicalId": "ben-ali-steps-down-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 2011: Tunisian President Zine al-Abidine Ben Ali stepped down following mass protests in the Jasmine Revolution."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-14-treaty-of-paris-ratified",
+      "canonicalId": "congress-ratifies-treaty-of-paris-1784",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 1784: Continental Congress ratified the Peace of Paris, formally ending the American Revolution."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-14-margrethe-abdicates",
+      "canonicalId": "margrethe-ii-abdicates-2024",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 14): 2024: Queen Margrethe II of Denmark abdicated after 52 years; Crown Prince Frederik became King Frederik X."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-14"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-15-british-museum",
+      "canonicalId": "british-museum-opens-1759",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 15): 1759: 'The British Museum opened to the public in London. It had been established by an act of Parliament in 1753.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-15-wikipedia",
+      "canonicalId": "wikipedia-launches-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 15): 2001: 'Wikipedia, a free Internet-based encyclopaedia that operates under an open-source management style, debuted.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-15-molasses-flood",
+      "canonicalId": "boston-molasses-flood-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 15): 1919: 'A storage tank collapsed in Boston, sending more than two million gallons of molasses flowing through the city's North End.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-15-hudson-landing",
+      "canonicalId": "us-airways-1549-hudson-landing-2009",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 15): 2009: 'US Airways flight 1549, piloted by Captain Chesley (\"Sully\") Sullenberger III, landed in the Hudson River.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "jan-15-rosa-luxemburg",
+      "canonicalId": "rosa-luxemburg-murdered-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/January-15",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Jan 15): 1919: 'Rosa Luxemburg was arrested and murdered in Berlin for fomenting an uprising known as the Spartacus Revolt.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-15"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}
