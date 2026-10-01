@@ -31,7 +31,7 @@ Harris)` with `reviewedOn` 2026-10-01.
 | R3: review quiz content | COMPLETED | 372 draft questions and 44 links to existing questions read. 368 questions and all 44 links approved; 4 questions rejected because their only event was dropped. |
 | R4: promote to canonical | COMPLETED | `editorial/tools/runway/promote_dec26_apr12.py`: 534 events and 109 days appended; packs 170, 180 and 190 published; 44 `relatedEventIds` added after re-checking every snapshot hash. Draft files removed. |
 | R5: checks | COMPLETED | `EditorialReviewCheckCommand` passes for all 18 batches; `mvn -B test` 266 tests, 0 failures; `ContentStatusCommand` (no DB): 0 drafts outside `content/`, every new event and question has an approved entry, 0 unknown related event IDs; `git diff --check` clean. |
-| R6: pull request | IN_PROGRESS | Open a PR; a separate review thread reviews and merges it. The author does not merge. |
+| R6: pull request | IN_PROGRESS | PR #32 opened; a separate review thread reviews and merges it. The author does not merge. |
 | R7: local DB import | NOT_STARTED | After merge: pull main, historical import then quiz import into local Docker Postgres only. |
 | R8: verification | NOT_STARTED | `ContentStatusCommand` against the DB (`inSync: true`) and record counts. |
 | I1: image candidates | NOT_STARTED | See "Image Pass" below. |
