@@ -35,9 +35,9 @@ Harris)` with `reviewedOn` 2026-10-01.
 | R7: local DB import | COMPLETED | From main `6b832bf`, local Docker Postgres only (migrations already current): historical import, then quiz import, both successful. Before: 454 events, 109 days, 230 questions (229 published), 89 relations, 71 event images. After: 988 events, 218 days, 598 questions (597 published), 535 relations, 71 event images. Daily challenges unchanged: 11 challenges, 220 assigned questions. |
 | R8: verification | COMPLETED | `ContentStatusCommand` against the DB: `inSync: true`, no stale, missing or extra events, days or questions. SAM local was not running, so no API check this time (PENDING). |
 | I1: pick images | COMPLETED | Featured events first: 180 featured events from Oct 16 to Apr 12 lacked an image, plus 8 known gaps. Licences and descriptions read from Commons file metadata. Three batches: `2026-10-16-12-25` (64, including the gaps), `2026-12-26-02-29` (58), `2027-03-01-04-12` (37). |
-| I2: prepare and review | COMPLETED | All three batches: `prepare` + `validate` pass and every rendition was checked by eye on contact sheets. Swaps and drops at review are in Image Notes. Final counts: 64, 56 and 35 images (155). |
-| I3: upload to S3 | COMPLETED | 2026-10-01 as `on-this-day-terraform` after the owner renewed the sign-in: dry runs listed only `event-images/<event-id>/<sha256>.jpg` keys, then `--execute` uploaded 155 objects to `on-this-day-media-764574955085`. All 155 CloudFront URLs return 200 `image/jpeg` with bytes matching the manifest sha256. No other objects or resources touched. |
-| I4: attach and PR | IN_PROGRESS | Batch 1 (`claude/event-images-oct16-dec25`): 64 images attached to `content/events.json` without reformatting it (the pipeline's `attach` proposal, then a text-preserving copy checked to parse identically), manifest copied to `editorial/event-images/manifests/`, `imageRightsStatus: verified` on the 64 ledger entries across 13 batches. Review checks for those batches pass; `mvn -B test` 266 tests, 0 failures. Batches 2 and 3 follow as separate PRs. |
+| I2: prepare and review | COMPLETED | All three batches: `prepare` + `validate` pass and every rendition was checked by eye on contact sheets. Swaps and drops at review are in Image Notes. Final counts: 64, 56 and 35 images, plus a 3-image supplement (`2026-11-13-15-supplement`: Stevenson, Ruby Bridges, the League's first Assembly) found on a recount: 158. |
+| I3: upload to S3 | COMPLETED | 2026-10-01 as `on-this-day-terraform` after the owner renewed the sign-in: dry runs listed only `event-images/<event-id>/<sha256>.jpg` keys, then `--execute` uploaded 155 objects (and the 3 supplement objects the same way) to `on-this-day-media-764574955085`. All 158 CloudFront URLs return 200 `image/jpeg` with bytes matching the manifest sha256. No other objects or resources touched. |
+| I4: attach and PR | IN_PROGRESS | Batch 1 (`claude/event-images-oct16-dec25`, PR #33): 64 + 3 supplement images attached to `content/events.json` without reformatting it (the pipeline's `attach` proposal, then a text-preserving copy checked to parse identically), manifest copied to `editorial/event-images/manifests/`, `imageRightsStatus: verified` on the 67 ledger entries across 13 batches. Review checks for those batches pass; `mvn -B test` 266 tests, 0 failures. Batch 2: PR #34 (56). Batch 3: PR #35 (35). |
 | I5: re-import | NOT_STARTED | After each merge: pull main, historical import, `ContentStatusCommand` against the DB. |
 
 ## Result (after R4)
@@ -124,15 +124,16 @@ the new packs are text questions, so no question needs an image.
 
 ### Featured Events Still Without An Image
 
-No image with clear rights and a direct link to the event was found for:
-the UN coming into existence, the last natural smallpox case, the EU's birth
-(Maastricht), Toy Story, Doctor Who, UNICEF, the Paris climate agreement, the
-Anglo-Irish Treaty, Waiting for Godot (the 1953 production photos' public
-domain claim is doubtful), the Beatles' rooftop concert, TheFacebook, element
-112, the Kyoto Protocol, M*A*S*H, the Miracle on Ice, Mandela's release, the
-Treaty of Rome, Please Please Me, Barbie, the Falklands invasion, Nunavut and
-the Good Friday Agreement, the Times Square ball drop, Hank Aaron's 715th
-home run and the Iron Curtain speech. Known gaps still open: the Outer Space Treaty,
+No image with clear rights and a direct link to the event was found for 26
+featured events: French women's first national vote, the UN coming into
+existence, the last natural smallpox case, the EU's birth (Maastricht), Toy
+Story, Doctor Who, the Anglo-Irish Treaty, UNICEF, the Paris climate agreement,
+the Times Square ball drop, Waiting for Godot (the 1953 production photos'
+public domain claim is doubtful), the Beatles' rooftop concert, TheFacebook,
+element 112, Mandela's release, the Kyoto Protocol, the Miracle on Ice,
+M*A*S*H, the Iron Curtain speech, Barbie, Please Please Me, the Treaty of Rome,
+Nunavut, the Falklands invasion, Hank Aaron's 715th home run and the Good
+Friday Agreement. Known gaps still open: the Outer Space Treaty,
 Voskhod 1, the first Oktoberfest and Monty Python. These days use the
 supported image-free layout.
 
