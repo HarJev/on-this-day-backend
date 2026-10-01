@@ -175,10 +175,12 @@ ev(2, 5, "mexico-constitution", "mexican-constitution-adopted-1917", "Mexico ado
    ["americas"], ["1800-1945"], "A constitution still in force",
    "In 1917, Mexico adopted the constitution that still governs the country today.")
 ev(2, 5, "hay-pauncefote", "first-hay-pauncefote-treaty-1900", "The first Hay-Pauncefote Treaty is signed", "1900",
-   "The United States and Britain negotiate over a future canal across Panama.",
-   "On {hd}, the United States and Great Britain signed the first of two Hay-Pauncefote treaties over control of the proposed Panama Canal.",
-   "1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain over control of the proposed Panama Canal.'",
-   ["americas", "europe"], ["1800-1945"])
+   "The United States and Britain sign a treaty on a projected Central American canal.",
+   "On {hd}, the United States and Great Britain signed the first Hay-Pauncefote Treaty, concerning a projected Central American canal. The US Senate declined to ratify it, and a second treaty in 1901 gave the United States a free hand.",
+   "1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain.' (Date only; the page's 'proposed Panama Canal' is not used, as the route was not yet chosen.)",
+   ["americas", "europe"], ["1800-1945"],
+   extra=[art("Hay-Pauncefote Treaty", "https://www.britannica.com/event/Hay-Pauncefote-Treaty",
+              "first treaty, February 5, 1900, concerned 'a projected Central American canal'; the US Senate 'declined to ratify it because it still restricted U.S. rights over the proposed canal'; the second treaty (1901) 'definitely abrogated the agreement of 1850 and gave the United States a free hand'.")])
 ev(2, 5, "apollo-14", "apollo-14-lands-on-moon-1971", "Apollo 14 lands on the Moon", "1971",
    "Alan Shepard and Edgar Mitchell touch down in the Fra Mauro highlands.",
    "On {hd}, Apollo 14's lunar module landed in the Fra Mauro highlands of the Moon. Commander Alan Shepard later swung at two golf balls with a makeshift club.",
@@ -495,9 +497,9 @@ ev(2, 15, "galileo-born", "galileo-galilei-born-1564", "Galileo Galilei is born 
 
 # ---------------------------------------------------------------- Feb 16
 ev(2, 16, "kyoto-protocol", "kyoto-protocol-in-force-2005", "The Kyoto Protocol takes effect", "2005",
-   "The climate treaty enters into force eight years after its adoption.",
-   "On {hd}, the Kyoto Protocol, an agreement to reduce emissions of gases that contribute to global warming, went into effect, eight years after its adoption in Kyoto, Japan.",
-   "2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.'",
+   "The climate treaty enters into force more than seven years after its adoption.",
+   "On {hd}, the Kyoto Protocol, an agreement to reduce emissions of gases that contribute to global warming, went into effect, more than seven years after its adoption in Kyoto, Japan, in December 1997.",
+   "2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.' (Date only; adopted December 1997, so just over seven years, per the article below.)",
    ["global", "asia"], ["contemporary"], "A climate treaty takes effect",
    "In 2005, the Kyoto Protocol to cut greenhouse gas emissions came into force.",
    extra=[art("Kyoto Protocol", "https://www.britannica.com/event/Kyoto-Protocol",
@@ -864,11 +866,13 @@ ev(2, 28, "benedict-resigns", "benedict-xvi-resigns-2013", "Pope Benedict XVI re
    "On {hd}, Benedict XVI became the first pope to resign since Gregory XII in 1415.",
    "2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.'",
    ["europe", "global"], ["contemporary"])
-ev(2, 28, "egypt-independence", "egypt-declared-independent-1922", "Egypt is declared independent", "1922",
-   "The British protectorate over Egypt ends.",
-   "On {hd}, Egypt declared its independence, ending the British protectorate.",
-   "1922: 'Egypt declared its independence, ending the British protectorate.'",
-   ["africa", "middle-east"], ["1800-1945"])
+ev(2, 28, "egypt-independence", "egypt-declared-independent-1922", "Britain declares Egypt independent", "1922",
+   "The British protectorate over Egypt ends, though Britain keeps certain powers.",
+   "On {hd}, Britain unilaterally declared Egypt independent, ending its protectorate while reserving certain powers. Fuad I became king of Egypt.",
+   "1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.)",
+   ["africa", "middle-east"], ["1800-1945"],
+   extra=[art("Egypt: The Wafd and independence", "https://www.britannica.com/place/Egypt/The-Wafd-and-independence",
+              "'The British declared Egypt independent in 1922, albeit reserving certain powers, and Fu'ad I became king.'")])
 ev(2, 28, "taiwan-228", "taiwan-228-incident-1947", "The 228 Incident spreads across Taiwan", "1947",
    "Protests against the ruling Kuomintang sweep the island.",
    "On {hd}, protests against the ruling Kuomintang (KMT) spread across Taiwan, in what became known as the 228 Incident.",
@@ -956,9 +960,9 @@ ev(3, 2, "wilt-100", "wilt-chamberlain-scores-100-1962", "Wilt Chamberlain score
    "1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.'",
    ["americas"], ["cold-war"])
 ev(3, 2, "morocco-independence", "morocco-independence-1956", "Morocco proclaims independence from France", "1956",
-   "Sultan Muhammad V forms the first government.",
-   "On {hd}, Morocco proclaimed its independence from France, and the sultan Muhammad V formed its first government.",
-   "1956: 'Morocco proclaimed independence from France. The sultan Muhammad V formed its first government.'",
+   "France's protectorate over Morocco ends.",
+   "On {hd}, Morocco proclaimed its independence from France.",
+   "1956: 'Morocco proclaimed independence from France.'",
    ["africa"], ["decolonization"])
 ev(3, 2, "gorbachev-born", "mikhail-gorbachev-born-1931", "Mikhail Gorbachev is born", "1931",
    "The last leader of the Soviet Union is born.",

@@ -396,14 +396,18 @@
       "year": "1900",
       "historicalDate": "February 5, 1900",
       "dateNote": null,
-      "summary": "The United States and Britain negotiate over a future canal across Panama.",
-      "description": "On February 5, 1900, the United States and Great Britain signed the first of two Hay-Pauncefote treaties over control of the proposed Panama Canal.",
+      "summary": "The United States and Britain sign a treaty on a projected Central American canal.",
+      "description": "On February 5, 1900, the United States and Great Britain signed the first Hay-Pauncefote Treaty, concerning a projected Central American canal. The US Senate declined to ratify it, and a second treaty in 1901 gave the United States a free hand.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: February 5",
           "url": "https://www.britannica.com/on-this-day/February-5"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Hay-Pauncefote Treaty",
+          "url": "https://www.britannica.com/event/Hay-Pauncefote-Treaty"
         }
       ],
       "images": []

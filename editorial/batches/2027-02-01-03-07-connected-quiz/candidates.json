@@ -139,15 +139,6 @@
       ]
     },
     {
-      "candidateId": "hay-pauncefote-canal",
-      "kind": "quiz",
-      "proposedCanonicalId": "hay-pauncefote-canal",
-      "workingClaim": "The Hay-Pauncefote treaties between the United States and Britain concerned a proposed canal across which isthmus? Answer: Panama. Proposed additional link on 02-05: first-hay-pauncefote-treaty-1900. Other isthmuses associated with canals or canal plans.",
-      "sourceUrls": [
-        "https://www.britannica.com/on-this-day/February-5"
-      ]
-    },
-    {
       "candidateId": "elizabeth-ii-father",
       "kind": "quiz",
       "proposedCanonicalId": "elizabeth-ii-father",
@@ -828,9 +819,10 @@
       "candidateId": "egypt-protectorate-power",
       "kind": "quiz",
       "proposedCanonicalId": "egypt-protectorate-power",
-      "workingClaim": "Egypt declared independence in 1922, ending a protectorate held by which country? Answer: Britain. Proposed additional link on 02-28: egypt-declared-independent-1922. Other powers active in the region.",
+      "workingClaim": "In 1922, which country unilaterally declared Egypt independent, ending its protectorate there? Answer: Britain. Proposed additional link on 02-28: egypt-declared-independent-1922. Other powers active in the region.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/February-28"
+        "https://www.britannica.com/on-this-day/February-28",
+        "https://www.britannica.com/place/Egypt/The-Wafd-and-independence"
       ]
     },
     {

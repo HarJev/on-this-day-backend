@@ -822,7 +822,13 @@
           "url": "https://www.britannica.com/on-this-day/February-28",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.'"
+          "note": "Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.)"
+        },
+        {
+          "url": "https://www.britannica.com/place/Egypt/The-Wafd-and-independence",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The British declared Egypt independent in 1922, albeit reserving certain powers, and Fu'ad I became king.'"
         }
       ],
       "imageRightsStatus": "not_applicable",

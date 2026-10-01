@@ -570,45 +570,6 @@
       ]
     },
     {
-      "id": "hay-pauncefote-canal",
-      "type": "multiple_choice",
-      "difficulty": "medium",
-      "publicationState": "draft",
-      "prompt": "The Hay-Pauncefote treaties between the United States and Britain concerned a proposed canal across which isthmus?",
-      "options": [
-        {
-          "id": "suez",
-          "text": "Suez"
-        },
-        {
-          "id": "panama",
-          "text": "Panama"
-        },
-        {
-          "id": "corinth",
-          "text": "Corinth"
-        },
-        {
-          "id": "kra",
-          "text": "Kra"
-        }
-      ],
-      "correctOptionId": "panama",
-      "explanation": "The first Hay-Pauncefote Treaty, signed on February 5, 1900, dealt with control of the proposed Panama Canal.",
-      "sources": [
-        {
-          "displayName": "Encyclopaedia Britannica - On This Day: February 5",
-          "url": "https://www.britannica.com/on-this-day/February-5"
-        }
-      ],
-      "collectionIds": [
-        "exploration-and-exchange"
-      ],
-      "relatedEventIds": [
-        "first-hay-pauncefote-treaty-1900"
-      ]
-    },
-    {
       "id": "elizabeth-ii-father",
       "type": "multiple_choice",
       "difficulty": "easy",
@@ -3487,7 +3448,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "draft",
-      "prompt": "Egypt declared independence in 1922, ending a protectorate held by which country?",
+      "prompt": "In 1922, which country unilaterally declared Egypt independent, ending its protectorate there?",
       "options": [
         {
           "id": "france",
@@ -3507,11 +3468,15 @@
         }
       ],
       "correctOptionId": "britain",
-      "explanation": "Egypt's declaration of February 28, 1922, ended the British protectorate.",
+      "explanation": "On February 28, 1922, Britain declared Egypt independent, ending its protectorate while reserving certain powers.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - On This Day: February 28",
           "url": "https://www.britannica.com/on-this-day/February-28"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Egypt: The Wafd and independence",
+          "url": "https://www.britannica.com/place/Egypt/The-Wafd-and-independence"
         }
       ],
       "collectionIds": [
@@ -3971,7 +3936,7 @@
         }
       ],
       "correctOptionId": "france",
-      "explanation": "Morocco proclaimed independence from France on March 2, 1956, and Sultan Muhammad V formed its first government.",
+      "explanation": "Morocco proclaimed independence from France on March 2, 1956.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - On This Day: March 2",

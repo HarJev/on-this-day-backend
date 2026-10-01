@@ -538,7 +538,13 @@
           "url": "https://www.britannica.com/on-this-day/February-5",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain over control of the proposed Panama Canal.'"
+          "note": "Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain.' (Date only; the page's 'proposed Panama Canal' is not used, as the route was not yet chosen.)"
+        },
+        {
+          "url": "https://www.britannica.com/event/Hay-Pauncefote-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: first treaty, February 5, 1900, concerned 'a projected Central American canal'; the US Senate 'declined to ratify it because it still restricted U.S. rights over the proposed canal'; the second treaty (1901) 'definitely abrogated the agreement of 1850 and gave the United States a free hand'."
         }
       ],
       "imageRightsStatus": "not_applicable",

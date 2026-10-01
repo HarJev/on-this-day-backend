@@ -358,7 +358,7 @@
           "url": "https://www.britannica.com/on-this-day/February-5",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 5): 1917: 'Mexico adopted its present constitution, which posits that the Mexican government should take an active, rather than passive, role in day-to-day affairs.' | Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain over control of the proposed Panama Canal.' | Britannica On This Day (Feb 5): 1985: 'Soccer player Cristiano Ronaldo ... was born in Funchal, Portugal.' | Britannica On This Day (Feb 5): 2003: 'U.S. Secretary of State Colin Powell appeared before the United Nations Security Council to present evidence ... that Iraq possessed weapons of mass destruction.'"
+          "note": "Britannica On This Day (Feb 5): 1917: 'Mexico adopted its present constitution, which posits that the Mexican government should take an active, rather than passive, role in day-to-day affairs.' | Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain.' (Date only; the page's 'proposed Panama Canal' is not used, as the route was not yet chosen.) | Britannica On This Day (Feb 5): 1985: 'Soccer player Cristiano Ronaldo ... was born in Funchal, Portugal.' | Britannica On This Day (Feb 5): 2003: 'U.S. Secretary of State Colin Powell appeared before the United Nations Security Council to present evidence ... that Iraq possessed weapons of mass destruction.'"
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -372,31 +372,6 @@
         "02-05"
       ],
       "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match on the featured event; its longevity is the surprise. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
-    },
-    {
-      "candidateId": "hay-pauncefote-canal",
-      "canonicalId": "hay-pauncefote-canal",
-      "reviewStatus": "source_verified",
-      "sourceChecks": [
-        {
-          "url": "https://www.britannica.com/on-this-day/February-5",
-          "status": "verified_supporting",
-          "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 5): 1917: 'Mexico adopted its present constitution, which posits that the Mexican government should take an active, rather than passive, role in day-to-day affairs.' | Britannica On This Day (Feb 5): 1900: 'The first of two Hay-Pauncefote treaties ... was signed between the United States and Great Britain over control of the proposed Panama Canal.' | Britannica On This Day (Feb 5): 1985: 'Soccer player Cristiano Ronaldo ... was born in Funchal, Portugal.' | Britannica On This Day (Feb 5): 2003: 'U.S. Secretary of State Colin Powell appeared before the United Nations Security Council to present evidence ... that Iraq possessed weapons of mass destruction.'"
-        }
-      ],
-      "imageRightsStatus": "not_applicable",
-      "regions": [
-        "americas",
-        "europe"
-      ],
-      "eras": [
-        "1800-1945"
-      ],
-      "calendarDays": [
-        "02-05"
-      ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other isthmuses associated with canals or canal plans. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
     },
     {
       "candidateId": "elizabeth-ii-father",
@@ -1295,7 +1270,7 @@
           "url": "https://www.britannica.com/on-this-day/February-16",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 16): 2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.' | Britannica On This Day (Feb 16): 1918: 'The 20-member Taryba ... proclaimed their country an independent state' (Lithuania). | Britannica On This Day (Feb 16): 1937: 'DuPont chemist Wallace Hume Carothers patented nylon.' | Britannica On This Day (Feb 16): 1959: Fidel Castro became premier of Cuba. | Britannica On This Day (Feb 16): 1861: 'Abraham Lincoln stopped at Westfield, New York' where he met 12-year-old Grace Bedell, who had suggested he grow a beard."
+          "note": "Britannica On This Day (Feb 16): 2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.' (Date only; adopted December 1997, so just over seven years, per the article below.) | Britannica On This Day (Feb 16): 1918: 'The 20-member Taryba ... proclaimed their country an independent state' (Lithuania). | Britannica On This Day (Feb 16): 1937: 'DuPont chemist Wallace Hume Carothers patented nylon.' | Britannica On This Day (Feb 16): 1959: Fidel Castro became premier of Cuba. | Britannica On This Day (Feb 16): 1861: 'Abraham Lincoln stopped at Westfield, New York' where he met 12-year-old Grace Bedell, who had suggested he grow a beard."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -1319,7 +1294,7 @@
           "url": "https://www.britannica.com/on-this-day/February-16",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 16): 2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.' | Britannica On This Day (Feb 16): 1918: 'The 20-member Taryba ... proclaimed their country an independent state' (Lithuania). | Britannica On This Day (Feb 16): 1937: 'DuPont chemist Wallace Hume Carothers patented nylon.' | Britannica On This Day (Feb 16): 1959: Fidel Castro became premier of Cuba. | Britannica On This Day (Feb 16): 1861: 'Abraham Lincoln stopped at Westfield, New York' where he met 12-year-old Grace Bedell, who had suggested he grow a beard."
+          "note": "Britannica On This Day (Feb 16): 2005: 'The Kyoto Protocol ... went into effect, eight years after its adoption.' (Date only; adopted December 1997, so just over seven years, per the article below.) | Britannica On This Day (Feb 16): 1918: 'The 20-member Taryba ... proclaimed their country an independent state' (Lithuania). | Britannica On This Day (Feb 16): 1937: 'DuPont chemist Wallace Hume Carothers patented nylon.' | Britannica On This Day (Feb 16): 1959: Fidel Castro became premier of Cuba. | Britannica On This Day (Feb 16): 1861: 'Abraham Lincoln stopped at Westfield, New York' where he met 12-year-old Grace Bedell, who had suggested he grow a beard."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -2216,7 +2191,7 @@
           "url": "https://www.britannica.com/on-this-day/February-28",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
+          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.) | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -2241,7 +2216,13 @@
           "url": "https://www.britannica.com/on-this-day/February-28",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
+          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.) | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
+        },
+        {
+          "url": "https://www.britannica.com/place/Egypt/The-Wafd-and-independence",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'The British declared Egypt independent in 1922, albeit reserving certain powers, and Fu'ad I became king.'"
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -2266,7 +2247,7 @@
           "url": "https://www.britannica.com/on-this-day/February-28",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
+          "note": "Britannica On This Day (Feb 28): 1983: 'the U.S. tuned in to watch the finale of the long-running television series M*A*S*H'. | Britannica On This Day (Feb 28): 2013: 'Benedict XVI became the first pope to resign since Gregory XII in 1415.' | Britannica On This Day (Feb 28): 1922: 'Egypt declared its independence, ending the British protectorate.' (Date only; the framing follows the article below.) | Britannica On This Day (Feb 28): 1947: 'protests against the ruling Kuomintang (KMT) spread across Taiwan. Known as the 228 Incident'. | Britannica On This Day (Feb 28): 1986: 'Olof Palme, the internationally prominent prime minister of Sweden ... was assassinated.'"
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -2515,7 +2496,7 @@
           "url": "https://www.britannica.com/on-this-day/March-2",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Mar 2): 1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.' | Britannica On This Day (Mar 2): 1956: 'Morocco proclaimed independence from France. The sultan Muhammad V formed its first government.' | Britannica On This Day (Mar 2): Famous Birthdays: 1931, Mikhail Gorbachev was born. | Britannica On This Day (Mar 2): 1904: Dr. Seuss was 'born in Springfield, Massachusetts'."
+          "note": "Britannica On This Day (Mar 2): 1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.' | Britannica On This Day (Mar 2): 1956: 'Morocco proclaimed independence from France.' | Britannica On This Day (Mar 2): Famous Birthdays: 1931, Mikhail Gorbachev was born. | Britannica On This Day (Mar 2): 1904: Dr. Seuss was 'born in Springfield, Massachusetts'."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -2539,7 +2520,7 @@
           "url": "https://www.britannica.com/on-this-day/March-2",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Mar 2): 1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.' | Britannica On This Day (Mar 2): 1956: 'Morocco proclaimed independence from France. The sultan Muhammad V formed its first government.' | Britannica On This Day (Mar 2): Famous Birthdays: 1931, Mikhail Gorbachev was born. | Britannica On This Day (Mar 2): 1904: Dr. Seuss was 'born in Springfield, Massachusetts'."
+          "note": "Britannica On This Day (Mar 2): 1962 (featured): 'Wilt Chamberlain scored a record 100 points in a single NBA game - a record that has not been surpassed to this day.' | Britannica On This Day (Mar 2): 1956: 'Morocco proclaimed independence from France.' | Britannica On This Day (Mar 2): Famous Birthdays: 1931, Mikhail Gorbachev was born. | Britannica On This Day (Mar 2): 1904: Dr. Seuss was 'born in Springfield, Massachusetts'."
         }
       ],
       "imageRightsStatus": "not_applicable",

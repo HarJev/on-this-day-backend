@@ -48,22 +48,23 @@ source's check note from the event ledgers, so run the event generator first.
 | S1: branch from latest main | COMPLETED | `claude/content-feb01-mar07-3gezpy` from `1f7f3fc` (PR #29 merged). |
 | S2: research | COMPLETED | Britannica On This Day pages for all 36 days read 2026-10-01, plus article pages (Britannica, NASA, Penn Engineering, University of Cambridge, UNESCO) for events and quiz facts. |
 | S3: draft events | COMPLETED | `b0201.py`: 180 events, 36 days, five on every day. Every featured event has notification copy within 60/90 characters. |
-| S4: draft quiz questions and links | COMPLETED | `build_feb_mar_cycle.py`: 126 new draft questions (109 multiple choice, 14 true/false, 3 ordering; 59 easy, 61 medium, 6 hard) and 14 relation proposals for unchanged published questions (5 image questions with inherited rights). Every day has at least three quiz hooks. Correct multiple-choice positions are balanced (27/27/28/27); true/false answers are 8 true, 6 false. |
+| S4: draft quiz questions and links | COMPLETED | `build_feb_mar_cycle.py`: 125 new draft questions (108 multiple choice, 14 true/false, 3 ordering; 59 easy, 60 medium, 6 hard) and 14 relation proposals for unchanged published questions (5 image questions with inherited rights). Every day has at least three quiz hooks. Correct multiple-choice positions are balanced (27/26/28/27); true/false answers are 8 true, 6 false. |
 | S5: validation | COMPLETED | Canonical validators on canonical + all drafts merged (`merge.py`, `ValidateMerged.java`, drafts marked published so publish-time checks run): events valid, quiz valid, only pre-existing warnings (missing images, editorial exceptions, small ancient-rome collection). `EditorialReviewCheckCommand` passes for all six batches. Structural script: dates match days, IDs unique against canonical and every draft batch, descriptions start with the date, no Wikipedia, featured copy within limits. `mvn -B test`: 266 tests, 0 failures (drafts are outside `content/`). |
 | S6: pull request | COMPLETED | PR #30 opened; awaiting a separate review thread (the author does not merge). Next after merge: owner review and promotion, then local DB import. |
+| S7: review fixes | COMPLETED | Four key-fact fixes from the PR #30 review applied (see below); generators rerun, validators, review checks and `mvn -B test` (266, 0 failures) pass again. Back with the reviewer. |
 
 ## Counts
 
 | Day range | Events | Quiz hooks (new + links) |
 | --- | --- | --- |
-| Feb 1 to 7 | 35 | 29 |
+| Feb 1 to 7 | 35 | 28 |
 | Feb 8 to 14 | 35 | 28 |
 | Feb 15 to 21 | 35 | 24 |
 | Feb 22 to 29 | 40 | 30 |
 | Mar 1 to 7 | 35 | 29 |
 
-After promotion of this batch and PR #29's, the bank would reach 440 published
-questions (229 + 85 + 126).
+After promotion of this batch and PR #29's, the bank would reach 439 published
+questions (229 + 85 + 125).
 
 ## Dropped or adjusted while drafting
 
@@ -99,6 +100,24 @@ Applied under the owner's rule (drop a disputed date or key fact, don't rework):
   attempt of 1981 and the Met Museum's opening.
 - The Gregorian calendar bull (Feb 24, 1582) predates the reform it ordered, so it carries a
   Julian `dateNote`; it is distinct from the canonical `gregorian-calendar-takes-effect-1582`.
+
+## Review fixes (2026-10-01)
+
+The PR #30 review found four key-fact errors carried over from Britannica day pages:
+
+- Kyoto Protocol (Feb 16): in force more than seven years after its December 1997 adoption, not
+  "eight years" as the day page says.
+- Egypt (Feb 28, 1922): reframed as Britain unilaterally declaring Egypt independent while
+  reserving certain powers, citing Britannica's "Egypt: The Wafd and independence". The
+  `egypt-protectorate-power` question now asks which country declared Egypt independent.
+- First Hay-Pauncefote Treaty (Feb 5, 1900): it concerned a projected Central American canal and
+  the US Senate never ratified it; the event says so and cites Britannica's Hay-Pauncefote Treaty
+  article. The `hay-pauncefote-canal` question was dropped (Feb 5 keeps its other hooks).
+- Morocco (Mar 2, 1956): the unsupported "Muhammad V formed its first government" claim is
+  removed from the event and the quiz explanation.
+
+The optional Hoover Dam wording ("turned over to the federal government") was not taken: the
+cited day page says "completed"; the reviewer marked the change optional.
 
 ## Kept With A Note
 
