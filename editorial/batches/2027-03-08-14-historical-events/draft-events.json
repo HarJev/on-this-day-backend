@@ -1,0 +1,670 @@
+{
+  "events": [
+    {
+      "id": "frazier-defeats-ali-1971",
+      "title": "Joe Frazier beats Muhammad Ali in the Fight of the Century",
+      "year": "1971",
+      "historicalDate": "March 8, 1971",
+      "dateNote": null,
+      "summary": "Frazier keeps the heavyweight title in a 15-round decision.",
+      "description": "On March 8, 1971, Joe Frazier retained his world heavyweight championship by winning a 15-round decision over the former champion Muhammad Ali.",
+      "notificationTitle": "Frazier and Ali go 15 rounds",
+      "notificationBody": "In 1971, Joe Frazier kept his heavyweight title, outpointing Muhammad Ali over 15 rounds.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "february-revolution-begins-1917",
+      "title": "Rioting in Petrograd begins Russia's February Revolution",
+      "year": "1917",
+      "historicalDate": "March 8, 1917",
+      "dateNote": "Gregorian date. Russia then used the Julian calendar, 13 days behind.",
+      "summary": "Unrest in the capital starts the revolution that topples the tsar.",
+      "description": "On March 8, 1917, rioting in Petrograd (now St. Petersburg) marked the beginning of the February Revolution, the first stage of the Russian Revolution, in which the monarchy was overthrown.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        },
+        {
+          "name": "Encyclopaedia Britannica - February Revolution",
+          "url": "https://www.britannica.com/event/February-Revolution"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "senate-adopts-cloture-1917",
+      "title": "The US Senate adopts a rule to limit filibusters",
+      "year": "1917",
+      "historicalDate": "March 8, 1917",
+      "dateNote": null,
+      "summary": "Cloture gives senators a way to end debate.",
+      "description": "On March 8, 1917, the US Senate voted to limit filibusters by adopting the rule of cloture.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "new-york-stock-exchange-constituted-1817",
+      "title": "The New York Stock Exchange is formally created",
+      "year": "1817",
+      "historicalDate": "March 8, 1817",
+      "dateNote": null,
+      "summary": "Brokers who first met under a buttonwood tree organize a formal exchange.",
+      "description": "On March 8, 1817, the New York Stock Exchange was formally created, as the New York Stock and Exchange Board. It grew out of a 1792 meeting of 24 brokers under a buttonwood tree on what is now Wall Street.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        },
+        {
+          "name": "Encyclopaedia Britannica - New York Stock Exchange",
+          "url": "https://www.britannica.com/topic/New-York-Stock-Exchange"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "oliver-wendell-holmes-jr-born-1841",
+      "title": "Oliver Wendell Holmes, Jr., is born in Boston",
+      "year": "1841",
+      "historicalDate": "March 8, 1841",
+      "dateNote": null,
+      "summary": "The future Supreme Court justice and legal historian is born.",
+      "description": "On March 8, 1841, Oliver Wendell Holmes, Jr., the future US Supreme Court justice and legal historian, was born in Boston.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 8",
+          "url": "https://www.britannica.com/on-this-day/March-8"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "barbie-debuts-1959",
+      "title": "Barbie debuts at the American International Toy Fair",
+      "year": "1959",
+      "historicalDate": "March 9, 1959",
+      "dateNote": null,
+      "summary": "Mattel introduces the doll in New York City.",
+      "description": "On March 9, 1959, the Barbie doll debuted at the American International Toy Fair in New York City. Mattel cofounder Ruth Handler led its introduction.",
+      "notificationTitle": "A doll is born at the Toy Fair",
+      "notificationBody": "In 1959, Mattel introduced Barbie at the American International Toy Fair in New York.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Barbie",
+          "url": "https://www.britannica.com/topic/Barbie"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "monitor-and-virginia-battle-1862",
+      "title": "The ironclads Monitor and Virginia fight at Hampton Roads",
+      "year": "1862",
+      "historicalDate": "March 9, 1862",
+      "dateNote": null,
+      "summary": "Two armored warships meet in the first battle between ironclads.",
+      "description": "On March 9, 1862, the ironclads Monitor and Virginia (the former Merrimack) battled at Hampton Roads, Virginia, during the American Civil War, the first fight between ironclad warships.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "yuri-gagarin-born-1934",
+      "title": "Yuri Gagarin is born",
+      "year": "1934",
+      "historicalDate": "March 9, 1934",
+      "dateNote": null,
+      "summary": "The first human to travel into space is born near Gzhatsk.",
+      "description": "On March 9, 1934, Yuri Gagarin, who in 1961 became the first human to travel into space, was born near Gzhatsk in the Soviet Union (the town is now called Gagarin).",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Yuri Gagarin",
+          "url": "https://www.britannica.com/biography/Yuri-Gagarin"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "napoleon-marries-josephine-1796",
+      "title": "Napoleon Bonaparte marries Josephine",
+      "year": "1796",
+      "historicalDate": "March 9, 1796",
+      "dateNote": null,
+      "summary": "The young general weds the widow Marie-Josephe-Rose Tascher.",
+      "description": "On March 9, 1796, Napoleon Bonaparte married Marie-Josephe-Rose Tascher de La Pagerie, the widowed Josephine de Beauharnais, in Paris.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bobby-fischer-born-1943",
+      "title": "Bobby Fischer is born in Chicago",
+      "year": "1943",
+      "historicalDate": "March 9, 1943",
+      "dateNote": null,
+      "summary": "The future world chess champion is born.",
+      "description": "On March 9, 1943, the chess player Bobby Fischer, who became world champion in 1972, was born in Chicago.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 9",
+          "url": "https://www.britannica.com/on-this-day/March-9"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bell-first-telephone-speech-1876",
+      "title": "Bell calls 'Mr. Watson, come here'",
+      "year": "1876",
+      "historicalDate": "March 10, 1876",
+      "dateNote": null,
+      "summary": "Alexander Graham Bell first transmits intelligible speech.",
+      "description": "On March 10, 1876, Alexander Graham Bell first produced intelligible speech with his telephone, summoning his assistant Thomas A. Watson with the words 'Mr. Watson, come here, I want to see you.'",
+      "notificationTitle": "Mr. Watson, come here",
+      "notificationBody": "In 1876, Alexander Graham Bell first sent clear speech by telephone to his assistant.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Alexander Graham Bell",
+          "url": "https://www.britannica.com/biography/Alexander-Graham-Bell"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "park-geun-hye-removed-2017",
+      "title": "South Korea's Constitutional Court removes President Park Geun-hye",
+      "year": "2017",
+      "historicalDate": "March 10, 2017",
+      "dateNote": null,
+      "summary": "The court upholds her impeachment, ending her presidency.",
+      "description": "On March 10, 2017, South Korea's Constitutional Court upheld the impeachment of President Park Geun-hye, ending her presidency.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mars-reconnaissance-orbiter-arrives-2006",
+      "title": "Mars Reconnaissance Orbiter enters orbit around Mars",
+      "year": "2006",
+      "historicalDate": "March 10, 2006",
+      "dateNote": null,
+      "summary": "NASA's spacecraft begins searching for signs of water.",
+      "description": "On March 10, 2006, NASA's Mars Reconnaissance Orbiter entered orbit around Mars and began searching for signs of water on the planet.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "james-earl-ray-pleads-guilty-1969",
+      "title": "James Earl Ray pleads guilty to killing Martin Luther King, Jr.",
+      "year": "1969",
+      "historicalDate": "March 10, 1969",
+      "dateNote": null,
+      "summary": "He is sentenced to 99 years in prison.",
+      "description": "On March 10, 1969, James Earl Ray pleaded guilty to murdering the civil rights leader Martin Luther King, Jr., and was sentenced to 99 years in prison.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "buffy-the-vampire-slayer-premieres-1997",
+      "title": "Buffy the Vampire Slayer premieres",
+      "year": "1997",
+      "historicalDate": "March 10, 1997",
+      "dateNote": null,
+      "summary": "The television series makes its debut.",
+      "description": "On March 10, 1997, the television series Buffy the Vampire Slayer premiered.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 10",
+          "url": "https://www.britannica.com/on-this-day/March-10"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "a-raisin-in-the-sun-opens-1959",
+      "title": "A Raisin in the Sun opens on Broadway",
+      "year": "1959",
+      "historicalDate": "March 11, 1959",
+      "dateNote": null,
+      "summary": "Lorraine Hansberry becomes the first Black woman to have a play produced on Broadway.",
+      "description": "On March 11, 1959, Lorraine Hansberry's play A Raisin in the Sun debuted on Broadway. Hansberry, then 29, became the first Black woman to have a play produced on Broadway, and the play won the New York Drama Critics' Circle Award.",
+      "notificationTitle": "A Broadway first for Lorraine Hansberry",
+      "notificationBody": "In 1959, A Raisin in the Sun opened, the first Broadway play by a Black woman.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Lorraine Hansberry",
+          "url": "https://www.britannica.com/biography/Lorraine-Hansberry"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "japan-earthquake-and-tsunami-2011",
+      "title": "An earthquake and tsunami strike northeastern Japan",
+      "year": "2011",
+      "historicalDate": "March 11, 2011",
+      "dateNote": null,
+      "summary": "The disaster triggers a major nuclear accident.",
+      "description": "On March 11, 2011, an earthquake struck off the northeastern coast of Honshu, Japan, causing widespread damage and triggering a devastating tsunami that led to a major nuclear accident.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lithuania-declares-independence-1990",
+      "title": "Lithuania declares independence from the Soviet Union",
+      "year": "1990",
+      "historicalDate": "March 11, 1990",
+      "dateNote": null,
+      "summary": "It is the first Soviet republic to do so.",
+      "description": "On March 11, 1990, Lithuania became the first Soviet republic to declare independence from the USSR.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "lend-lease-act-1941",
+      "title": "The US Congress passes the Lend-Lease Act",
+      "year": "1941",
+      "historicalDate": "March 11, 1941",
+      "dateNote": null,
+      "summary": "The president gains power to aid nations vital to US defense.",
+      "description": "On March 11, 1941, the Lend-Lease Act became law in the United States, giving the president authority to aid any nation whose defense was believed vital to US interests.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gorbachev-becomes-soviet-leader-1985",
+      "title": "Mikhail Gorbachev becomes the Soviet leader",
+      "year": "1985",
+      "historicalDate": "March 11, 1985",
+      "dateNote": null,
+      "summary": "He succeeds Konstantin Chernenko.",
+      "description": "On March 11, 1985, Mikhail Gorbachev succeeded Konstantin Chernenko as leader of the Soviet Union.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 11",
+          "url": "https://www.britannica.com/on-this-day/March-11"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gandhi-salt-march-begins-1930",
+      "title": "Gandhi begins the Salt March",
+      "year": "1930",
+      "historicalDate": "March 12, 1930",
+      "dateNote": null,
+      "summary": "A walk to the sea challenges Britain's salt laws in India.",
+      "description": "On March 12, 1930, Mohandas Gandhi set out from his ashram at Sabarmati, near Ahmadabad, on the Salt March, a walk of some 240 miles (385 km) to the sea at Dandi to protest British control of salt in India.",
+      "notificationTitle": "A march to the sea for salt",
+      "notificationBody": "In 1930, Gandhi set out on the Salt March, a 240-mile walk to the sea at Dandi.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Salt March",
+          "url": "https://www.britannica.com/event/Salt-March"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-american-girl-guides-troop-1912",
+      "title": "Juliette Gordon Low forms the first American Girl Guides troop",
+      "year": "1912",
+      "historicalDate": "March 12, 1912",
+      "dateNote": null,
+      "summary": "The movement later becomes the Girl Scouts.",
+      "description": "On March 12, 1912, Juliette Gordon Low formed the first troop of American Girl Guides, in Savannah, Georgia. By 1915 the movement was called the Girl Scouts of the United States of America.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Juliette Gordon Low",
+          "url": "https://www.britannica.com/biography/Juliette-Gordon-Low"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "truman-doctrine-1947",
+      "title": "President Truman sets out the Truman Doctrine",
+      "year": "1947",
+      "historicalDate": "March 12, 1947",
+      "dateNote": null,
+      "summary": "The policy pledges US support against communist pressure.",
+      "description": "On March 12, 1947, US President Harry S. Truman articulated what became known as the Truman Doctrine.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-fireside-chat-1933",
+      "title": "Franklin D. Roosevelt gives his first fireside chat",
+      "year": "1933",
+      "historicalDate": "March 12, 1933",
+      "dateNote": null,
+      "summary": "The president speaks to Americans by radio.",
+      "description": "On March 12, 1933, US President Franklin D. Roosevelt gave his first fireside chat.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "poland-hungary-czechia-join-nato-1999",
+      "title": "Poland, Hungary and the Czech Republic join NATO",
+      "year": "1999",
+      "historicalDate": "March 12, 1999",
+      "dateNote": null,
+      "summary": "Three former Warsaw Pact countries enter the alliance.",
+      "description": "On March 12, 1999, Poland, Hungary and the Czech Republic became members of the North Atlantic Treaty Organization (NATO).",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 12",
+          "url": "https://www.britannica.com/on-this-day/March-12"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "herschel-discovers-uranus-1781",
+      "title": "William Herschel discovers Uranus",
+      "year": "1781",
+      "historicalDate": "March 13, 1781",
+      "dateNote": null,
+      "summary": "A telescope reveals the seventh planet from the Sun.",
+      "description": "On March 13, 1781, the astronomer William Herschel observed Uranus, the seventh planet from the Sun. It was the first planet discovered with the aid of a telescope.",
+      "notificationTitle": "A new planet in the night sky",
+      "notificationBody": "In 1781, William Herschel discovered Uranus, the seventh planet from the Sun.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Uranus",
+          "url": "https://www.britannica.com/place/Uranus-planet"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "pope-francis-elected-2013",
+      "title": "Jorge Mario Bergoglio is elected Pope Francis",
+      "year": "2013",
+      "historicalDate": "March 13, 2013",
+      "dateNote": null,
+      "summary": "The archbishop of Buenos Aires becomes pope.",
+      "description": "On March 13, 2013, Jorge Mario Bergoglio, the archbishop of Buenos Aires, was elected pope and took the name Francis.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "alexander-ii-assassinated-1881",
+      "title": "Tsar Alexander II is assassinated",
+      "year": "1881",
+      "historicalDate": "March 13, 1881",
+      "dateNote": "Gregorian date. Russia then used the Julian calendar, 13 days behind.",
+      "summary": "The Russian emperor is killed in St. Petersburg.",
+      "description": "On March 13, 1881, Tsar Alexander II of Russia was assassinated in St. Petersburg.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "anschluss-announced-1938",
+      "title": "Germany announces the Anschluss with Austria",
+      "year": "1938",
+      "historicalDate": "March 13, 1938",
+      "dateNote": null,
+      "summary": "Austria is declared part of Nazi Germany.",
+      "description": "On March 13, 1938, the Anschluss, the union of Austria with Nazi Germany, was announced.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "britannica-ends-print-edition-2012",
+      "title": "Encyclopaedia Britannica ends its print edition",
+      "year": "2012",
+      "historicalDate": "March 13, 2012",
+      "dateNote": null,
+      "summary": "The encyclopedia moves to digital only.",
+      "description": "On March 13, 2012, Encyclopaedia Britannica, Inc., announced that it was ceasing publication of its print edition.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 13",
+          "url": "https://www.britannica.com/on-this-day/March-13"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "albert-einstein-born-1879",
+      "title": "Albert Einstein is born in Ulm",
+      "year": "1879",
+      "historicalDate": "March 14, 1879",
+      "dateNote": null,
+      "summary": "The physicist known for the theories of relativity is born.",
+      "description": "On March 14, 1879, Albert Einstein, the physicist known for his theories of relativity, was born in Ulm, Germany.",
+      "notificationTitle": "Happy birthday, Albert Einstein",
+      "notificationBody": "In 1879, Albert Einstein, the physicist of relativity, was born in Ulm, Germany.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "cotton-gin-patent-1794",
+      "title": "Eli Whitney patents the cotton gin",
+      "year": "1794",
+      "historicalDate": "March 14, 1794",
+      "dateNote": null,
+      "summary": "The American inventor receives a patent for his machine.",
+      "description": "On March 14, 1794, the American inventor Eli Whitney received a patent for the cotton gin.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "karl-marx-dies-1883",
+      "title": "Karl Marx dies",
+      "year": "1883",
+      "historicalDate": "March 14, 1883",
+      "dateNote": null,
+      "summary": "The coauthor of The Communist Manifesto dies at 64.",
+      "description": "On March 14, 1883, the historian and revolutionary Karl Marx, who wrote The Communist Manifesto (1848) with Friedrich Engels, died at age 64.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stephen-hawking-dies-2018",
+      "title": "Stephen Hawking dies",
+      "year": "2018",
+      "historicalDate": "March 14, 2018",
+      "dateNote": null,
+      "summary": "The physicist of black holes and A Brief History of Time dies at 76.",
+      "description": "On March 14, 2018, the English theoretical physicist Stephen Hawking, known for his work on black holes and for the book A Brief History of Time (1988), died at age 76.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "fbi-ten-most-wanted-list-1950",
+      "title": "The FBI introduces its Ten Most Wanted list",
+      "year": "1950",
+      "historicalDate": "March 14, 1950",
+      "dateNote": null,
+      "summary": "J. Edgar Hoover names the bureau's most sought fugitives.",
+      "description": "On March 14, 1950, FBI Director J. Edgar Hoover introduced the Ten Most Wanted list of US fugitives.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 14",
+          "url": "https://www.britannica.com/on-this-day/March-14"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-29-04-04-historical-events",
+  "candidates": [
+    {
+      "candidateId": "mar-29-terra-cotta-army",
+      "kind": "event",
+      "proposedCanonicalId": "terra-cotta-army-found-1974",
+      "workingClaim": "March 29, 1974: On March 29, 1974, farmers digging a well near Xi'an, China, found an underground chamber that led to the discovery of the terra-cotta army in the tomb of Emperor Qin Shi Huang: about 8,000 life-size soldiers and horses.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "mar-29-vesta",
+      "kind": "event",
+      "proposedCanonicalId": "olbers-discovers-vesta-1807",
+      "workingClaim": "March 29, 1807: On March 29, 1807, the German astronomer Wilhelm Olbers discovered the minor planet Vesta, the brightest asteroid in the sky.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "mar-29-king-and-i",
+      "kind": "event",
+      "proposedCanonicalId": "the-king-and-i-opens-1951",
+      "workingClaim": "March 29, 1951: On March 29, 1951, the Rodgers and Hammerstein musical The King and I debuted on Broadway, making Yul Brynner a star.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "mar-29-twenty-third-amendment",
+      "kind": "event",
+      "proposedCanonicalId": "twenty-third-amendment-1961",
+      "workingClaim": "March 29, 1961: On March 29, 1961, the Twenty-third Amendment to the US Constitution was certified, allowing residents of Washington, D.C., to vote in presidential elections.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "mar-29-tyler-born",
+      "kind": "event",
+      "proposedCanonicalId": "john-tyler-born-1790",
+      "workingClaim": "March 29, 1790: On March 29, 1790, John Tyler, the 10th president of the United States, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-29"
+      ]
+    },
+    {
+      "candidateId": "mar-30-alaska-purchase",
+      "kind": "event",
+      "proposedCanonicalId": "alaska-purchase-treaty-signed-1867",
+      "workingClaim": "March 30, 1867: On March 30, 1867, the United States agreed to buy Alaska from Russia for $7.2 million, in a purchase negotiated by Secretary of State William H. Seward.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "mar-30-reagan-shot",
+      "kind": "event",
+      "proposedCanonicalId": "reagan-shot-1981",
+      "workingClaim": "March 30, 1981: On March 30, 1981, US President Ronald Reagan was shot and seriously wounded by John W. Hinckley, Jr., in Washington, D.C., barely two months after his inauguration.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "mar-30-treaty-of-paris-1856",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-paris-ends-crimean-war-1856",
+      "workingClaim": "March 30, 1856: On March 30, 1856, the Treaty of Paris was signed, ending the Crimean War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "mar-30-van-gogh-born",
+      "kind": "event",
+      "proposedCanonicalId": "vincent-van-gogh-born-1853",
+      "workingClaim": "March 30, 1853: On March 30, 1853, the Dutch Post-Impressionist painter Vincent van Gogh was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "mar-30-queen-mother-dies",
+      "kind": "event",
+      "proposedCanonicalId": "queen-mother-dies-2002",
+      "workingClaim": "March 30, 2002: On March 30, 2002, Elizabeth, the Queen Mother, queen consort of the United Kingdom from 1936 to 1952, died in her sleep at Windsor Castle at age 101.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "mar-31-eiffel-tower",
+      "kind": "event",
+      "proposedCanonicalId": "eiffel-tower-inaugurated-1889",
+      "workingClaim": "March 31, 1889: On March 31, 1889, the 300-meter (984-foot) Eiffel Tower, designed by Gustave Eiffel for the International Exposition of 1889 marking the centenary of the French Revolution, was officially inaugurated in Paris. It opened to the public on May 15.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31",
+        "https://www.britannica.com/topic/Eiffel-Tower-Paris-France"
+      ]
+    },
+    {
+      "candidateId": "mar-31-kanagawa",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-kanagawa-1854",
+      "workingClaim": "March 31, 1854: On March 31, 1854, US Commodore Matthew Perry signed the Treaty of Kanagawa in Japan.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "mar-31-lbj-withdraws",
+      "kind": "event",
+      "proposedCanonicalId": "johnson-will-not-seek-reelection-1968",
+      "workingClaim": "March 31, 1968: On March 31, 1968, US President Lyndon B. Johnson ended a televised speech about the Vietnam War by announcing that he would not seek reelection.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "mar-31-oklahoma",
+      "kind": "event",
+      "proposedCanonicalId": "oklahoma-opens-on-broadway-1943",
+      "workingClaim": "March 31, 1943: On March 31, 1943, Oklahoma!, the first of 11 musicals by composer Richard Rodgers and lyricist Oscar Hammerstein II, debuted on Broadway.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "mar-31-descartes-born",
+      "kind": "event",
+      "proposedCanonicalId": "rene-descartes-born-1596",
+      "workingClaim": "March 31, 1596: On March 31, 1596, the French mathematician, scientist and philosopher Rene Descartes was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-31"
+      ]
+    },
+    {
+      "candidateId": "apr-01-nunavut",
+      "kind": "event",
+      "proposedCanonicalId": "nunavut-created-1999",
+      "workingClaim": "April 1, 1999: On April 1, 1999, Canada's Northwest Territories were divided to create Nunavut, whose name means 'Our Land' in Inuktitut. Its capital is Iqaluit.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1",
+        "https://www.britannica.com/place/Nunavut"
+      ]
+    },
+    {
+      "candidateId": "apr-01-apple-founded",
+      "kind": "event",
+      "proposedCanonicalId": "apple-computer-founded-1976",
+      "workingClaim": "April 1, 1976: On April 1, 1976, Steve Jobs, Steve Wozniak and Ronald Wayne formed Apple Computer Inc.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "apr-01-raf-formed",
+      "kind": "event",
+      "proposedCanonicalId": "royal-air-force-formed-1918",
+      "workingClaim": "April 1, 1918: On April 1, 1918, the United Kingdom's Royal Air Force was formed.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "apr-01-dutch-marriage",
+      "kind": "event",
+      "proposedCanonicalId": "netherlands-same-sex-marriage-2001",
+      "workingClaim": "April 1, 2001: On April 1, 2001, the Netherlands became the first country to grant equal marriage rights to same-sex couples.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "apr-01-okinawa",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-okinawa-begins-1945",
+      "workingClaim": "April 1, 1945: On April 1, 1945, US troops landed on the Japanese island of Okinawa, beginning the Battle of Okinawa in World War II.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-1"
+      ]
+    },
+    {
+      "candidateId": "apr-02-falklands",
+      "kind": "event",
+      "proposedCanonicalId": "argentina-seizes-falklands-1982",
+      "workingClaim": "April 2, 1982: On April 2, 1982, Argentine troops seized the Falkland Islands (Islas Malvinas), starting the Falkland Islands War with Britain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "apr-02-john-paul-ii-dies",
+      "kind": "event",
+      "proposedCanonicalId": "pope-john-paul-ii-dies-2005",
+      "workingClaim": "April 2, 2005: On April 2, 2005, Pope John Paul II, bishop of Rome and head of the Roman Catholic Church since 1978, died in Vatican City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "apr-02-wilson-war-message",
+      "kind": "event",
+      "proposedCanonicalId": "wilson-asks-for-war-1917",
+      "workingClaim": "April 2, 1917: On April 2, 1917, US President Woodrow Wilson asked Congress for a declaration of war against Germany.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "apr-02-space-odyssey",
+      "kind": "event",
+      "proposedCanonicalId": "2001-a-space-odyssey-premieres-1968",
+      "workingClaim": "April 2, 1968: On April 2, 1968, Stanley Kubrick's film 2001: A Space Odyssey had its world premiere in Washington, D.C.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "apr-02-richmond-evacuated",
+      "kind": "event",
+      "proposedCanonicalId": "confederates-evacuate-richmond-1865",
+      "workingClaim": "April 2, 1865: On April 2, 1865, Confederate troops evacuated Richmond, Virginia, the capital of the Confederate States of America.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-2"
+      ]
+    },
+    {
+      "candidateId": "apr-03-pony-express",
+      "kind": "event",
+      "proposedCanonicalId": "pony-express-begins-1860",
+      "workingClaim": "April 3, 1860: On April 3, 1860, the Pony Express began delivering mail by horse relay between St. Joseph, Missouri, and Sacramento, California, a route of nearly 2,000 miles covered in about 10 days.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3",
+        "https://www.britannica.com/topic/Pony-Express"
+      ]
+    },
+    {
+      "candidateId": "apr-03-first-mobile-call",
+      "kind": "event",
+      "proposedCanonicalId": "first-handheld-mobile-call-1973",
+      "workingClaim": "April 3, 1973: On April 3, 1973, the first handheld mobile telephone call was made by an employee of Motorola, who called AT&T's Bell Laboratories.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "apr-03-mountaintop",
+      "kind": "event",
+      "proposedCanonicalId": "mlk-mountaintop-speech-1968",
+      "workingClaim": "April 3, 1968: On April 3, 1968, Martin Luther King, Jr., delivered his 'I've Been to the Mountaintop' speech in Memphis, Tennessee, at an event for the city's striking sanitation workers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "apr-03-marshall-plan",
+      "kind": "event",
+      "proposedCanonicalId": "marshall-plan-signed-1948",
+      "workingClaim": "April 3, 1948: On April 3, 1948, US President Harry S. Truman signed into law George C. Marshall's plan to revive the economies of western and southern Europe after World War II.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "apr-03-jesse-james",
+      "kind": "event",
+      "proposedCanonicalId": "jesse-james-killed-1882",
+      "workingClaim": "April 3, 1882: On April 3, 1882, the American outlaw Jesse James was shot and killed by Robert Ford at his home.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-3"
+      ]
+    },
+    {
+      "candidateId": "apr-04-mlk-assassinated",
+      "kind": "event",
+      "proposedCanonicalId": "martin-luther-king-jr-assassinated-1968",
+      "workingClaim": "April 4, 1968: On April 4, 1968, the civil rights leader Martin Luther King, Jr., was shot and killed while standing on a balcony in Memphis, Tennessee.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "apr-04-nato-signed",
+      "kind": "event",
+      "proposedCanonicalId": "north-atlantic-treaty-signed-1949",
+      "workingClaim": "April 4, 1949: On April 4, 1949, twelve countries signed the North Atlantic Treaty, forming the North Atlantic Treaty Organization (NATO).",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "apr-04-microsoft",
+      "kind": "event",
+      "proposedCanonicalId": "microsoft-founded-1975",
+      "workingClaim": "April 4, 1975: On April 4, 1975, Bill Gates and Paul Allen founded Microsoft, which became the world's largest personal-computer software company.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "apr-04-harrison-dies",
+      "kind": "event",
+      "proposedCanonicalId": "william-henry-harrison-dies-1841",
+      "workingClaim": "April 4, 1841: On April 4, 1841, US President William Henry Harrison died of pneumonia one month after taking office, the first US president to die in office.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    },
+    {
+      "candidateId": "apr-04-angelou-born",
+      "kind": "event",
+      "proposedCanonicalId": "maya-angelou-born-1928",
+      "workingClaim": "April 4, 1928: On April 4, 1928, Maya Angelou, the poet and author of I Know Why the Caged Bird Sings, was born in St. Louis, Missouri.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,324 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-03-22-28-historical-events",
+  "candidates": [
+    {
+      "candidateId": "mar-22-please-please-me",
+      "kind": "event",
+      "proposedCanonicalId": "please-please-me-released-1963",
+      "workingClaim": "March 22, 1963: On March 22, 1963, the Beatles released their first album, Please Please Me, in the United Kingdom.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "mar-22-stamp-act-passed",
+      "kind": "event",
+      "proposedCanonicalId": "stamp-act-passed-1765",
+      "workingClaim": "March 22, 1765: On March 22, 1765, the British Parliament passed the Stamp Act, which taxed various printed papers in the American colonies.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "mar-22-arab-league",
+      "kind": "event",
+      "proposedCanonicalId": "arab-league-founded-1945",
+      "workingClaim": "March 22, 1945: On March 22, 1945, the Arab League, a regional organization of Arab states in the Middle East, was organized in Cairo.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "mar-22-first-masters",
+      "kind": "event",
+      "proposedCanonicalId": "first-masters-tournament-1934",
+      "workingClaim": "March 22, 1934: On March 22, 1934, the Augusta National Golf Club in Augusta, Georgia, hosted the first Masters Tournament.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "mar-22-goethe-dies",
+      "kind": "event",
+      "proposedCanonicalId": "goethe-dies-1832",
+      "workingClaim": "March 22, 1832: On March 22, 1832, the German author and philosopher Johann Wolfgang von Goethe died in Weimar.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-22"
+      ]
+    },
+    {
+      "candidateId": "mar-23-liberty-or-death",
+      "kind": "event",
+      "proposedCanonicalId": "patrick-henry-liberty-or-death-1775",
+      "workingClaim": "March 23, 1775: On March 23, 1775, Patrick Henry, a major figure of the American Revolution, delivered his well-known speech featuring the phrase 'give me liberty or give me death.'",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mar-23-enabling-act",
+      "kind": "event",
+      "proposedCanonicalId": "enabling-act-passed-1933",
+      "workingClaim": "March 23, 1933: On March 23, 1933, the German Reichstag, dominated by the Nazi Party and the German National People's Party, voted to pass the Enabling Act.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mar-23-mir-reentry",
+      "kind": "event",
+      "proposedCanonicalId": "mir-space-station-reenters-2001",
+      "workingClaim": "March 23, 2001: On March 23, 2001, the Soviet and Russian space station Mir, designed for only 5 years of service, ended 15 years in orbit when it reentered Earth's atmosphere and fell into the South Pacific Ocean.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mar-23-otis-elevator",
+      "kind": "event",
+      "proposedCanonicalId": "otis-passenger-elevator-1857",
+      "workingClaim": "March 23, 1857: On March 23, 1857, Elisha Otis installed his first commercial passenger elevator, in a store in New York City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mar-23-kurosawa-born",
+      "kind": "event",
+      "proposedCanonicalId": "akira-kurosawa-born-1910",
+      "workingClaim": "March 23, 1910: On March 23, 1910, the Japanese film director Akira Kurosawa was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-23"
+      ]
+    },
+    {
+      "candidateId": "mar-24-koch-tb",
+      "kind": "event",
+      "proposedCanonicalId": "koch-announces-tuberculosis-bacterium-1882",
+      "workingClaim": "March 24, 1882: On March 24, 1882, Robert Koch announced in a lecture in Berlin that he had discovered the bacterium that causes tuberculosis, opening the way to diagnosing and curing the disease. World TB Day marks the date.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24",
+        "https://www.who.int/campaigns/world-tb-day",
+        "https://www.britannica.com/biography/Robert-Koch"
+      ]
+    },
+    {
+      "candidateId": "mar-24-exxon-valdez",
+      "kind": "event",
+      "proposedCanonicalId": "exxon-valdez-oil-spill-1989",
+      "workingClaim": "March 24, 1989: On March 24, 1989, the oil tanker Exxon Valdez ran aground, spilling some 11 million gallons (41 million liters) of oil into Prince William Sound, Alaska.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "mar-24-elizabeth-i-dies",
+      "kind": "event",
+      "proposedCanonicalId": "elizabeth-i-dies-1603",
+      "workingClaim": "March 24, 1603: On March 24, 1603, Queen Elizabeth I of England died after ruling for some 45 years, and King James VI of Scotland succeeded her as James I of England.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "mar-24-romero",
+      "kind": "event",
+      "proposedCanonicalId": "oscar-romero-assassinated-1980",
+      "workingClaim": "March 24, 1980: On March 24, 1980, Archbishop Oscar Romero was assassinated while celebrating mass in San Salvador, El Salvador. He was canonized in 2018.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "mar-24-houdini-born",
+      "kind": "event",
+      "proposedCanonicalId": "harry-houdini-born-1874",
+      "workingClaim": "March 24, 1874: On March 24, 1874, the magician Harry Houdini, famed for escaping from shackles and locked containers, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-24"
+      ]
+    },
+    {
+      "candidateId": "mar-25-treaty-of-rome",
+      "kind": "event",
+      "proposedCanonicalId": "treaty-of-rome-signed-1957",
+      "workingClaim": "March 25, 1957: On March 25, 1957, Belgium, France, West Germany, Italy, Luxembourg and the Netherlands signed the Treaty of Rome, establishing the European Economic Community, a common market and customs union.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Treaty-of-Rome"
+      ]
+    },
+    {
+      "candidateId": "mar-25-triangle-fire",
+      "kind": "event",
+      "proposedCanonicalId": "triangle-shirtwaist-fire-1911",
+      "workingClaim": "March 25, 1911: On March 25, 1911, a fire at the Triangle shirtwaist factory in New York City killed 146 people.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "mar-25-mumbles-railway",
+      "kind": "event",
+      "proposedCanonicalId": "mumbles-railway-passengers-1807",
+      "workingClaim": "March 25, 1807: On March 25, 1807, the first fee-paying passenger railway began operating in Wales, on the line later known as the Mumbles Railway.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "mar-25-aretha-born",
+      "kind": "event",
+      "proposedCanonicalId": "aretha-franklin-born-1942",
+      "workingClaim": "March 25, 1942: On March 25, 1942, the American singer Aretha Franklin, later crowned the Queen of Soul, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "mar-25-bartok-born",
+      "kind": "event",
+      "proposedCanonicalId": "bela-bartok-born-1881",
+      "workingClaim": "March 25, 1881: On March 25, 1881, the Hungarian composer Bela Bartok was born in Nagyszentmiklos, Hungary (now Sannicolau Mare, Romania).",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-25"
+      ]
+    },
+    {
+      "candidateId": "mar-26-egypt-israel-treaty",
+      "kind": "event",
+      "proposedCanonicalId": "egypt-israel-peace-treaty-1979",
+      "workingClaim": "March 26, 1979: On March 26, 1979, Israel and Egypt signed a peace treaty agreed to by Menachem Begin and Anwar Sadat and based on the Camp David Accords mediated by US President Jimmy Carter in September 1978.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "mar-26-beethoven-dies",
+      "kind": "event",
+      "proposedCanonicalId": "beethoven-dies-1827",
+      "workingClaim": "March 26, 1827: On March 26, 1827, the German composer Ludwig van Beethoven died at age 56.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "mar-26-gerrymander",
+      "kind": "event",
+      "proposedCanonicalId": "gerrymander-cartoon-1812",
+      "workingClaim": "March 26, 1812: On March 26, 1812, the Boston Gazette published a satiric cartoon that turned a district redrawn to favor incumbents into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "mar-26-tennessee-williams-born",
+      "kind": "event",
+      "proposedCanonicalId": "tennessee-williams-born-1911",
+      "workingClaim": "March 26, 1911: On March 26, 1911, the American dramatist Tennessee Williams was born in Columbus, Mississippi.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "mar-26-frost-born",
+      "kind": "event",
+      "proposedCanonicalId": "robert-frost-born-1874",
+      "workingClaim": "March 26, 1874: On March 26, 1874, the American poet Robert Frost, admired for his depictions of rural New England life, was born in San Francisco.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-26"
+      ]
+    },
+    {
+      "candidateId": "mar-27-alaska-earthquake",
+      "kind": "event",
+      "proposedCanonicalId": "great-alaska-earthquake-1964",
+      "workingClaim": "March 27, 1964: On March 27, 1964, south-central Alaska was struck by a magnitude 9.2 earthquake, the strongest ever registered in the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "mar-27-khrushchev-premier",
+      "kind": "event",
+      "proposedCanonicalId": "khrushchev-becomes-premier-1958",
+      "workingClaim": "March 27, 1958: On March 27, 1958, Nikita Khrushchev replaced Nikolay Bulganin as premier of the Soviet Union.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "mar-27-typhoid-mary",
+      "kind": "event",
+      "proposedCanonicalId": "typhoid-mary-quarantined-1915",
+      "workingClaim": "March 27, 1915: On March 27, 1915, Mary Mallon, a domestic worker better known as Typhoid Mary, was placed in quarantine on North Brother Island, New York City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "mar-27-horseshoe-bend",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-horseshoe-bend-1814",
+      "workingClaim": "March 27, 1814: On March 27, 1814, at the Battle of Horseshoe Bend, Andrew Jackson and about 3,000 troops defeated the Creek.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "mar-27-mies-born",
+      "kind": "event",
+      "proposedCanonicalId": "mies-van-der-rohe-born-1886",
+      "workingClaim": "March 27, 1886: On March 27, 1886, the German American architect Ludwig Mies van der Rohe was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-27"
+      ]
+    },
+    {
+      "candidateId": "mar-28-three-mile-island",
+      "kind": "event",
+      "proposedCanonicalId": "three-mile-island-accident-1979",
+      "workingClaim": "March 28, 1979: On March 28, 1979, an automatic valve mistakenly closed at the Three Mile Island nuclear power plant near Harrisburg, Pennsylvania, beginning the most serious accident in the history of the American nuclear power industry.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28",
+        "https://www.britannica.com/event/Three-Mile-Island-accident"
+      ]
+    },
+    {
+      "candidateId": "mar-28-woolf-dies",
+      "kind": "event",
+      "proposedCanonicalId": "virginia-woolf-dies-1941",
+      "workingClaim": "March 28, 1941: On March 28, 1941, the English novelist Virginia Woolf, whose experiments with the novel changed Modernist literature, died.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "mar-28-madrid-falls",
+      "kind": "event",
+      "proposedCanonicalId": "franco-captures-madrid-1939",
+      "workingClaim": "March 28, 1939: On March 28, 1939, Francisco Franco's Nationalist forces captured Madrid, the Spanish capital, near the end of the Spanish Civil War.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "mar-28-eisenhower-dies",
+      "kind": "event",
+      "proposedCanonicalId": "eisenhower-dies-1969",
+      "workingClaim": "March 28, 1969: On March 28, 1969, Dwight D. Eisenhower, the 34th president of the United States, died at age 78.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    },
+    {
+      "candidateId": "mar-28-vargas-llosa-born",
+      "kind": "event",
+      "proposedCanonicalId": "mario-vargas-llosa-born-1936",
+      "workingClaim": "March 28, 1936: On March 28, 1936, the Peruvian novelist Mario Vargas Llosa was born in Arequipa, Peru.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-28"
+      ]
+    }
+  ]
+}

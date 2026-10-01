@@ -1,0 +1,646 @@
+{
+  "events": [
+    {
+      "id": "please-please-me-released-1963",
+      "title": "The Beatles release their first album, Please Please Me",
+      "year": "1963",
+      "historicalDate": "March 22, 1963",
+      "dateNote": null,
+      "summary": "The band's debut LP comes out in the United Kingdom.",
+      "description": "On March 22, 1963, the Beatles released their first album, Please Please Me, in the United Kingdom.",
+      "notificationTitle": "The Beatles' first album",
+      "notificationBody": "In 1963, the Beatles released their first album, Please Please Me, in the UK.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "stamp-act-passed-1765",
+      "title": "Parliament passes the Stamp Act",
+      "year": "1765",
+      "historicalDate": "March 22, 1765",
+      "dateNote": null,
+      "summary": "A tax on printed papers angers the American colonies.",
+      "description": "On March 22, 1765, the British Parliament passed the Stamp Act, which taxed various printed papers in the American colonies.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "arab-league-founded-1945",
+      "title": "The Arab League is founded in Cairo",
+      "year": "1945",
+      "historicalDate": "March 22, 1945",
+      "dateNote": null,
+      "summary": "Arab states form a regional organization.",
+      "description": "On March 22, 1945, the Arab League, a regional organization of Arab states in the Middle East, was organized in Cairo.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "first-masters-tournament-1934",
+      "title": "The first Masters golf tournament begins",
+      "year": "1934",
+      "historicalDate": "March 22, 1934",
+      "dateNote": null,
+      "summary": "Augusta National hosts the event for the first time.",
+      "description": "On March 22, 1934, the Augusta National Golf Club in Augusta, Georgia, hosted the first Masters Tournament.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "goethe-dies-1832",
+      "title": "Johann Wolfgang von Goethe dies in Weimar",
+      "year": "1832",
+      "historicalDate": "March 22, 1832",
+      "dateNote": null,
+      "summary": "The German author and philosopher dies.",
+      "description": "On March 22, 1832, the German author and philosopher Johann Wolfgang von Goethe died in Weimar.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 22",
+          "url": "https://www.britannica.com/on-this-day/March-22"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "patrick-henry-liberty-or-death-1775",
+      "title": "Patrick Henry declares 'give me liberty or give me death'",
+      "year": "1775",
+      "historicalDate": "March 23, 1775",
+      "dateNote": null,
+      "summary": "A Virginia speech becomes a rallying cry of the American Revolution.",
+      "description": "On March 23, 1775, Patrick Henry, a major figure of the American Revolution, delivered his well-known speech featuring the phrase 'give me liberty or give me death.'",
+      "notificationTitle": "Give me liberty or give me death",
+      "notificationBody": "In 1775, Patrick Henry gave his famous 'give me liberty or give me death' speech.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "enabling-act-passed-1933",
+      "title": "The German Reichstag passes the Enabling Act",
+      "year": "1933",
+      "historicalDate": "March 23, 1933",
+      "dateNote": null,
+      "summary": "The vote gives Hitler's government sweeping powers.",
+      "description": "On March 23, 1933, the German Reichstag, dominated by the Nazi Party and the German National People's Party, voted to pass the Enabling Act.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mir-space-station-reenters-2001",
+      "title": "The Mir space station falls into the Pacific",
+      "year": "2001",
+      "historicalDate": "March 23, 2001",
+      "dateNote": null,
+      "summary": "Designed for 5 years, Mir ends 15 years in orbit.",
+      "description": "On March 23, 2001, the Soviet and Russian space station Mir, designed for only 5 years of service, ended 15 years in orbit when it reentered Earth's atmosphere and fell into the South Pacific Ocean.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "otis-passenger-elevator-1857",
+      "title": "Elisha Otis installs his first commercial passenger elevator",
+      "year": "1857",
+      "historicalDate": "March 23, 1857",
+      "dateNote": null,
+      "summary": "A New York City store gets a passenger elevator.",
+      "description": "On March 23, 1857, Elisha Otis installed his first commercial passenger elevator, in a store in New York City.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "akira-kurosawa-born-1910",
+      "title": "Akira Kurosawa is born",
+      "year": "1910",
+      "historicalDate": "March 23, 1910",
+      "dateNote": null,
+      "summary": "The Japanese film director is born.",
+      "description": "On March 23, 1910, the Japanese film director Akira Kurosawa was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 23",
+          "url": "https://www.britannica.com/on-this-day/March-23"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "koch-announces-tuberculosis-bacterium-1882",
+      "title": "Robert Koch announces the cause of tuberculosis",
+      "year": "1882",
+      "historicalDate": "March 24, 1882",
+      "dateNote": null,
+      "summary": "He has found the bacterium behind the disease.",
+      "description": "On March 24, 1882, Robert Koch announced in a lecture in Berlin that he had discovered the bacterium that causes tuberculosis, opening the way to diagnosing and curing the disease. World TB Day marks the date.",
+      "notificationTitle": "The germ behind tuberculosis",
+      "notificationBody": "In 1882, Robert Koch announced he had found the bacterium that causes tuberculosis.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        },
+        {
+          "name": "World Health Organization - World TB Day",
+          "url": "https://www.who.int/campaigns/world-tb-day"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Robert Koch",
+          "url": "https://www.britannica.com/biography/Robert-Koch"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "exxon-valdez-oil-spill-1989",
+      "title": "The Exxon Valdez runs aground in Alaska",
+      "year": "1989",
+      "historicalDate": "March 24, 1989",
+      "dateNote": null,
+      "summary": "Some 11 million gallons of oil spill into Prince William Sound.",
+      "description": "On March 24, 1989, the oil tanker Exxon Valdez ran aground, spilling some 11 million gallons (41 million liters) of oil into Prince William Sound, Alaska.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "elizabeth-i-dies-1603",
+      "title": "Queen Elizabeth I dies",
+      "year": "1603",
+      "historicalDate": "March 24, 1603",
+      "dateNote": "Julian calendar date.",
+      "summary": "James VI of Scotland succeeds her as James I of England.",
+      "description": "On March 24, 1603, Queen Elizabeth I of England died after ruling for some 45 years, and King James VI of Scotland succeeded her as James I of England.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "oscar-romero-assassinated-1980",
+      "title": "Archbishop Oscar Romero is assassinated",
+      "year": "1980",
+      "historicalDate": "March 24, 1980",
+      "dateNote": null,
+      "summary": "He is killed while celebrating mass in San Salvador.",
+      "description": "On March 24, 1980, Archbishop Oscar Romero was assassinated while celebrating mass in San Salvador, El Salvador. He was canonized in 2018.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "harry-houdini-born-1874",
+      "title": "Harry Houdini is born",
+      "year": "1874",
+      "historicalDate": "March 24, 1874",
+      "dateNote": null,
+      "summary": "The escape artist famous for slipping out of shackles is born.",
+      "description": "On March 24, 1874, the magician Harry Houdini, famed for escaping from shackles and locked containers, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 24",
+          "url": "https://www.britannica.com/on-this-day/March-24"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "treaty-of-rome-signed-1957",
+      "title": "Six countries sign the Treaty of Rome",
+      "year": "1957",
+      "historicalDate": "March 25, 1957",
+      "dateNote": null,
+      "summary": "The treaty creates the European Economic Community.",
+      "description": "On March 25, 1957, Belgium, France, West Germany, Italy, Luxembourg and the Netherlands signed the Treaty of Rome, establishing the European Economic Community, a common market and customs union.",
+      "notificationTitle": "Six nations, one common market",
+      "notificationBody": "In 1957, six nations signed the Treaty of Rome, founding the European Economic Community.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - Treaty of Rome",
+          "url": "https://www.britannica.com/event/Treaty-of-Rome"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "triangle-shirtwaist-fire-1911",
+      "title": "The Triangle shirtwaist factory fire kills 146",
+      "year": "1911",
+      "historicalDate": "March 25, 1911",
+      "dateNote": null,
+      "summary": "A fire in a New York City garment factory leads to workplace reforms.",
+      "description": "On March 25, 1911, a fire at the Triangle shirtwaist factory in New York City killed 146 people.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mumbles-railway-passengers-1807",
+      "title": "The Mumbles Railway carries its first fare-paying passengers",
+      "year": "1807",
+      "historicalDate": "March 25, 1807",
+      "dateNote": null,
+      "summary": "A line in Wales becomes the first passenger railway to charge fares.",
+      "description": "On March 25, 1807, the first fee-paying passenger railway began operating in Wales, on the line later known as the Mumbles Railway.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "aretha-franklin-born-1942",
+      "title": "Aretha Franklin is born",
+      "year": "1942",
+      "historicalDate": "March 25, 1942",
+      "dateNote": null,
+      "summary": "The Queen of Soul is born.",
+      "description": "On March 25, 1942, the American singer Aretha Franklin, later crowned the Queen of Soul, was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "bela-bartok-born-1881",
+      "title": "Bela Bartok is born",
+      "year": "1881",
+      "historicalDate": "March 25, 1881",
+      "dateNote": null,
+      "summary": "The Hungarian composer is born.",
+      "description": "On March 25, 1881, the Hungarian composer Bela Bartok was born in Nagyszentmiklos, Hungary (now Sannicolau Mare, Romania).",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 25",
+          "url": "https://www.britannica.com/on-this-day/March-25"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "egypt-israel-peace-treaty-1979",
+      "title": "Egypt and Israel sign a peace treaty",
+      "year": "1979",
+      "historicalDate": "March 26, 1979",
+      "dateNote": null,
+      "summary": "Begin and Sadat seal the peace mediated at Camp David.",
+      "description": "On March 26, 1979, Israel and Egypt signed a peace treaty agreed to by Menachem Begin and Anwar Sadat and based on the Camp David Accords mediated by US President Jimmy Carter in September 1978.",
+      "notificationTitle": "Peace between Egypt and Israel",
+      "notificationBody": "In 1979, Egypt and Israel signed a peace treaty built on the Camp David Accords.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "beethoven-dies-1827",
+      "title": "Ludwig van Beethoven dies",
+      "year": "1827",
+      "historicalDate": "March 26, 1827",
+      "dateNote": null,
+      "summary": "The German composer dies in Vienna at 56.",
+      "description": "On March 26, 1827, the German composer Ludwig van Beethoven died at age 56.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "gerrymander-cartoon-1812",
+      "title": "The 'Gerry-mander' cartoon appears in Boston",
+      "year": "1812",
+      "historicalDate": "March 26, 1812",
+      "dateNote": null,
+      "summary": "A satiric map turns a redrawn district into a beast.",
+      "description": "On March 26, 1812, the Boston Gazette published a satiric cartoon that turned a district redrawn to favor incumbents into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "tennessee-williams-born-1911",
+      "title": "Tennessee Williams is born",
+      "year": "1911",
+      "historicalDate": "March 26, 1911",
+      "dateNote": null,
+      "summary": "The American dramatist is born in Columbus, Mississippi.",
+      "description": "On March 26, 1911, the American dramatist Tennessee Williams was born in Columbus, Mississippi.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "robert-frost-born-1874",
+      "title": "Robert Frost is born in San Francisco",
+      "year": "1874",
+      "historicalDate": "March 26, 1874",
+      "dateNote": null,
+      "summary": "The poet of rural New England is born.",
+      "description": "On March 26, 1874, the American poet Robert Frost, admired for his depictions of rural New England life, was born in San Francisco.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 26",
+          "url": "https://www.britannica.com/on-this-day/March-26"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "great-alaska-earthquake-1964",
+      "title": "A magnitude 9.2 earthquake strikes Alaska",
+      "year": "1964",
+      "historicalDate": "March 27, 1964",
+      "dateNote": null,
+      "summary": "It is the strongest earthquake ever recorded in the United States.",
+      "description": "On March 27, 1964, south-central Alaska was struck by a magnitude 9.2 earthquake, the strongest ever registered in the United States.",
+      "notificationTitle": "The strongest US earthquake",
+      "notificationBody": "In 1964, a magnitude 9.2 earthquake, the strongest recorded in the US, struck Alaska.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "khrushchev-becomes-premier-1958",
+      "title": "Nikita Khrushchev becomes Soviet premier",
+      "year": "1958",
+      "historicalDate": "March 27, 1958",
+      "dateNote": null,
+      "summary": "He replaces Nikolay Bulganin.",
+      "description": "On March 27, 1958, Nikita Khrushchev replaced Nikolay Bulganin as premier of the Soviet Union.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "typhoid-mary-quarantined-1915",
+      "title": "Typhoid Mary is placed in quarantine",
+      "year": "1915",
+      "historicalDate": "March 27, 1915",
+      "dateNote": null,
+      "summary": "Mary Mallon is sent to North Brother Island.",
+      "description": "On March 27, 1915, Mary Mallon, a domestic worker better known as Typhoid Mary, was placed in quarantine on North Brother Island, New York City.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "battle-of-horseshoe-bend-1814",
+      "title": "Andrew Jackson's troops win the Battle of Horseshoe Bend",
+      "year": "1814",
+      "historicalDate": "March 27, 1814",
+      "dateNote": null,
+      "summary": "His force of about 3,000 defeats the Creek.",
+      "description": "On March 27, 1814, at the Battle of Horseshoe Bend, Andrew Jackson and about 3,000 troops defeated the Creek.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mies-van-der-rohe-born-1886",
+      "title": "Ludwig Mies van der Rohe is born",
+      "year": "1886",
+      "historicalDate": "March 27, 1886",
+      "dateNote": null,
+      "summary": "The modernist architect is born.",
+      "description": "On March 27, 1886, the German American architect Ludwig Mies van der Rohe was born.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 27",
+          "url": "https://www.britannica.com/on-this-day/March-27"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "three-mile-island-accident-1979",
+      "title": "An accident begins at the Three Mile Island nuclear plant",
+      "year": "1979",
+      "historicalDate": "March 28, 1979",
+      "dateNote": null,
+      "summary": "A stuck valve starts the worst crisis in US nuclear power history.",
+      "description": "On March 28, 1979, an automatic valve mistakenly closed at the Three Mile Island nuclear power plant near Harrisburg, Pennsylvania, beginning the most serious accident in the history of the American nuclear power industry.",
+      "notificationTitle": "Trouble at Three Mile Island",
+      "notificationBody": "In 1979, an accident began at the Three Mile Island nuclear plant in Pennsylvania.",
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Three Mile Island accident",
+          "url": "https://www.britannica.com/event/Three-Mile-Island-accident"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "virginia-woolf-dies-1941",
+      "title": "Virginia Woolf dies",
+      "year": "1941",
+      "historicalDate": "March 28, 1941",
+      "dateNote": null,
+      "summary": "The Modernist novelist dies.",
+      "description": "On March 28, 1941, the English novelist Virginia Woolf, whose experiments with the novel changed Modernist literature, died.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "franco-captures-madrid-1939",
+      "title": "Franco's forces take Madrid",
+      "year": "1939",
+      "historicalDate": "March 28, 1939",
+      "dateNote": null,
+      "summary": "The Spanish capital falls near the end of the civil war.",
+      "description": "On March 28, 1939, Francisco Franco's Nationalist forces captured Madrid, the Spanish capital, near the end of the Spanish Civil War.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "eisenhower-dies-1969",
+      "title": "Dwight D. Eisenhower dies",
+      "year": "1969",
+      "historicalDate": "March 28, 1969",
+      "dateNote": null,
+      "summary": "The 34th US president dies at 78.",
+      "description": "On March 28, 1969, Dwight D. Eisenhower, the 34th president of the United States, died at age 78.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": "mario-vargas-llosa-born-1936",
+      "title": "Mario Vargas Llosa is born in Arequipa",
+      "year": "1936",
+      "historicalDate": "March 28, 1936",
+      "dateNote": null,
+      "summary": "The Peruvian novelist is born.",
+      "description": "On March 28, 1936, the Peruvian novelist Mario Vargas Llosa was born in Arequipa, Peru.",
+      "notificationTitle": null,
+      "notificationBody": null,
+      "sources": [
+        {
+          "name": "Encyclopaedia Britannica - On This Day: March 28",
+          "url": "https://www.britannica.com/on-this-day/March-28"
+        }
+      ],
+      "images": []
+    }
+  ]
+}

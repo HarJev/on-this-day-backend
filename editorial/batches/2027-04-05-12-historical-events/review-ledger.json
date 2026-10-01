@@ -1,0 +1,1032 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-04-05-12-historical-events",
+  "entries": [
+    {
+      "candidateId": "apr-05-first-veto",
+      "canonicalId": "washington-first-veto-1792",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 5): 1792: 'George Washington issued the first presidential veto in U.S. history.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "04-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-05-maipu",
+      "canonicalId": "battle-of-maipu-1818",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 5): 1818: 'Chile's independence movement ... won a decisive victory over Spain in the Battle of Maipu.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "04-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-05-war-of-the-pacific",
+      "canonicalId": "war-of-the-pacific-begins-1879",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 5): 1879: 'Chile declared war on Peru and Bolivia, beginning the War of the Pacific.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-05-kareem-record",
+      "canonicalId": "kareem-abdul-jabbar-scoring-record-1984",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 5): 1984: 'Kareem Abdul-Jabbar surpassed Wilt Chamberlain as the all-time leading scorer in the National Basketball Association.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-05-bette-davis-born",
+      "canonicalId": "bette-davis-born-1908",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-5",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 5): 1908: Bette Davis was born in Lowell, Massachusetts."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-05"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-06-athens-olympics",
+      "canonicalId": "first-modern-olympics-open-1896",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 6): 1896: 'The first modern Olympics opened in Athens.'"
+        },
+        {
+          "url": "https://www.britannica.com/event/Athens-1896-Olympic-Games",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'April 6-15, 1896'; 'attended by as many as 280 athletes, all male, from 12 countries'; marathon won by 'Spyridon Louis, a Greek'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-06-abba-waterloo",
+      "canonicalId": "abba-wins-eurovision-1974",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 6): 1974 (featured): 'ABBA won Eurovision with their song \"Waterloo.\"'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-06-us-enters-wwi",
+      "canonicalId": "us-declares-war-on-germany-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 6): 1917: 'The United States declared war on Germany, thus entering World War I.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-06-shiloh",
+      "canonicalId": "battle-of-shiloh-1862",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 6): 1862: 'Union troops clashed with Confederates in southwestern Tennessee at the Battle of Shiloh.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-06-tony-awards",
+      "canonicalId": "first-tony-awards-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 6): 1947: 'The Tony Awards were presented for the first time.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-06"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-07-who-founded",
+      "canonicalId": "world-health-organization-established-1948",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 7): 1948: 'The World Health Organization, a specialized agency of the UN, was formally established.'"
+        },
+        {
+          "url": "https://www.britannica.com/topic/World-Health-Organization",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: established April 7, 1948, with headquarters in Geneva; the founding date is celebrated as World Health Day; first director general Brock Chisholm (1948-53)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-07-rwanda",
+      "canonicalId": "rwanda-genocide-begins-1994",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 7): 1994: Rwandan Prime Minister Agathe Uwilingiyimana was assassinated by Hutu soldiers, marking the beginning of the Rwanda genocide of 1994."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "04-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-07-henry-ford-dies",
+      "canonicalId": "henry-ford-dies-1947",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 7): 1947: Henry Ford, who pioneered assembly-line methods at Ford Motor Company, died at age 83."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-07-billie-holiday-born",
+      "canonicalId": "billie-holiday-born-1915",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 7): 1915: Billie Holiday, one of the greatest American jazz singers, was born in Philadelphia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-07-mars-odyssey",
+      "canonicalId": "mars-odyssey-launched-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 7): 2001: NASA launched the 2001 Mars Odyssey spacecraft, which reached Mars in October and transmitted photos and data back to Earth."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "04-07"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-08-aaron-715",
+      "canonicalId": "hank-aaron-715th-home-run-1974",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 8): 1974: 'Hank Aaron hit his 715th career home run, breaking Babe Ruth's record, which had stood since 1935.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-08-venus-de-milo",
+      "canonicalId": "venus-de-milo-found-1820",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 8): 1820 (featured): 'The Venus de Milo, one of the most famous ancient statues in the world, was found in pieces on this day in 1820 on the Aegean island of Melos.'"
+        },
+        {
+          "url": "https://www.britannica.com/topic/Venus-de-Milo",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'found in pieces on the Aegean island of Melos on April 8, 1820, and was subsequently presented to Louis XVIII'; marble, about 150 BCE; 'commonly thought to represent Aphrodite'; in 'the Louvre, where it remains today'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "ancient"
+      ],
+      "calendarDays": [
+        "04-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-08-picasso-dies",
+      "canonicalId": "pablo-picasso-dies-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 8): 1973: 'Pablo Picasso, one of the most influential artists of the 20th century, died in France at age 91.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-08-seventeenth-amendment",
+      "canonicalId": "seventeenth-amendment-ratified-1913",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 8): 1913: 'The Seventeenth Amendment, which called for the direct election of U.S. senators by voters of the states, was ratified.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-08-kofi-annan-born",
+      "canonicalId": "kofi-annan-born-1938",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-8",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 8): Famous births: 1938, Kofi Annan (seventh secretary-general of the United Nations)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-08"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-09-appomattox",
+      "canonicalId": "lee-surrenders-at-appomattox-1865",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 9): 1865: 'General Robert E. Lee, commander of the Army of Northern Virginia of the Confederate States of America, signed a treaty of surrender at Appomattox Court House.' (The article below describes the surrender to Grant.)"
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Appomattox-Court-House",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: Lee agreed to Gen. Ulysses S. Grant's terms at 'the home of Wilmer McLean' in Appomattox Court House, Virginia; Lee commanded 'the Army of Northern Virginia'; the surrender 'marked the end of the war in Virginia', with fighting elsewhere continuing."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-09-marian-anderson",
+      "canonicalId": "marian-anderson-lincoln-memorial-1939",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 9): 1939: 'Contralto Marian Anderson gave a concert to an Easter Sunday crowd of 75,000 at the Lincoln Memorial.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-09-churchill-citizen",
+      "canonicalId": "churchill-honorary-us-citizen-1963",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 9): 1963: 'An act of Congress conferred honorary U.S. citizenship on Sir Winston Churchill.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-09-robeson-born",
+      "canonicalId": "paul-robeson-born-1898",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 9): 1898: 'Paul Robeson, a celebrated singer, actor, and political activist who was one of the preeminent figures of American theater in the early 20th century, was born in Princeton, New Jersey.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-09-la-salle-louisiana",
+      "canonicalId": "la-salle-claims-louisiana-1682",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 9): 1682: 'Rene-Robert Cavelier, sieur de La Salle, claimed the Mississippi River basin for France, naming it Louisiana.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "04-09"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-10-good-friday-agreement",
+      "canonicalId": "good-friday-agreement-1998",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 10): 1998: The Good Friday Agreement was signed. (The Mar 21 page also names it 'the Good Friday Agreement (Belfast Agreement) of 1998'.)"
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/March-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Mar 21): 2017: Martin McGuinness 'played an influential role in negotiating the Good Friday Agreement (Belfast Agreement) of 1998'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "04-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-10-great-gatsby",
+      "canonicalId": "the-great-gatsby-published-1925",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 10): 1925: F. Scott Fitzgerald published The Great Gatsby."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-10-zapata",
+      "canonicalId": "emiliano-zapata-killed-1919",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 10): 1919: Emiliano Zapata was ambushed and fatally shot during the Mexican Revolution period."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-10-black-hole-image",
+      "canonicalId": "first-black-hole-image-2019",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 10): 2019: Astronomers released the first black hole image."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "04-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-10-safety-pin",
+      "canonicalId": "safety-pin-patented-1849",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 10): 1849: 'The safety pin was patented by Walter Hunt in the United States; he later sold his rights to the fastener for $400.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-10"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-11-apollo-13",
+      "canonicalId": "apollo-13-launched-1970",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 11): 1970: 'Apollo 13 was launched from Cape Kennedy (now Cape Canaveral) in Florida.'"
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-13/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "NASA: launched April 11, 1970; crew James A. Lovell, Jr., John 'Jack' Swigert and Fred Haise; an oxygen tank failure on the third day forced the crew to abort the landing; splashdown April 17, 1970."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "04-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-11-macarthur-relieved",
+      "canonicalId": "truman-relieves-macarthur-1951",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 11): 1951: 'U.S. President Harry S. Truman relieved General Douglas MacArthur of his command of United Nations and U.S. forces during the Korean War.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-11-eichmann-trial",
+      "canonicalId": "eichmann-trial-begins-1961",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 11): 1961: 'The trial of Nazi leader Adolf Eichmann began in Jerusalem; eight months later it ended with a death sentence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-11-vonnegut-dies",
+      "canonicalId": "kurt-vonnegut-dies-2007",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 11): 2007: 'Kurt Vonnegut, who is known for such wryly satirical novels as Slaughterhouse-Five (1969), died at age 84.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "04-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-11-wiles-born",
+      "canonicalId": "andrew-wiles-born-1953",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 11): 1953: 'English mathematician Andrew John Wiles, deviser of a proof of Fermat's last theorem, was born in Cambridge.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-11"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-12-gagarin-flight",
+      "canonicalId": "gagarin-first-human-in-space-1961",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 12): 1961: Russian cosmonaut Yuri Gagarin became the first human in outer space."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Yuri-Gagarin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: born 'March 9, 1934, near Gzhatsk, Russia, U.S.S.R. [now Gagarin, Russia]'; flew Vostok 1 on April 12, 1961, one orbit of Earth in 1 hour 29 minutes; died March 27, 1968, near Moscow."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "04-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-12-fort-sumter",
+      "canonicalId": "fort-sumter-bombarded-1861",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 12): 1861: Fort Sumter came under fire from Confederate guns, initiating the American Civil War."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Fort-Sumter",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: historic site in Charleston, South Carolina; Confederate attack April 12, 1861, 'the first engagement of the American Civil War'; Maj. Robert Anderson surrendered after a 34-hour bombardment."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-12-polio-vaccine",
+      "canonicalId": "salk-polio-vaccine-announced-1955",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 12): 1955 (featured): polio vaccine announced as 'safe, effective, and potent', presenting results of a two-year trial involving nearly two million children, 80-90 percent effective in preventing polio."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Jonas-Salk",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica: 'the first safe and effective inactivated polio vaccine (IPV)', a killed-virus vaccine injected by needle; Thomas Francis conducted a mass field trial in 1954; 'On April 12, 1955, the vaccine was released for use in the United States.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "04-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-12-shuttle-columbia",
+      "canonicalId": "first-space-shuttle-launch-1981",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 12): 1981: NASA launched the first space shuttle, Columbia, designed to orbit Earth and transport people and cargo."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "04-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    },
+    {
+      "candidateId": "apr-12-fdr-dies",
+      "canonicalId": "franklin-roosevelt-dies-1945",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-12",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Britannica On This Day (Apr 12): 1945: U.S. President Franklin D. Roosevelt died at age 63."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "04-12"
+      ],
+      "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
+    }
+  ]
+}
