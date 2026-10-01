@@ -1,0 +1,3797 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "nasa-absorbed-agency",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "When NASA began operations in 1958, which older US agency did it absorb?",
+      "options": [
+        {
+          "id": "the-federal-aviation-agency",
+          "text": "The Federal Aviation Agency"
+        },
+        {
+          "id": "the-national-advisory-committee-for-aero",
+          "text": "The National Advisory Committee for Aeronautics"
+        },
+        {
+          "id": "the-atomic-energy-commission",
+          "text": "The Atomic Energy Commission"
+        },
+        {
+          "id": "the-national-science-foundation",
+          "text": "The National Science Foundation"
+        }
+      ],
+      "correctOptionId": "the-national-advisory-committee-for-aero",
+      "explanation": "NASA began operations on October 1, 1958, incorporating the National Advisory Committee for Aeronautics (NACA).",
+      "sources": [
+        {
+          "displayName": "NASA - 65 Years Ago: NASA Begins Operations",
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "nasa-begins-operations-1958"
+      ]
+    },
+    {
+      "id": "nasa-act-president",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which US president signed the 1958 law that created NASA?",
+      "options": [
+        {
+          "id": "harry-s-truman",
+          "text": "Harry S. Truman"
+        },
+        {
+          "id": "john-f-kennedy",
+          "text": "John F. Kennedy"
+        },
+        {
+          "id": "lyndon-b-johnson",
+          "text": "Lyndon B. Johnson"
+        },
+        {
+          "id": "dwight-d-eisenhower",
+          "text": "Dwight D. Eisenhower"
+        }
+      ],
+      "correctOptionId": "dwight-d-eisenhower",
+      "explanation": "Eisenhower signed the National Aeronautics and Space Act in July 1958; NASA began operations that October 1.",
+      "sources": [
+        {
+          "displayName": "NASA - 65 Years Ago: NASA Begins Operations",
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "nasa-begins-operations-1958"
+      ]
+    },
+    {
+      "id": "first-public-anesthesia-substance",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The first successful public demonstration of surgical anesthesia, in Boston in 1846, used which substance?",
+      "options": [
+        {
+          "id": "ether",
+          "text": "Ether"
+        },
+        {
+          "id": "chloroform",
+          "text": "Chloroform"
+        },
+        {
+          "id": "nitrous-oxide",
+          "text": "Nitrous oxide"
+        },
+        {
+          "id": "cocaine",
+          "text": "Cocaine"
+        }
+      ],
+      "correctOptionId": "ether",
+      "explanation": "On October 16, 1846, dentist William Morton gave ether at Massachusetts General Hospital while John Collins Warren operated.",
+      "sources": [
+        {
+          "displayName": "Massachusetts General Hospital Archives - Ether",
+          "url": "https://libguides.massgeneral.org/mghhistory/ether"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "ether-anesthesia-demonstrated-1846"
+      ]
+    },
+    {
+      "id": "ether-given-by-dentist",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The ether at the first public demonstration of surgical anesthesia in 1846 was given by a dentist.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Boston dentist William T. G. Morton administered the ether; surgeon John Collins Warren performed the operation.",
+      "sources": [
+        {
+          "displayName": "Massachusetts General Hospital Archives - Ether",
+          "url": "https://libguides.massgeneral.org/mghhistory/ether"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "ether-anesthesia-demonstrated-1846"
+      ]
+    },
+    {
+      "id": "calder-hall-power-type",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Calder Hall, opened by Queen Elizabeth II in 1956, was the world's first commercial power station of what kind?",
+      "options": [
+        {
+          "id": "nuclear",
+          "text": "Nuclear"
+        },
+        {
+          "id": "wind",
+          "text": "Wind"
+        },
+        {
+          "id": "tidal",
+          "text": "Tidal"
+        },
+        {
+          "id": "solar",
+          "text": "Solar"
+        }
+      ],
+      "correctOptionId": "nuclear",
+      "explanation": "World Nuclear News describes Calder Hall, opened on October 17, 1956, as the world's first commercial nuclear power plant.",
+      "sources": [
+        {
+          "displayName": "World Nuclear News - UK marks 60th anniversary of Calder Hall",
+          "url": "https://www.world-nuclear-news.org/Articles/UK-marks-60th-anniversary-of-Calder-Hall"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "calder-hall-opens-1956"
+      ]
+    },
+    {
+      "id": "yorktown-british-general",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which British general surrendered his army at Yorktown in 1781?",
+      "options": [
+        {
+          "id": "john-burgoyne",
+          "text": "John Burgoyne"
+        },
+        {
+          "id": "charles-cornwallis",
+          "text": "Charles Cornwallis"
+        },
+        {
+          "id": "william-howe",
+          "text": "William Howe"
+        },
+        {
+          "id": "henry-clinton",
+          "text": "Henry Clinton"
+        }
+      ],
+      "correctOptionId": "charles-cornwallis",
+      "explanation": "Cornwallis surrendered on October 19, 1781, after a siege by American and French forces under George Washington.",
+      "sources": [
+        {
+          "displayName": "National Park Service - Yorktown Battlefield",
+          "url": "https://www.nps.gov/york/index.htm"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "cornwallis-surrenders-at-yorktown-1781"
+      ]
+    },
+    {
+      "id": "yorktown-allied-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which country's forces joined George Washington's army in the siege of Yorktown?",
+      "options": [
+        {
+          "id": "spain",
+          "text": "Spain"
+        },
+        {
+          "id": "the-netherlands",
+          "text": "The Netherlands"
+        },
+        {
+          "id": "france",
+          "text": "France"
+        },
+        {
+          "id": "prussia",
+          "text": "Prussia"
+        }
+      ],
+      "correctOptionId": "france",
+      "explanation": "Washington besieged Cornwallis 'with allied American and French forces'.",
+      "sources": [
+        {
+          "displayName": "National Park Service - Yorktown Battlefield",
+          "url": "https://www.nps.gov/york/index.htm"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "cornwallis-surrenders-at-yorktown-1781"
+      ]
+    },
+    {
+      "id": "sydney-opera-house-architect",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which architect designed the Sydney Opera House?",
+      "options": [
+        {
+          "id": "frank-gehry",
+          "text": "Frank Gehry"
+        },
+        {
+          "id": "oscar-niemeyer",
+          "text": "Oscar Niemeyer"
+        },
+        {
+          "id": "jorn-utzon",
+          "text": "Jorn Utzon"
+        },
+        {
+          "id": "frank-lloyd-wright",
+          "text": "Frank Lloyd Wright"
+        }
+      ],
+      "correctOptionId": "jorn-utzon",
+      "explanation": "Danish architect Jorn Utzon won the 1957 design competition; Queen Elizabeth II opened the building on October 20, 1973.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Sydney Opera House",
+          "url": "https://www.britannica.com/topic/Sydney-Opera-House"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "sydney-opera-house-opens-1973"
+      ]
+    },
+    {
+      "id": "france-women-first-national-vote",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In what year did women in France first vote in a national election?",
+      "options": [
+        {
+          "id": "1919",
+          "text": "1919"
+        },
+        {
+          "id": "1936",
+          "text": "1936"
+        },
+        {
+          "id": "1945",
+          "text": "1945"
+        },
+        {
+          "id": "1958",
+          "text": "1958"
+        }
+      ],
+      "correctOptionId": "1945",
+      "explanation": "Women in France first voted in a national ballot on October 21, 1945, after municipal elections that April.",
+      "sources": [
+        {
+          "displayName": "Assemblee nationale - Les 33 femmes elues deputees pour la premiere fois en 1945",
+          "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "french-women-vote-nationally-1945"
+      ]
+    },
+    {
+      "id": "chandrayaan-1-destination",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "India's Chandrayaan-1 mission, launched in 2008, was sent to explore what?",
+      "options": [
+        {
+          "id": "mars",
+          "text": "Mars"
+        },
+        {
+          "id": "venus",
+          "text": "Venus"
+        },
+        {
+          "id": "the-sun",
+          "text": "The Sun"
+        },
+        {
+          "id": "the-moon",
+          "text": "The Moon"
+        }
+      ],
+      "correctOptionId": "the-moon",
+      "explanation": "Chandrayaan-1, India's lunar mission, launched from Sriharikota on October 22, 2008.",
+      "sources": [
+        {
+          "displayName": "ISRO - Chandrayaan-1",
+          "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "chandrayaan-1-launches-2008"
+      ]
+    },
+    {
+      "id": "first-ipod-song-capacity",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Apple's first iPod, introduced in 2001, could hold up to about how many songs?",
+      "options": [
+        {
+          "id": "100",
+          "text": "100"
+        },
+        {
+          "id": "1-000",
+          "text": "1,000"
+        },
+        {
+          "id": "10-000",
+          "text": "10,000"
+        },
+        {
+          "id": "100-000",
+          "text": "100,000"
+        }
+      ],
+      "correctOptionId": "1-000",
+      "explanation": "Apple said the iPod stored up to 1,000 CD-quality songs on its 5 GB hard drive.",
+      "sources": [
+        {
+          "displayName": "Apple Newsroom - Apple Presents iPod (October 23, 2001)",
+          "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apple-introduces-ipod-2001"
+      ]
+    },
+    {
+      "id": "un-charter-drafting-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The United Nations came into existence in 1945. In which city did delegates draw up its Charter?",
+      "options": [
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "san-francisco",
+          "text": "San Francisco"
+        }
+      ],
+      "correctOptionId": "san-francisco",
+      "explanation": "Representatives of 50 countries met in San Francisco to draw up the Charter, which entered into force on October 24, 1945.",
+      "sources": [
+        {
+          "displayName": "United Nations - United Nations Day",
+          "url": "https://www.un.org/en/observances/un-day"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "un-charter-enters-into-force-1945"
+      ]
+    },
+    {
+      "id": "agincourt-english-king",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which English king won the Battle of Agincourt in 1415?",
+      "options": [
+        {
+          "id": "henry-v",
+          "text": "Henry V"
+        },
+        {
+          "id": "edward-iii",
+          "text": "Edward III"
+        },
+        {
+          "id": "richard-ii",
+          "text": "Richard II"
+        },
+        {
+          "id": "henry-viii",
+          "text": "Henry VIII"
+        }
+      ],
+      "correctOptionId": "henry-v",
+      "explanation": "Henry V's army defeated a larger French force at Agincourt on October 25, 1415.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Agincourt",
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-agincourt-1415"
+      ]
+    },
+    {
+      "id": "agincourt-decisive-troops",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which troops did much to win the Battle of Agincourt for the English?",
+      "options": [
+        {
+          "id": "heavy-cavalry",
+          "text": "Heavy cavalry"
+        },
+        {
+          "id": "musketeers",
+          "text": "Musketeers"
+        },
+        {
+          "id": "war-elephants",
+          "text": "War elephants"
+        },
+        {
+          "id": "archers-with-longbows",
+          "text": "Archers with longbows"
+        }
+      ],
+      "correctOptionId": "archers-with-longbows",
+      "explanation": "English archers armed with longbows, placed on the flanks, inflicted heavy losses on the advancing French.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Agincourt",
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-agincourt-1415"
+      ]
+    },
+    {
+      "id": "agincourt-war",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Battle of Agincourt was fought during which war?",
+      "options": [
+        {
+          "id": "the-wars-of-the-roses",
+          "text": "The Wars of the Roses"
+        },
+        {
+          "id": "the-thirty-years-war",
+          "text": "The Thirty Years' War"
+        },
+        {
+          "id": "the-hundred-years-war",
+          "text": "The Hundred Years' War"
+        },
+        {
+          "id": "the-seven-years-war",
+          "text": "The Seven Years' War"
+        }
+      ],
+      "correctOptionId": "the-hundred-years-war",
+      "explanation": "Agincourt was part of the Hundred Years' War between England and France.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Agincourt",
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-agincourt-1415"
+      ]
+    },
+    {
+      "id": "nyc-subway-first-driver",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who was at the controls of the first train when New York's subway opened in 1904?",
+      "options": [
+        {
+          "id": "the-president-of-the-united-states",
+          "text": "The president of the United States"
+        },
+        {
+          "id": "the-governor-of-new-york",
+          "text": "The governor of New York"
+        },
+        {
+          "id": "the-city-s-mayor",
+          "text": "The city's mayor"
+        },
+        {
+          "id": "thomas-edison",
+          "text": "Thomas Edison"
+        }
+      ],
+      "correctOptionId": "the-city-s-mayor",
+      "explanation": "Mayor George B. McClellan drove the first train and refused to hand over: 'No, sir! I'm running this train!'",
+      "sources": [
+        {
+          "displayName": "6sqft - What it was like the day the NYC subway opened in 1904",
+          "url": "https://www.6sqft.com/what-it-was-like-the-day-the-nyc-subway-opened-in-1904/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "new-york-subway-opens-1904"
+      ]
+    },
+    {
+      "id": "statue-of-liberty-framework-engineer",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which engineer designed the internal framework of the Statue of Liberty?",
+      "options": [
+        {
+          "id": "john-a-roebling",
+          "text": "John A. Roebling"
+        },
+        {
+          "id": "ferdinand-de-lesseps",
+          "text": "Ferdinand de Lesseps"
+        },
+        {
+          "id": "gustave-eiffel",
+          "text": "Gustave Eiffel"
+        },
+        {
+          "id": "joseph-paxton",
+          "text": "Joseph Paxton"
+        }
+      ],
+      "correctOptionId": "gustave-eiffel",
+      "explanation": "Bartholdi sculpted the statue; Gustave Eiffel engineered its internal steel framework. It was dedicated on October 28, 1886.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Statue of Liberty",
+          "url": "https://www.britannica.com/topic/Statue-of-Liberty"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "statue-of-liberty-dedicated-1886"
+      ]
+    },
+    {
+      "id": "war-of-the-worlds-novelist",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Orson Welles's 1938 radio drama The War of the Worlds was based on a novel by whom?",
+      "options": [
+        {
+          "id": "jules-verne",
+          "text": "Jules Verne"
+        },
+        {
+          "id": "arthur-conan-doyle",
+          "text": "Arthur Conan Doyle"
+        },
+        {
+          "id": "edgar-rice-burroughs",
+          "text": "Edgar Rice Burroughs"
+        },
+        {
+          "id": "h-g-wells",
+          "text": "H.G. Wells"
+        }
+      ],
+      "correctOptionId": "h-g-wells",
+      "explanation": "The October 30, 1938, broadcast adapted H.G. Wells's 1898 novel.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The War of the Worlds (radio drama)",
+          "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "war-of-the-worlds-broadcast-1938"
+      ]
+    },
+    {
+      "id": "war-of-the-worlds-landing-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In the 1938 War of the Worlds broadcast, the Martian invasion began in which US state?",
+      "options": [
+        {
+          "id": "new-jersey",
+          "text": "New Jersey"
+        },
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "pennsylvania",
+          "text": "Pennsylvania"
+        },
+        {
+          "id": "connecticut",
+          "text": "Connecticut"
+        }
+      ],
+      "correctOptionId": "new-jersey",
+      "explanation": "Britannica describes the drama as a Martian invasion of Earth 'beginning in New Jersey'.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The War of the Worlds (radio drama)",
+          "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "war-of-the-worlds-broadcast-1938"
+      ]
+    },
+    {
+      "id": "ninety-five-theses-target",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Martin Luther's Ninety-five Theses of 1517 attacked the sale of what?",
+      "options": [
+        {
+          "id": "bibles",
+          "text": "Bibles"
+        },
+        {
+          "id": "indulgences",
+          "text": "Indulgences"
+        },
+        {
+          "id": "holy-relics",
+          "text": "Holy relics"
+        },
+        {
+          "id": "church-candles",
+          "text": "Church candles"
+        }
+      ],
+      "correctOptionId": "indulgences",
+      "explanation": "The theses criticized the sale of indulgences.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ninety-five Theses",
+          "url": "https://www.britannica.com/event/Ninety-five-Theses"
+        }
+      ],
+      "collectionIds": [
+        "revolutions",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "luther-ninety-five-theses-1517"
+      ]
+    },
+    {
+      "id": "ninety-five-theses-language",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which language did Martin Luther write the Ninety-five Theses?",
+      "options": [
+        {
+          "id": "german",
+          "text": "German"
+        },
+        {
+          "id": "greek",
+          "text": "Greek"
+        },
+        {
+          "id": "latin",
+          "text": "Latin"
+        },
+        {
+          "id": "hebrew",
+          "text": "Hebrew"
+        }
+      ],
+      "correctOptionId": "latin",
+      "explanation": "The theses were 'Written in Latin by Martin Luther' as propositions for academic debate.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ninety-five Theses",
+          "url": "https://www.britannica.com/event/Ninety-five-Theses"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "luther-ninety-five-theses-1517"
+      ]
+    },
+    {
+      "id": "maastricht-treaty-created",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The Maastricht Treaty, which took effect in 1993, created what?",
+      "options": [
+        {
+          "id": "nato",
+          "text": "NATO"
+        },
+        {
+          "id": "the-council-of-europe",
+          "text": "The Council of Europe"
+        },
+        {
+          "id": "the-schengen-area",
+          "text": "The Schengen Area"
+        },
+        {
+          "id": "the-european-union",
+          "text": "The European Union"
+        }
+      ],
+      "correctOptionId": "the-european-union",
+      "explanation": "The treaty entered into force on November 1, 1993, and established the European Union.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Maastricht Treaty",
+          "url": "https://www.britannica.com/event/Maastricht-Treaty"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "maastricht-treaty-in-force-1993"
+      ]
+    },
+    {
+      "id": "maastricht-country",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which country is Maastricht, where the treaty creating the European Union was signed?",
+      "options": [
+        {
+          "id": "belgium",
+          "text": "Belgium"
+        },
+        {
+          "id": "the-netherlands",
+          "text": "The Netherlands"
+        },
+        {
+          "id": "luxembourg",
+          "text": "Luxembourg"
+        },
+        {
+          "id": "germany",
+          "text": "Germany"
+        }
+      ],
+      "correctOptionId": "the-netherlands",
+      "explanation": "The treaty was signed in Maastricht, in the Netherlands, on February 7, 1992.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Maastricht Treaty",
+          "url": "https://www.britannica.com/event/Maastricht-Treaty"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "maastricht-treaty-in-force-1993"
+      ]
+    },
+    {
+      "id": "iss-first-crew-countries",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The first crew to live aboard the International Space Station, in 2000, came from which two countries?",
+      "options": [
+        {
+          "id": "the-united-states-and-japan",
+          "text": "The United States and Japan"
+        },
+        {
+          "id": "russia-and-canada",
+          "text": "Russia and Canada"
+        },
+        {
+          "id": "the-united-states-and-russia",
+          "text": "The United States and Russia"
+        },
+        {
+          "id": "the-united-states-and-germany",
+          "text": "The United States and Germany"
+        }
+      ],
+      "correctOptionId": "the-united-states-and-russia",
+      "explanation": "Expedition 1 was American commander William Shepherd with Russians Sergei Krikalev and Yuri Gidzenko.",
+      "sources": [
+        {
+          "displayName": "NASA - Expedition 1",
+          "url": "https://www.nasa.gov/mission/expedition-1/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-iss-crew-arrives-2000"
+      ]
+    },
+    {
+      "id": "japan-constitution-article-9",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In Article 9 of Japan's constitution, promulgated in 1946, the Japanese people forever renounce what?",
+      "options": [
+        {
+          "id": "the-monarchy",
+          "text": "The monarchy"
+        },
+        {
+          "id": "war-as-a-sovereign-right",
+          "text": "War as a sovereign right"
+        },
+        {
+          "id": "nuclear-power",
+          "text": "Nuclear power"
+        },
+        {
+          "id": "foreign-trade",
+          "text": "Foreign trade"
+        }
+      ],
+      "correctOptionId": "war-as-a-sovereign-right",
+      "explanation": "Article 9 says the Japanese people 'forever renounce war as a sovereign right of the nation'.",
+      "sources": [
+        {
+          "displayName": "National Diet Library - The Constitution of Japan",
+          "url": "https://www.ndl.go.jp/constitution/e/etc/c01.html"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "constitution-of-japan-promulgated-1946"
+      ]
+    },
+    {
+      "id": "carter-tomb-pharaoh",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In November 1922, Howard Carter's team found the tomb of which pharaoh?",
+      "options": [
+        {
+          "id": "tutankhamun",
+          "text": "Tutankhamun"
+        },
+        {
+          "id": "ramses-ii",
+          "text": "Ramses II"
+        },
+        {
+          "id": "khufu",
+          "text": "Khufu"
+        },
+        {
+          "id": "akhenaten",
+          "text": "Akhenaten"
+        }
+      ],
+      "correctOptionId": "tutankhamun",
+      "explanation": "Carter's team found the first sign of Tutankhamun's tomb in the Valley of the Kings on November 4, 1922.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Howard Carter",
+          "url": "https://www.britannica.com/biography/Howard-Carter"
+        }
+      ],
+      "collectionIds": [
+        "ancient-history",
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "tutankhamun-tomb-found-1922"
+      ]
+    },
+    {
+      "id": "carter-sponsor",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which British aristocrat funded Howard Carter's search for Tutankhamun's tomb?",
+      "options": [
+        {
+          "id": "lord-elgin",
+          "text": "Lord Elgin"
+        },
+        {
+          "id": "lord-byron",
+          "text": "Lord Byron"
+        },
+        {
+          "id": "lord-carnarvon",
+          "text": "Lord Carnarvon"
+        },
+        {
+          "id": "lord-kitchener",
+          "text": "Lord Kitchener"
+        }
+      ],
+      "correctOptionId": "lord-carnarvon",
+      "explanation": "The 5th earl of Carnarvon, a collector of antiquities, sponsored Carter's excavations.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Howard Carter",
+          "url": "https://www.britannica.com/biography/Howard-Carter"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "tutankhamun-tomb-found-1922"
+      ]
+    },
+    {
+      "id": "gunpowder-plot-guard",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who was caught guarding the gunpowder under the House of Lords in 1605?",
+      "options": [
+        {
+          "id": "robert-catesby",
+          "text": "Robert Catesby"
+        },
+        {
+          "id": "thomas-percy",
+          "text": "Thomas Percy"
+        },
+        {
+          "id": "walter-raleigh",
+          "text": "Walter Raleigh"
+        },
+        {
+          "id": "guy-fawkes",
+          "text": "Guy Fawkes"
+        }
+      ],
+      "correctOptionId": "guy-fawkes",
+      "explanation": "Guy Fawkes was arrested guarding the gunpowder in a cellar under the House of Lords; Robert Catesby led the plot.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gunpowder Plot",
+          "url": "https://www.britannica.com/event/Gunpowder-Plot"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gunpowder-plot-foiled-1605"
+      ]
+    },
+    {
+      "id": "gunpowder-plot-king",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which king did the Gunpowder Plot conspirators plan to kill?",
+      "options": [
+        {
+          "id": "charles-i",
+          "text": "Charles I"
+        },
+        {
+          "id": "james-i",
+          "text": "James I"
+        },
+        {
+          "id": "henry-viii",
+          "text": "Henry VIII"
+        },
+        {
+          "id": "william-iii",
+          "text": "William III"
+        }
+      ],
+      "correctOptionId": "james-i",
+      "explanation": "The plotters meant to blow up Parliament and King James I at its opening on November 5, 1605.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gunpowder Plot",
+          "url": "https://www.britannica.com/event/Gunpowder-Plot"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gunpowder-plot-foiled-1605"
+      ]
+    },
+    {
+      "id": "lincoln-1860-party",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Abraham Lincoln won the 1860 presidential election as the candidate of which party?",
+      "options": [
+        {
+          "id": "republican",
+          "text": "Republican"
+        },
+        {
+          "id": "democratic",
+          "text": "Democratic"
+        },
+        {
+          "id": "whig",
+          "text": "Whig"
+        },
+        {
+          "id": "constitutional-union",
+          "text": "Constitutional Union"
+        }
+      ],
+      "correctOptionId": "republican",
+      "explanation": "Lincoln, the Republican candidate, defeated Douglas, Breckinridge and Bell.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - United States presidential election of 1860",
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "lincoln-elected-president-1860"
+      ]
+    },
+    {
+      "id": "lincoln-1860-popular-majority",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Abraham Lincoln won a majority of the popular vote in the 1860 election.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "false",
+      "explanation": "Lincoln won less than 40 percent of the popular vote but a majority of 180 electoral votes.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - United States presidential election of 1860",
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "lincoln-elected-president-1860"
+      ]
+    },
+    {
+      "id": "polonium-named-for",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Marie Curie named the element polonium after what?",
+      "options": [
+        {
+          "id": "her-husband-pierre",
+          "text": "Her husband, Pierre"
+        },
+        {
+          "id": "the-city-of-paris",
+          "text": "The city of Paris"
+        },
+        {
+          "id": "her-homeland-poland",
+          "text": "Her homeland, Poland"
+        },
+        {
+          "id": "the-north-pole",
+          "text": "The North Pole"
+        }
+      ],
+      "correctOptionId": "her-homeland-poland",
+      "explanation": "Born in Warsaw on November 7, 1867, Curie named polonium in honour of her native land.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Marie Curie",
+          "url": "https://www.britannica.com/biography/Marie-Curie"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "marie-curie-born-1867"
+      ]
+    },
+    {
+      "id": "x-rays-name-reason",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Why did Wilhelm Rontgen call the rays he discovered in 1895 'X' rays?",
+      "options": [
+        {
+          "id": "they-formed-an-x-on-his-screen",
+          "text": "They formed an X on his screen"
+        },
+        {
+          "id": "their-nature-was-unknown",
+          "text": "Their nature was unknown"
+        },
+        {
+          "id": "they-were-his-tenth-discovery",
+          "text": "They were his tenth discovery"
+        },
+        {
+          "id": "he-named-them-after-a-colleague",
+          "text": "He named them after a colleague"
+        }
+      ],
+      "correctOptionId": "their-nature-was-unknown",
+      "explanation": "Rontgen called the radiation X-radiation because its nature was uncertain.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Wilhelm Conrad Rontgen",
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "rontgen-discovers-x-rays-1895"
+      ]
+    },
+    {
+      "id": "rontgen-first-physics-nobel",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Wilhelm Rontgen received the first Nobel Prize for Physics.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "Rontgen received the first Nobel Prize for Physics, in 1901, for his discovery of X-rays.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Wilhelm Conrad Rontgen",
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "rontgen-discovers-x-rays-1895"
+      ]
+    },
+    {
+      "id": "berlin-wall-builder",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which government built the Berlin Wall in 1961?",
+      "options": [
+        {
+          "id": "west-germany",
+          "text": "West Germany"
+        },
+        {
+          "id": "poland",
+          "text": "Poland"
+        },
+        {
+          "id": "east-germany",
+          "text": "East Germany"
+        },
+        {
+          "id": "austria",
+          "text": "Austria"
+        }
+      ],
+      "correctOptionId": "east-germany",
+      "explanation": "The German Democratic Republic (East Germany) built the wall in August 1961 and opened its borders on November 9, 1989.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Berlin Wall",
+          "url": "https://www.britannica.com/topic/Berlin-Wall"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "berlin-wall-opens-1989"
+      ]
+    },
+    {
+      "id": "luna-17-cargo",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The Soviet Luna 17 mission, launched in 1970, delivered what to the Moon?",
+      "options": [
+        {
+          "id": "a-crew-of-two-cosmonauts",
+          "text": "A crew of two cosmonauts"
+        },
+        {
+          "id": "a-remote-controlled-rover",
+          "text": "A remote-controlled rover"
+        },
+        {
+          "id": "a-space-telescope",
+          "text": "A space telescope"
+        },
+        {
+          "id": "a-nuclear-reactor",
+          "text": "A nuclear reactor"
+        }
+      ],
+      "correctOptionId": "a-remote-controlled-rover",
+      "explanation": "Luna 17 landed in Mare Imbrium on November 17, 1970, carrying the rover Lunokhod 1.",
+      "sources": [
+        {
+          "displayName": "NASA NSSDCA - Soviet Lunar Missions",
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "luna-17-lunokhod-launch-1970"
+      ]
+    },
+    {
+      "id": "armistice-1918-time",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "At what time on November 11, 1918, did the armistice ending fighting on the Western Front take effect?",
+      "options": [
+        {
+          "id": "midnight",
+          "text": "Midnight"
+        },
+        {
+          "id": "6-a-m",
+          "text": "6 a.m."
+        },
+        {
+          "id": "11-a-m",
+          "text": "11 a.m."
+        },
+        {
+          "id": "noon",
+          "text": "Noon"
+        }
+      ],
+      "correctOptionId": "11-a-m",
+      "explanation": "Signed at Compiegne early that morning, the armistice took effect at 11 a.m.: the eleventh hour of the eleventh day of the eleventh month.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Armistice Day",
+          "url": "https://www.britannica.com/topic/Armistice-Day"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "armistice-ends-ww1-fighting-1918"
+      ]
+    },
+    {
+      "id": "armistice-day-us-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What is Armistice Day called in the United States today?",
+      "options": [
+        {
+          "id": "memorial-day",
+          "text": "Memorial Day"
+        },
+        {
+          "id": "veterans-day",
+          "text": "Veterans Day"
+        },
+        {
+          "id": "remembrance-day",
+          "text": "Remembrance Day"
+        },
+        {
+          "id": "independence-day",
+          "text": "Independence Day"
+        }
+      ],
+      "correctOptionId": "veterans-day",
+      "explanation": "In 1954 the US holiday became Veterans Day, honouring all US military veterans.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Armistice Day",
+          "url": "https://www.britannica.com/topic/Armistice-Day"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "armistice-ends-ww1-fighting-1918"
+      ]
+    },
+    {
+      "id": "stevenson-novel",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which of these novels did Robert Louis Stevenson write?",
+      "options": [
+        {
+          "id": "ivanhoe",
+          "text": "Ivanhoe"
+        },
+        {
+          "id": "robinson-crusoe",
+          "text": "Robinson Crusoe"
+        },
+        {
+          "id": "moby-dick",
+          "text": "Moby-Dick"
+        },
+        {
+          "id": "treasure-island",
+          "text": "Treasure Island"
+        }
+      ],
+      "correctOptionId": "treasure-island",
+      "explanation": "Stevenson, born November 13, 1850, wrote Treasure Island, Kidnapped and Strange Case of Dr. Jekyll and Mr. Hyde.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Louis Stevenson",
+          "url": "https://www.britannica.com/biography/Robert-Louis-Stevenson"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "robert-louis-stevenson-born-1850"
+      ]
+    },
+    {
+      "id": "stevenson-birth-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which city was Robert Louis Stevenson born?",
+      "options": [
+        {
+          "id": "edinburgh",
+          "text": "Edinburgh"
+        },
+        {
+          "id": "glasgow",
+          "text": "Glasgow"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "dublin",
+          "text": "Dublin"
+        }
+      ],
+      "correctOptionId": "edinburgh",
+      "explanation": "Stevenson was born in Edinburgh on November 13, 1850.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Robert Louis Stevenson",
+          "url": "https://www.britannica.com/biography/Robert-Louis-Stevenson"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "robert-louis-stevenson-born-1850"
+      ]
+    },
+    {
+      "id": "ruby-bridges-painter",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which artist painted Ruby Bridges walking to school in The Problem We All Live With?",
+      "options": [
+        {
+          "id": "norman-rockwell",
+          "text": "Norman Rockwell"
+        },
+        {
+          "id": "andy-warhol",
+          "text": "Andy Warhol"
+        },
+        {
+          "id": "edward-hopper",
+          "text": "Edward Hopper"
+        },
+        {
+          "id": "jacob-lawrence",
+          "text": "Jacob Lawrence"
+        }
+      ],
+      "correctOptionId": "norman-rockwell",
+      "explanation": "Norman Rockwell's 1963 painting commemorates six-year-old Bridges's walk into a New Orleans school in 1960.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ruby Bridges",
+          "url": "https://www.britannica.com/biography/Ruby-Bridges"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "ruby-bridges-first-day-1960"
+      ]
+    },
+    {
+      "id": "ruby-bridges-escort",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who escorted six-year-old Ruby Bridges into her New Orleans school in 1960?",
+      "options": [
+        {
+          "id": "her-teachers",
+          "text": "Her teachers"
+        },
+        {
+          "id": "city-police-officers",
+          "text": "City police officers"
+        },
+        {
+          "id": "her-classmates",
+          "text": "Her classmates"
+        },
+        {
+          "id": "federal-marshals",
+          "text": "Federal marshals"
+        }
+      ],
+      "correctOptionId": "federal-marshals",
+      "explanation": "Four federal marshals escorted Bridges to William Frantz Elementary School on November 14, 1960.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ruby Bridges",
+          "url": "https://www.britannica.com/biography/Ruby-Bridges"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "ruby-bridges-first-day-1960"
+      ]
+    },
+    {
+      "id": "league-assembly-first-city",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In which city did the League of Nations Assembly first meet, in 1920?",
+      "options": [
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "london",
+          "text": "London"
+        },
+        {
+          "id": "the-hague",
+          "text": "The Hague"
+        }
+      ],
+      "correctOptionId": "geneva",
+      "explanation": "Forty-one member states gathered in Geneva on November 15, 1920, for the Assembly's first session.",
+      "sources": [
+        {
+          "displayName": "UN Geneva - League of Nations overview",
+          "url": "https://www.ungeneva.org/en/about/league-of-nations/overview"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "league-of-nations-first-assembly-1920"
+      ]
+    },
+    {
+      "id": "bhutto-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Benazir Bhutto, elected in 1988, was the first woman in modern history to lead a Muslim nation. Which country?",
+      "options": [
+        {
+          "id": "bangladesh",
+          "text": "Bangladesh"
+        },
+        {
+          "id": "pakistan",
+          "text": "Pakistan"
+        },
+        {
+          "id": "indonesia",
+          "text": "Indonesia"
+        },
+        {
+          "id": "turkey",
+          "text": "Turkey"
+        }
+      ],
+      "correctOptionId": "pakistan",
+      "explanation": "Bhutto was prime minister of Pakistan from 1988 to 1990 and from 1993 to 1996.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Benazir Bhutto",
+          "url": "https://www.britannica.com/biography/Benazir-Bhutto"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "benazir-bhutto-elected-1988"
+      ]
+    },
+    {
+      "id": "steamboat-willie-star",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which character starred in Steamboat Willie, released in 1928?",
+      "options": [
+        {
+          "id": "mickey-mouse",
+          "text": "Mickey Mouse"
+        },
+        {
+          "id": "donald-duck",
+          "text": "Donald Duck"
+        },
+        {
+          "id": "goofy",
+          "text": "Goofy"
+        },
+        {
+          "id": "oswald-the-lucky-rabbit",
+          "text": "Oswald the Lucky Rabbit"
+        }
+      ],
+      "correctOptionId": "mickey-mouse",
+      "explanation": "Steamboat Willie was the first Mickey Mouse cartoon released with synchronized sound.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Steamboat Willie",
+          "url": "https://www.britannica.com/topic/Steamboat-Willie"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "steamboat-willie-released-1928"
+      ]
+    },
+    {
+      "id": "gettysburg-address-length",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "About how long was Lincoln's Gettysburg Address?",
+      "options": [
+        {
+          "id": "about-270-words",
+          "text": "About 270 words"
+        },
+        {
+          "id": "about-1-500-words",
+          "text": "About 1,500 words"
+        },
+        {
+          "id": "about-5-000-words",
+          "text": "About 5,000 words"
+        },
+        {
+          "id": "about-13-000-words",
+          "text": "About 13,000 words"
+        }
+      ],
+      "correctOptionId": "about-270-words",
+      "explanation": "Britannica says the address was just 272 words long, delivered after Edward Everett's two-hour oration.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gettysburg Address",
+          "url": "https://www.britannica.com/event/Gettysburg-Address"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gettysburg-address-1863"
+      ]
+    },
+    {
+      "id": "gettysburg-main-speaker",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who gave the two-hour main speech at Gettysburg in 1863, before Lincoln spoke?",
+      "options": [
+        {
+          "id": "frederick-douglass",
+          "text": "Frederick Douglass"
+        },
+        {
+          "id": "edward-everett",
+          "text": "Edward Everett"
+        },
+        {
+          "id": "daniel-webster",
+          "text": "Daniel Webster"
+        },
+        {
+          "id": "stephen-douglas",
+          "text": "Stephen Douglas"
+        }
+      ],
+      "correctOptionId": "edward-everett",
+      "explanation": "Edward Everett, the best-known orator of the time, spoke for two hours before Lincoln's brief address.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Gettysburg Address",
+          "url": "https://www.britannica.com/event/Gettysburg-Address"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "gettysburg-address-1863"
+      ]
+    },
+    {
+      "id": "first-crewed-balloon-builders",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "The first crewed hot-air balloon flight, in 1783, was made in a balloon built by which brothers?",
+      "options": [
+        {
+          "id": "the-wright-brothers",
+          "text": "The Wright brothers"
+        },
+        {
+          "id": "the-montgolfier-brothers",
+          "text": "The Montgolfier brothers"
+        },
+        {
+          "id": "the-lumiere-brothers",
+          "text": "The Lumiere brothers"
+        },
+        {
+          "id": "the-grimm-brothers",
+          "text": "The Grimm brothers"
+        }
+      ],
+      "correctOptionId": "the-montgolfier-brothers",
+      "explanation": "Pilatre de Rozier and the marquis d'Arlandes flew in a Montgolfier balloon on November 21, 1783.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 21",
+          "url": "https://www.britannica.com/on-this-day/November-21"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - Montgolfier brothers",
+          "url": "https://www.britannica.com/biography/Montgolfier-brothers"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-crewed-balloon-flight-1783"
+      ]
+    },
+    {
+      "id": "balloon-animal-passengers",
+      "type": "true_false",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Before people flew in a Montgolfier balloon, one carried a sheep, a rooster and a duck.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "At Versailles on September 19, 1783, a sheep, a rooster and a duck flew safely; people followed on November 21.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Montgolfier brothers",
+          "url": "https://www.britannica.com/biography/Montgolfier-brothers"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-crewed-balloon-flight-1783"
+      ]
+    },
+    {
+      "id": "toy-story-woody-voice",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who voiced Woody in Toy Story (1995)?",
+      "options": [
+        {
+          "id": "tim-allen",
+          "text": "Tim Allen"
+        },
+        {
+          "id": "tom-hanks",
+          "text": "Tom Hanks"
+        },
+        {
+          "id": "billy-crystal",
+          "text": "Billy Crystal"
+        },
+        {
+          "id": "robin-williams",
+          "text": "Robin Williams"
+        }
+      ],
+      "correctOptionId": "tom-hanks",
+      "explanation": "Tom Hanks voiced the cowboy Woody in Pixar's Toy Story, the first entirely computer-animated feature film.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Toy Story",
+          "url": "https://www.britannica.com/topic/Toy-Story"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "toy-story-released-1995"
+      ]
+    },
+    {
+      "id": "tardis-disguise",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In Doctor Who, what does the TARDIS look like from the outside?",
+      "options": [
+        {
+          "id": "a-red-telephone-box",
+          "text": "A red telephone box"
+        },
+        {
+          "id": "a-london-bus",
+          "text": "A London bus"
+        },
+        {
+          "id": "a-blue-police-box",
+          "text": "A blue police box"
+        },
+        {
+          "id": "a-grandfather-clock",
+          "text": "A grandfather clock"
+        }
+      ],
+      "correctOptionId": "a-blue-police-box",
+      "explanation": "The TARDIS appears as a blue police box but is larger inside than out.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Doctor Who",
+          "url": "https://www.britannica.com/topic/Doctor-Who"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "doctor-who-first-episode-1963"
+      ]
+    },
+    {
+      "id": "van-diemens-land",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What did Abel Tasman name the island now called Tasmania?",
+      "options": [
+        {
+          "id": "new-holland",
+          "text": "New Holland"
+        },
+        {
+          "id": "new-zeeland",
+          "text": "New Zeeland"
+        },
+        {
+          "id": "staten-landt",
+          "text": "Staten Landt"
+        },
+        {
+          "id": "van-diemen-s-land",
+          "text": "Van Diemen's Land"
+        }
+      ],
+      "correctOptionId": "van-diemen-s-land",
+      "explanation": "Tasman named it Van Diemen's Land after the governor-general of the Dutch East India Company.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Abel Tasman",
+          "url": "https://www.britannica.com/biography/Abel-Janszoon-Tasman"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "tasman-reaches-tasmania-1642"
+      ]
+    },
+    {
+      "id": "mousetrap-author",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who wrote The Mousetrap, the London play that opened in 1952?",
+      "options": [
+        {
+          "id": "dorothy-l-sayers",
+          "text": "Dorothy L. Sayers"
+        },
+        {
+          "id": "noel-coward",
+          "text": "Noel Coward"
+        },
+        {
+          "id": "agatha-christie",
+          "text": "Agatha Christie"
+        },
+        {
+          "id": "arthur-conan-doyle",
+          "text": "Arthur Conan Doyle"
+        }
+      ],
+      "correctOptionId": "agatha-christie",
+      "explanation": "Agatha Christie adapted the play from her radio drama Three Blind Mice.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The Mousetrap",
+          "url": "https://www.britannica.com/topic/The-Mousetrap"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "the-mousetrap-opens-1952"
+      ]
+    },
+    {
+      "id": "mousetrap-audience-secret",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What are audiences of The Mousetrap traditionally asked not to reveal?",
+      "options": [
+        {
+          "id": "the-theatre-s-name",
+          "text": "The theatre's name"
+        },
+        {
+          "id": "the-cast-list",
+          "text": "The cast list"
+        },
+        {
+          "id": "the-play-s-running-time",
+          "text": "The play's running time"
+        },
+        {
+          "id": "the-ending",
+          "text": "The ending"
+        }
+      ],
+      "correctOptionId": "the-ending",
+      "explanation": "Audiences are traditionally asked not to divulge the mystery's resolution.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The Mousetrap",
+          "url": "https://www.britannica.com/topic/The-Mousetrap"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "the-mousetrap-opens-1952"
+      ]
+    },
+    {
+      "id": "casablanca-song",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which song does Dooley Wilson's character sing in Casablanca (1942)?",
+      "options": [
+        {
+          "id": "as-time-goes-by",
+          "text": "As Time Goes By"
+        },
+        {
+          "id": "over-the-rainbow",
+          "text": "Over the Rainbow"
+        },
+        {
+          "id": "singin-in-the-rain",
+          "text": "Singin' in the Rain"
+        },
+        {
+          "id": "moon-river",
+          "text": "Moon River"
+        }
+      ],
+      "correctOptionId": "as-time-goes-by",
+      "explanation": "Dooley Wilson 'memorably sings \"As Time Goes By\"' in Rick's Cafe Americain.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Casablanca",
+          "url": "https://www.britannica.com/topic/Casablanca-film-by-Curtiz"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "casablanca-premieres-1942"
+      ]
+    },
+    {
+      "id": "nobel-not-original-prize",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which of these was NOT one of the five prizes Alfred Nobel set up in his 1895 will?",
+      "options": [
+        {
+          "id": "physics",
+          "text": "Physics"
+        },
+        {
+          "id": "economics",
+          "text": "Economics"
+        },
+        {
+          "id": "literature",
+          "text": "Literature"
+        },
+        {
+          "id": "peace",
+          "text": "Peace"
+        }
+      ],
+      "correctOptionId": "economics",
+      "explanation": "The economics prize was created by Sweden's central bank in 1968; Nobel's will named physics, chemistry, physiology or medicine, literature and peace.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Nobel Prize",
+          "url": "https://www.britannica.com/topic/Nobel-Prize"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nobel-prizes-established-1895"
+      ]
+    },
+    {
+      "id": "nobel-peace-prize-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which city is the Nobel Peace Prize awarded?",
+      "options": [
+        {
+          "id": "stockholm",
+          "text": "Stockholm"
+        },
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "copenhagen",
+          "text": "Copenhagen"
+        },
+        {
+          "id": "oslo",
+          "text": "Oslo"
+        }
+      ],
+      "correctOptionId": "oslo",
+      "explanation": "The Norwegian Nobel Committee awards the peace prize in Oslo; the other prizes are awarded in Sweden.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Nobel Prize",
+          "url": "https://www.britannica.com/topic/Nobel-Prize"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nobel-prizes-established-1895"
+      ]
+    },
+    {
+      "id": "albania-independence-city",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which city was Albania's independence proclaimed in 1912?",
+      "options": [
+        {
+          "id": "vlore",
+          "text": "Vlore"
+        },
+        {
+          "id": "tirana",
+          "text": "Tirana"
+        },
+        {
+          "id": "durres",
+          "text": "Durres"
+        },
+        {
+          "id": "shkoder",
+          "text": "Shkoder"
+        }
+      ],
+      "correctOptionId": "vlore",
+      "explanation": "Delegates led by Ismail Qemal issued the Vlore proclamation on November 28, 1912.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: November 28",
+          "url": "https://www.britannica.com/on-this-day/November-28"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "albania-independence-1912"
+      ]
+    },
+    {
+      "id": "byrd-1929-flight",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In 1929, Richard Byrd's crew made the first flight over which place?",
+      "options": [
+        {
+          "id": "the-north-pole",
+          "text": "The North Pole"
+        },
+        {
+          "id": "mount-everest",
+          "text": "Mount Everest"
+        },
+        {
+          "id": "the-south-pole",
+          "text": "The South Pole"
+        },
+        {
+          "id": "the-sahara",
+          "text": "The Sahara"
+        }
+      ],
+      "correctOptionId": "the-south-pole",
+      "explanation": "On November 29, 1929, Byrd, as navigator, and three companions made the first flight over the South Pole.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Richard E. Byrd",
+          "url": "https://www.britannica.com/biography/Richard-E-Byrd"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "byrd-flies-over-south-pole-1929"
+      ]
+    },
+    {
+      "id": "barbados-capital",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What is the capital of Barbados, which became independent in 1966?",
+      "options": [
+        {
+          "id": "kingston",
+          "text": "Kingston"
+        },
+        {
+          "id": "bridgetown",
+          "text": "Bridgetown"
+        },
+        {
+          "id": "port-of-spain",
+          "text": "Port of Spain"
+        },
+        {
+          "id": "castries",
+          "text": "Castries"
+        }
+      ],
+      "correctOptionId": "bridgetown",
+      "explanation": "Bridgetown is the capital, largest town and main seaport of Barbados.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Barbados",
+          "url": "https://www.britannica.com/place/Barbados"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "barbados-independence-1966"
+      ]
+    },
+    {
+      "id": "montgomery-boycott-length",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "How long did the Montgomery bus boycott sparked by Rosa Parks's arrest last?",
+      "options": [
+        {
+          "id": "about-a-week",
+          "text": "About a week"
+        },
+        {
+          "id": "about-a-month",
+          "text": "About a month"
+        },
+        {
+          "id": "381-days",
+          "text": "381 days"
+        },
+        {
+          "id": "five-years",
+          "text": "Five years"
+        }
+      ],
+      "correctOptionId": "381-days",
+      "explanation": "Parks was arrested on December 1, 1955; the boycott lasted 381 days.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Rosa Parks",
+          "url": "https://www.britannica.com/biography/Rosa-Parks"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "rosa-parks-arrested-1955"
+      ]
+    },
+    {
+      "id": "rosa-parks-organization",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Rosa Parks was secretary of the Montgomery chapter of which organization?",
+      "options": [
+        {
+          "id": "the-red-cross",
+          "text": "The Red Cross"
+        },
+        {
+          "id": "the-naacp",
+          "text": "The NAACP"
+        },
+        {
+          "id": "the-ymca",
+          "text": "The YMCA"
+        },
+        {
+          "id": "the-league-of-women-voters",
+          "text": "The League of Women Voters"
+        }
+      ],
+      "correctOptionId": "the-naacp",
+      "explanation": "Parks served as secretary of the Montgomery NAACP chapter.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Rosa Parks",
+          "url": "https://www.britannica.com/biography/Rosa-Parks"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "rosa-parks-arrested-1955"
+      ]
+    },
+    {
+      "id": "chicago-pile-location",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Enrico Fermi's first nuclear reactor, Chicago Pile-1, was built beneath what?",
+      "options": [
+        {
+          "id": "a-church",
+          "text": "A church"
+        },
+        {
+          "id": "a-hospital",
+          "text": "A hospital"
+        },
+        {
+          "id": "a-railway-station",
+          "text": "A railway station"
+        },
+        {
+          "id": "a-football-stadium",
+          "text": "A football stadium"
+        }
+      ],
+      "correctOptionId": "a-football-stadium",
+      "explanation": "The reactor that achieved the first controlled chain reaction on December 2, 1942, was built beneath the University of Chicago's football stadium.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Enrico Fermi",
+          "url": "https://www.britannica.com/biography/Enrico-Fermi"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-nuclear-chain-reaction-1942"
+      ]
+    },
+    {
+      "id": "fermi-birth-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Enrico Fermi, who led the first controlled nuclear chain reaction, was born in which country?",
+      "options": [
+        {
+          "id": "italy",
+          "text": "Italy"
+        },
+        {
+          "id": "germany",
+          "text": "Germany"
+        },
+        {
+          "id": "hungary",
+          "text": "Hungary"
+        },
+        {
+          "id": "denmark",
+          "text": "Denmark"
+        }
+      ],
+      "correctOptionId": "italy",
+      "explanation": "Fermi was an Italian-born American scientist who emigrated in 1938.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Enrico Fermi",
+          "url": "https://www.britannica.com/biography/Enrico-Fermi"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-nuclear-chain-reaction-1942"
+      ]
+    },
+    {
+      "id": "washkansky-survival",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "How long did Louis Washkansky, the first heart transplant patient, live after the operation in 1967?",
+      "options": [
+        {
+          "id": "18-hours",
+          "text": "18 hours"
+        },
+        {
+          "id": "18-days",
+          "text": "18 days"
+        },
+        {
+          "id": "18-months",
+          "text": "18 months"
+        },
+        {
+          "id": "18-years",
+          "text": "18 years"
+        }
+      ],
+      "correctOptionId": "18-days",
+      "explanation": "Washkansky died 18 days later from pneumonia after drugs suppressed his immune system.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Christiaan Barnard",
+          "url": "https://www.britannica.com/biography/Christiaan-Barnard"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "first-heart-transplant-1967"
+      ]
+    },
+    {
+      "id": "sojourner-named-for",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Mars Pathfinder's rover, Sojourner, was named after whom?",
+      "options": [
+        {
+          "id": "sojourner-truth",
+          "text": "Sojourner Truth"
+        },
+        {
+          "id": "harriet-tubman",
+          "text": "Harriet Tubman"
+        },
+        {
+          "id": "rosa-parks",
+          "text": "Rosa Parks"
+        },
+        {
+          "id": "frederick-douglass",
+          "text": "Frederick Douglass"
+        }
+      ],
+      "correctOptionId": "sojourner-truth",
+      "explanation": "The rover was named for the 19th-century civil rights advocate Sojourner Truth.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Mars Pathfinder",
+          "url": "https://www.britannica.com/topic/Mars-Pathfinder"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "mars-pathfinder-launched-1996"
+      ]
+    },
+    {
+      "id": "pathfinder-landing-method",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "How did Mars Pathfinder cushion its landing in 1997?",
+      "options": [
+        {
+          "id": "landing-legs",
+          "text": "Landing legs"
+        },
+        {
+          "id": "a-sky-crane",
+          "text": "A sky crane"
+        },
+        {
+          "id": "a-splashdown-in-a-lake",
+          "text": "A splashdown in a lake"
+        },
+        {
+          "id": "air-bags",
+          "text": "Air bags"
+        }
+      ],
+      "correctOptionId": "air-bags",
+      "explanation": "Pathfinder landed inside an enveloping cluster of air bags, the first time the technique was tried.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Mars Pathfinder",
+          "url": "https://www.britannica.com/topic/Mars-Pathfinder"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "mars-pathfinder-launched-1996"
+      ]
+    },
+    {
+      "id": "schmitt-first-on-moon",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Apollo 17's Harrison Schmitt was the first person of which profession to walk on the Moon?",
+      "options": [
+        {
+          "id": "military-pilot",
+          "text": "Military pilot"
+        },
+        {
+          "id": "physician",
+          "text": "Physician"
+        },
+        {
+          "id": "schoolteacher",
+          "text": "Schoolteacher"
+        },
+        {
+          "id": "scientist",
+          "text": "Scientist"
+        }
+      ],
+      "correctOptionId": "scientist",
+      "explanation": "NASA calls Schmitt, a geologist, 'the first scientist and twelfth person to step foot on the Moon'.",
+      "sources": [
+        {
+          "displayName": "NASA - Apollo 17",
+          "url": "https://www.nasa.gov/mission/apollo-17/"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "apollo-17-launches-1972"
+      ]
+    },
+    {
+      "id": "notre-dame-2019-fire-loss",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which landmark part of Notre-Dame de Paris collapsed in the 2019 fire?",
+      "options": [
+        {
+          "id": "the-bell-towers",
+          "text": "The bell towers"
+        },
+        {
+          "id": "the-rose-windows",
+          "text": "The rose windows"
+        },
+        {
+          "id": "the-spire",
+          "text": "The spire"
+        },
+        {
+          "id": "the-crypt",
+          "text": "The crypt"
+        }
+      ],
+      "correctOptionId": "the-spire",
+      "explanation": "The fire destroyed most of the roof and Viollet-le-Duc's 19th-century spire; the cathedral reopened on December 8, 2024.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Notre-Dame de Paris",
+          "url": "https://www.britannica.com/topic/Notre-Dame-de-Paris"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "notre-dame-reopens-2024"
+      ]
+    },
+    {
+      "id": "udhr-commission-chair",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who chaired the UN commission that drafted the Universal Declaration of Human Rights?",
+      "options": [
+        {
+          "id": "dag-hammarskjold",
+          "text": "Dag Hammarskjold"
+        },
+        {
+          "id": "eleanor-roosevelt",
+          "text": "Eleanor Roosevelt"
+        },
+        {
+          "id": "trygve-lie",
+          "text": "Trygve Lie"
+        },
+        {
+          "id": "ralph-bunche",
+          "text": "Ralph Bunche"
+        }
+      ],
+      "correctOptionId": "eleanor-roosevelt",
+      "explanation": "Eleanor Roosevelt chaired the Commission on Human Rights; the General Assembly adopted the declaration on December 10, 1948.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Universal Declaration of Human Rights",
+          "url": "https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "universal-declaration-of-human-rights-1948"
+      ]
+    },
+    {
+      "id": "unicef-headquarters",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "In which city is UNICEF headquartered?",
+      "options": [
+        {
+          "id": "geneva",
+          "text": "Geneva"
+        },
+        {
+          "id": "new-york-city",
+          "text": "New York City"
+        },
+        {
+          "id": "paris",
+          "text": "Paris"
+        },
+        {
+          "id": "vienna",
+          "text": "Vienna"
+        }
+      ],
+      "correctOptionId": "new-york-city",
+      "explanation": "UNICEF, created in 1946, is headquartered in New York City.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - UNICEF",
+          "url": "https://www.britannica.com/topic/UNICEF"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "unicef-established-1946"
+      ]
+    },
+    {
+      "id": "unicef-nobel-peace-prize",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "UNICEF has been awarded the Nobel Peace Prize.",
+      "options": [
+        {
+          "id": "true",
+          "text": "True"
+        },
+        {
+          "id": "false",
+          "text": "False"
+        }
+      ],
+      "correctOptionId": "true",
+      "explanation": "UNICEF was awarded the Nobel Prize for Peace in 1965.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - UNICEF",
+          "url": "https://www.britannica.com/topic/UNICEF"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "unicef-established-1946"
+      ]
+    },
+    {
+      "id": "paris-agreement-replaced",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The 2015 Paris climate agreement replaced which earlier treaty?",
+      "options": [
+        {
+          "id": "the-montreal-protocol",
+          "text": "The Montreal Protocol"
+        },
+        {
+          "id": "the-antarctic-treaty",
+          "text": "The Antarctic Treaty"
+        },
+        {
+          "id": "the-geneva-protocol",
+          "text": "The Geneva Protocol"
+        },
+        {
+          "id": "the-kyoto-protocol",
+          "text": "The Kyoto Protocol"
+        }
+      ],
+      "correctOptionId": "the-kyoto-protocol",
+      "explanation": "Britannica says the Paris Agreement replaced the Kyoto Protocol.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Paris Agreement",
+          "url": "https://www.britannica.com/topic/Paris-Agreement-2015"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "paris-climate-agreement-2015"
+      ]
+    },
+    {
+      "id": "tasman-company",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Abel Tasman, the first European to sight New Zealand in 1642, sailed for which company?",
+      "options": [
+        {
+          "id": "the-english-east-india-company",
+          "text": "The English East India Company"
+        },
+        {
+          "id": "the-hudson-s-bay-company",
+          "text": "The Hudson's Bay Company"
+        },
+        {
+          "id": "the-dutch-east-india-company",
+          "text": "The Dutch East India Company"
+        },
+        {
+          "id": "the-virginia-company",
+          "text": "The Virginia Company"
+        }
+      ],
+      "correctOptionId": "the-dutch-east-india-company",
+      "explanation": "Tasman made his voyages for the Dutch East India Company.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Abel Tasman",
+          "url": "https://www.britannica.com/biography/Abel-Janszoon-Tasman"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "tasman-sights-new-zealand-1642",
+        "tasman-reaches-tasmania-1642"
+      ]
+    },
+    {
+      "id": "amundsen-rival",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which explorer reached the South Pole about a month after Roald Amundsen in 1911-12?",
+      "options": [
+        {
+          "id": "ernest-shackleton",
+          "text": "Ernest Shackleton"
+        },
+        {
+          "id": "fridtjof-nansen",
+          "text": "Fridtjof Nansen"
+        },
+        {
+          "id": "richard-byrd",
+          "text": "Richard Byrd"
+        },
+        {
+          "id": "robert-falcon-scott",
+          "text": "Robert Falcon Scott"
+        }
+      ],
+      "correctOptionId": "robert-falcon-scott",
+      "explanation": "Amundsen arrived on December 14, 1911; Scott reached the pole on January 17 and died on the return.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Roald Amundsen",
+          "url": "https://www.britannica.com/biography/Roald-Amundsen"
+        }
+      ],
+      "collectionIds": [
+        "exploration-and-exchange"
+      ],
+      "relatedEventIds": [
+        "amundsen-reaches-south-pole-1911"
+      ]
+    },
+    {
+      "id": "bill-of-rights-count",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "How many amendments make up the US Bill of Rights?",
+      "options": [
+        {
+          "id": "5",
+          "text": "5"
+        },
+        {
+          "id": "10",
+          "text": "10"
+        },
+        {
+          "id": "12",
+          "text": "12"
+        },
+        {
+          "id": "27",
+          "text": "27"
+        }
+      ],
+      "correctOptionId": "10",
+      "explanation": "The first 10 amendments were adopted together as the Bill of Rights on December 15, 1791.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Bill of Rights (United States)",
+          "url": "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "bill-of-rights-adopted-1791"
+      ]
+    },
+    {
+      "id": "bill-of-rights-author",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Who drafted and introduced the amendments that became the US Bill of Rights?",
+      "options": [
+        {
+          "id": "james-madison",
+          "text": "James Madison"
+        },
+        {
+          "id": "thomas-jefferson",
+          "text": "Thomas Jefferson"
+        },
+        {
+          "id": "alexander-hamilton",
+          "text": "Alexander Hamilton"
+        },
+        {
+          "id": "john-adams",
+          "text": "John Adams"
+        }
+      ],
+      "correctOptionId": "james-madison",
+      "explanation": "James Madison drafted the amendments and submitted them to Congress in 1789.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Bill of Rights (United States)",
+          "url": "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "bill-of-rights-adopted-1791"
+      ]
+    },
+    {
+      "id": "boston-tea-party-company",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "The tea dumped in the Boston Tea Party belonged to which company?",
+      "options": [
+        {
+          "id": "the-hudson-s-bay-company",
+          "text": "The Hudson's Bay Company"
+        },
+        {
+          "id": "the-dutch-east-india-company",
+          "text": "The Dutch East India Company"
+        },
+        {
+          "id": "the-royal-african-company",
+          "text": "The Royal African Company"
+        },
+        {
+          "id": "the-british-east-india-company",
+          "text": "The British East India Company"
+        }
+      ],
+      "correctOptionId": "the-british-east-india-company",
+      "explanation": "On December 16, 1773, protesters threw the British East India Company's tea into Boston Harbor.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Boston Tea Party",
+          "url": "https://www.britannica.com/event/Boston-Tea-Party"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "boston-tea-party-1773"
+      ]
+    },
+    {
+      "id": "boston-port-bill",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "How did Britain's Boston Port Bill punish the city after the Boston Tea Party?",
+      "options": [
+        {
+          "id": "it-banned-town-meetings",
+          "text": "It banned town meetings"
+        },
+        {
+          "id": "it-doubled-the-tea-tax",
+          "text": "It doubled the tea tax"
+        },
+        {
+          "id": "it-closed-the-port",
+          "text": "It closed the port"
+        },
+        {
+          "id": "it-expelled-samuel-adams",
+          "text": "It expelled Samuel Adams"
+        }
+      ],
+      "correctOptionId": "it-closed-the-port",
+      "explanation": "The Boston Port Bill shut off the city's sea trade until the destroyed tea was paid for.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Boston Tea Party",
+          "url": "https://www.britannica.com/event/Boston-Tea-Party"
+        }
+      ],
+      "collectionIds": [
+        "revolutions"
+      ],
+      "relatedEventIds": [
+        "boston-tea-party-1773"
+      ]
+    },
+    {
+      "id": "wright-brothers-business",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What business did the Wright brothers run in Dayton, Ohio?",
+      "options": [
+        {
+          "id": "a-grocery-store",
+          "text": "A grocery store"
+        },
+        {
+          "id": "a-hardware-store",
+          "text": "A hardware store"
+        },
+        {
+          "id": "a-clock-repair-shop",
+          "text": "A clock repair shop"
+        },
+        {
+          "id": "a-bicycle-shop",
+          "text": "A bicycle shop"
+        }
+      ],
+      "correctOptionId": "a-bicycle-shop",
+      "explanation": "Profits from their bicycle sales and repair shop helped fund the flights at Kill Devil Hills.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Wright brothers",
+          "url": "https://www.britannica.com/biography/Wright-brothers"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "wright-brothers-first-flight-1903"
+      ]
+    },
+    {
+      "id": "nutcracker-composer",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who composed the music for The Nutcracker?",
+      "options": [
+        {
+          "id": "pyotr-ilyich-tchaikovsky",
+          "text": "Pyotr Ilyich Tchaikovsky"
+        },
+        {
+          "id": "igor-stravinsky",
+          "text": "Igor Stravinsky"
+        },
+        {
+          "id": "sergei-prokofiev",
+          "text": "Sergei Prokofiev"
+        },
+        {
+          "id": "nikolai-rimsky-korsakov",
+          "text": "Nikolai Rimsky-Korsakov"
+        }
+      ],
+      "correctOptionId": "pyotr-ilyich-tchaikovsky",
+      "explanation": "Tchaikovsky's ballet was first presented at the Mariinsky Theatre in St. Petersburg in December 1892.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The Nutcracker",
+          "url": "https://www.britannica.com/topic/The-Nutcracker"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nutcracker-premieres-1892"
+      ]
+    },
+    {
+      "id": "sugar-plum-fairy-instrument",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which bell-like instrument did Tchaikovsky use for the Sugar Plum Fairy in The Nutcracker?",
+      "options": [
+        {
+          "id": "harp",
+          "text": "Harp"
+        },
+        {
+          "id": "glockenspiel",
+          "text": "Glockenspiel"
+        },
+        {
+          "id": "harpsichord",
+          "text": "Harpsichord"
+        },
+        {
+          "id": "celesta",
+          "text": "Celesta"
+        }
+      ],
+      "correctOptionId": "celesta",
+      "explanation": "Tchaikovsky found the celesta in Paris and used it for the Sugar Plum Fairy.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - The Nutcracker",
+          "url": "https://www.britannica.com/topic/The-Nutcracker"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nutcracker-premieres-1892"
+      ]
+    },
+    {
+      "id": "christmas-carol-first-ghost",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In A Christmas Carol, whose ghost visits Scrooge first?",
+      "options": [
+        {
+          "id": "bob-cratchit-s",
+          "text": "Bob Cratchit's"
+        },
+        {
+          "id": "mr-fezziwig-s",
+          "text": "Mr. Fezziwig's"
+        },
+        {
+          "id": "jacob-marley-s",
+          "text": "Jacob Marley's"
+        },
+        {
+          "id": "tiny-tim-s",
+          "text": "Tiny Tim's"
+        }
+      ],
+      "correctOptionId": "jacob-marley-s",
+      "explanation": "Scrooge's late business partner, Jacob Marley, appears first; three spirits follow.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ebenezer Scrooge",
+          "url": "https://www.britannica.com/topic/Ebenezer-Scrooge"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "a-christmas-carol-published-1843"
+      ]
+    },
+    {
+      "id": "grimm-tale",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which of these stories is in Grimm's Fairy Tales?",
+      "options": [
+        {
+          "id": "rumpelstiltskin",
+          "text": "Rumpelstiltskin"
+        },
+        {
+          "id": "the-little-mermaid",
+          "text": "The Little Mermaid"
+        },
+        {
+          "id": "pinocchio",
+          "text": "Pinocchio"
+        },
+        {
+          "id": "peter-pan",
+          "text": "Peter Pan"
+        }
+      ],
+      "correctOptionId": "rumpelstiltskin",
+      "explanation": "The Grimms' collection, first published in 1812, includes Rumpelstiltskin, Rapunzel, Snow White and Hansel and Gretel.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Grimm's Fairy Tales",
+          "url": "https://www.britannica.com/topic/Grimms-Fairy-Tales"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "grimms-fairy-tales-published-1812"
+      ]
+    },
+    {
+      "id": "first-basketball-goals",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What did James Naismith use as the goals in the first basketball game?",
+      "options": [
+        {
+          "id": "barrels",
+          "text": "Barrels"
+        },
+        {
+          "id": "fishing-nets",
+          "text": "Fishing nets"
+        },
+        {
+          "id": "iron-hoops",
+          "text": "Iron hoops"
+        },
+        {
+          "id": "peach-baskets",
+          "text": "Peach baskets"
+        }
+      ],
+      "correctOptionId": "peach-baskets",
+      "explanation": "Naismith used half-bushel peach baskets as targets at the YMCA Training School in Springfield in 1891.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - James Naismith",
+          "url": "https://www.britannica.com/biography/James-Naismith"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "first-basketball-game-1891"
+      ]
+    },
+    {
+      "id": "brandenburg-gate-sculpture",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What sculpture stands on top of Berlin's Brandenburg Gate?",
+      "options": [
+        {
+          "id": "an-eagle",
+          "text": "An eagle"
+        },
+        {
+          "id": "a-chariot-drawn-by-four-horses",
+          "text": "A chariot drawn by four horses"
+        },
+        {
+          "id": "a-statue-of-frederick-the-great",
+          "text": "A statue of Frederick the Great"
+        },
+        {
+          "id": "a-pair-of-lions",
+          "text": "A pair of lions"
+        }
+      ],
+      "correctOptionId": "a-chariot-drawn-by-four-horses",
+      "explanation": "A quadriga carrying the goddess of victory was added in 1793.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Brandenburg Gate",
+          "url": "https://www.britannica.com/topic/Brandenburg-Gate"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "brandenburg-gate-reopens-1989"
+      ]
+    },
+    {
+      "id": "brandenburg-quadriga-taker",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which ruler carried the Brandenburg Gate's chariot sculpture off to Paris?",
+      "options": [
+        {
+          "id": "louis-xiv",
+          "text": "Louis XIV"
+        },
+        {
+          "id": "louis-xvi",
+          "text": "Louis XVI"
+        },
+        {
+          "id": "charles-de-gaulle",
+          "text": "Charles de Gaulle"
+        },
+        {
+          "id": "napoleon",
+          "text": "Napoleon"
+        }
+      ],
+      "correctOptionId": "napoleon",
+      "explanation": "Napoleon took the quadriga to Paris during the French occupation of Berlin; it returned in 1814.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Brandenburg Gate",
+          "url": "https://www.britannica.com/topic/Brandenburg-Gate"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "brandenburg-gate-reopens-1989"
+      ]
+    },
+    {
+      "id": "washington-resigned-command",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In December 1783, George Washington resigned as commander in chief of which army?",
+      "options": [
+        {
+          "id": "the-army-of-the-potomac",
+          "text": "The Army of the Potomac"
+        },
+        {
+          "id": "the-british-army",
+          "text": "The British Army"
+        },
+        {
+          "id": "the-grand-army-of-the-republic",
+          "text": "The Grand Army of the Republic"
+        },
+        {
+          "id": "the-continental-army",
+          "text": "The Continental Army"
+        }
+      ],
+      "correctOptionId": "the-continental-army",
+      "explanation": "Washington resigned before the Continental Congress on December 23, 1783.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - On This Day: December 23",
+          "url": "https://www.britannica.com/on-this-day/December-23"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "washington-resigns-commission-1783"
+      ]
+    },
+    {
+      "id": "first-phonograph-medium",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Edison's first phonograph recorded sound on what?",
+      "options": [
+        {
+          "id": "a-wax-disc",
+          "text": "A wax disc"
+        },
+        {
+          "id": "magnetic-tape",
+          "text": "Magnetic tape"
+        },
+        {
+          "id": "a-glass-plate",
+          "text": "A glass plate"
+        },
+        {
+          "id": "tinfoil-wrapped-around-a-cylinder",
+          "text": "Tinfoil wrapped around a cylinder"
+        }
+      ],
+      "correctOptionId": "tinfoil-wrapped-around-a-cylinder",
+      "explanation": "Edison's first design recorded indentations on a sheet of tinfoil wrapped around a rotating cylinder.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Phonograph",
+          "url": "https://www.britannica.com/technology/phonograph"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "edison-phonograph-patent-application-1877"
+      ]
+    },
+    {
+      "id": "ozymandias-pharaoh",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Shelley's sonnet 'Ozymandias' refers to which Egyptian pharaoh?",
+      "options": [
+        {
+          "id": "tutankhamun",
+          "text": "Tutankhamun"
+        },
+        {
+          "id": "ramses-ii",
+          "text": "Ramses II"
+        },
+        {
+          "id": "khufu",
+          "text": "Khufu"
+        },
+        {
+          "id": "akhenaten",
+          "text": "Akhenaten"
+        }
+      ],
+      "correctOptionId": "ramses-ii",
+      "explanation": "The sonnet, published on January 11, 1818, refers to Ramses II.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ozymandias",
+          "url": "https://www.britannica.com/topic/Ozymandias-poem"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "ozymandias-published-1818"
+      ]
+    },
+    {
+      "id": "sirleaf-country",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Ellen Johnson Sirleaf, the first woman elected head of state of an African country, led which country?",
+      "options": [
+        {
+          "id": "ghana",
+          "text": "Ghana"
+        },
+        {
+          "id": "sierra-leone",
+          "text": "Sierra Leone"
+        },
+        {
+          "id": "nigeria",
+          "text": "Nigeria"
+        },
+        {
+          "id": "liberia",
+          "text": "Liberia"
+        }
+      ],
+      "correctOptionId": "liberia",
+      "explanation": "Sirleaf was sworn in as president of Liberia on January 16, 2006.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Ellen Johnson Sirleaf",
+          "url": "https://www.britannica.com/biography/Ellen-Johnson-Sirleaf"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "ellen-johnson-sirleaf-sworn-in-2006"
+      ]
+    },
+    {
+      "id": "trovatore-chorus",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which famous chorus comes from Verdi's opera Il trovatore?",
+      "options": [
+        {
+          "id": "the-hallelujah-chorus",
+          "text": "The Hallelujah Chorus"
+        },
+        {
+          "id": "the-humming-chorus",
+          "text": "The Humming Chorus"
+        },
+        {
+          "id": "the-anvil-chorus",
+          "text": "The Anvil Chorus"
+        },
+        {
+          "id": "the-chorus-of-the-hebrew-slaves",
+          "text": "The Chorus of the Hebrew Slaves"
+        }
+      ],
+      "correctOptionId": "the-anvil-chorus",
+      "explanation": "Act II of Il trovatore, which premiered in Rome on January 19, 1853, contains the Anvil Chorus.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Il trovatore",
+          "url": "https://www.britannica.com/topic/Il-trovatore"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "il-trovatore-premieres-1853"
+      ]
+    },
+    {
+      "id": "bosworth-king-killed",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which English king was killed at the Battle of Bosworth Field in 1485?",
+      "options": [
+        {
+          "id": "henry-vi",
+          "text": "Henry VI"
+        },
+        {
+          "id": "edward-iv",
+          "text": "Edward IV"
+        },
+        {
+          "id": "richard-ii",
+          "text": "Richard II"
+        },
+        {
+          "id": "richard-iii",
+          "text": "Richard III"
+        }
+      ],
+      "correctOptionId": "richard-iii",
+      "explanation": "Richard III was killed; Henry Tudor became king, and the battle was the last of the Wars of the Roses.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Battle of Bosworth Field",
+          "url": "https://www.britannica.com/event/Battle-of-Bosworth-Field"
+        }
+      ],
+      "collectionIds": [
+        "wars-and-conflicts"
+      ],
+      "relatedEventIds": [
+        "battle-of-bosworth-field-1485"
+      ]
+    },
+    {
+      "id": "paris-1944-order-disobeyed",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What order from Hitler did Dietrich von Choltitz, the German commander of Paris, disobey in 1944?",
+      "options": [
+        {
+          "id": "to-surrender-to-the-americans",
+          "text": "To surrender to the Americans"
+        },
+        {
+          "id": "to-evacuate-all-civilians",
+          "text": "To evacuate all civilians"
+        },
+        {
+          "id": "to-retreat-to-the-coast",
+          "text": "To retreat to the coast"
+        },
+        {
+          "id": "to-destroy-the-city",
+          "text": "To destroy the city"
+        }
+      ],
+      "correctOptionId": "to-destroy-the-city",
+      "explanation": "Choltitz ignored orders to destroy Paris's infrastructure and surrendered the city on August 25, 1944, largely undamaged.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Brennt Paris?",
+          "url": "https://www.britannica.com/topic/Brennt-Paris"
+        }
+      ],
+      "collectionIds": [
+        "world-wars"
+      ],
+      "relatedEventIds": [
+        "liberation-of-paris-1944"
+      ]
+    },
+    {
+      "id": "nineteenth-amendment-36th-state",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Which state's ratification in 1920 made the Nineteenth Amendment, on women's suffrage, part of the Constitution?",
+      "options": [
+        {
+          "id": "new-york",
+          "text": "New York"
+        },
+        {
+          "id": "wyoming",
+          "text": "Wyoming"
+        },
+        {
+          "id": "ohio",
+          "text": "Ohio"
+        },
+        {
+          "id": "tennessee",
+          "text": "Tennessee"
+        }
+      ],
+      "correctOptionId": "tennessee",
+      "explanation": "Tennessee became the 36th state to ratify on August 18, 1920; the amendment was certified on August 26.",
+      "sources": [
+        {
+          "displayName": "National Archives - 19th Amendment",
+          "url": "https://www.archives.gov/milestone-documents/19th-amendment"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power",
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "nineteenth-amendment-certified-1920"
+      ]
+    },
+    {
+      "id": "kellogg-briand-renounced",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What did nations renounce in the Kellogg-Briand Pact of 1928?",
+      "options": [
+        {
+          "id": "chemical-weapons",
+          "text": "Chemical weapons"
+        },
+        {
+          "id": "new-colonies",
+          "text": "New colonies"
+        },
+        {
+          "id": "naval-arms-races",
+          "text": "Naval arms races"
+        },
+        {
+          "id": "war-as-an-instrument-of-national-policy",
+          "text": "War as an instrument of national policy"
+        }
+      ],
+      "correctOptionId": "war-as-an-instrument-of-national-policy",
+      "explanation": "Signatories renounced war as an instrument of national policy; the 1925 Geneva Protocol, not this pact, covered chemical weapons.",
+      "sources": [
+        {
+          "displayName": "U.S. Office of the Historian - The Kellogg-Briand Pact, 1928",
+          "url": "https://history.state.gov/milestones/1921-1936/kellogg"
+        }
+      ],
+      "collectionIds": [
+        "leaders-and-power"
+      ],
+      "relatedEventIds": [
+        "kellogg-briand-pact-signed-1928"
+      ]
+    },
+    {
+      "id": "i-have-a-dream-memorial",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "In front of which memorial did Martin Luther King, Jr., give his 'I Have a Dream' speech in 1963?",
+      "options": [
+        {
+          "id": "the-jefferson-memorial",
+          "text": "The Jefferson Memorial"
+        },
+        {
+          "id": "the-washington-monument",
+          "text": "The Washington Monument"
+        },
+        {
+          "id": "the-lincoln-memorial",
+          "text": "The Lincoln Memorial"
+        },
+        {
+          "id": "the-us-capitol",
+          "text": "The US Capitol"
+        }
+      ],
+      "correctOptionId": "the-lincoln-memorial",
+      "explanation": "The March on Washington gathered about 250,000 people in the shadow of the Lincoln Memorial on August 28, 1963.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - March on Washington",
+          "url": "https://www.britannica.com/event/March-on-Washington"
+        }
+      ],
+      "collectionIds": [
+        "society-culture-and-ideas"
+      ],
+      "relatedEventIds": [
+        "march-on-washington-1963"
+      ]
+    },
+    {
+      "id": "katrina-new-orleans-flooded",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "By the day after Hurricane Katrina's landfall in 2005, about how much of New Orleans was underwater?",
+      "options": [
+        {
+          "id": "about-10-percent",
+          "text": "About 10 percent"
+        },
+        {
+          "id": "about-40-percent",
+          "text": "About 40 percent"
+        },
+        {
+          "id": "about-80-percent",
+          "text": "About 80 percent"
+        },
+        {
+          "id": "all-of-it",
+          "text": "All of it"
+        }
+      ],
+      "correctOptionId": "about-80-percent",
+      "explanation": "Britannica says that by August 30 the city was 80 percent underwater after levee failures.",
+      "sources": [
+        {
+          "displayName": "Encyclopaedia Britannica - Hurricane Katrina",
+          "url": "https://www.britannica.com/event/Hurricane-Katrina"
+        }
+      ],
+      "collectionIds": [
+        "science-and-innovation"
+      ],
+      "relatedEventIds": [
+        "hurricane-katrina-landfall-2005"
+      ]
+    }
+  ]
+}

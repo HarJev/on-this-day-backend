@@ -16,7 +16,8 @@
       "correctOptionId": "mustafa-kemal-ataturk",
       "explanation": "Mustafa Kemal led the Turkish national movement and became the republic's first president when it was proclaimed in 1923.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Kemal Ataturk", "url": "https://www.britannica.com/biography/Kemal-Ataturk"}],
-      "collectionIds": ["leaders-and-power"]
+      "collectionIds": ["leaders-and-power"],
+      "relatedEventIds": ["turkish-republic-proclaimed-1923"]
     },
     {
       "id": "haitian-revolution-outcome",
@@ -105,7 +106,7 @@
       "explanation": "The African National Congress won the April 1994 election, and Nelson Mandela was inaugurated as president on 10 May.",
       "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
       "collectionIds": ["revolutions", "leaders-and-power"],
-      "relatedEventIds": ["african-national-congress-founded-1912", "de-klerk-lifts-anc-ban-1990"]
+      "relatedEventIds": ["african-national-congress-founded-1912", "de-klerk-lifts-anc-ban-1990", "nelson-mandela-dies-2013"]
     },
     {
       "id": "mexican-revolution-began-1910",
@@ -117,7 +118,8 @@
       "correctOptionId": "true",
       "explanation": "The revolution began in 1910 after Francisco Madero challenged the long rule of Porfirio Diaz and called for an uprising.",
       "sources": [{"displayName": "Library of Congress - The Mexican Revolution", "url": "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/overview.html"}],
-      "collectionIds": ["wars-and-conflicts", "revolutions"]
+      "collectionIds": ["wars-and-conflicts", "revolutions"],
+      "relatedEventIds": ["mexican-revolution-begins-1910"]
     },
     {
       "id": "identify-mahatma-gandhi",

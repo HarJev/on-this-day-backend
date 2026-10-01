@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-12-25-connected-quiz",
+  "existingQuestionLinks": [
+    {
+      "questionId": "persons-case-senate",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "8aee0ca6654fa1265b02512956e44d918e3534e0d5a106f6d2b632a48f8248e0",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "persons-case-decided-1929"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "10-18 (featured, persons-case-decided-1929): Exact match: the question asks what the Persons Case opened to women, and cites the event's own source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "smallpox-last-natural-case-country",
+      "canonicalPack": "content/quizzes/questions/080-q8-science-and-global-health.json",
+      "canonicalSnapshotSha256": "6bc36ef815ae4a62bf8f40d954f0f3ecab15e07e9022dd84e5e527df07e8227d",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "last-natural-smallpox-case-1977"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "10-26 (featured, last-natural-smallpox-case-1977): Exact match: the question asks where the last natural case occurred in 1977.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-statue-of-liberty",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "ff459b429607b270049159ff6c9f1025d99da3dae190c90ce596f5f37997f92a",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "statue-of-liberty-dedicated-1886"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "10-28 (featured, statue-of-liberty-dedicated-1886): The photograph identifies the statue whose dedication is the featured event.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "turkish-republic-founder",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "2952308a7ba82f8be2fead8a0d2b0bf1f864df4725a9e5f40b8fd2b910e4d671",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "turkish-republic-proclaimed-1923"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "10-29 (featured, turkish-republic-proclaimed-1923): Exact match: the founding president of the republic proclaimed that day; same source as the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "luther-movement",
+      "canonicalPack": "content/quizzes/questions/180-connected-february-01-march-07.json",
+      "canonicalSnapshotSha256": "20ae5e6f7543c0dcbc1960c762ad1c7921c4087f629728b05dfc5bf262b79c71",
+      "currentRelatedEventIds": [
+        "martin-luther-dies-1546"
+      ],
+      "addRelatedEventIds": [
+        "luther-ninety-five-theses-1517",
+        "martin-luther-born-1483"
+      ],
+      "calendarDays": [
+        "10-31",
+        "11-10"
+      ],
+      "eventRoles": [
+        "featured",
+        "additional"
+      ],
+      "relationshipRationale": "10-31 (featured, luther-ninety-five-theses-1517): The theses began the Reformation the question asks about; already related to Luther's death. 11-10 (additional, martin-luther-born-1483): About the man born that day.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-marie-curie",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "9afe9689453aac007d87610e20b067548d42ed66d1807233be8c170f11d37423",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "marie-curie-born-1867"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-07 (featured, marie-curie-born-1867): The photograph identifies Curie, whose birth is the featured event.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "order-science-discoveries",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "63e02bfa4d0d892ed314174585ee5873a05548212cde48f178c4e96f7571891a",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "rontgen-discovers-x-rays-1895",
+        "first-nuclear-chain-reaction-1942"
+      ],
+      "calendarDays": [
+        "11-08",
+        "12-02"
+      ],
+      "eventRoles": [
+        "featured",
+        "featured"
+      ],
+      "relationshipRationale": "11-08 (featured, rontgen-discovers-x-rays-1895): One ordering item is 'Wilhelm Rontgen discovers X-rays', the event. 12-02 (featured, first-nuclear-chain-reaction-1942): One ordering item is 'First controlled nuclear chain reaction', the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-cold-war-milestones",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "86e8198c877802490f0fba2713dc947d5cd6698004c7847423f42b4a9a048aeb",
+      "currentRelatedEventIds": [
+        "north-atlantic-treaty-signed-1949"
+      ],
+      "addRelatedEventIds": [
+        "berlin-wall-opens-1989"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-09 (featured, berlin-wall-opens-1989): One ordering item is 'Berlin Wall opens', the event; already related to NATO's founding.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "rosetta-comet-name",
+      "canonicalPack": "content/quizzes/questions/090-q8-statehood-science-and-society.json",
+      "canonicalSnapshotSha256": "c2d5dfb1ec2bb6d180f1492a6aaa745699b4fc1c9e7e36d5e3d724d921347e94",
+      "currentRelatedEventIds": [
+        "rosetta-mission-ends-2016"
+      ],
+      "addRelatedEventIds": [
+        "philae-lands-on-comet-2014"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-12 (featured, philae-lands-on-comet-2014): Philae was Rosetta's lander and landed on the comet the question names; already related to Rosetta's end.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-space-exploration-firsts",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "3d1bb5da3704fb8b5c5dfd0c12d5fca5f5461045ac54813db34ff20b0586849c",
+      "currentRelatedEventIds": [
+        "sputnik-1-launched-1957"
+      ],
+      "addRelatedEventIds": [
+        "philae-lands-on-comet-2014",
+        "apollo-17-launches-1972"
+      ],
+      "calendarDays": [
+        "11-12",
+        "12-07"
+      ],
+      "eventRoles": [
+        "featured",
+        "featured"
+      ],
+      "relationshipRationale": "11-12 (featured, philae-lands-on-comet-2014): One ordering item is 'Philae lands on a comet', the event. 12-07 (featured, apollo-17-launches-1972): One ordering item is 'Apollo 17 ... launches', the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-women-heads-government",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "3767d5eb3757134742a8c962138d1cc695f6efae9c4425ba356a83c0d2bad68c",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "benazir-bhutto-elected-1988"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-16 (featured, benazir-bhutto-elected-1988): One ordering item is Benazir Bhutto, whose 1988 election is the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "suez-canal-construction-decade",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "f402091f7aa4e5e26922523af7a9e05f2b6023c851fbe96b7ff7538518f08030",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "suez-canal-opens-1869"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-17 (featured, suez-canal-opens-1869): Exact match: the question states the 1869 opening after ten years of work.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "suez-canal-seas",
+      "canonicalPack": "content/quizzes/questions/020-africa-middle-east.json",
+      "canonicalSnapshotSha256": "c857a79f0c63e22e7bebb38ccbcaf8699f0cb8790f3e15695bac6454aba295bc",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "suez-canal-opens-1869"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-17 (featured, suez-canal-opens-1869): Asks what the canal opened that day connects.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-film-milestones",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "9ce799038b9b98bd9ceff13ac0b491cc48c5cb7cf93fdefd2a5dcb3ad0f96b71",
+      "currentRelatedEventIds": [
+        "the-jazz-singer-premieres-1927"
+      ],
+      "addRelatedEventIds": [
+        "steamboat-willie-released-1928",
+        "toy-story-released-1995",
+        "casablanca-premieres-1942"
+      ],
+      "calendarDays": [
+        "11-18",
+        "11-22",
+        "11-26"
+      ],
+      "eventRoles": [
+        "featured",
+        "featured",
+        "featured"
+      ],
+      "relationshipRationale": "11-18 (featured, steamboat-willie-released-1928): One ordering item is 'Steamboat Willie is released', the event. 11-22 (featured, toy-story-released-1995): One ordering item is 'Toy Story is released', the event. 11-26 (featured, casablanca-premieres-1942): One ordering item is 'Casablanca premieres', the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "madero-mexican-revolution",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "f2470b9a99133a35d08fda7f253b797ba845121d462f32ba43f6307fd9c5e3f8",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "mexican-revolution-begins-1910"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-20 (featured, mexican-revolution-begins-1910): Exact match: Madero's revolt is the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "mexican-revolution-began-1910",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "151e68976f7bb0dd6b52555b7617ee05b75d51bb49fd79cc72185c6387573890",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "mexican-revolution-begins-1910"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "11-20 (featured, mexican-revolution-begins-1910): States the year the featured revolution began.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "tasman-reaches-tasmania",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "a9c87e31b5b8772bfd16c65cd180d007c383490106cb747e4bf566a469301a4b",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "tasman-reaches-tasmania-1642",
+        "tasman-sights-new-zealand-1642"
+      ],
+      "calendarDays": [
+        "11-24",
+        "12-13"
+      ],
+      "eventRoles": [
+        "featured",
+        "featured"
+      ],
+      "relationshipRationale": "11-24 (featured, tasman-reaches-tasmania-1642): Exact match: the question asks who reached Tasmania that day; same source. 12-13 (featured, tasman-sights-new-zealand-1642): Same voyage and navigator as the featured sighting of New Zealand.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "barnard-first-heart-transplant",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "8cbf7f31fbc9202193777c0321c9315bedc17dda58a999e18ac84eb8be9d9d6c",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "first-heart-transplant-1967"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-03 (featured, first-heart-transplant-1967): Exact match on the featured operation.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-nelson-mandela",
+      "canonicalPack": "content/quizzes/questions/020-africa-middle-east.json",
+      "canonicalSnapshotSha256": "41a75eac5145ad5afc7f4da689a71389f37ab483340c7aed439a0a96ffdf04e9",
+      "currentRelatedEventIds": [
+        "nelson-mandela-released-1990"
+      ],
+      "addRelatedEventIds": [
+        "nelson-mandela-dies-2013"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-05 (featured, nelson-mandela-dies-2013): The bust identifies Mandela, whose death is the featured event; already related to his release.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "south-africa-1994-president",
+      "canonicalPack": "content/quizzes/questions/040-revolutions-social-change.json",
+      "canonicalSnapshotSha256": "4192b5531cc05688762d4520cfdbef29b31622387a99cd4b509b39d6bb5b4434",
+      "currentRelatedEventIds": [
+        "african-national-congress-founded-1912",
+        "de-klerk-lifts-anc-ban-1990"
+      ],
+      "addRelatedEventIds": [
+        "nelson-mandela-dies-2013"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-05 (featured, nelson-mandela-dies-2013): The event description calls Mandela South Africa's first Black president; the question asks who won in 1994.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "mandela-years-in-prison",
+      "canonicalPack": "content/quizzes/questions/180-connected-february-01-march-07.json",
+      "canonicalSnapshotSha256": "f0613a6d46efa2655b92ff9c293f6c935d423374f64713546c2860c96a1ae4a7",
+      "currentRelatedEventIds": [
+        "nelson-mandela-released-1990"
+      ],
+      "addRelatedEventIds": [
+        "nelson-mandela-dies-2013"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-05 (featured, nelson-mandela-dies-2013): A defining fact of the life the featured event marks.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "anglo-irish-treaty-free-state",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "f1ad9bd50408d0f7e3b73723322dd2328373c8863e0e8999e7f3891986ca0a38",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "anglo-irish-treaty-1921"
+      ],
+      "calendarDays": [
+        "12-06"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-06 (featured, anglo-irish-treaty-1921): Exact match on the featured treaty; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "hunchback-name",
+      "canonicalPack": "content/quizzes/questions/180-connected-february-01-march-07.json",
+      "canonicalSnapshotSha256": "36d3afddbdb8803ea8a3bb0461ffb0eb8dcfe89eeca2580d686d75bfe463883e",
+      "currentRelatedEventIds": [
+        "victor-hugo-born-1802"
+      ],
+      "addRelatedEventIds": [
+        "notre-dame-reopens-2024"
+      ],
+      "calendarDays": [
+        "12-08"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-08 (featured, notre-dame-reopens-2024): Hugo's novel is named for the cathedral and helped spur its restoration; already related to Hugo's birth.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "smallpox-only-eradicated-infectious-disease",
+      "canonicalPack": "content/quizzes/questions/080-q8-science-and-global-health.json",
+      "canonicalSnapshotSha256": "f20baff59954872189dd7a001fcc5696f96f34532d1bb55dc98714a2b7bec015",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "smallpox-declared-eradicated-1979"
+      ],
+      "calendarDays": [
+        "12-09"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-09 (featured, smallpox-declared-eradicated-1979): Exact match: the question states the eradication.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "universal-declaration-binding-treaty",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "15ffe27875ede9b2cc125839fbabbbe734101308f5759274dd34398e78b0f2a9",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "universal-declaration-of-human-rights-1948"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-10 (featured, universal-declaration-of-human-rights-1948): Exact match on the featured declaration; Britannica confirms it is not legally binding.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "amundsen-first-south-pole",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "fbc5d4a66cf1737d67fda925841801f80fdfd798bc8b5d5f308758e14520e359",
+      "currentRelatedEventIds": [
+        "scott-sets-farthest-south-record-1902"
+      ],
+      "addRelatedEventIds": [
+        "amundsen-reaches-south-pole-1911"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-14 (featured, amundsen-reaches-south-pole-1911): Exact match on the featured achievement; already related to Scott's 1902 record.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-wright-first-flight",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "a9f5e91cff66f7ba8bff8ccc19dc015dc5b9c42a93f8d1bb9adbea2dc5c88d08",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "wright-brothers-first-flight-1903"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-17 (featured, wright-brothers-first-flight-1903): Exact match: the photograph records the featured flight.",
+      "existingImageRightsEvidence": "docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table)"
+    },
+    {
+      "questionId": "identify-george-washington",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "390ce898474e66ccdd5ffe48c7862fa8d069e86f8563e43bb681c37f7e5365b7",
+      "currentRelatedEventIds": [
+        "washington-thanksgiving-proclamation-1789",
+        "george-washington-born-1732"
+      ],
+      "addRelatedEventIds": [
+        "washington-resigns-commission-1783",
+        "washington-crosses-delaware-1776"
+      ],
+      "calendarDays": [
+        "12-23",
+        "12-25"
+      ],
+      "eventRoles": [
+        "featured",
+        "additional"
+      ],
+      "relationshipRationale": "12-23 (featured, washington-resigns-commission-1783): The portrait identifies Washington, whose resignation is the featured event. 12-25 (additional, washington-crosses-delaware-1776): The portrait identifies Washington, who led the crossing.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "phonograph-patent-inventor",
+      "canonicalPack": "content/quizzes/questions/180-connected-february-01-march-07.json",
+      "canonicalSnapshotSha256": "228d63b0650b429455405fb2d3badb542d24aaebd759c87a908ed5b1a399b0d4",
+      "currentRelatedEventIds": [
+        "edison-patents-phonograph-1878"
+      ],
+      "addRelatedEventIds": [
+        "edison-phonograph-patent-application-1877"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-24 (featured, edison-phonograph-patent-application-1877): The question asks who patented the phonograph; the event is Edison's application for that patent.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "naismith-first-basketball",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "710ad0b231d301e9dff1dc3e37b59213bd0d7fd750d72651ae0ce82a99a65518",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "first-basketball-game-1891"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-21 (featured, first-basketball-game-1891): Exact match on the featured game; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "james-webb-telescope-launch",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "d828fa6357fdd88e98788eaa79c8e2e667f52364c79a023398efde92aa2a5799",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "james-webb-telescope-launched-2021"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "12-25 (featured, james-webb-telescope-launched-2021): Exact match on the featured launch; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-martin-luther-king-jr",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "40e36ba9d87e6ecab0632277410d846469388d7b28f7b823619f8c43692680eb",
+      "currentRelatedEventIds": [
+        "mlk-awarded-nobel-peace-prize-1964",
+        "martin-luther-king-jr-assassinated-1968"
+      ],
+      "addRelatedEventIds": [
+        "march-on-washington-1963"
+      ],
+      "calendarDays": [
+        "08-28"
+      ],
+      "eventRoles": [
+        "featured"
+      ],
+      "relationshipRationale": "08-28 (featured, march-on-washington-1963): The photograph identifies King, whose 'I Have a Dream' speech closed the featured march.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "john-paul-ii-first-non-italian",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "6a0d67f99ad305335801be64f5e691872bac0e91c70e34d968367948d4f6ee3a",
+      "currentRelatedEventIds": [
+        "pope-john-paul-ii-dies-2005"
+      ],
+      "addRelatedEventIds": [
+        "john-paul-ii-elected-pope-1978"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "10-16 (additional, john-paul-ii-elected-pope-1978): Exact match: the question is about his election on October 16, 1978.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "alaska-purchase-seller",
+      "canonicalPack": "content/quizzes/questions/190-connected-march-08-april-12.json",
+      "canonicalSnapshotSha256": "b45e9329e1536bc6e7d5eb0fd26917804ad8ae3b3fe09156a47079034a3dd52d",
+      "currentRelatedEventIds": [
+        "alaska-purchase-treaty-signed-1867"
+      ],
+      "addRelatedEventIds": [
+        "alaska-transferred-to-us-1867"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "10-18 (additional, alaska-transferred-to-us-1867): The transfer completed the purchase the question asks about.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "nightingale-sanitation-statistics",
+      "canonicalPack": "content/quizzes/questions/100-l7-accessible-global-history.json",
+      "canonicalSnapshotSha256": "d55de60556712c52dda90b7caaff3e7d4aeec46d8322fe227d59e8b2b48ece77",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "nightingale-departs-for-crimea-1854"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "10-21 (additional, nightingale-departs-for-crimea-1854): Her diagrams drew on the Crimean War hospital work she set out for that day.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-peace-treaties",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "4392f59c5acc4e30e7afa720c0d1df7bb26e1551b89ae067762751d7445e65f5",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "peace-of-westphalia-signed-1648",
+        "dayton-accords-1995",
+        "treaty-of-neuilly-1919"
+      ],
+      "calendarDays": [
+        "10-24",
+        "11-21",
+        "11-27"
+      ],
+      "eventRoles": [
+        "additional",
+        "additional",
+        "additional"
+      ],
+      "relationshipRationale": "10-24 (additional, peace-of-westphalia-signed-1648): One ordering item is the Peace of Westphalia, the event. 11-21 (additional, dayton-accords-1995): One ordering item is the Dayton Accords, the event. 11-27 (additional, treaty-of-neuilly-1919): One ordering item is the Treaty of Neuilly, the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-african-independence-1960s",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "9150eb50fe2794efeb513c29797b3be94341a917b3e9bc78ebfb81abd16e5ec9",
+      "currentRelatedEventIds": [
+        "equatorial-guinea-independence-1968"
+      ],
+      "addRelatedEventIds": [
+        "zambia-independence-1964",
+        "tanganyika-independence-1961"
+      ],
+      "calendarDays": [
+        "10-24",
+        "12-09"
+      ],
+      "eventRoles": [
+        "additional",
+        "additional"
+      ],
+      "relationshipRationale": "10-24 (additional, zambia-independence-1964): One ordering item is Zambia's independence, the event. 12-09 (additional, tanganyika-independence-1961): One ordering item is Tanganyika's independence, the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "amsterdam-toll-privilege",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "40344a6ffcbfc9f1d80aec1bc7bcb3f37ef8b11dc886606dfff91830d9c64ebd",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "amsterdam-toll-privilege-1275"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "10-27 (additional, amsterdam-toll-privilege-1275): Exact match on the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-modern-communication-milestones",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "e095ac5169275441b6e73ca9bfe9ff346ffb505926c4317a1aeb9c4dcb164336",
+      "currentRelatedEventIds": [
+        "bell-telephone-patent-1876"
+      ],
+      "addRelatedEventIds": [
+        "first-arpanet-message-1969"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "10-29 (additional, first-arpanet-message-1969): One ordering item is the first ARPANET message, the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-political-turning-points",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "5c549e78bb8b5ceeaf3b664c849725727c2adc7bceb057722e0ed5ec552ad5e7",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "october-manifesto-1905",
+        "bolsheviks-take-power-1917",
+        "coup-of-18-brumaire-1799",
+        "velvet-revolution-begins-1989"
+      ],
+      "calendarDays": [
+        "10-30",
+        "11-07",
+        "11-09",
+        "11-17"
+      ],
+      "eventRoles": [
+        "additional",
+        "additional",
+        "additional",
+        "additional"
+      ],
+      "relationshipRationale": "10-30 (additional, october-manifesto-1905): One ordering item is the October Manifesto, the event. 11-07 (additional, bolsheviks-take-power-1917): One ordering item is the Bolsheviks taking power, the event. 11-09 (additional, coup-of-18-brumaire-1799): One ordering item is the Brumaire coup, the event. 11-17 (additional, velvet-revolution-begins-1989): One ordering item is the start of the Velvet Revolution, the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "aztec-capital-city",
+      "canonicalPack": "content/quizzes/questions/050-americas-exploration-exchange.json",
+      "canonicalSnapshotSha256": "30032296debef628783b0bfe8794a6c1c5414c985a6bb02a2b20d5bf8455d3e3",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "cortes-enters-tenochtitlan-1519"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-08 (additional, cortes-enters-tenochtitlan-1519): Cortes entered the Aztec capital the question names.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-sun-yat-sen",
+      "canonicalPack": "content/quizzes/questions/110-l7-second-accessible-global-history.json",
+      "canonicalSnapshotSha256": "4fa66704f0d90c157449a5078e5bc4cfa4b2d14368adb4177b6f092ede11dce1",
+      "currentRelatedEventIds": [
+        "wuchang-uprising-1911"
+      ],
+      "addRelatedEventIds": [
+        "sun-yat-sen-born-1866"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-12 (additional, sun-yat-sen-born-1866): The portrait identifies Sun Yat-sen, born that day.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "dessalines-vertieres",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "4564435bca832821f8c7a5b6fd2fccc67ba56a7183aff38771af28ca6f509c68",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "battle-of-vertieres-1803"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-18 (additional, battle-of-vertieres-1803): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "whaleship-essex-moby-dick",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "0e387493254e50af825504c85f419b54aecb46f2cd0ea1f53f924749e304c8e7",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "whaleship-essex-sunk-1820"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-20 (additional, whaleship-essex-sunk-1820): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "ley-juarez-special-courts",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "5dff9939c5317c87598fd8187c5654b29606ff2d865bb839a5eb5f28b48fe9f7",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "ley-juarez-passed-1855"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-23 (additional, ley-juarez-passed-1855): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "tehran-conference-big-three",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "ff320b74bda534bef7e573df061d3abc39b1c09d4403b7d13d200abb0d42c045",
+      "currentRelatedEventIds": [
+        "yalta-conference-opens-1945"
+      ],
+      "addRelatedEventIds": [
+        "tehran-conference-opens-1943"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "11-28 (additional, tehran-conference-opens-1943): Exact match on the event; already related to Yalta.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "locarno-western-europe",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "2aff1a24e789f034d56bc76be6f900f696e55e93476dc6bfbae2a22a5b9e9dc0",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "pact-of-locarno-signed-1925"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-01 (additional, pact-of-locarno-signed-1925): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "henry-ford-method",
+      "canonicalPack": "content/quizzes/questions/190-connected-march-08-april-12.json",
+      "canonicalSnapshotSha256": "e25285d0b39f9de54a04d3d0b3d187502e95aee51f7956b0ddfbe6f300121b75",
+      "currentRelatedEventIds": [
+        "henry-ford-dies-1947"
+      ],
+      "addRelatedEventIds": [
+        "ford-moving-assembly-line-1913"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-01 (additional, ford-moving-assembly-line-1913): Asks about the assembly-line methods the event introduced.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "napoleon-crowns-himself",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "f4db0de67c1b2963b7a6904a0609f30bb72262ab5de02672fa73027d304bde8e",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "napoleon-crowned-emperor-1804"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-02 (additional, napoleon-crowned-emperor-1804): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "mozart-opera",
+      "canonicalPack": "content/quizzes/questions/170-connected-december-26-january-31.json",
+      "canonicalSnapshotSha256": "576f260f45e032e677d6941b0613bf345b23b5764c181088b0b7df3b2cbc58e8",
+      "currentRelatedEventIds": [
+        "mozart-born-1756"
+      ],
+      "addRelatedEventIds": [
+        "mozart-dies-1791"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-05 (additional, mozart-dies-1791): About the composer who died that day; already related to his birth.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "finland-independence-1917",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "2393c22b926bbdc3d1f9bf9bf106a40df8f58d26e06c4df3fb625f4d9fcf4fd5",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "finland-independence-1917"
+      ],
+      "calendarDays": [
+        "12-06"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-06 (additional, finland-independence-1917): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "order-second-world-war-milestones",
+      "canonicalPack": "content/quizzes/questions/060-world-wars-modern-world.json",
+      "canonicalSnapshotSha256": "050485d63ff27b5f0c46a063908933a3db90a7ea19a0353e8614932a67d1d725",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "pearl-harbor-attack-1941"
+      ],
+      "calendarDays": [
+        "12-07"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-07 (additional, pearl-harbor-attack-1941): One ordering item is the Pearl Harbor attack, the event.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "first-nobel-prizes-anniversary",
+      "canonicalPack": "content/quizzes/questions/120-l7-third-global-history.json",
+      "canonicalSnapshotSha256": "a122fd14fc62ac3b44013c1715dbffcf489d97171929564bf989a13740253343",
+      "currentRelatedEventIds": [],
+      "addRelatedEventIds": [
+        "first-nobel-prizes-awarded-1901"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-10 (additional, first-nobel-prizes-awarded-1901): Exact match on the event; same source.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "identify-ada-lovelace",
+      "canonicalPack": "content/quizzes/questions/130-l7-image-identification.json",
+      "canonicalSnapshotSha256": "a1ba1b9445b5d667723346da5aeb3b486781465670466ff153e077258f83aff8",
+      "currentRelatedEventIds": [
+        "charles-babbage-born-1791"
+      ],
+      "addRelatedEventIds": [
+        "ada-lovelace-born-1815"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-10 (additional, ada-lovelace-born-1815): The portrait identifies Lovelace, born that day; already related to Babbage.",
+      "existingImageRightsEvidence": "editorial/batches/2026-09-l7-image-identification/review-ledger.json"
+    },
+    {
+      "questionId": "scream-painter",
+      "canonicalPack": "content/quizzes/questions/180-connected-february-01-march-07.json",
+      "canonicalSnapshotSha256": "bb92369cccf58920dd29023fc09d08d1a42595c67248cb16922bf556655f824d",
+      "currentRelatedEventIds": [
+        "the-scream-stolen-1994"
+      ],
+      "addRelatedEventIds": [
+        "edvard-munch-born-1863"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-12 (additional, edvard-munch-born-1863): Asks who painted The Scream; the painter was born that day.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "pride-prejudice-heroine",
+      "canonicalPack": "content/quizzes/questions/170-connected-december-26-january-31.json",
+      "canonicalSnapshotSha256": "c0e6f10ebc5dcea035eb542481860aa21ca243bb4061ac6eaaad53b113ebf7da",
+      "currentRelatedEventIds": [
+        "pride-and-prejudice-published-1813"
+      ],
+      "addRelatedEventIds": [
+        "jane-austen-born-1775"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-16 (additional, jane-austen-born-1775): About Austen's best-known novel; she was born that day.",
+      "existingImageRightsEvidence": null
+    },
+    {
+      "questionId": "champollion-writing-system",
+      "canonicalPack": "content/quizzes/questions/090-q8-statehood-science-and-society.json",
+      "canonicalSnapshotSha256": "ad8293a2c98c8fb2b00a0d1d29c338deb6c2a6814f43d2470a68332ca8022c11",
+      "currentRelatedEventIds": [
+        "champollion-hieroglyphs-presentation-1822"
+      ],
+      "addRelatedEventIds": [
+        "champollion-born-1790"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "eventRoles": [
+        "additional"
+      ],
+      "relationshipRationale": "12-23 (additional, champollion-born-1790): About the decipherment by the scholar born that day.",
+      "existingImageRightsEvidence": null
+    }
+  ]
+}

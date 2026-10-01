@@ -36,7 +36,7 @@
       "collectionIds": [
         "leaders-and-power"
       ],
-      "relatedEventIds": ["pope-john-paul-ii-dies-2005"]
+      "relatedEventIds": ["pope-john-paul-ii-dies-2005", "john-paul-ii-elected-pope-1978"]
     },
     {
       "id": "voskhod-1-multiperson-crew",
@@ -109,7 +109,8 @@
       ],
       "collectionIds": [
         "exploration-and-exchange"
-      ]
+      ],
+      "relatedEventIds": ["tasman-reaches-tasmania-1642", "tasman-sights-new-zealand-1642"]
     },
     {
       "id": "persons-case-senate",
@@ -146,7 +147,8 @@
       "collectionIds": [
         "society-culture-and-ideas",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["persons-case-decided-1929"]
     },
     {
       "id": "ferdinand-bulgarian-independence",
@@ -220,7 +222,8 @@
       "collectionIds": [
         "leaders-and-power",
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["napoleon-crowned-emperor-1804"]
     },
     {
       "id": "chile-miners-days-underground",
@@ -293,7 +296,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["james-webb-telescope-launched-2021"]
     },
     {
       "id": "amsterdam-toll-privilege",
@@ -334,7 +338,8 @@
       "collectionIds": [
         "exploration-and-exchange",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["amsterdam-toll-privilege-1275"]
     },
     {
       "id": "dessalines-vertieres",
@@ -371,7 +376,8 @@
       "collectionIds": [
         "revolutions",
         "wars-and-conflicts"
-      ]
+      ],
+      "relatedEventIds": ["battle-of-vertieres-1803"]
     },
     {
       "id": "madero-mexican-revolution",
@@ -407,7 +413,8 @@
       ],
       "collectionIds": [
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["mexican-revolution-begins-1910"]
     },
     {
       "id": "ley-juarez-special-courts",
@@ -444,7 +451,8 @@
       "collectionIds": [
         "society-culture-and-ideas",
         "revolutions"
-      ]
+      ],
+      "relatedEventIds": ["ley-juarez-passed-1855"]
     },
     {
       "id": "naismith-first-basketball",
@@ -480,7 +488,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["first-basketball-game-1891"]
     },
     {
       "id": "whaleship-essex-moby-dick",
@@ -517,7 +526,8 @@
       "collectionIds": [
         "exploration-and-exchange",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["whaleship-essex-sunk-1820"]
     },
     {
       "id": "locarno-western-europe",
@@ -554,7 +564,8 @@
       "collectionIds": [
         "wars-and-conflicts",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["pact-of-locarno-signed-1925"]
     },
     {
       "id": "anglo-irish-treaty-free-state",
@@ -591,7 +602,8 @@
       "collectionIds": [
         "revolutions",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["anglo-irish-treaty-1921"]
     },
     {
       "id": "finland-independence-1917",
@@ -628,7 +640,8 @@
       "collectionIds": [
         "revolutions",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["finland-independence-1917"]
     },
     {
       "id": "barnard-first-heart-transplant",
@@ -664,7 +677,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["first-heart-transplant-1967"]
     },
     {
       "id": "great-chicago-fire-duration",
@@ -722,7 +736,7 @@
       "collectionIds": [
         "exploration-and-exchange"
       ],
-      "relatedEventIds": ["scott-sets-farthest-south-record-1902"]
+      "relatedEventIds": ["scott-sets-farthest-south-record-1902", "amundsen-reaches-south-pole-1911"]
     },
     {
       "id": "suez-canal-construction-decade",
@@ -750,7 +764,8 @@
       ],
       "collectionIds": [
         "exploration-and-exchange"
-      ]
+      ],
+      "relatedEventIds": ["suez-canal-opens-1869"]
     },
     {
       "id": "tehran-conference-big-three",
@@ -780,7 +795,7 @@
         "world-wars",
         "leaders-and-power"
       ],
-      "relatedEventIds": ["yalta-conference-opens-1945"]
+      "relatedEventIds": ["yalta-conference-opens-1945", "tehran-conference-opens-1943"]
     },
     {
       "id": "mozart-death-age",
@@ -838,7 +853,8 @@
       "collectionIds": [
         "science-and-innovation",
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["first-nobel-prizes-awarded-1901"]
     },
     {
       "id": "order-space-exploration-firsts",
@@ -892,7 +908,7 @@
       "collectionIds": [
         "science-and-innovation"
       ],
-      "relatedEventIds": ["sputnik-1-launched-1957"]
+      "relatedEventIds": ["sputnik-1-launched-1957", "philae-lands-on-comet-2014", "apollo-17-launches-1972"]
     },
     {
       "id": "order-african-independence-1960s",
@@ -946,7 +962,7 @@
       "collectionIds": [
         "leaders-and-power"
       ],
-      "relatedEventIds": ["equatorial-guinea-independence-1968"]
+      "relatedEventIds": ["equatorial-guinea-independence-1968", "zambia-independence-1964", "tanganyika-independence-1961"]
     },
     {
       "id": "order-peace-treaties",
@@ -999,7 +1015,8 @@
       ],
       "collectionIds": [
         "wars-and-conflicts"
-      ]
+      ],
+      "relatedEventIds": ["peace-of-westphalia-signed-1648", "dayton-accords-1995", "treaty-of-neuilly-1919"]
     },
     {
       "id": "order-science-discoveries",
@@ -1052,7 +1069,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["rontgen-discovers-x-rays-1895", "first-nuclear-chain-reaction-1942"]
     },
     {
       "id": "order-political-turning-points",
@@ -1106,7 +1124,8 @@
       "collectionIds": [
         "revolutions",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["october-manifesto-1905", "bolsheviks-take-power-1917", "coup-of-18-brumaire-1799", "velvet-revolution-begins-1989"]
     },
     {
       "id": "order-film-milestones",
@@ -1164,7 +1183,7 @@
       "collectionIds": [
         "society-culture-and-ideas"
       ],
-      "relatedEventIds": ["the-jazz-singer-premieres-1927"]
+      "relatedEventIds": ["the-jazz-singer-premieres-1927", "steamboat-willie-released-1928", "toy-story-released-1995", "casablanca-premieres-1942"]
     }
   ]
 }

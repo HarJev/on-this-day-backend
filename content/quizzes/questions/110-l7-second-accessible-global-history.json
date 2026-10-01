@@ -683,7 +683,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["universal-declaration-of-human-rights-1948"]
     },
     {
       "id": "bertha-von-suttner-nobel-peace-prize",
@@ -850,7 +851,7 @@
         "science-and-innovation",
         "society-culture-and-ideas"
       ],
-      "relatedEventIds": ["bell-telephone-patent-1876"]
+      "relatedEventIds": ["bell-telephone-patent-1876", "first-arpanet-message-1969"]
     },
     {
       "id": "order-cold-war-milestones",
@@ -904,7 +905,7 @@
       "collectionIds": [
         "wars-and-conflicts"
       ],
-      "relatedEventIds": ["north-atlantic-treaty-signed-1949"]
+      "relatedEventIds": ["north-atlantic-treaty-signed-1949", "berlin-wall-opens-1989"]
     },
     {
       "id": "identify-abraham-lincoln",
@@ -1097,7 +1098,7 @@
         "leaders-and-power",
         "revolutions"
       ],
-      "relatedEventIds": ["wuchang-uprising-1911"]
+      "relatedEventIds": ["wuchang-uprising-1911", "sun-yat-sen-born-1866"]
     },
     {
       "id": "identify-jose-rizal",
@@ -1191,7 +1192,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["statue-of-liberty-dedicated-1886"]
     }
   ]
 }

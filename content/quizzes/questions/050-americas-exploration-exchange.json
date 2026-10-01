@@ -16,7 +16,8 @@
       "correctOptionId": "tenochtitlan",
       "explanation": "Tenochtitlan was the political and ceremonial capital of the Aztec Empire on the site of present-day Mexico City.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Tenochtitlan", "url": "https://www.britannica.com/place/Tenochtitlan"}],
-      "collectionIds": ["leaders-and-power"]
+      "collectionIds": ["leaders-and-power"],
+      "relatedEventIds": ["cortes-enters-tenochtitlan-1519"]
     },
     {
       "id": "inca-capital-city",

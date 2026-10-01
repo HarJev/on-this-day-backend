@@ -181,7 +181,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["nightingale-departs-for-crimea-1854"]
     },
     {
       "id": "moche-irrigation-agriculture",
@@ -680,7 +681,8 @@
       ],
       "collectionIds": [
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["benazir-bhutto-elected-1988"]
     },
     {
       "id": "identify-george-washington",
@@ -727,7 +729,7 @@
       "collectionIds": [
         "leaders-and-power"
       ],
-      "relatedEventIds": ["washington-thanksgiving-proclamation-1789", "george-washington-born-1732"]
+      "relatedEventIds": ["washington-thanksgiving-proclamation-1789", "george-washington-born-1732", "washington-resigns-commission-1783", "washington-crosses-delaware-1776"]
     },
     {
       "id": "identify-marie-curie",
@@ -773,7 +775,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["marie-curie-born-1867"]
     },
     {
       "id": "identify-william-shakespeare",

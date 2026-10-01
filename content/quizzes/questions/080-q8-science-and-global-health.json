@@ -47,7 +47,8 @@
       "correctOptionId": "somalia",
       "explanation": "WHO states that the last known natural case of smallpox occurred in Somalia in 1977 before eradication was declared in 1980.",
       "sources": [{"displayName":"World Health Organization - Smallpox","url":"https://www.who.int/emergencies/situations/smallpox/"}],
-      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"],
+      "relatedEventIds": ["last-natural-smallpox-case-1977"]
     },
     {
       "id": "smallpox-only-eradicated-infectious-disease",
@@ -59,7 +60,8 @@
       "correctOptionId": "true",
       "explanation": "WHO declared smallpox eradicated in 1980 after worldwide vaccination and surveillance. This statement concerns human smallpox, not all diseases of humans and animals.",
       "sources": [{"displayName":"World Health Organization - Smallpox","url":"https://www.who.int/emergencies/situations/smallpox/"}],
-      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"]
+      "collectionIds": ["science-and-innovation", "society-culture-and-ideas"],
+      "relatedEventIds": ["smallpox-declared-eradicated-1979"]
     },
     {
       "id": "order-apollo-11-mission-milestones",

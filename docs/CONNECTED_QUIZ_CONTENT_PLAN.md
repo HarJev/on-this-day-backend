@@ -84,6 +84,7 @@ L7 selection decision; do not change the algorithm inside a content task.
 | C3: sourced editorial pack | COMPLETED | October 2-8: eight validated drafts, six source-checked reuse links; owner content review pending. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
 | C4: owner review and promotion | COMPLETED | October 2-8: owner approved 2026-09-29; 28 events, Pack 140 (8 questions) and six reuse links promoted and imported locally. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
 | October 9-15 C1-C3 (+ Oct 1-8 supplement) | COMPLETED | 19 + 7 new drafts, 10 + 2 reuse links, one supplementary event; owner review (C4) NOT_STARTED. See CONNECTED_QUIZ_CONTENT_PROGRESS.md. |
+| Featured-story links, Oct 1 to Dec 25 and later gaps | IN_PROGRESS | 98 drafts and 70 reuse links source-checked; review and promotion pending. See FEATURED_LINKS_PROGRESS.md. |
 
 Set an item IN_PROGRESS when work starts and COMPLETED only with evidence.
 Repeat C1-C4 for each window; do not mark the whole runway complete after one

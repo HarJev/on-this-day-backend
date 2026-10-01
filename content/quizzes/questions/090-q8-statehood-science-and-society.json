@@ -554,7 +554,7 @@
       "collectionIds": [
         "ancient-history"
       ],
-      "relatedEventIds": ["champollion-hieroglyphs-presentation-1822"]
+      "relatedEventIds": ["champollion-hieroglyphs-presentation-1822", "champollion-born-1790"]
     },
     {
       "id": "world-flight-1924-service",
@@ -664,7 +664,7 @@
       "collectionIds": [
         "science-and-innovation"
       ],
-      "relatedEventIds": ["rosetta-mission-ends-2016"]
+      "relatedEventIds": ["rosetta-mission-ends-2016", "philae-lands-on-comet-2014"]
     },
     {
       "id": "washington-farewell-public-speech",
