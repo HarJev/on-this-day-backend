@@ -57,7 +57,10 @@ class CuratedContentImporterIT {
         firstResult.warnings().stream()
             .allMatch(
                 warning ->
-                    Set.of("featured event has no primary image", "day has fewer than 4 total events")
+                    Set.of(
+                            "featured event has no primary image",
+                            "day has fewer than 4 total events",
+                            "editorial exception declared")
                         .contains(warning.message())));
 
     var todayRepository = new JdbcTodayContentRepository(dataSource);
