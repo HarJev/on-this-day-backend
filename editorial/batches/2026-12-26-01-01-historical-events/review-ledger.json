@@ -277,10 +277,10 @@
       "reviewStatus": "source_verified",
       "sourceChecks": [
         {
-          "url": "https://www.britannica.com/on-this-day/December-28",
+          "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith",
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
-          "note": "Britannica On This Day (Dec 28): 1065: 'Westminster Abbey ... was consecrated and opened by Edward the Confessor.'"
+          "note": "Westminster Abbey: Edward built a new church in the Norman style to replace the Saxon church; 'The Abbey at Westminster was consecrated on Holy Innocents' Day, 28th December 1065, but the king was ill and unable to be present at the service'; he died on the night of 4-5 January 1066."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -392,8 +392,8 @@
       "notes": "Drafted and source-checked by Claude; awaiting owner editorial review."
     },
     {
-      "candidateId": "dec-29-texas-annexed",
-      "canonicalId": "texas-annexed-1845",
+      "candidateId": "dec-29-texas-statehood",
+      "canonicalId": "texas-statehood-1845",
       "reviewStatus": "source_verified",
       "sourceChecks": [
         {
@@ -401,6 +401,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-10-01",
           "note": "Britannica On This Day (Dec 29): 1845: 'The U.S. Congress approved the annexation of the independent Republic of Texas by the United States.'"
+        },
+        {
+          "url": "https://www.tshaonline.org/handbook/entries/annexation",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "TSHA: Congress passed the annexation resolution on February 28, 1845; December 29, 1845, when Congress accepted Texas's state constitution, is 'the date of Texas's legal entry into the Union'; formal transfer of authority on February 19, 1846."
         }
       ],
       "imageRightsStatus": "not_applicable",

@@ -77,6 +77,14 @@ Applied under the owner's rule (drop a disputed date or key fact, don't rework):
 - Quiz facts the fetched page did not state were rewritten or dropped (for example a
   Galapagos question became one about the voyage's length).
 - Earhart's Hawaii flight keeps a `dateNote` (left January 11, landed January 12).
+- Review fixes (2026-10-01, review thread on PR #29):
+  - Texas (Dec 29): Congress passed the annexation resolution on February 28, 1845; December 29
+    is Texas's legal entry into the Union as a state (TSHA Handbook of Texas). The event is now
+    `texas-statehood-1845`, "Texas joins the Union as a state", citing TSHA; the
+    `texas-before-annexation` explanation says the same.
+  - Westminster Abbey (Dec 28): Edward the Confessor was too ill to attend the consecration.
+    The event no longer says he opened it and cites the Abbey's own page instead of the
+    Britannica day page; `westminster-abbey-founder-king` now asks which king built the church.
 
 ## Kept With A Note
 

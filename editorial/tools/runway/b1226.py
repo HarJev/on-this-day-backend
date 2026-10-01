@@ -100,11 +100,12 @@ ev(12, 28, "lumiere-cinematographe", "lumiere-first-public-film-screening-1895",
    "1895: 'The first public demonstration of the Cinematographe ... took place at the Grand Cafe in Paris.'",
    ["europe"], ["1800-1945"], "The first night at the movies",
    "In 1895, the Lumiere brothers screened films to the public in Paris.")
-ev(12, 28, "westminster-abbey", "westminster-abbey-consecrated-1065", "Westminster Abbey is consecrated", "1065",
-   "Edward the Confessor's church opens in London.",
-   "On {hd}, Westminster Abbey in London was consecrated and opened by Edward the Confessor.",
-   "1065: 'Westminster Abbey ... was consecrated and opened by Edward the Confessor.'",
-   ["europe"], ["medieval"], note=J)
+ev(12, 28, "westminster-abbey", "westminster-abbey-consecrated-1065", "Edward the Confessor's church at Westminster is consecrated", "1065",
+   "The king's new abbey church is consecrated, though he is too ill to attend.",
+   "On {hd}, the new abbey church that Edward the Confessor had built at Westminster was consecrated. The king was too ill to attend the service and died about a week later.",
+   "", ["europe"], ["medieval"], note=J,
+   extra=[("Westminster Abbey - Edward the Confessor and Edith", "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith",
+           "Westminster Abbey: Edward built a new church in the Norman style to replace the Saxon church; 'The Abbey at Westminster was consecrated on Holy Innocents' Day, 28th December 1065, but the king was ill and unable to be present at the service'; he died on the night of 4-5 January 1066.")])
 ev(12, 28, "indian-national-congress", "indian-national-congress-first-session-1885", "The Indian National Congress meets for the first time", "1885",
    "The party that will lead India's independence movement holds its first session.",
    "On {hd}, the first session of the Indian National Congress convened. The party later led the movement for India's independence.",
@@ -128,11 +129,14 @@ ev(12, 29, "ireland-constitution", "irish-constitution-in-force-1937", "The Iris
    "1937: 'With the enactment of a new constitution, the Irish Free State became known as Ireland.'",
    ["europe"], ["1800-1945"], "A new name for a nation",
    "In 1937, a new constitution turned the Irish Free State into Ireland.")
-ev(12, 29, "texas-annexed", "texas-annexed-1845", "The United States annexes Texas", "1845",
-   "The independent Republic of Texas joins the Union.",
-   "On {hd}, the US Congress approved the annexation of the independent Republic of Texas by the United States.",
-   "1845: 'The U.S. Congress approved the annexation of the independent Republic of Texas by the United States.'",
-   ["americas"], ["1800-1945"])
+ev(12, 29, "texas-statehood", "texas-statehood-1845", "Texas joins the Union as a state", "1845",
+   "The former Republic of Texas is admitted to the United States.",
+   "On {hd}, Texas, until then an independent republic, legally entered the Union as a US state when Congress accepted its state constitution. Congress had passed the annexation resolution on February 28, 1845.",
+   "", ["americas"], ["1800-1945"],
+   extra=[(f"{BR}On This Day: December 29", "https://www.britannica.com/on-this-day/December-29",
+           "Britannica On This Day (Dec 29): 1845: 'The U.S. Congress approved the annexation of the independent Republic of Texas by the United States.'"),
+          ("Texas State Historical Association - Handbook of Texas: Annexation", "https://www.tshaonline.org/handbook/entries/annexation",
+           "TSHA: Congress passed the annexation resolution on February 28, 1845; December 29, 1845, when Congress accepted Texas's state constitution, is 'the date of Texas's legal entry into the Union'; formal transfer of authority on February 19, 1846.")])
 ev(12, 29, "gladstone-born", "william-gladstone-born-1809", "William Gladstone is born in Liverpool", "1809",
    "The future four-time British prime minister is born.",
    "On {hd}, William Ewart Gladstone was born in Liverpool. He served as prime minister of Great Britain four times between 1868 and 1894.",

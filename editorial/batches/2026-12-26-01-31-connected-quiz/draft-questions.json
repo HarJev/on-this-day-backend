@@ -273,7 +273,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "draft",
-      "prompt": "Which English king opened Westminster Abbey in 1065, shortly before his death?",
+      "prompt": "Which English king built the abbey church at Westminster that was consecrated in 1065, shortly before his death?",
       "options": [
         {
           "id": "william-conqueror",
@@ -293,11 +293,11 @@
         }
       ],
       "correctOptionId": "edward-confessor",
-      "explanation": "Westminster Abbey was consecrated and opened by Edward the Confessor on December 28, 1065.",
+      "explanation": "Edward the Confessor built a new church at Westminster in the Norman style. It was consecrated on December 28, 1065, but Edward was too ill to attend and died about a week later.",
       "sources": [
         {
-          "displayName": "Encyclopaedia Britannica - On This Day: December 28",
-          "url": "https://www.britannica.com/on-this-day/December-28"
+          "displayName": "Westminster Abbey - Edward the Confessor and Edith",
+          "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
         }
       ],
       "collectionIds": [
@@ -407,8 +407,12 @@
         }
       ],
       "correctOptionId": "independent-republic",
-      "explanation": "Congress approved the annexation of the independent Republic of Texas on December 29, 1845.",
+      "explanation": "Texas was an independent republic. Congress passed the annexation resolution on February 28, 1845, and Texas legally entered the Union as a state on December 29, 1845.",
       "sources": [
+        {
+          "displayName": "Texas State Historical Association - Handbook of Texas: Annexation",
+          "url": "https://www.tshaonline.org/handbook/entries/annexation"
+        },
         {
           "displayName": "Encyclopaedia Britannica - On This Day: December 29",
           "url": "https://www.britannica.com/on-this-day/December-29"
@@ -418,7 +422,7 @@
         "leaders-and-power"
       ],
       "relatedEventIds": [
-        "texas-annexed-1845"
+        "texas-statehood-1845"
       ]
     },
     {

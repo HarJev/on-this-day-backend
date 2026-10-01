@@ -105,9 +105,9 @@
       "candidateId": "dec-28-westminster-abbey",
       "kind": "event",
       "proposedCanonicalId": "westminster-abbey-consecrated-1065",
-      "workingClaim": "December 28, 1065: On December 28, 1065, Westminster Abbey in London was consecrated and opened by Edward the Confessor.",
+      "workingClaim": "December 28, 1065: On December 28, 1065, the new abbey church that Edward the Confessor had built at Westminster was consecrated. The king was too ill to attend the service and died about a week later.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/December-28"
+        "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
       ]
     },
     {
@@ -147,12 +147,13 @@
       ]
     },
     {
-      "candidateId": "dec-29-texas-annexed",
+      "candidateId": "dec-29-texas-statehood",
       "kind": "event",
-      "proposedCanonicalId": "texas-annexed-1845",
-      "workingClaim": "December 29, 1845: On December 29, 1845, the US Congress approved the annexation of the independent Republic of Texas by the United States.",
+      "proposedCanonicalId": "texas-statehood-1845",
+      "workingClaim": "December 29, 1845: On December 29, 1845, Texas, until then an independent republic, legally entered the Union as a US state when Congress accepted its state constitution. Congress had passed the annexation resolution on February 28, 1845.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/December-29"
+        "https://www.britannica.com/on-this-day/December-29",
+        "https://www.tshaonline.org/handbook/entries/annexation"
       ]
     },
     {

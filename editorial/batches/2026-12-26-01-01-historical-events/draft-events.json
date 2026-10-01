@@ -200,18 +200,18 @@
     },
     {
       "id": "westminster-abbey-consecrated-1065",
-      "title": "Westminster Abbey is consecrated",
+      "title": "Edward the Confessor's church at Westminster is consecrated",
       "year": "1065",
       "historicalDate": "December 28, 1065",
       "dateNote": "Julian calendar date.",
-      "summary": "Edward the Confessor's church opens in London.",
-      "description": "On December 28, 1065, Westminster Abbey in London was consecrated and opened by Edward the Confessor.",
+      "summary": "The king's new abbey church is consecrated, though he is too ill to attend.",
+      "description": "On December 28, 1065, the new abbey church that Edward the Confessor had built at Westminster was consecrated. The king was too ill to attend the service and died about a week later.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
-          "name": "Encyclopaedia Britannica - On This Day: December 28",
-          "url": "https://www.britannica.com/on-this-day/December-28"
+          "name": "Westminster Abbey - Edward the Confessor and Edith",
+          "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
         }
       ],
       "images": []
@@ -289,19 +289,23 @@
       "images": []
     },
     {
-      "id": "texas-annexed-1845",
-      "title": "The United States annexes Texas",
+      "id": "texas-statehood-1845",
+      "title": "Texas joins the Union as a state",
       "year": "1845",
       "historicalDate": "December 29, 1845",
       "dateNote": null,
-      "summary": "The independent Republic of Texas joins the Union.",
-      "description": "On December 29, 1845, the US Congress approved the annexation of the independent Republic of Texas by the United States.",
+      "summary": "The former Republic of Texas is admitted to the United States.",
+      "description": "On December 29, 1845, Texas, until then an independent republic, legally entered the Union as a US state when Congress accepted its state constitution. Congress had passed the annexation resolution on February 28, 1845.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: December 29",
           "url": "https://www.britannica.com/on-this-day/December-29"
+        },
+        {
+          "name": "Texas State Historical Association - Handbook of Texas: Annexation",
+          "url": "https://www.tshaonline.org/handbook/entries/annexation"
         }
       ],
       "images": []

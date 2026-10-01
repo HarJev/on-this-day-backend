@@ -69,9 +69,9 @@
       "candidateId": "westminster-abbey-founder-king",
       "kind": "quiz",
       "proposedCanonicalId": "westminster-abbey-founder-king",
-      "workingClaim": "Which English king opened Westminster Abbey in 1065, shortly before his death? Answer: Edward the Confessor. Proposed additional link on 12-28: westminster-abbey-consecrated-1065. William and Harold are the kings of 1066, the natural confusions.",
+      "workingClaim": "Which English king built the abbey church at Westminster that was consecrated in 1065, shortly before his death? Answer: Edward the Confessor. Proposed additional link on 12-28: westminster-abbey-consecrated-1065. William and Harold are the kings of 1066, the natural confusions.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/December-28"
+        "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith"
       ]
     },
     {
@@ -97,8 +97,9 @@
       "candidateId": "texas-before-annexation",
       "kind": "quiz",
       "proposedCanonicalId": "texas-before-annexation",
-      "workingClaim": "What was Texas immediately before the United States annexed it in 1845? Answer: An independent republic. Proposed additional link on 12-29: texas-annexed-1845. Asks about status, not the date; Spain is the earlier ruler and a tempting trap.",
+      "workingClaim": "What was Texas immediately before the United States annexed it in 1845? Answer: An independent republic. Proposed additional link on 12-29: texas-statehood-1845. Asks about status, not the date; Spain is the earlier ruler and a tempting trap.",
       "sourceUrls": [
+        "https://www.tshaonline.org/handbook/entries/annexation",
         "https://www.britannica.com/on-this-day/December-29"
       ]
     },
