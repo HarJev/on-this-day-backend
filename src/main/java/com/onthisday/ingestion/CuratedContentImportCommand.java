@@ -1,29 +1,50 @@
 package com.onthisday.ingestion;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.onthisday.platform.runtime.CommandDatabaseConfig;
+import com.onthisday.platform.runtime.PostgresDataSourceFactory;
 import java.nio.file.Path;
+import javax.sql.DataSource;
 import org.postgresql.ds.PGSimpleDataSource;
 
 public final class CuratedContentImportCommand {
 
+  private static final String USAGE =
+      "Usage: CuratedContentImportCommand [contentDir]  (database from DB_JDBC_URL, DB_USER and"
+          + " DB_PASSWORD_SSM_PARAMETER, DB_PASSWORD or a prompt)\n"
+          + "       CuratedContentImportCommand <jdbcUrl> <user> <password> [contentDir]  (local databases only)";
+
   private CuratedContentImportCommand() {}
 
   public static void main(String[] args) {
-    if (args.length < 3 || args.length > 4) {
-      System.err.println("Usage: CuratedContentImportCommand <jdbcUrl> <user> <password> [contentDir]");
+    var legacy = args.length == 3 || args.length == 4;
+    if (!legacy && args.length > 1) {
+      System.err.println(USAGE);
       System.exit(2);
     }
 
-    var dataSource = new PGSimpleDataSource();
-    dataSource.setUrl(args[0]);
-    dataSource.setUser(args[1]);
-    dataSource.setPassword(args[2]);
+    DataSource dataSource;
+    String contentDir;
+    if (legacy) {
+      System.err.println(
+          "WARNING: a password on the command line is for local databases only. For production, set"
+              + " DB_JDBC_URL, DB_USER and DB_PASSWORD_SSM_PARAMETER and pass only [contentDir].");
+      var local = new PGSimpleDataSource();
+      local.setUrl(args[0]);
+      local.setUser(args[1]);
+      local.setPassword(args[2]);
+      dataSource = local;
+      contentDir = args.length == 4 ? args[3] : null;
+    } else {
+      dataSource = new PostgresDataSourceFactory().create(CommandDatabaseConfig.fromEnvironment());
+      contentDir = args.length == 1 ? args[0] : null;
+    }
 
     var reader = new CuratedContentReader(new ObjectMapper());
     var importer = new CuratedContentImporter(dataSource, new CuratedContentValidator());
 
     try {
-      var content = args.length == 4 ? reader.read(Path.of(args[3])) : reader.readDefault();
+      var content = contentDir != null ? reader.read(Path.of(contentDir)) : reader.readDefault();
       importer.importContent(content);
       System.out.println("Curated content import complete.");
     } catch (ContentImportException exception) {

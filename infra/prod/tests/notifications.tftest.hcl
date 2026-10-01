@@ -11,7 +11,7 @@ variables { media_bucket_name = "on-this-day-media-764574955085" }
 run "default_creates_no_notification_resources" {
   command = plan
   assert {
-    condition     = length(aws_ssm_parameter.firebase_service_account) == 0 && length(aws_lambda_function.notifications) == 0 && length(aws_budgets_budget.monthly) == 0
+    condition     = length(aws_ssm_parameter.firebase_service_account) == 0 && length(aws_lambda_function.notifications) == 0 && length(aws_budgets_budget.monthly) == 0 && length(aws_lambda_function.api) == 0 && length(aws_apigatewayv2_api.api) == 0
     error_message = "defaults must create nothing new"
   }
 }

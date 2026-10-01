@@ -28,14 +28,16 @@ public final class RuntimeApiComposition {
   private RuntimeApiComposition() {}
 
   public static HttpRouter createRouterFromEnvironment() {
-    return createRouter(DatabaseConfig.fromEnvironment(), Clock.systemUTC());
+    return createRouter(
+        DatabaseConfig.resolve(System.getenv(), new SsmParameterReader()), Clock.systemUTC());
   }
 
   public static HttpRouter createRouter(DatabaseConfig databaseConfig, Clock clock) {
     LOG.info(
-        "runtime_composition_start dbJdbcUrlConfigured={} dbUser={} connectTimeoutSeconds={} socketTimeoutSeconds={}",
+        "runtime_composition_start dbJdbcUrlConfigured={} dbUser={} dbSslMode={} connectTimeoutSeconds={} socketTimeoutSeconds={}",
         !databaseConfig.jdbcUrl().isBlank(),
         databaseConfig.user(),
+        databaseConfig.sslMode(),
         databaseConfig.connectTimeoutSeconds(),
         databaseConfig.socketTimeoutSeconds());
     var dataSource = new PostgresDataSourceFactory().create(databaseConfig);
