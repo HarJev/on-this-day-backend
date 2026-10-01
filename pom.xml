@@ -18,6 +18,7 @@
 
     <aws.lambda.java.core.version>1.2.3</aws.lambda.java.core.version>
     <aws.lambda.java.events.version>3.16.1</aws.lambda.java.events.version>
+    <aws.sdk.version>2.55.9</aws.sdk.version>
     <flyway.version>10.17.3</flyway.version>
     <google.auth.version>1.52.0</google.auth.version>
     <jackson.version>2.17.2</jackson.version>
@@ -52,6 +53,32 @@
       <version>${aws.lambda.java.events.version}</version>
     </dependency>
 
+    <!-- SSM Parameter Store client for the notification function's Firebase key. The
+         URL-connection HTTP client keeps the Netty and Apache clients out of the artifact. -->
+    <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>ssm</artifactId>
+      <version>${aws.sdk.version}</version>
+      <exclusions>
+        <exclusion>
+          <groupId>software.amazon.awssdk</groupId>
+          <artifactId>netty-nio-client</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>software.amazon.awssdk</groupId>
+          <artifactId>apache-client</artifactId>
+        </exclusion>
+        <exclusion>
+          <groupId>software.amazon.awssdk</groupId>
+          <artifactId>apache5-client</artifactId>
+        </exclusion>
+      </exclusions>
+    </dependency>
+    <dependency>
+      <groupId>software.amazon.awssdk</groupId>
+      <artifactId>url-connection-client</artifactId>
+      <version>${aws.sdk.version}</version>
+    </dependency>
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>

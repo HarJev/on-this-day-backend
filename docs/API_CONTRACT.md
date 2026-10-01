@@ -273,8 +273,12 @@ Rules:
 - `platform` must be one of `ios` or `android`.
 - `notificationPermissionStatus` must be one of `authorized`, `provisional`,
   `denied`, or `not_determined`.
-- `timezone` must be a valid IANA timezone.
-- Store timezone now even if v0.0.1 uses one global notification send time.
+- `timezone` must be a region-based IANA timezone name such as
+  `America/Jamaica`, `Asia/Kolkata` or `UTC`, matched exactly (case-sensitive).
+  Fixed offsets such as `+05:00` or `GMT+5` are rejected with `400`, because
+  they do not follow daylight saving.
+- The daily notification is scheduled for 10:00 in this timezone; see
+  `docs/NOTIFICATIONS.md`.
 
 ## Delete Device
 

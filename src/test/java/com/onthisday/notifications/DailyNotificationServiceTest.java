@@ -44,6 +44,19 @@ class DailyNotificationServiceTest {
   }
 
   @Test
+  void skipsStoredRegistrationsWithInvalidTimezones() {
+    var devices = new RecordingDeviceRegistrationRepository();
+    devices.eligible =
+        List.of(registration("offset-token", "+05:00"), registration("utc-token", "UTC"));
+    var service = service(devices, new RecordingTodayContentRepository());
+
+    var plan = service.createPlan();
+
+    assertEquals(1, plan.recipientCount());
+    assertEquals(List.of("utc-token"), plan.batches().get(0).recipientTokens());
+  }
+
+  @Test
   void deletesOnlyTokensClassifiedAsPermanentFailures() {
     var devices = new RecordingDeviceRegistrationRepository();
     var service = service(devices, new RecordingTodayContentRepository());
