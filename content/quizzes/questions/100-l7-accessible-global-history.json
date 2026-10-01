@@ -462,7 +462,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["first-modern-olympics-open-1896"]
     },
     {
       "id": "australian-referendum-1967-misconception",
@@ -726,7 +727,7 @@
       "collectionIds": [
         "leaders-and-power"
       ],
-      "relatedEventIds": ["washington-thanksgiving-proclamation-1789"]
+      "relatedEventIds": ["washington-thanksgiving-proclamation-1789", "george-washington-born-1732"]
     },
     {
       "id": "identify-marie-curie",
@@ -910,7 +911,8 @@
       ],
       "collectionIds": [
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["liliuokalani-deposed-1893"]
     },
     {
       "id": "identify-joan-of-arc-painting",

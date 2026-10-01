@@ -33,7 +33,8 @@
       "correctOptionId": "haiti",
       "explanation": "The revolution overthrew French colonial rule and slavery in Saint-Domingue, and Haiti declared independence in 1804.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Haitian Revolution", "url": "https://www.britannica.com/topic/Haitian-Revolution"}],
-      "collectionIds": ["wars-and-conflicts", "revolutions"]
+      "collectionIds": ["wars-and-conflicts", "revolutions"],
+      "relatedEventIds": ["haiti-declares-independence-1804"]
     },
     {
       "id": "rights-of-man-year",
@@ -103,7 +104,8 @@
       "correctOptionId": "nelson-mandela",
       "explanation": "The African National Congress won the April 1994 election, and Nelson Mandela was inaugurated as president on 10 May.",
       "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
-      "collectionIds": ["revolutions", "leaders-and-power"]
+      "collectionIds": ["revolutions", "leaders-and-power"],
+      "relatedEventIds": ["african-national-congress-founded-1912", "de-klerk-lifts-anc-ban-1990"]
     },
     {
       "id": "mexican-revolution-began-1910",
@@ -143,7 +145,7 @@
       "explanation": "The portrait shows Mohandas Gandhi, who led mass nonviolent campaigns against British rule in India.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Mahatma Gandhi", "url": "https://www.britannica.com/biography/Mahatma-Gandhi"}],
       "collectionIds": ["revolutions"],
-      "relatedEventIds": ["gandhi-born-1869"]
+      "relatedEventIds": ["gandhi-born-1869", "gandhi-assassinated-1948", "gandhi-salt-march-begins-1930"]
     },
     {
       "id": "identify-harriet-tubman",

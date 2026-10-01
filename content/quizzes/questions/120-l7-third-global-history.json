@@ -35,7 +35,8 @@
       ],
       "collectionIds": [
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["pope-john-paul-ii-dies-2005"]
     },
     {
       "id": "voskhod-1-multiperson-crew",
@@ -720,7 +721,8 @@
       ],
       "collectionIds": [
         "exploration-and-exchange"
-      ]
+      ],
+      "relatedEventIds": ["scott-sets-farthest-south-record-1902"]
     },
     {
       "id": "suez-canal-construction-decade",
@@ -777,7 +779,8 @@
       "collectionIds": [
         "world-wars",
         "leaders-and-power"
-      ]
+      ],
+      "relatedEventIds": ["yalta-conference-opens-1945"]
     },
     {
       "id": "mozart-death-age",
@@ -805,7 +808,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["mozart-born-1756"]
     },
     {
       "id": "first-nobel-prizes-anniversary",

@@ -5,7 +5,7 @@
       "id": "fight-of-the-century-winner",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In the 1971 'Fight of the Century', who beat Muhammad Ali to keep the world heavyweight title?",
       "options": [
         {
@@ -44,7 +44,7 @@
       "id": "february-revolution-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Russia's February Revolution of 1917 began with rioting in which city?",
       "options": [
         {
@@ -87,7 +87,7 @@
       "id": "nyse-buttonwood-tree",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The New York Stock Exchange grew out of a 1792 meeting of brokers under what kind of tree?",
       "options": [
         {
@@ -126,7 +126,7 @@
       "id": "senate-cloture-filibuster",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The cloture rule adopted by the US Senate in 1917 was designed to limit filibusters.",
       "options": [
         {
@@ -157,7 +157,7 @@
       "id": "barbie-company",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which toy company introduced the Barbie doll in 1959?",
       "options": [
         {
@@ -196,7 +196,7 @@
       "id": "barbie-full-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is Barbie's full fictional name?",
       "options": [
         {
@@ -235,7 +235,7 @@
       "id": "monitor-virginia-ship-type",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Monitor and the Virginia, which fought at Hampton Roads in 1862, were the first warships of what kind to battle each other?",
       "options": [
         {
@@ -274,7 +274,7 @@
       "id": "fischer-1972-opponent",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Bobby Fischer won the world chess championship in 1972 by defeating which Soviet player?",
       "options": [
         {
@@ -313,7 +313,7 @@
       "id": "bell-first-call-assistant",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1876, Alexander Graham Bell's first intelligible telephone words summoned which assistant?",
       "options": [
         {
@@ -352,7 +352,7 @@
       "id": "bell-speech-before-patent",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Bell transmitted intelligible speech by telephone before he received his telephone patent.",
       "options": [
         {
@@ -383,7 +383,7 @@
       "id": "park-geun-hye-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Park Geun-hye, removed from office when a constitutional court upheld her impeachment in 2017, was president of which country?",
       "options": [
         {
@@ -422,7 +422,7 @@
       "id": "mro-planet",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 2006 a NASA orbiter arrived at which planet to begin searching for signs of water?",
       "options": [
         {
@@ -461,7 +461,7 @@
       "id": "james-earl-ray-sentence",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "James Earl Ray was sentenced to how many years in prison after pleading guilty to killing Martin Luther King, Jr.?",
       "options": [
         {
@@ -500,7 +500,7 @@
       "id": "raisin-in-the-sun-playwright",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote A Raisin in the Sun, the first play by a Black woman produced on Broadway?",
       "options": [
         {
@@ -539,7 +539,7 @@
       "id": "raisin-in-the-sun-award",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which award did A Raisin in the Sun win after its 1959 Broadway opening?",
       "options": [
         {
@@ -578,7 +578,7 @@
       "id": "first-soviet-republic-independence",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1990, which country became the first Soviet republic to declare independence from the USSR?",
       "options": [
         {
@@ -618,7 +618,7 @@
       "id": "lend-lease-purpose",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did the Lend-Lease Act of 1941 give the US president authority to do?",
       "options": [
         {
@@ -657,7 +657,7 @@
       "id": "gorbachev-predecessor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whom did Mikhail Gorbachev succeed as Soviet leader in 1985?",
       "options": [
         {
@@ -696,7 +696,7 @@
       "id": "salt-march-destination",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Gandhi's Salt March of 1930 ended at the sea at which coastal village?",
       "options": [
         {
@@ -735,7 +735,7 @@
       "id": "salt-march-distance",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "About how far did Gandhi and his followers walk on the Salt March?",
       "options": [
         {
@@ -774,7 +774,7 @@
       "id": "first-girl-guides-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did Juliette Gordon Low form the first American Girl Guides troop in 1912?",
       "options": [
         {
@@ -813,7 +813,7 @@
       "id": "nato-1999-not-joined",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these countries did NOT join NATO on March 12, 1999?",
       "options": [
         {
@@ -852,7 +852,7 @@
       "id": "uranus-discoverer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which astronomer discovered Uranus in 1781?",
       "options": [
         {
@@ -891,7 +891,7 @@
       "id": "uranus-position",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Counting outward from the Sun, which planet is Uranus?",
       "options": [
         {
@@ -930,7 +930,7 @@
       "id": "uranus-known-in-prehistory",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Uranus was recognized as a planet in prehistoric times, like Saturn.",
       "options": [
         {
@@ -961,7 +961,7 @@
       "id": "pope-francis-archbishop-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Before his election as Pope Francis in 2013, Jorge Mario Bergoglio was archbishop of which city?",
       "options": [
         {
@@ -1000,7 +1000,7 @@
       "id": "alexander-ii-assassination-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Tsar Alexander II of Russia assassinated in 1881?",
       "options": [
         {
@@ -1039,7 +1039,7 @@
       "id": "einstein-birth-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which German city was Albert Einstein born in 1879?",
       "options": [
         {
@@ -1078,7 +1078,7 @@
       "id": "cotton-gin-patent-holder",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who received a patent for the cotton gin in 1794?",
       "options": [
         {
@@ -1117,7 +1117,7 @@
       "id": "communist-manifesto-coauthor",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Karl Marx wrote The Communist Manifesto (1848) with whom?",
       "options": [
         {
@@ -1156,7 +1156,7 @@
       "id": "hawking-1988-book",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which best-selling book did Stephen Hawking publish in 1988?",
       "options": [
         {
@@ -1195,7 +1195,7 @@
       "id": "caesar-assassination-day",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "On which day of the Roman calendar was Julius Caesar assassinated in 44 BCE?",
       "options": [
         {
@@ -1235,7 +1235,7 @@
       "id": "nicholas-ii-dynasty",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The abdication of Tsar Nicholas II in 1917 ended the rule of which dynasty?",
       "options": [
         {
@@ -1275,7 +1275,7 @@
       "id": "we-shall-overcome-legislation",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Lyndon B. Johnson's 'We Shall Overcome' speech of 1965 introduced legislation on what?",
       "options": [
         {
@@ -1315,7 +1315,7 @@
       "id": "andrew-jackson-president-number",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Andrew Jackson, born on March 15, 1767, was which president of the United States?",
       "options": [
         {
@@ -1354,7 +1354,7 @@
       "id": "goddard-rocket-propellant",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What kind of propellant powered Robert Goddard's pioneering rocket of 1926?",
       "options": [
         {
@@ -1393,7 +1393,7 @@
       "id": "goddard-flight-duration",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "About how long did Goddard's first liquid-fueled rocket stay in the air?",
       "options": [
         {
@@ -1432,7 +1432,7 @@
       "id": "father-of-the-constitution",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US president is known as the Father of the Constitution?",
       "options": [
         {
@@ -1471,7 +1471,7 @@
       "id": "west-point-original-role",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "When the US Military Academy at West Point was founded in 1802, it was a training center for which corps?",
       "options": [
         {
@@ -1510,7 +1510,7 @@
       "id": "kingdom-of-italy-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did a parliament proclaim the unified Kingdom of Italy in 1861?",
       "options": [
         {
@@ -1550,7 +1550,7 @@
       "id": "italian-unification-figure",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which revolutionary leader is named by Britannica among the figures behind the unification of Italy proclaimed in 1861?",
       "options": [
         {
@@ -1589,7 +1589,7 @@
       "id": "boston-evacuation-general",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which British general evacuated Boston in March 1776 after a siege by George Washington's army?",
       "options": [
         {
@@ -1629,7 +1629,7 @@
       "id": "vanguard-1-power",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Vanguard 1, launched in 1958, was the first satellite powered by what?",
       "options": [
         {
@@ -1668,7 +1668,7 @@
       "id": "golda-meir-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Golda Meir became prime minister of which country in 1969?",
       "options": [
         {
@@ -1707,7 +1707,7 @@
       "id": "first-spacewalker",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who became the first person to walk in space, in 1965?",
       "options": [
         {
@@ -1746,7 +1746,7 @@
       "id": "leonov-spacecraft",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which spacecraft did Aleksei Leonov make the first spacewalk?",
       "options": [
         {
@@ -1785,7 +1785,7 @@
       "id": "stamp-act-protest-group",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which colonial group, known for violent protests, opposed the Stamp Act before Parliament repealed it in 1766?",
       "options": [
         {
@@ -1824,7 +1824,7 @@
       "id": "gardner-theft-dutch-painter",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The 1990 theft from Boston's Isabella Stewart Gardner Museum included paintings by Rembrandt and which other Dutch master?",
       "options": [
         {
@@ -1863,7 +1863,7 @@
       "id": "sagrada-familia-architect",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which architect took over the Sagrada Familia in 1883 and transformed its design?",
       "options": [
         {
@@ -1902,7 +1902,7 @@
       "id": "sagrada-familia-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city is the Basilica de la Sagrada Familia?",
       "options": [
         {
@@ -1941,7 +1941,7 @@
       "id": "standard-time-act-introduced",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did the US Standard Time Act, signed in 1918, establish?",
       "options": [
         {
@@ -1980,7 +1980,7 @@
       "id": "arthur-c-clarke-film",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Arthur C. Clarke worked with Stanley Kubrick on which film?",
       "options": [
         {
@@ -2019,7 +2019,7 @@
       "id": "nevada-gambling-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Nevada's legalization of gambling in 1931 paved the way for casinos most notably in which city?",
       "options": [
         {
@@ -2058,7 +2058,7 @@
       "id": "uncle-toms-cabin-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote Uncle Tom's Cabin, published as a book in 1852?",
       "options": [
         {
@@ -2097,7 +2097,7 @@
       "id": "uncle-toms-cabin-serial-first",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Uncle Tom's Cabin ran as a serial before it was published as a book.",
       "options": [
         {
@@ -2128,7 +2128,7 @@
       "id": "lennon-ono-wedding-place",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Where did John Lennon marry Yoko Ono in 1969?",
       "options": [
         {
@@ -2167,7 +2167,7 @@
       "id": "ripon-party",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "An 1854 meeting in Ripon, Wisconsin, proposed forming which political party?",
       "options": [
         {
@@ -2206,7 +2206,7 @@
       "id": "alcatraz-bay",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Alcatraz prison, closed in 1963, stood on an island in which bay?",
       "options": [
         {
@@ -2245,7 +2245,7 @@
       "id": "first-tweet-text",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did the first public tweet, sent by Jack Dorsey in 2006, say?",
       "options": [
         {
@@ -2284,7 +2284,7 @@
       "id": "namibia-former-ruler",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Before independence in 1990, Namibia had been ruled by Germany and then by which country?",
       "options": [
         {
@@ -2323,7 +2323,7 @@
       "id": "sharpeville-protest-laws",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Sharpeville protest of 1960 in South Africa was against which laws?",
       "options": [
         {
@@ -2362,7 +2362,7 @@
       "id": "please-please-me-first-what",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Please Please Me, released in the UK on March 22, 1963, was the Beatles' first what?",
       "options": [
         {
@@ -2401,7 +2401,7 @@
       "id": "arab-league-founding-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was the Arab League organized in 1945?",
       "options": [
         {
@@ -2440,7 +2440,7 @@
       "id": "first-masters-state",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first Masters Tournament, in 1934, was hosted in Augusta in which US state?",
       "options": [
         {
@@ -2479,7 +2479,7 @@
       "id": "goethe-death-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which German city did Johann Wolfgang von Goethe die in 1832?",
       "options": [
         {
@@ -2518,7 +2518,7 @@
       "id": "patrick-henry-phrase",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which phrase is Patrick Henry's speech of March 23, 1775, best known for?",
       "options": [
         {
@@ -2557,7 +2557,7 @@
       "id": "enabling-act-dominant-party",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which party, with the German National People's Party, dominated the Reichstag that passed the Enabling Act in 1933?",
       "options": [
         {
@@ -2597,7 +2597,7 @@
       "id": "mir-years-in-orbit",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Mir space station was designed for 5 years of service. How long did it stay in orbit?",
       "options": [
         {
@@ -2636,7 +2636,7 @@
       "id": "koch-1882-disease",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "On March 24, 1882, Robert Koch announced he had found the bacterium that causes which disease?",
       "options": [
         {
@@ -2679,7 +2679,7 @@
       "id": "world-tb-day-scientist",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "World TB Day falls on March 24 because of whose announcement in 1882?",
       "options": [
         {
@@ -2718,7 +2718,7 @@
       "id": "exxon-valdez-waters",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Into which body of water did the Exxon Valdez spill oil in 1989?",
       "options": [
         {
@@ -2757,7 +2757,7 @@
       "id": "elizabeth-i-successor",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who succeeded Elizabeth I on the English throne in 1603?",
       "options": [
         {
@@ -2796,7 +2796,7 @@
       "id": "oscar-romero-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Archbishop Oscar Romero assassinated in 1980?",
       "options": [
         {
@@ -2835,7 +2835,7 @@
       "id": "treaty-of-rome-created",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did the Treaty of Rome, signed in 1957, establish?",
       "options": [
         {
@@ -2875,7 +2875,7 @@
       "id": "treaty-of-rome-non-signer",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these countries was NOT one of the six that signed the Treaty of Rome in 1957?",
       "options": [
         {
@@ -2914,7 +2914,7 @@
       "id": "triangle-fire-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Triangle shirtwaist factory fire of 1911, which killed 146 people, happened in which city?",
       "options": [
         {
@@ -2953,7 +2953,7 @@
       "id": "queen-of-soul",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which singer, born on March 25, 1942, was crowned the 'Queen of Soul'?",
       "options": [
         {
@@ -2992,7 +2992,7 @@
       "id": "first-fare-railway-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first fee-paying passenger railway began operating in 1807 in which country?",
       "options": [
         {
@@ -3032,7 +3032,7 @@
       "id": "egypt-israel-treaty-basis",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Egypt-Israel peace treaty of 1979 was based on which earlier agreements?",
       "options": [
         {
@@ -3071,7 +3071,7 @@
       "id": "camp-david-mediator",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US president mediated the Camp David Accords that led to the 1979 Egypt-Israel peace treaty?",
       "options": [
         {
@@ -3110,7 +3110,7 @@
       "id": "gerrymander-newspaper",
       "type": "multiple_choice",
       "difficulty": "hard",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which newspaper published the 1812 cartoon that gave us the word 'gerrymander'?",
       "options": [
         {
@@ -3153,7 +3153,7 @@
       "id": "beethoven-death-age",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "At what age did Ludwig van Beethoven die in 1827?",
       "options": [
         {
@@ -3192,7 +3192,7 @@
       "id": "robert-frost-region",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Poet Robert Frost, born in San Francisco, is best known for depicting life in which region?",
       "options": [
         {
@@ -3231,7 +3231,7 @@
       "id": "alaska-earthquake-magnitude",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What was the magnitude of the 1964 Alaska earthquake, the strongest recorded in the United States?",
       "options": [
         {
@@ -3270,7 +3270,7 @@
       "id": "khrushchev-replaced",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whom did Nikita Khrushchev replace as Soviet premier in 1958?",
       "options": [
         {
@@ -3309,7 +3309,7 @@
       "id": "typhoid-mary-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What was the real name of the woman known as Typhoid Mary?",
       "options": [
         {
@@ -3348,7 +3348,7 @@
       "id": "horseshoe-bend-commander",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who commanded the troops that defeated the Creek at the Battle of Horseshoe Bend in 1814?",
       "options": [
         {
@@ -3387,7 +3387,7 @@
       "id": "three-mile-island-state",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which US state is the Three Mile Island nuclear plant?",
       "options": [
         {
@@ -3426,7 +3426,7 @@
       "id": "three-mile-island-most-serious",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Britannica calls the Three Mile Island accident the most serious in the history of the American nuclear power industry.",
       "options": [
         {
@@ -3457,7 +3457,7 @@
       "id": "madrid-1939-captor",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whose forces captured Madrid in March 1939, near the end of the Spanish Civil War?",
       "options": [
         {
@@ -3496,7 +3496,7 @@
       "id": "eisenhower-president-number",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Dwight D. Eisenhower, who died in 1969, was which president of the United States?",
       "options": [
         {
@@ -3535,7 +3535,7 @@
       "id": "vargas-llosa-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Novelist Mario Vargas Llosa was born in 1936 in which country?",
       "options": [
         {
@@ -3574,7 +3574,7 @@
       "id": "terra-cotta-army-emperor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The terra-cotta army found near Xi'an in 1974 belongs to the tomb of which emperor?",
       "options": [
         {
@@ -3613,7 +3613,7 @@
       "id": "terra-cotta-army-finders",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who first came upon the underground chamber that led to the terra-cotta army in 1974?",
       "options": [
         {
@@ -3652,7 +3652,7 @@
       "id": "vesta-object-type",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What kind of object is Vesta, discovered by Wilhelm Olbers in 1807?",
       "options": [
         {
@@ -3691,7 +3691,7 @@
       "id": "king-and-i-star",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which actor became a star through the 1951 Broadway musical The King and I?",
       "options": [
         {
@@ -3730,7 +3730,7 @@
       "id": "twenty-third-amendment-voters",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Twenty-third Amendment, ratified in 1961, let residents of which place vote in presidential elections?",
       "options": [
         {
@@ -3769,7 +3769,7 @@
       "id": "alaska-purchase-seller",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "From which country did the United States agree to buy Alaska in 1867?",
       "options": [
         {
@@ -3808,7 +3808,7 @@
       "id": "alaska-purchase-price",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How much did the United States agree to pay for Alaska in 1867?",
       "options": [
         {
@@ -3847,7 +3847,7 @@
       "id": "alaska-purchase-negotiator",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US secretary of state negotiated the purchase of Alaska?",
       "options": [
         {
@@ -3886,7 +3886,7 @@
       "id": "treaty-of-paris-1856-war",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Treaty of Paris signed in 1856 ended which war?",
       "options": [
         {
@@ -3925,7 +3925,7 @@
       "id": "eiffel-tower-occasion",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Eiffel Tower was built for the International Exposition of 1889, which marked the centenary of what?",
       "options": [
         {
@@ -3964,7 +3964,7 @@
       "id": "eiffel-tower-original-height",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "About how tall was the Eiffel Tower when it was completed in 1889?",
       "options": [
         {
@@ -4003,7 +4003,7 @@
       "id": "kanagawa-commodore",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which American commodore signed the Treaty of Kanagawa with Japan in 1854?",
       "options": [
         {
@@ -4042,7 +4042,7 @@
       "id": "oklahoma-songwriting-team",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Oklahoma!, which opened on Broadway in 1943, was the first musical by which songwriting team?",
       "options": [
         {
@@ -4081,7 +4081,7 @@
       "id": "nunavut-capital",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the capital of Nunavut, the Canadian territory created in 1999?",
       "options": [
         {
@@ -4120,7 +4120,7 @@
       "id": "nunavut-name-meaning",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In Inuktitut, what does the name Nunavut mean?",
       "options": [
         {
@@ -4159,7 +4159,7 @@
       "id": "apple-not-a-founder",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these people was NOT a founder of Apple Computer in 1976?",
       "options": [
         {
@@ -4198,7 +4198,7 @@
       "id": "first-same-sex-marriage-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 2001, which country became the first to grant equal marriage rights to same-sex couples?",
       "options": [
         {
@@ -4237,7 +4237,7 @@
       "id": "falklands-1982-invader",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which country's troops seized the Falkland Islands in 1982, starting a war with Britain?",
       "options": [
         {
@@ -4276,7 +4276,7 @@
       "id": "falklands-spanish-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "By what Spanish name are the Falkland Islands known in Argentina?",
       "options": [
         {
@@ -4315,7 +4315,7 @@
       "id": "space-odyssey-director",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who directed 2001: A Space Odyssey, which premiered in 1968?",
       "options": [
         {
@@ -4354,7 +4354,7 @@
       "id": "richmond-confederate-capital",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which Confederate capital was evacuated by Confederate troops on April 2, 1865?",
       "options": [
         {
@@ -4393,7 +4393,7 @@
       "id": "pony-express-western-end",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Pony Express carried mail overland from St. Joseph, Missouri, to which California city?",
       "options": [
         {
@@ -4432,7 +4432,7 @@
       "id": "pony-express-made-obsolete",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What made the Pony Express obsolete in 1861?",
       "options": [
         {
@@ -4471,7 +4471,7 @@
       "id": "first-mobile-call-company",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "An employee of which company made the first handheld mobile phone call in 1973?",
       "options": [
         {
@@ -4510,7 +4510,7 @@
       "id": "marshall-plan-region",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Marshall Plan, signed into law in 1948, aimed to revive the economies of which region?",
       "options": [
         {
@@ -4549,7 +4549,7 @@
       "id": "mlk-assassination-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Martin Luther King, Jr., assassinated in 1968?",
       "options": [
         {
@@ -4594,7 +4594,7 @@
       "id": "nato-founding-signers",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many countries signed the North Atlantic Treaty in 1949, founding NATO?",
       "options": [
         {
@@ -4633,7 +4633,7 @@
       "id": "microsoft-cofounder",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Bill Gates founded Microsoft in 1975 with whom?",
       "options": [
         {
@@ -4672,7 +4672,7 @@
       "id": "harrison-first-to-die-in-office",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "William Henry Harrison was the first US president to die in office.",
       "options": [
         {
@@ -4703,7 +4703,7 @@
       "id": "angelou-memoir",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which book did Maya Angelou write?",
       "options": [
         {
@@ -4742,7 +4742,7 @@
       "id": "first-presidential-veto",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which president issued the first presidential veto in US history, in 1792?",
       "options": [
         {
@@ -4781,7 +4781,7 @@
       "id": "maipu-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Battle of Maipu in 1818 was a decisive victory for which country's independence movement?",
       "options": [
         {
@@ -4820,7 +4820,7 @@
       "id": "war-of-the-pacific-declarer",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which country declared war on Peru and Bolivia in 1879, beginning the War of the Pacific?",
       "options": [
         {
@@ -4859,7 +4859,7 @@
       "id": "kareem-passed-whom",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1984, Kareem Abdul-Jabbar passed whom as the NBA's all-time leading scorer?",
       "options": [
         {
@@ -4898,7 +4898,7 @@
       "id": "athens-1896-marathon-winner",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which runner won the marathon at the first modern Olympics in 1896?",
       "options": [
         {
@@ -4937,7 +4937,7 @@
       "id": "athens-1896-countries",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Athletes from about how many countries took part in the 1896 Athens Olympics?",
       "options": [
         {
@@ -4976,7 +4976,7 @@
       "id": "abba-eurovision-song",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "With which song did ABBA win Eurovision in 1974?",
       "options": [
         {
@@ -5015,7 +5015,7 @@
       "id": "shiloh-state",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which state was the Civil War Battle of Shiloh fought in 1862?",
       "options": [
         {
@@ -5054,7 +5054,7 @@
       "id": "who-headquarters-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city is the World Health Organization, established in 1948, headquartered?",
       "options": [
         {
@@ -5093,7 +5093,7 @@
       "id": "who-founding-observance",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which annual observance marks the World Health Organization's founding date?",
       "options": [
         {
@@ -5132,7 +5132,7 @@
       "id": "henry-ford-method",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Henry Ford, who died in 1947, pioneered which manufacturing methods?",
       "options": [
         {
@@ -5171,7 +5171,7 @@
       "id": "billie-holiday-birth-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was the jazz singer Billie Holiday born in 1915?",
       "options": [
         {
@@ -5210,7 +5210,7 @@
       "id": "aaron-broke-record-of",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whose career home run record did Hank Aaron break in 1974?",
       "options": [
         {
@@ -5249,7 +5249,7 @@
       "id": "aaron-record-home-run-number",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Hank Aaron broke the career home run record with which home run?",
       "options": [
         {
@@ -5288,7 +5288,7 @@
       "id": "venus-de-milo-museum",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which museum is the Venus de Milo today?",
       "options": [
         {
@@ -5327,7 +5327,7 @@
       "id": "venus-de-milo-goddess",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Venus de Milo is commonly thought to represent which Greek goddess?",
       "options": [
         {
@@ -5366,7 +5366,7 @@
       "id": "seventeenth-amendment-change",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did the Seventeenth Amendment, ratified in 1913, provide for?",
       "options": [
         {
@@ -5405,7 +5405,7 @@
       "id": "appomattox-surrendered-to",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "To whom did Robert E. Lee surrender at Appomattox Court House in 1865?",
       "options": [
         {
@@ -5444,7 +5444,7 @@
       "id": "appomattox-ended-all-fighting",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Lee's surrender at Appomattox immediately ended all fighting in the American Civil War.",
       "options": [
         {
@@ -5475,7 +5475,7 @@
       "id": "marian-anderson-1939-venue",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Where did Marian Anderson sing to an Easter Sunday crowd of 75,000 in 1939?",
       "options": [
         {
@@ -5514,7 +5514,7 @@
       "id": "la-salle-region-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What name did La Salle give the Mississippi River basin when he claimed it for France in 1682?",
       "options": [
         {
@@ -5553,7 +5553,7 @@
       "id": "good-friday-agreement-city-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Good Friday Agreement of 1998 is also named after which city?",
       "options": [
         {
@@ -5592,7 +5592,7 @@
       "id": "good-friday-agreement-region",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Good Friday Agreement of 1998 was a peace deal for which region?",
       "options": [
         {
@@ -5635,7 +5635,7 @@
       "id": "great-gatsby-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote The Great Gatsby, published in 1925?",
       "options": [
         {
@@ -5674,7 +5674,7 @@
       "id": "zapata-revolution",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Emiliano Zapata, killed in an ambush in 1919, was a leader in which revolution?",
       "options": [
         {
@@ -5713,7 +5713,7 @@
       "id": "safety-pin-rights-price",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "For how much did Walter Hunt sell his rights to the safety pin he patented in 1849?",
       "options": [
         {
@@ -5752,7 +5752,7 @@
       "id": "apollo-13-failure",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What failure forced the Apollo 13 crew to abandon their Moon landing in 1970?",
       "options": [
         {
@@ -5791,7 +5791,7 @@
       "id": "apollo-13-commander",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who commanded Apollo 13?",
       "options": [
         {
@@ -5830,7 +5830,7 @@
       "id": "apollo-13-landed-on-moon",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Apollo 13 astronauts landed on the Moon before returning to Earth.",
       "options": [
         {
@@ -5861,7 +5861,7 @@
       "id": "macarthur-relieved-war",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "President Truman relieved General Douglas MacArthur of his command in 1951 during which war?",
       "options": [
         {
@@ -5900,7 +5900,7 @@
       "id": "eichmann-trial-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did the 1961 trial of Adolf Eichmann take place?",
       "options": [
         {
@@ -5939,7 +5939,7 @@
       "id": "andrew-wiles-proof",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Mathematician Andrew Wiles, born in 1953, devised a proof of what?",
       "options": [
         {
@@ -5978,7 +5978,7 @@
       "id": "gagarin-spacecraft",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Aboard which spacecraft did Yuri Gagarin make the first human spaceflight in 1961?",
       "options": [
         {
@@ -6018,7 +6018,7 @@
       "id": "gagarin-orbit-time",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "About how long did Yuri Gagarin's single orbit of Earth take?",
       "options": [
         {
@@ -6057,7 +6057,7 @@
       "id": "fort-sumter-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Fort Sumter, where the American Civil War began in 1861, is in which city?",
       "options": [
         {
@@ -6096,7 +6096,7 @@
       "id": "polio-vaccine-1955-scientist",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Whose polio vaccine was released for use in the United States on April 12, 1955?",
       "options": [
         {
@@ -6139,7 +6139,7 @@
       "id": "first-shuttle-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What was the name of the first space shuttle that NASA launched, in 1981?",
       "options": [
         {
@@ -6178,7 +6178,7 @@
       "id": "order-spaceflight-mar-apr",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these spaceflight milestones in order from earliest to latest.",
       "items": [
         {
@@ -6233,7 +6233,7 @@
       "id": "order-civil-war-road-mar-apr",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these events in order from earliest to latest.",
       "items": [
         {
@@ -6288,7 +6288,7 @@
       "id": "order-treaties-mar-apr",
       "type": "chronological_ordering",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Put these treaties and agreements in order from earliest to latest.",
       "items": [
         {

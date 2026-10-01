@@ -110,7 +110,7 @@
       "collectionIds": [
         "leaders-and-power"
       ],
-      "relatedEventIds": ["camp-david-accords-signed-1978", "anwar-sadat-assassinated-1981"]
+      "relatedEventIds": ["camp-david-accords-signed-1978", "anwar-sadat-assassinated-1981", "egypt-israel-peace-treaty-1979"]
     },
     {
       "id": "fugitive-slave-act-compromise",
@@ -838,7 +838,7 @@
       "collectionIds": [
         "science-and-innovation"
       ],
-      "relatedEventIds": ["discovery-return-to-flight-1988"]
+      "relatedEventIds": ["discovery-return-to-flight-1988", "challenger-disaster-1986"]
     }
   ]
 }

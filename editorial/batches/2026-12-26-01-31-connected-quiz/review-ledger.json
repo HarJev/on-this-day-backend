@@ -5,7 +5,7 @@
     {
       "candidateId": "frisbee-patent-company",
       "canonicalId": "frisbee-patent-company",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-26",
@@ -24,12 +24,14 @@
       "calendarDays": [
         "12-26"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match on the featured patent; the distractors are other large US toy makers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match on the featured patent; the distractors are other large US toy makers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "babbage-analytical-engine",
       "canonicalId": "babbage-analytical-engine",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Charles-Babbage",
@@ -49,12 +51,14 @@
       "calendarDays": [
         "12-26"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why Babbage's birth is worth marking; all distractors are 19th-century inventions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why Babbage's birth is worth marking; all distractors are 19th-century inventions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "hagia-sophia-modern-city",
       "canonicalId": "hagia-sophia-modern-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Hagia-Sophia",
@@ -74,12 +78,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Locates the featured monument; Ankara is the tempting capital-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Locates the featured monument; Ankara is the tempting capital-city distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "beagle-voyage-length",
       "canonicalId": "beagle-voyage-length",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Charles-Darwin",
@@ -99,12 +105,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Scale of the voyage that began on this day; the options are spaced so only one fits 1831-36. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Scale of the voyage that began on this day; the options are spaced so only one fits 1831-36. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "kepler-elliptical-orbits",
       "canonicalId": "kepler-elliptical-orbits",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Johannes-Kepler",
@@ -123,12 +131,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Targets the common circular-orbit misconception that Kepler overturned. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Targets the common circular-orbit misconception that Kepler overturned. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "indonesia-colonial-power",
       "canonicalId": "indonesia-colonial-power",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-27",
@@ -148,12 +158,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Accessible decolonization hook; Portugal and Britain also held territory in the region. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Accessible decolonization hook; Portugal and Britain also held territory in the region. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "lumiere-first-screening-city",
       "canonicalId": "lumiere-first-screening-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-28",
@@ -172,12 +184,14 @@
       "calendarDays": [
         "12-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match; Lyon, the brothers' home city, is the deliberate near-miss. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Exact match; Lyon, the brothers' home city, is the deliberate near-miss. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "westminster-abbey-founder-king",
       "canonicalId": "westminster-abbey-founder-king",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.westminster-abbey.org/abbey-commemorations/royals/edward-the-confessor-and-edith",
@@ -196,12 +210,14 @@
       "calendarDays": [
         "12-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William and Harold are the kings of 1066, the natural confusions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William and Harold are the kings of 1066, the natural confusions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "markievicz-took-seat",
       "canonicalId": "markievicz-took-seat",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "rejected",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Constance-Markievicz",
@@ -220,12 +236,14 @@
       "calendarDays": [
         "12-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The surprising twist behind the milestone. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The surprising twist behind the milestone. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Rejected in the delegated owner review on 2026-10-01: Its only related event, constance-markievicz-elected-1918, was dropped.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "ireland-irish-name",
       "canonicalId": "ireland-irish-name",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Ireland",
@@ -250,12 +268,14 @@
       "calendarDays": [
         "12-29"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are the Celtic names of Scotland, Wales and Cornwall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are the Celtic names of Scotland, Wales and Cornwall. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "texas-before-annexation",
       "canonicalId": "texas-before-annexation",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.tshaonline.org/handbook/entries/annexation",
@@ -280,12 +300,14 @@
       "calendarDays": [
         "12-29"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks about status, not the date; Spain is the earlier ruler and a tempting trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Asks about status, not the date; Spain is the earlier ruler and a tempting trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gladstone-terms-as-pm",
       "canonicalId": "gladstone-terms-as-pm",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-29",
@@ -304,12 +326,14 @@
       "calendarDays": [
         "12-29"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable record; adjacent numbers make it a real recall question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable record; adjacent numbers make it a real recall question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "ussr-capital",
       "canonicalId": "ussr-capital",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-30",
@@ -329,12 +353,14 @@
       "calendarDays": [
         "12-30"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: St. Petersburg, the imperial capital, is the trap; Kyiv and Minsk were capitals of founding republics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: St. Petersburg, the imperial capital, is the trap; Kyiv and Minsk were capitals of founding republics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "rizal-noli-me-tangere-target",
       "canonicalId": "rizal-noli-me-tangere-target",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Jose-Rizal",
@@ -353,12 +379,14 @@
       "calendarDays": [
         "12-30"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The United States, the later colonial power, is the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: The United States, the later colonial power, is the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gadsden-purchase-seller",
       "canonicalId": "gadsden-purchase-seller",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-30",
@@ -377,12 +405,14 @@
       "calendarDays": [
         "12-30"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other powers that sold or ceded North American land are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other powers that sold or ceded North American land are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "times-square-named-for",
       "canonicalId": "times-square-named-for",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Times-Square",
@@ -401,12 +431,14 @@
       "calendarDays": [
         "12-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links the ball drop to the newspaper that started it; the distractors are plausible folk etymologies. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links the ball drop to the newspaper that started it; the distractors are plausible folk etymologies. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "tallest-building-after-taipei-101",
       "canonicalId": "tallest-building-after-taipei-101",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-31",
@@ -432,12 +464,14 @@
       "calendarDays": [
         "12-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects two record-setting openings in this batch; the prompt names Dubai so only one option fits. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Connects two record-setting openings in this batch; the prompt names Dubai so only one option fits. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "ottawa-chosen-by",
       "canonicalId": "ottawa-chosen-by",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-31",
@@ -456,12 +490,14 @@
       "calendarDays": [
         "12-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Macdonald and Durham are prominent figures of the period; Champlain is a well-known earlier name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Macdonald and Durham are prominent figures of the period; Champlain is a well-known earlier name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "euro-founding-members",
       "canonicalId": "euro-founding-members",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-1",
@@ -480,12 +516,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Six echoes the original EEC founders; 15 and 27 are later EU sizes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Six echoes the original EEC founders; 15 and 27 are later EU sizes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "wto-predecessor",
       "canonicalId": "wto-predecessor",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/World-Trade-Organization",
@@ -504,12 +542,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are postwar economic institutions; only GATT was replaced by the WTO. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are postwar economic institutions; only GATT was replaced by the WTO. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "batista-toppled-by",
       "canonicalId": "batista-toppled-by",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-1",
@@ -528,12 +568,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other Latin American strongmen, none of them Cuban revolutionaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other Latin American strongmen, none of them Cuban revolutionaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "emancipation-proclamation-scope",
       "canonicalId": "emancipation-proclamation-scope",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-1",
@@ -552,12 +594,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Pairs with the published preliminary-proclamation question; this one states the proclamation's actual scope. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Pairs with the published preliminary-proclamation question; this one states the proclamation's actual scope. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "order-january-first-milestones",
       "canonicalId": "order-january-first-milestones",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-1",
@@ -578,12 +622,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is one of the day's events, all cited on Britannica's January 1 page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is one of the day's events, all cited on Britannica's January 1 page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "granada-conquerors",
       "canonicalId": "granada-conquerors",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-2",
@@ -602,12 +648,14 @@
       "calendarDays": [
         "01-02"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every distractor is a real royal couple with Spanish ties from the following century. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every distractor is a real royal couple with Spanish ties from the following century. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "port-arthur-war-enemy",
       "canonicalId": "port-arthur-war-enemy",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-2",
@@ -627,12 +675,14 @@
       "calendarDays": [
         "01-02"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: China is the trap because the port lies in China. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: China is the trap because the port lies in China. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "stardust-sample",
       "canonicalId": "stardust-sample",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-2",
@@ -652,12 +702,14 @@
       "calendarDays": [
         "01-02"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Solar-wind particles (NASA's Genesis mission) are the close distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Solar-wind particles (NASA's Genesis mission) are the close distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "tolkien-birth-country",
       "canonicalId": "tolkien-birth-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/J-R-R-Tolkien",
@@ -677,12 +729,14 @@
       "calendarDays": [
         "01-03"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Surprising origin; New Zealand is the film-location trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Surprising origin; New Zealand is the film-location trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "fiftieth-state-1959",
       "canonicalId": "fiftieth-state-1959",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-3",
@@ -708,12 +762,14 @@
       "calendarDays": [
         "01-03"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Puerto Rico and Guam are territories that never became states; Arizona joined in 1912. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Puerto Rico and Guam are territories that never became states; Arizona joined in 1912. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "braille-made-of",
       "canonicalId": "braille-made-of",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/braille-writing-system",
@@ -732,12 +788,14 @@
       "calendarDays": [
         "01-04"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Basic mechanism of the featured inventor's system. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Basic mechanism of the featured inventor's system. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "burma-modern-name",
       "canonicalId": "burma-modern-name",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-4",
@@ -756,12 +814,14 @@
       "calendarDays": [
         "01-04"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sri Lanka (formerly Ceylon) also won independence from Britain in 1948, a strong distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sri Lanka (formerly Ceylon) also won independence from Britain in 1948, a strong distractor. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "waiting-for-godot-author",
       "canonicalId": "waiting-for-godot-author",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Waiting-for-Godot",
@@ -786,12 +846,14 @@
       "calendarDays": [
         "01-05"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are contemporaries in the theater of the absurd and existentialism. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are contemporaries in the theater of the absurd and existentialism. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "eris-pluto-reclassified",
       "canonicalId": "eris-pluto-reclassified",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://science.nasa.gov/dwarf-planets/eris/",
@@ -810,12 +872,14 @@
       "calendarDays": [
         "01-05"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Why an obscure discovery mattered. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Why an obscure discovery mattered. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "golden-gate-connects",
       "canonicalId": "golden-gate-connects",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-5",
@@ -834,12 +898,14 @@
       "calendarDays": [
         "01-05"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are Bay Area counties; Alameda is across the Bay Bridge instead. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: All four are Bay Area counties; Alameda is across the Bay Bridge instead. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "ford-five-dollar-day",
       "canonicalId": "ford-five-dollar-day",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "rejected",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-5",
@@ -858,12 +924,14 @@
       "calendarDays": [
         "01-05"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Includes the previous $2.40 wage as the before-and-after trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Includes the previous $2.40 wage as the before-and-after trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Rejected in the delegated owner review on 2026-10-01: Its only related event, ford-five-dollar-day-1914, was dropped.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "four-freedoms-not-included",
       "canonicalId": "four-freedoms-not-included",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Four-Freedoms",
@@ -883,12 +951,14 @@
       "calendarDays": [
         "01-06"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Freedom of assembly sounds like it belongs, which makes the list memorable. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Freedom of assembly sounds like it belongs, which makes the list memorable. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "henry-viii-wives-count",
       "canonicalId": "henry-viii-wives-count",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-6",
@@ -907,12 +977,14 @@
       "calendarDays": [
         "01-06"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Well-known fact that anchors the lesser-known wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Well-known fact that anchors the lesser-known wedding. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "marian-anderson-1939-concert",
       "canonicalId": "marian-anderson-1939-concert",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Marian-Anderson",
@@ -932,12 +1004,14 @@
       "calendarDays": [
         "01-07"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Her most famous concert, giving context for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Her most famous concert, giving context for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "phnom-penh-country",
       "canonicalId": "phnom-penh-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-7",
@@ -956,12 +1030,14 @@
       "calendarDays": [
         "01-07"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Neighboring countries as distractors; Vietnam is the invading power. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Neighboring countries as distractors; Vietnam is the invading power. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "fourteen-points-association",
       "canonicalId": "fourteen-points-association",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Fourteen-Points",
@@ -987,12 +1063,14 @@
       "calendarDays": [
         "01-08"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links two events in this batch; the UN is the later successor and the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links two events in this batch; the UN is the later successor and the main trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "hawking-best-seller",
       "canonicalId": "hawking-best-seller",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Stephen-Hawking",
@@ -1011,12 +1089,14 @@
       "calendarDays": [
         "01-08"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other famous popular-science books by different authors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other famous popular-science books by different authors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "elvis-memphis-home",
       "canonicalId": "elvis-memphis-home",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Elvis-Presley",
@@ -1035,12 +1115,14 @@
       "calendarDays": [
         "01-08"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous American estates as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous American estates as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "joan-of-arc-byname",
       "canonicalId": "joan-of-arc-byname",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Saint-Joan-of-Arc",
@@ -1059,12 +1141,14 @@
       "calendarDays": [
         "01-09"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Rouen (her trial) and Reims (the coronation she secured) are the near-misses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Rouen (her trial) and Reims (the coronation she secured) are the near-misses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "rubicon-boundary",
       "canonicalId": "rubicon-boundary",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Rubicon",
@@ -1083,12 +1167,14 @@
       "calendarDays": [
         "01-10"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the crossing was decisive; all options were Roman provinces. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Explains why the crossing was decisive; all options were Roman provinces. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "common-sense-author",
       "canonicalId": "common-sense-author",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-10",
@@ -1107,12 +1193,14 @@
       "calendarDays": [
         "01-10"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other revolutionary writers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other revolutionary writers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "first-un-general-assembly-city",
       "canonicalId": "first-un-general-assembly-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-10",
@@ -1132,12 +1220,14 @@
       "calendarDays": [
         "01-10"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: New York, Geneva and San Francisco are each tied to the UN or League, so recall matters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: New York, Geneva and San Francisco are each tied to the UN or League, so recall matters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "hillary-everest-partner",
       "canonicalId": "hillary-everest-partner",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Edmund-Hillary",
@@ -1158,12 +1248,14 @@
       "calendarDays": [
         "01-11"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hunt led the 1953 expedition; Mallory and Messner are other famous Everest names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hunt led the 1953 expedition; Mallory and Messner are other famous Everest names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "earhart-atlantic-before-pacific",
       "canonicalId": "earhart-atlantic-before-pacific",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Amelia-Earhart",
@@ -1183,12 +1275,14 @@
       "calendarDays": [
         "01-11"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places the Pacific flight in her career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Places the Pacific flight in her career. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gordy-label-name",
       "canonicalId": "gordy-label-name",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Motown",
@@ -1213,12 +1307,14 @@
       "calendarDays": [
         "01-12"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other landmark American soul and R&B labels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other landmark American soul and R&B labels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "jaccuse-defended-officer",
       "canonicalId": "jaccuse-defended-officer",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-13",
@@ -1237,12 +1333,14 @@
       "calendarDays": [
         "01-13"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other French generals and officers of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other French generals and officers of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "huygens-built-by-nasa",
       "canonicalId": "huygens-built-by-nasa",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
@@ -1263,12 +1361,14 @@
       "calendarDays": [
         "01-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a common assumption about the landing; complements the published Titan question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Corrects a common assumption about the landing; complements the published Titan question. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "tosca-composer",
       "canonicalId": "tosca-composer",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-14",
@@ -1287,12 +1387,14 @@
       "calendarDays": [
         "01-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other great opera composers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other great opera composers as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "jasmine-revolution-wave",
       "canonicalId": "jasmine-revolution-wave",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Jasmine-Revolution",
@@ -1312,12 +1414,14 @@
       "calendarDays": [
         "01-14"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other named protest movements, including Lebanon's earlier Cedar Revolution. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are other named protest movements, including Lebanon's earlier Cedar Revolution. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "british-museum-first-home",
       "canonicalId": "british-museum-first-home",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/British-Museum",
@@ -1336,12 +1440,14 @@
       "calendarDays": [
         "01-15"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hard: all four are historic London mansions with institutional uses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hard: all four are historic London mansions with institutional uses. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "first-american-woman-in-space",
       "canonicalId": "first-american-woman-in-space",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Sally-Ride",
@@ -1361,12 +1467,14 @@
       "calendarDays": [
         "01-16"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other notable American women in spaceflight history as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other notable American women in spaceflight history as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "popeye-strength-food",
       "canonicalId": "popeye-strength-food",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-17",
@@ -1385,12 +1493,14 @@
       "calendarDays": [
         "01-17"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A light, accessible hook for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A light, accessible hook for the featured debut. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "franklin-birth-city",
       "canonicalId": "franklin-birth-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Benjamin-Franklin",
@@ -1409,12 +1519,14 @@
       "calendarDays": [
         "01-17"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Philadelphia, his adopted home, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Philadelphia, his adopted home, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "german-empire-proclaimed-where",
       "canonicalId": "german-empire-proclaimed-where",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/William-I-emperor-of-Germany",
@@ -1433,12 +1545,14 @@
       "calendarDays": [
         "01-18"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sedan (the decisive 1870 battle) and Strasbourg (annexed in 1871) are the close distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sedan (the decisive 1870 battle) and Strasbourg (annexed in 1871) are the close distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "poe-genre-pioneered",
       "canonicalId": "poe-genre-pioneered",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Edgar-Allan-Poe",
@@ -1457,12 +1571,14 @@
       "calendarDays": [
         "01-19"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are established genres Poe did not originate. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Distractors are established genres Poe did not originate. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "obama-senate-state",
       "canonicalId": "obama-senate-state",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Barack-Obama",
@@ -1481,12 +1597,14 @@
       "calendarDays": [
         "01-20"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hawaii, his birthplace, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Hawaii, his birthplace, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "concorde-partner-country",
       "canonicalId": "concorde-partner-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-21",
@@ -1505,12 +1623,14 @@
       "calendarDays": [
         "01-21"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other aerospace nations of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other aerospace nations of the era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "louis-xvi-queen",
       "canonicalId": "louis-xvi-queen",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France",
@@ -1535,12 +1655,14 @@
       "calendarDays": [
         "01-21"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Napoleon's two empresses and an earlier queen as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Napoleon's two empresses and an earlier queen as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "petrograd-renamed-1924",
       "canonicalId": "petrograd-renamed-1924",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Saint-Petersburg-Russia",
@@ -1559,12 +1681,14 @@
       "calendarDays": [
         "01-21"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links Lenin's death to the Leningrad siege event; the other Soviet-era city names are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Links Lenin's death to the Leningrad siege event; the other Soviet-era city names are the distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "victoria-successor",
       "canonicalId": "victoria-successor",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Victoria-queen-of-United-Kingdom",
@@ -1583,12 +1707,14 @@
       "calendarDays": [
         "01-22"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William IV was her predecessor, Albert her late husband, George V her grandson. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: William IV was her predecessor, Albert her late husband, George V her grandson. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "blackwell-birth-country",
       "canonicalId": "blackwell-birth-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Elizabeth-Blackwell",
@@ -1608,12 +1734,14 @@
       "calendarDays": [
         "01-23"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising origin for an American first. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A surprising origin for an American first. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gold-rush-mill-owner",
       "canonicalId": "gold-rush-mill-owner",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/California-Gold-Rush",
@@ -1632,12 +1760,14 @@
       "calendarDays": [
         "01-24"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous figures of the Gold Rush era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous figures of the Gold Rush era as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "macintosh-ad-novel",
       "canonicalId": "macintosh-ad-novel",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-22",
@@ -1662,12 +1792,14 @@
       "calendarDays": [
         "01-24"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other dystopian classics as distractors, including Orwell's own Animal Farm. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other dystopian classics as distractors, including Orwell's own Animal Farm. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "first-winter-olympics-country",
       "canonicalId": "first-winter-olympics-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games",
@@ -1686,12 +1818,14 @@
       "calendarDays": [
         "01-25"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other Alpine and Nordic winter-sport nations as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other Alpine and Nordic winter-sport nations as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "sonja-henie-chamonix",
       "canonicalId": "sonja-henie-chamonix",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Chamonix-1924-Olympic-Winter-Games",
@@ -1710,12 +1844,14 @@
       "calendarDays": [
         "01-25"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable detail from the featured Games. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: A memorable detail from the featured Games. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "burns-new-year-song",
       "canonicalId": "burns-new-year-song",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Robert-Burns",
@@ -1734,12 +1870,14 @@
       "calendarDays": [
         "01-25"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other well-known British Isles songs as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other well-known British Isles songs as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "woolf-literary-circle",
       "canonicalId": "woolf-literary-circle",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Virginia-Woolf",
@@ -1758,12 +1896,14 @@
       "calendarDays": [
         "01-25"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous literary circles from Oxford, Paris and New York. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other famous literary circles from Oxford, Paris and New York. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "cullinan-presented-to",
       "canonicalId": "cullinan-presented-to",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Cullinan-diamond",
@@ -1789,12 +1929,14 @@
       "calendarDays": [
         "01-26"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Victoria had died in 1901; George V and VI reigned later. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Victoria had died in 1901; George V and VI reigned later. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "mozart-opera",
       "canonicalId": "mozart-opera",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart",
@@ -1813,12 +1955,14 @@
       "calendarDays": [
         "01-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Famous operas by Bizet, Verdi and Beethoven as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Famous operas by Bizet, Verdi and Beethoven as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "auschwitz-location",
       "canonicalId": "auschwitz-location",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/place/Auschwitz",
@@ -1837,12 +1981,14 @@
       "calendarDays": [
         "01-27"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Factual and restrained; corrects the assumption that the camp was in Germany. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Factual and restrained; corrects the assumption that the camp was in Germany. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "lego-home-country",
       "canonicalId": "lego-home-country",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/LEGO",
@@ -1861,12 +2007,14 @@
       "calendarDays": [
         "01-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sweden is the Scandinavian trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Sweden is the Scandinavian trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "challenger-teacher",
       "canonicalId": "challenger-teacher",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Challenger-disaster",
@@ -1886,12 +2034,14 @@
       "calendarDays": [
         "01-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Judith Resnik was a mission specialist on the same flight, so the question asks specifically for the teacher; Morgan was McAuliffe's backup. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Judith Resnik was a mission specialist on the same flight, so the question asks specifically for the teacher; Morgan was McAuliffe's backup. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "pride-prejudice-heroine",
       "canonicalId": "pride-prejudice-heroine",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Pride-and-Prejudice",
@@ -1910,12 +2060,14 @@
       "calendarDays": [
         "01-28"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Heroines of other Austen novels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Heroines of other Austen novels as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "benz-motorwagen-wheels",
       "canonicalId": "benz-motorwagen-wheels",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Karl-Benz",
@@ -1934,12 +2086,14 @@
       "calendarDays": [
         "01-29"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Most people assume four; a vivid fact about the first car. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Most people assume four; a vivid fact about the first car. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "chekhov-play",
       "canonicalId": "chekhov-play",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Anton-Chekhov",
@@ -1958,12 +2112,14 @@
       "calendarDays": [
         "01-29"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays by Ibsen, Strindberg and Gorky, his contemporaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Plays by Ibsen, Strindberg and Gorky, his contemporaries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "gandhi-1930-march-tax",
       "canonicalId": "gandhi-1930-march-tax",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Salt-March",
@@ -1983,12 +2139,14 @@
       "calendarDays": [
         "01-30"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Remembers Gandhi through his most famous campaign rather than his death. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Remembers Gandhi through his most famous campaign rather than his death. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "brexit-referendum-year",
       "canonicalId": "brexit-referendum-year",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Brexit",
@@ -2007,12 +2165,14 @@
       "calendarDays": [
         "01-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Close neighboring years as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Close neighboring years as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "schubert-unfinished",
       "canonicalId": "schubert-unfinished",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Franz-Schubert",
@@ -2032,12 +2192,14 @@
       "calendarDays": [
         "01-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Nicknames of symphonies by Beethoven, Haydn and Mozart. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Nicknames of symphonies by Beethoven, Haydn and Mozart. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "jackie-robinson-team",
       "canonicalId": "jackie-robinson-team",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Jackie-Robinson",
@@ -2057,12 +2219,14 @@
       "calendarDays": [
         "01-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other storied teams of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Other storied teams of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "stalingrad-modern-name",
       "canonicalId": "stalingrad-modern-name",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/event/Battle-of-Stalingrad",
@@ -2081,12 +2245,14 @@
       "calendarDays": [
         "01-31"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Donetsk was also once named Stalino; Leningrad and Kaliningrad are other Soviet-era names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Donetsk was also once named Stalino; Leningrad and Kaliningrad are other Soviet-era names. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "order-space-milestones-dec-jan",
       "canonicalId": "order-space-milestones-dec-jan",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-7",
@@ -2124,12 +2290,14 @@
       "calendarDays": [
         "01-07"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is an event in this batch, each dated on its Britannica day page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is an event in this batch, each dated on its Britannica day page. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "order-writer-births-january",
       "canonicalId": "order-writer-births-january",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/January-22",
@@ -2167,12 +2335,14 @@
       "calendarDays": [
         "01-22"
       ],
-      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is a birth in this batch. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+      "notes": "Draft researched and source-checked by Claude; awaiting owner content review. Relation: Every item is a birth in this batch. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-ada-lovelace",
       "canonicalId": "identify-ada-lovelace",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Ada-Lovelace",
@@ -2197,12 +2367,14 @@
       "calendarDays": [
         "12-26"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-hagia-sophia",
       "canonicalId": "identify-hagia-sophia",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Hagia-Sophia",
@@ -2222,12 +2394,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-charles-darwin",
       "canonicalId": "identify-charles-darwin",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Charles-Darwin",
@@ -2247,12 +2421,14 @@
       "calendarDays": [
         "12-27"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-jose-rizal",
       "canonicalId": "identify-jose-rizal",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://nhcp.gov.ph/jose-rizal/",
@@ -2277,12 +2453,14 @@
       "calendarDays": [
         "12-30"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-second-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-amundsen-first-south-pole",
       "canonicalId": "amundsen-first-south-pole",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-14",
@@ -2308,12 +2486,14 @@
       "calendarDays": [
         "12-30"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-panama-canal-transfer-year",
       "canonicalId": "panama-canal-transfer-year",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://pancanal.com/en/history-of-the-panama-canal/",
@@ -2338,12 +2518,14 @@
       "calendarDays": [
         "12-31"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-haitian-revolution-outcome",
       "canonicalId": "haitian-revolution-outcome",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Haitian-Revolution",
@@ -2368,12 +2550,14 @@
       "calendarDays": [
         "01-01"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-alhambra-nasrid-palace",
       "canonicalId": "alhambra-nasrid-palace",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://whc.unesco.org/en/list/314",
@@ -2398,12 +2582,14 @@
       "calendarDays": [
         "01-02"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-south-africa-1994-president",
       "canonicalId": "south-africa-1994-president",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nelsonmandela.org/biography",
@@ -2428,12 +2614,14 @@
       "calendarDays": [
         "01-08"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-versailles-league-created",
       "canonicalId": "versailles-league-created",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
@@ -2459,12 +2647,14 @@
       "calendarDays": [
         "01-10"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-united-states-league-member",
       "canonicalId": "united-states-league-member",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1914-1920/league",
@@ -2490,12 +2680,14 @@
       "calendarDays": [
         "01-10"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-huygens-titan-landing",
       "canonicalId": "huygens-titan-landing",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://science.nasa.gov/mission/cassini/spacecraft/huygens-probe/",
@@ -2516,12 +2708,14 @@
       "calendarDays": [
         "01-14"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-queen-liliuokalani",
       "canonicalId": "identify-queen-liliuokalani",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.loc.gov/pictures/item/2016651074/",
@@ -2547,12 +2741,14 @@
       "calendarDays": [
         "01-17"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from editorial/batches/2026-09-l7-accessible-global-history/review-ledger.json; owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-winston-churchill",
       "canonicalId": "identify-winston-churchill",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Winston-Churchill",
@@ -2571,12 +2767,14 @@
       "calendarDays": [
         "01-24"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-india-independence-1947",
       "canonicalId": "india-independence-1947",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/topic/Indian-Independence-Act-1947",
@@ -2601,12 +2799,14 @@
       "calendarDays": [
         "01-26"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-mozart-death-age",
       "canonicalId": "mozart-death-age",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/on-this-day/December-5",
@@ -2631,12 +2831,14 @@
       "calendarDays": [
         "01-27"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-discovery-sts26-return-to-flight",
       "canonicalId": "discovery-sts26-return-to-flight",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/history/SP-4219/Chapter15.html",
@@ -2662,12 +2864,14 @@
       "calendarDays": [
         "01-28"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-identify-mahatma-gandhi",
       "canonicalId": "identify-mahatma-gandhi",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
@@ -2686,12 +2890,14 @@
       "calendarDays": [
         "01-30"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     },
     {
       "candidateId": "link-beatles-home-city",
       "canonicalId": "beatles-home-city",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.thebeatles.com/please-please-me",
@@ -2716,7 +2922,9 @@
       "calendarDays": [
         "01-30"
       ],
-      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image."
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. New relation is unapproved. No image. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_DEC26_APR12_PROGRESS.md.",
+      "reviewer": "Claude (owner review delegated by Jevaun Harris)",
+      "reviewedOn": "2026-10-01"
     }
   ]
 }

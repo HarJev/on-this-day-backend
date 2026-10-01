@@ -45,7 +45,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["charles-babbage-born-1791"]
     },
     {
       "id": "identify-simon-bolivar",
@@ -138,7 +139,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["albert-einstein-born-1879"]
     },
     {
       "id": "identify-taj-mahal",
@@ -323,7 +325,8 @@
       ],
       "collectionIds": [
         "society-culture-and-ideas"
-      ]
+      ],
+      "relatedEventIds": ["hagia-sophia-consecrated-537"]
     },
     {
       "id": "identify-rapa-nui-moai",
@@ -510,7 +513,7 @@
         "revolutions",
         "leaders-and-power"
       ],
-      "relatedEventIds": ["battles-of-jena-auerstedt-1806"]
+      "relatedEventIds": ["battles-of-jena-auerstedt-1806", "napoleon-marries-josephine-1796"]
     },
     {
       "id": "identify-martin-luther-king-jr",
@@ -558,7 +561,7 @@
         "society-culture-and-ideas",
         "leaders-and-power"
       ],
-      "relatedEventIds": ["mlk-awarded-nobel-peace-prize-1964"]
+      "relatedEventIds": ["mlk-awarded-nobel-peace-prize-1964", "martin-luther-king-jr-assassinated-1968"]
     },
     {
       "id": "identify-wright-first-flight",

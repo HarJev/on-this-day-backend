@@ -167,7 +167,8 @@
       "correctOptionId": "nelson-mandela",
       "explanation": "The bust represents Nelson Mandela, who became South Africa's first democratically elected president in 1994.",
       "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
-      "collectionIds": ["leaders-and-power"]
+      "collectionIds": ["leaders-and-power"],
+      "relatedEventIds": ["nelson-mandela-released-1990"]
     },
     {
       "id": "order-africa-middle-east-milestones",

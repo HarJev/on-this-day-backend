@@ -696,8 +696,7 @@
         "science-and-innovation"
       ],
       "relatedEventIds": [
-        "cassini-launches-to-saturn-1997"
-      ]
+        "cassini-launches-to-saturn-1997", "huygens-lands-on-titan-2005"]
     },
     {
       "id": "gregorian-century-leap-year",
@@ -735,8 +734,7 @@
         "science-and-innovation"
       ],
       "relatedEventIds": [
-        "gregorian-calendar-takes-effect-1582"
-      ]
+        "gregorian-calendar-takes-effect-1582", "gregorian-calendar-papal-bull-1582"]
     }
   ]
 }
