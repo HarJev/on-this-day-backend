@@ -18,7 +18,8 @@ v0.0.1.
 
 - Runtime: Java 21
 - Compute: AWS Lambda
-- API: API Gateway HTTP API
+- API: Lambda function URL behind CloudFront (see `docs/API_SECURITY.md`);
+  local development uses SAM's API Gateway emulation
 - Infrastructure: Terraform
 - Database: PostgreSQL
 - Notifications: Firebase Cloud Messaging
@@ -315,7 +316,7 @@ validate curated content
 
 Terraform in this repo owns:
 
-- API Gateway HTTP API,
+- the API function URL and its CloudFront distribution,
 - Lambda functions,
 - IAM roles and permissions,
 - EventBridge schedules,
@@ -344,7 +345,7 @@ Required:
 
 - structured Lambda logs,
 - request IDs in logs,
-- API Gateway 4xx/5xx metrics,
+- CloudFront 4xx/5xx metrics,
 - Lambda error and duration metrics,
 - notification send counts and failure reasons,
 - alarms for API 5xx spikes and failed notification jobs.

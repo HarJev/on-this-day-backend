@@ -17,6 +17,9 @@ public final class DeviceRegistrationService {
     if (token == null || token.isBlank()) {
       throw new InvalidDeviceRegistrationException("Token is required.");
     }
+    if (token.length() > DeviceRegistration.MAX_TOKEN_LENGTH) {
+      throw new InvalidDeviceRegistrationException("Token is too long.");
+    }
     repository.deleteByToken(token);
   }
 

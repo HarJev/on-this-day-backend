@@ -1,6 +1,7 @@
 package com.onthisday.platform.lambda;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import ch.qos.logback.classic.Logger;
@@ -221,6 +222,88 @@ class ApiGatewayHttpHandlerTest {
 
   private static void releaseLogs(ListAppender<ILoggingEvent> appender) {
     ((Logger) LoggerFactory.getLogger(ApiGatewayHttpHandler.class)).detachAppender(appender);
+  }
+
+  @Test
+  void functionUrlEventWithoutRouteParametersStillResolvesPathTemplates() {
+    var routes =
+        Map.of(
+            new HttpRouter.RouteKey(HttpMethod.GET, "/v1/events/{eventId}"),
+            (HttpRoute)
+                request -> HttpResponse.json(200, "{\"id\":\"" + request.pathParameter("eventId").orElse("") + "\"}"));
+    var event = event("GET", "/v1/events/battle-of-bosworth-field-1485");
+    // Function URLs send routeKey "$default" and no pathParameters.
+    event.setRouteKey("$default");
+    event.setRawPath("/v1/events/battle-of-bosworth-field-1485");
+
+    var response = new ApiGatewayHttpHandler(new HttpRouter(routes)).handleRequest(event, null);
+
+    assertEquals(200, response.getStatusCode());
+    assertEquals("{\"id\":\"battle-of-bosworth-field-1485\"}", response.getBody());
+    assertEquals("public, max-age=60", response.getHeaders().get("cache-control"));
+  }
+
+  @Test
+  void successfulContentReadsAreCacheableAtTheEdge() {
+    var handler = new ApiGatewayHttpHandler(fixedRouter(200));
+
+    for (var path : List.of("/v1/days/today", "/v1/days/recent", "/v1/quizzes/catalog", "/v1/quizzes/daily")) {
+      var response = handler.handleRequest(event("GET", path), null);
+      assertEquals("public, max-age=60", response.getHeaders().get("cache-control"), path);
+      assertEquals("application/json", response.getHeaders().get("content-type"), path);
+    }
+  }
+
+  @Test
+  void errorsWritesHealthAndUnknownRoutesAreNeverCacheable() {
+    var ok = new ApiGatewayHttpHandler(fixedRouter(200));
+    var failing = new ApiGatewayHttpHandler(fixedRouter(503));
+
+    assertFalse(failing.handleRequest(event("GET", "/v1/days/today"), null).getHeaders().containsKey("cache-control"));
+    assertFalse(ok.handleRequest(event("POST", "/v1/devices"), null).getHeaders().containsKey("cache-control"));
+    assertFalse(ok.handleRequest(event("POST", "/v1/quizzes/quick-play"), null).getHeaders().containsKey("cache-control"));
+    assertFalse(ok.handleRequest(event("GET", "/v1/health"), null).getHeaders().containsKey("cache-control"));
+    var unknown = ok.handleRequest(event("GET", "/v1/unknown"), null);
+    assertEquals(404, unknown.getStatusCode());
+    assertFalse(unknown.getHeaders().containsKey("cache-control"));
+  }
+
+  @Test
+  void oversizedBodiesAreRefusedBeforeTheRouteRuns() {
+    var calls = new java.util.concurrent.atomic.AtomicInteger();
+    var routes =
+        Map.of(
+            new HttpRouter.RouteKey(HttpMethod.POST, "/v1/devices"),
+            (HttpRoute)
+                request -> {
+                  calls.incrementAndGet();
+                  return HttpResponse.json(200, "{}");
+                });
+    var handler = new ApiGatewayHttpHandler(new HttpRouter(routes));
+
+    var oversized = event("POST", "/v1/devices");
+    oversized.setBody("x".repeat(ApiGatewayHttpHandler.MAX_BODY_LENGTH + 1));
+    var response = handler.handleRequest(oversized, null);
+
+    assertEquals(413, response.getStatusCode());
+    assertTrue(response.getBody().contains("payload_too_large"));
+    assertEquals(0, calls.get());
+
+    var atLimit = event("POST", "/v1/devices");
+    atLimit.setBody("x".repeat(ApiGatewayHttpHandler.MAX_BODY_LENGTH));
+    assertEquals(200, handler.handleRequest(atLimit, null).getStatusCode());
+    assertEquals(1, calls.get());
+  }
+
+  private static HttpRouter fixedRouter(int statusCode) {
+    var routes = new java.util.HashMap<HttpRouter.RouteKey, HttpRoute>();
+    HttpRoute route = request -> HttpResponse.json(statusCode, "{}");
+    for (var path : List.of("/v1/health", "/v1/days/today", "/v1/days/recent", "/v1/quizzes/catalog", "/v1/quizzes/daily")) {
+      routes.put(new HttpRouter.RouteKey(HttpMethod.GET, path), route);
+    }
+    routes.put(new HttpRouter.RouteKey(HttpMethod.POST, "/v1/devices"), route);
+    routes.put(new HttpRouter.RouteKey(HttpMethod.POST, "/v1/quizzes/quick-play"), route);
+    return new HttpRouter(routes);
   }
 
   private APIGatewayV2HTTPEvent event(String method, String path) {
