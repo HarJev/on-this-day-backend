@@ -231,7 +231,7 @@
       "historicalDate": "March 24, 1603",
       "dateNote": "Julian calendar date.",
       "summary": "James VI of Scotland succeeds her as James I of England.",
-      "description": "On March 24, 1603, Queen Elizabeth I of England died after ruling for some 45 years, and King James VI of Scotland succeeded her as James I of England.",
+      "description": "On March 24, 1603, Queen Elizabeth I of England died after ruling for nearly 45 years, and King James VI of Scotland succeeded her as James I of England.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -410,14 +410,18 @@
       "year": "1812",
       "historicalDate": "March 26, 1812",
       "dateNote": null,
-      "summary": "A satiric map turns a redrawn district into a beast.",
-      "description": "On March 26, 1812, the Boston Gazette published a satiric cartoon that turned a district redrawn to favor incumbents into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
+      "summary": "A satiric map turns Gerry's redrawn districts into a beast.",
+      "description": "On March 26, 1812, the Boston Gazette published a satiric cartoon that turned Massachusetts senate districts, redrawn under Governor Elbridge Gerry to benefit his Democratic-Republican Party, into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - On This Day: March 26",
           "url": "https://www.britannica.com/on-this-day/March-26"
+        },
+        {
+          "name": "Encyclopaedia Britannica - gerrymandering",
+          "url": "https://www.britannica.com/topic/gerrymandering"
         }
       ],
       "images": []

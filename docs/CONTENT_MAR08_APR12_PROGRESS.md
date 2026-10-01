@@ -48,6 +48,7 @@ source's check note from the event ledgers, so run the event generator first.
 | S4: draft quiz questions and links | COMPLETED | `build_mar_apr_cycle.py`: 162 new draft questions (151 multiple choice, 8 true/false, 3 ordering; 62 easy, 98 medium, 2 hard) and 11 relation proposals for unchanged published questions (5 image questions with inherited rights). Every day has at least three quiz hooks. Correct multiple-choice positions are balanced (35/38/40/38); true/false answers are 4 true, 4 false. |
 | S5: validation | COMPLETED | Canonical validators on canonical + all drafts merged (`merge.py`, `ValidateMerged.java`, drafts marked published so publish-time checks run): events valid, quiz valid, only pre-existing warnings (missing images, editorial exceptions, small ancient-rome collection). `EditorialReviewCheckCommand` passes for all six batches. Structural script: dates match days, descriptions start with the date, event and question IDs unique against canonical and every draft batch, no Wikipedia, featured copy within limits. `mvn -B test`: 266 tests, 0 failures (drafts are outside `content/`). |
 | S6: pull request | COMPLETED | PR #31 opened; awaiting a separate review thread (the author does not merge). Next after merge: owner review and promotion, then local DB import. |
+| S7: review fixes | COMPLETED | Five fixes from the PR #31 review applied (see below); generators rerun, validators, review checks and `mvn -B test` (266, 0 failures) pass again. Back with the reviewer. |
 
 ## Counts
 
@@ -102,6 +103,21 @@ Applied under the owner's rule (drop a disputed date or key fact, don't rework):
 - The drop reasons above that are not quoted from a fetched page (Dachau, the Astrodome, Mir,
   Bangladesh, the Vietnam withdrawal) record why the day-page line looked wrong; nothing was
   drafted from them.
+
+## Review fixes (2026-10-01)
+
+The PR #31 review found five issues, four of them carried over from Britannica day pages:
+
+- A Raisin in the Sun (Mar 11): the day page says Hansberry was 29; born May 19, 1930, she was
+  28. The age is dropped from the event and the `raisin-in-the-sun-playwright` explanation.
+- Twenty-third Amendment (Mar 29, 1961): ratification was completed that day; certification
+  followed on April 3. The event and `twenty-third-amendment-voters` now say ratified.
+- Elizabeth I (Mar 24): she ruled for nearly 45 years (November 1558 to March 1603), not
+  "some 45".
+- Gerrymander cartoon (Mar 26): the districts were redrawn under Governor Elbridge Gerry to
+  benefit his Democratic-Republican Party, not to favor incumbents. The event and
+  `gerrymander-newspaper` cite Britannica's gerrymandering article.
+- `athens-1896-marathon-winner` no longer says "Greek" in the prompt, which gave the answer away.
 
 ## Kept With A Note
 

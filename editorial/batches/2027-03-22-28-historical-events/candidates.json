@@ -116,7 +116,7 @@
       "candidateId": "mar-24-elizabeth-i-dies",
       "kind": "event",
       "proposedCanonicalId": "elizabeth-i-dies-1603",
-      "workingClaim": "March 24, 1603: On March 24, 1603, Queen Elizabeth I of England died after ruling for some 45 years, and King James VI of Scotland succeeded her as James I of England.",
+      "workingClaim": "March 24, 1603: On March 24, 1603, Queen Elizabeth I of England died after ruling for nearly 45 years, and King James VI of Scotland succeeded her as James I of England.",
       "sourceUrls": [
         "https://www.britannica.com/on-this-day/March-24"
       ]
@@ -206,9 +206,10 @@
       "candidateId": "mar-26-gerrymander",
       "kind": "event",
       "proposedCanonicalId": "gerrymander-cartoon-1812",
-      "workingClaim": "March 26, 1812: On March 26, 1812, the Boston Gazette published a satiric cartoon that turned a district redrawn to favor incumbents into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
+      "workingClaim": "March 26, 1812: On March 26, 1812, the Boston Gazette published a satiric cartoon that turned Massachusetts senate districts, redrawn under Governor Elbridge Gerry to benefit his Democratic-Republican Party, into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/March-26"
+        "https://www.britannica.com/on-this-day/March-26",
+        "https://www.britannica.com/topic/gerrymandering"
       ]
     },
     {

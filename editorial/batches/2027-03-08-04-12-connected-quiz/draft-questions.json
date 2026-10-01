@@ -521,7 +521,7 @@
         }
       ],
       "correctOptionId": "lorraine-hansberry",
-      "explanation": "Lorraine Hansberry's play debuted on Broadway on March 11, 1959, when she was 29.",
+      "explanation": "Lorraine Hansberry's play debuted on Broadway on March 11, 1959.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - On This Day: March 11",
@@ -3131,11 +3131,15 @@
         }
       ],
       "correctOptionId": "the-boston-gazette",
-      "explanation": "On March 26, 1812, the Boston Gazette turned a redrawn district into a fabulous animal, 'The Gerry-mander.'",
+      "explanation": "On March 26, 1812, the Boston Gazette turned the Massachusetts districts that Governor Elbridge Gerry's party redrew into a fabulous animal, 'The Gerry-mander.'",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - On This Day: March 26",
           "url": "https://www.britannica.com/on-this-day/March-26"
+        },
+        {
+          "displayName": "Encyclopaedia Britannica - gerrymandering",
+          "url": "https://www.britannica.com/topic/gerrymandering"
         }
       ],
       "collectionIds": [
@@ -3727,7 +3731,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "draft",
-      "prompt": "The Twenty-third Amendment, certified in 1961, let residents of which place vote in presidential elections?",
+      "prompt": "The Twenty-third Amendment, ratified in 1961, let residents of which place vote in presidential elections?",
       "options": [
         {
           "id": "puerto-rico",
@@ -3747,7 +3751,7 @@
         }
       ],
       "correctOptionId": "washington-d-c",
-      "explanation": "The amendment was certified on March 29, 1961.",
+      "explanation": "Ratification of the amendment was completed on March 29, 1961.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - On This Day: March 29",
@@ -4895,7 +4899,7 @@
       "type": "multiple_choice",
       "difficulty": "medium",
       "publicationState": "draft",
-      "prompt": "Which Greek runner won the marathon at the first modern Olympics in 1896?",
+      "prompt": "Which runner won the marathon at the first modern Olympics in 1896?",
       "options": [
         {
           "id": "spyridon-louis",
@@ -4915,7 +4919,7 @@
         }
       ],
       "correctOptionId": "spyridon-louis",
-      "explanation": "Spyridon Louis won the marathon at the Athens Games, which opened on April 6, 1896.",
+      "explanation": "Spyridon Louis, a Greek, won the marathon at the Athens Games, which opened on April 6, 1896.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - Athens 1896 Olympic Games",

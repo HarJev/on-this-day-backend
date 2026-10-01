@@ -148,7 +148,7 @@ ev(3, 10, "buffy", "buffy-the-vampire-slayer-premieres-1997", "Buffy the Vampire
 # ---------------------------------------------------------------- Mar 11
 ev(3, 11, "raisin-in-the-sun", "a-raisin-in-the-sun-opens-1959", "A Raisin in the Sun opens on Broadway", "1959",
    "Lorraine Hansberry becomes the first Black woman to have a play produced on Broadway.",
-   "On {hd}, Lorraine Hansberry's play A Raisin in the Sun debuted on Broadway. Hansberry, then 29, became the first Black woman to have a play produced on Broadway, and the play won the New York Drama Critics' Circle Award.",
+   "On {hd}, Lorraine Hansberry's play A Raisin in the Sun debuted on Broadway. Hansberry became the first Black woman to have a play produced on Broadway, and the play won the New York Drama Critics' Circle Award.",
    "1959 (featured): 'the play A Raisin in the Sun debuted on Broadway. The three-act drama was written by Lorraine Hansberry, who was 29 years old when she became the first Black woman to have a play produced on Broadway.'",
    ["americas"], ["cold-war"], "A Broadway first for Lorraine Hansberry",
    "In 1959, A Raisin in the Sun opened, the first Broadway play by a Black woman.",
@@ -543,7 +543,7 @@ ev(3, 24, "exxon-valdez", "exxon-valdez-oil-spill-1989", "The Exxon Valdez runs 
    ["americas"], ["cold-war"])
 ev(3, 24, "elizabeth-i-dies", "elizabeth-i-dies-1603", "Queen Elizabeth I dies", "1603",
    "James VI of Scotland succeeds her as James I of England.",
-   "On {hd}, Queen Elizabeth I of England died after ruling for some 45 years, and King James VI of Scotland succeeded her as James I of England.",
+   "On {hd}, Queen Elizabeth I of England died after ruling for nearly 45 years, and King James VI of Scotland succeeded her as James I of England.",
    "1603: 'King James VI of Scotland ascended the English throne as James I following the death of Elizabeth I'; featured biography: 'Elizabeth I, who died on this day in 1603, ruled England for some 45 years.'",
    ["europe"], ["early-modern"], note=J)
 ev(3, 24, "romero", "oscar-romero-assassinated-1980", "Archbishop Oscar Romero is assassinated", "1980",
@@ -599,10 +599,12 @@ ev(3, 26, "beethoven-dies", "beethoven-dies-1827", "Ludwig van Beethoven dies", 
    "1827: 'German composer Ludwig van Beethoven died of cirrhosis of the liver at age 56.'",
    ["europe"], ["1800-1945"])
 ev(3, 26, "gerrymander", "gerrymander-cartoon-1812", "The 'Gerry-mander' cartoon appears in Boston", "1812",
-   "A satiric map turns a redrawn district into a beast.",
-   "On {hd}, the Boston Gazette published a satiric cartoon that turned a district redrawn to favor incumbents into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
-   "1812: 'In opposition to the redrawing of districts to favour incumbents in an upcoming election, the Boston Gazette published a satiric cartoon that graphically transformed the districts into a fabulous animal, \"The Gerry-mander.\"'",
-   ["americas"], ["1800-1945"])
+   "A satiric map turns Gerry's redrawn districts into a beast.",
+   "On {hd}, the Boston Gazette published a satiric cartoon that turned Massachusetts senate districts, redrawn under Governor Elbridge Gerry to benefit his Democratic-Republican Party, into a fabulous animal, 'The Gerry-mander,' giving the practice its name.",
+   "1812: 'In opposition to the redrawing of districts to favour incumbents in an upcoming election, the Boston Gazette published a satiric cartoon that graphically transformed the districts into a fabulous animal, \"The Gerry-mander.\"' (The article below gives the party the redistricting favored.)",
+   ["americas"], ["1800-1945"],
+   extra=[art("gerrymandering", "https://www.britannica.com/topic/gerrymandering",
+              "Gov. Elbridge Gerry's administration 'enacted a law in 1812 defining new state senatorial districts'; it 'consolidated the Federalist Party vote in a few districts and thus gave disproportionate representation to Democratic-Republicans'; Elkanah Tisdale's cartoon in the Boston Gazette made 'The Gerry-mander'.")])
 ev(3, 26, "tennessee-williams-born", "tennessee-williams-born-1911", "Tennessee Williams is born", "1911",
    "The American dramatist is born in Columbus, Mississippi.",
    "On {hd}, the American dramatist Tennessee Williams was born in Columbus, Mississippi.",
@@ -689,10 +691,10 @@ ev(3, 29, "king-and-i", "the-king-and-i-opens-1951", "The King and I opens on Br
    "On {hd}, the Rodgers and Hammerstein musical The King and I debuted on Broadway, making Yul Brynner a star.",
    "1951: 'The Rodgers and Hammerstein musical The King and I debuted on Broadway; a classic of the stage, it made Yul Brynner a star.'",
    ["americas"], ["cold-war"])
-ev(3, 29, "twenty-third-amendment", "twenty-third-amendment-1961", "The Twenty-third Amendment is certified", "1961",
-   "Residents of Washington, D.C., gain a vote for president.",
-   "On {hd}, the Twenty-third Amendment to the US Constitution was certified, allowing residents of Washington, D.C., to vote in presidential elections.",
-   "1961: 'The Twenty-third Amendment was certified, allowing residents of Washington, D.C., to vote in presidential elections.'",
+ev(3, 29, "twenty-third-amendment", "twenty-third-amendment-1961", "The Twenty-third Amendment is ratified", "1961",
+   "Ratification gives residents of Washington, D.C., a vote for president.",
+   "On {hd}, ratification of the Twenty-third Amendment to the US Constitution was completed, allowing residents of Washington, D.C., to vote in presidential elections.",
+   "1961: 'The Twenty-third Amendment was certified, allowing residents of Washington, D.C., to vote in presidential elections.' (March 29 is when ratification was completed; the event says ratified.)",
    ["americas"], ["cold-war"])
 ev(3, 29, "tyler-born", "john-tyler-born-1790", "John Tyler is born", "1790",
    "The 10th US president is born.",

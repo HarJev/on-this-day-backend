@@ -730,7 +730,8 @@
       "proposedCanonicalId": "gerrymander-newspaper",
       "workingClaim": "Which newspaper published the 1812 cartoon that gave us the word 'gerrymander'? Answer: The Boston Gazette. Proposed additional link on 03-26: gerrymander-cartoon-1812. Other early American papers.",
       "sourceUrls": [
-        "https://www.britannica.com/on-this-day/March-26"
+        "https://www.britannica.com/on-this-day/March-26",
+        "https://www.britannica.com/topic/gerrymandering"
       ]
     },
     {
@@ -872,7 +873,7 @@
       "candidateId": "twenty-third-amendment-voters",
       "kind": "quiz",
       "proposedCanonicalId": "twenty-third-amendment-voters",
-      "workingClaim": "The Twenty-third Amendment, certified in 1961, let residents of which place vote in presidential elections? Answer: Washington, D.C.. Proposed additional link on 03-29: twenty-third-amendment-1961. US territories, whose residents still cannot vote for president.",
+      "workingClaim": "The Twenty-third Amendment, ratified in 1961, let residents of which place vote in presidential elections? Answer: Washington, D.C.. Proposed additional link on 03-29: twenty-third-amendment-1961. US territories, whose residents still cannot vote for president.",
       "sourceUrls": [
         "https://www.britannica.com/on-this-day/March-29"
       ]
@@ -1143,7 +1144,7 @@
       "candidateId": "athens-1896-marathon-winner",
       "kind": "quiz",
       "proposedCanonicalId": "athens-1896-marathon-winner",
-      "workingClaim": "Which Greek runner won the marathon at the first modern Olympics in 1896? Answer: Spyridon Louis. Proposed featured link on 04-06: first-modern-olympics-open-1896. Exact match on the featured Games; later famous marathoners.",
+      "workingClaim": "Which runner won the marathon at the first modern Olympics in 1896? Answer: Spyridon Louis. Proposed featured link on 04-06: first-modern-olympics-open-1896. Exact match on the featured Games; later famous marathoners.",
       "sourceUrls": [
         "https://www.britannica.com/event/Athens-1896-Olympic-Games"
       ]
