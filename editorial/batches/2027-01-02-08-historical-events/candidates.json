@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2027-01-02-08-historical-events",
+  "candidates": [
+    {
+      "candidateId": "jan-02-granada",
+      "kind": "event",
+      "proposedCanonicalId": "granada-surrenders-1492",
+      "workingClaim": "January 2, 1492: On January 2, 1492, Ferdinand II and Isabella I, the first monarchs of a unified Spain, captured Granada, ending a centuries-long series of military campaigns on the Iberian Peninsula.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "jan-02-port-arthur",
+      "kind": "event",
+      "proposedCanonicalId": "port-arthur-surrenders-1905",
+      "workingClaim": "January 2, 1905: On January 2, 1905, during the Russo-Japanese War, Russian forces surrendered Port Arthur (later Lushun, China) to the Japanese.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "jan-02-stardust-comet",
+      "kind": "event",
+      "proposedCanonicalId": "stardust-collects-comet-dust-2004",
+      "workingClaim": "January 2, 2004: On January 2, 2004, NASA's Stardust spacecraft collected dust grains from the comet Wild 2.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "jan-02-palmer-raids",
+      "kind": "event",
+      "proposedCanonicalId": "palmer-raids-1920",
+      "workingClaim": "January 2, 1920: On January 2, 1920, in the Palmer Raids, thousands of people were arrested in more than 30 US cities, accused of being foreign anarchists, communists, or radical leftists.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-2"
+      ]
+    },
+    {
+      "candidateId": "jan-03-tolkien-born",
+      "kind": "event",
+      "proposedCanonicalId": "jrr-tolkien-born-1892",
+      "workingClaim": "January 3, 1892: On January 3, 1892, J.R.R. Tolkien, author of The Hobbit and The Lord of the Rings, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "jan-03-alaska-statehood",
+      "kind": "event",
+      "proposedCanonicalId": "alaska-becomes-49th-state-1959",
+      "workingClaim": "January 3, 1959: On January 3, 1959, Alaska became the 49th state of the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "jan-03-change-4",
+      "kind": "event",
+      "proposedCanonicalId": "change-4-lands-far-side-moon-2019",
+      "workingClaim": "January 3, 2019: On January 3, 2019, China's Chang'e 4 spacecraft, carrying the Yutu-2 rover, landed on the far side of the Moon.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "jan-03-luther-excommunicated",
+      "kind": "event",
+      "proposedCanonicalId": "luther-excommunicated-1521",
+      "workingClaim": "January 3, 1521: On January 3, 1521, Pope Leo X excommunicated Martin Luther.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "jan-03-battle-of-princeton",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-princeton-1777",
+      "workingClaim": "January 3, 1777: On January 3, 1777, during the American Revolution, the Battle of Princeton was fought in New Jersey.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-3"
+      ]
+    },
+    {
+      "candidateId": "jan-04-braille-born",
+      "kind": "event",
+      "proposedCanonicalId": "louis-braille-born-1809",
+      "workingClaim": "January 4, 1809: On January 4, 1809, Louis Braille, who developed the system of printing and writing for the blind that bears his name, was born near Paris.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "jan-04-burma-independence",
+      "kind": "event",
+      "proposedCanonicalId": "burma-gains-independence-1948",
+      "workingClaim": "January 4, 1948: On January 4, 1948, Burma, today called Myanmar, formally gained independence from Great Britain.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "jan-04-burj-khalifa",
+      "kind": "event",
+      "proposedCanonicalId": "burj-khalifa-opens-2010",
+      "workingClaim": "January 4, 2010: On January 4, 2010, the Burj Khalifa, the world's tallest building, officially opened in Dubai.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "jan-04-camus-dies",
+      "kind": "event",
+      "proposedCanonicalId": "albert-camus-dies-1960",
+      "workingClaim": "January 4, 1960: On January 4, 1960, the novelist and playwright Albert Camus was killed in an automobile accident in France.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "jan-04-solomon-northup",
+      "kind": "event",
+      "proposedCanonicalId": "solomon-northup-freed-1853",
+      "workingClaim": "January 4, 1853: On January 4, 1853, Solomon Northup, a free Black man who had been kidnapped in Washington, D.C., and sold into slavery, legally obtained his freedom.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-4"
+      ]
+    },
+    {
+      "candidateId": "jan-05-waiting-for-godot",
+      "kind": "event",
+      "proposedCanonicalId": "waiting-for-godot-premieres-1953",
+      "workingClaim": "January 5, 1953: On January 5, 1953, Samuel Beckett's Waiting for Godot was staged for the first time, in Paris.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "jan-05-golden-gate",
+      "kind": "event",
+      "proposedCanonicalId": "golden-gate-bridge-construction-begins-1933",
+      "workingClaim": "January 5, 1933: On January 5, 1933, construction began on the Golden Gate Bridge, which connects San Francisco with Marin county.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "jan-05-eris-discovered",
+      "kind": "event",
+      "proposedCanonicalId": "eris-discovered-2005",
+      "workingClaim": "January 5, 2005: On January 5, 2005, the dwarf planet Eris was discovered in images taken two years earlier at Palomar Observatory.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "jan-05-ford-five-dollar-day",
+      "kind": "event",
+      "proposedCanonicalId": "ford-five-dollar-day-1914",
+      "workingClaim": "January 5, 1914: On January 5, 1914, Henry Ford raised his workers' pay from $2.40 to $5.00 a day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "jan-05-nellie-tayloe-ross",
+      "kind": "event",
+      "proposedCanonicalId": "nellie-tayloe-ross-governor-1925",
+      "workingClaim": "January 5, 1925: On January 5, 1925, Nellie Tayloe Ross took office in Wyoming, becoming the first woman governor in the United States.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-5"
+      ]
+    },
+    {
+      "candidateId": "jan-06-four-freedoms",
+      "kind": "event",
+      "proposedCanonicalId": "four-freedoms-speech-1941",
+      "workingClaim": "January 6, 1941: On January 6, 1941, US President Franklin D. Roosevelt outlined his Four Freedoms in his State of the Union message.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "jan-06-anne-of-cleves",
+      "kind": "event",
+      "proposedCanonicalId": "henry-viii-marries-anne-of-cleves-1540",
+      "workingClaim": "January 6, 1540: On January 6, 1540, Henry VIII of England married Anne of Cleves, the fourth of his six wives.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "jan-06-britain-recognizes-prc",
+      "kind": "event",
+      "proposedCanonicalId": "britain-recognizes-prc-1950",
+      "workingClaim": "January 6, 1950: On January 6, 1950, Great Britain announced its recognition of the People's Republic of China.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "jan-06-max-bruch-born",
+      "kind": "event",
+      "proposedCanonicalId": "max-bruch-born-1838",
+      "workingClaim": "January 6, 1838: On January 6, 1838, the composer Max Bruch was born in Cologne, in what is today Germany.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "jan-06-richard-ii-born",
+      "kind": "event",
+      "proposedCanonicalId": "richard-ii-born-1367",
+      "workingClaim": "January 6, 1367: On January 6, 1367, the future King Richard II of England was born. He reigned from 1377 to 1399.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-6"
+      ]
+    },
+    {
+      "candidateId": "jan-07-marian-anderson",
+      "kind": "event",
+      "proposedCanonicalId": "marian-anderson-met-debut-1955",
+      "workingClaim": "January 7, 1955: On January 7, 1955, the American contralto Marian Anderson first performed with the Metropolitan Opera in New York City.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "jan-07-phnom-penh",
+      "kind": "event",
+      "proposedCanonicalId": "vietnamese-forces-take-phnom-penh-1979",
+      "workingClaim": "January 7, 1979: On January 7, 1979, Vietnamese forces took control of Phnom Penh, Cambodia, removing the Khmer Rouge and Pol Pot from power.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "jan-07-surveyor-7",
+      "kind": "event",
+      "proposedCanonicalId": "surveyor-7-launched-1968",
+      "workingClaim": "January 7, 1968: On January 7, 1968, the uncrewed US space probe Surveyor 7 was launched; it went on to make a soft landing on the Moon.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "jan-07-egypt-christmas",
+      "kind": "event",
+      "proposedCanonicalId": "egypt-christmas-national-holiday-2003",
+      "workingClaim": "January 7, 2003: On January 7, 2003, Christmas was celebrated as a national holiday in Egypt for the first time.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "jan-07-kufuor-ghana",
+      "kind": "event",
+      "proposedCanonicalId": "kufuor-inaugurated-ghana-2001",
+      "workingClaim": "January 7, 2001: On January 7, 2001, John Kufuor was inaugurated as president of Ghana in the country's first peaceful transition of government.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-7"
+      ]
+    },
+    {
+      "candidateId": "jan-08-anc-founded",
+      "kind": "event",
+      "proposedCanonicalId": "african-national-congress-founded-1912",
+      "workingClaim": "January 8, 1912: On January 8, 1912, the African National Congress was founded in South Africa.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    },
+    {
+      "candidateId": "jan-08-fourteen-points",
+      "kind": "event",
+      "proposedCanonicalId": "wilson-fourteen-points-1918",
+      "workingClaim": "January 8, 1918: On January 8, 1918, US President Woodrow Wilson announced his Fourteen Points, a program for peace after World War I.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    },
+    {
+      "candidateId": "jan-08-de-gaulle-fifth-republic",
+      "kind": "event",
+      "proposedCanonicalId": "de-gaulle-inaugurated-fifth-republic-1959",
+      "workingClaim": "January 8, 1959: On January 8, 1959, Charles de Gaulle was inaugurated as president of France's Fifth Republic.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    },
+    {
+      "candidateId": "jan-08-hawking-born",
+      "kind": "event",
+      "proposedCanonicalId": "stephen-hawking-born-1942",
+      "workingClaim": "January 8, 1942: On January 8, 1942, the physicist Stephen Hawking was born. He developed a theory of exploding black holes.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    },
+    {
+      "candidateId": "jan-08-elvis-born",
+      "kind": "event",
+      "proposedCanonicalId": "elvis-presley-born-1935",
+      "workingClaim": "January 8, 1935: On January 8, 1935, Elvis Presley, widely known as the King of Rock and Roll, was born.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/January-8"
+      ]
+    }
+  ]
+}

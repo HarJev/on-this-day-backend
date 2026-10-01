@@ -1,0 +1,80 @@
+{
+  "days": [
+    {
+      "month": 1,
+      "day": 2,
+      "featuredEventId": "granada-surrenders-1492",
+      "additionalEventIds": [
+        "port-arthur-surrenders-1905",
+        "stardust-collects-comet-dust-2004",
+        "palmer-raids-1920"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 3,
+      "featuredEventId": "jrr-tolkien-born-1892",
+      "additionalEventIds": [
+        "alaska-becomes-49th-state-1959",
+        "change-4-lands-far-side-moon-2019",
+        "luther-excommunicated-1521",
+        "battle-of-princeton-1777"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 4,
+      "featuredEventId": "louis-braille-born-1809",
+      "additionalEventIds": [
+        "burma-gains-independence-1948",
+        "burj-khalifa-opens-2010",
+        "albert-camus-dies-1960",
+        "solomon-northup-freed-1853"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 5,
+      "featuredEventId": "waiting-for-godot-premieres-1953",
+      "additionalEventIds": [
+        "golden-gate-bridge-construction-begins-1933",
+        "eris-discovered-2005",
+        "ford-five-dollar-day-1914",
+        "nellie-tayloe-ross-governor-1925"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 6,
+      "featuredEventId": "four-freedoms-speech-1941",
+      "additionalEventIds": [
+        "henry-viii-marries-anne-of-cleves-1540",
+        "britain-recognizes-prc-1950",
+        "max-bruch-born-1838",
+        "richard-ii-born-1367"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 7,
+      "featuredEventId": "marian-anderson-met-debut-1955",
+      "additionalEventIds": [
+        "vietnamese-forces-take-phnom-penh-1979",
+        "surveyor-7-launched-1968",
+        "egypt-christmas-national-holiday-2003",
+        "kufuor-inaugurated-ghana-2001"
+      ]
+    },
+    {
+      "month": 1,
+      "day": 8,
+      "featuredEventId": "african-national-congress-founded-1912",
+      "additionalEventIds": [
+        "wilson-fourteen-points-1918",
+        "de-gaulle-inaugurated-fifth-republic-1959",
+        "stephen-hawking-born-1942",
+        "elvis-presley-born-1935"
+      ]
+    }
+  ]
+}

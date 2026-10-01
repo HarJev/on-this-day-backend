@@ -2,7 +2,7 @@ import json,glob,os,shutil,sys
 S=sys.argv[1]; out=S+'/merged'
 shutil.rmtree(out,ignore_errors=True); shutil.copytree('content',out)
 ev=json.load(open('content/events.json')); dy=json.load(open('content/daily-events.json'))
-for b in sorted(glob.glob('editorial/batches/2026-1*-historical-events')):
+for b in sorted(glob.glob('editorial/batches/*-historical-events')):
     if os.path.exists(b+'/draft-events.json'):
         ev['events']+=json.load(open(b+'/draft-events.json'))['events']
         dy['days']+=json.load(open(b+'/draft-daily-events.json'))['days']
