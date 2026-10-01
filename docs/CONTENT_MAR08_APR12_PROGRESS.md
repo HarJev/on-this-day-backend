@@ -47,7 +47,7 @@ source's check note from the event ledgers, so run the event generator first.
 | S3: draft events | COMPLETED | `b0308.py`: 180 events, 36 days, five on every day. Every featured event has notification copy within 60/90 characters. |
 | S4: draft quiz questions and links | COMPLETED | `build_mar_apr_cycle.py`: 162 new draft questions (151 multiple choice, 8 true/false, 3 ordering; 62 easy, 98 medium, 2 hard) and 11 relation proposals for unchanged published questions (5 image questions with inherited rights). Every day has at least three quiz hooks. Correct multiple-choice positions are balanced (35/38/40/38); true/false answers are 4 true, 4 false. |
 | S5: validation | COMPLETED | Canonical validators on canonical + all drafts merged (`merge.py`, `ValidateMerged.java`, drafts marked published so publish-time checks run): events valid, quiz valid, only pre-existing warnings (missing images, editorial exceptions, small ancient-rome collection). `EditorialReviewCheckCommand` passes for all six batches. Structural script: dates match days, descriptions start with the date, event and question IDs unique against canonical and every draft batch, no Wikipedia, featured copy within limits. `mvn -B test`: 266 tests, 0 failures (drafts are outside `content/`). |
-| S6: pull request | COMPLETED | PR opened; awaiting a separate review thread (the author does not merge). Next after merge: owner review and promotion, then local DB import. |
+| S6: pull request | COMPLETED | PR #31 opened; awaiting a separate review thread (the author does not merge). Next after merge: owner review and promotion, then local DB import. |
 
 ## Counts
 
