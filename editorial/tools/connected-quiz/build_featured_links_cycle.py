@@ -308,7 +308,7 @@ SRC = {
         "(1903) and chemistry (1911)."),
     B + "topic/Armistice-Day": (
         BR + "Armistice Day",
-        "The armistice was signed at 5:45 am on November 11, 1918, at Compiegne and 'took effect at 11:00 am'; in the "
+        "The armistice was signed at Compiegne early on November 11, 1918, and 'took effect at 11:00 am'; in the "
         "United States the day became Veterans Day in 1954."),
     B + "biography/Wright-brothers": (
         BR + "Wright brothers",
@@ -629,7 +629,7 @@ NEW = [
     (mc("armistice-1918-time", "easy",
         "At what time on November 11, 1918, did the armistice ending fighting on the Western Front take effect?",
         ["Midnight", "6 a.m.", "*11 a.m.", "Noon"],
-        "Signed at 5:45 a.m. at Compiegne, the armistice took effect at 11 a.m.: the eleventh hour of the eleventh day of the eleventh month.",
+        "Signed at Compiegne early that morning, the armistice took effect at 11 a.m.: the eleventh hour of the eleventh day of the eleventh month.",
         [B + "topic/Armistice-Day"], [WW], ["armistice-ends-ww1-fighting-1918"]),
      "11-11", F, ["europe"], ["1800-1945"], "Exact match on the featured armistice."),
     (mc("armistice-day-us-name", "medium",
@@ -924,7 +924,7 @@ NEW = [
     # Dec 17
     (mc("wright-brothers-business", "easy",
         "What business did the Wright brothers run in Dayton, Ohio?",
-        ["A newspaper", "*A bicycle shop", "A hardware store", "A printing press"],
+        ["A grocery store", "*A bicycle shop", "A hardware store", "A clock repair shop"],
         "Profits from their bicycle sales and repair shop helped fund the flights at Kill Devil Hills.",
         [B + "biography/Wright-brothers"], [SCI], ["wright-brothers-first-flight-1903"]),
      "12-17", F, ["americas"], ["1800-1945"], "Other small businesses of the era."),

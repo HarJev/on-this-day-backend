@@ -1408,7 +1408,7 @@
         }
       ],
       "correctOptionId": "11-a-m",
-      "explanation": "Signed at 5:45 a.m. at Compiegne, the armistice took effect at 11 a.m.: the eleventh hour of the eleventh day of the eleventh month.",
+      "explanation": "Signed at Compiegne early that morning, the armistice took effect at 11 a.m.: the eleventh hour of the eleventh day of the eleventh month.",
       "sources": [
         {
           "displayName": "Encyclopaedia Britannica - Armistice Day",
@@ -3059,16 +3059,16 @@
       "prompt": "What business did the Wright brothers run in Dayton, Ohio?",
       "options": [
         {
-          "id": "a-newspaper",
-          "text": "A newspaper"
+          "id": "a-grocery-store",
+          "text": "A grocery store"
         },
         {
           "id": "a-hardware-store",
           "text": "A hardware store"
         },
         {
-          "id": "a-printing-press",
-          "text": "A printing press"
+          "id": "a-clock-repair-shop",
+          "text": "A clock repair shop"
         },
         {
           "id": "a-bicycle-shop",
