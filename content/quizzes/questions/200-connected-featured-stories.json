@@ -5,7 +5,7 @@
       "id": "nasa-absorbed-agency",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "When NASA began operations in 1958, which older US agency did it absorb?",
       "options": [
         {
@@ -44,7 +44,7 @@
       "id": "nasa-act-president",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which US president signed the 1958 law that created NASA?",
       "options": [
         {
@@ -83,7 +83,7 @@
       "id": "first-public-anesthesia-substance",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first successful public demonstration of surgical anesthesia, in Boston in 1846, used which substance?",
       "options": [
         {
@@ -122,7 +122,7 @@
       "id": "ether-given-by-dentist",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The ether at the first public demonstration of surgical anesthesia in 1846 was given by a dentist.",
       "options": [
         {
@@ -153,7 +153,7 @@
       "id": "calder-hall-power-type",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Calder Hall, opened by Queen Elizabeth II in 1956, was the world's first commercial power station of what kind?",
       "options": [
         {
@@ -192,7 +192,7 @@
       "id": "yorktown-british-general",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which British general surrendered his army at Yorktown in 1781?",
       "options": [
         {
@@ -231,7 +231,7 @@
       "id": "yorktown-allied-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which country's forces joined George Washington's army in the siege of Yorktown?",
       "options": [
         {
@@ -270,7 +270,7 @@
       "id": "sydney-opera-house-architect",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which architect designed the Sydney Opera House?",
       "options": [
         {
@@ -309,7 +309,7 @@
       "id": "france-women-first-national-vote",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In what year did women in France first vote in a national election?",
       "options": [
         {
@@ -348,7 +348,7 @@
       "id": "chandrayaan-1-destination",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "India's Chandrayaan-1 mission, launched in 2008, was sent to explore what?",
       "options": [
         {
@@ -387,7 +387,7 @@
       "id": "first-ipod-song-capacity",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Apple's first iPod, introduced in 2001, could hold up to about how many songs?",
       "options": [
         {
@@ -426,7 +426,7 @@
       "id": "un-charter-drafting-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The United Nations came into existence in 1945. In which city did delegates draw up its Charter?",
       "options": [
         {
@@ -465,7 +465,7 @@
       "id": "agincourt-english-king",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which English king won the Battle of Agincourt in 1415?",
       "options": [
         {
@@ -504,7 +504,7 @@
       "id": "agincourt-decisive-troops",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which troops did much to win the Battle of Agincourt for the English?",
       "options": [
         {
@@ -543,7 +543,7 @@
       "id": "agincourt-war",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Battle of Agincourt was fought during which war?",
       "options": [
         {
@@ -582,7 +582,7 @@
       "id": "nyc-subway-first-driver",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who was at the controls of the first train when New York's subway opened in 1904?",
       "options": [
         {
@@ -621,7 +621,7 @@
       "id": "statue-of-liberty-framework-engineer",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which engineer designed the internal framework of the Statue of Liberty?",
       "options": [
         {
@@ -660,7 +660,7 @@
       "id": "war-of-the-worlds-novelist",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Orson Welles's 1938 radio drama The War of the Worlds was based on a novel by whom?",
       "options": [
         {
@@ -699,7 +699,7 @@
       "id": "war-of-the-worlds-landing-state",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In the 1938 War of the Worlds broadcast, the Martian invasion began in which US state?",
       "options": [
         {
@@ -738,7 +738,7 @@
       "id": "ninety-five-theses-target",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Martin Luther's Ninety-five Theses of 1517 attacked the sale of what?",
       "options": [
         {
@@ -778,7 +778,7 @@
       "id": "ninety-five-theses-language",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which language did Martin Luther write the Ninety-five Theses?",
       "options": [
         {
@@ -817,7 +817,7 @@
       "id": "maastricht-treaty-created",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Maastricht Treaty, which took effect in 1993, created what?",
       "options": [
         {
@@ -856,7 +856,7 @@
       "id": "maastricht-country",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which country is Maastricht, where the treaty creating the European Union was signed?",
       "options": [
         {
@@ -895,7 +895,7 @@
       "id": "iss-first-crew-countries",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first crew to live aboard the International Space Station, in 2000, came from which two countries?",
       "options": [
         {
@@ -934,7 +934,7 @@
       "id": "japan-constitution-article-9",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In Article 9 of Japan's constitution, promulgated in 1946, the Japanese people forever renounce what?",
       "options": [
         {
@@ -973,7 +973,7 @@
       "id": "carter-tomb-pharaoh",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In November 1922, Howard Carter's team found the tomb of which pharaoh?",
       "options": [
         {
@@ -1013,7 +1013,7 @@
       "id": "carter-sponsor",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which British aristocrat funded Howard Carter's search for Tutankhamun's tomb?",
       "options": [
         {
@@ -1052,7 +1052,7 @@
       "id": "gunpowder-plot-guard",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who was caught guarding the gunpowder under the House of Lords in 1605?",
       "options": [
         {
@@ -1091,7 +1091,7 @@
       "id": "gunpowder-plot-king",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which king did the Gunpowder Plot conspirators plan to kill?",
       "options": [
         {
@@ -1130,7 +1130,7 @@
       "id": "lincoln-1860-party",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Abraham Lincoln won the 1860 presidential election as the candidate of which party?",
       "options": [
         {
@@ -1169,7 +1169,7 @@
       "id": "lincoln-1860-popular-majority",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Abraham Lincoln won a majority of the popular vote in the 1860 election.",
       "options": [
         {
@@ -1200,7 +1200,7 @@
       "id": "polonium-named-for",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Marie Curie named the element polonium after what?",
       "options": [
         {
@@ -1239,7 +1239,7 @@
       "id": "x-rays-name-reason",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Why did Wilhelm Rontgen call the rays he discovered in 1895 'X' rays?",
       "options": [
         {
@@ -1278,7 +1278,7 @@
       "id": "rontgen-first-physics-nobel",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Wilhelm Rontgen received the first Nobel Prize for Physics.",
       "options": [
         {
@@ -1309,7 +1309,7 @@
       "id": "berlin-wall-builder",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which government built the Berlin Wall in 1961?",
       "options": [
         {
@@ -1348,7 +1348,7 @@
       "id": "luna-17-cargo",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The Soviet Luna 17 mission, launched in 1970, delivered what to the Moon?",
       "options": [
         {
@@ -1387,7 +1387,7 @@
       "id": "armistice-1918-time",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "At what time on November 11, 1918, did the armistice ending fighting on the Western Front take effect?",
       "options": [
         {
@@ -1426,7 +1426,7 @@
       "id": "armistice-day-us-name",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is Armistice Day called in the United States today?",
       "options": [
         {
@@ -1465,7 +1465,7 @@
       "id": "stevenson-novel",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these novels did Robert Louis Stevenson write?",
       "options": [
         {
@@ -1504,7 +1504,7 @@
       "id": "stevenson-birth-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Robert Louis Stevenson born?",
       "options": [
         {
@@ -1543,7 +1543,7 @@
       "id": "ruby-bridges-painter",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which artist painted Ruby Bridges walking to school in The Problem We All Live With?",
       "options": [
         {
@@ -1582,7 +1582,7 @@
       "id": "ruby-bridges-escort",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who escorted six-year-old Ruby Bridges into her New Orleans school in 1960?",
       "options": [
         {
@@ -1621,7 +1621,7 @@
       "id": "league-assembly-first-city",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city did the League of Nations Assembly first meet, in 1920?",
       "options": [
         {
@@ -1660,7 +1660,7 @@
       "id": "bhutto-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Benazir Bhutto, elected in 1988, was the first woman in modern history to lead a Muslim nation. Which country?",
       "options": [
         {
@@ -1699,7 +1699,7 @@
       "id": "steamboat-willie-star",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which character starred in Steamboat Willie, released in 1928?",
       "options": [
         {
@@ -1738,7 +1738,7 @@
       "id": "gettysburg-address-length",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "About how long was Lincoln's Gettysburg Address?",
       "options": [
         {
@@ -1777,7 +1777,7 @@
       "id": "gettysburg-main-speaker",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who gave the two-hour main speech at Gettysburg in 1863, before Lincoln spoke?",
       "options": [
         {
@@ -1816,7 +1816,7 @@
       "id": "first-crewed-balloon-builders",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The first crewed hot-air balloon flight, in 1783, was made in a balloon built by which brothers?",
       "options": [
         {
@@ -1859,7 +1859,7 @@
       "id": "balloon-animal-passengers",
       "type": "true_false",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Before people flew in a Montgolfier balloon, one carried a sheep, a rooster and a duck.",
       "options": [
         {
@@ -1890,7 +1890,7 @@
       "id": "toy-story-woody-voice",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who voiced Woody in Toy Story (1995)?",
       "options": [
         {
@@ -1929,7 +1929,7 @@
       "id": "tardis-disguise",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In Doctor Who, what does the TARDIS look like from the outside?",
       "options": [
         {
@@ -1968,7 +1968,7 @@
       "id": "van-diemens-land",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did Abel Tasman name the island now called Tasmania?",
       "options": [
         {
@@ -2007,7 +2007,7 @@
       "id": "mousetrap-author",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who wrote The Mousetrap, the London play that opened in 1952?",
       "options": [
         {
@@ -2046,7 +2046,7 @@
       "id": "mousetrap-audience-secret",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What are audiences of The Mousetrap traditionally asked not to reveal?",
       "options": [
         {
@@ -2085,7 +2085,7 @@
       "id": "casablanca-song",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which song does Dooley Wilson's character sing in Casablanca (1942)?",
       "options": [
         {
@@ -2124,7 +2124,7 @@
       "id": "nobel-not-original-prize",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these was NOT one of the five prizes Alfred Nobel set up in his 1895 will?",
       "options": [
         {
@@ -2163,7 +2163,7 @@
       "id": "nobel-peace-prize-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city is the Nobel Peace Prize awarded?",
       "options": [
         {
@@ -2202,7 +2202,7 @@
       "id": "albania-independence-city",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city was Albania's independence proclaimed in 1912?",
       "options": [
         {
@@ -2241,7 +2241,7 @@
       "id": "byrd-1929-flight",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In 1929, Richard Byrd's crew made the first flight over which place?",
       "options": [
         {
@@ -2280,7 +2280,7 @@
       "id": "barbados-capital",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What is the capital of Barbados, which became independent in 1966?",
       "options": [
         {
@@ -2319,7 +2319,7 @@
       "id": "montgomery-boycott-length",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How long did the Montgomery bus boycott sparked by Rosa Parks's arrest last?",
       "options": [
         {
@@ -2358,7 +2358,7 @@
       "id": "rosa-parks-organization",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Rosa Parks was secretary of the Montgomery chapter of which organization?",
       "options": [
         {
@@ -2397,7 +2397,7 @@
       "id": "chicago-pile-location",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Enrico Fermi's first nuclear reactor, Chicago Pile-1, was built beneath what?",
       "options": [
         {
@@ -2436,7 +2436,7 @@
       "id": "fermi-birth-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Enrico Fermi, who led the first controlled nuclear chain reaction, was born in which country?",
       "options": [
         {
@@ -2475,7 +2475,7 @@
       "id": "washkansky-survival",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How long did Louis Washkansky, the first heart transplant patient, live after the operation in 1967?",
       "options": [
         {
@@ -2514,7 +2514,7 @@
       "id": "sojourner-named-for",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Mars Pathfinder's rover, Sojourner, was named after whom?",
       "options": [
         {
@@ -2553,7 +2553,7 @@
       "id": "pathfinder-landing-method",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How did Mars Pathfinder cushion its landing in 1997?",
       "options": [
         {
@@ -2592,7 +2592,7 @@
       "id": "schmitt-first-on-moon",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Apollo 17's Harrison Schmitt was the first person of which profession to walk on the Moon?",
       "options": [
         {
@@ -2631,7 +2631,7 @@
       "id": "notre-dame-2019-fire-loss",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which landmark part of Notre-Dame de Paris collapsed in the 2019 fire?",
       "options": [
         {
@@ -2670,7 +2670,7 @@
       "id": "udhr-commission-chair",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who chaired the UN commission that drafted the Universal Declaration of Human Rights?",
       "options": [
         {
@@ -2710,7 +2710,7 @@
       "id": "unicef-headquarters",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In which city is UNICEF headquartered?",
       "options": [
         {
@@ -2749,7 +2749,7 @@
       "id": "unicef-nobel-peace-prize",
       "type": "true_false",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "UNICEF has been awarded the Nobel Peace Prize.",
       "options": [
         {
@@ -2780,7 +2780,7 @@
       "id": "paris-agreement-replaced",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The 2015 Paris climate agreement replaced which earlier treaty?",
       "options": [
         {
@@ -2820,7 +2820,7 @@
       "id": "tasman-company",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Abel Tasman, the first European to sight New Zealand in 1642, sailed for which company?",
       "options": [
         {
@@ -2860,7 +2860,7 @@
       "id": "amundsen-rival",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which explorer reached the South Pole about a month after Roald Amundsen in 1911-12?",
       "options": [
         {
@@ -2899,7 +2899,7 @@
       "id": "bill-of-rights-count",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How many amendments make up the US Bill of Rights?",
       "options": [
         {
@@ -2938,7 +2938,7 @@
       "id": "bill-of-rights-author",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who drafted and introduced the amendments that became the US Bill of Rights?",
       "options": [
         {
@@ -2977,7 +2977,7 @@
       "id": "boston-tea-party-company",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "The tea dumped in the Boston Tea Party belonged to which company?",
       "options": [
         {
@@ -3016,7 +3016,7 @@
       "id": "boston-port-bill",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "How did Britain's Boston Port Bill punish the city after the Boston Tea Party?",
       "options": [
         {
@@ -3055,7 +3055,7 @@
       "id": "wright-brothers-business",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What business did the Wright brothers run in Dayton, Ohio?",
       "options": [
         {
@@ -3094,7 +3094,7 @@
       "id": "nutcracker-composer",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Who composed the music for The Nutcracker?",
       "options": [
         {
@@ -3133,7 +3133,7 @@
       "id": "sugar-plum-fairy-instrument",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which bell-like instrument did Tchaikovsky use for the Sugar Plum Fairy in The Nutcracker?",
       "options": [
         {
@@ -3172,7 +3172,7 @@
       "id": "christmas-carol-first-ghost",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In A Christmas Carol, whose ghost visits Scrooge first?",
       "options": [
         {
@@ -3211,7 +3211,7 @@
       "id": "grimm-tale",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which of these stories is in Grimm's Fairy Tales?",
       "options": [
         {
@@ -3250,7 +3250,7 @@
       "id": "first-basketball-goals",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did James Naismith use as the goals in the first basketball game?",
       "options": [
         {
@@ -3289,7 +3289,7 @@
       "id": "brandenburg-gate-sculpture",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What sculpture stands on top of Berlin's Brandenburg Gate?",
       "options": [
         {
@@ -3328,7 +3328,7 @@
       "id": "brandenburg-quadriga-taker",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which ruler carried the Brandenburg Gate's chariot sculpture off to Paris?",
       "options": [
         {
@@ -3367,7 +3367,7 @@
       "id": "washington-resigned-command",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In December 1783, George Washington resigned as commander in chief of which army?",
       "options": [
         {
@@ -3406,7 +3406,7 @@
       "id": "first-phonograph-medium",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Edison's first phonograph recorded sound on what?",
       "options": [
         {
@@ -3445,7 +3445,7 @@
       "id": "ozymandias-pharaoh",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Shelley's sonnet 'Ozymandias' refers to which Egyptian pharaoh?",
       "options": [
         {
@@ -3484,7 +3484,7 @@
       "id": "sirleaf-country",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Ellen Johnson Sirleaf, the first woman elected head of state of an African country, led which country?",
       "options": [
         {
@@ -3523,7 +3523,7 @@
       "id": "trovatore-chorus",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which famous chorus comes from Verdi's opera Il trovatore?",
       "options": [
         {
@@ -3562,7 +3562,7 @@
       "id": "bosworth-king-killed",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which English king was killed at the Battle of Bosworth Field in 1485?",
       "options": [
         {
@@ -3601,7 +3601,7 @@
       "id": "paris-1944-order-disobeyed",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What order from Hitler did Dietrich von Choltitz, the German commander of Paris, disobey in 1944?",
       "options": [
         {
@@ -3640,7 +3640,7 @@
       "id": "nineteenth-amendment-36th-state",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "Which state's ratification in 1920 made the Nineteenth Amendment, on women's suffrage, part of the Constitution?",
       "options": [
         {
@@ -3680,7 +3680,7 @@
       "id": "kellogg-briand-renounced",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "What did nations renounce in the Kellogg-Briand Pact of 1928?",
       "options": [
         {
@@ -3719,7 +3719,7 @@
       "id": "i-have-a-dream-memorial",
       "type": "multiple_choice",
       "difficulty": "easy",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "In front of which memorial did Martin Luther King, Jr., give his 'I Have a Dream' speech in 1963?",
       "options": [
         {
@@ -3758,7 +3758,7 @@
       "id": "katrina-new-orleans-flooded",
       "type": "multiple_choice",
       "difficulty": "medium",
-      "publicationState": "draft",
+      "publicationState": "published",
       "prompt": "By the day after Hurricane Katrina's landfall in 2005, about how much of New Orleans was underwater?",
       "options": [
         {

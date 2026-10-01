@@ -12,7 +12,7 @@ for the events in the near future, today onwards"). Follows
 | F2: research and source checks | COMPLETED | Every new question's source was opened in the authoring session on 2026-10-01; what each page states is recorded in its ledger source check. |
 | F3: drafts and links | COMPLETED | `editorial/tools/connected-quiz/build_featured_links_cycle.py` writes `editorial/batches/2026-10-01-12-25-connected-quiz/`: 98 new questions (proposed pack `200-connected-featured-stories.json`) and 70 new relations on 57 unchanged published questions. |
 | F4: checks | COMPLETED | Canonical validators on content plus the drafts (`merge.py`, `ValidateMerged.java`): events valid, quiz valid, only the pre-existing small ancient-rome warning. `EditorialReviewCheckCommand` passes. `promote_featured_links.py --check`: all 57 link snapshots match and apply cleanly. `mvn -B test`: 266 tests, 0 failures. |
-| F5: review and publish | NOT_STARTED | The author does not approve its own drafts. The review thread reviews, then runs `promote_featured_links.py --reviewer "NAME"` (with `--reject ID ...` for anything it drops) and commits the result to the same PR before merging. |
+| F5: review and publish | COMPLETED | Reviewed 2026-10-01 by a separate review thread. Two fixes made by the author (Wright brothers distractors; armistice signing time removed). Promoted with `promote_featured_links.py --reviewer "Claude (owner review delegated by Jevaun Harris)"`: pack 200 publishes 98 questions and 57 existing questions gain 70 links. `mvn -B test`: 271 tests, 0 failures. |
 | F6: local import | NOT_STARTED | After merge, the Mac session pulls main and runs the quiz import. Nothing was imported or deployed from this thread. |
 
 ## Coverage

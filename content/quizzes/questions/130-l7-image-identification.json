@@ -46,7 +46,7 @@
       "collectionIds": [
         "science-and-innovation"
       ],
-      "relatedEventIds": ["charles-babbage-born-1791"]
+      "relatedEventIds": ["charles-babbage-born-1791", "ada-lovelace-born-1815"]
     },
     {
       "id": "identify-simon-bolivar",
@@ -561,7 +561,7 @@
         "society-culture-and-ideas",
         "leaders-and-power"
       ],
-      "relatedEventIds": ["mlk-awarded-nobel-peace-prize-1964", "martin-luther-king-jr-assassinated-1968"]
+      "relatedEventIds": ["mlk-awarded-nobel-peace-prize-1964", "martin-luther-king-jr-assassinated-1968", "march-on-washington-1963"]
     },
     {
       "id": "identify-wright-first-flight",
@@ -607,7 +607,8 @@
       ],
       "collectionIds": [
         "science-and-innovation"
-      ]
+      ],
+      "relatedEventIds": ["wright-brothers-first-flight-1903"]
     },
     {
       "id": "identify-apollo-11-moon-photo",

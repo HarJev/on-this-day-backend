@@ -84,7 +84,8 @@
       "correctOptionId": "red-sea",
       "explanation": "The Suez Canal crosses the Isthmus of Suez and links the Mediterranean Sea to the Red Sea.",
       "sources": [{"displayName": "Encyclopaedia Britannica - Suez Canal", "url": "https://www.britannica.com/topic/Suez-Canal"}],
-      "collectionIds": ["science-and-innovation", "exploration-and-exchange"]
+      "collectionIds": ["science-and-innovation", "exploration-and-exchange"],
+      "relatedEventIds": ["suez-canal-opens-1869"]
     },
     {
       "id": "kush-royal-city-meroe",
@@ -168,7 +169,7 @@
       "explanation": "The bust represents Nelson Mandela, who became South Africa's first democratically elected president in 1994.",
       "sources": [{"displayName": "Nelson Mandela Foundation - Biography", "url": "https://www.nelsonmandela.org/biography"}],
       "collectionIds": ["leaders-and-power"],
-      "relatedEventIds": ["nelson-mandela-released-1990"]
+      "relatedEventIds": ["nelson-mandela-released-1990", "nelson-mandela-dies-2013"]
     },
     {
       "id": "order-africa-middle-east-milestones",
