@@ -1,9 +1,32 @@
 # Connected Quiz Content: Active Handoff
 
-Updated: 2026-09-29. Scope: C1-C4 for October 2-8 only.
+Updated: 2026-10-01. Active scope: C1-C3 for October 9-15, plus a
+supplementary pass for October 1-8. The October 2-8 record below is complete.
 
 Read AGENTS.md, CLAUDE.md, CONNECTED_QUIZ_CONTENT_PLAN.md and the editorial
 workflow before continuing. This document is not content approval.
+
+## Cycle: October 9-15 (with October 1-8 supplement)
+
+- Branch: `claude/connected-quiz-oct-09-15` from main `123eeae`, in a
+  separate worktree. Researched by Claude.
+- Batch: `editorial/batches/2026-10-09-15-connected-quiz/` (drafts only).
+- Event dependency: `editorial/batches/2026-10-09-15-historical-events/`
+  (30 `source_verified` drafts, read-only in this cycle).
+- Hard limits: no approval, canonical edits, imports, Daily assignment
+  changes, deployments, uploads or cloud resources.
+
+| Stage | Status | Evidence / next action |
+| --- | --- | --- |
+| C1: Oct 9-15 event and bank audit | IN_PROGRESS | Started 2026-10-01. |
+| C1b: missing strong events | NOT_STARTED | Research only where a genuinely strong event is missing. |
+| C2/C3a: reuse links | NOT_STARTED | Verify each relation against a directly opened source. |
+| C3b: new question drafts | NOT_STARTED | Draft, source-check and validate. |
+| C3c: Oct 1-8 supplement | NOT_STARTED | Extra hooks for published days; drafts only. |
+| C3d: validation and owner checklist | NOT_STARTED | Strict validators, OWNER_REVIEW.md, draft PR. |
+
+If this cycle is interrupted, the next worker resumes at the first stage not
+marked COMPLETED and rechecks main for concurrent content changes first.
 
 ## Checkpoint
 
