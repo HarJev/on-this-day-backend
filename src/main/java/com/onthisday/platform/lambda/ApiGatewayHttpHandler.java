@@ -10,11 +10,15 @@ import com.onthisday.content.TodayContentRepository;
 import com.onthisday.notifications.DeviceRegistrationRepository;
 import com.onthisday.platform.http.ApiRoutes;
 import com.onthisday.platform.http.ErrorResponseWriter;
+import com.onthisday.platform.http.HttpMethod;
+import com.onthisday.platform.http.HttpResponse;
 import com.onthisday.platform.http.HttpRouter;
 import com.onthisday.platform.http.JsonMapperFactory;
 import com.onthisday.platform.quiz.QuizApiServices;
 import com.onthisday.platform.runtime.RuntimeApiComposition;
 import java.time.Clock;
+import java.util.HashMap;
+import java.util.Set;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,6 +27,27 @@ public final class ApiGatewayHttpHandler
 
   private static final Logger LOG = LoggerFactory.getLogger(ApiGatewayHttpHandler.class);
   private static final ObjectMapper OBJECT_MAPPER = JsonMapperFactory.create();
+
+  /**
+   * Largest request body accepted, in characters. Every real request body is well under 1 KB;
+   * anything larger is refused before parsing.
+   */
+  static final int MAX_BODY_LENGTH = 16 * 1024;
+
+  /**
+   * Content reads that are the same for every caller, so CloudFront may serve them from its
+   * cache for {@link #CONTENT_CACHE_CONTROL}. Everything else carries no max-age and is never
+   * cached. Today's content may be up to that long stale after local midnight.
+   */
+  static final Set<String> CACHEABLE_GET_ROUTES =
+      Set.of(
+          "/v1/days/today",
+          "/v1/days/recent",
+          "/v1/events/{eventId}",
+          "/v1/quizzes/catalog",
+          "/v1/quizzes/daily");
+
+  static final String CONTENT_CACHE_CONTROL = "public, max-age=60";
 
   private final ApiGatewayHttpRequestAdapter requestAdapter;
   private final ApiGatewayHttpResponseAdapter responseAdapter;
@@ -90,7 +115,10 @@ public final class ApiGatewayHttpHandler
     try {
       var request = requestAdapter.adapt(event);
       route = router.routeLabel(request);
-      var response = router.route(request);
+      var response =
+          request.body().length() > MAX_BODY_LENGTH
+              ? errorResponseWriter.json(413, "payload_too_large", "Request body is too large.")
+              : withCacheControl(route, request.method(), router.route(request));
       statusCode = response.statusCode();
       return responseAdapter.adapt(response);
     } catch (Exception exception) {
@@ -113,6 +141,17 @@ public final class ApiGatewayHttpHandler
           durationMs,
           requestId);
     }
+  }
+
+  static HttpResponse withCacheControl(String route, HttpMethod method, HttpResponse response) {
+    if (method != HttpMethod.GET
+        || response.statusCode() != 200
+        || !CACHEABLE_GET_ROUTES.contains(route)) {
+      return response;
+    }
+    var headers = new HashMap<>(response.headers());
+    headers.put("cache-control", CONTENT_CACHE_CONTROL);
+    return new HttpResponse(response.statusCode(), headers, response.body());
   }
 
   /** Coarse, stable categories for log-based alerting; 503 is the documented content-unavailable status. */

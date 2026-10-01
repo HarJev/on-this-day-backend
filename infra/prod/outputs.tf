@@ -25,5 +25,10 @@ output "notifications_function_name" {
 
 output "api_base_url" {
   description = "Base URL for the app's release build (ON_THIS_DAY_API_BASE_URL), when deployed."
-  value       = one(aws_apigatewayv2_api.api[*].api_endpoint)
+  value       = one([for d in aws_cloudfront_distribution.api : "https://${d.domain_name}"])
+}
+
+output "api_distribution_id" {
+  description = "CloudFront distribution to subscribe to the Free plan in the console, when deployed."
+  value       = one(aws_cloudfront_distribution.api[*].id)
 }

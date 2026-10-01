@@ -122,24 +122,13 @@ variable "api_lambda_zip_path" {
   default     = null
 }
 
-variable "api_throttle_rate_limit" {
-  description = "Steady-state requests per second across the whole API before the gateway returns 429."
+variable "api_reserved_concurrency" {
+  description = "Hard cap on simultaneous API executions. Leave null until the account's Lambda concurrency quota allows reserving (new accounts start at 10)."
   type        = number
-  default     = 10
+  default     = null
 
   validation {
-    condition     = var.api_throttle_rate_limit > 0 && var.api_throttle_rate_limit <= 50
-    error_message = "Keep the API throttle between 1 and 50 requests a second; raise it deliberately."
-  }
-}
-
-variable "api_throttle_burst_limit" {
-  description = "Short burst of requests the gateway allows above the steady rate."
-  type        = number
-  default     = 20
-
-  validation {
-    condition     = var.api_throttle_burst_limit > 0 && var.api_throttle_burst_limit <= 100
-    error_message = "Keep the API burst between 1 and 100."
+    condition     = coalesce(var.api_reserved_concurrency, 1) >= 1 && coalesce(var.api_reserved_concurrency, 1) <= 20
+    error_message = "Reserve between 1 and 20 concurrent executions; 0 would take the API offline (use it only as a manual kill switch)."
   }
 }
