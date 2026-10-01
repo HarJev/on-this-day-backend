@@ -1,0 +1,1425 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-12-25-connected-quiz",
+  "candidates": [
+    {
+      "candidateId": "nasa-absorbed-agency",
+      "kind": "quiz",
+      "proposedCanonicalId": "nasa-absorbed-agency",
+      "workingClaim": "When NASA began operations in 1958, which older US agency did it absorb? Answer: The National Advisory Committee for Aeronautics. Proposed featured link on 10-01: nasa-begins-operations-1958. Exact match on the featured event; other federal agencies of the era.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+      ]
+    },
+    {
+      "candidateId": "nasa-act-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "nasa-act-president",
+      "workingClaim": "Which US president signed the 1958 law that created NASA? Answer: Dwight D. Eisenhower. Proposed featured link on 10-01: nasa-begins-operations-1958. The founding law of the featured agency; neighbouring presidents.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/"
+      ]
+    },
+    {
+      "candidateId": "first-public-anesthesia-substance",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-public-anesthesia-substance",
+      "workingClaim": "The first successful public demonstration of surgical anesthesia, in Boston in 1846, used which substance? Answer: Ether. Proposed featured link on 10-16: ether-anesthesia-demonstrated-1846. Exact match on the featured demonstration; other historic anesthetics.",
+      "sourceUrls": [
+        "https://libguides.massgeneral.org/mghhistory/ether"
+      ]
+    },
+    {
+      "candidateId": "ether-given-by-dentist",
+      "kind": "quiz",
+      "proposedCanonicalId": "ether-given-by-dentist",
+      "workingClaim": "The ether at the first public demonstration of surgical anesthesia in 1846 was given by a dentist. Answer: True. Proposed featured link on 10-16: ether-anesthesia-demonstrated-1846. A surprising detail of the featured event.",
+      "sourceUrls": [
+        "https://libguides.massgeneral.org/mghhistory/ether"
+      ]
+    },
+    {
+      "candidateId": "calder-hall-power-type",
+      "kind": "quiz",
+      "proposedCanonicalId": "calder-hall-power-type",
+      "workingClaim": "Calder Hall, opened by Queen Elizabeth II in 1956, was the world's first commercial power station of what kind? Answer: Nuclear. Proposed featured link on 10-17: calder-hall-opens-1956. Exact match on the featured opening; other power sources.",
+      "sourceUrls": [
+        "https://www.world-nuclear-news.org/Articles/UK-marks-60th-anniversary-of-Calder-Hall"
+      ]
+    },
+    {
+      "candidateId": "yorktown-british-general",
+      "kind": "quiz",
+      "proposedCanonicalId": "yorktown-british-general",
+      "workingClaim": "Which British general surrendered his army at Yorktown in 1781? Answer: Charles Cornwallis. Proposed featured link on 10-19: cornwallis-surrenders-at-yorktown-1781. Burgoyne, who surrendered at Saratoga in 1777, is the trap.",
+      "sourceUrls": [
+        "https://www.nps.gov/york/index.htm"
+      ]
+    },
+    {
+      "candidateId": "yorktown-allied-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "yorktown-allied-country",
+      "workingClaim": "Which country's forces joined George Washington's army in the siege of Yorktown? Answer: France. Proposed featured link on 10-19: cornwallis-surrenders-at-yorktown-1781. Other European powers of the era.",
+      "sourceUrls": [
+        "https://www.nps.gov/york/index.htm"
+      ]
+    },
+    {
+      "candidateId": "sydney-opera-house-architect",
+      "kind": "quiz",
+      "proposedCanonicalId": "sydney-opera-house-architect",
+      "workingClaim": "Which architect designed the Sydney Opera House? Answer: Jorn Utzon. Proposed featured link on 10-20: sydney-opera-house-opens-1973. Exact match on the featured building; other famous modern architects.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Sydney-Opera-House"
+      ]
+    },
+    {
+      "candidateId": "france-women-first-national-vote",
+      "kind": "quiz",
+      "proposedCanonicalId": "france-women-first-national-vote",
+      "workingClaim": "In what year did women in France first vote in a national election? Answer: 1945. Proposed featured link on 10-21: french-women-vote-nationally-1945. Exact match on the featured vote; a later date than many expect.",
+      "sourceUrls": [
+        "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/"
+      ]
+    },
+    {
+      "candidateId": "chandrayaan-1-destination",
+      "kind": "quiz",
+      "proposedCanonicalId": "chandrayaan-1-destination",
+      "workingClaim": "India's Chandrayaan-1 mission, launched in 2008, was sent to explore what? Answer: The Moon. Proposed featured link on 10-22: chandrayaan-1-launches-2008. Exact match on the featured launch; other destinations of Indian and other missions.",
+      "sourceUrls": [
+        "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html"
+      ]
+    },
+    {
+      "candidateId": "first-ipod-song-capacity",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-ipod-song-capacity",
+      "workingClaim": "Apple's first iPod, introduced in 2001, could hold up to about how many songs? Answer: 1,000. Proposed featured link on 10-23: apple-introduces-ipod-2001. Exact match on the featured launch; order-of-magnitude distractors.",
+      "sourceUrls": [
+        "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
+      ]
+    },
+    {
+      "candidateId": "un-charter-drafting-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "un-charter-drafting-city",
+      "workingClaim": "The United Nations came into existence in 1945. In which city did delegates draw up its Charter? Answer: San Francisco. Proposed featured link on 10-24: un-charter-enters-into-force-1945. New York, the later headquarters, and London, site of the first General Assembly, are the traps.",
+      "sourceUrls": [
+        "https://www.un.org/en/observances/un-day"
+      ]
+    },
+    {
+      "candidateId": "agincourt-english-king",
+      "kind": "quiz",
+      "proposedCanonicalId": "agincourt-english-king",
+      "workingClaim": "Which English king won the Battle of Agincourt in 1415? Answer: Henry V. Proposed featured link on 10-25: battle-of-agincourt-1415. Exact match on the featured battle; other English kings.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Agincourt"
+      ]
+    },
+    {
+      "candidateId": "agincourt-decisive-troops",
+      "kind": "quiz",
+      "proposedCanonicalId": "agincourt-decisive-troops",
+      "workingClaim": "Which troops did much to win the Battle of Agincourt for the English? Answer: Archers with longbows. Proposed featured link on 10-25: battle-of-agincourt-1415. Other battlefield arms, one of them anachronistic only by a little.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Agincourt"
+      ]
+    },
+    {
+      "candidateId": "agincourt-war",
+      "kind": "quiz",
+      "proposedCanonicalId": "agincourt-war",
+      "workingClaim": "The Battle of Agincourt was fought during which war? Answer: The Hundred Years' War. Proposed featured link on 10-25: battle-of-agincourt-1415. Other wars named for a length of time or for England.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Agincourt"
+      ]
+    },
+    {
+      "candidateId": "nyc-subway-first-driver",
+      "kind": "quiz",
+      "proposedCanonicalId": "nyc-subway-first-driver",
+      "workingClaim": "Who was at the controls of the first train when New York's subway opened in 1904? Answer: The city's mayor. Proposed featured link on 10-27: new-york-subway-opens-1904. Exact match on the featured opening; a fun detail.",
+      "sourceUrls": [
+        "https://www.6sqft.com/what-it-was-like-the-day-the-nyc-subway-opened-in-1904/"
+      ]
+    },
+    {
+      "candidateId": "statue-of-liberty-framework-engineer",
+      "kind": "quiz",
+      "proposedCanonicalId": "statue-of-liberty-framework-engineer",
+      "workingClaim": "Which engineer designed the internal framework of the Statue of Liberty? Answer: Gustave Eiffel. Proposed featured link on 10-28: statue-of-liberty-dedicated-1886. Exact match on the featured monument; other famous 19th-century engineers.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Statue-of-Liberty"
+      ]
+    },
+    {
+      "candidateId": "war-of-the-worlds-novelist",
+      "kind": "quiz",
+      "proposedCanonicalId": "war-of-the-worlds-novelist",
+      "workingClaim": "Orson Welles's 1938 radio drama The War of the Worlds was based on a novel by whom? Answer: H.G. Wells. Proposed featured link on 10-30: war-of-the-worlds-broadcast-1938. Exact match on the featured broadcast; other science-fiction pioneers.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
+      ]
+    },
+    {
+      "candidateId": "war-of-the-worlds-landing-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "war-of-the-worlds-landing-state",
+      "workingClaim": "In the 1938 War of the Worlds broadcast, the Martian invasion began in which US state? Answer: New Jersey. Proposed featured link on 10-30: war-of-the-worlds-broadcast-1938. Neighbouring north-eastern states.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938"
+      ]
+    },
+    {
+      "candidateId": "ninety-five-theses-target",
+      "kind": "quiz",
+      "proposedCanonicalId": "ninety-five-theses-target",
+      "workingClaim": "Martin Luther's Ninety-five Theses of 1517 attacked the sale of what? Answer: Indulgences. Proposed featured link on 10-31: luther-ninety-five-theses-1517. Exact match on the featured event; other church goods.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Ninety-five-Theses"
+      ]
+    },
+    {
+      "candidateId": "ninety-five-theses-language",
+      "kind": "quiz",
+      "proposedCanonicalId": "ninety-five-theses-language",
+      "workingClaim": "In which language did Martin Luther write the Ninety-five Theses? Answer: Latin. Proposed featured link on 10-31: luther-ninety-five-theses-1517. German, the language of Luther's later Bible, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Ninety-five-Theses"
+      ]
+    },
+    {
+      "candidateId": "maastricht-treaty-created",
+      "kind": "quiz",
+      "proposedCanonicalId": "maastricht-treaty-created",
+      "workingClaim": "The Maastricht Treaty, which took effect in 1993, created what? Answer: The European Union. Proposed featured link on 11-01: maastricht-treaty-in-force-1993. Exact match on the featured treaty; other European organizations.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Maastricht-Treaty"
+      ]
+    },
+    {
+      "candidateId": "maastricht-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "maastricht-country",
+      "workingClaim": "In which country is Maastricht, where the treaty creating the European Union was signed? Answer: The Netherlands. Proposed featured link on 11-01: maastricht-treaty-in-force-1993. Maastricht lies near the Belgian and German borders.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Maastricht-Treaty"
+      ]
+    },
+    {
+      "candidateId": "iss-first-crew-countries",
+      "kind": "quiz",
+      "proposedCanonicalId": "iss-first-crew-countries",
+      "workingClaim": "The first crew to live aboard the International Space Station, in 2000, came from which two countries? Answer: The United States and Russia. Proposed featured link on 11-02: first-iss-crew-arrives-2000. Exact match on the featured crew; other station partners.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/expedition-1/"
+      ]
+    },
+    {
+      "candidateId": "japan-constitution-article-9",
+      "kind": "quiz",
+      "proposedCanonicalId": "japan-constitution-article-9",
+      "workingClaim": "In Article 9 of Japan's constitution, promulgated in 1946, the Japanese people forever renounce what? Answer: War as a sovereign right. Proposed featured link on 11-03: constitution-of-japan-promulgated-1946. Exact match on the featured constitution; the emperor remains as a symbol.",
+      "sourceUrls": [
+        "https://www.ndl.go.jp/constitution/e/etc/c01.html"
+      ]
+    },
+    {
+      "candidateId": "carter-tomb-pharaoh",
+      "kind": "quiz",
+      "proposedCanonicalId": "carter-tomb-pharaoh",
+      "workingClaim": "In November 1922, Howard Carter's team found the tomb of which pharaoh? Answer: Tutankhamun. Proposed featured link on 11-04: tutankhamun-tomb-found-1922. Exact match on the featured find; other famous pharaohs.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Howard-Carter"
+      ]
+    },
+    {
+      "candidateId": "carter-sponsor",
+      "kind": "quiz",
+      "proposedCanonicalId": "carter-sponsor",
+      "workingClaim": "Which British aristocrat funded Howard Carter's search for Tutankhamun's tomb? Answer: Lord Carnarvon. Proposed featured link on 11-04: tutankhamun-tomb-found-1922. Lord Elgin, of the Parthenon marbles, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Howard-Carter"
+      ]
+    },
+    {
+      "candidateId": "gunpowder-plot-guard",
+      "kind": "quiz",
+      "proposedCanonicalId": "gunpowder-plot-guard",
+      "workingClaim": "Who was caught guarding the gunpowder under the House of Lords in 1605? Answer: Guy Fawkes. Proposed featured link on 11-05: gunpowder-plot-foiled-1605. Catesby, the plot's leader, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Gunpowder-Plot"
+      ]
+    },
+    {
+      "candidateId": "gunpowder-plot-king",
+      "kind": "quiz",
+      "proposedCanonicalId": "gunpowder-plot-king",
+      "workingClaim": "Which king did the Gunpowder Plot conspirators plan to kill? Answer: James I. Proposed featured link on 11-05: gunpowder-plot-foiled-1605. Neighbouring English kings.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Gunpowder-Plot"
+      ]
+    },
+    {
+      "candidateId": "lincoln-1860-party",
+      "kind": "quiz",
+      "proposedCanonicalId": "lincoln-1860-party",
+      "workingClaim": "Abraham Lincoln won the 1860 presidential election as the candidate of which party? Answer: Republican. Proposed featured link on 11-06: lincoln-elected-president-1860. Exact match on the featured election; the other parties of the period.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/United-States-presidential-election-of-1860"
+      ]
+    },
+    {
+      "candidateId": "lincoln-1860-popular-majority",
+      "kind": "quiz",
+      "proposedCanonicalId": "lincoln-1860-popular-majority",
+      "workingClaim": "Abraham Lincoln won a majority of the popular vote in the 1860 election. Answer: False. Proposed featured link on 11-06: lincoln-elected-president-1860. The four-way race is the surprise.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/United-States-presidential-election-of-1860"
+      ]
+    },
+    {
+      "candidateId": "polonium-named-for",
+      "kind": "quiz",
+      "proposedCanonicalId": "polonium-named-for",
+      "workingClaim": "Marie Curie named the element polonium after what? Answer: Her homeland, Poland. Proposed featured link on 11-07: marie-curie-born-1867. Exact match on the featured scientist; playful distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Marie-Curie"
+      ]
+    },
+    {
+      "candidateId": "x-rays-name-reason",
+      "kind": "quiz",
+      "proposedCanonicalId": "x-rays-name-reason",
+      "workingClaim": "Why did Wilhelm Rontgen call the rays he discovered in 1895 'X' rays? Answer: Their nature was unknown. Proposed featured link on 11-08: rontgen-discovers-x-rays-1895. Exact match on the featured discovery.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wilhelm-Rontgen"
+      ]
+    },
+    {
+      "candidateId": "rontgen-first-physics-nobel",
+      "kind": "quiz",
+      "proposedCanonicalId": "rontgen-first-physics-nobel",
+      "workingClaim": "Wilhelm Rontgen received the first Nobel Prize for Physics. Answer: True. Proposed featured link on 11-08: rontgen-discovers-x-rays-1895. Links the featured discovery to the first Nobel Prizes.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wilhelm-Rontgen"
+      ]
+    },
+    {
+      "candidateId": "berlin-wall-builder",
+      "kind": "quiz",
+      "proposedCanonicalId": "berlin-wall-builder",
+      "workingClaim": "Which government built the Berlin Wall in 1961? Answer: East Germany. Proposed featured link on 11-09: berlin-wall-opens-1989. Exact match on the featured event's subject; Central European states.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Berlin-Wall"
+      ]
+    },
+    {
+      "candidateId": "luna-17-cargo",
+      "kind": "quiz",
+      "proposedCanonicalId": "luna-17-cargo",
+      "workingClaim": "The Soviet Luna 17 mission, launched in 1970, delivered what to the Moon? Answer: A remote-controlled rover. Proposed featured link on 11-10: luna-17-lunokhod-launch-1970. Exact match on the featured mission.",
+      "sourceUrls": [
+        "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html"
+      ]
+    },
+    {
+      "candidateId": "armistice-1918-time",
+      "kind": "quiz",
+      "proposedCanonicalId": "armistice-1918-time",
+      "workingClaim": "At what time on November 11, 1918, did the armistice ending fighting on the Western Front take effect? Answer: 11 a.m.. Proposed featured link on 11-11: armistice-ends-ww1-fighting-1918. Exact match on the featured armistice.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Armistice-Day"
+      ]
+    },
+    {
+      "candidateId": "armistice-day-us-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "armistice-day-us-name",
+      "workingClaim": "What is Armistice Day called in the United States today? Answer: Veterans Day. Proposed featured link on 11-11: armistice-ends-ww1-fighting-1918. Other commemorations; Remembrance Day is the Commonwealth name.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Armistice-Day"
+      ]
+    },
+    {
+      "candidateId": "stevenson-novel",
+      "kind": "quiz",
+      "proposedCanonicalId": "stevenson-novel",
+      "workingClaim": "Which of these novels did Robert Louis Stevenson write? Answer: Treasure Island. Proposed featured link on 11-13: robert-louis-stevenson-born-1850. Ivanhoe, by fellow Scot Walter Scott, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Robert-Louis-Stevenson"
+      ]
+    },
+    {
+      "candidateId": "stevenson-birth-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "stevenson-birth-city",
+      "workingClaim": "In which city was Robert Louis Stevenson born? Answer: Edinburgh. Proposed featured link on 11-13: robert-louis-stevenson-born-1850. Other British Isles cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Robert-Louis-Stevenson"
+      ]
+    },
+    {
+      "candidateId": "ruby-bridges-painter",
+      "kind": "quiz",
+      "proposedCanonicalId": "ruby-bridges-painter",
+      "workingClaim": "Which artist painted Ruby Bridges walking to school in The Problem We All Live With? Answer: Norman Rockwell. Proposed featured link on 11-14: ruby-bridges-first-day-1960. Exact match on the featured story; other American painters.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ruby-Bridges"
+      ]
+    },
+    {
+      "candidateId": "ruby-bridges-escort",
+      "kind": "quiz",
+      "proposedCanonicalId": "ruby-bridges-escort",
+      "workingClaim": "Who escorted six-year-old Ruby Bridges into her New Orleans school in 1960? Answer: Federal marshals. Proposed featured link on 11-14: ruby-bridges-first-day-1960. Exact match on the featured day.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ruby-Bridges"
+      ]
+    },
+    {
+      "candidateId": "league-assembly-first-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "league-assembly-first-city",
+      "workingClaim": "In which city did the League of Nations Assembly first meet, in 1920? Answer: Geneva. Proposed featured link on 11-15: league-of-nations-first-assembly-1920. Exact match on the featured assembly; other diplomatic capitals.",
+      "sourceUrls": [
+        "https://www.ungeneva.org/en/about/league-of-nations/overview"
+      ]
+    },
+    {
+      "candidateId": "bhutto-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "bhutto-country",
+      "workingClaim": "Benazir Bhutto, elected in 1988, was the first woman in modern history to lead a Muslim nation. Which country? Answer: Pakistan. Proposed featured link on 11-16: benazir-bhutto-elected-1988. Exact match on the featured election; Bangladesh, Turkey and Indonesia later had women leaders too.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Benazir-Bhutto"
+      ]
+    },
+    {
+      "candidateId": "steamboat-willie-star",
+      "kind": "quiz",
+      "proposedCanonicalId": "steamboat-willie-star",
+      "workingClaim": "Which character starred in Steamboat Willie, released in 1928? Answer: Mickey Mouse. Proposed featured link on 11-18: steamboat-willie-released-1928. Exact match on the featured film; other Disney characters.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Steamboat-Willie"
+      ]
+    },
+    {
+      "candidateId": "gettysburg-address-length",
+      "kind": "quiz",
+      "proposedCanonicalId": "gettysburg-address-length",
+      "workingClaim": "About how long was Lincoln's Gettysburg Address? Answer: About 270 words. Proposed featured link on 11-19: gettysburg-address-1863. Its brevity is the story.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Gettysburg-Address"
+      ]
+    },
+    {
+      "candidateId": "gettysburg-main-speaker",
+      "kind": "quiz",
+      "proposedCanonicalId": "gettysburg-main-speaker",
+      "workingClaim": "Who gave the two-hour main speech at Gettysburg in 1863, before Lincoln spoke? Answer: Edward Everett. Proposed featured link on 11-19: gettysburg-address-1863. Other famous orators of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Gettysburg-Address"
+      ]
+    },
+    {
+      "candidateId": "first-crewed-balloon-builders",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-crewed-balloon-builders",
+      "workingClaim": "The first crewed hot-air balloon flight, in 1783, was made in a balloon built by which brothers? Answer: The Montgolfier brothers. Proposed featured link on 11-21: first-crewed-balloon-flight-1783. Exact match on the featured flight; other famous pairs of brothers.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-21",
+        "https://www.britannica.com/biography/Montgolfier-brothers"
+      ]
+    },
+    {
+      "candidateId": "balloon-animal-passengers",
+      "kind": "quiz",
+      "proposedCanonicalId": "balloon-animal-passengers",
+      "workingClaim": "Before people flew in a Montgolfier balloon, one carried a sheep, a rooster and a duck. Answer: True. Proposed featured link on 11-21: first-crewed-balloon-flight-1783. A fun detail leading to the featured flight.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Montgolfier-brothers"
+      ]
+    },
+    {
+      "candidateId": "toy-story-woody-voice",
+      "kind": "quiz",
+      "proposedCanonicalId": "toy-story-woody-voice",
+      "workingClaim": "Who voiced Woody in Toy Story (1995)? Answer: Tom Hanks. Proposed featured link on 11-22: toy-story-released-1995. Tim Allen, the voice of Buzz Lightyear, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Toy-Story"
+      ]
+    },
+    {
+      "candidateId": "tardis-disguise",
+      "kind": "quiz",
+      "proposedCanonicalId": "tardis-disguise",
+      "workingClaim": "In Doctor Who, what does the TARDIS look like from the outside? Answer: A blue police box. Proposed featured link on 11-23: doctor-who-first-episode-1963. Exact match on the featured show; other British icons.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Doctor-Who"
+      ]
+    },
+    {
+      "candidateId": "van-diemens-land",
+      "kind": "quiz",
+      "proposedCanonicalId": "van-diemens-land",
+      "workingClaim": "What did Abel Tasman name the island now called Tasmania? Answer: Van Diemen's Land. Proposed featured link on 11-24: tasman-reaches-tasmania-1642. Other Dutch-era names in the region.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Abel-Janszoon-Tasman"
+      ]
+    },
+    {
+      "candidateId": "mousetrap-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "mousetrap-author",
+      "workingClaim": "Who wrote The Mousetrap, the London play that opened in 1952? Answer: Agatha Christie. Proposed featured link on 11-25: the-mousetrap-opens-1952. Exact match on the featured play; other British crime and stage writers.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/The-Mousetrap"
+      ]
+    },
+    {
+      "candidateId": "mousetrap-audience-secret",
+      "kind": "quiz",
+      "proposedCanonicalId": "mousetrap-audience-secret",
+      "workingClaim": "What are audiences of The Mousetrap traditionally asked not to reveal? Answer: The ending. Proposed featured link on 11-25: the-mousetrap-opens-1952. A famous theatre tradition.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/The-Mousetrap"
+      ]
+    },
+    {
+      "candidateId": "casablanca-song",
+      "kind": "quiz",
+      "proposedCanonicalId": "casablanca-song",
+      "workingClaim": "Which song does Dooley Wilson's character sing in Casablanca (1942)? Answer: As Time Goes By. Proposed featured link on 11-26: casablanca-premieres-1942. Other famous film songs.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Casablanca-film-by-Curtiz"
+      ]
+    },
+    {
+      "candidateId": "nobel-not-original-prize",
+      "kind": "quiz",
+      "proposedCanonicalId": "nobel-not-original-prize",
+      "workingClaim": "Which of these was NOT one of the five prizes Alfred Nobel set up in his 1895 will? Answer: Economics. Proposed featured link on 11-27: nobel-prizes-established-1895. Exact match on the featured will.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Nobel-Prize"
+      ]
+    },
+    {
+      "candidateId": "nobel-peace-prize-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "nobel-peace-prize-city",
+      "workingClaim": "In which city is the Nobel Peace Prize awarded? Answer: Oslo. Proposed featured link on 11-27: nobel-prizes-established-1895. Stockholm, home of the other prizes, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Nobel-Prize"
+      ]
+    },
+    {
+      "candidateId": "albania-independence-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "albania-independence-city",
+      "workingClaim": "In which city was Albania's independence proclaimed in 1912? Answer: Vlore. Proposed featured link on 11-28: albania-independence-1912. Tirana, the later capital, is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "byrd-1929-flight",
+      "kind": "quiz",
+      "proposedCanonicalId": "byrd-1929-flight",
+      "workingClaim": "In 1929, Richard Byrd's crew made the first flight over which place? Answer: The South Pole. Proposed featured link on 11-29: byrd-flies-over-south-pole-1929. Byrd's disputed 1926 North Pole claim is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Richard-E-Byrd"
+      ]
+    },
+    {
+      "candidateId": "barbados-capital",
+      "kind": "quiz",
+      "proposedCanonicalId": "barbados-capital",
+      "workingClaim": "What is the capital of Barbados, which became independent in 1966? Answer: Bridgetown. Proposed featured link on 11-30: barbados-independence-1966. Other Caribbean capitals.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Barbados"
+      ]
+    },
+    {
+      "candidateId": "montgomery-boycott-length",
+      "kind": "quiz",
+      "proposedCanonicalId": "montgomery-boycott-length",
+      "workingClaim": "How long did the Montgomery bus boycott sparked by Rosa Parks's arrest last? Answer: 381 days. Proposed featured link on 12-01: rosa-parks-arrested-1955. Exact match on the featured story.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Rosa-Parks"
+      ]
+    },
+    {
+      "candidateId": "rosa-parks-organization",
+      "kind": "quiz",
+      "proposedCanonicalId": "rosa-parks-organization",
+      "workingClaim": "Rosa Parks was secretary of the Montgomery chapter of which organization? Answer: The NAACP. Proposed featured link on 12-01: rosa-parks-arrested-1955. Other civic organizations.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Rosa-Parks"
+      ]
+    },
+    {
+      "candidateId": "chicago-pile-location",
+      "kind": "quiz",
+      "proposedCanonicalId": "chicago-pile-location",
+      "workingClaim": "Enrico Fermi's first nuclear reactor, Chicago Pile-1, was built beneath what? Answer: A football stadium. Proposed featured link on 12-02: first-nuclear-chain-reaction-1942. Exact match on the featured experiment; a surprising setting.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Enrico-Fermi"
+      ]
+    },
+    {
+      "candidateId": "fermi-birth-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "fermi-birth-country",
+      "workingClaim": "Enrico Fermi, who led the first controlled nuclear chain reaction, was born in which country? Answer: Italy. Proposed featured link on 12-02: first-nuclear-chain-reaction-1942. Other homelands of wartime physicists.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Enrico-Fermi"
+      ]
+    },
+    {
+      "candidateId": "washkansky-survival",
+      "kind": "quiz",
+      "proposedCanonicalId": "washkansky-survival",
+      "workingClaim": "How long did Louis Washkansky, the first heart transplant patient, live after the operation in 1967? Answer: 18 days. Proposed featured link on 12-03: first-heart-transplant-1967. Same number, different units.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Christiaan-Barnard"
+      ]
+    },
+    {
+      "candidateId": "sojourner-named-for",
+      "kind": "quiz",
+      "proposedCanonicalId": "sojourner-named-for",
+      "workingClaim": "Mars Pathfinder's rover, Sojourner, was named after whom? Answer: Sojourner Truth. Proposed featured link on 12-04: mars-pathfinder-launched-1996. Other civil rights figures.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Mars-Pathfinder"
+      ]
+    },
+    {
+      "candidateId": "pathfinder-landing-method",
+      "kind": "quiz",
+      "proposedCanonicalId": "pathfinder-landing-method",
+      "workingClaim": "How did Mars Pathfinder cushion its landing in 1997? Answer: Air bags. Proposed featured link on 12-04: mars-pathfinder-launched-1996. Other landing methods, including the later sky crane.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Mars-Pathfinder"
+      ]
+    },
+    {
+      "candidateId": "schmitt-first-on-moon",
+      "kind": "quiz",
+      "proposedCanonicalId": "schmitt-first-on-moon",
+      "workingClaim": "Apollo 17's Harrison Schmitt was the first person of which profession to walk on the Moon? Answer: Scientist. Proposed featured link on 12-07: apollo-17-launches-1972. Exact match on the featured mission.",
+      "sourceUrls": [
+        "https://www.nasa.gov/mission/apollo-17/"
+      ]
+    },
+    {
+      "candidateId": "notre-dame-2019-fire-loss",
+      "kind": "quiz",
+      "proposedCanonicalId": "notre-dame-2019-fire-loss",
+      "workingClaim": "Which landmark part of Notre-Dame de Paris collapsed in the 2019 fire? Answer: The spire. Proposed featured link on 12-08: notre-dame-reopens-2024. Exact match on the featured reopening's backstory.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Notre-Dame-de-Paris"
+      ]
+    },
+    {
+      "candidateId": "udhr-commission-chair",
+      "kind": "quiz",
+      "proposedCanonicalId": "udhr-commission-chair",
+      "workingClaim": "Who chaired the UN commission that drafted the Universal Declaration of Human Rights? Answer: Eleanor Roosevelt. Proposed featured link on 12-10: universal-declaration-of-human-rights-1948. Other UN figures of the period.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights"
+      ]
+    },
+    {
+      "candidateId": "unicef-headquarters",
+      "kind": "quiz",
+      "proposedCanonicalId": "unicef-headquarters",
+      "workingClaim": "In which city is UNICEF headquartered? Answer: New York City. Proposed featured link on 12-11: unicef-established-1946. Other UN agency cities.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/UNICEF"
+      ]
+    },
+    {
+      "candidateId": "unicef-nobel-peace-prize",
+      "kind": "quiz",
+      "proposedCanonicalId": "unicef-nobel-peace-prize",
+      "workingClaim": "UNICEF has been awarded the Nobel Peace Prize. Answer: True. Proposed featured link on 12-11: unicef-established-1946. A less-known honour for the featured agency.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/UNICEF"
+      ]
+    },
+    {
+      "candidateId": "paris-agreement-replaced",
+      "kind": "quiz",
+      "proposedCanonicalId": "paris-agreement-replaced",
+      "workingClaim": "The 2015 Paris climate agreement replaced which earlier treaty? Answer: The Kyoto Protocol. Proposed featured link on 12-12: paris-climate-agreement-2015. The Montreal Protocol on the ozone layer is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Paris-Agreement-2015"
+      ]
+    },
+    {
+      "candidateId": "tasman-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "tasman-company",
+      "workingClaim": "Abel Tasman, the first European to sight New Zealand in 1642, sailed for which company? Answer: The Dutch East India Company. Proposed featured link on 12-13: tasman-sights-new-zealand-1642, tasman-reaches-tasmania-1642. Other chartered trading companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Abel-Janszoon-Tasman"
+      ]
+    },
+    {
+      "candidateId": "amundsen-rival",
+      "kind": "quiz",
+      "proposedCanonicalId": "amundsen-rival",
+      "workingClaim": "Which explorer reached the South Pole about a month after Roald Amundsen in 1911-12? Answer: Robert Falcon Scott. Proposed featured link on 12-14: amundsen-reaches-south-pole-1911. Other polar explorers.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Roald-Amundsen"
+      ]
+    },
+    {
+      "candidateId": "bill-of-rights-count",
+      "kind": "quiz",
+      "proposedCanonicalId": "bill-of-rights-count",
+      "workingClaim": "How many amendments make up the US Bill of Rights? Answer: 10. Proposed featured link on 12-15: bill-of-rights-adopted-1791. Exact match on the featured adoption.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution"
+      ]
+    },
+    {
+      "candidateId": "bill-of-rights-author",
+      "kind": "quiz",
+      "proposedCanonicalId": "bill-of-rights-author",
+      "workingClaim": "Who drafted and introduced the amendments that became the US Bill of Rights? Answer: James Madison. Proposed featured link on 12-15: bill-of-rights-adopted-1791. Other founders.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution"
+      ]
+    },
+    {
+      "candidateId": "boston-tea-party-company",
+      "kind": "quiz",
+      "proposedCanonicalId": "boston-tea-party-company",
+      "workingClaim": "The tea dumped in the Boston Tea Party belonged to which company? Answer: The British East India Company. Proposed featured link on 12-16: boston-tea-party-1773. Other chartered companies.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Boston-Tea-Party"
+      ]
+    },
+    {
+      "candidateId": "boston-port-bill",
+      "kind": "quiz",
+      "proposedCanonicalId": "boston-port-bill",
+      "workingClaim": "How did Britain's Boston Port Bill punish the city after the Boston Tea Party? Answer: It closed the port. Proposed featured link on 12-16: boston-tea-party-1773. The featured protest's consequence.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Boston-Tea-Party"
+      ]
+    },
+    {
+      "candidateId": "wright-brothers-business",
+      "kind": "quiz",
+      "proposedCanonicalId": "wright-brothers-business",
+      "workingClaim": "What business did the Wright brothers run in Dayton, Ohio? Answer: A bicycle shop. Proposed featured link on 12-17: wright-brothers-first-flight-1903. Other small businesses of the era.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wright-brothers"
+      ]
+    },
+    {
+      "candidateId": "nutcracker-composer",
+      "kind": "quiz",
+      "proposedCanonicalId": "nutcracker-composer",
+      "workingClaim": "Who composed the music for The Nutcracker? Answer: Pyotr Ilyich Tchaikovsky. Proposed featured link on 12-18: nutcracker-premieres-1892. Other Russian composers.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/The-Nutcracker"
+      ]
+    },
+    {
+      "candidateId": "sugar-plum-fairy-instrument",
+      "kind": "quiz",
+      "proposedCanonicalId": "sugar-plum-fairy-instrument",
+      "workingClaim": "Which bell-like instrument did Tchaikovsky use for the Sugar Plum Fairy in The Nutcracker? Answer: Celesta. Proposed featured link on 12-18: nutcracker-premieres-1892. Other bright-toned instruments.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/The-Nutcracker"
+      ]
+    },
+    {
+      "candidateId": "christmas-carol-first-ghost",
+      "kind": "quiz",
+      "proposedCanonicalId": "christmas-carol-first-ghost",
+      "workingClaim": "In A Christmas Carol, whose ghost visits Scrooge first? Answer: Jacob Marley's. Proposed featured link on 12-19: a-christmas-carol-published-1843. Other characters from the story.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Ebenezer-Scrooge"
+      ]
+    },
+    {
+      "candidateId": "grimm-tale",
+      "kind": "quiz",
+      "proposedCanonicalId": "grimm-tale",
+      "workingClaim": "Which of these stories is in Grimm's Fairy Tales? Answer: Rumpelstiltskin. Proposed featured link on 12-20: grimms-fairy-tales-published-1812. Hans Christian Andersen's Little Mermaid is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Grimms-Fairy-Tales"
+      ]
+    },
+    {
+      "candidateId": "first-basketball-goals",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-basketball-goals",
+      "workingClaim": "What did James Naismith use as the goals in the first basketball game? Answer: Peach baskets. Proposed featured link on 12-21: first-basketball-game-1891. Exact match on the featured game.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/James-Naismith"
+      ]
+    },
+    {
+      "candidateId": "brandenburg-gate-sculpture",
+      "kind": "quiz",
+      "proposedCanonicalId": "brandenburg-gate-sculpture",
+      "workingClaim": "What sculpture stands on top of Berlin's Brandenburg Gate? Answer: A chariot drawn by four horses. Proposed featured link on 12-22: brandenburg-gate-reopens-1989. Exact match on the featured landmark.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Brandenburg-Gate"
+      ]
+    },
+    {
+      "candidateId": "brandenburg-quadriga-taker",
+      "kind": "quiz",
+      "proposedCanonicalId": "brandenburg-quadriga-taker",
+      "workingClaim": "Which ruler carried the Brandenburg Gate's chariot sculpture off to Paris? Answer: Napoleon. Proposed featured link on 12-22: brandenburg-gate-reopens-1989. Other French leaders.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Brandenburg-Gate"
+      ]
+    },
+    {
+      "candidateId": "washington-resigned-command",
+      "kind": "quiz",
+      "proposedCanonicalId": "washington-resigned-command",
+      "workingClaim": "In December 1783, George Washington resigned as commander in chief of which army? Answer: The Continental Army. Proposed featured link on 12-23: washington-resigns-commission-1783. Exact match on the featured event; later Union forces as distractors.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-23"
+      ]
+    },
+    {
+      "candidateId": "first-phonograph-medium",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-phonograph-medium",
+      "workingClaim": "Edison's first phonograph recorded sound on what? Answer: Tinfoil wrapped around a cylinder. Proposed featured link on 12-24: edison-phonograph-patent-application-1877. Later and other recording media.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/phonograph"
+      ]
+    },
+    {
+      "candidateId": "ozymandias-pharaoh",
+      "kind": "quiz",
+      "proposedCanonicalId": "ozymandias-pharaoh",
+      "workingClaim": "Shelley's sonnet 'Ozymandias' refers to which Egyptian pharaoh? Answer: Ramses II. Proposed featured link on 01-11: ozymandias-published-1818. Exact match on the featured poem; other famous pharaohs.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Ozymandias-poem"
+      ]
+    },
+    {
+      "candidateId": "sirleaf-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "sirleaf-country",
+      "workingClaim": "Ellen Johnson Sirleaf, the first woman elected head of state of an African country, led which country? Answer: Liberia. Proposed featured link on 01-16: ellen-johnson-sirleaf-sworn-in-2006. Other West African countries.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ellen-Johnson-Sirleaf"
+      ]
+    },
+    {
+      "candidateId": "trovatore-chorus",
+      "kind": "quiz",
+      "proposedCanonicalId": "trovatore-chorus",
+      "workingClaim": "Which famous chorus comes from Verdi's opera Il trovatore? Answer: The Anvil Chorus. Proposed featured link on 01-19: il-trovatore-premieres-1853. Verdi's own Hebrew Slaves chorus (Nabucco) is the trap.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Il-trovatore"
+      ]
+    },
+    {
+      "candidateId": "bosworth-king-killed",
+      "kind": "quiz",
+      "proposedCanonicalId": "bosworth-king-killed",
+      "workingClaim": "Which English king was killed at the Battle of Bosworth Field in 1485? Answer: Richard III. Proposed featured link on 08-22: battle-of-bosworth-field-1485. Other kings of the Wars of the Roses period.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Bosworth-Field"
+      ]
+    },
+    {
+      "candidateId": "paris-1944-order-disobeyed",
+      "kind": "quiz",
+      "proposedCanonicalId": "paris-1944-order-disobeyed",
+      "workingClaim": "What order from Hitler did Dietrich von Choltitz, the German commander of Paris, disobey in 1944? Answer: To destroy the city. Proposed featured link on 08-25: liberation-of-paris-1944. Exact match on the featured liberation.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Brennt-Paris"
+      ]
+    },
+    {
+      "candidateId": "nineteenth-amendment-36th-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "nineteenth-amendment-36th-state",
+      "workingClaim": "Which state's ratification in 1920 made the Nineteenth Amendment, on women's suffrage, part of the Constitution? Answer: Tennessee. Proposed featured link on 08-26: nineteenth-amendment-certified-1920. Wyoming, an early women's suffrage state, is the trap.",
+      "sourceUrls": [
+        "https://www.archives.gov/milestone-documents/19th-amendment"
+      ]
+    },
+    {
+      "candidateId": "kellogg-briand-renounced",
+      "kind": "quiz",
+      "proposedCanonicalId": "kellogg-briand-renounced",
+      "workingClaim": "What did nations renounce in the Kellogg-Briand Pact of 1928? Answer: War as an instrument of national policy. Proposed featured link on 08-27: kellogg-briand-pact-signed-1928. Other interwar arms and peace topics.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1921-1936/kellogg"
+      ]
+    },
+    {
+      "candidateId": "i-have-a-dream-memorial",
+      "kind": "quiz",
+      "proposedCanonicalId": "i-have-a-dream-memorial",
+      "workingClaim": "In front of which memorial did Martin Luther King, Jr., give his 'I Have a Dream' speech in 1963? Answer: The Lincoln Memorial. Proposed featured link on 08-28: march-on-washington-1963. Other National Mall landmarks.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/March-on-Washington"
+      ]
+    },
+    {
+      "candidateId": "katrina-new-orleans-flooded",
+      "kind": "quiz",
+      "proposedCanonicalId": "katrina-new-orleans-flooded",
+      "workingClaim": "By the day after Hurricane Katrina's landfall in 2005, about how much of New Orleans was underwater? Answer: About 80 percent. Proposed featured link on 08-29: hurricane-katrina-landfall-2005. Exact match on the featured disaster.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Hurricane-Katrina"
+      ]
+    },
+    {
+      "candidateId": "link-persons-case-senate",
+      "kind": "quiz",
+      "proposedCanonicalId": "persons-case-senate",
+      "workingClaim": "Propose relations from unchanged published persons-case-senate: 10-18 (featured, persons-case-decided-1929): Exact match: the question asks what the Persons Case opened to women, and cites the event's own source.",
+      "sourceUrls": [
+        "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/"
+      ]
+    },
+    {
+      "candidateId": "link-smallpox-last-natural-case-country",
+      "kind": "quiz",
+      "proposedCanonicalId": "smallpox-last-natural-case-country",
+      "workingClaim": "Propose relations from unchanged published smallpox-last-natural-case-country: 10-26 (featured, last-natural-smallpox-case-1977): Exact match: the question asks where the last natural case occurred in 1977.",
+      "sourceUrls": [
+        "https://www.who.int/emergencies/situations/smallpox/"
+      ]
+    },
+    {
+      "candidateId": "link-identify-statue-of-liberty",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-statue-of-liberty",
+      "workingClaim": "Propose relations from unchanged published identify-statue-of-liberty: 10-28 (featured, statue-of-liberty-dedicated-1886): The photograph identifies the statue whose dedication is the featured event.",
+      "sourceUrls": [
+        "https://www.loc.gov/item/ny1251/",
+        "https://www.britannica.com/topic/Statue-of-Liberty"
+      ]
+    },
+    {
+      "candidateId": "link-turkish-republic-founder",
+      "kind": "quiz",
+      "proposedCanonicalId": "turkish-republic-founder",
+      "workingClaim": "Propose relations from unchanged published turkish-republic-founder: 10-29 (featured, turkish-republic-proclaimed-1923): Exact match: the founding president of the republic proclaimed that day; same source as the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Kemal-Ataturk"
+      ]
+    },
+    {
+      "candidateId": "link-luther-movement",
+      "kind": "quiz",
+      "proposedCanonicalId": "luther-movement",
+      "workingClaim": "Propose relations from unchanged published luther-movement: 10-31 (featured, luther-ninety-five-theses-1517): The theses began the Reformation the question asks about; already related to Luther's death. 11-10 (additional, martin-luther-born-1483): About the man born that day.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-18",
+        "https://www.britannica.com/event/Ninety-five-Theses"
+      ]
+    },
+    {
+      "candidateId": "link-identify-marie-curie",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-marie-curie",
+      "workingClaim": "Propose relations from unchanged published identify-marie-curie: 11-07 (featured, marie-curie-born-1867): The photograph identifies Curie, whose birth is the featured event.",
+      "sourceUrls": [
+        "https://www.loc.gov/item/2014687674/",
+        "https://www.britannica.com/biography/Marie-Curie"
+      ]
+    },
+    {
+      "candidateId": "link-order-science-discoveries",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-science-discoveries",
+      "workingClaim": "Propose relations from unchanged published order-science-discoveries: 11-08 (featured, rontgen-discovers-x-rays-1895): One ordering item is 'Wilhelm Rontgen discovers X-rays', the event. 12-02 (featured, first-nuclear-chain-reaction-1942): One ordering item is 'First controlled nuclear chain reaction', the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wilhelm-Rontgen",
+        "https://www.britannica.com/on-this-day/December-2",
+        "https://www.britannica.com/biography/Enrico-Fermi"
+      ]
+    },
+    {
+      "candidateId": "link-order-cold-war-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-cold-war-milestones",
+      "workingClaim": "Propose relations from unchanged published order-cold-war-milestones: 11-09 (featured, berlin-wall-opens-1989): One ordering item is 'Berlin Wall opens', the event; already related to NATO's founding.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Berlin-Wall",
+        "https://history.state.gov/milestones/1989-1992/fall-of-communism"
+      ]
+    },
+    {
+      "candidateId": "link-rosetta-comet-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "rosetta-comet-name",
+      "workingClaim": "Propose relations from unchanged published rosetta-comet-name: 11-12 (featured, philae-lands-on-comet-2014): Philae was Rosetta's lander and landed on the comet the question names; already related to Rosetta's end.",
+      "sourceUrls": [
+        "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet"
+      ]
+    },
+    {
+      "candidateId": "link-order-space-exploration-firsts",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-space-exploration-firsts",
+      "workingClaim": "Propose relations from unchanged published order-space-exploration-firsts: 11-12 (featured, philae-lands-on-comet-2014): One ordering item is 'Philae lands on a comet', the event. 12-07 (featured, apollo-17-launches-1972): One ordering item is 'Apollo 17 ... launches', the event.",
+      "sourceUrls": [
+        "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+        "https://www.nasa.gov/mission/apollo-17/"
+      ]
+    },
+    {
+      "candidateId": "link-order-women-heads-government",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-women-heads-government",
+      "workingClaim": "Propose relations from unchanged published order-women-heads-government: 11-16 (featured, benazir-bhutto-elected-1988): One ordering item is Benazir Bhutto, whose 1988 election is the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Benazir-Bhutto"
+      ]
+    },
+    {
+      "candidateId": "link-suez-canal-construction-decade",
+      "kind": "quiz",
+      "proposedCanonicalId": "suez-canal-construction-decade",
+      "workingClaim": "Propose relations from unchanged published suez-canal-construction-decade: 11-17 (featured, suez-canal-opens-1869): Exact match: the question states the 1869 opening after ten years of work.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "link-suez-canal-seas",
+      "kind": "quiz",
+      "proposedCanonicalId": "suez-canal-seas",
+      "workingClaim": "Propose relations from unchanged published suez-canal-seas: 11-17 (featured, suez-canal-opens-1869): Asks what the canal opened that day connects.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Suez-Canal"
+      ]
+    },
+    {
+      "candidateId": "link-order-film-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-film-milestones",
+      "workingClaim": "Propose relations from unchanged published order-film-milestones: 11-18 (featured, steamboat-willie-released-1928): One ordering item is 'Steamboat Willie is released', the event. 11-22 (featured, toy-story-released-1995): One ordering item is 'Toy Story is released', the event. 11-26 (featured, casablanca-premieres-1942): One ordering item is 'Casablanca premieres', the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18",
+        "https://www.britannica.com/on-this-day/November-22",
+        "https://www.britannica.com/on-this-day/November-26"
+      ]
+    },
+    {
+      "candidateId": "link-madero-mexican-revolution",
+      "kind": "quiz",
+      "proposedCanonicalId": "madero-mexican-revolution",
+      "workingClaim": "Propose relations from unchanged published madero-mexican-revolution: 11-20 (featured, mexican-revolution-begins-1910): Exact match: Madero's revolt is the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "link-mexican-revolution-began-1910",
+      "kind": "quiz",
+      "proposedCanonicalId": "mexican-revolution-began-1910",
+      "workingClaim": "Propose relations from unchanged published mexican-revolution-began-1910: 11-20 (featured, mexican-revolution-begins-1910): States the year the featured revolution began.",
+      "sourceUrls": [
+        "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/overview.html"
+      ]
+    },
+    {
+      "candidateId": "link-tasman-reaches-tasmania",
+      "kind": "quiz",
+      "proposedCanonicalId": "tasman-reaches-tasmania",
+      "workingClaim": "Propose relations from unchanged published tasman-reaches-tasmania: 11-24 (featured, tasman-reaches-tasmania-1642): Exact match: the question asks who reached Tasmania that day; same source. 12-13 (featured, tasman-sights-new-zealand-1642): Same voyage and navigator as the featured sighting of New Zealand.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-24",
+        "https://www.britannica.com/biography/Abel-Janszoon-Tasman"
+      ]
+    },
+    {
+      "candidateId": "link-barnard-first-heart-transplant",
+      "kind": "quiz",
+      "proposedCanonicalId": "barnard-first-heart-transplant",
+      "workingClaim": "Propose relations from unchanged published barnard-first-heart-transplant: 12-03 (featured, first-heart-transplant-1967): Exact match on the featured operation.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-3",
+        "https://www.britannica.com/biography/Christiaan-Barnard"
+      ]
+    },
+    {
+      "candidateId": "link-identify-nelson-mandela",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-nelson-mandela",
+      "workingClaim": "Propose relations from unchanged published identify-nelson-mandela: 12-05 (featured, nelson-mandela-dies-2013): The bust identifies Mandela, whose death is the featured event; already related to his release.",
+      "sourceUrls": [
+        "https://www.nelsonmandela.org/biography"
+      ]
+    },
+    {
+      "candidateId": "link-south-africa-1994-president",
+      "kind": "quiz",
+      "proposedCanonicalId": "south-africa-1994-president",
+      "workingClaim": "Propose relations from unchanged published south-africa-1994-president: 12-05 (featured, nelson-mandela-dies-2013): The event description calls Mandela South Africa's first Black president; the question asks who won in 1994.",
+      "sourceUrls": [
+        "https://www.nelsonmandela.org/biography"
+      ]
+    },
+    {
+      "candidateId": "link-mandela-years-in-prison",
+      "kind": "quiz",
+      "proposedCanonicalId": "mandela-years-in-prison",
+      "workingClaim": "Propose relations from unchanged published mandela-years-in-prison: 12-05 (featured, nelson-mandela-dies-2013): A defining fact of the life the featured event marks.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-11"
+      ]
+    },
+    {
+      "candidateId": "link-anglo-irish-treaty-free-state",
+      "kind": "quiz",
+      "proposedCanonicalId": "anglo-irish-treaty-free-state",
+      "workingClaim": "Propose relations from unchanged published anglo-irish-treaty-free-state: 12-06 (featured, anglo-irish-treaty-1921): Exact match on the featured treaty; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "link-hunchback-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "hunchback-name",
+      "workingClaim": "Propose relations from unchanged published hunchback-name: 12-08 (featured, notre-dame-reopens-2024): Hugo's novel is named for the cathedral and helped spur its restoration; already related to Hugo's birth.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Victor-Hugo",
+        "https://www.britannica.com/topic/Notre-Dame-de-Paris"
+      ]
+    },
+    {
+      "candidateId": "link-smallpox-only-eradicated-infectious-disease",
+      "kind": "quiz",
+      "proposedCanonicalId": "smallpox-only-eradicated-infectious-disease",
+      "workingClaim": "Propose relations from unchanged published smallpox-only-eradicated-infectious-disease: 12-09 (featured, smallpox-declared-eradicated-1979): Exact match: the question states the eradication.",
+      "sourceUrls": [
+        "https://www.who.int/emergencies/situations/smallpox/"
+      ]
+    },
+    {
+      "candidateId": "link-universal-declaration-binding-treaty",
+      "kind": "quiz",
+      "proposedCanonicalId": "universal-declaration-binding-treaty",
+      "workingClaim": "Propose relations from unchanged published universal-declaration-binding-treaty: 12-10 (featured, universal-declaration-of-human-rights-1948): Exact match on the featured declaration; Britannica confirms it is not legally binding.",
+      "sourceUrls": [
+        "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+        "https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights"
+      ]
+    },
+    {
+      "candidateId": "link-amundsen-first-south-pole",
+      "kind": "quiz",
+      "proposedCanonicalId": "amundsen-first-south-pole",
+      "workingClaim": "Propose relations from unchanged published amundsen-first-south-pole: 12-14 (featured, amundsen-reaches-south-pole-1911): Exact match on the featured achievement; already related to Scott's 1902 record.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-14",
+        "https://www.britannica.com/biography/Roald-Amundsen"
+      ]
+    },
+    {
+      "candidateId": "link-identify-wright-first-flight",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-wright-first-flight",
+      "workingClaim": "Propose relations from unchanged published identify-wright-first-flight: 12-17 (featured, wright-brothers-first-flight-1903): Exact match: the photograph records the featured flight.",
+      "sourceUrls": [
+        "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000"
+      ]
+    },
+    {
+      "candidateId": "link-identify-george-washington",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-george-washington",
+      "workingClaim": "Propose relations from unchanged published identify-george-washington: 12-23 (featured, washington-resigns-commission-1783): The portrait identifies Washington, whose resignation is the featured event. 12-25 (additional, washington-crosses-delaware-1776): The portrait identifies Washington, who led the crossing.",
+      "sourceUrls": [
+        "https://www.metmuseum.org/art/collection/search/16584",
+        "https://www.britannica.com/on-this-day/December-23"
+      ]
+    },
+    {
+      "candidateId": "link-phonograph-patent-inventor",
+      "kind": "quiz",
+      "proposedCanonicalId": "phonograph-patent-inventor",
+      "workingClaim": "Propose relations from unchanged published phonograph-patent-inventor: 12-24 (featured, edison-phonograph-patent-application-1877): The question asks who patented the phonograph; the event is Edison's application for that patent.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/February-19",
+        "https://www.britannica.com/technology/phonograph"
+      ]
+    },
+    {
+      "candidateId": "link-naismith-first-basketball",
+      "kind": "quiz",
+      "proposedCanonicalId": "naismith-first-basketball",
+      "workingClaim": "Propose relations from unchanged published naismith-first-basketball: 12-21 (featured, first-basketball-game-1891): Exact match on the featured game; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-21"
+      ]
+    },
+    {
+      "candidateId": "link-james-webb-telescope-launch",
+      "kind": "quiz",
+      "proposedCanonicalId": "james-webb-telescope-launch",
+      "workingClaim": "Propose relations from unchanged published james-webb-telescope-launch: 12-25 (featured, james-webb-telescope-launched-2021): Exact match on the featured launch; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-25"
+      ]
+    },
+    {
+      "candidateId": "link-identify-martin-luther-king-jr",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-martin-luther-king-jr",
+      "workingClaim": "Propose relations from unchanged published identify-martin-luther-king-jr: 08-28 (featured, march-on-washington-1963): The photograph identifies King, whose 'I Have a Dream' speech closed the featured march.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+        "https://www.britannica.com/event/March-on-Washington"
+      ]
+    },
+    {
+      "candidateId": "link-john-paul-ii-first-non-italian",
+      "kind": "quiz",
+      "proposedCanonicalId": "john-paul-ii-first-non-italian",
+      "workingClaim": "Propose relations from unchanged published john-paul-ii-first-non-italian: 10-16 (additional, john-paul-ii-elected-pope-1978): Exact match: the question is about his election on October 16, 1978.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Saint-John-Paul-II"
+      ]
+    },
+    {
+      "candidateId": "link-alaska-purchase-seller",
+      "kind": "quiz",
+      "proposedCanonicalId": "alaska-purchase-seller",
+      "workingClaim": "Propose relations from unchanged published alaska-purchase-seller: 10-18 (additional, alaska-transferred-to-us-1867): The transfer completed the purchase the question asks about.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/March-30"
+      ]
+    },
+    {
+      "candidateId": "link-nightingale-sanitation-statistics",
+      "kind": "quiz",
+      "proposedCanonicalId": "nightingale-sanitation-statistics",
+      "workingClaim": "Propose relations from unchanged published nightingale-sanitation-statistics: 10-21 (additional, nightingale-departs-for-crimea-1854): Her diagrams drew on the Crimean War hospital work she set out for that day.",
+      "sourceUrls": [
+        "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician"
+      ]
+    },
+    {
+      "candidateId": "link-order-peace-treaties",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-peace-treaties",
+      "workingClaim": "Propose relations from unchanged published order-peace-treaties: 10-24 (additional, peace-of-westphalia-signed-1648): One ordering item is the Peace of Westphalia, the event. 11-21 (additional, dayton-accords-1995): One ordering item is the Dayton Accords, the event. 11-27 (additional, treaty-of-neuilly-1919): One ordering item is the Treaty of Neuilly, the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Peace-of-Westphalia",
+        "https://www.britannica.com/on-this-day/November-21",
+        "https://www.britannica.com/on-this-day/November-27"
+      ]
+    },
+    {
+      "candidateId": "link-order-african-independence-1960s",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-african-independence-1960s",
+      "workingClaim": "Propose relations from unchanged published order-african-independence-1960s: 10-24 (additional, zambia-independence-1964): One ordering item is Zambia's independence, the event. 12-09 (additional, tanganyika-independence-1961): One ordering item is Tanganyika's independence, the event.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/zambia",
+        "https://www.britannica.com/on-this-day/December-9"
+      ]
+    },
+    {
+      "candidateId": "link-amsterdam-toll-privilege",
+      "kind": "quiz",
+      "proposedCanonicalId": "amsterdam-toll-privilege",
+      "workingClaim": "Propose relations from unchanged published amsterdam-toll-privilege: 10-27 (additional, amsterdam-toll-privilege-1275): Exact match on the event.",
+      "sourceUrls": [
+        "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/"
+      ]
+    },
+    {
+      "candidateId": "link-order-modern-communication-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-modern-communication-milestones",
+      "workingClaim": "Propose relations from unchanged published order-modern-communication-milestones: 10-29 (additional, first-arpanet-message-1969): One ordering item is the first ARPANET message, the event.",
+      "sourceUrls": [
+        "https://www.universityofcalifornia.edu/news/lo-and-behold-internet"
+      ]
+    },
+    {
+      "candidateId": "link-order-political-turning-points",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-political-turning-points",
+      "workingClaim": "Propose relations from unchanged published order-political-turning-points: 10-30 (additional, october-manifesto-1905): One ordering item is the October Manifesto, the event. 11-07 (additional, bolsheviks-take-power-1917): One ordering item is the Bolsheviks taking power, the event. 11-09 (additional, coup-of-18-brumaire-1799): One ordering item is the Brumaire coup, the event. 11-17 (additional, velvet-revolution-begins-1989): One ordering item is the start of the Velvet Revolution, the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/October-Manifesto",
+        "https://www.britannica.com/event/Russian-Revolution",
+        "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
+        "https://www.britannica.com/on-this-day/November-17"
+      ]
+    },
+    {
+      "candidateId": "link-aztec-capital-city",
+      "kind": "quiz",
+      "proposedCanonicalId": "aztec-capital-city",
+      "workingClaim": "Propose relations from unchanged published aztec-capital-city: 11-08 (additional, cortes-enters-tenochtitlan-1519): Cortes entered the Aztec capital the question names.",
+      "sourceUrls": [
+        "https://www.britannica.com/place/Tenochtitlan"
+      ]
+    },
+    {
+      "candidateId": "link-identify-sun-yat-sen",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-sun-yat-sen",
+      "workingClaim": "Propose relations from unchanged published identify-sun-yat-sen: 11-12 (additional, sun-yat-sen-born-1866): The portrait identifies Sun Yat-sen, born that day.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Sun-Yat-sen"
+      ]
+    },
+    {
+      "candidateId": "link-dessalines-vertieres",
+      "kind": "quiz",
+      "proposedCanonicalId": "dessalines-vertieres",
+      "workingClaim": "Propose relations from unchanged published dessalines-vertieres: 11-18 (additional, battle-of-vertieres-1803): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-18"
+      ]
+    },
+    {
+      "candidateId": "link-whaleship-essex-moby-dick",
+      "kind": "quiz",
+      "proposedCanonicalId": "whaleship-essex-moby-dick",
+      "workingClaim": "Propose relations from unchanged published whaleship-essex-moby-dick: 11-20 (additional, whaleship-essex-sunk-1820): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-20"
+      ]
+    },
+    {
+      "candidateId": "link-ley-juarez-special-courts",
+      "kind": "quiz",
+      "proposedCanonicalId": "ley-juarez-special-courts",
+      "workingClaim": "Propose relations from unchanged published ley-juarez-special-courts: 11-23 (additional, ley-juarez-passed-1855): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-23"
+      ]
+    },
+    {
+      "candidateId": "link-tehran-conference-big-three",
+      "kind": "quiz",
+      "proposedCanonicalId": "tehran-conference-big-three",
+      "workingClaim": "Propose relations from unchanged published tehran-conference-big-three: 11-28 (additional, tehran-conference-opens-1943): Exact match on the event; already related to Yalta.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/November-28"
+      ]
+    },
+    {
+      "candidateId": "link-locarno-western-europe",
+      "kind": "quiz",
+      "proposedCanonicalId": "locarno-western-europe",
+      "workingClaim": "Propose relations from unchanged published locarno-western-europe: 12-01 (additional, pact-of-locarno-signed-1925): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-1"
+      ]
+    },
+    {
+      "candidateId": "link-henry-ford-method",
+      "kind": "quiz",
+      "proposedCanonicalId": "henry-ford-method",
+      "workingClaim": "Propose relations from unchanged published henry-ford-method: 12-01 (additional, ford-moving-assembly-line-1913): Asks about the assembly-line methods the event introduced.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/April-7"
+      ]
+    },
+    {
+      "candidateId": "link-napoleon-crowns-himself",
+      "kind": "quiz",
+      "proposedCanonicalId": "napoleon-crowns-himself",
+      "workingClaim": "Propose relations from unchanged published napoleon-crowns-himself: 12-02 (additional, napoleon-crowned-emperor-1804): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-2"
+      ]
+    },
+    {
+      "candidateId": "link-mozart-opera",
+      "kind": "quiz",
+      "proposedCanonicalId": "mozart-opera",
+      "workingClaim": "Propose relations from unchanged published mozart-opera: 12-05 (additional, mozart-dies-1791): About the composer who died that day; already related to his birth.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart"
+      ]
+    },
+    {
+      "candidateId": "link-finland-independence-1917",
+      "kind": "quiz",
+      "proposedCanonicalId": "finland-independence-1917",
+      "workingClaim": "Propose relations from unchanged published finland-independence-1917: 12-06 (additional, finland-independence-1917): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-6"
+      ]
+    },
+    {
+      "candidateId": "link-order-second-world-war-milestones",
+      "kind": "quiz",
+      "proposedCanonicalId": "order-second-world-war-milestones",
+      "workingClaim": "Propose relations from unchanged published order-second-world-war-milestones: 12-07 (additional, pearl-harbor-attack-1941): One ordering item is the Pearl Harbor attack, the event.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Pearl-Harbor-attack"
+      ]
+    },
+    {
+      "candidateId": "link-first-nobel-prizes-anniversary",
+      "kind": "quiz",
+      "proposedCanonicalId": "first-nobel-prizes-anniversary",
+      "workingClaim": "Propose relations from unchanged published first-nobel-prizes-anniversary: 12-10 (additional, first-nobel-prizes-awarded-1901): Exact match on the event; same source.",
+      "sourceUrls": [
+        "https://www.britannica.com/on-this-day/December-10"
+      ]
+    },
+    {
+      "candidateId": "link-identify-ada-lovelace",
+      "kind": "quiz",
+      "proposedCanonicalId": "identify-ada-lovelace",
+      "workingClaim": "Propose relations from unchanged published identify-ada-lovelace: 12-10 (additional, ada-lovelace-born-1815): The portrait identifies Lovelace, born that day; already related to Babbage.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ada-Lovelace"
+      ]
+    },
+    {
+      "candidateId": "link-scream-painter",
+      "kind": "quiz",
+      "proposedCanonicalId": "scream-painter",
+      "workingClaim": "Propose relations from unchanged published scream-painter: 12-12 (additional, edvard-munch-born-1863): Asks who painted The Scream; the painter was born that day.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/The-Scream-by-Munch"
+      ]
+    },
+    {
+      "candidateId": "link-pride-prejudice-heroine",
+      "kind": "quiz",
+      "proposedCanonicalId": "pride-prejudice-heroine",
+      "workingClaim": "Propose relations from unchanged published pride-prejudice-heroine: 12-16 (additional, jane-austen-born-1775): About Austen's best-known novel; she was born that day.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Pride-and-Prejudice"
+      ]
+    },
+    {
+      "candidateId": "link-champollion-writing-system",
+      "kind": "quiz",
+      "proposedCanonicalId": "champollion-writing-system",
+      "workingClaim": "Propose relations from unchanged published champollion-writing-system: 12-23 (additional, champollion-born-1790): About the decipherment by the scholar born that day.",
+      "sourceUrls": [
+        "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf"
+      ]
+    }
+  ]
+}

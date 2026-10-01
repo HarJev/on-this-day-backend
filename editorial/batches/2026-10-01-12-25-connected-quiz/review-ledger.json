@@ -1,0 +1,3933 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-01-12-25-connected-quiz",
+  "entries": [
+    {
+      "candidateId": "nasa-absorbed-agency",
+      "canonicalId": "nasa-absorbed-agency",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On October 1, 1958, 'the National Aeronautics and Space Administration (NASA) officially began operations', incorporating the National Advisory Committee for Aeronautics (NACA); 'President Dwight D. Eisenhower signed into law the National Aeronautics and Space Act' in July 1958."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured event; other federal agencies of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nasa-act-president",
+      "canonicalId": "nasa-act-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/65-years-ago-nasa-begins-operations/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On October 1, 1958, 'the National Aeronautics and Space Administration (NASA) officially began operations', incorporating the National Advisory Committee for Aeronautics (NACA); 'President Dwight D. Eisenhower signed into law the National Aeronautics and Space Act' in July 1958."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: The founding law of the featured agency; neighbouring presidents. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-public-anesthesia-substance",
+      "canonicalId": "first-public-anesthesia-substance",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://libguides.massgeneral.org/mghhistory/ether",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "October 16, 1846: 'the first successful public demonstration of the use of ether as an anesthetic agent'; surgeon John Collins Warren, patient Gilbert Abbott, ether given by Boston dentist William T. G. Morton, in the room now called the Ether Dome."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured demonstration; other historic anesthetics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ether-given-by-dentist",
+      "canonicalId": "ether-given-by-dentist",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://libguides.massgeneral.org/mghhistory/ether",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "October 16, 1846: 'the first successful public demonstration of the use of ether as an anesthetic agent'; surgeon John Collins Warren, patient Gilbert Abbott, ether given by Boston dentist William T. G. Morton, in the room now called the Ether Dome."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: A surprising detail of the featured event. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "calder-hall-power-type",
+      "canonicalId": "calder-hall-power-type",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.world-nuclear-news.org/Articles/UK-marks-60th-anniversary-of-Calder-Hall",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'Opened on 17 October 1956 by Queen Elizabeth II', Calder Hall in west Cumbria was 'the world's first commercial nuclear power plant' and was 'in operation for 47 years'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured opening; other power sources. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "yorktown-british-general",
+      "canonicalId": "yorktown-british-general",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/york/index.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Washington, 'with allied American and French forces, besieged General Charles Lord Cornwallis's British army'; 'On October 19, Cornwallis surrendered, effectively ending the war and ensuring independence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Burgoyne, who surrendered at Saratoga in 1777, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "yorktown-allied-country",
+      "canonicalId": "yorktown-allied-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/york/index.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Washington, 'with allied American and French forces, besieged General Charles Lord Cornwallis's British army'; 'On October 19, Cornwallis surrendered, effectively ending the war and ensuring independence.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other European powers of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "sydney-opera-house-architect",
+      "canonicalId": "sydney-opera-house-architect",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Sydney-Opera-House",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "In January 1957 the judges chose the entry of 'Danish architect Jorn Utzon' from 233 competition entries; the building opened in 1973 and became a UNESCO World Heritage site in 2007."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured building; other famous modern architects. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "france-women-first-national-vote",
+      "canonicalId": "france-women-first-national-vote",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The ordinance of 21 April 1944 made women electors; they first voted in municipal elections on 29 April 1945 and first in a national ballot on 21 October 1945 (referendum and Constituent Assembly election); 33 women were elected."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured vote; a later date than many expect. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "chandrayaan-1-destination",
+      "canonicalId": "chandrayaan-1-destination",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Chandrayaan-1, India's lunar mission, launched on 22 October 2008 on PSLV-C11 from SDSC SHAR, Sriharikota, and carried a Moon Impact Probe among its instruments."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured launch; other destinations of Indian and other missions. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-ipod-song-capacity",
+      "canonicalId": "first-ipod-song-capacity",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'iPod stores up to 1,000 CD-quality songs on its super-thin 5 GB hard drive'; $399; Auto-Sync downloads a user's iTunes songs over FireWire to a Mac."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-23"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured launch; order-of-magnitude distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "un-charter-drafting-city",
+      "canonicalId": "un-charter-drafting-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.un.org/en/observances/un-day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'The United Nations officially came into existence on 24 October 1945, when the Charter had been ratified by a majority of signatories'; representatives of 50 countries met in San Francisco to draw up the Charter."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-24"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: New York, the later headquarters, and London, site of the first General Assembly, are the traps. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "agincourt-english-king",
+      "canonicalId": "agincourt-english-king",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "October 25, 1415, near Agincourt in northern France; Henry V's English army defeated a larger French force; part of the Hundred Years' War; English archers with longbows on the flanks were decisive."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured battle; other English kings. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "agincourt-decisive-troops",
+      "canonicalId": "agincourt-decisive-troops",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "October 25, 1415, near Agincourt in northern France; Henry V's English army defeated a larger French force; part of the Hundred Years' War; English archers with longbows on the flanks were decisive."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other battlefield arms, one of them anachronistic only by a little. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "agincourt-war",
+      "canonicalId": "agincourt-war",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Agincourt",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "October 25, 1415, near Agincourt in northern France; Henry V's English army defeated a larger French force; part of the Hundred Years' War; English archers with longbows on the flanks were decisive."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other wars named for a length of time or for England. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nyc-subway-first-driver",
+      "canonicalId": "nyc-subway-first-driver",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.6sqft.com/what-it-was-like-the-day-the-nyc-subway-opened-in-1904/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'October 27, 1904, the first IRT subway line opened with the City Hall station as its showpiece'; Mayor George B. McClellan drove the first train ('No, sir! I'm running this train!')."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured opening; a fun detail. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "statue-of-liberty-framework-engineer",
+      "canonicalId": "statue-of-liberty-framework-engineer",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Statue-of-Liberty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Sculptor Frederic-Auguste Bartholdi; 'Gustave Eiffel' engineered the internal steel framework; dedicated by Grover Cleveland on October 28, 1886."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured monument; other famous 19th-century engineers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "war-of-the-worlds-novelist",
+      "canonicalId": "war-of-the-worlds-novelist",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Broadcast October 30, 1938, by Orson Welles and his Mercury Theatre on the Air; adapted H.G. Wells's 1898 novel; 'a Martian invasion of Earth, beginning in New Jersey'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured broadcast; other science-fiction pioneers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "war-of-the-worlds-landing-state",
+      "canonicalId": "war-of-the-worlds-landing-state",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/War-of-the-Worlds-radio-drama-by-Welles-1938",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Broadcast October 30, 1938, by Orson Welles and his Mercury Theatre on the Air; adapted H.G. Wells's 1898 novel; 'a Martian invasion of Earth, beginning in New Jersey'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Neighbouring north-eastern states. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ninety-five-theses-target",
+      "canonicalId": "ninety-five-theses-target",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Ninety-five-Theses",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "By tradition posted on the Castle Church door in Wittenberg on October 31, 1517; attacked 'the sale of indulgences'; 'Written in Latin by Martin Luther' as 95 propositions for debate."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured event; other church goods. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ninety-five-theses-language",
+      "canonicalId": "ninety-five-theses-language",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Ninety-five-Theses",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "By tradition posted on the Castle Church door in Wittenberg on October 31, 1517; attacked 'the sale of indulgences'; 'Written in Latin by Martin Luther' as 95 propositions for debate."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-31"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: German, the language of Luther's later Bible, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "maastricht-treaty-created",
+      "canonicalId": "maastricht-treaty-created",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Maastricht-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Signed February 7, 1992, in Maastricht, Netherlands; 'entered into force on November 1, 1993'; 'established a European Union' and provided for a common currency, the euro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured treaty; other European organizations. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "maastricht-country",
+      "canonicalId": "maastricht-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Maastricht-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Signed February 7, 1992, in Maastricht, Netherlands; 'entered into force on November 1, 1993'; 'established a European Union' and provided for a common currency, the euro."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Maastricht lies near the Belgian and German borders. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "iss-first-crew-countries",
+      "canonicalId": "iss-first-crew-countries",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/expedition-1/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Crew: William Shepherd (USA, commander) and Russian flight engineers Sergei Krikalev and Yuri Gidzenko; launched October 31, 2000, aboard a Soyuz; landed March 21, 2001."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "11-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured crew; other station partners. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "japan-constitution-article-9",
+      "canonicalId": "japan-constitution-article-9",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.ndl.go.jp/constitution/e/etc/c01.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Promulgated November 3, 1946, effective May 3, 1947; Article 1: the Emperor 'shall be the symbol of the State'; Article 9: 'the Japanese people forever renounce war as a sovereign right of the nation'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-03"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured constitution; the emperor remains as a symbol. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "carter-tomb-pharaoh",
+      "canonicalId": "carter-tomb-pharaoh",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Howard-Carter",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On November 4, 1922, Carter's team 'found the first sign of what proved to be Tutankhamen's tomb' in the Valley of the Kings; sponsor the 5th earl of Carnarvon; second sealed doorway reached November 26."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "ancient",
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured find; other famous pharaohs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "carter-sponsor",
+      "canonicalId": "carter-sponsor",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Howard-Carter",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On November 4, 1922, Carter's team 'found the first sign of what proved to be Tutankhamen's tomb' in the Valley of the Kings; sponsor the 5th earl of Carnarvon; second sealed doorway reached November 26."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Lord Elgin, of the Parthenon marbles, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gunpowder-plot-guard",
+      "canonicalId": "gunpowder-plot-guard",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Gunpowder-Plot",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Plot to kill King James I at the opening of Parliament on November 5, 1605; leader Robert Catesby; Guy Fawkes was caught guarding gunpowder 'in a cellar under the House of Lords'; marked by Guy Fawkes Day bonfires."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Catesby, the plot's leader, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gunpowder-plot-king",
+      "canonicalId": "gunpowder-plot-king",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Gunpowder-Plot",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Plot to kill King James I at the opening of Parliament on November 5, 1605; leader Robert Catesby; Guy Fawkes was caught guarding gunpowder 'in a cellar under the House of Lords'; marked by Guy Fawkes Day bonfires."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-05"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Neighbouring English kings. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lincoln-1860-party",
+      "canonicalId": "lincoln-1860-party",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Republican Abraham Lincoln won 'less than 40 percent of the vote' but 180 electoral votes against Douglas, Breckinridge and Bell; South Carolina seceded on December 20, 1860."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured election; the other parties of the period. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "lincoln-1860-popular-majority",
+      "canonicalId": "lincoln-1860-popular-majority",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/United-States-presidential-election-of-1860",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Republican Abraham Lincoln won 'less than 40 percent of the vote' but 180 electoral votes against Douglas, Breckinridge and Bell; South Carolina seceded on December 20, 1860."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-06"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: The four-way race is the surprise. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "polonium-named-for",
+      "canonicalId": "polonium-named-for",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Marie-Curie",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Born November 7, 1867, in Warsaw; named polonium 'in honor of her native land'; Nobel Prizes for physics (1903) and chemistry (1911)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured scientist; playful distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "x-rays-name-reason",
+      "canonicalId": "x-rays-name-reason",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 8, 1895: a barium platinocyanide screen glowed; he called the rays X-radiation because their nature was uncertain; he received 'the first Nobel Prize for Physics, in 1901'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured discovery. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "rontgen-first-physics-nobel",
+      "canonicalId": "rontgen-first-physics-nobel",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 8, 1895: a barium platinocyanide screen glowed; he called the rays X-radiation because their nature was uncertain; he received 'the first Nobel Prize for Physics, in 1901'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Links the featured discovery to the first Nobel Prizes. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "berlin-wall-builder",
+      "canonicalId": "berlin-wall-builder",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Berlin-Wall",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "First erected on the night of August 12-13, 1961, by the German Democratic Republic (East Germany); on November 9, 1989, the East German government opened the borders."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured event's subject; Central European states. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "luna-17-cargo",
+      "canonicalId": "luna-17-cargo",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://nssdc.gsfc.nasa.gov/planetary/lunar/lunarussr.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Luna 17: 'Launched 10 Nov 1970', 'Landed on Moon 17 Nov 1970' in Mare Imbrium, carrying the 'Lunar Rover - Lunokhod 1'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "11-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured mission. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "armistice-1918-time",
+      "canonicalId": "armistice-1918-time",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Armistice-Day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The armistice was signed at 5:45 am on November 11, 1918, at Compiegne and 'took effect at 11:00 am'; in the United States the day became Veterans Day in 1954."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured armistice. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "armistice-day-us-name",
+      "canonicalId": "armistice-day-us-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Armistice-Day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The armistice was signed at 5:45 am on November 11, 1918, at Compiegne and 'took effect at 11:00 am'; in the United States the day became Veterans Day in 1954."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other commemorations; Remembrance Day is the Commonwealth name. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "stevenson-novel",
+      "canonicalId": "stevenson-novel",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Robert-Louis-Stevenson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Born November 13, 1850, Edinburgh; best known for Treasure Island, Kidnapped and Strange Case of Dr. Jekyll and Mr. Hyde; died in Samoa in 1894."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Ivanhoe, by fellow Scot Walter Scott, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "stevenson-birth-city",
+      "canonicalId": "stevenson-birth-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Robert-Louis-Stevenson",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Born November 13, 1850, Edinburgh; best known for Treasure Island, Kidnapped and Strange Case of Dr. Jekyll and Mr. Hyde; died in Samoa in 1894."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other British Isles cities. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ruby-bridges-painter",
+      "canonicalId": "ruby-bridges-painter",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ruby-Bridges",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 14, 1960, aged six, William Frantz Elementary School, New Orleans, escorted by 'four federal marshals'; commemorated in Norman Rockwell's The Problem We All Live With (1963)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured story; other American painters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ruby-bridges-escort",
+      "canonicalId": "ruby-bridges-escort",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ruby-Bridges",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 14, 1960, aged six, William Frantz Elementary School, New Orleans, escorted by 'four federal marshals'; commemorated in Norman Rockwell's The Problem We All Live With (1963)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured day. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "league-assembly-first-city",
+      "canonicalId": "league-assembly-first-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.ungeneva.org/en/about/league-of-nations/overview",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'On 15 November 1920, 41 members states gathered in Geneva for the opening of the first session of the Assembly.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured assembly; other diplomatic capitals. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "bhutto-country",
+      "canonicalId": "bhutto-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Benazir-Bhutto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Prime minister of Pakistan 1988-90 and 1993-96, 'the first woman leader of a Muslim nation in modern history'; led the Pakistan People's Party."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured election; Bangladesh, Turkey and Indonesia later had women leaders too. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "steamboat-willie-star",
+      "canonicalId": "steamboat-willie-star",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Steamboat-Willie",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Released November 1928; the first Mickey Mouse cartoon released with synchronized sound; animated by Ub Iwerks with Walt Disney."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured film; other Disney characters. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gettysburg-address-length",
+      "canonicalId": "gettysburg-address-length",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Gettysburg-Address",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 19, 1863, dedication of the National Cemetery at Gettysburg; 'just 272 words long'; delivered after Edward Everett's two-hour oration."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Its brevity is the story. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "gettysburg-main-speaker",
+      "canonicalId": "gettysburg-main-speaker",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Gettysburg-Address",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 19, 1863, dedication of the National Cemetery at Gettysburg; 'just 272 words long'; delivered after Edward Everett's two-hour oration."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other famous orators of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-crewed-balloon-builders",
+      "canonicalId": "first-crewed-balloon-builders",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1783: 'The first crewed hot-air balloon flight was made by Jean-Francois Pilatre de Rozier and Francois Laurent, marquis d'Arlandes' in a balloon by the Montgolfier brothers."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Montgolfier-brothers",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Heated air in a light bag made it rise; on September 19, 1783, at Versailles 'a sheep, a rooster, and a duck' flew; on November 21, 1783, Pilatre de Rozier and the marquis d'Arlandes made the first manned untethered flight in a Montgolfier balloon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured flight; other famous pairs of brothers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "balloon-animal-passengers",
+      "canonicalId": "balloon-animal-passengers",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Montgolfier-brothers",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Heated air in a light bag made it rise; on September 19, 1783, at Versailles 'a sheep, a rooster, and a duck' flew; on November 21, 1783, Pilatre de Rozier and the marquis d'Arlandes made the first manned untethered flight in a Montgolfier balloon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: A fun detail leading to the featured flight. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "toy-story-woody-voice",
+      "canonicalId": "toy-story-woody-voice",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Toy-Story",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1995, Pixar; 'the first entirely computer-animated feature film'; Woody voiced by Tom Hanks; directed by John Lasseter."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Tim Allen, the voice of Buzz Lightyear, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "tardis-disguise",
+      "canonicalId": "tardis-disguise",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Doctor-Who",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "BBC series, 1963-89 and from 2005; the Doctor is a Time Lord; the TARDIS 'appears as a blue police box' but is larger inside."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured show; other British icons. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "van-diemens-land",
+      "canonicalId": "van-diemens-land",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Abel-Janszoon-Tasman",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Dutch navigator for the Dutch East India Company; on December 13, 1642, sighted the South Island of New Zealand; named Tasmania Van Diemen's Land after the company's governor-general."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-24"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other Dutch-era names in the region. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "mousetrap-author",
+      "canonicalId": "mousetrap-author",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/The-Mousetrap",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Agatha Christie's play opened in London in 1952; adapted from her radio play Three Blind Mice; audiences are traditionally asked not to reveal the ending."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured play; other British crime and stage writers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "mousetrap-audience-secret",
+      "canonicalId": "mousetrap-audience-secret",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/The-Mousetrap",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Agatha Christie's play opened in London in 1952; adapted from her radio play Three Blind Mice; audiences are traditionally asked not to reveal the ending."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: A famous theatre tradition. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "casablanca-song",
+      "canonicalId": "casablanca-song",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Casablanca-film-by-Curtiz",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1942 film; Humphrey Bogart's Rick Blaine runs Rick's Cafe Americain; Dooley Wilson 'memorably sings \"As Time Goes By\"'; won best picture."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-26"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other famous film songs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nobel-not-original-prize",
+      "canonicalId": "nobel-not-original-prize",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Nobel-Prize",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Established in Alfred Nobel's 1895 will; five prizes: physics, chemistry, physiology or medicine, literature and peace; the economics prize was created by Sweden's central bank in 1968 and first awarded in 1969; the peace prize is awarded by the Norwegian Nobel Committee in Oslo."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured will. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nobel-peace-prize-city",
+      "canonicalId": "nobel-peace-prize-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Nobel-Prize",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Established in Alfred Nobel's 1895 will; five prizes: physics, chemistry, physiology or medicine, literature and peace; the economics prize was created by Sweden's central bank in 1968 and first awarded in 1969; the peace prize is awarded by the Norwegian Nobel Committee in Oslo."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "1945-present"
+      ],
+      "calendarDays": [
+        "11-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Stockholm, home of the other prizes, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "albania-independence-city",
+      "canonicalId": "albania-independence-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1912: 'Albanian national delegates, led by Ismail Qemal, issued the Vlore proclamation, which declared Albania's independence.' 1943: the Tehran Conference with Roosevelt, Churchill and Stalin opened."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Tirana, the later capital, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "byrd-1929-flight",
+      "canonicalId": "byrd-1929-flight",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Richard-E-Byrd",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'On November 29, 1929, Byrd, as navigator, and three companions made the first flight over the South Pole'; his 1926 North Pole flight claim is disputed."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "antarctica",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Byrd's disputed 1926 North Pole claim is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "barbados-capital",
+      "canonicalId": "barbados-capital",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Barbados",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Independence on November 30, 1966; capital Bridgetown; became a parliamentary republic in November 2021."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "11-30"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other Caribbean capitals. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "montgomery-boycott-length",
+      "canonicalId": "montgomery-boycott-length",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Rosa-Parks",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Arrested December 1, 1955, in Montgomery, Alabama; the bus boycott lasted 381 days; she was secretary of the Montgomery NAACP chapter."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured story. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "rosa-parks-organization",
+      "canonicalId": "rosa-parks-organization",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Rosa-Parks",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Arrested December 1, 1955, in Montgomery, Alabama; the bus boycott lasted 381 days; she was secretary of the Montgomery NAACP chapter."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other civic organizations. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "chicago-pile-location",
+      "canonicalId": "chicago-pile-location",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Enrico-Fermi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'Italian-born American scientist'; on December 2, 1942, directed the first controlled nuclear chain reaction at the University of Chicago in Chicago Pile-1, built beneath the university's football stadium; Nobel Prize for Physics 1938."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured experiment; a surprising setting. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "fermi-birth-country",
+      "canonicalId": "fermi-birth-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Enrico-Fermi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'Italian-born American scientist'; on December 2, 1942, directed the first controlled nuclear chain reaction at the University of Chicago in Chicago Pile-1, built beneath the university's football stadium; Nobel Prize for Physics 1938."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other homelands of wartime physicists. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "washkansky-survival",
+      "canonicalId": "washkansky-survival",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Christiaan-Barnard",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On December 3, 1967, at Groote Schuur Hospital he replaced the heart of Louis Washkansky, who died 18 days later of pneumonia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Same number, different units. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "sojourner-named-for",
+      "canonicalId": "sojourner-named-for",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Mars-Pathfinder",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Launched December 4, 1996, landed July 4, 1997, cushioned by 'an enveloping cluster of air bags'; rover Sojourner was named for civil rights advocate Sojourner Truth."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "12-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other civil rights figures. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "pathfinder-landing-method",
+      "canonicalId": "pathfinder-landing-method",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Mars-Pathfinder",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Launched December 4, 1996, landed July 4, 1997, cushioned by 'an enveloping cluster of air bags'; rover Sojourner was named for civil rights advocate Sojourner Truth."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "12-04"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other landing methods, including the later sky crane. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "schmitt-first-on-moon",
+      "canonicalId": "schmitt-first-on-moon",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/mission/apollo-17/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Crew Eugene Cernan, Harrison Schmitt and Ronald Evans; Schmitt 'is the first scientist and twelfth person to step foot on the Moon'; Cernan was the last person to leave footprints on the Moon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "12-07"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured mission. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "notre-dame-2019-fire-loss",
+      "canonicalId": "notre-dame-2019-fire-loss",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The April 15, 2019, fire destroyed most of the roof and Viollet-le-Duc's 19th-century spire; the cathedral reopened on December 8, 2024; Victor Hugo's 1831 novel helped spur 19th-century restoration."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-08"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured reopening's backstory. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "udhr-commission-chair",
+      "canonicalId": "udhr-commission-chair",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Adopted by the UN General Assembly in Paris on December 10, 1948; Eleanor Roosevelt chaired the Commission on Human Rights that drafted it; it is not legally binding."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other UN figures of the period. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "unicef-headquarters",
+      "canonicalId": "unicef-headquarters",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/UNICEF",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Created 1946 as the United Nations International Children's Emergency Fund; headquartered in New York City; awarded the Nobel Prize for Peace in 1965."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other UN agency cities. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "unicef-nobel-peace-prize",
+      "canonicalId": "unicef-nobel-peace-prize",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/UNICEF",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Created 1946 as the United Nations International Children's Emergency Fund; headquartered in New York City; awarded the Nobel Prize for Peace in 1965."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: A less-known honour for the featured agency. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "paris-agreement-replaced",
+      "canonicalId": "paris-agreement-replaced",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Paris-Agreement-2015",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Adopted December 2015 by 195 countries; aims to keep warming below 2 C and pursue 1.5 C; replaced the Kyoto Protocol."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: The Montreal Protocol on the ozone layer is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "tasman-company",
+      "canonicalId": "tasman-company",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Abel-Janszoon-Tasman",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Dutch navigator for the Dutch East India Company; on December 13, 1642, sighted the South Island of New Zealand; named Tasmania Van Diemen's Land after the company's governor-general."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "oceania",
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-13"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other chartered trading companies. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "amundsen-rival",
+      "canonicalId": "amundsen-rival",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Roald-Amundsen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Norwegian; reached the South Pole on December 14, 1911, using sled dogs; Robert Falcon Scott reached it on January 17 and died on the return."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "antarctica",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other polar explorers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "bill-of-rights-count",
+      "canonicalId": "bill-of-rights-count",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The first 10 amendments, 'adopted as a single unit on December 15, 1791'; drafted and introduced by James Madison."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured adoption. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "bill-of-rights-author",
+      "canonicalId": "bill-of-rights-author",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Bill-of-Rights-United-States-Constitution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The first 10 amendments, 'adopted as a single unit on December 15, 1791'; drafted and introduced by James Madison."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-15"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other founders. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "boston-tea-party-company",
+      "canonicalId": "boston-tea-party-company",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Boston-Tea-Party",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "December 16, 1773; tea of the British East India Company; protest against the Tea Act; Parliament's Boston Port Bill 'shut off the city's sea trade'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other chartered companies. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "boston-port-bill",
+      "canonicalId": "boston-port-bill",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Boston-Tea-Party",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "December 16, 1773; tea of the British East India Company; protest against the Tea Act; Parliament's Boston Port Bill 'shut off the city's sea trade'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: The featured protest's consequence. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "wright-brothers-business",
+      "canonicalId": "wright-brothers-business",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wright-brothers",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "December 17, 1903, Kill Devil Hills, North Carolina; Orville flew first, 120 feet in 12 seconds; the brothers ran a bicycle sales and repair shop in Dayton, Ohio."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other small businesses of the era. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nutcracker-composer",
+      "canonicalId": "nutcracker-composer",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/The-Nutcracker",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Premiered December 1892 at the Mariinsky Theatre; music by Tchaikovsky, who used the celesta for the Sugar Plum Fairy; based on E.T.A. Hoffmann's tale."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other Russian composers. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "sugar-plum-fairy-instrument",
+      "canonicalId": "sugar-plum-fairy-instrument",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/The-Nutcracker",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Premiered December 1892 at the Mariinsky Theatre; music by Tchaikovsky, who used the celesta for the Sugar Plum Fairy; based on E.T.A. Hoffmann's tale."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-18"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other bright-toned instruments. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "christmas-carol-first-ghost",
+      "canonicalId": "christmas-carol-first-ghost",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Ebenezer-Scrooge",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "In A Christmas Carol (1843), Scrooge is first visited by the ghost of Jacob Marley, his late business partner, then by the Ghosts of Christmas Past, Present and Yet to Come."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other characters from the story. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "grimm-tale",
+      "canonicalId": "grimm-tale",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Grimms-Fairy-Tales",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Jacob and Wilhelm Grimm; first volume 1812; tales include Hansel and Gretel, Snow White, Little Red Riding Hood, Sleeping Beauty, Rapunzel and Rumpelstiltskin."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-20"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Hans Christian Andersen's Little Mermaid is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-basketball-goals",
+      "canonicalId": "first-basketball-goals",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/James-Naismith",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "In 1891 at the YMCA Training School in Springfield, Massachusetts, he used 'half-bushel peach baskets as targets'; Canadian-born."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured game. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "brandenburg-gate-sculpture",
+      "canonicalId": "brandenburg-gate-sculpture",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Brandenburg-Gate",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "A quadriga (chariot drawn by four horses) was added in 1793; Napoleon took it to Paris during the occupation of 1806-08 and it stayed until 1814; reopened December 22, 1989."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured landmark. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "brandenburg-quadriga-taker",
+      "canonicalId": "brandenburg-quadriga-taker",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Brandenburg-Gate",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "A quadriga (chariot drawn by four horses) was added in 1793; Napoleon took it to Paris during the occupation of 1806-08 and it stayed until 1814; reopened December 22, 1989."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other French leaders. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "washington-resigned-command",
+      "canonicalId": "washington-resigned-command",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1783: 'Before the Continental Congress, George Washington resigned as commander in chief of the Continental Army.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured event; later Union forces as distractors. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "first-phonograph-medium",
+      "canonicalId": "first-phonograph-medium",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/phonograph",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Thomas Edison is 'generally credited with inventing the phonograph' in 1877; his first design recorded on 'a sheet of tinfoil' wrapped around a rotating cylinder."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Later and other recording media. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "ozymandias-pharaoh",
+      "canonicalId": "ozymandias-pharaoh",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Ozymandias-poem",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Shelley's sonnet was published January 11, 1818, in The Examiner; it refers to Ramses II."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "africa"
+      ],
+      "eras": [
+        "1800-1945",
+        "ancient"
+      ],
+      "calendarDays": [
+        "01-11"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured poem; other famous pharaohs. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "sirleaf-country",
+      "canonicalId": "sirleaf-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ellen-Johnson-Sirleaf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Sworn in as president of Liberia on January 16, 2006, 'the first woman to be elected head of state of an African country'; Nobel Peace Prize 2011."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "01-16"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other West African countries. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "trovatore-chorus",
+      "canonicalId": "trovatore-chorus",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Il-trovatore",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Verdi's opera premiered at the Teatro Apollo in Rome on January 19, 1853; Act II contains the 'Anvil Chorus'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "01-19"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Verdi's own Hebrew Slaves chorus (Nabucco) is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "bosworth-king-killed",
+      "canonicalId": "bosworth-king-killed",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Bosworth-Field",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "August 22, 1485; Richard III was killed; Henry Tudor won and founded the Tudor dynasty; the last battle of the Wars of the Roses."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "08-22"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other kings of the Wars of the Roses period. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "paris-1944-order-disobeyed",
+      "canonicalId": "paris-1944-order-disobeyed",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Brennt-Paris",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Hitler ordered Paris's infrastructure destroyed; commander Dietrich von Choltitz disobeyed and 'surrendered Paris to the Allies on August 25, 1944, leaving the city largely undamaged'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "08-25"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured liberation. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "nineteenth-amendment-36th-state",
+      "canonicalId": "nineteenth-amendment-36th-state",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/milestone-documents/19th-amendment",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Bars denying the vote 'on account of sex'; passed by Congress June 4, 1919; Tennessee became the 36th state to ratify on August 18, 1920; certified August 26, 1920."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "08-26"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Wyoming, an early women's suffrage state, is the trap. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "kellogg-briand-renounced",
+      "canonicalId": "kellogg-briand-renounced",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1921-1936/kellogg",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Signed at Paris on August 27, 1928; signatories renounced 'war as an instrument of national policy'; Kellogg was US secretary of state and Briand French foreign minister."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "08-27"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other interwar arms and peace topics. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "i-have-a-dream-memorial",
+      "canonicalId": "i-have-a-dream-memorial",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/March-on-Washington",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "August 28, 1963; about 250,000 people 'in the shadow of the Lincoln Memorial'; Martin Luther King, Jr., gave his 'I Have a Dream' speech; organized by A. Philip Randolph and Bayard Rustin."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "08-28"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Other National Mall landmarks. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "katrina-new-orleans-flooded",
+      "canonicalId": "katrina-new-orleans-flooded",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Hurricane-Katrina",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Landfall August 29, 2005, as a strong category 3 storm; levees breached; 'By August 30' New Orleans 'was 80 percent underwater'; nearly 1,400 deaths."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "08-29"
+      ],
+      "notes": "Draft researched and source-checked by Claude on 2026-10-01. Relation: Exact match on the featured disaster. Distractors checked for exclusivity under the question's wording; difficulty is an editorial estimate, not user-tested."
+    },
+    {
+      "candidateId": "link-persons-case-senate",
+      "canonicalId": "persons-case-senate",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://sencanada.ca/en/sencaplus/how-why/why-the-persons-case-matters/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-smallpox-last-natural-case-country",
+      "canonicalId": "smallpox-last-natural-case-country",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.who.int/emergencies/situations/smallpox/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-26"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-statue-of-liberty",
+      "canonicalId": "identify-statue-of-liberty",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/item/ny1251/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Statue-of-Liberty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Sculptor Frederic-Auguste Bartholdi; 'Gustave Eiffel' engineered the internal steel framework; dedicated by Grover Cleveland on October 28, 1886."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-28"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-turkish-republic-founder",
+      "canonicalId": "turkish-republic-founder",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Kemal-Ataturk",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Ataturk was 'the founder and first president (1923-38) of the Republic of Turkey'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-luther-movement",
+      "canonicalId": "luther-movement",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/event/Ninety-five-Theses",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "By tradition posted on the Castle Church door in Wittenberg on October 31, 1517; attacked 'the sale of indulgences'; 'Written in Latin by Martin Luther' as 95 propositions for debate."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-31",
+        "11-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-marie-curie",
+      "canonicalId": "identify-marie-curie",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/item/2014687674/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Marie-Curie",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Born November 7, 1867, in Warsaw; named polonium 'in honor of her native land'; Nobel Prizes for physics (1903) and chemistry (1911)."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-07"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-order-science-discoveries",
+      "canonicalId": "order-science-discoveries",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wilhelm-Rontgen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "November 8, 1895: a barium platinocyanide screen glowed; he called the rays X-radiation because their nature was uncertain; he received 'the first Nobel Prize for Physics, in 1901'."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Enrico-Fermi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "'Italian-born American scientist'; on December 2, 1942, directed the first controlled nuclear chain reaction at the University of Chicago in Chicago Pile-1, built beneath the university's football stadium; Nobel Prize for Physics 1938."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-08",
+        "12-02"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-cold-war-milestones",
+      "canonicalId": "order-cold-war-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Berlin-Wall",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "First erected on the night of August 12-13, 1961, by the German Democratic Republic (East Germany); on November 9, 1989, the East German government opened the borders."
+        },
+        {
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-09"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-rosetta-comet-name",
+      "canonicalId": "rosetta-comet-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.esa.int/Newsroom/Press_Releases/Mission_complete_Rosetta_s_journey_ends_in_daring_descent_to_comet",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-space-exploration-firsts",
+      "canonicalId": "order-space-exploration-firsts",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.esa.int/Science_Exploration/Space_Science/Rosetta/Philae_s_extraordinary_comet_landing_relived",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.nasa.gov/mission/apollo-17/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Crew Eugene Cernan, Harrison Schmitt and Ronald Evans; Schmitt 'is the first scientist and twelfth person to step foot on the Moon'; Cernan was the last person to leave footprints on the Moon."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "global"
+      ],
+      "eras": [
+        "cold-war",
+        "space-age"
+      ],
+      "calendarDays": [
+        "11-12",
+        "12-07"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-women-heads-government",
+      "canonicalId": "order-women-heads-government",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Benazir-Bhutto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Prime minister of Pakistan 1988-90 and 1993-96, 'the first woman leader of a Muslim nation in modern history'; led the Pakistan People's Party."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "11-16"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-suez-canal-construction-decade",
+      "canonicalId": "suez-canal-construction-decade",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-suez-canal-seas",
+      "canonicalId": "suez-canal-seas",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Suez-Canal",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-17"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-film-milestones",
+      "canonicalId": "order-film-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-22",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-26",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945",
+        "contemporary"
+      ],
+      "calendarDays": [
+        "11-18",
+        "11-22",
+        "11-26"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-madero-mexican-revolution",
+      "canonicalId": "madero-mexican-revolution",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-mexican-revolution-began-1910",
+      "canonicalId": "mexican-revolution-began-1910",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/overview.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-tasman-reaches-tasmania",
+      "canonicalId": "tasman-reaches-tasmania",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-24",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Abel-Janszoon-Tasman",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Dutch navigator for the Dutch East India Company; on December 13, 1642, sighted the South Island of New Zealand; named Tasmania Van Diemen's Land after the company's governor-general."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "oceania"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-24",
+        "12-13"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-barnard-first-heart-transplant",
+      "canonicalId": "barnard-first-heart-transplant",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-3",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Christiaan-Barnard",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "On December 3, 1967, at Groote Schuur Hospital he replaced the heart of Louis Washkansky, who died 18 days later of pneumonia."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-03"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-nelson-mandela",
+      "canonicalId": "identify-nelson-mandela",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nelsonmandela.org/biography",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-south-africa-1994-president",
+      "canonicalId": "south-africa-1994-president",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nelsonmandela.org/biography",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-mandela-years-in-prison",
+      "canonicalId": "mandela-years-in-prison",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-11",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-anglo-irish-treaty-free-state",
+      "canonicalId": "anglo-irish-treaty-free-state",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-06"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-hunchback-name",
+      "canonicalId": "hunchback-name",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Victor-Hugo",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Notre-Dame-de-Paris",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "The April 15, 2019, fire destroyed most of the roof and Viollet-le-Duc's 19th-century spire; the cathedral reopened on December 8, 2024; Victor Hugo's 1831 novel helped spur 19th-century restoration."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "12-08"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-smallpox-only-eradicated-infectious-disease",
+      "canonicalId": "smallpox-only-eradicated-infectious-disease",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.who.int/emergencies/situations/smallpox/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "12-09"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-universal-declaration-binding-treaty",
+      "canonicalId": "universal-declaration-binding-treaty",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Universal-Declaration-of-Human-Rights",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Adopted by the UN General Assembly in Paris on December 10, 1948; Eleanor Roosevelt chaired the Commission on Human Rights that drafted it; it is not legally binding."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-amundsen-first-south-pole",
+      "canonicalId": "amundsen-first-south-pole",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Roald-Amundsen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Norwegian; reached the South Pole on December 14, 1911, using sled dogs; Robert Falcon Scott reached it on January 17 and died on the return."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "antarctica",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-14"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-wright-first-flight",
+      "canonicalId": "identify-wright-first-flight",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://airandspace.si.edu/collection-objects/1903-wright-flyer/nasm_A19610048000",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-17"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from docs/QUIZ_CONTENT_REVIEW.md (Q7 image-rights table); owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-identify-george-washington",
+      "canonicalId": "identify-george-washington",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.metmuseum.org/art/collection/search/16584",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1783: 'Before the Continental Congress, George Washington resigned as commander in chief of the Continental Army.'"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-23",
+        "12-25"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-phonograph-patent-inventor",
+      "canonicalId": "phonograph-patent-inventor",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/February-19",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/technology/phonograph",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Thomas Edison is 'generally credited with inventing the phonograph' in 1877; his first design recorded on 'a sheet of tinfoil' wrapped around a rotating cylinder."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-24"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-naismith-first-basketball",
+      "canonicalId": "naismith-first-basketball",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-21"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-james-webb-telescope-launch",
+      "canonicalId": "james-webb-telescope-launch",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-25",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "contemporary",
+        "space-age"
+      ],
+      "calendarDays": [
+        "12-25"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-martin-luther-king-jr",
+      "canonicalId": "identify-martin-luther-king-jr",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Martin-Luther-King-Jr",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/event/March-on-Washington",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "August 28, 1963; about 250,000 people 'in the shadow of the Lincoln Memorial'; Martin Luther King, Jr., gave his 'I Have a Dream' speech; organized by A. Philip Randolph and Bayard Rustin."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "08-28"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-john-paul-ii-first-non-italian",
+      "canonicalId": "john-paul-ii-first-non-italian",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Saint-John-Paul-II",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-alaska-purchase-seller",
+      "canonicalId": "alaska-purchase-seller",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/March-30",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-nightingale-sanitation-statistics",
+      "canonicalId": "nightingale-sanitation-statistics",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.sciencemuseum.org.uk/objects-and-stories/florence-nightingale-pioneer-statistician",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-peace-treaties",
+      "canonicalId": "order-peace-treaties",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Peace-of-Westphalia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-21",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1783: 'The first crewed hot-air balloon flight was made by Jean-Francois Pilatre de Rozier and Francois Laurent, marquis d'Arlandes' in a balloon by the Montgolfier brothers."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-27",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "contemporary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-24",
+        "11-21",
+        "11-27"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-african-independence-1960s",
+      "canonicalId": "order-african-independence-1960s",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/zambia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/December-9",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "decolonization"
+      ],
+      "calendarDays": [
+        "10-24",
+        "12-09"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-amsterdam-toll-privilege",
+      "canonicalId": "amsterdam-toll-privilege",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.amsterdam.nl/stadsarchief/stukken/handel/tolprivilege/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-27"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-modern-communication-milestones",
+      "canonicalId": "order-modern-communication-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.universityofcalifornia.edu/news/lo-and-behold-internet",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-29"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-political-turning-points",
+      "canonicalId": "order-political-turning-points",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/October-Manifesto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/event/Russian-Revolution",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/event/Coup-of-18-19-Brumaire",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        },
+        {
+          "url": "https://www.britannica.com/on-this-day/November-17",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945",
+        "cold-war",
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-30",
+        "11-07",
+        "11-09",
+        "11-17"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-aztec-capital-city",
+      "canonicalId": "aztec-capital-city",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/place/Tenochtitlan",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "11-08"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-sun-yat-sen",
+      "canonicalId": "identify-sun-yat-sen",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Sun-Yat-sen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-dessalines-vertieres",
+      "canonicalId": "dessalines-vertieres",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-18",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "11-18"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-whaleship-essex-moby-dick",
+      "canonicalId": "whaleship-essex-moby-dick",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-20",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-20"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-ley-juarez-special-courts",
+      "canonicalId": "ley-juarez-special-courts",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-23",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-23"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-tehran-conference-big-three",
+      "canonicalId": "tehran-conference-big-three",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/November-28",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "1912: 'Albanian national delegates, led by Ismail Qemal, issued the Vlore proclamation, which declared Albania's independence.' 1943: the Tehran Conference with Roosevelt, Churchill and Stalin opened."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global",
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "11-28"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-locarno-western-europe",
+      "canonicalId": "locarno-western-europe",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-henry-ford-method",
+      "canonicalId": "henry-ford-method",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/April-7",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-01"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-napoleon-crowns-himself",
+      "canonicalId": "napoleon-crowns-himself",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-02"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-mozart-opera",
+      "canonicalId": "mozart-opera",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Wolfgang-Amadeus-Mozart",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "12-05"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-finland-independence-1917",
+      "canonicalId": "finland-independence-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-06"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-order-second-world-war-milestones",
+      "canonicalId": "order-second-world-war-milestones",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Pearl-Harbor-attack",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas",
+        "asia"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-07"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-first-nobel-prizes-anniversary",
+      "canonicalId": "first-nobel-prizes-anniversary",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/on-this-day/December-10",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-identify-ada-lovelace",
+      "canonicalId": "identify-ada-lovelace",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ada-Lovelace",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-10"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. Image rights inherited from editorial/batches/2026-09-l7-image-identification/review-ledger.json; owned URL and provenance unchanged, no new download."
+    },
+    {
+      "candidateId": "link-scream-painter",
+      "canonicalId": "scream-painter",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/The-Scream-by-Munch",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "12-12"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-pride-prejudice-heroine",
+      "canonicalId": "pride-prejudice-heroine",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Pride-and-Prejudice",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-16"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    },
+    {
+      "candidateId": "link-champollion-writing-system",
+      "canonicalId": "champollion-writing-system",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.bnf.fr/sites/default/files/2022-04/pe%CC%81dago_Champollion_OK%20site.pdf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-01",
+          "note": "Existing source of the reused published question. Not re-fetched; inherited."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "12-23"
+      ],
+      "notes": "Relationship review only; original question and answer are unchanged and remain published. No image."
+    }
+  ]
+}
