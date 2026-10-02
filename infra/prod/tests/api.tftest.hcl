@@ -20,6 +20,12 @@ mock_provider "aws" {
 }
 variables { media_bucket_name = "on-this-day-media-764574955085" }
 
+# The boundary policy is imported, which mock providers cannot do.
+override_resource {
+  target = aws_iam_policy.workload_boundary
+  values = { arn = "arn:aws:iam::764574955085:policy/on-this-day-workload-boundary" }
+}
+
 run "default_creates_no_api" {
   command = plan
   assert {

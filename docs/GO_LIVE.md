@@ -68,13 +68,12 @@ Content can be re-imported from Git; device registrations would be lost.
    aws sts get-caller-identity   # Arn ends in user/on-this-day-terraform
    ```
 
-6. **Workload boundary (root, console, once).** IAM, Policies,
-   `on-this-day-workload-boundary`: it must match
-   `data.aws_iam_policy_document.workload_boundary` in
-   `infra/bootstrap/main.tf`, including `ssm:GetParameter`, `kms:Decrypt`,
-   `ProjectParametersOnly` and `DecryptOnlyViaSsm`. Without them both
-   functions fail to read their database password. The `on-this-day-terraform`
-   policy must have `ProjectParameters` and `DescribeParameters`.
+6. **Workload boundary.** Managed by `infra/prod/iam.tf` (the deployer may
+   edit it since 2026-10-02), so nothing to do by hand. Its Lambda decrypt
+   rule is what lets a function read its own environment variables. The
+   `on-this-day-terraform` policy must have `ProjectParameters` and
+   `DescribeParameters`, and its `ProtectOwnPermissions` deny must list only
+   its own policy, not the boundary.
 7. **Password parameters (console).** Generate the runtime password
    (`openssl rand -base64 33 | tr -d '/+=' | cut -c1-32`) and keep it in a
    password manager. Create two SecureString, Standard, `alias/aws/ssm`
