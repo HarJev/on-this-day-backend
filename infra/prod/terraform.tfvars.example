@@ -1,2 +1,28 @@
-# Copy to terraform.tfvars (ignored by git) and fill in.
+# Copy to terraform.tfvars (ignored by git) and fill in. docs/GO_LIVE.md walks
+# through every value. Nothing here is a secret: database passwords live in SSM.
 media_bucket_name = "on-this-day-media-<account-id>"
+
+# Keep at 1 now that the Firebase key parameter exists. Removing it (or 0)
+# would destroy that parameter. Bump it only to rotate the key.
+firebase_credentials_version = 1
+
+# The ZIP from `mvn -B -Plambda-zip clean package -DskipTests`, copied
+# somewhere stable. One ZIP serves both functions. Absolute path.
+api_lambda_zip_path           = "/Users/<you>/Documents/on-this-day/lambda/on-this-day-lambda.zip"
+notifications_lambda_zip_path = "/Users/<you>/Documents/on-this-day/lambda/on-this-day-lambda.zip"
+
+# Supabase transaction pooler (port 6543) with the runtime role. Copy the host
+# from the project's Connect dialog; prepareThreshold=0 because the transaction
+# pooler does not support server-side prepared statements.
+db_jdbc_url = "jdbc:postgresql://<pooler-host>:6543/postgres?prepareThreshold=0"
+db_user     = "otd_runtime.<project-ref>"
+
+firebase_project_id = "on-this-day-98e6b"
+
+# Email for the $1 budget and the two Lambda error alarms.
+alert_email = "<owner-email>"
+
+# Defaults, shown for clarity: the push schedule stays off and dry-run until
+# a real-device send has been checked (docs/NOTIFICATIONS.md).
+# notifications_schedule_enabled = false
+# notifications_dry_run          = true
