@@ -71,7 +71,7 @@ run "full_api_deploy" {
   }
 
   assert {
-    condition     = data.aws_cloudfront_cache_policy.use_origin_cache_control_query_strings.name == "Managed-UseOriginCacheControlHeaders-QueryStrings"
+    condition     = data.aws_cloudfront_cache_policy.use_origin_cache_control_query_strings.id == "4cc15a8a-d715-48a4-82b8-cc0b614638fe"
     error_message = "a managed policy (Free plan allows no custom ones) that caches only what the API marks cacheable"
   }
 
