@@ -73,8 +73,8 @@ this day" list later.
 
 ## Owner checks
 
-- The Andes crash rests on History Hit plus Britannica's day page. Swap in a
-  stronger reference if preferred.
+- The Andes crash rests on History Hit and History.com's article (added in
+  review), with Britannica's day page agreeing on the date.
 - The Theodore Roosevelt flight title says "first U.S. president to fly"; he had
   already left office, which the description states.
 - Oct 9 and Oct 11 to 12 stay at 8 events; more candidates are listed above.
