@@ -777,6 +777,800 @@
       "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
       "reviewer": "Claude (owner review delegated by Jevaun Harris)",
       "reviewedOn": "2026-10-01"
+    },
+    {
+      "candidateId": "oct-16-marie-antoinette-guillotined-1793",
+      "canonicalId": "marie-antoinette-guillotined-1793",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: guillotined October 16, 1793, Paris, aged 37; 'brought before the Revolutionary tribunal on October 14, 1793'; found guilty of crimes against the state; the 'Let them eat cake' story presented as a legend spread by popular agitators."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-16-jane-eyre-published-1847",
+      "canonicalId": "jane-eyre-published-1847",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Charlotte-Bronte",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Jane Eyre was accepted, published less than eight weeks later (on October 16, 1847), and had an immediate success'; pseudonyms 'assumed to preserve secrecy and avoid the special treatment that they believed reviewers accorded to women'."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: published 1847 under the pseudonym Currer Bell; first-person narration; heroine 'an independent and self-reliant woman'; 'an immediate success'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-16-john-brown-raid-harpers-ferry-1859",
+      "canonicalId": "john-brown-raid-harpers-ferry-1859",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/articles/john-browns-raid.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NPS: raid began October 16, 1859, with 21 men; seized both bridges, the U.S. Armory and Arsenal, and the U.S. Rifle Works on Hall's Island; about 34-36 hours; 16 killed including 10 of Brown's men; captured October 18 by U.S. Marines under Col. Robert E. Lee; convicted of murder, conspiracy with enslaved people to rebel, and treason against Virginia; hanged December 2, 1859; newspaper quote 'The Harpers Ferry invasion has advanced the cause of disunion more than any other event that has happened since the formation of the Government.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-16-sanger-brownsville-clinic-opens-1916",
+      "canonicalId": "sanger-brownsville-clinic-opens-1916",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://sanger.hosting.nyu.edu/aboutms/organization_brownsville_clinic/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NYU Sanger Papers: opened 'October 16, 1916 in the Brownsville section of Brooklyn, New York'; Sanger with sister Ethel Byrne (registered nurse) and Fania Mindell (interpreter); violated New York's 'Little Comstock' law; 'more than 100 women on the first day and some 400' before arrests on October 26; Sanger served thirty days; appeal led to 1918 decision enabling physicians 'to legally prescribe contraception for general health reasons'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Margaret-Sanger",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: in 1916 opened 'the first birth control clinic in the United States' in Brooklyn; arrested; served 30 days in 1917."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-16-china-first-atomic-bomb-1964",
+      "canonicalId": "china-first-atomic-bomb-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/chinese-nuclear-program/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "AHF: October 16, 1964; 22 kilotons; uranium implosion device atop a 330-foot steel tower; Lop Nur; 'the fifth country to possess nuclear weapons following the United States, the Soviet Union, the United Kingdom, and France'; no-first-use declaration quoted; first H-bomb June 17, 1967, 32 months later."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-16-smith-carlos-olympic-salute-1968",
+      "canonicalId": "smith-carlos-olympic-salute-1968",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.cbsnews.com/news/remembering-1968-tommie-smith-raised-fist-salute-at-mexico-city-olympics/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "CBS: October 16, 1968; Smith (gold) and Carlos (bronze) raised gloved fists during the 200-meter medal ceremony; 'banished from the Games — sent home'; Smith: 'It's the proudest moment of your life' and 'one of the saddest moments in my life, too'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Tommie-Smith",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: won the 200 m in 19.83 seconds, 'the first time that the distance was run in less than 20 seconds'; Smith and Carlos 'shoeless to highlight the poverty of Black Americans' raised black-gloved fists 'to protest the mistreatment of African Americans'; USOC ordered them to leave; both received death threats."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-16"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-17-canada-legalizes-cannabis-2018",
+      "canonicalId": "canada-legalizes-cannabis-2018",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.canada.ca/en/health-canada/news/2018/10/backgrounder-the-cannabis-act-the-facts.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Health Canada: 'On October 17, 2018, the Cannabis Act came into force, legalizing, strictly regulating and restricting access to cannabis in Canada'; adults 18 or 19 and older depending on province; possess up to 30 grams dried in public; grow up to four plants per household; two new criminal offences with maximum 14 years for giving or selling to youth and using a youth to commit a cannabis offence."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-17-battle-of-nevilles-cross-1346",
+      "canonicalId": "battle-of-nevilles-cross-1346",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Nevilles-Cross",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Oct. 17, 1346', near Durham; Scots as 'allies of the French' sought to distract Edward III from the Siege of Calais; Edward had 'left a strong force in the northern shires'; English victory and capture of David II; 'David remained a prisoner of the English until 1357'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "medieval"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-17-siege-of-sevastopol-begins-1854",
+      "canonicalId": "siege-of-sevastopol-begins-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/list-of-battles-2084178",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'October 17, 1854–September 11, 1855: Siege of Sevastopol (Crimean War)'."
+        },
+        {
+          "url": "https://www.britannica.com/event/Crimean-War",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: allies landed in Crimea in September 1854 'and began a yearlong siege of the Russian fortress of Sevastopol'; 'on September 11, 1855, three days after a successful French assault on the Malakhov, a major strongpoint in the Russian defenses, the Russians blew up the forts, sank the ships, and evacuated Sevastopol'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-17-mr-smith-goes-to-washington-premiere-1939",
+      "canonicalId": "mr-smith-goes-to-washington-premiere-1939",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.senate.gov/about/powers-procedures/filibusters-cloture/mr-smith-comes-to-washington.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Senate Historical Office: premiere October 17, 1939, at Constitution Hall; '45 real-life senators and 250 House members'; film about a freshman senator's one-man filibuster; Barkley called it 'silly and stupid' and said it portrayed the Senate as 'a bunch of crooks'; Capra later alleged some senators tried to suppress it."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-17"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-18-ostend-manifesto-1854",
+      "canonicalId": "ostend-manifesto-1854",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Ostend-Manifesto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: October 18, 1854; Buchanan, Mason and Soulé; 'urged U.S. seizure of Cuba if the United States possessed the power and if Spain refused the sale'; motivated by 'fear of a slave revolt in Cuba similar to that in Haiti and from a desire to expand U.S. slave territory'; proposals rejected; 'the Republican press branded it as a \"manifesto\" appealing to Southern opinion'; 'the high point of the U.S. expansionist drive in the Caribbean in the 1850s'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-18-puerto-rico-transferred-to-us-1898",
+      "canonicalId": "puerto-rico-transferred-to-us-1898",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://guides.loc.gov/world-of-1898/puerto-rico-overview",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "LOC: troops 'landed at Guánica Bay on July 25'; 'The formal transfer of Puerto Rico to the United States took two months, from August 12 to October 18, when the last Spanish troops sailed back to Spain and the US flag was raised'; Treaty of Paris 'signed on December 10, 1898'; military government until the Foraker Law of April 12, 1900."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-18-british-broadcasting-company-founded-1922",
+      "canonicalId": "british-broadcasting-company-founded-1922",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/broadcasting/Formation-of-the-British-Broadcasting-Company",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: established 'October 18, 1922, as a private corporation'; 'Only bona fide manufacturers were permitted to hold shares'; revenue from half the 10-shilling licence fee and a 10 percent royalty on receiving sets; John Reith chief executive, later director general; replaced in 1927 by the British Broadcasting Corporation, answerable to Parliament with a Board of Governors; monopoly until the Independent Television Authority in 1954."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-18-thomas-edison-dies-1931",
+      "canonicalId": "thomas-edison-dies-1931",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Thomas-Edison",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: died 'October 18, 1931, West Orange, New Jersey', aged 84; world record '1,093 patents'; phonograph, incandescent lamp, carbon-button telephone transmitter, motion-picture equipment, first commercial electric light and power system; Menlo Park as the world's first industrial research laboratory."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-18"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-19-john-jay-first-chief-justice-oath-1789",
+      "canonicalId": "john-jay-first-chief-justice-oath-1789",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.supremecourt.gov/about/oath/oathsofthechiefjustices.aspx",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Supreme Court: 'John Jay – Took his oaths on October 19, 1789, before Richard Morris, the Chief Justice of the State of New York.'"
+        },
+        {
+          "url": "https://www.fjc.gov/history/judges/jay-john",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "FJC (via search listing, not fetched in full): nominated by Washington September 24, 1789; confirmed by the Senate September 26, 1789. Reviewer should confirm."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-19-st-albans-raid-1864",
+      "canonicalId": "st-albans-raid-1864",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Saint-Albans-Raid",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Oct. 19, 1864'; 'about 25 Confederate soldiers based in Canada'; 'killed one man'; 'robbed three banks'; '$200,000'; 'On October 21 about half the Confederates were arrested by the Canadians, but they were released again on December 13'; 'strong protests in the United States'; 1872 claims commission under the Treaty of Washington ruled against further American claims."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-19-first-battle-of-ypres-begins-1914",
+      "canonicalId": "first-battle-of-ypres-begins-1914",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/First-Battle-of-Ypres",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'from October 19 to November 22, 1914'; Germany, Britain, France, Belgium; followed the race to the sea; flank attacks failed and 'both sides settled into the trench warfare that would characterize the remainder of the war'; British losses 'more than 54,000', French 'at least 50,000', Belgians 'more than 20,000', Germans 'more than 130,000'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-19-mother-teresa-beatified-2003",
+      "canonicalId": "mother-teresa-beatified-2003",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20031019_index_madre-teresa_en.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Vatican: beatification of Mother Teresa of Calcutta, 19 October 2003, with John Paul II's homily."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Mother-Teresa",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: born Agnes Gonxha Bojaxhiu, August 27, 1910, Skopje; founded the Missionaries of Charity; Nobel Peace Prize 1979; died September 5, 1997, Calcutta; 'canonized by Pope Francis on September 4, 2016'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "europe"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-19"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-20-saturday-night-massacre-1973",
+      "canonicalId": "saturday-night-massacre-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Watergate-Scandal/Watergate-trial-and-aftermath",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 20 the president ordered Attorney General Elliot Richardson to fire the special prosecutor'; Richardson and his deputy resigned; Bork dismissed Cox; tapes released October 23 under pressure; House Judiciary Committee passed three articles of impeachment July 27-30, 1974; resignation announced August 8."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Saturday-Night-Massacre",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Nixon ordered Richardson to fire Cox; 'Richardson resigned rather than comply. Nixon then fired Richardson's assistant, William Ruckelshaus, when he too refused'; 'Cox was finally removed by Solicitor General Robert Bork'. Note: sources differ on whether Ruckelshaus resigned or was fired; copy says he 'refused and left'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-20-lynyrd-skynyrd-plane-crash-1977",
+      "canonicalId": "lynyrd-skynyrd-plane-crash-1977",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Lynyrd-Skynyrd",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 1977 plane 'ran out of fuel' and crashed in Gillsburg, Mississippi, killing Ronnie Van Zant, Steve Gaines, Cassie Gaines, Dean Kilpatrick and both pilots; twenty survived, some critically injured; band disbanded; reunited 1987 with Johnny Van Zant; Rock and Roll Hall of Fame 2006."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Ronnie-Van-Zant",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'd. October 20, 1977, Gillsburg, Mississippi'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-20-qaddafi-killed-2011",
+      "canonicalId": "qaddafi-killed-2011",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Muammar-al-Qaddafi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On September 1, 1969, Qaddafi seized control of the government in a military coup that deposed King Idris'; died October 20, 2011, in Sirte, where he was born; killed 'as rebel forces took control of the city, one of the last remaining loyalist strongholds'; evaded capture for several weeks after Tripoli fell."
+        },
+        {
+          "url": "https://www.britannica.com/place/Libya/Qaddafi-toppled-and-killed",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: rebels entered Tripoli August 22 and controlled most of it the next day; 'On October 20 Qaddafi was captured and killed in Sirte by rebel fighters.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa",
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-20-osiris-rex-touches-bennu-2020",
+      "canonicalId": "osiris-rex-touches-bennu-2020",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/solar-system/osiris-rex-tags-surface-of-asteroid-bennu/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NASA: 'Oct. 20, 2020'; 'over 200 million miles (321 million km) away from Earth'; site Nightingale; 'within three feet (one meter) of the targeted location'; 'approximately 6 seconds' of contact, 'approximately 5 of the 6 seconds' collecting; nitrogen gas bottle 'mobilizes a substantial amount of the sample site's material'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-20"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-21-aberfan-disaster-1966",
+      "canonicalId": "aberfan-disaster-1966",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Aberfan-disaster",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: October 21, 1966; spoil tip from the Merthyr Vale Colliery after heavy rain; 'A slide of liquefied debris that flowed swiftly down the mountainside'; over 80 mph; 'smashed into the Pantglas Junior School'; 144 killed including 116 children; inquiry placed responsibility on the National Coal Board although 'safety concerns had frequently been raised'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-21-magellan-enters-strait-1520",
+      "canonicalId": "magellan-enters-strait-1520",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Ferdinand-Magellan",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: entered the strait 'October 21, 1520'; emerged into the Pacific 'November 28'; credited with naming the Pacific; killed 'April 27, 1521, Mactan, Philippines'; 'one of his ships continued westward to Spain, accomplishing the first circumnavigation of Earth' under Juan Sebastián del Cano."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-21-my-fair-lady-film-premiere-1964",
+      "canonicalId": "my-fair-lady-film-premiere-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/22921",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "AFI: 'The world premiere took place 21 Oct 1964 at New York City's Criterion Theatre'; Hepburn as Eliza Doolittle, Rex Harrison as Henry Higgins; directed by George Cukor; from Lerner and Loewe's musical based on Shaw's Pygmalion; Hepburn's vocals 'dubbed by Marni Nixon'; Oscars incl. Best Picture, Director, Actor (Harrison)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-21-uss-constitution-launched-1797",
+      "canonicalId": "uss-constitution-launched-1797",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://ussconstitutionmuseum.org/uss-constitution-facts/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Museum: launched 'October 21, 1797 at Edmund Hartt's Shipyard in Boston, Massachusetts'; first sail 'July 22, 1798 from Boston Harbor'; remains commissioned."
+        },
+        {
+          "url": "https://www.nps.gov/places/uss-constitution.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NPS: launched 1797 from Hartt's shipyard in the North End; 'oldest commissioned warship afloat in the world'; in the War of 1812 'defeated four British frigates and earned a legendary reputation in battle as \"Old Ironsides\"'; one of six original frigates."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-21"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-22-kennedy-cuban-missile-crisis-address-1962",
+      "canonicalId": "kennedy-cuban-missile-crisis-address-1962",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Cuban-missile-crisis",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: U-2 spy planes identified missiles October 14, 1962; Kennedy announced his response October 22, a naval blockade, seizing 'offensive weapons and associated matériel'; October 28 Khrushchev agreed to remove missiles; Kennedy promised not to invade and 'secretly promised to withdraw the nuclear-armed missiles that the United States had stationed in Turkey'; 'the closest point that the world had ever come to global nuclear war'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-22-garnerin-first-parachute-descent-1797",
+      "canonicalId": "garnerin-first-parachute-descent-1797",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://airandspace.si.edu/collection-media/NASM-86885D4383282_002",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NASM: medal inscribed 'PREMIERE DESCANT EN PARACHUTE PARC MONCEAU 22 OCTBRE 1797'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Andre-Jacques-Garnerin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: in 1797 in Paris 'he jumped from a height of about 3,200 feet (1,000 m)'; 'white canvas parachute was umbrella-shaped and approximately 23 feet (7 m) in diameter'; 'the first person to use a parachute regularly and successfully'; jump from 8,000 feet in England in 1802."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-22-great-disappointment-millerites-1844",
+      "canonicalId": "great-disappointment-millerites-1844",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Millerism",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Miller 'predicted it would occur around 1843'; followers 'recalculated and set October 22, 1844, as the new date for Christ's return'; 'estimates of 50,000 to 100,000 followers'; influenced the Advent Christian Church and the Seventh-day Adventists."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-22-princeton-charter-1746",
+      "canonicalId": "princeton-charter-1746",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://universityarchives.princeton.edu/2024/10/its-charter-day/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Princeton Archives: charter dated October 22, 1746, for the College of New Jersey, in the name of King George II; texts of the 1746 and 1748 charters."
+        },
+        {
+          "url": "https://pr.princeton.edu/history/companion/charter.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Search listing of A Princeton Companion (page returned 503 when fetched): charter 'passed the Great Seal' of New Jersey on October 22, 1746; issued by John Hamilton, acting governor; purpose 'for the Education of Youth in the Learned Languages and in the Liberal Arts and Sciences'; second charter 1748 by Jonathan Belcher because Hamilton's authority was questioned. Reviewer should confirm."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-22"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 16-22 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
     }
   ]
 }

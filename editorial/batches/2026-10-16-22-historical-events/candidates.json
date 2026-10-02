@@ -258,6 +258,288 @@
         "https://thc.texas.gov/historic-sites/first-capitol-texas",
         "https://www.tsl.texas.gov/exhibits/presidents/houston1/mrprez.html"
       ]
+    },
+    {
+      "candidateId": "oct-16-marie-antoinette-guillotined-1793",
+      "kind": "event",
+      "proposedCanonicalId": "marie-antoinette-guillotined-1793",
+      "workingClaim": "October 16, 1793: On October 16, 1793, Marie-Antoinette, the former queen of France, was guillotined in Paris at the age of 37. She had been brought before the Revolutionary Tribunal on October 14 and found guilty of crimes against the state. Her enemies spread the story that, told the people had no bread, she replied \"Let them eat cake.\" The remark is a legend, not an established quotation.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Marie-Antoinette-queen-of-France"
+      ]
+    },
+    {
+      "candidateId": "oct-16-jane-eyre-published-1847",
+      "kind": "event",
+      "proposedCanonicalId": "jane-eyre-published-1847",
+      "workingClaim": "October 16, 1847: On October 16, 1847, Charlotte Brontë's novel Jane Eyre was published, less than eight weeks after it was accepted. It appeared under the pseudonym Currer Bell; the Brontë sisters used such names to keep their identity secret and avoid the special treatment they believed reviewers gave to women. The book, narrated in the first person by an independent and self-reliant heroine, was an immediate success.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Charlotte-Bronte",
+        "https://www.britannica.com/topic/Jane-Eyre-novel-by-Bronte"
+      ]
+    },
+    {
+      "candidateId": "oct-16-john-brown-raid-harpers-ferry-1859",
+      "kind": "event",
+      "proposedCanonicalId": "john-brown-raid-harpers-ferry-1859",
+      "workingClaim": "October 16, 1859: On the night of October 16, 1859, the abolitionist John Brown and his followers seized the U.S. Armory and Arsenal and the Rifle Works at Harpers Ferry, then in Virginia. He hoped to use the weapons to arm a liberating army against slavery. The raid lasted about a day and a half. Sixteen people were killed, including ten of Brown's men, and on October 18 U.S. Marines under Colonel Robert E. Lee captured Brown. He was convicted of treason against Virginia, murder and conspiring with enslaved people to rebel, and was hanged on December 2. One newspaper said the raid had \"advanced the cause of disunion more than any other event\" since the government's founding.",
+      "sourceUrls": [
+        "https://www.nps.gov/articles/john-browns-raid.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-16-sanger-brownsville-clinic-opens-1916",
+      "kind": "event",
+      "proposedCanonicalId": "sanger-brownsville-clinic-opens-1916",
+      "workingClaim": "October 16, 1916: On October 16, 1916, Margaret Sanger opened the first birth control clinic in the United States, in the Brownsville section of Brooklyn, New York. She ran it with her sister Ethel Byrne, a registered nurse, and the interpreter Fania Mindell, in open defiance of a New York law against distributing contraception. The clinic served more than 100 women on its first day and some 400 before police arrested all three on October 26. Sanger served 30 days in jail, but her appeal led to a 1918 ruling that let New York physicians prescribe contraception for general health reasons.",
+      "sourceUrls": [
+        "https://sanger.hosting.nyu.edu/aboutms/organization_brownsville_clinic/",
+        "https://www.britannica.com/biography/Margaret-Sanger"
+      ]
+    },
+    {
+      "candidateId": "oct-16-china-first-atomic-bomb-1964",
+      "kind": "event",
+      "proposedCanonicalId": "china-first-atomic-bomb-1964",
+      "workingClaim": "October 16, 1964: On October 16, 1964, China exploded its first atomic bomb, a uranium implosion device set off atop a 330-foot steel tower at the Lop Nur test base. It produced 22 kilotons of force and made China the fifth country to possess nuclear weapons, after the United States, the Soviet Union, the United Kingdom and France. Shortly afterward China declared it would \"never at any time and under any circumstances be the first to use nuclear weapons.\" It tested its first hydrogen bomb just 32 months later, on June 17, 1967.",
+      "sourceUrls": [
+        "https://ahf.nuclearmuseum.org/ahf/history/chinese-nuclear-program/"
+      ]
+    },
+    {
+      "candidateId": "oct-16-smith-carlos-olympic-salute-1968",
+      "kind": "event",
+      "proposedCanonicalId": "smith-carlos-olympic-salute-1968",
+      "workingClaim": "October 16, 1968: On October 16, 1968, at the Mexico City Olympics, Tommie Smith and John Carlos, gold and bronze medallists in the 200 metres, raised black-gloved fists on the podium to protest the mistreatment of African Americans. They stood shoeless to highlight Black poverty. Smith had won in 19.83 seconds, the first time the distance was run in under 20 seconds. The U.S. Olympic Committee sent them home, and both received death threats. Smith later called it \"the proudest moment\" of his life and \"one of the saddest.\"",
+      "sourceUrls": [
+        "https://www.cbsnews.com/news/remembering-1968-tommie-smith-raised-fist-salute-at-mexico-city-olympics/",
+        "https://www.britannica.com/biography/Tommie-Smith"
+      ]
+    },
+    {
+      "candidateId": "oct-17-canada-legalizes-cannabis-2018",
+      "kind": "event",
+      "proposedCanonicalId": "canada-legalizes-cannabis-2018",
+      "workingClaim": "October 17, 2018: On October 17, 2018, Canada's Cannabis Act came into force, legalizing and strictly regulating cannabis for adults. Depending on the province or territory, adults 18 or 19 and older could now possess up to 30 grams of dried legal cannabis in public and grow up to four plants per household. The law created two new criminal offences, each carrying up to 14 years in jail: giving or selling cannabis to young people, and using a young person to commit a cannabis offence.",
+      "sourceUrls": [
+        "https://www.canada.ca/en/health-canada/news/2018/10/backgrounder-the-cannabis-act-the-facts.html"
+      ]
+    },
+    {
+      "candidateId": "oct-17-battle-of-nevilles-cross-1346",
+      "kind": "event",
+      "proposedCanonicalId": "battle-of-nevilles-cross-1346",
+      "workingClaim": "October 17, 1346: On October 17, 1346, an English army defeated an invading Scottish force at Neville's Cross, near Durham in northern England. The Scots, allies of France, had invaded to draw Edward III's attention away from his siege of Calais during the Hundred Years' War. Edward had left a strong force in the northern shires, and King David II of Scotland was captured in the battle. He remained a prisoner of the English until 1357.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Battle-of-Nevilles-Cross"
+      ]
+    },
+    {
+      "candidateId": "oct-17-siege-of-sevastopol-begins-1854",
+      "kind": "event",
+      "proposedCanonicalId": "siege-of-sevastopol-begins-1854",
+      "workingClaim": "October 17, 1854: On October 17, 1854, British and French forces began the siege of Sevastopol, Russia's fortress and naval base in Crimea and the central objective of the Crimean War. The siege lasted nearly a year. On September 11, 1855, three days after a successful French assault on the Malakhov strongpoint, the Russians blew up their forts, sank their ships and abandoned the city.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/list-of-battles-2084178",
+        "https://www.britannica.com/event/Crimean-War"
+      ]
+    },
+    {
+      "candidateId": "oct-17-mr-smith-goes-to-washington-premiere-1939",
+      "kind": "event",
+      "proposedCanonicalId": "mr-smith-goes-to-washington-premiere-1939",
+      "workingClaim": "October 17, 1939: On October 17, 1939, Frank Capra's Mr. Smith Goes to Washington had its premiere at Constitution Hall in Washington, D.C., with 45 senators and 250 members of the House in the audience. The film follows an idealistic freshman senator who stages a one-man filibuster against political corruption. Most lawmakers responded well, but Senate Majority Leader Alben Barkley called it \"silly and stupid\" and said it showed the Senate as \"a bunch of crooks.\"",
+      "sourceUrls": [
+        "https://www.senate.gov/about/powers-procedures/filibusters-cloture/mr-smith-comes-to-washington.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-18-ostend-manifesto-1854",
+      "kind": "event",
+      "proposedCanonicalId": "ostend-manifesto-1854",
+      "workingClaim": "October 18, 1854: On October 18, 1854, three U.S. diplomats, James Buchanan, John Y. Mason and Pierre Soulé, drew up a dispatch urging the United States to seize Cuba if Spain refused to sell it. The idea grew from fear of a slave revolt in Cuba like the one in Haiti and from a desire to expand U.S. slave territory. The proposals were rejected, and when the dispatch became public, the Republican press branded it a \"manifesto\" aimed at Southern opinion. It marked the high point of the U.S. expansionist drive in the Caribbean in the 1850s.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Ostend-Manifesto"
+      ]
+    },
+    {
+      "candidateId": "oct-18-puerto-rico-transferred-to-us-1898",
+      "kind": "event",
+      "proposedCanonicalId": "puerto-rico-transferred-to-us-1898",
+      "workingClaim": "October 18, 1898: On October 18, 1898, the last Spanish troops sailed home from Puerto Rico and the U.S. flag was raised, completing a two-month handover that had begun on August 12. American troops had landed at Guánica Bay on July 25 during the Spanish-American War. The Treaty of Paris, signed on December 10, 1898, formalized the transfer. The island was under military government until the Foraker Act set up a civilian government in 1900.",
+      "sourceUrls": [
+        "https://guides.loc.gov/world-of-1898/puerto-rico-overview"
+      ]
+    },
+    {
+      "candidateId": "oct-18-british-broadcasting-company-founded-1922",
+      "kind": "event",
+      "proposedCanonicalId": "british-broadcasting-company-founded-1922",
+      "workingClaim": "October 18, 1922: On October 18, 1922, the British Broadcasting Company was established as a private corporation. Only genuine radio manufacturers could hold shares, and the company was funded by half of the 10-shilling licence fee on receivers plus a royalty on sales of radio sets. John Reith ran it from the start. In 1927 it was replaced by a public body, the British Broadcasting Corporation, answerable to Parliament but run day to day by its Board of Governors, with Reith as director-general. The BBC kept its broadcasting monopoly until 1954.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/broadcasting/Formation-of-the-British-Broadcasting-Company"
+      ]
+    },
+    {
+      "candidateId": "oct-18-thomas-edison-dies-1931",
+      "kind": "event",
+      "proposedCanonicalId": "thomas-edison-dies-1931",
+      "workingClaim": "October 18, 1931: On October 18, 1931, Thomas Edison died at West Orange, New Jersey, at the age of 84. He held a world-record 1,093 patents. His inventions included the phonograph, the incandescent lamp, the carbon-button telephone transmitter and motion-picture equipment, along with the first commercial electric light and power system. His laboratory at Menlo Park is considered the first industrial research laboratory.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Thomas-Edison"
+      ]
+    },
+    {
+      "candidateId": "oct-19-john-jay-first-chief-justice-oath-1789",
+      "kind": "event",
+      "proposedCanonicalId": "john-jay-first-chief-justice-oath-1789",
+      "workingClaim": "October 19, 1789: On October 19, 1789, John Jay took his oaths as the first Chief Justice of the United States, before Richard Morris, chief justice of the State of New York. President George Washington had nominated him on September 24, 1789, and the Senate confirmed him two days later.",
+      "sourceUrls": [
+        "https://www.supremecourt.gov/about/oath/oathsofthechiefjustices.aspx",
+        "https://www.fjc.gov/history/judges/jay-john"
+      ]
+    },
+    {
+      "candidateId": "oct-19-st-albans-raid-1864",
+      "kind": "event",
+      "proposedCanonicalId": "st-albans-raid-1864",
+      "workingClaim": "October 19, 1864: On October 19, 1864, about 25 Confederate soldiers who had been based in Canada raided St. Albans, Vermont. They robbed three banks of about $200,000, killed one man and fled back across the border. Canadian authorities arrested about half of them on October 21 but released them on December 13, which caused strong protests in the United States. The dispute was still being argued in 1872, when a claims commission under the Treaty of Washington ruled against further American claims.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Saint-Albans-Raid"
+      ]
+    },
+    {
+      "candidateId": "oct-19-first-battle-of-ypres-begins-1914",
+      "kind": "event",
+      "proposedCanonicalId": "first-battle-of-ypres-begins-1914",
+      "workingClaim": "October 19, 1914: On October 19, 1914, the First Battle of Ypres began in western Flanders, as German, British, French and Belgian forces each tried to outflank the other in the \"race to the sea.\" The fighting lasted until November 22. Neither side broke through, and both settled into the trench warfare that would mark the rest of the war. The British lost more than 54,000 killed, wounded and missing, the French at least 50,000, the Belgians more than 20,000, and the Germans more than 130,000.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/First-Battle-of-Ypres"
+      ]
+    },
+    {
+      "candidateId": "oct-19-mother-teresa-beatified-2003",
+      "kind": "event",
+      "proposedCanonicalId": "mother-teresa-beatified-2003",
+      "workingClaim": "October 19, 2003: On October 19, 2003, Pope John Paul II beatified Mother Teresa of Calcutta, the founder of the Missionaries of Charity. Born Agnes Gonxha Bojaxhiu in Skopje in 1910, she had worked among the poor and dying of Calcutta, won the Nobel Peace Prize in 1979 and died there on September 5, 1997. Pope Francis canonized her as St. Teresa of Calcutta on September 4, 2016.",
+      "sourceUrls": [
+        "https://www.vatican.va/news_services/liturgy/saints/ns_lit_doc_20031019_index_madre-teresa_en.html",
+        "https://www.britannica.com/biography/Mother-Teresa"
+      ]
+    },
+    {
+      "candidateId": "oct-20-saturday-night-massacre-1973",
+      "kind": "event",
+      "proposedCanonicalId": "saturday-night-massacre-1973",
+      "workingClaim": "October 20, 1973: On October 20, 1973, President Richard Nixon ordered Attorney General Elliot Richardson to fire Archibald Cox, the special prosecutor investigating Watergate, who had subpoenaed the White House tapes. Richardson resigned rather than comply, and his deputy, William Ruckelshaus, also refused and left. Solicitor General Robert Bork finally dismissed Cox. The firings became known as the Saturday Night Massacre. Under public pressure, Nixon agreed on October 23 to release tapes, and within a year the House Judiciary Committee had approved articles of impeachment. He announced his resignation on August 8, 1974.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Watergate-Scandal/Watergate-trial-and-aftermath",
+        "https://www.britannica.com/topic/Saturday-Night-Massacre"
+      ]
+    },
+    {
+      "candidateId": "oct-20-lynyrd-skynyrd-plane-crash-1977",
+      "kind": "event",
+      "proposedCanonicalId": "lynyrd-skynyrd-plane-crash-1977",
+      "workingClaim": "October 20, 1977: On October 20, 1977, a plane carrying the Southern rock band Lynyrd Skynyrd ran out of fuel and crashed near Gillsburg, Mississippi. The crash killed lead singer Ronnie Van Zant, guitarist Steve Gaines, backup singer Cassie Gaines, assistant tour manager Dean Kilpatrick and both pilots. Twenty people survived, some critically injured. The band broke up afterward. Surviving members reunited in 1987 with Ronnie's younger brother Johnny Van Zant as lead singer, and the band entered the Rock and Roll Hall of Fame in 2006.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Lynyrd-Skynyrd",
+        "https://www.britannica.com/biography/Ronnie-Van-Zant"
+      ]
+    },
+    {
+      "candidateId": "oct-20-qaddafi-killed-2011",
+      "kind": "event",
+      "proposedCanonicalId": "qaddafi-killed-2011",
+      "workingClaim": "October 20, 2011: On October 20, 2011, Muammar al-Qaddafi, who had ruled Libya since seizing power in a military coup on September 1, 1969, was captured and killed by rebel fighters in Sirte, his birthplace and one of the last towns still loyal to him. Rebel forces had taken most of the capital, Tripoli, on August 22 and 23, and Qaddafi had evaded capture for several weeks.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Muammar-al-Qaddafi",
+        "https://www.britannica.com/place/Libya/Qaddafi-toppled-and-killed"
+      ]
+    },
+    {
+      "candidateId": "oct-20-osiris-rex-touches-bennu-2020",
+      "kind": "event",
+      "proposedCanonicalId": "osiris-rex-touches-bennu-2020",
+      "workingClaim": "October 20, 2020: On October 20, 2020, NASA's OSIRIS-REx spacecraft briefly touched the surface of the asteroid Bennu, more than 200 million miles (321 million kilometres) from Earth, to collect dust and rock. It touched down within about one metre of its target at a site called Nightingale. The sampling head was in contact for about six seconds. A burst of nitrogen gas stirred up surface material, and the spacecraft spent about five of those seconds collecting it.",
+      "sourceUrls": [
+        "https://www.nasa.gov/solar-system/osiris-rex-tags-surface-of-asteroid-bennu/"
+      ]
+    },
+    {
+      "candidateId": "oct-21-aberfan-disaster-1966",
+      "kind": "event",
+      "proposedCanonicalId": "aberfan-disaster-1966",
+      "workingClaim": "October 21, 1966: On October 21, 1966, after heavy rain, a spoil tip from the Merthyr Vale Colliery above the Welsh village of Aberfan gave way. A slide of liquefied debris flowed down the mountainside at more than 80 miles per hour and smashed into Pantglas Junior School. The disaster killed 144 people, 116 of them children. A public inquiry blamed the National Coal Board, whose chairman had claimed the slide could not have been foreseen, even though safety concerns had often been raised.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Aberfan-disaster"
+      ]
+    },
+    {
+      "candidateId": "oct-21-magellan-enters-strait-1520",
+      "kind": "event",
+      "proposedCanonicalId": "magellan-enters-strait-1520",
+      "workingClaim": "October 21, 1520: On October 21, 1520, Ferdinand Magellan's fleet entered the strait at the southern tip of South America that is now named after him. The ships emerged into the ocean beyond on November 28, and Magellan is credited with naming it the Pacific. Magellan was killed on Mactan in the Philippines on April 27, 1521, but one of his ships, under Juan Sebastián del Cano, sailed on to Spain, completing the first circumnavigation of Earth.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Ferdinand-Magellan"
+      ]
+    },
+    {
+      "candidateId": "oct-21-my-fair-lady-film-premiere-1964",
+      "kind": "event",
+      "proposedCanonicalId": "my-fair-lady-film-premiere-1964",
+      "workingClaim": "October 21, 1964: On October 21, 1964, the film My Fair Lady had its world premiere at New York's Criterion Theatre. Directed by George Cukor, it starred Audrey Hepburn as Eliza Doolittle and Rex Harrison as Henry Higgins, in an adaptation of Lerner and Loewe's stage musical based on George Bernard Shaw's play Pygmalion. Studio executives judged Hepburn's singing unsuitable, so her songs were dubbed by Marni Nixon. The film won Academy Awards including best picture, best director and best actor for Harrison.",
+      "sourceUrls": [
+        "https://catalog.afi.com/Catalog/moviedetails/22921"
+      ]
+    },
+    {
+      "candidateId": "oct-21-uss-constitution-launched-1797",
+      "kind": "event",
+      "proposedCanonicalId": "uss-constitution-launched-1797",
+      "workingClaim": "October 21, 1797: On October 21, 1797, the frigate Constitution was launched from Edmund Hartt's shipyard in Boston, one of the six original frigates of the new U.S. Navy. She first sailed on July 22, 1798. In the War of 1812 she defeated four British frigates and earned the nickname \"Old Ironsides.\" She remains the oldest commissioned warship afloat in the world.",
+      "sourceUrls": [
+        "https://ussconstitutionmuseum.org/uss-constitution-facts/",
+        "https://www.nps.gov/places/uss-constitution.htm"
+      ]
+    },
+    {
+      "candidateId": "oct-22-kennedy-cuban-missile-crisis-address-1962",
+      "kind": "event",
+      "proposedCanonicalId": "kennedy-cuban-missile-crisis-address-1962",
+      "workingClaim": "October 22, 1962: On October 22, 1962, President John F. Kennedy announced that the Soviet Union had placed offensive missiles in Cuba, which U.S. spy planes had photographed on October 14. He ordered a naval quarantine, saying the United States would stop and seize \"offensive weapons and associated matériel\" bound for the island. On October 28 Soviet leader Nikita Khrushchev agreed to remove the missiles. Kennedy promised not to invade Cuba and secretly promised to withdraw U.S. nuclear missiles from Turkey. The crisis was the closest the world had come to global nuclear war.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/Cuban-missile-crisis"
+      ]
+    },
+    {
+      "candidateId": "oct-22-garnerin-first-parachute-descent-1797",
+      "kind": "event",
+      "proposedCanonicalId": "garnerin-first-parachute-descent-1797",
+      "workingClaim": "October 22, 1797: On October 22, 1797, the French balloonist André-Jacques Garnerin jumped from a balloon about 1,000 metres (3,200 feet) above Parc Monceau in Paris and came down under an umbrella-shaped white canvas parachute about 7 metres across. Garnerin became the first person to use a parachute regularly and successfully, and in 1802 he jumped from about 8,000 feet in England.",
+      "sourceUrls": [
+        "https://airandspace.si.edu/collection-media/NASM-86885D4383282_002",
+        "https://www.britannica.com/biography/Andre-Jacques-Garnerin"
+      ]
+    },
+    {
+      "candidateId": "oct-22-great-disappointment-millerites-1844",
+      "kind": "event",
+      "proposedCanonicalId": "great-disappointment-millerites-1844",
+      "workingClaim": "October 22, 1844: October 22, 1844, was the day followers of the American preacher William Miller expected Christ to return. Miller had predicted the Second Coming for around 1843, and when that passed, followers recalculated to October 22, 1844. The movement had an estimated 50,000 to 100,000 followers. The day passed without event, an episode remembered as the Great Disappointment. Many believers concluded only the calculation was wrong, and the movement shaped later Adventist churches, including the Advent Christian Church and the Seventh-day Adventists.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Millerism"
+      ]
+    },
+    {
+      "candidateId": "oct-22-princeton-charter-1746",
+      "kind": "event",
+      "proposedCanonicalId": "princeton-charter-1746",
+      "workingClaim": "October 22, 1746: On October 22, 1746, the College of New Jersey, which became Princeton University, received its charter, granted in the name of King George II by John Hamilton, acting governor of the province of New Jersey. The charter created a college \"for the Education of Youth in the Learned Languages and in the Liberal Arts and Sciences.\" Because Hamilton's authority was questioned, a second charter was issued in 1748 by the new governor, Jonathan Belcher.",
+      "sourceUrls": [
+        "https://universityarchives.princeton.edu/2024/10/its-charter-day/",
+        "https://pr.princeton.edu/history/companion/charter.html"
+      ]
     }
   ]
 }
