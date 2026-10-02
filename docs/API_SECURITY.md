@@ -51,7 +51,7 @@ database load on the Supabase free plan, and junk device rows.
 - **Edge caching for content reads.** The function adds
   `Cache-Control: public, max-age=60` to successful GETs of today, recent days,
   event detail, quiz catalog and Daily Challenge, using the managed
-  `Managed-UseOriginCacheControlHeaders-QueryStrings` policy (the Free plan
+  `UseOriginCacheControlHeaders-QueryStrings` policy (the Free plan
   does not allow custom cache policies). Writes, Quick Play and health are
   never given a max-age. CloudFront still caches GET error responses
   (4xx/5xx) for its default 10 seconds, which also absorbs repeated bad

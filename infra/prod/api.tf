@@ -196,8 +196,10 @@ resource "aws_cloudfront_origin_access_control" "api" {
 # policy, because the flat-rate Free plan does not allow custom cache
 # policies. It keys on every query string, so junk parameters can bypass the
 # cache; the WAF per-IP rate rule bounds that.
+# Looked up by ID: AWS lists this policy as UseOriginCacheControlHeaders-
+# QueryStrings (no "Managed-" prefix), so a name lookup finds nothing.
 data "aws_cloudfront_cache_policy" "use_origin_cache_control_query_strings" {
-  name = "Managed-UseOriginCacheControlHeaders-QueryStrings"
+  id = "4cc15a8a-d715-48a4-82b8-cc0b614638fe"
 }
 
 # Forwards the viewer's headers (Content-Type and the body hash OAC needs on
