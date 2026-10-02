@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "assets": [
+    {
+      "id": "gandhi-born-1869-salt-march",
+      "eventId": "gandhi-born-1869",
+      "primary": true,
+      "sourceRenditionUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Gandhi_during_the_Salt_March_30_C2-12-105_n.jpg/1920px-Gandhi_during_the_Salt_March_30_C2-12-105_n.jpg",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gandhi_during_the_Salt_March_30_C2-12-105_n.jpg",
+      "altText": "Mohandas Gandhi, carrying a walking staff, leads a column of marchers along a tree-lined road during the Salt March in March 1930",
+      "attribution": "Photographer unknown, March 1930, via Wikimedia Commons (public domain: PD-India and PD-India-URAA)",
+      "creator": null,
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/"
+    }
+  ]
+}

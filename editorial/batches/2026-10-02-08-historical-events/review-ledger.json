@@ -5,13 +5,31 @@
     {
       "candidateId": "oct-02-gandhi-born",
       "canonicalId": "gandhi-born-1869",
-      "reviewStatus": "approved",
+      "reviewStatus": "source_verified",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
           "status": "verified_supporting",
           "checkedOn": "2026-09-27",
           "note": "Britannica: 'Mahatma Gandhi (born October 2, 1869, Porbandar, India - died January 30, 1948, Delhi) was an Indian lawyer, politician, social activist, and writer who became the leader of the Indian Independence Movement against British rule.'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Mahatma-Gandhi/Emergence-as-nationalist-leader",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Salt March of March 1930 'resulted in the imprisonment of more than 60,000 people'; partition accepted 'against his advice'; shot by Nathuram Godse on January 30, 1948. Main page: thrown out of a first-class compartment on the way to Pretoria; 'Henceforth he would not accept injustice'; father was dewan of Porbandar; diffident, struggled to find legal work after London."
+        },
+        {
+          "url": "https://kinginstitute.stanford.edu/gandhi-mohandas-k",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "King Institute: Gandhian philosophy 'the only morally and practically sound method open to oppressed people in their struggle for freedom' (King)."
+        },
+        {
+          "url": "https://www.un.org/en/observances/non-violence-day",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "UN: International Day of Non-Violence is 2 October, Gandhi's birthday; established by General Assembly resolution A/RES/61/271 of 15 June 2007."
         }
       ],
       "imageRightsStatus": "verified",
@@ -24,14 +42,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03.",
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03. | Story-quality rewrite 2026-10-02 (longer Event Detail, new sources). Proposed Salt March hero image is staged in build/ and described in editorial/event-images/candidates/2026-10-02-gandhi-salt-march.json; not uploaded or attached. Reverted from approved to source_verified until the owner re-reviews the rewritten copy.",
       "reviewer": "Jevaun Harris",
       "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-saladin",
       "canonicalId": "saladin-captures-jerusalem-1187",
-      "reviewStatus": "approved",
+      "reviewStatus": "source_verified",
       "sourceChecks": [
         {
           "url": "https://www.britannica.com/biography/Saladin",
@@ -51,14 +69,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03.",
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03. | Story-quality rewrite 2026-10-02: Britannica Saladin page also supports the 1099 revenge plan and ransom terms, the 'deeply shocked' West and the Third Crusade (three kings), and Saladin's chivalrous reputation. Reverted from approved to source_verified until the owner re-reviews the rewritten copy.",
       "reviewer": "Jevaun Harris",
       "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-peanuts",
       "canonicalId": "peanuts-debuts-1950",
-      "reviewStatus": "approved",
+      "reviewStatus": "source_verified",
       "sourceChecks": [
         {
           "url": "https://schulzmuseum.org/about-schulz/schulz-biography/",
@@ -77,14 +95,14 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json.",
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Image rights verified 2026-10-01 in the delegated image pass (Commons licence metadata, rendition reviewed); see editorial/event-images/manifests/2026-10-16-12-25.publish-manifest.json. | Story-quality rewrite 2026-10-02: Schulz Museum page also supports Schulz at 27, three-year Li'l Folks run in the St. Paul Pioneer Press, and 2,600+ newspapers and 25+ languages at the December 1999 retirement. Reverted from approved to source_verified until the owner re-reviews the rewritten copy.",
       "reviewer": "Jevaun Harris",
       "reviewedOn": "2026-09-29"
     },
     {
       "candidateId": "oct-02-beagle",
       "canonicalId": "beagle-returns-to-england-1836",
-      "reviewStatus": "approved",
+      "reviewStatus": "source_verified",
       "sourceChecks": [
         {
           "url": "https://www.darwinproject.ac.uk/commentary/voyage-hms-beagle",
@@ -97,6 +115,12 @@
           "status": "verified_supporting",
           "checkedOn": "2026-09-27",
           "note": "Darwin Correspondence Project: 'When the Beagle docked at Falmouth on 2 October 1836...'"
+        },
+        {
+          "url": "https://www.britannica.com/biography/Charles-Darwin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Darwin 'formulated his bold theory in private in 1837-39, after returning from a voyage around the world aboard HMS Beagle'; full public expression in On the Origin of Species (1859)."
         }
       ],
       "imageRightsStatus": "verified",
@@ -110,7 +134,7 @@
       "calendarDays": [
         "10-02"
       ],
-      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03.",
+      "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-28 by Jevaun Harris in event-image batch 2026-09-27-10-03. | Story-quality rewrite 2026-10-02: Darwin Correspondence Project page supports the Admiralty chart-the-coast purpose, FitzRoy wanting a companion rather than a mere collector, the 22-year-old Darwin, and 'really began on board the Beagle'. Reverted from approved to source_verified until the owner re-reviews the rewritten copy.",
       "reviewer": "Jevaun Harris",
       "reviewedOn": "2026-09-29"
     },

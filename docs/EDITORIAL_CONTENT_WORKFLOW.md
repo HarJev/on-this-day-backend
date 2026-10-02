@@ -9,6 +9,10 @@ candidate -> direct-source check -> human review ledger -> canonical JSON
 -> strict validation -> staging import -> coverage report
 ```
 
+Between the source check and the review ledger, each event gets the story-quality
+review in [Event Story-Quality Guide](EVENT_STORY_QUALITY_GUIDE.md). Copy that
+changes after an approval returns to `source_verified` until it is re-reviewed.
+
 The workflow never publishes a candidate automatically. A staging batch selects
 specific canonical days, event IDs, and quiz pack filenames. Preflight confirms
 that every selected item has an approved review record, every canonical source
