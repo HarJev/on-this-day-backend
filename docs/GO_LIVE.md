@@ -187,7 +187,6 @@ Content can be re-imported from Git; device registrations would be lost.
     EMPTY=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     curl -i "$API/v1/health"
     curl -i "$API/v1/days/today?timezone=America/Jamaica"
-    curl -s -o /dev/null -D - "$API/v1/days/today?timezone=America/Jamaica" | grep -i x-cache   # Hit from cloudfront
     curl -i "$API/v1/events/battle-of-bosworth-field-1485"
     curl -i "$API/v1/quizzes/catalog"
     curl -i "$API/v1/quizzes/daily?timezone=America/Jamaica&questionCount=5"
