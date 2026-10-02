@@ -35,9 +35,11 @@ public final class ApiGatewayHttpHandler
   static final int MAX_BODY_LENGTH = 16 * 1024;
 
   /**
-   * Content reads that are the same for every caller, so CloudFront may serve them from its
-   * cache for {@link #CONTENT_CACHE_CONTROL}. Everything else carries no max-age and is never
-   * cached. Today's content may be up to that long stale after local midnight.
+   * Content reads that are the same for every caller, so a cache may serve them for {@link
+   * #CONTENT_CACHE_CONTROL}. Everything else carries no max-age and is never cached. The API
+   * distribution currently uses CachingDisabled, so the header is ready for when edge caching
+   * returns (see docs/API_SECURITY.md). Today's content may then be up to that long stale after
+   * local midnight.
    */
   static final Set<String> CACHEABLE_GET_ROUTES =
       Set.of(

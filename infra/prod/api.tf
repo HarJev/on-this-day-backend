@@ -23,8 +23,8 @@
 #   Until the owner subscribes the distribution it is pay-as-you-go, which is
 #   inside CloudFront's always-free 10M requests and 1 TB for beta traffic.
 # - Lambda: 1M requests and 400,000 GB-seconds a month are always free. At
-#   1,024 MB that is about 4 million 100 ms requests. Cached responses and
-#   requests WAF blocks never invoke it.
+#   1,024 MB that is about 4 million 100 ms requests. There is no edge caching
+#   for now, so every allowed request invokes it; requests WAF blocks never do.
 # - CloudWatch: the log group keeps 14 days; the first 5 GB of logs a month and
 #   10 alarms are free. With the notification alarm this makes two.
 # - No CloudFront standard logs (they could record device tokens in DELETE
