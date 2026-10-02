@@ -23,7 +23,7 @@ no Supabase. Web fetches in the main session only.
 
 French women's first vote (1945 elector card), last natural smallpox case
 (smallpox virus micrograph, CDC), Maastricht Treaty (memorial stone), Doctor
-Who (TARDIS prop), Paris climate agreement (April 2016 signing ceremony),
+Who (a plain police box, replacing a 2015 exhibit photo after review; the old S3 object stays unreferenced), Paris climate agreement (April 2016 signing ceremony),
 Kyoto Protocol (2005 ratification map), Hank Aaron's 715th (the wall marking
 where it landed), Outer Space Treaty (signing, ITU Flickr, CC BY 2.0), Voskhod 1
 (the capsule at the Science Museum), first Oktoberfest (Kobell's 1811 painting
