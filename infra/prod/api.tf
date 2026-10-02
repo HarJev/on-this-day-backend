@@ -8,9 +8,10 @@
 #   it, via origin access control (SigV4). Direct calls get 403 from Lambda
 #   without running, or billing, the function.
 # - Abuse limits live at the edge: the Free plan's AWS WAF web ACL takes a
-#   per-IP rate-based rule (added by the owner in the console), and content
-#   GETs are cached for 60 seconds, so repeated identical reads rarely reach
-#   Lambda or the database. Handlers validate every input and cap list sizes.
+#   per-IP rate-based rule (added by the owner in the console). Edge caching is
+#   off for now (see the cache policy below), so every request reaches Lambda;
+#   beta volume sits inside the Lambda free tier. Handlers validate every input
+#   and cap list sizes.
 # - api_reserved_concurrency caps simultaneous executions once the account's
 #   Lambda quota allows reserving (new accounts start at 10 and cannot).
 #
@@ -189,17 +190,14 @@ resource "aws_cloudfront_origin_access_control" "api" {
   signing_protocol                  = "sigv4"
 }
 
-# The origin decides what is cacheable: the function sends Cache-Control only
-# on successful content GETs, and writes, Quick Play and health carry no
-# max-age. CloudFront still caches GET error responses (4xx/5xx) for its
-# default 10 seconds, which also absorbs repeated bad requests. A managed
-# policy, because the flat-rate Free plan does not allow custom cache
-# policies. It keys on every query string, so junk parameters can bypass the
-# cache; the WAF per-IP rate rule bounds that.
-# Looked up by ID: AWS lists this policy as UseOriginCacheControlHeaders-
-# QueryStrings (no "Managed-" prefix), so a name lookup finds nothing.
-data "aws_cloudfront_cache_policy" "use_origin_cache_control_query_strings" {
-  id = "4cc15a8a-d715-48a4-82b8-cc0b614638fe"
+# No edge caching for now. The managed UseOriginCacheControlHeaders-
+# QueryStrings policy keys on the Host header, and CloudFront forwards every
+# cache-key header to the origin, so the viewer's Host reached the function URL
+# and its SigV4 check returned 403. CachingDisabled keys on nothing, so Host is
+# not forwarded (AllViewerExceptHostHeader below keeps it out). Managed policy
+# because the flat-rate Free plan does not allow custom ones. Looked up by ID.
+data "aws_cloudfront_cache_policy" "caching_disabled" {
+  id = "4135ea2d-6df8-44a3-9df3-4b5a84be39ad"
 }
 
 # Forwards the viewer's headers (Content-Type and the body hash OAC needs on
@@ -239,7 +237,7 @@ resource "aws_cloudfront_distribution" "api" {
     target_origin_id         = "api-function-url"
     allowed_methods          = ["GET", "HEAD", "OPTIONS", "PUT", "POST", "PATCH", "DELETE"]
     cached_methods           = ["GET", "HEAD"]
-    cache_policy_id          = data.aws_cloudfront_cache_policy.use_origin_cache_control_query_strings.id
+    cache_policy_id          = data.aws_cloudfront_cache_policy.caching_disabled.id
     origin_request_policy_id = data.aws_cloudfront_origin_request_policy.all_viewer_except_host.id
     viewer_protocol_policy   = "https-only"
     compress                 = true
