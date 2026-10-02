@@ -174,8 +174,10 @@ Content can be re-imported from Git; device registrations would be lost.
 
 16. Open the `api_distribution_id` distribution in CloudFront and subscribe it
     to the **Free** plan (the second of three; images use the first).
-17. In that plan's WAF protection pack, add a custom rate-based rule: source
-    IP, 300 requests per 5 minutes, all requests, Block.
+17. In that plan's WAF protection pack (`CreatedByCloudFront-...`, under AWS
+    WAF, Global (CloudFront)), add a custom rate-based rule: source IP, 300
+    requests per 5 minutes, all requests, Block. Done by hand on 2026-10-02 as
+    `per-ip-rate-limit`; Terraform does not manage this pack.
 
 ## F. Smoke Test
 

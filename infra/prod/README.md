@@ -79,7 +79,8 @@ Launch order and cost notes: `docs/NOTIFICATIONS.md`.
 `api_lambda_zip_path` (plus `db_jdbc_url` and `db_user`) creates the
 `on-this-day-api` function, its role and log group, a function URL with
 `AWS_IAM` auth, a CloudFront distribution that alone may invoke it (origin
-access control) using the managed origin-Cache-Control cache policy, and an
+access control) with the managed CachingDisabled cache policy (no edge
+caching for now), and an
 error alarm. No new deployer IAM is needed. The
 function reads the database password from `db_password_ssm_parameter_name`
 and connects with `verify-full` TLS. The `api_base_url` output is the release
