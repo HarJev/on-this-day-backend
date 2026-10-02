@@ -29,7 +29,9 @@ resource "aws_iam_user_policy_attachment" "deployer" {
 }
 
 # Every role the deployer creates must carry this boundary, so a workload role
-# can never be used to gain more than these permissions.
+# can never be used to gain more than these permissions. Since 2026-10-02 the
+# live policy is managed by infra/prod/iam.tf (imported there); this copy is
+# the historical bootstrap definition and is not applied again.
 resource "aws_iam_policy" "workload_boundary" {
   name        = "${local.prefix}-workload-boundary"
   description = "Maximum permissions for any On This Day workload role"
@@ -225,7 +227,9 @@ data "aws_iam_policy_document" "deployer" {
     sid       = "ProtectOwnPermissions"
     effect    = "Deny"
     actions   = ["iam:CreatePolicyVersion", "iam:DeletePolicy", "iam:DeletePolicyVersion", "iam:SetDefaultPolicyVersion"]
-    resources = [aws_iam_policy.workload_boundary.arn, "arn:aws:iam::${local.account_id}:policy/${local.prefix}-terraform"]
+    # The workload boundary is no longer listed: it is managed by infra/prod
+    # (owner decision 2026-10-02). The deployer's own policy stays protected.
+    resources = ["arn:aws:iam::${local.account_id}:policy/${local.prefix}-terraform"]
   }
 }
 
