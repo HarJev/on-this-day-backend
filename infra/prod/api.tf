@@ -122,8 +122,8 @@ resource "aws_lambda_function" "api" {
 
   environment {
     variables = {
-      DB_JDBC_URL                = var.db_jdbc_url
-      DB_USER                    = var.db_user
+      DB_JDBC_URL                = local.db_jdbc_url
+      DB_USER                    = local.db_user
       DB_PASSWORD_SSM_PARAMETER  = var.db_password_ssm_parameter_name
       DB_SSL_MODE                = "verify-full"
       DB_CONNECT_TIMEOUT_SECONDS = "5"
@@ -138,8 +138,8 @@ resource "aws_lambda_function" "api" {
 
   lifecycle {
     precondition {
-      condition     = var.db_jdbc_url != null && var.db_user != null
-      error_message = "Set db_jdbc_url and db_user before deploying the API function."
+      condition     = local.db_jdbc_url != null && local.db_user != null
+      error_message = "Set supabase_project_ref (or db_jdbc_url and db_user) before deploying the API function."
     }
   }
 }

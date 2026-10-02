@@ -98,3 +98,8 @@ The ordered owner steps for the first API, notification and Supabase
 deploy, including the Lambda ZIP build (`mvn -B -Plambda-zip clean package
 -DskipTests`) and the go-live `terraform.tfvars` values, are in
 `docs/GO_LIVE.md`. `tests/go_live.tftest.hcl` checks that variable set offline.
+
+`supabase.tf` imports the existing Supabase project (never creates or
+deletes it), enforces SSL, and derives the functions' pooler URL and runtime
+user. It needs `TF_VAR_supabase_access_token` on every plan that manages
+Supabase; the database password stays out of Terraform.

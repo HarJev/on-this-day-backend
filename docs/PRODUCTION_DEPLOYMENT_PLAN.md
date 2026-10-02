@@ -8,7 +8,10 @@ Provisioning and spend require a separate approval.
 > Supabase **Free** plan ($0) for now, the transaction pooler (port 6543,
 > `prepareThreshold=0`) for the Lambdas, and a function URL behind CloudFront
 > instead of API Gateway. Where this plan says otherwise, `GO_LIVE.md`,
-> `API_SECURITY.md` and `NOTIFICATIONS.md` are current.
+> `API_SECURITY.md` and `NOTIFICATIONS.md` are current. The owner also
+> approved managing the Supabase project in Terraform (2026-10-02,
+> `infra/prod/supabase.tf`: imported, SSL enforced, password kept out of
+> state).
 
 This plan covers the existing daily-history, device, and quiz APIs. It follows
 the launch gates in the mobile repository's

@@ -83,13 +83,13 @@ variable "firebase_project_id" {
 }
 
 variable "db_jdbc_url" {
-  description = "Production JDBC URL (no password). Required to deploy the API or notification function."
+  description = "Override for the functions' JDBC URL (no password). Derived from the Supabase pooler when supabase_project_ref is set."
   type        = string
   default     = null
 }
 
 variable "db_user" {
-  description = "Production runtime database user."
+  description = "Override for the functions' database user. Defaults to otd_runtime.<supabase_project_ref>."
   type        = string
   default     = null
 }

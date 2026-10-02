@@ -26,13 +26,17 @@ Content can be re-imported from Git; device registrations would be lost.
 
 ## A. Supabase
 
-1. **Create the project:** Free plan, region East US (North Virginia), a
-   strong generated database password saved as the *admin* password.
-2. **Lock it down:** Project Settings, Data API: turn the Data API off.
-   Database, Settings, SSL Configuration: enforce SSL, then download the
-   certificate to `~/Documents/on-this-day/supabase/prod-ca-2021.crt`. From
-   Connect, Session pooler, note the pooler host; the project ref is under
-   Project Settings, General.
+1. **Project:** one project named `on-this-day` on the Free plan in East US
+   (North Virginia). Terraform (`infra/prod/supabase.tf`) imports it rather
+   than creating it, so create it in the dashboard or through the Supabase
+   connector. Reset its database password under Project Settings, Database,
+   and save it as the *admin* password (Terraform never holds it). Create a
+   personal access token under Account, Access Tokens, for Terraform.
+2. **Dashboard settings Terraform cannot make:** Integrations, Data API: turn
+   **Enable Data API** off. Database, Settings, SSL Configuration: download
+   the certificate to `~/Documents/on-this-day/supabase/prod-ca-2021.crt`
+   (Terraform enforces SSL). From Connect, Session pooler, note the pooler
+   host; the project ref is under Project Settings, General.
 3. **Check verified TLS** (prompts for the admin password; prints a version
    line on success):
 
@@ -127,18 +131,25 @@ Content can be re-imported from Git; device registrations would be lost.
     backup in `~/Documents/on-this-day/terraform-state-backup/`) and add the
     values shown in `terraform.tfvars.example`. Keep
     `firebase_credentials_version = 1`, or Terraform would delete the Firebase
-    key parameter. The schedule stays disabled and dry-run by default.
-13. **Plan:**
+    key parameter. The schedule stays disabled and dry-run by default. With
+    `supabase_project_ref` set, the functions' JDBC URL (transaction pooler)
+    and user (`otd_runtime.<ref>`) are derived; no `db_jdbc_url` is needed.
+13. **Plan.** The Supabase token is read into an ephemeral variable, so it
+    never reaches state, the plan file or shell history. Keep this terminal
+    for the apply; every Supabase-managing plan or apply needs it.
 
     ```sh
+    read -rs TF_VAR_supabase_access_token && export TF_VAR_supabase_access_token
     terraform -chdir=infra/prod init
     terraform -chdir=infra/prod validate
     terraform -chdir=infra/prod plan -out=golive.tfplan
     ```
 
-    Expect only additions (API, notification function and schedule, alerts
-    topic and budget) and nothing to change or destroy. If media or the
-    Firebase parameter would change, stop.
+    Expect one import (the Supabase project), additions only (Supabase SSL
+    setting, API, notification function and schedule, alerts topic and
+    budget) and nothing to destroy. The imported project may show one
+    in-place update that only clears an unset attribute. If media, the
+    Firebase parameter or anything else would change or be destroyed, stop.
 14. **Apply** and read the outputs (CloudFront takes several minutes):
 
     ```sh
