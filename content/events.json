@@ -2375,14 +2375,26 @@
       "year": "1869",
       "historicalDate": "October 2, 1869",
       "dateNote": null,
-      "summary": "The future leader of India's independence movement is born in Porbandar.",
-      "description": "On October 2, 1869, Mohandas Karamchand Gandhi was born in Porbandar, India. A lawyer, politician, social activist, and writer, he became the leader of the Indian independence movement against British rule.",
+      "summary": "A shy son of a Porbandar official, he would lead India's independence movement through nonviolent protest.",
+      "description": "On October 2, 1869, Mohandas Karamchand Gandhi was born in Porbandar, a small principality in western India where his father was chief minister. He was a diffident student, and after training as a barrister in London he struggled to find work. A trip to South Africa changed that. Thrown out of a first-class train compartment there, where he met racial discrimination, he resolved that he would no longer accept injustice.\n\nBack in India he became the leader of the independence movement, pressing satyagraha, or nonviolent protest. His Salt March in March 1930, aimed at the British tax on salt, which fell on the poorest, led to the imprisonment of more than 60,000 people. British rule ended in 1947, though the partition of the subcontinent came against his advice, and he was assassinated in January 1948. His method outlived him: Martin Luther King Jr. called it the only morally and practically sound method open to oppressed people, and the UN now marks October 2 as the International Day of Non-Violence.",
       "notificationTitle": "Where Gandhi's story began",
       "notificationBody": "In 1869, Mohandas Gandhi was born in Porbandar, India.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Mahatma Gandhi",
           "url": "https://www.britannica.com/biography/Mahatma-Gandhi"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Mahatma Gandhi: Emergence as nationalist leader",
+          "url": "https://www.britannica.com/biography/Mahatma-Gandhi/Emergence-as-nationalist-leader"
+        },
+        {
+          "name": "Martin Luther King, Jr. Research and Education Institute - Gandhi, Mohandas K.",
+          "url": "https://kinginstitute.stanford.edu/gandhi-mohandas-k"
+        },
+        {
+          "name": "United Nations - International Day of Non-Violence",
+          "url": "https://www.un.org/en/observances/non-violence-day"
         }
       ],
       "images": [
@@ -2406,7 +2418,7 @@
       "historicalDate": "October 2, 1187",
       "dateNote": "Julian calendar date.",
       "summary": "The city returns to Muslim rule after 88 years under the Crusaders.",
-      "description": "On October 2, 1187, Jerusalem surrendered to the army of Saladin after 88 years in the hands of the Franks. The capture followed his victory over a Crusader army at Hattin that July.",
+      "description": "On October 2, 1187, Jerusalem surrendered to the army of Saladin after 88 years in the hands of the Franks. It followed his victory over a Crusader army at Hattin on July 4, after which Muslim forces overran nearly the whole kingdom of Jerusalem within three months. Saladin had planned to avenge the slaughter of Muslims in the city in 1099 by killing its Christians, but agreed to let them purchase their freedom if the Christian defenders left the Muslim inhabitants unmolested.\n\nThe loss deeply shocked the West, which answered with a call for a new Crusade. The Third Crusade brought the kings of three countries into the struggle, and the long contest that followed left Saladin remembered in Europe as a gallant and chivalrous enemy.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2436,7 +2448,7 @@
       "historicalDate": "October 2, 1950",
       "dateNote": null,
       "summary": "Charles Schulz's strip debuts in seven newspapers.",
-      "description": "On October 2, 1950, the first Peanuts comic strip by Charles M. Schulz appeared in seven newspapers across the United States.",
+      "description": "On October 2, 1950, the first Peanuts comic strip by Charles M. Schulz appeared in seven newspapers across the United States. Schulz was 27 and had spent three years drawing a weekly panel, Li'l Folks, for the St. Paul Pioneer Press, honing his skills for a national market.\n\nThe modest start grew into a global strip. When Schulz announced his retirement in December 1999, Peanuts was syndicated in over 2,600 newspapers worldwide, with book collections translated into more than 25 languages.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2466,7 +2478,7 @@
       "historicalDate": "October 2, 1836",
       "dateNote": null,
       "summary": "The survey voyage that shaped Darwin's thinking ends at Falmouth.",
-      "description": "On October 2, 1836, HMS Beagle arrived back in England at Falmouth, ending a five-year voyage with the naturalist Charles Darwin aboard.",
+      "description": "On October 2, 1836, HMS Beagle arrived back in England at Falmouth after nearly five years at sea. The Admiralty had sent the ship to chart the coast of South America, and its captain, Robert FitzRoy, wanted a companion more than a mere collector. The 22-year-old Charles Darwin took the place.\n\nDarwin gathered specimens, fossils and geological observations on the journey and later wrote that his education 'really began on board the Beagle.' He formulated his theory of evolution in private in 1837 to 1839, and gave it full public expression two decades later in On the Origin of Species (1859).",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2477,6 +2489,10 @@
         {
           "name": "Darwin Correspondence Project - Robert FitzRoy",
           "url": "https://www.darwinproject.ac.uk/robert-fitzroy"
+        },
+        {
+          "name": "Encyclopaedia Britannica - Charles Darwin",
+          "url": "https://www.britannica.com/biography/Charles-Darwin"
         }
       ],
       "images": [

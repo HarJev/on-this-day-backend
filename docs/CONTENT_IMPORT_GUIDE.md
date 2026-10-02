@@ -32,6 +32,11 @@ Question `collectionIds` refer to IDs in `collections.json`. Question, option,
 and ordering-item IDs are stable lowercase slugs. Do not reuse an ID for a new
 historical claim or answer.
 
+Every event also needs a story-quality review before approval: a correct date and
+a one-line fact are not enough. See
+[Event Story-Quality Guide](EVENT_STORY_QUALITY_GUIDE.md) for the teaser versus
+detail standard and the rules for sourcing added context.
+
 Every event and question needs at least one direct source. Verify that each
 source supports the claim and explanation, not merely the broad subject.
 Images are optional, but every included image needs its direct rendition URL,
