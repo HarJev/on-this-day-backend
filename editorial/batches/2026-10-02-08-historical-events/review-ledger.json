@@ -787,6 +787,287 @@
       "notes": "Drafted and source-checked by Claude; owner approved the October 2-8 event batch for promotion on 2026-09-29. Primary image rights verified 2026-09-29 by Jevaun Harris in event-image batch 2026-10-04-08.",
       "reviewer": "Jevaun Harris",
       "reviewedOn": "2026-09-29"
+    },
+    {
+      "candidateId": "oct-02-guinea-independence",
+      "canonicalId": "guinea-independence-1958",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/question/When-did-Guinea-gain-independence-and-from-which-colonial-power",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Guinea gained independence on October 2, 1958'; de Gaulle offered a federal community or independence; Guinea under Sékou Touré 'was the only French colony to vote for independence'."
+        },
+        {
+          "url": "https://history.state.gov/countries/guinea",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Office of the Historian: 'The United States recognized the Republic of Guinea on November 1, 1958'. Page does not state the October 2 date; the date rests on Britannica."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-02"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-03-operation-hurricane",
+      "canonicalId": "operation-hurricane-first-british-atomic-test-1952",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/nuclear-weapon/The-spread-of-nuclear-weapons",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 3, 1952, the first British atomic weapons test, called Hurricane, was successfully conducted aboard the frigate HMS Plym, with an estimated yield of 25 kilotons'; Montebello Islands off northwest Australia; plutonium type; Penney in charge; Attlee government decision of January 1947; Canberras armed by early 1954."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "oceania"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-03-first-v2-launch",
+      "canonicalId": "first-v-2-launch-1942",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/technology/V-2-rocket",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'first successfully launched on October 3, 1942'; developed from 1936 led by Wernher von Braun; forerunner of modern space rockets; about 5,000 died in V-2 attacks, at least 10,000 Mittelbau-Dora prisoners died as forced labour; June 20, 1944 V-2 first rocket to reach space."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-04-madrid-protocol",
+      "canonicalId": "madrid-protocol-signed-1991",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://ats.aq/e/protocol.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Antarctic Treaty Secretariat: 'signed in Madrid on October 4, 1991 and entered into force in 1998'; 'natural reserve, devoted to peace and science' (Art. 2); Art. 7 prohibits all activities relating to mineral resources except scientific research."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-05-march-on-versailles",
+      "canonicalId": "march-on-versailles-1789",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/French-Revolution/Events-of-1789",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: the king refused to sanction the August 4 decrees and the Declaration; 'on October 5 marched to Versailles. The next day they brought the royal family back to Paris. The National Constituent Assembly followed the court'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-05-wright-flyer-iii",
+      "canonicalId": "wright-flyer-iii-record-flight-1905",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/articles/wright-brothers.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NPS: 'On October 5 they made a record flight of 24 1/5 miles'; Flyer No. 3 built 1905; about 100 flights in 1904 totalling only 45 minutes. Flight time given as 38 min 3 s here, so the copy states only about 24 miles."
+        },
+        {
+          "url": "https://airandspace.si.edu/stories/editorial/you-just-invented-airplane-now-what",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NASM: Huffman Prairie outside Dayton; 'the Wrights now had a practical airplane'; turned to patent and customers; did not fly in 1906 and 1907. Gives 24 1/2 miles in 39 minutes and credits Orville, which differs from NPS, so the copy avoids minutes and pilot."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-06-moulin-rouge",
+      "canonicalId": "moulin-rouge-opens-1889",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.moulinrouge.fr/en/the-moulin-rouge/history/the-great-periods/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Official site: opened 'October 6, 1889' at Place Blanche; Oller and Zidler nicknamed it Le Premier Palais des Femmes; French Cancan the centrepiece; La Goulue its figurehead; Toulouse-Lautrec created seventeen paintings."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Moulin-Rouge-cabaret-Paris-France",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: established in 1889 as a dance hall; cancan; Toulouse-Lautrec. Does not give the day; the day rests on the official site."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-07-stamp-act-congress",
+      "canonicalId": "stamp-act-congress-convenes-1765",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Stamp-Act-Congress",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: convened in New York City (October 1765) by nine colonies; 'first time that representatives of the colonies had gathered and acted collectively'. Does not give the day."
+        },
+        {
+          "url": "https://constitutioncenter.org/blog/no-taxation-without-representation",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "National Constitution Center (published October 7, 2022): 'met on this day in New York in 1765'; Declaration of Rights and Grievances approved October 19 with the consent-of-taxation resolution. Body text gives October 9, which conflicts with its own headline and the sources below; October 7 is the convening date."
+        },
+        {
+          "url": "https://www.encyclopedia.com/defense/energy-government-and-defense-magazines/stamp-act-congress",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Americans at War (Gale, via Encyclopedia.com): 'The Stamp Act Congress, which met in New York City from October 7 to 25, 1765, was the first gathering of representatives from several American colonies'. Added in review."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary",
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-07-afghanistan-strikes",
+      "canonicalId": "us-strikes-afghanistan-2001",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/20011007-8.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Presidential address of October 7, 2001: 'the United States military has begun strikes against al Qaeda terrorist training camps and military installations of the Taliban regime'; operation named Enduring Freedom; demands to close camps and hand over al Qaeda leaders not met; food and medicine drops."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-08-alvin-york",
+      "canonicalId": "alvin-york-argonne-1918",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.cmohs.org/recipients/alvin-c-york",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "CMOHS: Medal of Honor action date 'October 8, 1918', near Chatel-Chehery, France; 'four officers and 128 men' taken with the machine-gun nest; presented April 1919."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Alvin-Cullum-York",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Tennessee blacksmith denied conscientious objector status; Meuse-Argonne Offensive; total of 132 captured."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Added 2026-10-02 to widen October 2-8 beyond the four-event floor. Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
     }
   ]
 }

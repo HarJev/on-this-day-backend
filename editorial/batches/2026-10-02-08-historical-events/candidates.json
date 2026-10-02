@@ -256,6 +256,102 @@
       "sourceUrls": [
         "https://www.britannica.com/topic/Opium-Wars"
       ]
+    },
+    {
+      "candidateId": "oct-02-guinea-independence",
+      "kind": "event",
+      "proposedCanonicalId": "guinea-independence-1958",
+      "workingClaim": "October 2, 1958: On October 2, 1958, Guinea gained independence from France. French President Charles de Gaulle had offered France's territories the choice of joining a new federal community or becoming independent, and Guinea, under Sékou Touré, was the only French colony to vote for independence. The United States recognized the Republic of Guinea on November 1, 1958.",
+      "sourceUrls": [
+        "https://www.britannica.com/question/When-did-Guinea-gain-independence-and-from-which-colonial-power",
+        "https://history.state.gov/countries/guinea"
+      ]
+    },
+    {
+      "candidateId": "oct-03-operation-hurricane",
+      "kind": "event",
+      "proposedCanonicalId": "operation-hurricane-first-british-atomic-test-1952",
+      "workingClaim": "October 3, 1952: On October 3, 1952, Britain carried out its first atomic weapons test, code-named Hurricane, aboard the frigate HMS Plym in the Montebello Islands off northwest Australia. The plutonium bomb, built under William Penney after a 1947 government decision to make a British atomic bomb, had an estimated yield of 25 kilotons. By early 1954 RAF Canberra bombers were armed with atomic bombs.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/nuclear-weapon/The-spread-of-nuclear-weapons"
+      ]
+    },
+    {
+      "candidateId": "oct-03-first-v2-launch",
+      "kind": "event",
+      "proposedCanonicalId": "first-v-2-launch-1942",
+      "workingClaim": "October 3, 1942: On October 3, 1942, Germany successfully launched the V-2 for the first time. Developed from 1936 by scientists led by Wernher von Braun, it was a ballistic missile and the forerunner of modern space rockets. About 5,000 people died in V-2 attacks, and at least 10,000 prisoners from the Mittelbau-Dora concentration camp died as forced labour building V-2s. On June 20, 1944, a V-2 became the first rocket to reach space.",
+      "sourceUrls": [
+        "https://www.britannica.com/technology/V-2-rocket"
+      ]
+    },
+    {
+      "candidateId": "oct-04-madrid-protocol",
+      "kind": "event",
+      "proposedCanonicalId": "madrid-protocol-signed-1991",
+      "workingClaim": "October 4, 1991: On October 4, 1991, the Protocol on Environmental Protection to the Antarctic Treaty was signed in Madrid. It designates Antarctica as a \"natural reserve, devoted to peace and science\" and prohibits all activities relating to Antarctic mineral resources except scientific research. It entered into force in 1998.",
+      "sourceUrls": [
+        "https://ats.aq/e/protocol.html"
+      ]
+    },
+    {
+      "candidateId": "oct-05-march-on-versailles",
+      "kind": "event",
+      "proposedCanonicalId": "march-on-versailles-1789",
+      "workingClaim": "October 5, 1789: On October 5, 1789, Parisians marched to Versailles after the king refused to sanction the August decrees abolishing feudalism and the Declaration of the Rights of Man and of the Citizen. The next day they brought the royal family back to Paris, and the National Constituent Assembly followed the court there.",
+      "sourceUrls": [
+        "https://www.britannica.com/event/French-Revolution/Events-of-1789"
+      ]
+    },
+    {
+      "candidateId": "oct-05-wright-flyer-iii",
+      "kind": "event",
+      "proposedCanonicalId": "wright-flyer-iii-record-flight-1905",
+      "workingClaim": "October 5, 1905: On October 5, 1905, the Wright brothers made a record flight of about 24 miles in their new Flyer No. 3 at Huffman Prairie near Dayton, Ohio. In 1904 about 100 flights had totaled only 45 minutes in the air. The Smithsonian says the Wrights now had a practical airplane; they turned to securing a patent and finding a buyer, and did not fly at all in 1906 and 1907.",
+      "sourceUrls": [
+        "https://www.nps.gov/articles/wright-brothers.htm",
+        "https://airandspace.si.edu/stories/editorial/you-just-invented-airplane-now-what"
+      ]
+    },
+    {
+      "candidateId": "oct-06-moulin-rouge",
+      "kind": "event",
+      "proposedCanonicalId": "moulin-rouge-opens-1889",
+      "workingClaim": "October 6, 1889: On October 6, 1889, the Moulin Rouge opened at Place Blanche in Paris. Founders Joseph Oller and Charles Zidler nicknamed it the first Women Palace and promised a temple of music and dance. The French cancan became its centerpiece, with La Goulue as its figurehead, and Henri de Toulouse-Lautrec, a regular, made seventeen paintings inspired by the venue.",
+      "sourceUrls": [
+        "https://www.moulinrouge.fr/en/the-moulin-rouge/history/the-great-periods/",
+        "https://www.britannica.com/topic/Moulin-Rouge-cabaret-Paris-France"
+      ]
+    },
+    {
+      "candidateId": "oct-07-stamp-act-congress",
+      "kind": "event",
+      "proposedCanonicalId": "stamp-act-congress-convenes-1765",
+      "workingClaim": "October 7, 1765: On October 7, 1765, delegates from nine American colonies met in New York City to answer the Stamp Act. It was the first time representatives of the colonies had gathered and acted collectively. Its Declaration of Rights and Grievances, approved October 19, held that no taxes may be imposed on the colonists but with their own consent, given through their representatives.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/Stamp-Act-Congress",
+        "https://constitutioncenter.org/blog/no-taxation-without-representation",
+        "https://www.encyclopedia.com/defense/energy-government-and-defense-magazines/stamp-act-congress"
+      ]
+    },
+    {
+      "candidateId": "oct-07-afghanistan-strikes",
+      "kind": "event",
+      "proposedCanonicalId": "us-strikes-afghanistan-2001",
+      "workingClaim": "October 7, 2001: On October 7, 2001, President George W. Bush announced that the United States military had begun strikes against al Qaeda training camps and Taliban military installations in Afghanistan, in an operation named Enduring Freedom. He said the Taliban had ignored demands to close terrorist camps and hand over al Qaeda leaders, and that food and medicine would also be dropped to Afghans.",
+      "sourceUrls": [
+        "https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/20011007-8.html"
+      ]
+    },
+    {
+      "candidateId": "oct-08-alvin-york",
+      "kind": "event",
+      "proposedCanonicalId": "alvin-york-argonne-1918",
+      "workingClaim": "October 8, 1918: On October 8, 1918, during the Meuse-Argonne Offensive, Corporal Alvin York took command of his patrol near Châtel-Chéhéry, France, after heavy casualties. He silenced a German machine-gun nest and captured four officers and 128 men. York, a Tennessee blacksmith who had been denied conscientious objector status, received the Medal of Honor in April 1919.",
+      "sourceUrls": [
+        "https://www.cmohs.org/recipients/alvin-c-york",
+        "https://www.britannica.com/biography/Alvin-Cullum-York"
+      ]
     }
   ]
 }

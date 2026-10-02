@@ -89,3 +89,38 @@ Candidate: `editorial/event-images/candidates/2026-10-02-gandhi-salt-march.json`
 - Attribution: "Photographer unknown, March 1930, via Wikimedia Commons (public domain: PD-India and PD-India-URAA)".
 - The existing Elliott & Fry studio portrait (1931, verified) stays as the
   canonical image until the replacement is approved, uploaded and attached.
+
+## Added events (widening, 2026-10-02)
+
+Ten new additional events, each with a direct source read and a dated ledger
+check (`source_verified`, no image; only featured events need a hero image).
+Oct 6 now has five events; Oct 2, 4 and 8 have five; Oct 3, 5 and 7 have six.
+
+| Date | Event | Main source |
+| --- | --- | --- |
+| 10-02 | Guinea becomes independent from France (1958) | Britannica; Office of the Historian |
+| 10-03 | Britain tests its first atomic bomb (1952) | Britannica |
+| 10-03 | First successful V-2 launch (1942) | Britannica |
+| 10-04 | Madrid Protocol signed (1991) | Antarctic Treaty Secretariat |
+| 10-05 | Parisians march on Versailles (1789) | Britannica |
+| 10-05 | Wright Flyer No. 3 record flight (1905) | NPS; National Air and Space Museum |
+| 10-06 | Moulin Rouge opens (1889) | Moulin Rouge official site; Britannica |
+| 10-07 | Stamp Act Congress meets (1765) | Britannica; National Constitution Center; Americans at War |
+| 10-07 | US-led strikes begin in Afghanistan (2001) | Presidential address, White House archive |
+| 10-08 | Alvin York captures 132 German soldiers (1918) | Congressional Medal of Honor Society; Britannica |
+
+Notes for the reviewer:
+
+- Wright flight: NPS and the Smithsonian disagree on the flight time (38:03
+  vs 39 minutes) and which brother flew, so the copy says only "about 24 miles".
+- Stamp Act Congress: Britannica says only "October 1765". The Constitution
+  Center page dates the meeting October 7 in its headline but October 9 in its
+  body, so review added Americans at War (Encyclopedia.com), which gives
+  October 7 to 25, 1765.
+- Moulin Rouge: Britannica gives only 1889; the October 6 date rests on the
+  club's official history.
+- Considered and dropped: the Gregorian calendar jump (the October 15
+  event already covers it), Che Guevara's capture (the October 9 event covers
+  it), Baird's first face on television and Milosevic's fall (no source for the
+  exact day), and Austria's annexation of Bosnia (sources split between
+  October 6 and 7).
