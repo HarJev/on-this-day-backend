@@ -22,13 +22,13 @@
       ],
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Richard_III_at_the_Battle_of_Bosworth.jpg",
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/battle-of-bosworth-field-1485/54b8df0e77feb2b31ffbb22728e30ee0882ad4978f6ff29f83f967094db2b3cb.jpg",
           "altText": "Richard III on horseback at the Battle of Bosworth Field",
           "source": "Wikimedia Commons",
           "sourceUrl": "https://commons.wikimedia.org/wiki/File:Richard_III_at_the_Battle_of_Bosworth.jpg",
           "creator": "Edmund Blair Leighton",
-          "attribution": "Edmund Blair Leighton, Richard III at the Battle of Bosworth Field",
-          "license": "Public Domain Mark 1.0",
+          "attribution": "Edmund Blair Leighton, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
           "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
           "primary": true
         }
@@ -3289,7 +3289,19 @@
           "url": "https://www.britannica.com/topic/Washington-Monument-Washington-DC"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/washington-monument-opens-to-public-1888/705b6d3848d8732bcaaab2c145257ea096928dd72be223ffd54e4fe6cf4109f2.jpg",
+          "altText": "The Washington Monument in the 1890s",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Washington%27s_Monument_4a04012v.jpg",
+          "creator": "Detroit Publishing Co. , publisher",
+          "attribution": "Detroit Publishing Co. , publisher, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "uganda-independence-1962",
@@ -3465,7 +3477,19 @@
           "url": "https://www.unoosa.org/oosa/en/informationfor/media/2017-unis-os-486.html"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/outer-space-treaty-enters-force-1967/05eaef8b5a2aa2fd9564d5a27df2d76c4d46cea89dbfb305a094a3b267e4015f.jpg",
+          "altText": "Signing of the Outer Space Treaty in January 1967",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Signing_Outer_Space_Treaty.jpg",
+          "creator": "ITU",
+          "attribution": "ITU, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "us-naval-academy-founded-1845",
@@ -3663,7 +3687,19 @@
           "url": "https://www.britannica.com/topic/Oktoberfest"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/first-oktoberfest-1810/50648e97a2368fc08cc61763607990b7b3dfc0ade99ee606f95f54e2dd80b949.jpg",
+          "altText": "Wilhelm von Kobell's 1811 painting of the horse race held at the Munich festival",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilhelm_Alexander_Wolfgang_von_Kobell_006.jpg",
+          "creator": "Wilhelm von Kobell",
+          "attribution": "Wilhelm von Kobell, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "columbus-sights-land-1492",
@@ -3711,7 +3747,19 @@
           "url": "https://www.britannica.com/technology/Voskhod-spacecraft"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/voskhod-1-launches-1964/62523d24c51796bb6126f5b6f65ffe0d443dd7844b09869351933bbe8dd507c6.jpg",
+          "altText": "The Voskhod 1 capsule, flown in 1964, on display at the Science Museum in London",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Voskhod_1_capsule_on_display,_2016.jpg",
+          "creator": "Andrew Gray",
+          "attribution": "Andrew Gray, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "chilean-miners-rescued-2010",
@@ -4559,7 +4607,19 @@
           "url": "https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/histoire/le-suffrage-universel/la-conquete-de-la-citoyennete-politique-des-femmes/les-33-femmes-elues-deputees-pour-la-premiere-fois-en-1945/"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/french-women-vote-nationally-1945/4706852397814580385952ea204e94da018d1ece9f95b0bfa1ebab5835242d73.jpg",
+          "altText": "A French elector card from September 1945, issued to women voters for the first time",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carte_electeur_septembre_1945.jpg",
+          "creator": "RF-Ministère de l'intérieur, Pinpin (scan)",
+          "attribution": "RF-Ministère de l'intérieur, Pinpin (scan), via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "battle-of-trafalgar-1805",
@@ -4967,7 +5027,19 @@
           "url": "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5142a5.htm"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/last-natural-smallpox-case-1977/0d536ad0488eb65188c476e258a2f42968444a4de740f073268f17cf748a89b1.jpg",
+          "altText": "Electron micrograph of smallpox virus particles",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smallpox_virus_virions_TEM_PHIL_1849.JPG",
+          "creator": "Content Providers(s): CDC/ Dr. Fred Murphy; Sylvia Whitfield",
+          "attribution": "Content Providers(s): CDC/ Dr. Fred Murphy; Sylvia Whitfield, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "football-association-founded-1863",
@@ -5463,7 +5535,19 @@
           "url": "https://www.britannica.com/event/Maastricht-Treaty"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/maastricht-treaty-in-force-1993/87617fa46d800a658080c7429cd575223ea83d76662ed19bd1c2a615a1a70907.jpg",
+          "altText": "Stone memorial in Maastricht commemorating the signing of the Maastricht Treaty in February 1992",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stone_memorial_in_front_of_the_entry_to_the_Limburg_Province_government_building_in_Maastricht,_Netherlands,_commemorating_the_signing_of_the_Maastricht_Treaty_in_February_1992.jpg",
+          "creator": "Dozura",
+          "attribution": "Dozura, via Wikimedia Commons (CC BY-SA 4.0)",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "lisbon-earthquake-1755",
@@ -7267,7 +7351,19 @@
           "url": "https://www.britannica.com/on-this-day/November-23"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/doctor-who-first-episode-1963/3895e887ee39ffb6cbe298b3fa6ef10c09a0489eb7c6bd9f259a9ab6f49367a2.jpg",
+          "altText": "A TARDIS police box prop at the Doctor Who Experience in Cardiff, 2016",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doctor_Who_Experience_(25307760809).jpg",
+          "creator": "MangakaMaiden Photography",
+          "attribution": "MangakaMaiden Photography, via Wikimedia Commons (CC BY 2.0)",
+          "license": "CC BY 2.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "ley-juarez-passed-1855",
@@ -8795,7 +8891,19 @@
           "url": "https://www.britannica.com/on-this-day/December-12"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/paris-climate-agreement-2015/f42b86551f22a7be3277df2213b9068b46b8825188edcb00987817f1f0bb7ee2.jpg",
+          "altText": "Delegates at the April 2016 signing ceremony for the Paris climate agreement at the United Nations in New York",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Secretary_Kerry_Addresses_Delegates_Before_Signing_the_COP21_Climate_Change_Agreement_on_Earth_Day_in_New_York_(26554283676).jpg",
+          "creator": "U.S. Department of State from United States",
+          "attribution": "U.S. Department of State from United States, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "first-motel-opens-1925",
@@ -15049,7 +15157,19 @@
           "url": "https://www.britannica.com/event/Kyoto-Protocol"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/kyoto-protocol-in-force-2005/5b13390d8d431645a7ec1d858ec51f305eca316c23530b732848e14be901ce64.jpg",
+          "altText": "World map showing which countries had ratified the Kyoto Protocol by 2005",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyoto_Protocol_ratification_map_2005.png",
+          "creator": null,
+          "attribution": "Unknown author, via Wikimedia Commons (CC BY-SA 3.0)",
+          "license": "CC BY-SA 3.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "lithuania-declares-independence-1918",
@@ -19767,7 +19887,19 @@
           "url": "https://www.britannica.com/on-this-day/April-2"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/argentina-seizes-falklands-1982/fbbce48d4438e980dfeb043edd0e872c61e943d9fa25d2d0c7444b1f10ad44c6.jpg",
+          "altText": "Map of the Argentine operation to seize the Falkland Islands in 1982",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Operation_Azul.jpg",
+          "creator": null,
+          "attribution": "Unknown author, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "pope-john-paul-ii-dies-2005",
@@ -20379,7 +20511,19 @@
           "url": "https://www.britannica.com/on-this-day/April-8"
         }
       ],
-      "images": []
+      "images": [
+        {
+          "url": "https://d2v6di8uk52rif.cloudfront.net/event-images/hank-aaron-715th-home-run-1974/aa5b390b2e614c975094b92b1faadbcb2c4365e7bd21a3ad04054e7178efef9a.jpg",
+          "altText": "The wall marking where Hank Aaron's 715th home run landed, preserved outside Turner Field in Atlanta",
+          "source": "Wikimedia Commons",
+          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hank_Aaron_715_wall_(7943527660).jpg",
+          "creator": "Stephen Rahn from Acworth, GA, USA",
+          "attribution": "Stephen Rahn from Acworth, GA, USA, via Wikimedia Commons (Public domain)",
+          "license": "Public domain",
+          "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "primary": true
+        }
+      ]
     },
     {
       "id": "venus-de-milo-found-1820",
