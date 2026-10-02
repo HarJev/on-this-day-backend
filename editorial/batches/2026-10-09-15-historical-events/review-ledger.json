@@ -821,6 +821,794 @@
       "notes": "Drafted and source-checked by Claude; awaiting owner editorial review. Approved in the delegated owner review on 2026-10-01 and promoted to canonical content; see docs/OWNER_REVIEW_OCT09_DEC25_PROGRESS.md.",
       "reviewer": "Claude (owner review delegated by Jevaun Harris)",
       "reviewedOn": "2026-10-01"
+    },
+    {
+      "candidateId": "oct-09-vaiont-dam-landslide-1963",
+      "canonicalId": "vaiont-dam-landslide-1963",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Vaiont-Dam",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 9, 1963, an estimated 260 million cubic metres (more than 9 billion cubic feet) of rock broke free'; wave 'reached 150–200 metres (492–656 feet) above the dam before breaching the crest'; Longarone 'nearly completely destroyed'; 'claimed the lives of about 2,000 people'; 'The dam still stands, though the reservoir has never been refilled.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-09-malala-yousafzai-shot-2012",
+      "canonicalId": "malala-yousafzai-shot-2012",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Malala-Yousafzai",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 9, 2012, Yousafzai was shot in the head by a TTP gunman while she was en route home from school'; treated in Birmingham, England; 'Under the name Gul Makai, Yousafzai began writing regular entries for BBC Urdu about her daily life'; Nobel Peace Prize 2014 at 17, youngest laureate at that time."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-09-afghanistan-first-presidential-election-2004",
+      "canonicalId": "afghanistan-first-presidential-election-2004",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Hamid-Karzai",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'In January 2004 a new constitution was approved that called for a directly elected president. Later that year Karzai won the presidential election and was sworn into office'; sworn in as interim chair 'in late December 2001'. Page does not give the October 9 date."
+        },
+        {
+          "url": "https://editorials.voa.gov/a/a-41-a-2004-11-08-5-1-83101677/1478893.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "VOA: 'declared Mr. Karzai the winner of the October 9th presidential election in Afghanistan'; 'Mr. Karzai won more than fifty-five percent of an estimated eight-million votes'; 'More than forty percent of the voters were women'; U.S. congratulates him 'on his election as Afghanistan's first democratically elected leader'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-10-tokyo-olympics-open-1964",
+      "canonicalId": "tokyo-olympics-open-1964",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Tokyo-1964-Olympic-Games",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Games held 'October 10–24, 1964'; first Olympic Games hosted in Asia; 'More than 5,000 athletes from 93 countries competed'; volleyball and judo added; 'the first use of computers to keep statistics'; South Africa 'had been banned by the IOC for its racist policy of apartheid'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-10-spiro-agnew-resigns-1973",
+      "canonicalId": "spiro-agnew-resigns-1973",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Spiro-T-Agnew",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Agnew resigned the vice presidency on October 10, 1973'; pleaded 'nolo contendere to a single federal count of failing to report on his income-tax return $29,500 in income that he had received in 1967'; 'He was fined $10,000 and sentenced to three years of unsupervised probation'; 'the second person to resign the nation's second highest office (John C. Calhoun was the first in 1832)'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-10-partial-test-ban-treaty-in-force-1963",
+      "canonicalId": "partial-test-ban-treaty-in-force-1963",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/Nuclear-Test-Ban-Treaty",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'signed in Moscow on August 5, 1963, by the United States, the Soviet Union, and the United Kingdom'; prohibited tests 'in the atmosphere, in outer space, and underwater'; 'permitted underground testing and required no control posts, no on-site inspection, and no international supervisory body'; 'signed by more than 100 other governments' within months, 'notable exceptions being France and China'; 'did not reduce nuclear stockpiles, halt the production of nuclear weapons'. Page does not give the entry-into-force date."
+        },
+        {
+          "url": "https://ahf.nuclearmuseum.org/ahf/history/limited-or-partial-test-ban-treaty-ltbtptbt/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "AHF: signed August 5, 1963 in Moscow; U.S. Senate ratified September 24, 1963; entered into force October 10, 1963; permits underground test explosions."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-10-triton-discovered-1846",
+      "canonicalId": "triton-discovered-1846",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://science.nasa.gov/neptune/moons/triton/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NASA: 'Triton was discovered on Oct. 10, 1846 by British astronomer William Lassell, just 17 days after Neptune itself was discovered'; 'the only large moon in our solar system that orbits in the opposite direction of its planet's rotation'; '1,680 miles (2,700 kilometers)'; Voyager 2 in 1989 found active geysers and 'surface temperatures of -391 degrees Fahrenheit (-235 degrees Celsius)'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-10-netherlands-antilles-dissolved-2010",
+      "canonicalId": "netherlands-antilles-dissolved-2010",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.cbs.nl/en-gb/longread/diversen/2025/the-dutch-caribbean-15-years-after-the-dissolution-of-the-netherlands-antilles/1-introduction",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "CBS: on 10 October 2010 the Netherlands Antilles was dissolved; it 'consisted of five islands: Curaçao, St Maarten, Bonaire, St Eustatius and Saba'; Curaçao and St Maarten became autonomous countries and Bonaire, Saba and St Eustatius public entities within the Netherlands; 'Aruba was previously also part of the Netherlands Antilles, but in 1986 was granted status aparte'; kingdom now 'four countries: Curaçao, Aruba, St Maarten and the Netherlands'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-10"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-11-kathryn-sullivan-spacewalk-1984",
+      "canonicalId": "kathryn-sullivan-spacewalk-1984",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/kathryn-sullivan-the-first-american-woman-to-walk-in-space/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NASA: October 11, 1984, STS-41G aboard Challenger; partner David C. Leestma; EVA 'three hours and twenty-nine minutes'; Leestma demonstrated satellite refuelling while Sullivan 'stowed the malfunctioning antenna'; Svetlana Savitskaya was first woman to spacewalk in July 1984."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Kathryn-Sullivan",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: spacewalk October 11, 1984 on STS-41G; later NOAA acting administrator, then confirmed to lead the agency until 2017; in June 2020 'the first woman to descend to the Challenger Deep'. Note: Britannica's October 11 day page calls her 'the first woman to walk in space', which is wrong; NASA and this article support 'first American woman'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-11-saturday-night-live-premieres-1975",
+      "canonicalId": "saturday-night-live-premieres-1975",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.nbc.com/nbc-insider/george-carlin-first-snl-episode-wasnt-in-sketches",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "NBC: 'George Carlin hosted the inaugural episode of Saturday Night Live on October 11, 1975'; performed four stand-up monologues rather than sketches; musical performances by Billy Preston and Janis Ian, plus an Albert Brooks short film."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Saturday-Night-Live",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: aired on NBC since 1975; co-created by Lorne Michaels and Dick Ebersol; first cast 'known as the Not Ready for Primetime Players' (Aykroyd, Belushi, Chase, Curtin, Morris, Newman, Radner); among 'the longest-running programs in television'; '90 Emmys and 3 Peabody Awards'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-11-anita-hill-testifies-1991",
+      "canonicalId": "anita-hill-testifies-1991",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://abcnews.com/GMA/News/anita-hill-reflects-clarence-thomas-testimony-30-year/story?id=80256745",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "ABC (photo caption): 'Miss Hill testified on her charges of alleged sexual harassment by Judge Thomas, Oct. 11, 1991'; 'Hill's testimony in 1991 before a panel of 14 male senators' 'gripped the nation'; hearings led by then-Senator Joe Biden; 'unwanted advances and lewd comments when she worked for him'."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anita-Hill",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: testimony in October 1991 that Thomas made unwanted sexual advances; skepticism and hostile questioning; Thomas 'narrowly confirmed, 52–48'; 1992 'Year of the Woman', women in Congress roughly doubling (Senate about 3 to 6, House about 29 to 47)."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-11-theodore-roosevelt-first-presidential-flight-1910",
+      "canonicalId": "theodore-roosevelt-first-presidential-flight-1910",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.whitehousehistory.org/the-wings-of-franklin-roosevelt-1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "WHHA: 'On October 11, 1910, Theodore Roosevelt accompanied aviator Archibald Hoxsey for a short flight during the International Aviation Meet at Kinloch Field outside St. Louis, Missouri. The two men took off and circled the airfield twice in \"three minutes and twenty seconds.\"'; 'The first president to travel by airplane was actually a former president'; FDR first sitting president to travel by airplane."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-11"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-12-uss-cole-attack-2000",
+      "canonicalId": "uss-cole-attack-2000",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/event/USS-Cole-attack",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'October 12, 2000'; in Aden, Yemen; 'Suicide bombers in a small boat steered their craft into the side of the USS Cole'; 'left 17 sailors dead and 39 wounded'; 'Muslim militants associated with the organization al-Qaeda'; ship shown 'aboard the transport ship MV Blue Marlin'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-12-bali-bombings-2002",
+      "canonicalId": "bali-bombings-2002",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.abc.net.au/news/2022-10-12/what-happened-october-12-2002-in-the-bali-bombing/101482382",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "ABC: bombs detonated 'about 11pm' on 'October 12, 2002'; Paddy's Irish Pub, the Sari Club on Jalan Legian, and near the US consulate; '202 people' killed; '88 Australians'; 'carried out by operatives from Jemaah Islamiah (JI), a South-East Asian group inspired by and linked to Al Qaeda'. Note: Britannica's article gives October 11, apparently in UTC; local date is October 12."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia",
+        "oceania"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-12-edith-cavell-executed-1915",
+      "canonicalId": "edith-cavell-executed-1915",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Edith-Cavell",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: died 'October 12, 1915, Brussels, Belgium', shot with Philippe Baucq; first matron of the Berkendael Institute from 1907; helped 'British, French, and Belgian soldiers reach the Netherlands'; about 200 men aided before her arrest in August 1915; court-martial legally valid but execution 'widely publicized by the Allies'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-12-musharraf-coup-pakistan-1999",
+      "canonicalId": "musharraf-coup-pakistan-1999",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Pervez-Musharraf",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 12, 1999, while Musharraf was out of the country, Sharif dismissed him and tried to prevent the plane carrying Musharraf home from landing at the Karachi airport. The armed forces, however, took control of the airport and other government installations and deposed Sharif'; 'In early 2001 Musharraf assumed the presidency'; announced resignation August 18, 2008."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "asia"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-12"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-13-continental-navy-authorized-1775",
+      "canonicalId": "continental-navy-authorized-1775",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/United-States-Navy",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On October 13, 1775, the Continental Congress voted to fit out ships, and the Marine Committee, later appointed, sent the first Continental squadron to sea, under the command of Esek Hopkins, for the purpose of capturing munitions.' Sources support only a short read."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "revolutionary"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-13-first-modern-world-series-1903",
+      "canonicalId": "first-modern-world-series-1903",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://sabr.org/gamesproj/game/october-13-1903-big-bill-dinneen-leads-boston-to-a-triumph-in-first-modern-world-series/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "SABR: October 13, 1903, Game Eight of a best-of-nine series; Boston Americans 3, Pittsburgh 0 at Huntington Avenue Grounds; Dinneen shutout on four hits; final out a strikeout of Honus Wagner."
+        },
+        {
+          "url": "https://www.britannica.com/sports/World-Series",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica (1903): 'Boston (AL) defeated Pittsburgh (NL) five games to three in a best-of-nine-game series'; 'Attendance was just over 100,000, and the players' shares of receipts were slightly more than $1,000 each.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-13-andes-flight-disaster-1972",
+      "canonicalId": "andes-flight-disaster-1972",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.historyhit.com/1972-andes-flight-disaster-survivors-rescued/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "History Hit: crash October 13, 1972; Uruguayan Air Force Fairchild; Old Christians rugby team and others, 45 aboard; Canessa and Parrado trekked nine days; Parrado 'wrote what had happened, tied the paper to a rock and hurled it across the torrent'; muleteer Sergio Catalán alerted authorities; 'By the end of 23 December 1972 sixteen men had been saved'. Britannica October 13 day page agrees on the date."
+        },
+        {
+          "url": "https://www.history.com/articles/miracle-andes-disaster-survival",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "History.com (review check): 'On October 13, 1972, a chartered twin engine plane carrying an Uruguayan rugby team crash landed high in the Andes mountains'; 'Most of the 45 on board'; helicopters evacuated survivors December 22 and the following morning; 'the total number of survivors had dwindled to 16'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-13-shroud-of-turin-dating-announced-1988",
+      "canonicalId": "shroud-of-turin-dating-announced-1988",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://library.biblicalarchaeology.org/sidebar/has-the-shroud-of-turin-been-dated-finally/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "BAS: Cardinal Anastasio Ballestrero announced on October 13, 1988 that radiocarbon tests had dated the cloth 'with 95 percent certainty to between 1260 and 1390'; labs at Oxford, the University of Arizona and the Federal Institute of Technology in Zurich."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Shroud-of-Turin",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: three laboratories concluded the cloth was made 'sometime between 1260 and 1390'; the Vatican 'encouraged scientists to conduct further investigations' and 'recommended that Christians continue to venerate the shroud as an inspiring image of Christ'; 'the Holy See has not made any official pronouncements concerning the relic's authenticity'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-13-claudius-dies-nero-emperor-54",
+      "canonicalId": "claudius-dies-nero-emperor-54",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Claudius-Roman-emperor",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Roman tradition is unanimous: Claudius was poisoned by Agrippina on October 13, 54 CE, though the details differ'; married his niece Agrippina and adopted her son Lucius Domitius Ahenobarbus (Nero) 'much to the disadvantage of his own son Britannicus'."
+        },
+        {
+          "url": "https://www.britannica.com/question/How-did-Claudius-die",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'Claudius was poisoned by Agrippina on October 13, 54 CE'; 'Nero succeeded him as emperor'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "ancient"
+      ],
+      "calendarDays": [
+        "10-13"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-14-theodore-roosevelt-shot-milwaukee-1912",
+      "canonicalId": "theodore-roosevelt-shot-milwaukee-1912",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.trlibrary.com/tr/tr-shot",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "TR Center: October 14, 1912, outside the Hotel Gilpatrick in Milwaukee; shooter John Flammang Schrank; bullet slowed by folded 50-page speech manuscript and eyeglass case before lodging in his chest wall; delivered an 80-minute address; quote 'I don't know whether you fully understand that I have just been shot, but it takes more than that to kill a bull moose'; doctors decided against removal, he carried the bullet for life."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-14-sobibor-uprising-1943",
+      "canonicalId": "sobibor-uprising-1943",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://encyclopedia.ushmm.org/content/en/article/sobibor",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "USHMM: 'On October 14, 1943, with approximately 600 prisoners left in the camp, those who knew the plan initiated the revolt'; 'killed 11 German personnel and a few Trawniki-trained guards. Around 300 prisoners succeeded in breaking out'; leaders Leon Feldhendler and Aleksandr (Sasha) Pechersky; 'Approximately 100 were caught'; 'Some 50 prisoners escaped Sobibor and survived the war'; camp dismantled; 'killed at least 167,000 people at Sobibor' April 1942 to mid-October 1943."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-14-winnie-the-pooh-published-1926",
+      "canonicalId": "winnie-the-pooh-published-1926",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://theconversation.com/winnie-the-pooh-at-100-this-much-loved-classic-illustrates-how-books-can-boost-our-wellbeing-277528",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "The Conversation: 'A.A. Milne's Winnie-the-Pooh was first published on October 14 1926'; based on 'the nursery toys and games of his son, Christopher Robin'; illustrated by E.H. Shepard; The House at Pooh Corner (1928)."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Winnie-the-Pooh",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: published 1926 with illustrations by E.H. Shepard; inspired by Christopher Robin's toy animals; The House at Pooh Corner 1928; Hundred Acre Wood modelled on Ashdown Forest in East Sussex. Page gives the year only."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-14-erwin-rommel-death-1944",
+      "canonicalId": "erwin-rommel-death-1944",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Erwin-Rommel",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: died 'October 14, 1944, Herrlingen, near Ulm'; implicated in the conspiracy after the July Plot; Hitler offered poison (protecting his family) or trial; 'was buried with full military honors'; nicknamed 'the Desert Fox' for 'audacious surprise attacks' commanding the Afrika Korps."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-14"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-15-mata-hari-executed-1917",
+      "canonicalId": "mata-hari-executed-1917",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.friesmuseum.nl/en/collection/icons/mata-hari",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Fries Museum: Margaretha Geertruida Zelle born August 7, 1876 in Leeuwarden; stage name Mata Hari; accepted German money as 'agent H21' while trying to work as a French spy; executed by firing squad 'October 15th, 1917' at Vincennes; Captain Bouchardon 'cannot prove that she actually provided the Germans with incriminating information'."
+        },
+        {
+          "url": "https://www.britannica.com/question/Was-Mata-Hari-innocent",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'On July 25, 1917, a French military court found Mata Hari guilty of spying for Germany during World War I'; shot three months later; 'The German government publicly exculpated her in 1930'; documents released by France in 2017 'led many to believe that she had been a scapegoat'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-15-black-panther-party-founded-1966",
+      "canonicalId": "black-panther-party-founded-1966",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/Black-Panther-Party",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: founded 'October 15, 1966, in West Oakland, California' by college students Huey P. Newton and Bobby Seale; aim 'to patrol African American neighborhoods to protect residents from acts of police brutality'; membership over 2,000 with chapters in 48 states; 'Free Breakfast for Children Program (begun in January 1969)'; weakened by FBI COINTELPRO; by the mid-1980s activities 'all but ceased'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-15-i-love-lucy-premieres-1951",
+      "canonicalId": "i-love-lucy-premieres-1951",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/exhibits/i-love-lucy/overview.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "LOC: 'On Monday evening, October 15, 1951, a new television show was broadcast for the first time'; Lucille Ball and Desi Arnaz with Vivian Vance and William Frawley as neighbours; 'The 180 half-hour episodes were created before a live studio audience and captured on film', enabling reruns."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-15-napoleon-reaches-st-helena-1815",
+      "canonicalId": "napoleon-reaches-st-helena-1815",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.napoleon.org/en/young-historians/napodoc/from-waterloo-to-the-island-of-st-helena/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Fondation Napoléon: embarked on the Northumberland on 7 August; 'After a journey of nine weeks at sea, he arrived at the island of St Helena on 15 October 1815'; first stayed at 'the Briars' with the Balcombe family; Longwood ready 10 December 1815; 'Napoleon died on 5 May 1821 at 5.49pm at the age of fifty-one years'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "africa"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
+    },
+    {
+      "candidateId": "oct-15-thomas-sankara-killed-1987",
+      "canonicalId": "thomas-sankara-killed-1987",
+      "reviewStatus": "source_verified",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Thomas-Sankara",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: 'assassinated in a coup led by Compaoré' on October 15, 1987, in Ouagadougou, aged 37; on August 4, 1984, renamed Upper Volta Burkina Faso, 'land of upright people'; anti-corruption, women's empowerment, education, health care, 10 million trees planted against desertification; in 2022 Compaoré and nine others convicted of complicity in his murder."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "africa"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-15"
+      ],
+      "notes": "Added 2026-10-02 to deepen October 9-15 (owner asked for more and better content per day). Drafted and source-checked by Claude; awaiting owner review before promotion. No image."
     }
   ]
 }
