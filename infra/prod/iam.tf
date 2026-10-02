@@ -13,6 +13,11 @@ resource "aws_iam_policy" "workload_boundary" {
   name        = "on-this-day-workload-boundary"
   description = "Maximum permissions for any On This Day workload role"
   policy      = data.aws_iam_policy_document.workload_boundary.json
+
+  # Attached to both function roles; a plan that replaces it must fail.
+  lifecycle {
+    prevent_destroy = true
+  }
 }
 
 data "aws_iam_policy_document" "workload_boundary" {
