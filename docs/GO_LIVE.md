@@ -27,7 +27,9 @@ Content can be re-imported from Git; device registrations would be lost.
 ## A. Supabase
 
 1. **Project:** one project named `on-this-day` on the Free plan in East US
-   (North Virginia). Terraform (`infra/prod/supabase.tf`) imports it rather
+   (North Virginia). Production: ref `tdtmciqzyhrxevqdvzer`, region
+   `us-east-1`, organization `pbdjmyjjbhjassdpzfmq` (Free), created
+   2026-10-02 through the Supabase connector. Terraform (`infra/prod/supabase.tf`) imports it rather
    than creating it, so create it in the dashboard or through the Supabase
    connector. Reset its database password under Project Settings, Database,
    and save it as the *admin* password (Terraform never holds it). Create a
@@ -38,7 +40,9 @@ Content can be re-imported from Git; device registrations would be lost.
    (Terraform enforces SSL). From Connect, Session pooler, note the pooler
    host; the project ref is under Project Settings, General.
 3. **Check verified TLS** (prompts for the admin password; prints a version
-   line on success):
+   line on success). If it fails with `certificate verify failed` or any TLS
+   error, stop: the deployed functions refuse to start without verified TLS,
+   so nothing later in this runbook will work until it passes.
 
    ```sh
    export PROJECT_REF=<project-ref>
@@ -181,7 +185,7 @@ Content can be re-imported from Git; device registrations would be lost.
     EMPTY=e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
     curl -i "$API/v1/health"
     curl -i "$API/v1/days/today?timezone=America/Jamaica"
-    curl -sI "$API/v1/days/today?timezone=America/Jamaica" | grep -i x-cache   # Hit from cloudfront
+    curl -s -o /dev/null -D - "$API/v1/days/today?timezone=America/Jamaica" | grep -i x-cache   # Hit from cloudfront
     curl -i "$API/v1/events/battle-of-bosworth-field-1485"
     curl -i "$API/v1/quizzes/catalog"
     curl -i "$API/v1/quizzes/daily?timezone=America/Jamaica&questionCount=5"
