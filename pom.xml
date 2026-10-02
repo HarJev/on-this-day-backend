@@ -32,6 +32,7 @@
     <maven.surefire.plugin.version>3.2.5</maven.surefire.plugin.version>
     <postgresql.version>42.7.4</postgresql.version>
     <slf4j.version>2.0.13</slf4j.version>
+    <maven.assembly.plugin.version>3.7.1</maven.assembly.plugin.version>
     <spotbugs.maven.plugin.version>4.8.6.6</spotbugs.maven.plugin.version>
     <testcontainers.version>1.20.1</testcontainers.version>
 
@@ -264,6 +265,66 @@
                   <goal>integration-test</goal>
                   <goal>verify</goal>
                 </goals>
+              </execution>
+            </executions>
+          </plugin>
+        </plugins>
+      </build>
+    </profile>
+    <!--
+      Deployable Lambda ZIP for infra/prod (api_lambda_zip_path and
+      notifications_lambda_zip_path): compiled classes at the root and runtime
+      jars under lib/, the layout the Java runtime expects. One ZIP serves both
+      functions. Build with `mvn -B -Plambda-zip clean package -DskipTests`;
+      output: target/on-this-day-lambda.zip.
+    -->
+    <profile>
+      <id>lambda-zip</id>
+      <build>
+        <plugins>
+          <!-- Deployed functions refuse to start without the Supabase CA, so never package one without it. -->
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-enforcer-plugin</artifactId>
+            <version>${maven.enforcer.plugin.version}</version>
+            <executions>
+              <execution>
+                <id>require-supabase-ca</id>
+                <phase>validate</phase>
+                <goals>
+                  <goal>enforce</goal>
+                </goals>
+                <configuration>
+                  <rules>
+                    <requireFilesExist>
+                      <files>
+                        <file>${project.basedir}/src/main/resources/certs/supabase-prod-ca-2021.crt</file>
+                      </files>
+                      <message>Commit the production Supabase CA as src/main/resources/certs/supabase-prod-ca-2021.crt before building the Lambda ZIP (docs/GO_LIVE.md).</message>
+                    </requireFilesExist>
+                  </rules>
+                </configuration>
+              </execution>
+            </executions>
+          </plugin>
+          <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-assembly-plugin</artifactId>
+            <version>${maven.assembly.plugin.version}</version>
+            <executions>
+              <execution>
+                <id>lambda-zip</id>
+                <phase>package</phase>
+                <goals>
+                  <goal>single</goal>
+                </goals>
+                <configuration>
+                  <finalName>on-this-day-lambda</finalName>
+                  <appendAssemblyId>false</appendAssemblyId>
+                  <descriptors>
+                    <descriptor>src/assembly/lambda-zip.xml</descriptor>
+                  </descriptors>
+                </configuration>
               </execution>
             </executions>
           </plugin>

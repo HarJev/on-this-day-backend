@@ -4,6 +4,12 @@
 or cloud resource has been verified in the owner's AWS or Supabase accounts.
 Provisioning and spend require a separate approval.
 
+> **Current runbook (2026-10-02):** `docs/GO_LIVE.md`. The owner chose the
+> Supabase **Free** plan ($0) for now, the transaction pooler (port 6543,
+> `prepareThreshold=0`) for the Lambdas, and a function URL behind CloudFront
+> instead of API Gateway. Where this plan says otherwise, `GO_LIVE.md`,
+> `API_SECURITY.md` and `NOTIFICATIONS.md` are current.
+
 This plan covers the existing daily-history, device, and quiz APIs. It follows
 the launch gates in the mobile repository's
 `docs/PRODUCTION_LAUNCH_WORKPLAN.md`; it does not declare the product ready for

@@ -91,3 +91,10 @@ CloudFront **Free** plan and add a per-IP rate-based rule to its web ACL.
 reserving. Security model, mobile header change, and smoke tests:
 `docs/API_SECURITY.md`. Everything is inside free allowances; cost notes are
 at the top of `api.tf`.
+
+## Go Live
+
+The ordered owner steps for the first API, notification and Supabase
+deploy, including the Lambda ZIP build (`mvn -B -Plambda-zip clean package
+-DskipTests`) and the go-live `terraform.tfvars` values, are in
+`docs/GO_LIVE.md`. `tests/go_live.tftest.hcl` checks that variable set offline.
