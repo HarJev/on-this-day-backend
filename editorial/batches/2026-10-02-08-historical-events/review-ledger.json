@@ -908,7 +908,8 @@
         "europe"
       ],
       "eras": [
-        "1800-1945"
+        "revolutionary",
+        "early-modern"
       ],
       "calendarDays": [
         "10-05"
@@ -990,7 +991,13 @@
           "url": "https://constitutioncenter.org/blog/no-taxation-without-representation",
           "status": "verified_supporting",
           "checkedOn": "2026-10-02",
-          "note": "National Constitution Center (published October 7, 2022): 'met on this day in New York in 1765'; Declaration of Rights and Grievances approved October 19 with the consent-of-taxation resolution. Day rests on this page."
+          "note": "National Constitution Center (published October 7, 2022): 'met on this day in New York in 1765'; Declaration of Rights and Grievances approved October 19 with the consent-of-taxation resolution. Body text gives October 9, which conflicts with its own headline and the sources below; October 7 is the convening date."
+        },
+        {
+          "url": "https://www.encyclopedia.com/defense/energy-government-and-defense-magazines/stamp-act-congress",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Americans at War (Gale, via Encyclopedia.com): 'The Stamp Act Congress, which met in New York City from October 7 to 25, 1765, was the first gathering of representatives from several American colonies'. Added in review."
         }
       ],
       "imageRightsStatus": "not_applicable",
@@ -998,7 +1005,8 @@
         "americas"
       ],
       "eras": [
-        "1700-1800"
+        "revolutionary",
+        "early-modern"
       ],
       "calendarDays": [
         "10-07"
