@@ -6,6 +6,10 @@ terraform {
       source  = "hashicorp/aws"
       version = ">= 5.92"
     }
+    supabase = {
+      source  = "supabase/supabase"
+      version = "~> 1.11"
+    }
   }
 
   # State lives in HCP Terraform (free tier) with local execution: plans and

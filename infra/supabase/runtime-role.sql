@@ -30,4 +30,6 @@ GRANT INSERT, UPDATE, DELETE ON device_registration, notification_delivery TO ot
 GRANT INSERT, UPDATE ON quiz_daily_challenge TO otd_runtime;
 GRANT INSERT ON quiz_daily_question TO otd_runtime;
 -- Tables added by later migrations become readable without another grant.
+-- Writes are not: a new table the API or notification function writes to
+-- needs its own INSERT/UPDATE/DELETE grant here, applied with the migration.
 ALTER DEFAULT PRIVILEGES FOR ROLE postgres IN SCHEMA public GRANT SELECT ON TABLES TO otd_runtime;
