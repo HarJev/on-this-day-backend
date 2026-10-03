@@ -2516,7 +2516,7 @@
       "historicalDate": "October 3, 1990",
       "dateNote": null,
       "summary": "East and West Germany become one country again after 45 years.",
-      "description": "On October 3, 1990, the German Democratic Republic acceded to the Federal Republic under the Basic Law, bringing East and West Germany together again. Both parliaments had approved the Unification Treaty in September, and the treaty entered into force on September 29; it set October 3 as the date of accession. The nearly 1,000-page agreement also addressed practical questions of law, administration, finance, culture, and representation, turning reunification into a legal and civic transition as well as a national celebration.",
+      "description": "On October 3, 1990, the German Democratic Republic (East Germany) joined the Federal Republic of Germany (West Germany) under the Basic Law. The Unification Treaty, approved by both parliaments and in force since September 29, set that date for accession.\n\nAfter World War II, Germany was divided into Allied occupation zones. In 1949, separate states formed in the western zones and the Soviet zone, and Cold War divisions kept them apart for four decades. Protests and the opening of the Berlin Wall in 1989 made reunification possible; accession then extended the Federal Republic’s laws and institutions into the east.",
       "notificationTitle": "One Germany again",
       "notificationBody": "In 1990, East and West Germany were formally reunified.",
       "sources": [
@@ -2527,6 +2527,14 @@
         {
           "name": "German Federal Government - Approval of the Unification Treaty",
           "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990"
+        },
+        {
+          "name": "German Federal Archives - The Two German States in 1949",
+          "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/"
+        },
+        {
+          "name": "U.S. Office of the Historian - Fall of Communism in Eastern Europe, 1989",
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism"
         }
       ],
       "images": [
@@ -2618,13 +2626,17 @@
       "historicalDate": "October 3, 1226",
       "dateNote": "Julian calendar date.",
       "summary": "The founder of the Franciscan orders dies in his hometown.",
-      "description": "On October 3, 1226, Francis of Assisi, founder of the Franciscan religious orders, died in Assisi. He was canonized in 1228, and his feast day is October 4.",
+      "description": "On October 3, 1226, Francis of Assisi died in the Italian town where he was born. The son of a wealthy cloth merchant, he gave up his privileged life and became a religious preacher.\n\nHis commitment to living among the poor and following the Gospels drew followers who formed a religious community. That community became the Franciscan order, carrying his practice of poverty and service into a lasting movement within the medieval Church.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - St. Francis of Assisi",
           "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi"
+        },
+        {
+          "name": "Franciscan Media - Francis and Clare: Where the Tradition Begins",
+          "url": "https://www.franciscanmedia.org/franciscan-tradition-and-resources/francis-and-clare-where-the-tradition-begins-2/"
         }
       ],
       "images": [
@@ -2648,7 +2660,7 @@
       "historicalDate": "October 4, 1957",
       "dateNote": null,
       "summary": "The Soviet launch opens the space age.",
-      "description": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. Its success surprised many in the United States, where it raised fears of falling behind in science and military technology. President Dwight Eisenhower directed additional resources to the space program; after an unsuccessful Vanguard launch, the United States put Explorer 1 into orbit on January 31, 1958. Sputnik had turned satellite research into a visible Cold War contest.",
+      "description": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. The launch surprised the United States and intensified public concern that the Soviet Union had gained a technological and military advantage.\n\nPresident Dwight Eisenhower directed more funds and resources to the U.S. space effort. After the U.S. Vanguard satellite exploded on its launch pad, Explorer 1 reached orbit on January 31, 1958, beginning the American satellite program.",
       "notificationTitle": "The beep that started the space age",
       "notificationBody": "In 1957, Sputnik 1 became the first artificial satellite.",
       "sources": [
@@ -2678,7 +2690,7 @@
       "historicalDate": "October 4, 1966",
       "dateNote": null,
       "summary": "The mountain kingdom in southern Africa gains independence.",
-      "description": "On October 4, 1966, the Kingdom of Lesotho attained independence. The United States recognized it the same day and established an embassy at Maseru.",
+      "description": "On October 4, 1966, the Kingdom of Lesotho became independent, ending British rule over the territory formerly known as Basutoland. The United States recognized the new kingdom and opened an embassy in its capital, Maseru, that day.\n\nIndependence changed Basutoland from a British protectorate into a sovereign kingdom. U.S. recognition and the embassy opening established diplomatic relations with the new state.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2708,13 +2720,21 @@
       "historicalDate": "October 4, 1927",
       "dateNote": null,
       "summary": "Work starts on the mountain memorial in South Dakota.",
-      "description": "On October 4, 1927, carving began on Mount Rushmore in South Dakota. About 400 workers labored on the memorial until work ended on October 31, 1941.",
+      "description": "On October 4, 1927, sculptor Gutzon Borglum’s team began carving Mount Rushmore in South Dakota. Nearly 400 workers took part before work ended on October 31, 1941.\n\nThe faces are George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln, chosen to represent the founding, growth, development, and preservation of the United States. The carving dramatically altered the Black Hills landscape, an area with deep spiritual significance for many Indigenous tribes.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "U.S. National Park Service - Mount Rushmore: Carving History",
           "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm"
+        },
+        {
+          "name": "National Park Service - Why These Four Presidents?",
+          "url": "https://www.nps.gov/moru/learn/historyculture/why-these-four-presidents.htm"
+        },
+        {
+          "name": "National Park Service - Mount Rushmore Foundation Document Overview",
+          "url": "https://www.nps.gov/moru/learn/management/foundation-document-overview.htm"
         }
       ],
       "images": [
@@ -2738,13 +2758,21 @@
       "historicalDate": "October 4, 1669",
       "dateNote": null,
       "summary": "The Dutch master of painting and printmaking dies at 63.",
-      "description": "On October 4, 1669, the Dutch Baroque painter and printmaker Rembrandt van Rijn died in Amsterdam. He is regarded as one of the greatest storytellers in the history of art.",
+      "description": "On October 4, 1669, Dutch painter and printmaker Rembrandt van Rijn died in Amsterdam. Trained in Leiden and Amsterdam, he became known for portraits and history paintings.\n\nHis 1642 painting The Night Watch portrays Amsterdam civic guardsmen as they form up to march. The Rijksmuseum identifies them as members of the city militia and police; this active scene shows how Rembrandt made a formal group portrait tell a story.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Rembrandt",
           "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn"
+        },
+        {
+          "name": "Rijksmuseum - Rembrandt van Rijn",
+          "url": "https://www.rijksmuseum.nl/en/collection/node/Rembrandt-van-Rijn--ba2dc062acd137ffeac364321b7b10df"
+        },
+        {
+          "name": "Rijksmuseum - The Night Watch",
+          "url": "https://www.rijksmuseum.nl/en/collection/object/The-Night-Watch-Militia-Company-of-District-II-under-the-Command-of-Captain-Frans-Banninck-Cocq--3137deb45cd7765f9a76084a16c99544?tab=data"
         }
       ],
       "images": [
@@ -2882,13 +2910,21 @@
       "historicalDate": "October 5, 1969",
       "dateNote": null,
       "summary": "The anarchic comedy series makes its television debut.",
-      "description": "On October 5, 1969, the first episode of Monty Python's Flying Circus, “Whither Canada?”, aired, including the sketch “The Funniest Joke in the World.” The programme introduced a comic style that resisted the usual sketch-show categories: surreal scenes, parodies of television formats, and Terry Gilliam's cut-out animations ran together rather than ending in tidy punchlines.\n\nThe premiere's mix of famous-death sketches, mock commercials, interviews, and animation established the group's deliberately unpredictable approach. ",
+      "description": "On October 5, 1969, the BBC aired “Whither Canada?”, the first episode of Monty Python’s Flying Circus, a sketch-comedy series written and performed by the Monty Python team. Its debut episode combined several unrelated sketches rather than one continuous story.\n\nThe series later won a BAFTA television award in 1970, and the Python team received a performance award in 1973.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Monty Python (official site) - Monty Python's Flying Circus, Series 1",
           "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14"
+        },
+        {
+          "name": "BAFTA - Television Awards, 1970",
+          "url": "https://www.bafta.org/awards/television/?award-year=1970"
+        },
+        {
+          "name": "BAFTA - Awards Search: Monty Python",
+          "url": "https://www.bafta.org/awards/search/?search=Monty+Python"
         }
       ],
       "images": []
@@ -2900,17 +2936,17 @@
       "historicalDate": "October 6, 1995",
       "dateNote": null,
       "summary": "Geneva astronomers reveal 51 Pegasi b, opening the age of exoplanets.",
-      "description": "On October 6, 1995, Michel Mayor and Didier Queloz of the University of Geneva announced at a conference in Florence the discovery of 51 Pegasi b, the first planet found orbiting a Sun-like star. They had first spotted a stellar object circling its star every 4.2 days and waited to confirm the observations before announcing it. That short orbit helped make the discovery a turning point: planets beyond our Solar System moved from speculation to an observable field of research. Mayor and Queloz later shared the 2019 Nobel Prize in Physics.",
+      "description": "On October 6, 1995, astronomers Michel Mayor and Didier Queloz announced 51 Pegasi b, the first confirmed planet found orbiting a Sun-like star. Their measurements showed it circling its star in just 4.2 days.\n\nThe discovery showed that planets beyond our solar system could be detected by measuring how they move their stars. It led to new instruments and research programs devoted to finding and studying planets around other stars.",
       "notificationTitle": "The first world around another sun",
       "notificationBody": "In 1995, astronomers announced 51 Pegasi b, the first exoplanet around a Sun-like star.",
       "sources": [
         {
-          "name": "University of Geneva - The first exoplanet was discovered 30 years ago at the UNIGE",
-          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
-        },
-        {
           "name": "University of Geneva - The Discovery",
           "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte"
+        },
+        {
+          "name": "NASA Science - Will the real first exoplanet please stand up?",
+          "url": "https://science.nasa.gov/universe/exoplanets/will-the-real-first-exoplanet-please-stand-up/"
         }
       ],
       "images": [
@@ -2934,7 +2970,7 @@
       "historicalDate": "October 6, 1927",
       "dateNote": null,
       "summary": "Al Jolson's film becomes a landmark in the move to talking pictures.",
-      "description": "On October 6, 1927, The Jazz Singer, starring Al Jolson, premiered in New York. Its synchronized songs and spoken passages made it a landmark in the transition from silent films to sound film.",
+      "description": "On October 6, 1927, The Jazz Singer, starring Al Jolson, premiered in New York. The film combined title-card scenes with synchronized songs and spoken dialogue recorded through Warner Bros.’ Vitaphone sound system.\n\nIt was not the first film with synchronized sound, but its commercial success helped speed the industry’s move from silent pictures to sound films. Studios increasingly invested in sound technology, changing film production and moviegoing.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2968,7 +3004,7 @@
       "historicalDate": "October 6, 1973",
       "dateNote": null,
       "summary": "Egypt and Syria launch a surprise attack on Israel.",
-      "description": "On October 6, 1973, the Jewish holy day of Yom Kippur, Egypt and Syria launched coordinated surprise attacks on Israeli forces in the Sinai Peninsula and the Golan Heights. The assault opened the fourth Arab-Israeli war and caught Israeli forces off guard.\n\nThe fighting lasted nearly three weeks, turning the holiday attack into a major regional war rather than a brief border clash. It became known internationally as the Yom Kippur War, though Egypt and other Arab countries also call it the October War.",
+      "description": "On October 6, 1973, Egypt and Syria attacked Israeli forces in the Sinai Peninsula and the Golan Heights on Yom Kippur, Judaism’s holiest day. Israel had captured the territories in the 1967 Arab-Israeli War, and Egypt and Syria sought their return.\n\nThe crisis brought the United States and Soviet Union close to confrontation: after Moscow threatened to act unilaterally, Washington placed U.S. forces on worldwide alert. U.S. diplomacy during and after the war helped lead to the 1979 peace treaty between Egypt and Israel.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2976,10 +3012,10 @@
         "name": "Encyclopaedia Britannica - Yom Kippur War",
         "url": "https://www.britannica.com/event/Yom-Kippur-War"
       },
-      {
-        "name": "Associated Press - Today in History: October 6, Yom Kippur War begins",
-        "url": "https://apnews.com/article/e89f85b4503e008c52b48314670899b6"
-      }
+        {
+          "name": "U.S. Office of the Historian - The 1973 Arab-Israeli War",
+          "url": "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973"
+        }
       ],
       "images": [
         {
@@ -3002,7 +3038,7 @@
       "historicalDate": "October 6, 1981",
       "dateNote": null,
       "summary": "The leader who made peace with Israel is killed in Cairo.",
-      "description": "On October 6, 1981, Egyptian President Anwar Sadat was shot to death by members of Egyptian Islamic Jihad while reviewing a military parade in Cairo. Sadat had led Egypt since 1970, and his assassination during a state ceremony abruptly ended a decade in office.",
+      "description": "On October 6, 1981, Egyptian President Anwar Sadat was shot and killed by members of Egyptian Islamic Jihad while reviewing a military parade. Sadat had led Egypt since 1970 and, with Israeli Prime Minister Menachem Begin, signed the 1979 Egypt-Israel peace treaty.\n\nHis death delayed talks on Palestinian autonomy under the Camp David Accords. Talks resumed in January 1982, and Israel completed its withdrawal from Sinai that year, as the peace agreement required.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -3010,10 +3046,18 @@
         "name": "Encyclopaedia Britannica - Anwar Sadat",
         "url": "https://www.britannica.com/biography/Anwar-Sadat"
       },
-      {
-        "name": "Associated Press - Today in History: October 6, Anwar Sadat assassinated",
-        "url": "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df"
-      }
+        {
+          "name": "U.S. Office of the Historian - Camp David and the Aftermath",
+          "url": "https://history.state.gov/historicaldocuments/frus1981-88v01/d116fn2"
+        },
+        {
+          "name": "Associated Press - Today in History: October 6, Anwar Sadat assassinated",
+          "url": "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df"
+        },
+        {
+          "name": "U.S. Office of the Historian - Camp David Accords and the Arab-Israeli Peace Process",
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david"
+        }
       ],
       "images": [
       {
@@ -3066,13 +3110,17 @@
       "historicalDate": "October 7, 1571",
       "dateNote": "Julian calendar date.",
       "summary": "The last great sea battle between galleys is fought off Greece.",
-      "description": "On October 7, 1571, the fleets of the Holy League, including Spain, Venice, and the Papal States, defeated the Ottoman Turks in waters off southwestern Greece. Lepanto was the last great sea battle fought between galleys.",
+      "description": "On October 7, 1571, the Holy League—a coalition of Spain, Venice, Genoa, and the Papal States—defeated the Ottoman fleet in the waters off Lepanto, Greece. The allied fleet was commanded by John of Austria.\n\nThe Spanish Army Museum reports that the Ottomans lost nearly 200 galleys and that about 12,000 enslaved Christians were freed. The museum describes the battle as ending Ottoman expansion in the Mediterranean; freeing the captives was its immediate human consequence.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Battle of Lepanto",
           "url": "https://www.britannica.com/event/Battle-of-Lepanto"
+        },
+        {
+          "name": "Spanish Army Museum - Battle of Lepanto",
+          "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/10.07_octubre._LA_BATALLA_DE_LEPANTO.html?__locale=es"
         }
       ],
       "images": [
@@ -3134,7 +3182,7 @@
       "historicalDate": "October 7, 1949",
       "dateNote": null,
       "summary": "A new constitution takes effect in the Soviet occupation zone.",
-      "description": "On October 7, 1949, the German Democratic Republic, or East Germany, was founded when its provisional People's Chamber put the new state's constitution into force. It followed the creation of the Federal Republic of Germany in May, leaving two German states in the former occupation zones.\n\nThe Soviet-zone leadership framed the new state as representing Germany as a whole, even as the country became politically divided. The split proved far from temporary: the two states remained separate for four decades, until reunification in 1990.",
+      "description": "On October 7, 1949, the German Democratic Republic (East Germany) was founded when its provisional People's Chamber put the new state's constitution into force. It followed the Federal Republic of Germany, established in the western occupation zones in May.\n\nAfter World War II, the Allies divided Germany into occupation zones. In 1949, the western zones became the Federal Republic and the Soviet zone became the GDR; the division endured until reunification in 1990.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -3168,7 +3216,7 @@
       "historicalDate": "October 8, 1956",
       "dateNote": null,
       "summary": "The Yankees pitcher retires all 27 Brooklyn Dodgers batters.",
-      "description": "On October 8, 1956, New York Yankees pitcher Don Larsen retired all 27 Brooklyn Dodgers batters in Game 5 of the World Series. His 97-pitch perfect game remains the only one in World Series history. After the final strikeout, catcher Yogi Berra leapt into Larsen's arms; the Yankees went on to win the Series in seven games. The feat was striking partly because Larsen had been knocked out in the second inning of his previous start against Brooklyn just three days earlier.",
+      "description": "On October 8, 1956, New York Yankees pitcher Don Larsen retired all 27 Brooklyn Dodgers batters in Game 5 of the World Series. He needed 97 pitches to complete a perfect game, with no opposing player reaching base.\n\nIt remains the only perfect game in World Series history. The achievement was especially striking because Brooklyn had knocked Larsen out in the second inning of his previous start just three days earlier; the Yankees went on to win the Series in seven games.",
       "notificationTitle": "27 up, 27 down",
       "notificationBody": "In 1956, Don Larsen pitched the only perfect game in World Series history.",
       "sources": [
@@ -3236,13 +3284,17 @@
       "historicalDate": "October 8, 1912",
       "dateNote": null,
       "summary": "The Balkan League moves against the Ottoman Empire.",
-      "description": "On October 8, 1912, Montenegro declared war on the Ottoman Empire, opening the First Balkan War. The other members of the Balkan League followed ten days later.",
+      "description": "On October 8, 1912, Montenegro declared war on the Ottoman Empire, opening the First Balkan War. Serbia, Bulgaria, and Greece joined the conflict days later as members of the Balkan League.\n\nThe League aimed to remove Ottoman rule from its remaining European territory. Its victory transferred nearly all that territory to the Balkan allies, but rivalry over the division of the gains soon led to another war among former allies.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Balkan Wars",
           "url": "https://www.britannica.com/topic/Balkan-Wars"
+        },
+        {
+          "name": "Manatū Taonga - Ministry for Culture and Heritage, NZHistory",
+          "url": "https://nzhistory.govt.nz/page/three-wars-three-years-1911-13"
         }
       ],
       "images": [
@@ -3296,7 +3348,7 @@
       "historicalDate": "October 9, 1874",
       "dateNote": null,
       "summary": "Delegates from 22 countries sign the Treaty of Bern, creating a union for international mail.",
-      "description": "On October 9, 1874, representatives of 22 countries meeting in Bern signed the Treaty of Bern, founding the General Postal Union, later renamed the Universal Postal Union. The agreement replaced a confusing patchwork of postal rules with a single territory for exchanging letters across borders, easing the movement of international mail. Membership grew quickly, and the organization adopted its current name in 1878. The treaty's signing date is now marked around the world as World Post Day.",
+      "description": "On October 9, 1874, representatives of 22 countries signed the Treaty of Bern, creating the General Postal Union. The agreement set common rules for exchanging letters across borders instead of leaving each country to navigate a patchwork of postal systems.\n\nThe treaty unified participating systems into a shared territory for reciprocal letter exchange, reducing barriers to international mail. The organization took the name Universal Postal Union in 1878; October 9 is now marked as World Post Day.",
       "notificationTitle": "The day the world agreed on mail",
       "notificationBody": "In 1874, delegates from 22 countries met in Bern and signed a treaty for international post.",
       "sources": [
@@ -3330,7 +3382,7 @@
       "historicalDate": "October 9, 1604",
       "dateNote": null,
       "summary": "A brilliant new star appears in Ophiuchus, later named for Johannes Kepler.",
-      "description": "On October 9, 1604, Italian astronomer Lodovico delle Colombo first observed a bright new star in the constellation Ophiuchus. Johannes Kepler, working in Prague, began observing it on October 17, and the stellar explosion is now known by his name.",
+      "description": "On October 9, 1604, Italian astronomer Lodovico delle Colombe first observed a bright new star in the constellation Ophiuchus. Johannes Kepler, an astronomer working in Prague, began observing it on October 17 and tracked it for more than a year.\n\nThe sudden appearance puzzled astronomers, who did not know what caused the star to appear and fade. Kepler published his detailed observations in 1606; NASA says the event helped shape European cosmology toward Nicolaus Copernicus’s Sun-centered model. Astronomers now identify it as supernova SN 1604.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -3360,13 +3412,13 @@
       "historicalDate": "October 9, 1888",
       "dateNote": null,
       "summary": "Visitors can finally ride to the top of the obelisk honoring George Washington.",
-      "description": "On October 9, 1888, the Washington Monument in Washington, D.C., opened to the public after a steam elevator was installed. The obelisk had been completed in 1884 and dedicated in February 1885.",
+      "description": "On October 9, 1888, the Washington Monument opened to the public with a passenger elevator converted from the hoist used to raise its stones. The obelisk honoring George Washington had been completed in 1884 and dedicated in 1885.\n\nConstruction halted in 1854 after the Washington National Monument Society ran out of funds. Congress appropriated federal money in 1876, shaft construction resumed in 1880, and the elevator gave visitors a way to ascend inside the completed monument.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
-          "name": "Encyclopaedia Britannica - Washington Monument",
-          "url": "https://www.britannica.com/topic/Washington-Monument-Washington-DC"
+          "name": "National Park Service - Washington Monument Construction Timeline",
+          "url": "https://home.nps.gov/wamo/learn/historyculture/monumentconstruction.htm"
         }
       ],
       "images": [
@@ -3390,13 +3442,13 @@
       "historicalDate": "October 9, 1962",
       "dateNote": null,
       "summary": "Uganda ends British colonial rule, with Milton Obote leading the new government.",
-      "description": "On October 9, 1962, Uganda gained independence from Britain. Milton Obote became prime minister at the head of a coalition between the Uganda People's Congress and Kabaka Yekka.",
+      "description": "On October 9, 1962, Uganda became independent from Britain, ending its status as a British protectorate. Milton Obote, a leader of the Uganda People’s Congress, became prime minister.\n\nThe new state gave Buganda considerable autonomy. After Uganda became a republic in 1963, its king, Mutesa II, was elected president, bringing the kingdom’s traditional leadership into the new national government.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
-          "name": "Encyclopaedia Britannica - Uganda: The Republic of Uganda",
-          "url": "https://www.britannica.com/place/Uganda/The-Republic-of-Uganda"
+          "name": "Office of the Vice President of Uganda - History",
+          "url": "https://www.vicepresident.go.ug/history/"
         },
         {
           "name": "EBSCO Research Starters - Uganda Gains Independence",
@@ -3424,7 +3476,7 @@
       "historicalDate": "October 9, 1967",
       "dateNote": null,
       "summary": "The revolutionary is killed at La Higuera a day after Bolivian forces capture him.",
-      "description": "On October 9, 1967, the revolutionary Ernesto \"Che\" Guevara was executed at La Higuera in Bolivia, a day after a U.S.-trained Bolivian army unit captured him. Declassified records show CIA involvement in the campaign against his guerrilla group.",
+      "description": "On October 9, 1967, Ernesto “Che” Guevara, an Argentine-born revolutionary and Fidel Castro’s ally in the Cuban Revolution, was executed in Bolivia. He had gone there to lead a guerrilla campaign; Bolivian soldiers captured him on October 8.\n\nSenior Bolivian officers ordered his execution after his capture, ending his attempt to build a guerrilla movement in Bolivia.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -21130,13 +21182,17 @@
       "historicalDate": "October 3, 1952",
       "dateNote": null,
       "summary": "Operation Hurricane explodes a plutonium device aboard a frigate off Australia.",
-      "description": "On October 3, 1952, Britain carried out its first atomic weapons test, code-named Hurricane, aboard the frigate HMS Plym in the Montebello Islands off northwest Australia. The plutonium bomb, built under William Penney after a 1947 government decision to make a British atomic bomb, had an estimated yield of 25 kilotons. By early 1954 RAF Canberra bombers were armed with atomic bombs.",
+      "description": "On October 3, 1952, Britain detonated its first atomic device during Operation Hurricane, aboard the frigate HMS Plym. Physicist William Penney led the development team.\n\nAfter the British government decided in 1947 to develop an atomic bomb, the test showed that the project had produced a working British device. It gave Britain the ability to test its own nuclear weapon design.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
-          "name": "Encyclopaedia Britannica - Nuclear weapon: The spread of nuclear weapons",
-          "url": "https://www.britannica.com/technology/nuclear-weapon/The-spread-of-nuclear-weapons"
+          "name": "History of Government - The decision to build a British atomic bomb",
+          "url": "https://history.blog.gov.uk/2022/01/07/whats-the-context-the-decision-to-build-a-british-atomic-bomb-8-january-1947/"
+        },
+        {
+          "name": "Royal Air Force Museum - 1952",
+          "url": "https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-military-aviation/1952-2/"
         }
       ],
       "images": []
@@ -21166,7 +21222,7 @@
       "historicalDate": "October 4, 1991",
       "dateNote": null,
       "summary": "Nations agree to designate Antarctica a natural reserve devoted to peace and science.",
-      "description": "On October 4, 1991, the Protocol on Environmental Protection to the Antarctic Treaty was signed in Madrid. It designates Antarctica as a \"natural reserve, devoted to peace and science\" and prohibits all activities relating to Antarctic mineral resources except scientific research. It entered into force in 1998.",
+      "description": "On October 4, 1991, Antarctic Treaty nations signed the Protocol on Environmental Protection in Madrid. The protocol designated Antarctica as a “natural reserve, devoted to peace and science” and banned mineral-resource activities except for scientific research.\n\nThe agreement set shared environmental rules for Treaty parties. It entered into force in 1998, making those rules binding on the parties.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -21184,13 +21240,17 @@
       "historicalDate": "October 5, 1789",
       "dateNote": null,
       "summary": "The crowd that follows brings the royal family back to Paris.",
-      "description": "On October 5, 1789, Parisians marched to Versailles after the king refused to sanction the August decrees abolishing feudalism and the Declaration of the Rights of Man and of the Citizen. The next day they brought the royal family back to Paris, and the National Constituent Assembly followed the court there.",
+      "description": "On October 5, 1789, a crowd marched from Paris to Versailles, where King Louis XVI and the royal family lived. Anger had grown as people went hungry while a royal banquet was held; the crowd demanded bread and a response from the king.\n\nLouis promised to provide bread and went to Paris with the royal family the next day. The National Constituent Assembly also followed the court, shifting the center of political debate from Versailles to Paris.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - French Revolution: Events of 1789",
           "url": "https://www.britannica.com/event/French-Revolution/Events-of-1789"
+        },
+        {
+          "name": "Palace of Versailles - Departure of the King, 1789",
+          "url": "https://en.chateauversailles.fr/discover/history/key-dates/departure-king-1789"
         }
       ],
       "images": []
@@ -21202,17 +21262,13 @@
       "historicalDate": "October 5, 1905",
       "dateNote": null,
       "summary": "A flight of about 24 miles shows the airplane is ready for practical use.",
-      "description": "On October 5, 1905, the Wright brothers made a record flight of about 24 miles in their new Flyer No. 3 at Huffman Prairie near Dayton, Ohio. In 1904 about 100 flights had totaled only 45 minutes in the air. The Smithsonian says the Wrights now had a practical airplane; they turned to securing a patent and finding a buyer, and did not fly at all in 1906 and 1907.",
+      "description": "On October 5, 1905, the Wright brothers’ improved Flyer No. 3 made a record flight of about 24 miles near Dayton, Ohio, lasting 38 minutes.\n\nThey believed the machine was ready for practical use and sought a government contract. The U.S. Army initially declined to investigate their offer, but the War Department contracted for an airplane in 1908.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "National Park Service - Wright Brothers",
           "url": "https://www.nps.gov/articles/wright-brothers.htm"
-        },
-        {
-          "name": "National Air and Space Museum - You Just Invented the Airplane, Now What?",
-          "url": "https://airandspace.si.edu/stories/editorial/you-just-invented-airplane-now-what"
         }
       ],
       "images": []
@@ -21224,7 +21280,7 @@
       "historicalDate": "October 6, 1889",
       "dateNote": null,
       "summary": "The Paris music hall launches the French cancan to fame.",
-      "description": "On October 6, 1889, the Moulin Rouge opened at Place Blanche in Paris. Founders Joseph Oller and Charles Zidler nicknamed it the first Women Palace and promised a temple of music and dance. The French cancan became its centerpiece, with La Goulue as its figurehead, and Henri de Toulouse-Lautrec, a regular, made seventeen paintings inspired by the venue.",
+      "description": "On October 6, 1889, the Moulin Rouge opened at Place Blanche in Montmartre, Paris. Founders Joseph Oller and Charles Zidler created a music hall with a large dance floor.\n\nThe French cancan became one of its signature attractions, and dancer La Goulue became a famous performer. Artist Henri de Toulouse-Lautrec, a regular customer, made 17 paintings inspired by the venue, depicting its performers and early cabaret culture.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -21246,13 +21302,17 @@
       "historicalDate": "October 7, 1765",
       "dateNote": null,
       "summary": "Delegates from nine colonies protest taxation without representation.",
-      "description": "On October 7, 1765, delegates from nine American colonies met in New York City to answer the Stamp Act. It was the first time representatives of the colonies had gathered and acted collectively. Its Declaration of Rights and Grievances, approved October 19, held that no taxes may be imposed on the colonists but with their own consent, given through their representatives.",
+      "description": "On October 7, 1765, delegates from nine American colonies met in New York to protest the British Stamp Act, a tax on printed materials and legal documents. They drafted a Declaration of Rights and Grievances arguing that the colonies could not be taxed without their consent through elected representatives.\n\nThe congress gave colonies a way to coordinate their objection instead of petitioning separately. It called for repeal and helped turn “no taxation without representation” into a shared political argument; Parliament repealed the Stamp Act the following year.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Stamp Act Congress",
           "url": "https://www.britannica.com/topic/Stamp-Act-Congress"
+        },
+        {
+          "name": "Library of Congress - No Taxation Without Representation",
+          "url": "https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/no-taxation-without-representation.html"
         },
         {
           "name": "National Constitution Center - On this day: No taxation without representation!",
@@ -21272,13 +21332,17 @@
       "historicalDate": "October 7, 2001",
       "dateNote": null,
       "summary": "The campaign opens weeks after the September 11 attacks.",
-      "description": "On October 7, 2001, President George W. Bush announced that the United States military had begun strikes against al Qaeda training camps and Taliban military installations in Afghanistan, in an operation named Enduring Freedom. He said the Taliban had ignored demands to close terrorist camps and hand over al Qaeda leaders, and that food and medicine would also be dropped to Afghans.",
+      "description": "On October 7, 2001, the United States and Britain began strikes against al Qaeda training camps and Taliban military sites in Afghanistan, launching Operation Enduring Freedom after the September 11 attacks. President George W. Bush said the Taliban had not met U.S. demands to close al Qaeda camps and hand over the network’s leaders.\n\nBush said the operation aimed to disrupt Afghanistan’s use as a terrorist base and weaken the Taliban’s military capacity; his address also announced food and medicine drops for Afghan civilians. The White House’s one-year account says Mazar-e-Sharif became the first major city liberated, one month after military operations began.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
         {
           "name": "George W. Bush White House Archives - Presidential Address to the Nation, October 7, 2001",
           "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/20011007-8.html"
+        },
+        {
+          "name": "White House Archives - Operation Enduring Freedom: One Year of Accomplishments",
+          "url": "https://georgewbush-whitehouse.archives.gov/infocus/defense/enduringfreedom.html"
         }
       ],
       "images": []
@@ -21290,7 +21354,7 @@
       "historicalDate": "October 8, 1918",
       "dateNote": null,
       "summary": "A Tennessee blacksmith turns a patrol's disaster into a Medal of Honor action.",
-      "description": "On October 8, 1918, during the Meuse-Argonne Offensive, Corporal Alvin York took command of his patrol near Châtel-Chéhéry, France, after heavy casualties. He silenced a German machine-gun nest and captured four officers and 128 men. York, a Tennessee blacksmith who had been denied conscientious objector status, received the Medal of Honor in April 1919.",
+      "description": "On October 8, 1918, Corporal Alvin York’s patrol came under heavy fire near Châtel-Chéhéry, France, during the Meuse-Argonne Offensive. York took command, silenced a German machine-gun position, and captured four officers and 128 men.\n\nYork was a Tennessee farmer and blacksmith whose religious objection to war led him to seek conscientious-objector status before he agreed to serve. He received the Medal of Honor for his actions, presented in France in April 1919.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [

@@ -96,7 +96,7 @@ Content can be re-imported from Git; device registrations would be lost.
    export DB_USER="postgres.$PROJECT_REF"
    export DB_PASSWORD_SSM_PARAMETER=/on-this-day/prod/db-admin-password
    export DB_SSL_ROOT_CERT="$CA"
-   mvn -B -q compile exec:java -Dexec.mainClass=com.onthisday.platform.runtime.DatabaseMigrationCommand -Dexec.args=migrate
+   mvn -B compile exec:java -Dexec.mainClass=com.onthisday.platform.runtime.DatabaseMigrationCommand -Dexec.args=migrate
    mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.CuratedContentImportCommand
    mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.quiz.QuizContentImportCommand
    mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.editorial.ContentStatusCommand \

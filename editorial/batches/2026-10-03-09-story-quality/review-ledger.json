@@ -1,0 +1,746 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-03-09-story-quality",
+  "entries": [
+    {
+      "candidateId": "german-reunification-1990-story-quality",
+      "canonicalId": "german-reunification-1990",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Treaty page: ‘The GDR acceded to the Federal Republic of Germany’ on 3 October 1990; it states the treaty entered into force September 29. Britannica separately says the treaty went into effect October 3; distinguish the treaty’s entry into force from the accession date. The Treaty provides for the GDR’s accession to the Federal Republic and application of its Basic Law."
+        },
+        {
+          "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Federal Archives: the two postwar states were formed ‘Aufbauend auf den Besatzungszonen’ (building on the occupation zones); the same history explains the two-state division before reunification."
+        },
+        {
+          "url": "https://history.state.gov/milestones/1989-1992/fall-of-communism",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: ‘hundreds of thousands marched in protest’ before the Berlin Wall fell and reunification followed."
+        },
+        {
+          "url": "https://www.britannica.com/topic/German-reunification",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'A unification treaty was ratified by the Bundestag and the People's Chamber in September and went into effect on October 3, 1990.'"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Story context only; teaser, title, ID, assignments, notifications, image URL, and quiz links preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "francis-of-assisi-dies-1226-story-quality",
+      "canonicalId": "francis-of-assisi-dies-1226",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.franciscanmedia.org/franciscan-tradition-and-resources/francis-and-clare-where-the-tradition-begins-2/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Franciscan Media calls Francis ‘the son of a wealthy cloth merchant’ and describes his decision to live the Gospel in poverty; the community inspired by him became the Franciscan tradition."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Saint-Francis-of-Assisi",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Francis of Assisi (born 1181/82, Assisi - died October 3, 1226, Assisi; canonized July 16, 1228; feast day October 4) was the founder of the Franciscan religious orders.'"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Story context only; added source directly opened. Other canonical source checks remain in the earlier October 2–8 event review.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "sputnik-1-launched-1957-story-quality",
+      "canonicalId": "sputnik-1-launched-1957",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: Eisenhower ‘poured additional funds and resources’; Vanguard ‘exploded on the launch pad’; Explorer launched Jan. 31, 1958."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "lesotho-independence-1966-story-quality",
+      "canonicalId": "lesotho-independence-1966",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/lesotho",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: Lesotho was formerly ‘the British protectorate of Basutoland’; on October 4, 1966, the United States recognized the new kingdom and opened an embassy in Maseru."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "mount-rushmore-carving-begins-1927-story-quality",
+      "canonicalId": "mount-rushmore-carving-begins-1927",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NPS: ‘October 4, 1927 - October 31, 1941’; the project ‘involved the efforts of nearly 400 men and women.’"
+        },
+        {
+          "url": "https://www.nps.gov/moru/learn/historyculture/why-these-four-presidents.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NPS says Borglum chose Washington to represent ‘the birth of the United States’; Jefferson, Roosevelt, and Lincoln represented growth, development, and preservation. Its foundation document says carving ‘dramatically altered the character of the landscape’ and notes tribes’ sacred relationship with the Black Hills."
+        },
+        {
+          "url": "https://www.nps.gov/moru/learn/management/foundation-document-overview.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NPS: ‘The Black Hills are considered sacred and of great importance to many tribes’; the natural-landscape changes have evoked concerns."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "rembrandt-dies-1669-story-quality",
+      "canonicalId": "rembrandt-dies-1669",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.rijksmuseum.nl/en/collection/node/Rembrandt-van-Rijn--ba2dc062acd137ffeac364321b7b10df",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Rijksmuseum calls Rembrandt a ‘Dutch painter and printmaker’ and notes his training in Leiden and Amsterdam. Its Night Watch record dates the work to 1642, identifies a militia company, and says the captain ‘tells his lieutenant to start the company marching.’"
+        },
+        {
+          "url": "https://www.rijksmuseum.nl/en/collection/object/The-Night-Watch-Militia-Company-of-District-II-under-the-Command-of-Captain-Frans-Banninck-Cocq--3137deb45cd7765f9a76084a16c99544?tab=data",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Rijksmuseum: civic guard was ‘the city’s militia and police’; Rembrandt painted group figures ‘actually doing something’ as guards formed up."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Rembrandt-van-Rijn",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Rembrandt (born July 15, 1606, Leiden - died October 4, 1669, Amsterdam) was a Dutch Baroque painter and printmaker, one of the greatest storytellers in the history of art.'"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story context only; superlative removed.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "monty-python-first-broadcast-1969-story-quality",
+      "canonicalId": "monty-python-first-broadcast-1969",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official episode list: ‘Whither Canada?’ aired 5 Oct. 1969 and includes ‘Whizzo Butter’ and other sketches."
+        },
+        {
+          "url": "https://www.bafta.org/awards/television/?award-year=1970",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "BAFTA’s 1970 archive lists ‘Monty Python’s Flying Circus’ as the winner of General (1)."
+        },
+        {
+          "url": "https://www.bafta.org/awards/search/?search=Monty+Python",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "BAFTA archive: ‘The Monty Python Team’ / ‘Monty Python’s Flying Circus’ won Light Entertainment Performance in 1973."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "first-exoplanet-announced-1995-story-quality",
+      "canonicalId": "first-exoplanet-announced-1995",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UNIGE: Mayor and Queloz found an object ‘circling its star in 4.2 days’; they ‘first had to confirm our observations before revealing anything.’"
+        },
+        {
+          "url": "https://science.nasa.gov/universe/exoplanets/will-the-real-first-exoplanet-please-stand-up/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NASA says the discovery ‘proved worthy’ as a scientific milestone; the radial-velocity method detected the planet by measuring subtle movements of its star, and the finding ‘opened the door to a galactic menagerie’ of exoplanets."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "the-jazz-singer-premieres-1927-story-quality",
+      "canonicalId": "the-jazz-singer-premieres-1927",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Opened AFI catalog: although not the first talking picture, its success was ‘a significant factor in the rapid transition’ to sound films; record lists Vitaphone."
+        },
+        {
+          "url": "https://www.britannica.com/topic/The-Jazz-Singer-film-1927",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica calls it ‘the first feature-length movie with synchronized dialogue’; AFI says it was not the first talking picture and describes its success as ‘a significant factor in the rapid transition’ to sound films. AFI identifies Vitaphone and Jolson’s synchronized songs and dialogue."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "yom-kippur-war-begins-1973-story-quality",
+      "canonicalId": "yom-kippur-war-begins-1973",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: Israel had occupied territories in 1967; Egypt and Syria attacked Israel in the Sinai and Golan on October 6; the war’s aim included return to ‘the 1967 ceasefire lines’; Brezhnev threatened ‘appropriate steps unilaterally’ and the United States placed nuclear forces on ‘worldwide alert’; the war ‘paved the way’ for shuttle diplomacy and the 1979 treaty."
+        },
+        {
+          "url": "https://www.britannica.com/event/Yom-Kippur-War",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'fourth of the Arab-Israeli wars, which was initiated by Egypt and Syria on October 6, 1973, on the Jewish holy day of Yom Kippur'; 'On the afternoon of October 6 Egypt and Syria attacked Israel simultaneously on two fronts.'"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story context only; unsupported embargo statement removed; image metadata unchanged.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "anwar-sadat-assassinated-1981-story-quality",
+      "canonicalId": "anwar-sadat-assassinated-1981",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1981-88v01/d116fn2",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "FRUS account: owing to Sadat’s assassination, talks resumed in January 1982; it records the ‘successful completion of Israel’s withdrawal from Sinai’."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Anwar-Sadat",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: ‘Anwar Sadat ... was president of Egypt from 1970 until his assassination in 1981.’ FRUS states talks resumed in January 1982 after his death and records ‘the successful completion of Israel’s withdrawal from Sinai’ that year."
+        },
+        {
+          "url": "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Associated Press: Sadat ‘was shot to death by members of the Egyptian Islamic Jihad while reviewing a military parade.’"
+        },
+        {
+          "url": "https://history.state.gov/milestones/1977-1980/camp-david",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: the Camp David Accords established a framework for ‘a historic peace treaty concluded between Israel and Egypt in March 1979’; it records the treaty was formally signed on March 26."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story context only; unsupported motive and perpetrator statements removed; image metadata unchanged.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "battle-of-lepanto-1571-story-quality",
+      "canonicalId": "battle-of-lepanto-1571",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/10.07_octubre._LA_BATALLA_DE_LEPANTO.html?__locale=es",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Spanish Army Museum: ‘Los turcos perdieron cerca de 200 galeras’ (Ottomans lost nearly 200 galleys); ‘Se liberaron 12.000 esclavos cristianos’ (12,000 enslaved Christians were freed); it says Mediterranean expansion ended."
+        },
+        {
+          "url": "https://www.britannica.com/event/Battle-of-Lepanto",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Battle of Lepanto, (October 7, 1571), naval engagement in the waters off southwestern Greece between the allied Christian forces of the Holy League and the Ottoman Turks'; fleets of Spain, Venice and the Papal States defeated the Turks in the last great sea battle involving galleys."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Story context only; significance explicitly attributed to the museum’s account.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "german-democratic-republic-founded-1949-story-quality",
+      "canonicalId": "german-democratic-republic-founded-1949",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Federal Archives: ‘Aufbauend auf den Besatzungszonen’ (building on the occupation zones); ‘Das Jahr 1949 markierte die Geburtsstunde der Bundesrepublik und der Deutschen Demokratischen Republik’ (1949 marked the birth of both German states)."
+        },
+        {
+          "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "bpb: ‘7. Oktober 1949 – Gründung der DDR: Die Provisorische Volkskammer ... setzt die Verfassung in Kraft’ (the provisional People's Chamber put the constitution into force); the FRG was founded in the western zones in May 1949."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "don-larsen-perfect-game-1956-story-quality",
+      "canonicalId": "don-larsen-perfect-game-1956",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Hall of Fame account: Larsen ‘threw 97 pitches’; Brooklyn had knocked him out in the second inning ‘three days earlier’; New York won the Series in seven games."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Don-Larsen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: Larsen pitched 'the first and, to date, only perfect game in World Series history on October 8, 1956, while playing for the New York Yankees against the Brooklyn Dodgers'; retired all 27 batters."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "first-balkan-war-begins-1912-story-quality",
+      "canonicalId": "first-balkan-war-begins-1912",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nzhistory.govt.nz/page/three-wars-three-years-1911-13",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NZ History: the League aimed to force Ottoman Turks from ‘their remaining territory in Europe’; afterward, ‘nearly all’ remaining Ottoman European territory was divided among League members."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Balkan-Wars",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica: 'Montenegro opened hostilities by declaring war on Turkey on October 8, 1912, and the other members of the league followed suit 10 days later.'"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "universal-postal-union-founded-1874-story-quality",
+      "canonicalId": "universal-postal-union-founded-1874",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UPU history: bilateral agreements made international mail ‘complicated and awkward’; the Treaty of Bern established ‘a single postal territory for the reciprocal exchange of letters.’ The organization took the name Universal Postal Union in 1878; 9 October is World Post Day."
+        },
+        {
+          "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Swiss National Museum: ‘The UPU unified its member states into a single postal territory’; founded in Bern in 1874."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "keplers-supernova-first-sighted-1604-story-quality",
+      "canonicalId": "keplers-supernova-first-sighted-1604",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NASA: Italian astronomer Lodovico delle Colombe first observed it October 9; Kepler, working in Prague, began observations October 17 and tracked it ‘for over a year’; he published detailed observations in 1606; astronomers call it ‘SN 1604’; the event ‘helped shape European cosmology toward the heliocentric model proposed by Polish astronomer Nicolaus Copernicus.’"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "washington-monument-opens-to-public-1888-story-quality",
+      "canonicalId": "washington-monument-opens-to-public-1888",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://home.nps.gov/wamo/learn/historyculture/monumentconstruction.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NPS: work stopped when the Society ‘had exhausted all funds’; Congress appropriated $2 million in 1876; shaft construction resumed in 1880; the hoist became a passenger elevator; monument opened Oct. 9, 1888."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "uganda-independence-1962-story-quality",
+      "canonicalId": "uganda-independence-1962",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.vicepresident.go.ug/history/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Uganda’s Office of the Vice President: Obote became prime minister; ‘Buganda was given considerable autonomy’; Mutesa was elected president in 1963; Obote ended that autonomy in 1966. EBSCO states that the UPC/Kabaka Yekka coalition placed the Kabaka at the head of state on independence day."
+        },
+        {
+          "url": "https://www.ebsco.com/research-starters/history/uganda-gains-independence",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "EBSCO: the coalition made ‘the Kabaka [Mutesa II] head of state on independence day.’"
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "che-guevara-executed-1967-story-quality",
+      "canonicalId": "che-guevara-executed-1967",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "National Security Archive dates execution ‘at 1:15 p.m. on October 9, 1967’ after capture by a ‘U.S.-trained Bolivian military battalion’; its file quotes the order to execute him. The archive identifies Guevara as an Argentine revolutionary and Castro ally in the Cuban Revolution."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "operation-hurricane-first-british-atomic-test-1952-story-quality",
+      "canonicalId": "operation-hurricane-first-british-atomic-test-1952",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-military-aviation/1952-2/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "RAF Museum timeline: ‘the first British atomic device is detonated’ aboard HMS Plym; it was designed by a team ‘led by Dr W.G. Penney.’"
+        },
+        {
+          "url": "https://history.blog.gov.uk/2022/01/07/whats-the-context-the-decision-to-build-a-british-atomic-bomb-8-january-1947/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UK government historian: ‘it was not until 8 January 1947 that the decision was taken’; the aim was a ‘future national capability’."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Story context only; removed unsupported yield and later RAF deployment detail.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "madrid-protocol-signed-1991-story-quality",
+      "canonicalId": "madrid-protocol-signed-1991",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://ats.aq/e/protocol.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Antarctic Treaty Secretariat: the protocol designates Antarctica a ‘natural reserve, devoted to peace and science’; Article 7 prohibits mineral-resource activities except scientific research; it entered into force on 14 January 1998."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "march-on-versailles-1789-story-quality",
+      "canonicalId": "march-on-versailles-1789",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://en.chateauversailles.fr/discover/history/key-dates/departure-king-1789",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Versailles history: ‘Organising a banquet when the people were going hungry’ helped spur the march; Louis ‘promised to provide bread’ and left for Paris with the royal family."
+        },
+        {
+          "url": "https://www.britannica.com/event/French-Revolution/Events-of-1789",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: the king refused to sanction the August 4 decrees and the Declaration; 'on October 5 marched to Versailles. The next day they brought the royal family back to Paris. The National Constituent Assembly followed the court'."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "wright-flyer-iii-record-flight-1905-story-quality",
+      "canonicalId": "wright-flyer-iii-record-flight-1905",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nps.gov/articles/wright-brothers.htm",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NPS: near Dayton the brothers made ‘a record flight of 24 1/5 miles’ in 38 minutes; they believed the plane was ‘perfected for practical use’; the Army initially declined to investigate their offer, then contracted in 1908."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "moulin-rouge-opens-1889-story-quality",
+      "canonicalId": "moulin-rouge-opens-1889",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.moulinrouge.fr/en/the-moulin-rouge/history/the-great-periods/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official Moulin Rouge history says ‘On the October 6th’ a new music hall opened at Place Blanche; it names Oller and Zidler, says the French Cancan became a popular attraction and La Goulue a famous dancer, calls Toulouse-Lautrec a regular customer, and says 17 of his paintings were directly inspired by the venue. This resolves the contradictory 9 October wording from a previous working note: the official page and canonical date both say October 6."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Moulin-Rouge-cabaret-Paris-France",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: established in 1889 as a dance hall; cancan; Toulouse-Lautrec. Does not give the day; the day rests on the official site."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "stamp-act-congress-convenes-1765-story-quality",
+      "canonicalId": "stamp-act-congress-convenes-1765",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/no-taxation-without-representation.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Library of Congress: delegates from nine colonies met in New York; Congress petitioned against taxes ‘without their own consent’; Parliament repealed the Act in March 1766."
+        },
+        {
+          "url": "https://www.britannica.com/topic/Stamp-Act-Congress",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: convened in New York City (October 1765) by nine colonies; 'first time that representatives of the colonies had gathered and acted collectively'. Does not give the day."
+        },
+        {
+          "url": "https://constitutioncenter.org/blog/no-taxation-without-representation",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "National Constitution Center (published October 7, 2022): 'met on this day in New York in 1765'; Declaration of Rights and Grievances approved October 19 with the consent-of-taxation resolution. Body text gives October 9, which conflicts with its own headline and the sources below; October 7 is the convening date."
+        },
+        {
+          "url": "https://www.encyclopedia.com/defense/energy-government-and-defense-magazines/stamp-act-congress",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Americans at War (Gale, via Encyclopedia.com): 'The Stamp Act Congress, which met in New York City from October 7 to 25, 1765, was the first gathering of representatives from several American colonies'. Added in review."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "us-strikes-afghanistan-2001-story-quality",
+      "canonicalId": "us-strikes-afghanistan-2001",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/20011007-8.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Bush’s address: ‘On my orders’ military action began; he listed the Taliban demands and said forces would ‘drop food, medicine and supplies’."
+        },
+        {
+          "url": "https://georgewbush-whitehouse.archives.gov/infocus/defense/enduringfreedom.html",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "White House account: ‘One month after military operations began, the first major city—Mazar-e-Sharif—was liberated.’"
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Story context only; administration’s stated rationale is attributed to the presidential address.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "alvin-york-argonne-1918-story-quality",
+      "canonicalId": "alvin-york-argonne-1918",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.cmohs.org/recipients/alvin-c-york",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "CMOHS citation: York’s group captured ‘four officers and 128 men’; the page also records his Medal of Honor."
+        },
+        {
+          "url": "https://www.britannica.com/biography/Alvin-Cullum-York",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-02",
+          "note": "Britannica: Tennessee blacksmith denied conscientious objector status; Meuse-Argonne Offensive; total of 132 captured."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
+    }
+  ]
+}
