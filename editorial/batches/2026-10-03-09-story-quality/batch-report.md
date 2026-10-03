@@ -11,7 +11,7 @@ Audited all 41 canonical events assigned to these seven days. Revised only Event
 ## October 4
 
 - **Revised:** Sputnik 1 — added the scientific program and U.S. response. Lesotho independence — identified Basutoland and the end of British rule. Mount Rushmore — explained the memorial purpose and carving. Rembrandt — identified the artist and used concrete work examples rather than a superlative. Madrid Protocol — added the environmental purpose and entry-into-force consequence.
-- **Unchanged:** All five assigned event descriptions were revised.
+- **Unchanged:** None; all five assigned descriptions needed added context.
 - **Images:** Featured Sputnik 1 has its existing CloudFront image record and URL; unchanged.
 
 ## October 5
@@ -23,7 +23,7 @@ Audited all 41 canonical events assigned to these seven days. Revised only Event
 ## October 6
 
 - **Revised:** 51 Pegasi b — explained why its short orbit mattered. *The Jazz Singer* — clarified Vitaphone and the transition to sound films. Yom Kippur War — added the 1967 territorial context and superpower stakes. Anwar Sadat — identified his peace treaty and the treaty’s continuation after his assassination. Moulin Rouge — explained the music hall and its documentary/artistic record of nightlife.
-- **Unchanged:** All five assigned event descriptions were revised.
+- **Unchanged:** None; all five assigned descriptions needed added context.
 - **Images:** Featured 51 Pegasi b has its existing CloudFront image record and URL; unchanged.
 
 ## October 7
@@ -50,4 +50,4 @@ Every added factual detail has a directly opened source page recorded on the can
 
 ## Resume point
 
-This batch stops after October 9, 2026. Next batch: October 10–16, 2026. No future week has been edited. Claude owner review is pending; this batch remains unapproved until the requested review passes. The installed Claude Code CLI rejected `claude-sonnet-5-5` as unknown to its model catalog and reported that it is not logged in. No approval was recorded; use `editorial/tools/review_story_batch_with_claude.sh` after Claude Code is updated and authenticated.
+This batch stops after October 9, 2026. Next batch: October 10–16, 2026. No future week has been edited. Claude Sonnet 5.5 / medium-effort review returned `CHANGES_REQUESTED`; further Claude review was not run because the owner's Claude usage expired. This batch remains unapproved and must receive another reviewer’s review before any approval or release action. No production import or publish was run.
