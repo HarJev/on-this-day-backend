@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-03-09-content-refresh",
+  "candidateFile": "candidates.json",
+  "reviewLedgerFile": "review-ledger.json",
+  "eventIds": [
+    "german-reunification-1990",
+    "sputnik-1-launched-1957",
+    "beatles-love-me-do-1962",
+    "first-exoplanet-announced-1995",
+    "klm-founded-1919",
+    "don-larsen-perfect-game-1956",
+    "universal-postal-union-founded-1874",
+    "iraq-joins-league-of-nations-1932",
+    "washington-thanksgiving-proclamation-1789",
+    "portugal-republic-proclaimed-1910",
+    "bulgaria-declares-independence-1908",
+    "monty-python-first-broadcast-1969",
+    "yom-kippur-war-begins-1973",
+    "anwar-sadat-assassinated-1981",
+    "project-mercury-approved-1958",
+    "german-democratic-republic-founded-1949",
+    "great-chicago-fire-1871"
+  ],
+  "monthDays": [],
+  "quizPackFilenames": ["questions/210-connected-october-03-09-supplement.json"]
+}

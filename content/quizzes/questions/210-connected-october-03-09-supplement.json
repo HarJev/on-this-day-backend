@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "questions": [
+    {
+      "id": "washington-thanksgiving-first-date",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "What date did George Washington assign for the 1789 national day of thanksgiving?",
+      "options": [
+        {"id": "november-26", "text": "November 26"},
+        {"id": "november-19", "text": "November 19"},
+        {"id": "december-25", "text": "December 25"},
+        {"id": "january-1", "text": "January 1"}
+      ],
+      "correctOptionId": "november-26",
+      "explanation": "Washington's October 3 proclamation assigned Thursday, November 26, 1789. Thanksgiving did not yet have the fixed annual date used today; the dates varied until Congress set a federal date in 1941.",
+      "sources": [
+        {"displayName": "U.S. National Archives - Congress Establishes Thanksgiving", "url": "https://www.archives.gov/legislative/features/thanksgiving"}
+      ],
+      "collectionIds": ["leaders-and-power", "society-culture-and-ideas"],
+      "relatedEventIds": ["washington-thanksgiving-proclamation-1789"]
+    },
+    {
+      "id": "sputnik-intensifies-two-races",
+      "type": "true_false",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "Sputnik's success intensified both the space race and the arms race during the Cold War.",
+      "options": [
+        {"id": "true", "text": "True"},
+        {"id": "false", "text": "False"}
+      ],
+      "correctOptionId": "true",
+      "explanation": "The U.S. Office of the Historian says the Soviet satellite heightened fears of falling behind and helped drive both space and weapons programs. A scientific first also became a Cold War turning point.",
+      "sources": [
+        {"displayName": "U.S. Office of the Historian - Sputnik, 1957", "url": "https://history.state.gov/milestones/1953-1960/sputnik"}
+      ],
+      "collectionIds": ["science-and-innovation", "world-wars"],
+      "relatedEventIds": ["sputnik-1-launched-1957"]
+    },
+    {
+      "id": "love-me-do-b-side",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which song appeared on the B-side of the Beatles' first single, “Love Me Do”?",
+      "options": [
+        {"id": "ps-i-love-you", "text": "“P.S. I Love You”"},
+        {"id": "please-please-me", "text": "“Please Please Me”"},
+        {"id": "ask-me-why", "text": "“Ask Me Why”"},
+        {"id": "from-me-to-you", "text": "“From Me to You”"}
+      ],
+      "correctOptionId": "ps-i-love-you",
+      "explanation": "“P.S. I Love You” backed “Love Me Do” on the Beatles' debut single, released in the United Kingdom on October 5, 1962. It later appeared on their album Please Please Me.",
+      "sources": [
+        {"displayName": "The Beatles - P.S. I Love You", "url": "https://www.thebeatles.com/ps-i-love-you"}
+      ],
+      "collectionIds": ["society-culture-and-ideas"],
+      "relatedEventIds": ["beatles-love-me-do-1962"]
+    },
+    {
+      "id": "51-pegasi-orbit-period",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What did Mayor and Queloz first detect about the object orbiting 51 Pegasi?",
+      "options": [
+        {"id": "four-point-two-days", "text": "It circled its star every 4.2 days"},
+        {"id": "four-point-two-years", "text": "It circled its star every 4.2 years"},
+        {"id": "once-per-day", "text": "It circled its star once each day"},
+        {"id": "no-orbit", "text": "It drifted through space without orbiting a star"}
+      ],
+      "correctOptionId": "four-point-two-days",
+      "explanation": "Their measurements revealed an object circling 51 Pegasi in just 4.2 days. The researchers checked the signal before announcing the first confirmed planet found around a Sun-like star.",
+      "sources": [
+        {"displayName": "University of Geneva - The Discovery", "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte"}
+      ],
+      "collectionIds": ["science-and-innovation"],
+      "relatedEventIds": ["first-exoplanet-announced-1995"]
+    },
+    {
+      "id": "klm-first-scheduled-route",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Which cities did KLM's 1920 inaugural flight connect as scheduled service began?",
+      "options": [
+        {"id": "london-amsterdam", "text": "London and Amsterdam"},
+        {"id": "paris-rome", "text": "Paris and Rome"},
+        {"id": "amsterdam-batavia", "text": "Amsterdam and Batavia"},
+        {"id": "london-paris", "text": "London and Paris"}
+      ],
+      "correctOptionId": "london-amsterdam",
+      "explanation": "KLM's inaugural flight on May 17, 1920, began its scheduled service between London and Amsterdam. Its later Amsterdam-to-Batavia route reached much farther, but that service began in 1930.",
+      "sources": [
+        {"displayName": "KLM - History of KLM", "url": "https://www.klm.com/information/corporate/history"}
+      ],
+      "collectionIds": ["exploration-and-exchange", "science-and-innovation"],
+      "relatedEventIds": ["klm-founded-1919"]
+    },
+    {
+      "id": "larsen-perfect-game-catcher",
+      "type": "multiple_choice",
+      "difficulty": "easy",
+      "publicationState": "published",
+      "prompt": "Who caught the final pitch of Don Larsen's 1956 World Series perfect game?",
+      "options": [
+        {"id": "yogi-berra", "text": "Yogi Berra"},
+        {"id": "roy-campanella", "text": "Roy Campanella"},
+        {"id": "gil-hodges", "text": "Gil Hodges"},
+        {"id": "jackie-robinson", "text": "Jackie Robinson"}
+      ],
+      "correctOptionId": "yogi-berra",
+      "explanation": "Yankees catcher Yogi Berra caught Dale Mitchell's final strike and leapt into Larsen's arms. The Hall of Fame preserves Berra's mitt from the game among its artifacts.",
+      "sources": [
+        {"displayName": "National Baseball Hall of Fame - Don Larsen defined World Series perfection", "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"}
+      ],
+      "collectionIds": ["society-culture-and-ideas"],
+      "relatedEventIds": ["don-larsen-perfect-game-1956"]
+    },
+    {
+      "id": "upu-original-name",
+      "type": "multiple_choice",
+      "difficulty": "medium",
+      "publicationState": "published",
+      "prompt": "What was the Universal Postal Union called when the 1874 Treaty of Bern established it?",
+      "options": [
+        {"id": "general-postal-union", "text": "General Postal Union"},
+        {"id": "universal-postal-union", "text": "Universal Postal Union"},
+        {"id": "international-telegraph-union", "text": "International Telegraph Union"},
+        {"id": "international-postal-congress", "text": "International Postal Congress"}
+      ],
+      "correctOptionId": "general-postal-union",
+      "explanation": "The Treaty of Bern established the General Postal Union. As membership grew, it adopted the name Universal Postal Union in 1878; the original treaty also created a single territory for exchanging letters across borders.",
+      "sources": [
+        {"displayName": "Universal Postal Union - History", "url": "https://www.upu.int/en/universal-postal-union/about-upu/history"}
+      ],
+      "collectionIds": ["exploration-and-exchange", "society-culture-and-ideas"],
+      "relatedEventIds": ["universal-postal-union-founded-1874"]
+    }
+  ]
+}

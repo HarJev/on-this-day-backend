@@ -2516,13 +2516,17 @@
       "historicalDate": "October 3, 1990",
       "dateNote": null,
       "summary": "East and West Germany become one country again after 45 years.",
-      "description": "On October 3, 1990, the unification treaty between East and West Germany went into effect, making Germany a single state again. The treaty had been ratified by both German parliaments in September.",
+      "description": "On October 3, 1990, the German Democratic Republic acceded to the Federal Republic under the Basic Law, bringing East and West Germany together again. Both parliaments had approved the Unification Treaty in September, and the treaty entered into force on September 29; it set October 3 as the date of accession. The nearly 1,000-page agreement also addressed practical questions of law, administration, finance, culture, and representation, turning reunification into a legal and civic transition as well as a national celebration.",
       "notificationTitle": "One Germany again",
       "notificationBody": "In 1990, East and West Germany were formally reunified.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - German reunification",
           "url": "https://www.britannica.com/topic/German-reunification"
+        },
+        {
+          "name": "German Federal Government - Approval of the Unification Treaty",
+          "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990"
         }
       ],
       "images": [
@@ -2546,14 +2550,18 @@
       "historicalDate": "October 3, 1932",
       "dateNote": null,
       "summary": "Admission to the League marks the end of Iraq's British mandate.",
-      "description": "On October 3, 1932, Iraq was admitted to the League of Nations as an independent state.",
+      "description": "On October 3, 1932, Iraq was admitted to the League of Nations as an independent state, ending its British mandate. The change formalized a new status after years of treaty arrangements and international supervision.\n\nLeague membership gave Iraq a place in the international organization and marked a decisive shift from a territory administered under mandate to a state recognized as independent.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - Iraq: Independence, 1932-39",
-          "url": "https://www.britannica.com/place/Iraq/Independence-1932-39"
-        }
+      {
+        "name": "Encyclopaedia Britannica - Iraq: Independence, 1932-39",
+        "url": "https://www.britannica.com/place/Iraq/Independence-1932-39"
+      },
+      {
+        "name": "U.S. Department of State, Office of the Historian - Iraq",
+        "url": "https://history.state.gov/countries/iraq"
+      }
       ],
       "images": [
       {
@@ -2576,14 +2584,18 @@
       "historicalDate": "October 3, 1789",
       "dateNote": null,
       "summary": "The new president names November 26 as a day of public thanks.",
-      "description": "On October 3, 1789, in New York, President George Washington issued a proclamation recommending Thursday, November 26, as a day of public thanksgiving for the people of the United States.",
+      "description": "On October 3, 1789, in New York, President George Washington issued a proclamation recommending Thursday, November 26, as a day of public thanksgiving for the people of the United States. Congress had asked him to recommend a day, describing the opportunity to establish a government peacefully as a reason for national gratitude.\n\nThe proclamation was an early public ritual for a new constitutional government: Washington asked people to reflect on the country’s recent struggle, its civil and religious liberty, and the work of building a government. It made thanksgiving a shared civic observance, though the annual holiday date would not become fixed until much later.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Founders Online (U.S. National Archives) - Thanksgiving Proclamation, 3 October 1789",
-          "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091"
-        }
+      {
+        "name": "Founders Online (U.S. National Archives) - Thanksgiving Proclamation, 3 October 1789",
+        "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091"
+      },
+      {
+        "name": "U.S. National Archives - Thanksgiving",
+        "url": "https://www.archives.gov/legislative/features/thanksgiving"
+      }
       ],
       "images": [
       {
@@ -2636,7 +2648,7 @@
       "historicalDate": "October 4, 1957",
       "dateNote": null,
       "summary": "The Soviet launch opens the space age.",
-      "description": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth.",
+      "description": "On October 4, 1957, the Soviet Union launched Sputnik 1, the first artificial satellite to orbit Earth. Its success surprised many in the United States, where it raised fears of falling behind in science and military technology. President Dwight Eisenhower directed additional resources to the space program; after an unsuccessful Vanguard launch, the United States put Explorer 1 into orbit on January 31, 1958. Sputnik had turned satellite research into a visible Cold War contest.",
       "notificationTitle": "The beep that started the space age",
       "notificationBody": "In 1957, Sputnik 1 became the first artificial satellite.",
       "sources": [
@@ -2756,14 +2768,18 @@
       "historicalDate": "October 5, 1962",
       "dateNote": null,
       "summary": "'Love Me Do' launches the band's recording career.",
-      "description": "On October 5, 1962, the Beatles released 'Love Me Do', backed by 'P.S. I Love You', as their first single. It reached number 17 in the United Kingdom and later became a US number one in 1964.",
+  "description": "On October 5, 1962, the Beatles released “Love Me Do” as their first single, with “P.S. I Love You” on the B-side. The Liverpool group had already been turned down by other record labels before producer George Martin and Parlophone gave them a chance to record. The single reached number 17 in the United Kingdom, bringing the band national radio airplay and giving their recording career a foothold.\n\nThe song’s first recording session had taken place in June, but the released version was shaped through later sessions in September, including a take with session drummer Andy White. “Love Me Do” eventually reached number one in the United States in 1964. A modest chart entry at home had become the opening release of a catalogue that would soon make the Beatles a central force in popular music.",
       "notificationTitle": "Where the Beatles began on record",
       "notificationBody": "In 1962, the Beatles released their first single, 'Love Me Do'.",
       "sources": [
         {
-          "name": "The Beatles (official site) - Love Me Do",
-          "url": "https://www.thebeatles.com/love-me-do"
-        }
+      "name": "The Beatles (official site) - Love Me Do",
+      "url": "https://www.thebeatles.com/love-me-do"
+    },
+    {
+      "name": "The Beatles Anthology",
+      "url": "https://www.thebeatles.com/beatles-anthology-0"
+    }
       ],
       "images": [
       {
@@ -2786,14 +2802,22 @@
       "historicalDate": "October 5, 1910",
       "dateNote": null,
       "summary": "A revolution in Lisbon ends the monarchy.",
-      "description": "On October 5, 1910, Portugal's First Republic was declared from the balcony of Lisbon City Hall, the morning after a republican revolution began. King Manuel II escaped into exile.",
+      "description": "On October 5, 1910, Portugal's First Republic was declared from the balcony of Lisbon City Hall, after fighting in Lisbon that began the previous day. King Manuel II left the country for exile as the monarchy fell.\n\nRepublican ideas had gathered support among urban groups, and the revolution opened a new political chapter rather than simply changing the head of state. A provisional government took office and set out to remove monarchical institutions and symbols; the republic would later adopt a new constitution in 1911.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - History of Portugal",
-          "url": "https://www.britannica.com/topic/history-of-Portugal"
-        }
+      {
+        "name": "Encyclopaedia Britannica - History of Portugal",
+        "url": "https://www.britannica.com/topic/history-of-Portugal"
+      },
+      {
+        "name": "Museum of the Presidency of the Republic of Portugal - Implantacao da Republica",
+        "url": "https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/"
+      },
+      {
+        "name": "Assembly of the Republic of Portugal - I Republic",
+        "url": "https://www.parlamento.pt/Parlamento/Paginas/120A-SSessoes-IRepublica.aspx"
+      }
       ],
       "images": [
       {
@@ -2816,14 +2840,26 @@
       "historicalDate": "October 5, 1908",
       "dateNote": null,
       "summary": "Prince Ferdinand proclaims independence from the Ottoman Empire and takes the title of tsar.",
-      "description": "On October 5, 1908, Ferdinand of Bulgaria proclaimed the full independence of Bulgaria from the Ottoman Empire and took the title of king, or tsar.",
+      "description": "On October 5, 1908, Ferdinand of Bulgaria proclaimed the country's full independence from the Ottoman Empire and took the title of tsar. The declaration ended the dependent status imposed on Bulgaria by the 1878 Treaty of Berlin, formalizing sovereignty that had remained limited under the postwar settlement. Bulgaria used the Julian calendar at the time, so contemporary documents also date the proclamation September 22.\n\nFerdinand announced the change in a manifesto. The new title made the break visible as well as legal: Bulgaria was no longer presented as a principality under Ottoman suzerainty, but as an independent state seeking recognition among Europe's powers.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - Ferdinand (king of Bulgaria)",
-          "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
-        }
+      {
+        "name": "Encyclopaedia Britannica - Ferdinand (king of Bulgaria)",
+        "url": "https://www.britannica.com/biography/Ferdinand-king-of-Bulgaria"
+      },
+      {
+        "name": "Council of Ministers of the Republic of Bulgaria - History",
+        "url": "https://gov.bg/index.php/en/About-Bulgaria/HISTORY/tabsss1"
+      },
+      {
+        "name": "U.S. Department of State, Office of the Historian - Bulgaria",
+        "url": "https://history.state.gov/countries/bulgaria"
+      },
+      {
+        "name": "U.S. Department of State - 1908 Bulgarian declaration correspondence",
+        "url": "https://history.state.gov/historicaldocuments/frus1908/d45"
+      }
       ],
       "images": [
       {
@@ -2846,7 +2882,7 @@
       "historicalDate": "October 5, 1969",
       "dateNote": null,
       "summary": "The anarchic comedy series makes its television debut.",
-      "description": "On October 5, 1969, the first episode of Monty Python's Flying Circus, 'Whither Canada?', aired, including the sketch 'The Funniest Joke in the World'.",
+      "description": "On October 5, 1969, the first episode of Monty Python's Flying Circus, “Whither Canada?”, aired, including the sketch “The Funniest Joke in the World.” The programme introduced a comic style that resisted the usual sketch-show categories: surreal scenes, parodies of television formats, and Terry Gilliam's cut-out animations ran together rather than ending in tidy punchlines.\n\nThe premiere's mix of famous-death sketches, mock commercials, interviews, and animation established the group's deliberately unpredictable approach. ",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -2864,13 +2900,17 @@
       "historicalDate": "October 6, 1995",
       "dateNote": null,
       "summary": "Geneva astronomers reveal 51 Pegasi b, opening the age of exoplanets.",
-      "description": "On October 6, 1995, Michel Mayor and Didier Queloz of the University of Geneva announced at a conference in Florence the discovery of 51 Pegasi b, the first planet found orbiting a Sun-like star. The discovery later earned them the 2019 Nobel Prize in Physics.",
+      "description": "On October 6, 1995, Michel Mayor and Didier Queloz of the University of Geneva announced at a conference in Florence the discovery of 51 Pegasi b, the first planet found orbiting a Sun-like star. They had first spotted a stellar object circling its star every 4.2 days and waited to confirm the observations before announcing it. That short orbit helped make the discovery a turning point: planets beyond our Solar System moved from speculation to an observable field of research. Mayor and Queloz later shared the 2019 Nobel Prize in Physics.",
       "notificationTitle": "The first world around another sun",
       "notificationBody": "In 1995, astronomers announced 51 Pegasi b, the first exoplanet around a Sun-like star.",
       "sources": [
         {
           "name": "University of Geneva - The first exoplanet was discovered 30 years ago at the UNIGE",
           "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige"
+        },
+        {
+          "name": "University of Geneva - The Discovery",
+          "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte"
         }
       ],
       "images": [
@@ -2928,14 +2968,18 @@
       "historicalDate": "October 6, 1973",
       "dateNote": null,
       "summary": "Egypt and Syria launch a surprise attack on Israel.",
-      "description": "On October 6, 1973, the Jewish holy day of Yom Kippur, Egypt and Syria attacked Israel simultaneously on two fronts, beginning the fourth of the Arab-Israeli wars.",
+      "description": "On October 6, 1973, the Jewish holy day of Yom Kippur, Egypt and Syria launched coordinated surprise attacks on Israeli forces in the Sinai Peninsula and the Golan Heights. The assault opened the fourth Arab-Israeli war and caught Israeli forces off guard.\n\nThe fighting lasted nearly three weeks, turning the holiday attack into a major regional war rather than a brief border clash. It became known internationally as the Yom Kippur War, though Egypt and other Arab countries also call it the October War.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - Yom Kippur War",
-          "url": "https://www.britannica.com/event/Yom-Kippur-War"
-        }
+      {
+        "name": "Encyclopaedia Britannica - Yom Kippur War",
+        "url": "https://www.britannica.com/event/Yom-Kippur-War"
+      },
+      {
+        "name": "Associated Press - Today in History: October 6, Yom Kippur War begins",
+        "url": "https://apnews.com/article/e89f85b4503e008c52b48314670899b6"
+      }
       ],
       "images": [
         {
@@ -2958,14 +3002,18 @@
       "historicalDate": "October 6, 1981",
       "dateNote": null,
       "summary": "The leader who made peace with Israel is killed in Cairo.",
-      "description": "On October 6, 1981, Anwar Sadat, president of Egypt since 1970, was assassinated in Cairo.",
+      "description": "On October 6, 1981, Egyptian President Anwar Sadat was shot to death by members of Egyptian Islamic Jihad while reviewing a military parade in Cairo. Sadat had led Egypt since 1970, and his assassination during a state ceremony abruptly ended a decade in office.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - Anwar Sadat",
-          "url": "https://www.britannica.com/biography/Anwar-Sadat"
-        }
+      {
+        "name": "Encyclopaedia Britannica - Anwar Sadat",
+        "url": "https://www.britannica.com/biography/Anwar-Sadat"
+      },
+      {
+        "name": "Associated Press - Today in History: October 6, Anwar Sadat assassinated",
+        "url": "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df"
+      }
       ],
       "images": [
       {
@@ -2988,7 +3036,7 @@
       "historicalDate": "October 7, 1919",
       "dateNote": null,
       "summary": "The Dutch carrier becomes the world's oldest airline still flying under its original name.",
-      "description": "On October 7, 1919, Royal Dutch Airlines (KLM) was founded by eight investors from business and banking. It is the oldest airline in the world still operating under its original name.",
+  "description": "On October 7, 1919, eight investors from business and banking founded Royal Dutch Airlines, now known as KLM. Queen Wilhelmina granted the new company the title “Royal” before it began operating, and Albert Plesman became its managing director. The airline’s first scheduled service began on May 17, 1920, when a converted aircraft flew between London and Amsterdam carrying two journalists, a letter from London’s mayor, and a stack of newspapers.\n\nThat small opening route was the start of a much larger network: KLM later developed long-distance service to the Dutch East Indies. It remains the oldest airline still operating under its original name, a rare thread of continuity in an industry repeatedly reshaped by new technology and changing borders.",
       "notificationTitle": "The airline that kept its name",
       "notificationBody": "In 1919, KLM was founded; it still flies under its original name.",
       "sources": [
@@ -3048,7 +3096,7 @@
       "historicalDate": "October 7, 1958",
       "dateNote": null,
       "summary": "America's first human spaceflight program gets the go-ahead.",
-      "description": "On October 7, 1958, NASA Administrator T. Keith Glennan approved the manned satellite project that became Project Mercury, America's first human spaceflight program, reportedly saying, in effect, 'Let's get on with it.'",
+      "description": "On October 7, 1958, NASA Administrator T. Keith Glennan approved the manned satellite project that became Project Mercury, America's first human spaceflight program. Its practical questions were immediate: could a person work in weightlessness, and could a spacecraft carry its pilot into orbit and bring both safely home?\n\nThose goals framed America's first crewed spaceflight programme. NASA announced Mercury as its first major undertaking, then recruited and tested military test pilots for the uncertain demands of space. The project established human-spaceflight experience that later Gemini and Apollo missions would build on.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
@@ -3056,10 +3104,14 @@
           "name": "NASA History - Project Mercury: A Chronology, Part 2(A)",
           "url": "https://www.nasa.gov/history/SP-4001/p2a.htm"
         },
-        {
-          "name": "NASA - Project Mercury",
-          "url": "https://www.nasa.gov/project-mercury/"
-        }
+      {
+        "name": "NASA - Project Mercury",
+        "url": "https://www.nasa.gov/project-mercury/"
+      },
+      {
+        "name": "NASA - The 40th Anniversary of the Mercury Seven",
+        "url": "https://www.nasa.gov/history/40thmerc7/"
+      }
       ],
       "images": [
       {
@@ -3082,14 +3134,18 @@
       "historicalDate": "October 7, 1949",
       "dateNote": null,
       "summary": "A new constitution takes effect in the Soviet occupation zone.",
-      "description": "On October 7, 1949, the German Democratic Republic, or East Germany, was founded when its provisional People's Chamber put the new state's constitution into force.",
+      "description": "On October 7, 1949, the German Democratic Republic, or East Germany, was founded when its provisional People's Chamber put the new state's constitution into force. It followed the creation of the Federal Republic of Germany in May, leaving two German states in the former occupation zones.\n\nThe Soviet-zone leadership framed the new state as representing Germany as a whole, even as the country became politically divided. The split proved far from temporary: the two states remained separate for four decades, until reunification in 1990.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Bundeszentrale fur politische Bildung - 7. Oktober 1949 (Deutschland-Chronik)",
-          "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/"
-        }
+      {
+        "name": "Bundeszentrale fur politische Bildung - 7. Oktober 1949 (Deutschland-Chronik)",
+        "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/deutschland-chronik/131301/7-oktober-1949/"
+      },
+      {
+        "name": "German Federal Archives - Doppelte Staatsgrundung 1949",
+        "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/"
+      }
       ],
       "images": [
       {
@@ -3112,13 +3168,17 @@
       "historicalDate": "October 8, 1956",
       "dateNote": null,
       "summary": "The Yankees pitcher retires all 27 Brooklyn Dodgers batters.",
-      "description": "On October 8, 1956, New York Yankees pitcher Don Larsen threw a perfect game against the Brooklyn Dodgers, retiring all 27 batters. It remains the only perfect game in World Series history.",
+      "description": "On October 8, 1956, New York Yankees pitcher Don Larsen retired all 27 Brooklyn Dodgers batters in Game 5 of the World Series. His 97-pitch perfect game remains the only one in World Series history. After the final strikeout, catcher Yogi Berra leapt into Larsen's arms; the Yankees went on to win the Series in seven games. The feat was striking partly because Larsen had been knocked out in the second inning of his previous start against Brooklyn just three days earlier.",
       "notificationTitle": "27 up, 27 down",
       "notificationBody": "In 1956, Don Larsen pitched the only perfect game in World Series history.",
       "sources": [
         {
           "name": "Encyclopaedia Britannica - Don Larsen",
           "url": "https://www.britannica.com/biography/Don-Larsen"
+        },
+        {
+          "name": "National Baseball Hall of Fame - Don Larsen defined World Series perfection",
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"
         }
       ],
       "images": [
@@ -3142,14 +3202,18 @@
       "historicalDate": "October 8, 1871",
       "dateNote": null,
       "summary": "A blaze burns for two days and devastates much of the city.",
-      "description": "On October 8, 1871, a fire broke out in Chicago that burned until early October 10, devastating a wide swath of the city.",
+      "description": "On October 8, 1871, a fire broke out in Chicago and burned until early October 10, destroying more than 18,000 structures across three and a half square miles. About one-third of the city's 300,000 residents lost their homes, and at least 300 people died.\n\nThe fire devastated Chicago's business center, but the city rebuilt rapidly. Pressure to use fire-resistant construction helped architects experiment with steel, and within fourteen years Chicago had the Home Insurance Building, often identified as the first modern skyscraper.",
       "notificationTitle": null,
       "notificationBody": null,
       "sources": [
-        {
-          "name": "Encyclopaedia Britannica - Great Chicago Fire",
-          "url": "https://www.britannica.com/event/Chicago-fire-of-1871"
-        }
+      {
+        "name": "Encyclopaedia Britannica - Great Chicago Fire",
+        "url": "https://www.britannica.com/event/Chicago-fire-of-1871"
+      },
+      {
+        "name": "Chicago History Museum - How Disaster Shaped the Modern City",
+        "url": "https://www.chicagohistory.org/how-disaster-shaped-the-modern-city/"
+      }
       ],
       "images": [
       {
@@ -3232,7 +3296,7 @@
       "historicalDate": "October 9, 1874",
       "dateNote": null,
       "summary": "Delegates from 22 countries sign the Treaty of Bern, creating a union for international mail.",
-      "description": "On October 9, 1874, representatives of 22 countries meeting in Bern signed the Treaty of Bern, founding the organization now known as the Universal Postal Union. The anniversary is marked around the world today as World Post Day.",
+      "description": "On October 9, 1874, representatives of 22 countries meeting in Bern signed the Treaty of Bern, founding the General Postal Union, later renamed the Universal Postal Union. The agreement replaced a confusing patchwork of postal rules with a single territory for exchanging letters across borders, easing the movement of international mail. Membership grew quickly, and the organization adopted its current name in 1878. The treaty's signing date is now marked around the world as World Post Day.",
       "notificationTitle": "The day the world agreed on mail",
       "notificationBody": "In 1874, delegates from 22 countries met in Bern and signed a treaty for international post.",
       "sources": [

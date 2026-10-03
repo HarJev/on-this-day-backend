@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-03-09-content-refresh",
+  "candidates": [
+    {
+      "candidateId": "german-reunification-1990-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "german-reunification-1990",
+      "workingClaim": "Expand the detail to explain the treaty's legal accession of the GDR to the Federal Republic under the Basic Law and its practical civic scope.",
+      "sourceUrls": [
+        "https://www.britannica.com/topic/German-reunification",
+        "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990"
+      ]
+    },
+    {
+      "candidateId": "sputnik-1-launched-1957-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "sputnik-1-launched-1957",
+      "workingClaim": "Expand the detail with the U.S. reaction and Explorer 1 response to Sputnik, explaining how a satellite launch became a Cold War contest.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1953-1960/sputnik"
+      ]
+    },
+    {
+      "candidateId": "beatles-love-me-do-1962-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "beatles-love-me-do-1962",
+      "workingClaim": "Expand the detail with the label rejections and recording path, the single's radio and chart impact, and the later session that produced the released version.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/love-me-do",
+        "https://www.thebeatles.com/beatles-anthology-0"
+      ]
+    },
+    {
+      "candidateId": "first-exoplanet-announced-1995-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "first-exoplanet-announced-1995",
+      "workingClaim": "Expand the detail with the 4.2-day observation and confirmation process to show why the discovery changed exoplanet research.",
+      "sourceUrls": [
+        "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
+        "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte"
+      ]
+    },
+    {
+      "candidateId": "klm-founded-1919-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "klm-founded-1919",
+      "workingClaim": "Expand the detail with KLM's early royal title, first scheduled London-Amsterdam service, and later network growth while preserving its continuity distinction.",
+      "sourceUrls": [
+        "https://www.klm.com/information/corporate/history"
+      ]
+    },
+    {
+      "candidateId": "don-larsen-perfect-game-1956-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "don-larsen-perfect-game-1956",
+      "workingClaim": "Expand the detail with Game 5, the 97-pitch performance, Yogi Berra's celebration, the Series result, and the contrast with Larsen's previous start.",
+      "sourceUrls": [
+        "https://www.britannica.com/biography/Don-Larsen",
+        "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"
+      ]
+    },
+    {
+      "candidateId": "universal-postal-union-founded-1874-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "universal-postal-union-founded-1874",
+      "workingClaim": "Expand the detail to explain the single postal territory, the practical simplification of cross-border mail, and the union's original name.",
+      "sourceUrls": [
+        "https://www.upu.int/en/universal-postal-union/about-upu/history",
+        "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/"
+      ]
+    },
+    {
+      "candidateId": "iraq-joins-league-of-nations-1932-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "iraq-joins-league-of-nations-1932",
+      "workingClaim": "Explain that League admission ended the British mandate and marked Iraq's formal independence.",
+      "sourceUrls": [
+        "https://history.state.gov/countries/iraq"
+      ]
+    },
+    {
+      "candidateId": "washington-thanksgiving-proclamation-1789-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "washington-thanksgiving-proclamation-1789",
+      "workingClaim": "Explain Congress's request and the proclamation's civic purpose for the new constitutional government.",
+      "sourceUrls": [
+        "https://founders.archives.gov/documents/Washington/05-04-02-0091",
+        "https://www.archives.gov/legislative/features/thanksgiving"
+      ]
+    },
+    {
+      "candidateId": "portugal-republic-proclaimed-1910-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "portugal-republic-proclaimed-1910",
+      "workingClaim": "Add the preceding Lisbon fighting and describe the provisional government's initial institutional changes.",
+      "sourceUrls": [
+        "https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/",
+        "https://www.parlamento.pt/Parlamento/Paginas/120A-SSessoes-IRepublica.aspx"
+      ]
+    },
+    {
+      "candidateId": "bulgaria-declares-independence-1908-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "bulgaria-declares-independence-1908",
+      "workingClaim": "Explain that the declaration ended the dependent status imposed by the Treaty of Berlin.",
+      "sourceUrls": [
+        "https://gov.bg/index.php/en/About-Bulgaria/HISTORY/tabsss1",
+        "https://history.state.gov/countries/bulgaria",
+        "https://history.state.gov/historicaldocuments/frus1908/d45"
+      ]
+    },
+    {
+      "candidateId": "monty-python-first-broadcast-1969-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "monty-python-first-broadcast-1969",
+      "workingClaim": "Describe the premiere's mixture of surreal sketches, parodies and animation as the show's distinctive format.",
+      "sourceUrls": [
+        "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14"
+      ]
+    },
+    {
+      "candidateId": "yom-kippur-war-begins-1973-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "yom-kippur-war-begins-1973",
+      "workingClaim": "Explain the coordinated surprise attack and the war's nearly three-week duration.",
+      "sourceUrls": [
+        "https://apnews.com/article/e89f85b4503e008c52b48314670899b6"
+      ]
+    },
+    {
+      "candidateId": "anwar-sadat-assassinated-1981-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "anwar-sadat-assassinated-1981",
+      "workingClaim": "Add the circumstances of the assassination and its abrupt end to Sadat's presidency.",
+      "sourceUrls": [
+        "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df"
+      ]
+    },
+    {
+      "candidateId": "project-mercury-approved-1958-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "project-mercury-approved-1958",
+      "workingClaim": "Add Mercury's human-spaceflight objectives and why solving them enabled later programs.",
+      "sourceUrls": [
+        "https://www.nasa.gov/history/40thmerc7/"
+      ]
+    },
+    {
+      "candidateId": "german-democratic-republic-founded-1949-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "german-democratic-republic-founded-1949",
+      "workingClaim": "Place the GDR's formation alongside the earlier Federal Republic and note the division lasted four decades.",
+      "sourceUrls": [
+        "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/"
+      ]
+    },
+    {
+      "candidateId": "great-chicago-fire-1871-story-refresh",
+      "kind": "event",
+      "proposedCanonicalId": "great-chicago-fire-1871",
+      "workingClaim": "Add the human scale of destruction and describe how rebuilding affected fire-resistant construction and skyscraper development.",
+      "sourceUrls": [
+        "https://www.chicagohistory.org/how-disaster-shaped-the-modern-city/"
+      ]
+    },
+    {
+      "candidateId": "washington-thanksgiving-first-date",
+      "kind": "quiz",
+      "proposedCanonicalId": "washington-thanksgiving-first-date",
+      "workingClaim": "Which date did George Washington assign for the 1789 national day of thanksgiving? Answer: November 26. Teaches that the date varied before Congress fixed it in 1941.",
+      "sourceUrls": [
+        "https://www.archives.gov/legislative/features/thanksgiving"
+      ]
+    },
+    {
+      "candidateId": "sputnik-intensifies-two-races",
+      "kind": "quiz",
+      "proposedCanonicalId": "sputnik-intensifies-two-races",
+      "workingClaim": "True or false: Sputnik's success intensified both the space race and arms race during the Cold War. Answer: True.",
+      "sourceUrls": [
+        "https://history.state.gov/milestones/1953-1960/sputnik"
+      ]
+    },
+    {
+      "candidateId": "love-me-do-b-side",
+      "kind": "quiz",
+      "proposedCanonicalId": "love-me-do-b-side",
+      "workingClaim": "Which song appeared on the B-side of the Beatles' first single, Love Me Do? Answer: P.S. I Love You.",
+      "sourceUrls": [
+        "https://www.thebeatles.com/ps-i-love-you"
+      ]
+    },
+    {
+      "candidateId": "51-pegasi-orbit-period",
+      "kind": "quiz",
+      "proposedCanonicalId": "51-pegasi-orbit-period",
+      "workingClaim": "What did Mayor and Queloz first detect about the object orbiting 51 Pegasi? Answer: It circled its star every 4.2 days.",
+      "sourceUrls": [
+        "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte"
+      ]
+    },
+    {
+      "candidateId": "klm-first-scheduled-route",
+      "kind": "quiz",
+      "proposedCanonicalId": "klm-first-scheduled-route",
+      "workingClaim": "Which cities did KLM's 1920 inaugural flight connect as scheduled service began? Answer: London and Amsterdam.",
+      "sourceUrls": [
+        "https://www.klm.com/information/corporate/history"
+      ]
+    },
+    {
+      "candidateId": "larsen-perfect-game-catcher",
+      "kind": "quiz",
+      "proposedCanonicalId": "larsen-perfect-game-catcher",
+      "workingClaim": "Who caught the final pitch of Don Larsen's 1956 World Series perfect game? Answer: Yogi Berra.",
+      "sourceUrls": [
+        "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game"
+      ]
+    },
+    {
+      "candidateId": "upu-original-name",
+      "kind": "quiz",
+      "proposedCanonicalId": "upu-original-name",
+      "workingClaim": "What was the Universal Postal Union called when the 1874 Treaty of Bern established it? Answer: General Postal Union.",
+      "sourceUrls": [
+        "https://www.upu.int/en/universal-postal-union/about-upu/history"
+      ]
+    }
+  ]
+}
