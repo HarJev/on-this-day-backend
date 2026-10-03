@@ -151,7 +151,7 @@ export DB_JDBC_URL='jdbc:postgresql://aws-0-us-east-1.pooler.supabase.com:5432/p
 export DB_USER='postgres.<project-ref>'
 export DB_PASSWORD_SSM_PARAMETER=/on-this-day/prod/db-admin-password
 
-mvn -B -q compile exec:java \
+mvn -B compile exec:java \
   -Dexec.mainClass=com.onthisday.platform.runtime.DatabaseMigrationCommand \
   -Dexec.args=migrate
 mvn -B -q exec:java -Dexec.mainClass=com.onthisday.ingestion.CuratedContentImportCommand

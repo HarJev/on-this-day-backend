@@ -35,7 +35,7 @@ Audited all 41 canonical events assigned to these seven days. Revised only Event
 ## October 8
 
 - **Revised:** Don Larsen’s perfect game — defined the achievement and why the previous start made it striking. First Balkan War — explained the League’s aim and the territorial result. Alvin York — identified him and connected his conscientious-objector background to his service.
-- **Unchanged:** Great Chicago Fire; Treaty of the Bogue. The Bogue entry remains thin: I could not verify a suitable authoritative page directly, so added context was not invented. Its existing sentence and source record are retained for owner review.
+- **Unchanged:** Great Chicago Fire; Treaty of the Bogue. The Bogue entry remains thin: I could not verify a suitable authoritative page directly, so added context was not invented. Its existing sentence and source record remain unchanged and were included in the owner's approval of the batch.
 - **Images:** Featured Don Larsen has its existing CloudFront image record and URL; unchanged.
 
 ## October 9
@@ -50,4 +50,4 @@ Every added factual detail has a directly opened source page recorded on the can
 
 ## Resume point
 
-This batch stops after October 9, 2026. Next batch: October 10–16, 2026. No future week has been edited. Claude Sonnet 5.5 / medium-effort review returned `CHANGES_REQUESTED`; further Claude review was not run because the owner's Claude usage expired. This batch remains unapproved and must receive another reviewer’s review before any approval or release action. No production import or publish was run.
+This batch stops after October 9, 2026. Next batch: October 10–16, 2026. No future week has been edited. Claude Sonnet 5.5 / medium-effort review returned `CHANGES_REQUESTED`; further Claude review was not run because the owner's Claude usage expired. On October 3, 2026, owner HarJev reviewed and approved all 28 changed event entries. No production import or deployment was run.

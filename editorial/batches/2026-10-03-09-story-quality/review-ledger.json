@@ -5,7 +5,7 @@
     {
       "candidateId": "german-reunification-1990-story-quality",
       "canonicalId": "german-reunification-1990",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990",
@@ -36,12 +36,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Story context only; teaser, title, ID, assignments, notifications, image URL, and quiz links preserved."
+      "notes": "Story context only; teaser, title, ID, assignments, notifications, image URL, and quiz links preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "francis-of-assisi-dies-1226-story-quality",
       "canonicalId": "francis-of-assisi-dies-1226",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.franciscanmedia.org/franciscan-tradition-and-resources/francis-and-clare-where-the-tradition-begins-2/",
@@ -60,12 +62,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Story context only; added source directly opened. Other canonical source checks remain in the earlier October 2–8 event review."
+      "notes": "Story context only; added source directly opened. Other canonical source checks remain in the earlier October 2–8 event review.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "sputnik-1-launched-1957-story-quality",
       "canonicalId": "sputnik-1-launched-1957",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1953-1960/sputnik",
@@ -78,12 +82,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Story context only; featured image record and URL preserved."
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "lesotho-independence-1966-story-quality",
       "canonicalId": "lesotho-independence-1966",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/countries/lesotho",
@@ -96,12 +102,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "mount-rushmore-carving-begins-1927-story-quality",
       "canonicalId": "mount-rushmore-carving-begins-1927",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nps.gov/moru/learn/historyculture/carving-history.htm",
@@ -126,12 +134,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Story context only; featured image record and URL preserved."
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "rembrandt-dies-1669-story-quality",
       "canonicalId": "rembrandt-dies-1669",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.rijksmuseum.nl/en/collection/node/Rembrandt-van-Rijn--ba2dc062acd137ffeac364321b7b10df",
@@ -156,12 +166,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Story context only; superlative removed."
+      "notes": "Story context only; superlative removed.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "monty-python-first-broadcast-1969-story-quality",
       "canonicalId": "monty-python-first-broadcast-1969",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14",
@@ -186,14 +198,16 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "first-exoplanet-announced-1995-story-quality",
       "canonicalId": "first-exoplanet-announced-1995",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
-      {
+        {
           "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte",
           "status": "verified_supporting",
           "checkedOn": "2026-10-03",
@@ -210,12 +224,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Story context only; featured image record and URL preserved."
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "the-jazz-singer-premieres-1927-story-quality",
       "canonicalId": "the-jazz-singer-premieres-1927",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://catalog.afi.com/Catalog/moviedetails/1535",
@@ -234,12 +250,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "yom-kippur-war-begins-1973-story-quality",
       "canonicalId": "yom-kippur-war-begins-1973",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/milestones/1969-1976/arab-israeli-war-1973",
@@ -258,12 +276,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Story context only; unsupported embargo statement removed; image metadata unchanged."
+      "notes": "Story context only; unsupported embargo statement removed; image metadata unchanged.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "anwar-sadat-assassinated-1981-story-quality",
       "canonicalId": "anwar-sadat-assassinated-1981",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://history.state.gov/historicaldocuments/frus1981-88v01/d116fn2",
@@ -294,12 +314,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Story context only; unsupported motive and perpetrator statements removed; image metadata unchanged."
+      "notes": "Story context only; unsupported motive and perpetrator statements removed; image metadata unchanged.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "battle-of-lepanto-1571-story-quality",
       "canonicalId": "battle-of-lepanto-1571",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://ejercito.defensa.gob.es/museo/HECHOS_HISTORICOS/HECHOS_HISTORICOS/10.07_octubre._LA_BATALLA_DE_LEPANTO.html?__locale=es",
@@ -318,12 +340,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Story context only; significance explicitly attributed to the museum’s account."
+      "notes": "Story context only; significance explicitly attributed to the museum’s account.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "german-democratic-republic-founded-1949-story-quality",
       "canonicalId": "german-democratic-republic-founded-1949",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/",
@@ -342,12 +366,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "don-larsen-perfect-game-1956-story-quality",
       "canonicalId": "don-larsen-perfect-game-1956",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game",
@@ -366,12 +392,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Story context only; featured image record and URL preserved."
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "first-balkan-war-begins-1912-story-quality",
       "canonicalId": "first-balkan-war-begins-1912",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://nzhistory.govt.nz/page/three-wars-three-years-1911-13",
@@ -390,12 +418,14 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "universal-postal-union-founded-1874-story-quality",
       "canonicalId": "universal-postal-union-founded-1874",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
@@ -414,12 +444,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "keplers-supernova-first-sighted-1604-story-quality",
       "canonicalId": "keplers-supernova-first-sighted-1604",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nasa.gov/history/420-years-ago-astronomer-johannes-kepler-observes-a-supernova/",
@@ -432,12 +464,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "washington-monument-opens-to-public-1888-story-quality",
       "canonicalId": "washington-monument-opens-to-public-1888",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://home.nps.gov/wamo/learn/historyculture/monumentconstruction.htm",
@@ -450,12 +484,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Story context only; featured image record and URL preserved."
+      "notes": "Story context only; featured image record and URL preserved.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "uganda-independence-1962-story-quality",
       "canonicalId": "uganda-independence-1962",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.vicepresident.go.ug/history/",
@@ -474,12 +510,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "che-guevara-executed-1967-story-quality",
       "canonicalId": "che-guevara-executed-1967",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://nsarchive.gwu.edu/briefing-book/cuba-intelligence/2020-10-09/che-guevara-cia-mountains-bolivia",
@@ -492,12 +530,14 @@
       "calendarDays": [
         "10-09"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "operation-hurricane-first-british-atomic-test-1952-story-quality",
       "canonicalId": "operation-hurricane-first-british-atomic-test-1952",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.rafmuseum.org.uk/research/research-enquiries/history-of-aviation-timeline/british-military-aviation/1952-2/",
@@ -516,12 +556,14 @@
       "calendarDays": [
         "10-03"
       ],
-      "notes": "Story context only; removed unsupported yield and later RAF deployment detail."
+      "notes": "Story context only; removed unsupported yield and later RAF deployment detail.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "madrid-protocol-signed-1991-story-quality",
       "canonicalId": "madrid-protocol-signed-1991",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://ats.aq/e/protocol.html",
@@ -534,12 +576,14 @@
       "calendarDays": [
         "10-04"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "march-on-versailles-1789-story-quality",
       "canonicalId": "march-on-versailles-1789",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://en.chateauversailles.fr/discover/history/key-dates/departure-king-1789",
@@ -558,12 +602,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "wright-flyer-iii-record-flight-1905-story-quality",
       "canonicalId": "wright-flyer-iii-record-flight-1905",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.nps.gov/articles/wright-brothers.htm",
@@ -576,12 +622,14 @@
       "calendarDays": [
         "10-05"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "moulin-rouge-opens-1889-story-quality",
       "canonicalId": "moulin-rouge-opens-1889",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.moulinrouge.fr/en/the-moulin-rouge/history/the-great-periods/",
@@ -600,12 +648,14 @@
       "calendarDays": [
         "10-06"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "stamp-act-congress-convenes-1765-story-quality",
       "canonicalId": "stamp-act-congress-convenes-1765",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.loc.gov/exhibits/magna-carta-muse-and-mentor/no-taxation-without-representation.html",
@@ -636,12 +686,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "us-strikes-afghanistan-2001-story-quality",
       "canonicalId": "us-strikes-afghanistan-2001",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2001/10/20011007-8.html",
@@ -660,12 +712,14 @@
       "calendarDays": [
         "10-07"
       ],
-      "notes": "Story context only; administration’s stated rationale is attributed to the presidential address."
+      "notes": "Story context only; administration’s stated rationale is attributed to the presidential address.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     },
     {
       "candidateId": "alvin-york-argonne-1918-story-quality",
       "canonicalId": "alvin-york-argonne-1918",
-      "reviewStatus": "source_verified",
+      "reviewStatus": "approved",
       "sourceChecks": [
         {
           "url": "https://www.cmohs.org/recipients/alvin-c-york",
@@ -684,7 +738,9 @@
       "calendarDays": [
         "10-08"
       ],
-      "notes": "Story context only."
+      "notes": "Story context only.",
+      "reviewer": "HarJev",
+      "reviewedOn": "2026-10-03"
     }
   ]
 }
