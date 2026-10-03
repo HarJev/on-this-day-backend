@@ -12,22 +12,45 @@ It is intentionally not a general history platform, CMS, search service, or
 personalization engine. The first release is designed to answer one question:
 can users build a small daily habit around one curated historical event?
 
-## Current Status
+## Current Status (2026-10-03)
 
-Implemented:
+The production API is live behind CloudFront; read-only Today and quiz-catalog
+checks passed on 2026-10-03. The Supabase production database was compared with
+canonical content after the imports and reported database.inSync=true, with no
+event, day or question drift. Deployed scheduler, alarm and budget state still
+need owner verification; see
+[Phase 0 backend readiness](docs/PHASE0_BACKEND_READINESS_2026-10-02.md).
 
-- Maven Java 21 project.
-- Plain AWS Lambda/API Gateway HTTP API edge.
-- PostgreSQL schema managed by Flyway.
-- JDBC content repositories.
-- Curated JSON validation and import tooling.
-- Initial August 22 curated content.
-- Runtime composition for Postgres-backed API handlers.
-- Device registration API for captured FCM tokens.
-- Dry-run-first manual Firebase notification sender.
-- Quiz v0.1.0 catalog, Quick Play, and Daily Challenge API handlers.
-- Initial reviewed 60-question Quiz v0.1.0 content bank.
-- API handler support for:
+Implemented in the repository:
+
+- Java 21 Lambda API, Lambda Function URL protected by CloudFront OAC, and
+  Terraform-managed production infrastructure.
+- PostgreSQL/Flyway persistence and transactional canonical event and quiz
+  importers.
+- Curated history, device registration/deletion, quiz catalog, Quick Play,
+  Daily Challenge, and idempotent scheduled-notification code.
+- Editorial review and coverage tooling, including reviewed question/event
+  links and owned-image publishing tools.
+- Minimal, safe request and notification summary logs; 14-day Lambda log
+  retention is defined in Terraform.
+
+Canonical production content verified after PR #49: 1,028 events across 218 curated dates,
+702 published quiz questions and one retired question. This is not a complete
+366-day calendar. The upcoming featured dates without images are October 24,
+November 22, December 6, December 11 and December 31.
+
+## Current Phase 0 Backend Gates
+
+- Production API reads and canonical database parity were verified on
+  2026-10-03. Recheck after future imports or infrastructure changes.
+- Verify the deployed notification Lambda, disabled/dry-run schedule, SSM
+  parameter, error alarm and budget alert before changing production settings.
+- Complete controlled Android and iOS remote-push delivery/deep-link checks;
+  production iOS APNs waits on Apple Developer provisioning.
+- Enable the recurring schedule only after device checks and explicit owner
+  go/no-go. Keep costs bounded and inspect account-wide CloudWatch usage.
+
+The API surface is:
 
 ```text
 GET /v1/health
@@ -40,15 +63,6 @@ GET /v1/quizzes/catalog
 POST /v1/quizzes/quick-play
 GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
-
-Not implemented yet:
-
-- Deployed API Gateway.
-- Scheduled Firebase notification delivery.
-- Terraform/deployment infrastructure.
-- Complete 366-day content set.
-- The remaining 180 reviewed questions planned for the complete Quiz v0.1.0
-  content target.
 
 ## Architecture Overview
 
@@ -63,14 +77,14 @@ src/main/java/com/onthisday/
   platform/      HTTP/Lambda/runtime adapters and FCM HTTP v1 adapter
 ```
 
-The main rule: domain and service code should not know about API Gateway event
-objects. AWS-specific request/response shapes stay at the `platform.lambda`
-edge.
+The main rule: domain and service code should not know about Lambda Function
+URL request shapes. AWS-specific request/response shapes stay at the
+`platform.lambda` edge.
 
 Runtime flow:
 
 ```text
-API Gateway HTTP API event
+Lambda Function URL HTTP API v2 event
 -> ApiGatewayHttpHandler
 -> ApiGatewayHttpRequestAdapter
 -> HttpRouter
@@ -98,7 +112,7 @@ content/daily-events.json
 - Java 21
 - Maven
 - AWS Lambda handler interfaces
-- API Gateway HTTP API v2 event model
+- Lambda Function URL HTTP API v2 event model
 - PostgreSQL
 - Flyway
 - JDBC
@@ -108,7 +122,7 @@ content/daily-events.json
 - Google Application Default Credentials for explicit Firebase sends
 - JUnit 5
 
-Deliberately not used:
+Not used:
 
 - Spring
 - Gradle
@@ -116,7 +130,6 @@ Deliberately not used:
 - Lombok
 - MapStruct
 - DI frameworks
-- Terraform, for now
 
 ## Repository Layout
 
@@ -360,7 +373,8 @@ codes.
 ## Quiz v0.1.0
 
 Quiz v0.1.0 is an additive expansion. Its schema, ingestion, repositories,
-selection services, HTTP API, and initial 60-question bank are implemented.
+selection services, and HTTP API are implemented. The canonical bank currently
+has 702 published questions and one retired question.
 
 The Quiz API is:
 
@@ -480,5 +494,7 @@ explicitly documented Quiz v0.1.0 expansion:
 Quiz v0.1.0 additionally excludes backend answer submission, attempt/score
 history, leaderboards, runtime AI question generation, and mutation/admin APIs.
 
-The next backend phases are EventBridge-triggered scheduling and deployment
-infrastructure. Neither is part of the local manual sender.
+The next backend work is to verify the deployed scheduled-notification state,
+complete controlled real-device push checks, and continue the reviewed content
+runway. EventBridge scheduling and production infrastructure are implemented;
+the deployed schedule remains unverified in the latest local audit.

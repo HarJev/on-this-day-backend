@@ -1,9 +1,11 @@
 # Scheduled Daily Notifications
 
-**Status (2026-10-01):** implemented and tested locally. The SSM key parameter
-may be created; the function, schedule and alarm are **not deployed**. A real
-send to a phone waits on the Apple Developer account (iOS) or an Android test
-device.
+**Status (2026-10-02):** notification code and Terraform are implemented.
+The repository config defaults to a disabled schedule and dry-run mode. The
+actual deployed Lambda, schedule, SSM parameter and alarm state could not be
+queried during the latest readiness pass; see
+`docs/PHASE0_BACKEND_READINESS_2026-10-02.md`. Real push delivery still needs
+physical-device verification, including production APNs for iOS.
 
 ## What It Does
 

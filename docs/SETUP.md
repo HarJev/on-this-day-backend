@@ -2,10 +2,11 @@
 
 ## Current State
 
-This repository has a Maven Java bootstrap, platform HTTP/Lambda edge,
-PostgreSQL/Flyway schemas, JDBC repositories, curated JSON validation/import
-tooling, content/device APIs, local AWS SAM support, and a dry-run-first manual
-notification sender:
+This guide covers local development: Maven Java, the Lambda HTTP edge,
+PostgreSQL/Flyway, JDBC repositories, curated-content tooling, local AWS SAM,
+and a dry-run-first manual notification sender. Production deployment uses a
+CloudFront-protected Lambda Function URL and Supabase; see `GO_LIVE.md` and
+`PHASE0_BACKEND_READINESS_2026-10-02.md`. The supported API routes are:
 
 ```text
 GET /v1/health
@@ -19,15 +20,19 @@ POST /v1/quizzes/quick-play
 GET /v1/quizzes/daily?timezone=Area/Location&questionCount=5|10|20
 ```
 
-It does not yet have scheduled notification delivery, Terraform/deployment
-infrastructure, or deployed API Gateway wiring.
+Production notification code and Terraform infrastructure are implemented.
+The current deployed schedule state must be checked in AWS; local SAM setup
+below does not establish production state.
+
+The local-bootstrap and architecture notes below include historical design
+choices. For the deployed topology, use `GO_LIVE.md` and the Phase 0 readiness
+handoff.
 
 ## Intended Stack
 
 - Java 21
 - Maven
-- AWS Lambda
-- API Gateway HTTP API
+- AWS Lambda Function URL behind CloudFront in production (SAM locally)
 - PostgreSQL
 - Flyway
 - JDBC
@@ -46,8 +51,9 @@ load sample curated content
 exercise Lambda handler behavior through tests or deployed AWS runtime
 ```
 
-Full AWS emulation is not required for local development. Deployment
-infrastructure is a later phase after the local backend/API loop works.
+Full AWS emulation is not required for local development. Production
+infrastructure is already present; any production changes require a reviewed
+Terraform plan and the owner's deployment approval.
 
 ## Proposed Project Shape
 

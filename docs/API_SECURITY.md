@@ -1,8 +1,9 @@
 # API Security
 
 Decision (owner, 2026-10-01): serve the API from a free Lambda **function URL**
-instead of API Gateway. This document records how that URL is protected.
-Terraform: `infra/prod/api.tf`. Nothing here is applied or deployed yet.
+instead of API Gateway. The API was read-checked on 2026-10-03; verify remaining
+AWS resource state through `docs/PHASE0_BACKEND_READINESS_2026-10-02.md`. Terraform:
+`infra/prod/api.tf`.
 
 ## What Is Exposed
 
@@ -67,36 +68,18 @@ database load on the Supabase free plan, and junk device rows.
   quota is raised. Setting it to 0 by hand is an emergency off switch.
 - **Budget alert** (`alerts.tf`, $1) and the API error alarm stay as before.
 
-## Mobile Change Needed (not made here)
+## Mobile Contract Status
 
-`lib/core/api/api_client.dart` in the mobile repo:
+The mobile client now uses the CloudFront API URL for release builds and keeps
+the local SAM override for development. POST and DELETE requests include
+`x-amz-content-sha256`, calculated over the exact transmitted body bytes. The
+live API contract was smoke-tested previously; recheck only if the API origin,
+edge configuration or request encoding changes.
 
-1. Use the `api_base_url` Terraform output (the `https://<id>.cloudfront.net`
-   address) as `ON_THIS_DAY_API_BASE_URL` for release builds. Never ship the
-   raw function URL; it refuses unsigned calls.
-2. On every `POST` and `DELETE`, send `x-amz-content-sha256` set to the
-   lowercase hex SHA-256 of the exact request body bytes (the empty string
-   for `DELETE`). Lambda rejects OAC-signed writes without it. The `crypto`
-   package is already a dependency. Encode the body once and hash and send
-   those same bytes.
+## Deployment Bootstrap (Historical)
 
-Local SAM keeps working without the header, so the change is safe to ship
-before the cloud API exists.
-
-## Owner Steps At Deploy
-
-No new deployer IAM is needed: the `on-this-day-terraform` policy already
-allows `cloudfront:*` and `lambda:*` on `on-this-day-*` functions, which covers
-the function URL, its permissions, the OAC and the distribution.
-
-1. Apply `infra/prod` with `api_lambda_zip_path`, `db_jdbc_url` and `db_user`
-   set (see `infra/prod/README.md`).
-2. In the CloudFront console, open the distribution from the
-   `api_distribution_id` output and subscribe it to the **Free** plan. Never
-   pick a paid tier.
-3. In that plan's web ACL, add a rate-based rule: block a source IP above 300
-   requests in 5 minutes (about one a second, far above one app user's
-   traffic). Start it in Count mode for a day if unsure.
-4. Smoke-test: the CloudFront `GET /v1/health` returns 200; the raw function
-   URL returns 403; a `POST /v1/devices` from a build with the header change
-   returns 200.
+The following steps describe the first deployment and are retained as a
+reference. The API is already live. Do not re-apply
+these bootstrap steps blindly. For current status and Phase 0 checks, use
+`docs/PHASE0_BACKEND_READINESS_2026-10-02.md`; verify actual AWS resources and
+review a Terraform plan before any change.

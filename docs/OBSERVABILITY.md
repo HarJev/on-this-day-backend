@@ -2,15 +2,14 @@
 
 This document covers PA7 in `implementation_plan.md` and the backend half of
 A7 in the mobile launch workplan. It describes what the backend logs, what it
-never logs, and how to read the logs locally. Alarms, dashboards, and log
-retention settings belong to the approval-gated deployment work and are not
-created here.
+never logs, and how to read the logs locally. Terraform defines 14-day Lambda
+log retention and the launch alarms; deployed resource state must be confirmed
+in AWS.
 
 ## Signals
 
 All application logs are single-line `key=value` messages on stdout. SAM local
-prints them in the terminal, and a deployed Lambda would send them to
-CloudWatch Logs.
+prints them in the terminal; deployed Lambda output goes to CloudWatch Logs.
 
 | Signal | Log line | Fields |
 | --- | --- | --- |
@@ -69,15 +68,17 @@ Useful checks:
   line naming the date.
 - Failures: any `outcome=server_error`; an unhandled one also has a `lambda_unexpected_exception` line with the same `requestId`.
 
-## Deployment Notes (Not Yet Applied)
+## Deployment And Cost Notes
 
-The project targets $0 infrastructure spend. When deployment is approved:
-
-- Set the Lambda log group retention explicitly (for example 14 days) so stored
-  logs stay small and within the free allowance.
-- Read logs with `aws logs tail` or the console log viewer. Logs Insights
-  queries, metric filters, and custom metrics can each add charges, so leave
-  them out unless the owner approves a cost.
-- Decide on alarms separately, once it is clear they can run on free
-  allowances. The notification function's one error alarm and the account
-  budget are described in `docs/NOTIFICATIONS.md`.
+- Terraform sets both Lambda log groups to 14-day retention. The API emits one
+  concise request line per request. The notification schedule runs every 15
+  minutes, so its summary is at most 96 short lines per day (2,880 per 30-day
+  month), before retries or errors. It does not log tokens, bodies, query
+  strings or secrets.
+- No extra request logging is needed for Phase 0. Avoid enabling CloudFront
+  access logs, CloudWatch Logs Insights queries, metric filters, dashboards or
+  custom metrics without checking their account-level cost first.
+- Terraform includes Lambda error alarms and an optional email budget alert.
+  Confirm whether those resources exist and whether the SNS email subscription
+  is confirmed. CloudWatch free allowances are account-wide, so this repo alone
+  cannot promise a zero bill.

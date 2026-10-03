@@ -1,10 +1,11 @@
 # Go Live: API, Push Function and Supabase
 
-Owner runbook for the first production deploy on the $0 stack: Supabase Free
-(Postgres only), the API Lambda behind a function URL and its own CloudFront
-Free-plan distribution (`docs/API_SECURITY.md`), and the notification Lambda
-with its schedule disabled and dry-run (`docs/NOTIFICATIONS.md`). Every step
-is run by the owner; nothing here has been applied.
+Owner runbook for the production API, database and scheduled notifications.
+The API is live, and read-only API checks plus production database parity were
+verified on 2026-10-03.
+This file still contains the initial deployment sequence; check
+`docs/PHASE0_BACKEND_READINESS_2026-10-02.md` before running any step, and do
+not repeat provisioning against an already-live environment.
 
 Where this disagrees with `docs/PRODUCTION_DEPLOYMENT_PLAN.md` (Supabase Pro,
 the session pooler for Lambda, API Gateway), this file and the documents above
