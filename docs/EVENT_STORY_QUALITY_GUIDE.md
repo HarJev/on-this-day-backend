@@ -12,8 +12,12 @@ batches and to audits of existing events.
 - **`summary` is the Today teaser.** One short, concrete sentence that makes
   someone want to open the event. Do not restate the whole story.
 - **`description` is the Event Detail read.** A reader should finish it having
-  learned something. Write it as one or two short paragraphs (a blank line
-  between paragraphs is rendered as written).
+  learned something. Use two short sections, separated by a blank line: first,
+  explain what happened in plain language; second, explain what led to it or
+  why it mattered, including one concrete consequence. A reader with no prior
+  background should understand who or what this is, why it happened, and why it
+  matters. Name unfamiliar people and say what they did. Keep each section to a
+  few concise sentences; do not turn an event into a long article.
 - `notificationTitle` and `notificationBody` are a separate contract. Do not
   change them while rewriting copy unless the owner asks.
 
@@ -22,17 +26,19 @@ batches and to audits of existing events.
 Before an event goes to review, its `description` should answer, with a
 directly sourced claim for each:
 
-1. **What happened**, in one plain sentence with the exact date.
-2. **Why it happened**: the situation or turning point that led here.
-3. **Why it mattered**: what changed because of it.
-4. **One concrete consequence or human detail**: a number, a place, a person,
-   a later event. Prefer something specific over a general claim of importance.
-5. **A takeaway** the reader can repeat to someone else.
+1. **What happened**, in the first section, in plain language and with the exact date.
+2. **Why it happened or mattered**, in the second section: the situation or
+   turning point that led here, what changed because of it, and one concrete
+   consequence or human detail such as a number, place, or person.
+3. **A takeaway** the reader can repeat to someone else.
+4. Check that a reader with no background can identify unfamiliar people and
+   understand why the event happened and why it matters.
 
-Scale to significance. A pivotal event may take two short paragraphs (roughly
-90 to 150 words); a lesser one may take two or three sentences. Never pad an
-obscure event to a target length. If the sources only support a short read,
-say so in the ledger rather than inventing context.
+Keep both sections short: usually a few sentences each, and never a five-
+paragraph article. Do not provide a full war, revolution, or political-history
+survey; include only the one or two facts needed to make this event intelligible.
+Never pad an obscure event to a target length. If sources only support a short
+read, say so in the ledger rather than inventing context.
 
 ## Rules For The Copy
 

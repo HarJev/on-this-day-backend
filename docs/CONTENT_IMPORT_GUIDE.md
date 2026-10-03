@@ -35,12 +35,16 @@ historical claim or answer.
 Every event also needs a story-quality review before approval: a correct date and
 a one-line fact are not enough. See
 [Event Story-Quality Guide](EVENT_STORY_QUALITY_GUIDE.md) for the teaser versus
-detail standard and the rules for sourcing added context.
+detail standard and the rules for sourcing added context. Every new event needs
+an exact, supported date, a concise Today teaser, and a two-part Event Detail:
+the first short section states what happened; the second explains what led to
+it or why it mattered, with a concrete consequence. Check that a reader with no
+background can identify unfamiliar people and understand why the event happened
+and why it matters.
 
-Apply that same standard when updating an existing event: do not leave its
-detail as a single factual sentence when the sources can support a concise
-account of the circumstances, significance, and a concrete consequence. Keep
-the copy proportionate and do not pad. Directly open each source, add a source
+Apply that same standard when updating an existing event. Keep both Event Detail
+sections to a few sentences; do not expand a story into a long article or pad it.
+Directly open each source, add a source
 record for every new factual claim, and record dated checks in the editorial
 ledger. A changed story returns to `source_verified` until a named reviewer
 approves it. Preserve the event ID, title, summary, dates, image records and
