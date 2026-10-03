@@ -1,0 +1,698 @@
+{
+  "schemaVersion": 1,
+  "batchId": "2026-10-03-09-content-refresh",
+  "entries": [
+    {
+      "candidateId": "german-reunification-1990-story-refresh",
+      "canonicalId": "german-reunification-1990",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/topic/German-reunification",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Britannica supports reunification on October 3. The German Federal Government source supplies the distinct September 29 treaty-effective date."
+        },
+        {
+          "url": "https://www.bundesregierung.de/breg-de/schwerpunkte/deutsche-einheit/einigungsvertrag-353990",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "German Federal Government: the treaty entered into force on September 29, 1990, and set GDR accession under the Basic Law for October 3."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "contemporary",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Owner approved the corrected October 3 accession date; treaty took effect September 29. Featured image metadata and URL are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "sputnik-1-launched-1957-story-refresh",
+      "canonicalId": "sputnik-1-launched-1957",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Office of the Historian: Sputnik surprised U.S. experts and citizens, intensified the arms race, led Eisenhower to direct more resources to space, and preceded Explorer 1's January 31, 1958 launch."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "asia",
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Story detail rewritten after prior owner approval; owner approved the updated story on 2026-10-03. Existing featured image record and URL were retained.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "beatles-love-me-do-1962-story-refresh",
+      "canonicalId": "beatles-love-me-do-1962",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.thebeatles.com/love-me-do",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official Beatles page supports the October 5, 1962 first single and its release details."
+        },
+        {
+          "url": "https://www.thebeatles.com/beatles-anthology-0",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official Anthology account: other labels rejected the group before Parlophone/George Martin; the single reached number 17 and brought national radio airplay; sessions in June and September used different drummers, including Andy White on September 11."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Story detail expanded with the group's recording path, the single's radio and chart impact, and the sessions that produced the released version. Existing featured image record and URL retained.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "first-exoplanet-announced-1995-story-refresh",
+      "canonicalId": "first-exoplanet-announced-1995",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.unige.ch/medias/en/2025/la-premiere-exoplanete-etait-decouverte-il-y-30-ans-lunige",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Prior approved source supports the announcement date, discovery at Florence, 51 Pegasi b, and the later Nobel award."
+        },
+        {
+          "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UNIGE: Mayor and Queloz measured an object circling its star in 4.2 days, confirmed their observations before announcing the first exoplanet, and describe the field's continuing research."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Story detail rewritten after prior owner approval; owner approved the updated story on 2026-10-03. Existing featured image record and URL were retained.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "klm-founded-1919-story-refresh",
+      "canonicalId": "klm-founded-1919",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.klm.com/information/corporate/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "KLM official history: Queen Wilhelmina granted the Royal title in advance; Plesman managed the company; scheduled service began May 17, 1920 on London-Amsterdam with two journalists, a mayor's letter and newspapers; later service reached the Dutch East Indies; KLM retains its original name."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Story detail expanded with KLM's royal title, first scheduled route and later network growth. Existing featured image record and URL retained; the route also supports the linked quiz question.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "don-larsen-perfect-game-1956-story-refresh",
+      "canonicalId": "don-larsen-perfect-game-1956",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.britannica.com/biography/Don-Larsen",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Prior approved source supports the date, teams, 27 batters, and unique World Series record."
+        },
+        {
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "National Baseball Hall of Fame: Game 5 was a 97-pitch perfect game; Berra caught the final strike and embraced Larsen; the Yankees won the Series in seven games; Larsen had been knocked out early three days before."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Story detail rewritten after prior owner approval; owner approved the updated story on 2026-10-03. Existing featured image record and URL were retained.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "universal-postal-union-founded-1874-story-refresh",
+      "canonicalId": "universal-postal-union-founded-1874",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UPU history: the Treaty of Bern established the General Postal Union, unified postal services into a single territory for reciprocal letter exchange, and the name changed to Universal Postal Union in 1878."
+        },
+        {
+          "url": "https://blog.nationalmuseum.ch/en/2024/10/the-story-of-the-universal-postal-union/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-09-27",
+          "note": "Prior approved Swiss National Museum source supports the 1874 founding, Bern, original name, 22 participating countries, and cross-border postal territory."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Story detail rewritten after prior owner approval; owner approved the updated story on 2026-10-03. Existing featured image record and URL were retained.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "iraq-joins-league-of-nations-1932-story-refresh",
+      "canonicalId": "iraq-joins-league-of-nations-1932",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/countries/iraq",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "U.S. Office of the Historian states Iraq terminated its mandate status in 1932 and describes its prior treaty relationship under British protection."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Expanded additional-event detail; existing image record retained, rights were not re-reviewed. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "washington-thanksgiving-proclamation-1789-story-refresh",
+      "canonicalId": "washington-thanksgiving-proclamation-1789",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://founders.archives.gov/documents/Washington/05-04-02-0091",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Washington's original proclamation says Congress's joint committee requested the recommendation and cites the peaceful establishment of government as a reason for thanksgiving."
+        },
+        {
+          "url": "https://www.archives.gov/legislative/features/thanksgiving",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "National Archives states that Congress fixed the federal Thanksgiving date in 1941."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "portugal-republic-proclaimed-1910-story-refresh",
+      "canonicalId": "portugal-republic-proclaimed-1910",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.museu.presidencia.pt/pt/conhecer/simbolos-nacionais/implantacao-da-republica/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Presidential museum history says fighting began in Lisbon October 4 and the Republic was proclaimed from City Hall on October 5."
+        },
+        {
+          "url": "https://www.parlamento.pt/Parlamento/Paginas/120A-Sessoes-IRepublica.aspx",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Portuguese Assembly history says a provisional government followed the revolution and initially sought to remove monarchical symbols and reduce the Church's influence."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "bulgaria-declares-independence-1908-story-refresh",
+      "canonicalId": "bulgaria-declares-independence-1908",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://gov.bg/index.php/en/About-Bulgaria/HISTORY/tabsss1",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Bulgarian Council of Ministers states Ferdinand's manifesto proclaimed independence and ended the dependent status imposed by the Berlin Treaty."
+        },
+        {
+          "url": "https://history.state.gov/countries/bulgaria",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "U.S. Office of the Historian confirms the October 5 independence and Ferdinand's adoption of the Tsar title."
+        },
+        {
+          "url": "https://history.state.gov/historicaldocuments/frus1908/d45",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Contemporary Bulgarian diplomatic note explicitly dates the proclamation September 22 (October 5), old/new calendar style."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged. October 5 is the Gregorian date; September 22 is Julian.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "monty-python-first-broadcast-1969-story-refresh",
+      "canonicalId": "monty-python-first-broadcast-1969",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.montypython.com/tvshow_Monty%20Python's%20Flying%20Circus,%20Series%201/14",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official Monty Python episode guide supports the October 5, 1969 premiere, sketches, and animations; unsupported rejected-as-too-silly claim removed."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Expanded additional-event detail; this event has no image record.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "yom-kippur-war-begins-1973-story-refresh",
+      "canonicalId": "yom-kippur-war-begins-1973",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://apnews.com/article/e89f85b4503e008c52b48314670899b6",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Associated Press directly opened: Egypt and Syria launched a surprise attack on Israeli forces in Sinai and Golan during Yom Kippur; the war lasted nearly three weeks."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "anwar-sadat-assassinated-1981-story-refresh",
+      "canonicalId": "anwar-sadat-assassinated-1981",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://apnews.com/article/92a2601a4edcc94d64133a4e951271df",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Associated Press directly opened: on October 6, 1981, Egyptian President Anwar Sadat was shot to death by Egyptian Islamic Jihad members while reviewing a military parade."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "middle-east"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "project-mercury-approved-1958-story-refresh",
+      "canonicalId": "project-mercury-approved-1958",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.nasa.gov/history/40thmerc7/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "NASA states the program aimed to orbit a human spacecraft, test human performance, and safely recover astronaut and spacecraft; it says Mercury proved human spaceflight possible and paved the way for Gemini and Apollo."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "space-age"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "german-democratic-republic-founded-1949-story-refresh",
+      "canonicalId": "german-democratic-republic-founded-1949",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/geschichtsgalerien/doppelte-staatsgruendung-1949/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "German Federal Archives documents the FRG's May 1949 formation followed by the GDR in October and states that four decades passed before reunification."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "great-chicago-fire-1871-story-refresh",
+      "canonicalId": "great-chicago-fire-1871",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.chicagohistory.org/how-disaster-shaped-the-modern-city/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Chicago History Museum documents the fire's area, buildings, displaced residents, and deaths, plus rebuilding, fire-resistant rules, steel construction, and the Home Insurance Building."
+        }
+      ],
+      "imageRightsStatus": "verified",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Expanded additional-event detail; retained the existing image record and URL without re-reviewing rights. Image rights were previously approved in editorial/batches/2026-10-02-08-historical-events/review-ledger.json; image metadata and URLs are unchanged.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "washington-thanksgiving-first-date",
+      "canonicalId": "washington-thanksgiving-first-date",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.archives.gov/legislative/features/thanksgiving",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "National Archives: Washington named Thursday, November 26, 1789; the date varied in later years until Congress fixed the federal holiday in 1941."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "early-modern"
+      ],
+      "calendarDays": [
+        "10-03"
+      ],
+      "notes": "Draft question; direct National Archives source opened and checked for the answer and teaching explanation. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "sputnik-intensifies-two-races",
+      "canonicalId": "sputnik-intensifies-two-races",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://history.state.gov/milestones/1953-1960/sputnik",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "U.S. Office of the Historian states Sputnik fueled both the space race and the arms race while increasing Cold War tensions."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "space-age",
+        "cold-war"
+      ],
+      "calendarDays": [
+        "10-04"
+      ],
+      "notes": "Draft true/false question; direct U.S. Department of State source opened. It adds consequence context beyond the existing ordering question. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "love-me-do-b-side",
+      "canonicalId": "love-me-do-b-side",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.thebeatles.com/ps-i-love-you",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "Official Beatles page identifies “P.S. I Love You” as the B-side of the “Love Me Do” debut single, released October 5, 1962."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-05"
+      ],
+      "notes": "Draft multiple-choice question; direct official Beatles song page opened. It tests the B-side fact rather than repeating the existing band-origin prompt. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "51-pegasi-orbit-period",
+      "canonicalId": "51-pegasi-orbit-period",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.unige.ch/sciences/astro/nobel2019/en/la-decouverte",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UNIGE astronomy department states that Mayor and Queloz measured a stellar object circling its star in 4.2 days before confirming the discovery."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe",
+        "global"
+      ],
+      "eras": [
+        "contemporary"
+      ],
+      "calendarDays": [
+        "10-06"
+      ],
+      "notes": "Draft multiple-choice question; direct University of Geneva source opened. It adds an observational detail beyond the existing exoplanet definition. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "klm-first-scheduled-route",
+      "canonicalId": "klm-first-scheduled-route",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.klm.com/information/corporate/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "KLM's official history: its May 17, 1920 inaugural flight began scheduled service between London and Amsterdam."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "europe"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-07"
+      ],
+      "notes": "Draft multiple-choice question; direct KLM history page opened. It tests the first route rather than repeating the founding country. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "larsen-perfect-game-catcher",
+      "canonicalId": "larsen-perfect-game-catcher",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://baseballhall.org/discover/inside-pitch/larsen-perfect-game",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "National Baseball Hall of Fame says catcher Yogi Berra received Larsen after the last strikeout and identifies the mitt used in the game."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "americas"
+      ],
+      "eras": [
+        "1945-present"
+      ],
+      "calendarDays": [
+        "10-08"
+      ],
+      "notes": "Draft multiple-choice question; direct Hall of Fame source opened. It adds the catcher and human moment rather than repeating the perfect-game definition. Owner-approved for publication.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    },
+    {
+      "candidateId": "upu-original-name",
+      "canonicalId": "upu-original-name",
+      "reviewStatus": "approved",
+      "sourceChecks": [
+        {
+          "url": "https://www.upu.int/en/universal-postal-union/about-upu/history",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "UPU history states that the 1874 Treaty of Bern established the General Postal Union and that the name changed in 1878."
+        },
+        {
+          "url": "https://www.itu.int/160/our-history/1865-1890s/",
+          "status": "verified_supporting",
+          "checkedOn": "2026-10-03",
+          "note": "International Telegraph Union is a real contemporary organization, used here as a distractor."
+        }
+      ],
+      "imageRightsStatus": "not_applicable",
+      "regions": [
+        "global"
+      ],
+      "eras": [
+        "1800-1945"
+      ],
+      "calendarDays": [
+        "10-09"
+      ],
+      "notes": "Owner-approved multiple-choice question. Distractors use real contemporaneous organization, conference, and later UPU name.",
+      "reviewer": "Jevaun Harris (final corrections delegated to Codex)",
+      "reviewedOn": "2026-10-03"
+    }
+  ]
+}

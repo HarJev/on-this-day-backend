@@ -37,6 +37,16 @@ a one-line fact are not enough. See
 [Event Story-Quality Guide](EVENT_STORY_QUALITY_GUIDE.md) for the teaser versus
 detail standard and the rules for sourcing added context.
 
+Apply that same standard when updating an existing event: do not leave its
+detail as a single factual sentence when the sources can support a concise
+account of the circumstances, significance, and a concrete consequence. Keep
+the copy proportionate and do not pad. Directly open each source, add a source
+record for every new factual claim, and record dated checks in the editorial
+ledger. A changed story returns to `source_verified` until a named reviewer
+approves it. Preserve the event ID, title, summary, dates, image records and
+URLs, featured/additional assignments, and notification copy unless the owner
+explicitly requests those fields to change.
+
 Every event and question needs at least one direct source. Verify that each
 source supports the claim and explanation, not merely the broad subject.
 Images are optional, but every included image needs its direct rendition URL,
